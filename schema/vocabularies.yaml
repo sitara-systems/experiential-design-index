@@ -1,0 +1,121 @@
+# Controlled vocabularies for The Experiential Design Index.
+# All enum-valued fields in data/ must use values defined here.
+# Adding a value is a deliberate editorial act — extend via PR with rationale.
+
+# The role a firm played on a project (a project credits the full delivery
+# stack; a firm record lists the roles it offers). One firm may hold multiple
+# roles on one project.
+roles:
+  - id: architecture
+    label: Architecture
+    note: Building or interior architecture of record
+  - id: master-planning
+    label: Master Planning
+    note: Campus / venue / visitor-experience master planning
+  - id: exhibit-design
+    label: Exhibit Design
+    note: Exhibition and environment design (spatial, interpretive layout)
+  - id: interpretive-planning
+    label: Interpretive Planning
+    note: Content strategy, narrative, and interpretive frameworks
+  - id: media-design
+    label: Media Design & Software
+    note: Interactive experiences, custom software, real-time media systems
+  - id: content-production
+    label: Content Production
+    note: Film, video, audio, and linear media production
+  - id: av-integration
+    label: AV Integration
+    note: Audiovisual systems engineering, integration, and installation
+  - id: fabrication
+    label: Fabrication
+    note: Exhibit fabrication, casework, mounts, scenic construction
+  - id: lighting-design
+    label: Lighting Design
+  - id: graphics-wayfinding
+    label: Environmental Graphics & Wayfinding
+  - id: technical-consulting
+    label: Technical Consulting / Owner's Representation
+    note: Technology master planning, owner's-side technical oversight
+
+# Project type — a proxy for scope and scale, from ground-up construction
+# down to a single installation.
+project_types:
+  - id: new-building
+    label: New Building
+    note: Ground-up building or new wing, including its experiential program
+  - id: major-renovation
+    label: Major Renovation
+    note: Building-scale renovation or full venue re-imagining
+  - id: new-exhibition
+    label: New Exhibition
+    note: New permanent exhibition or gallery within an existing venue
+  - id: exhibition-refresh
+    label: Exhibition Refresh
+    note: Substantial update of an existing exhibition
+  - id: temporary-exhibition
+    label: Temporary Exhibition
+    note: Limited-run exhibition
+  - id: traveling-exhibition
+    label: Traveling Exhibition
+  - id: installation
+    label: Installation
+    note: Single standalone experience, media piece, or interactive
+
+# Firm activity status — evidence-based, always dated (see editorial policy).
+firm_statuses:
+  - id: active
+    label: Active
+    note: >
+      Public evidence of activity within the last 3 years: a completed or
+      announced project, award entry, hiring, publications, or substantive
+      website/press activity. Basis and verification date recorded on the
+      firm record.
+  - id: unclear
+    label: Activity Unclear
+    note: >
+      No public evidence of activity found within the last 3 years, but no
+      confirmation the firm has closed. Displayed prominently, not hidden.
+  - id: inactive
+    label: Inactive
+    note: >
+      Confirmed closed, merged, or absorbed — or no public activity for 5+
+      years. Records are kept (the historical credits remain part of the
+      record); successor firm linked where known.
+
+# Venue type.
+venue_types:
+  - id: art-museum
+    label: Art Museum
+  - id: science-center
+    label: Science Center / Science Museum
+  - id: natural-history-museum
+    label: Natural History Museum
+  - id: history-museum
+    label: History / Heritage Museum
+  - id: childrens-museum
+    label: Children's Museum
+  - id: aquarium-zoo
+    label: Aquarium / Zoo
+  - id: library-archive
+    label: Library / Archive
+  - id: cultural-center
+    label: Cultural Center / Performing Arts
+  - id: visitor-center
+    label: Visitor Center
+  - id: briefing-center
+    label: Executive Briefing Center
+  - id: brand-experience-center
+    label: Brand Experience Center
+  - id: corporate-museum
+    label: Corporate Museum / Heritage Center
+  - id: retail-flagship
+    label: Retail Flagship
+  - id: sports-venue
+    label: Sports Venue / Hall of Fame
+  - id: themed-attraction
+    label: Themed Attraction / Immersive Venue
+  - id: public-space
+    label: Public Space / Placemaking
+  - id: other
+    label: Other

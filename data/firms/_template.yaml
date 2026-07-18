@@ -1,0 +1,24 @@
+# Firm record template — copy to <firm-id>.yaml and fill in.
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: example-firm            # stable kebab-case slug, matches filename
+name: Example Firm
+aka: []                     # former names, abbreviations
+website: https://example.com
+hq:
+  city: Philadelphia
+  state: PA
+other_offices: []
+founded: 2005
+roles:                      # from vocabularies.yaml roles
+  - exhibit-design
+  - media-design
+status: active              # active | unclear | inactive
+status_basis: "Completed <project> (2025); SEGD award entry (2026)"
+status_verified: 2026-07-18
+# successor: other-firm-id  # only if merged/absorbed
+summary: >
+  Example Firm is a Philadelphia-based exhibit design and interactive media
+  studio working primarily with science centers and children's museums.
+sources:
+  - https://example.com/about

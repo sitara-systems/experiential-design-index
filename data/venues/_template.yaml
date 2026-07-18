@@ -1,0 +1,12 @@
+# Venue record template — copy to <venue-id>.yaml and fill in.
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: example-museum
+name: Example Museum of Science
+venue_type: science-center   # from vocabularies.yaml venue_types
+location:
+  city: Denver
+  state: CO
+# operator: Example Foundation   # if distinct from the venue name
+website: https://example-museum.org
+sources: []
