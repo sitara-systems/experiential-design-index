@@ -1,0 +1,20 @@
+id: columbia-brain-index
+name: The Brain Index
+venue: jerome-l-greene-science-center
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: av-c
+    role: media-design
+technologies:
+  - data visualization
+  - interactive display wall
+summary: >
+  The Brain Index, a large-scale interactive data-visualization installation
+  in the public lobby of Columbia University's Jerome L. Greene Science
+  Center in New York, opened in 2016; conceived by Laura Kurgan and Mark
+  Hansen of the Center for Spatial Research with media integration by AV&C.
+description: ""
+sources:
+  - https://c4sr.columbia.edu/news/brain-index-opens-new-jerome-l-greene-science-center
+  - https://www.av-controls.com/synapse

@@ -1,0 +1,25 @@
+id: brooklyn-bridge-park-janes-carousel
+name: Jane's Carousel Pavilion Show Control
+venue: janes-carousel
+project_type: installation
+year_completed: 2011
+credits:
+  - firm: av-c
+    role: media-design
+    note: "Show control system driving the nightly shadow-play light show"
+  - firm: ateliers-jean-nouvel
+    role: architecture
+    note: "Glass pavilion architect; no firm record yet"
+technologies:
+  - show control
+  - projected light / shadow play
+summary: >
+  Jane's Carousel, a restored 1922 carousel housed in an acrylic pavilion by
+  Ateliers Jean Nouvel at Brooklyn Bridge Park, opened in 2011; AV&C
+  designed and installed the show-control system that turns the pavilion
+  into an hourly shadow-play light show visible from both sides of the
+  East River.
+description: ""
+sources:
+  - https://www.av-controls.com/janes-carousel-gallery
+  - https://brooklynbridgepark.org/places-to-see/janes-carousel/

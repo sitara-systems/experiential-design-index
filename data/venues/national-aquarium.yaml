@@ -1,0 +1,9 @@
+id: national-aquarium
+name: National Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Baltimore
+  state: MD
+website: https://aqua.org
+sources:
+  - https://aqua.org/contact-us/newsroom/press-releases/2024-08-08-national-aquarium-unveils-harbor-wetland-exhibit-recalling-chesapeake-bay-habitat-to-inner-harbor

@@ -117,5 +117,16 @@ venue_types:
     label: Themed Attraction / Immersive Venue
   - id: public-space
     label: Public Space / Placemaking
+  - id: botanical-garden
+    label: Botanical Garden / Arboretum
+  - id: design-museum
+    label: Design / Architecture Museum
+    note: Museums whose subject is design, architecture, or the built environment (e.g. Cooper Hewitt, National Building Museum)
+  - id: academic-institution
+    label: Academic / Research Institution
+    note: University buildings, research centers, and campus spaces with public-facing experiential installations
+  - id: healthcare-institution
+    label: Healthcare Institution
+    note: Hospitals and medical institutions with public-facing experiential installations
   - id: other
     label: Other

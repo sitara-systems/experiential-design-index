@@ -21,6 +21,12 @@ for inclusion. Firms are added because their work belongs in the record.
 Non-US firms credited on US projects appear in credits and receive records as
 coverage expands.
 
+**Venue scope:** the index covers designed experiences in public cultural
+destinations (museums, science centers, attractions) and in institutional
+settings — academic, healthcare, corporate, and civic spaces with
+public-facing experiential installations. A venue does not need to be a
+standalone public destination for its projects to be part of the record.
+
 ## Activity status (active vs. inactive firms)
 
 Every firm record carries an evidence-based activity status — `active`,
@@ -54,7 +60,37 @@ disclosure inline.
 
 ## Ranked lists
 
-*Reserved.* No ranked list is published until a ranking methodology is
-documented here. When published, the methodology will be public, criteria-based,
-and reproducible from the data, and lists including the publisher will carry
-the disclosure above.
+*Methodology adopted 2026-07-18 (v1).*
+
+Ranked lists are published **per delivery-stack role** ("Top Exhibit Design
+Firms," "Top AV Integration Firms," …) — never as a single cross-role master
+ranking. The roles in the schema vocabulary describe different crafts serving
+different buyer decisions; ranking an architecture firm against a fabrication
+shop would manufacture a comparison that doesn't exist in practice.
+
+Scores are computed **entirely from the open dataset by the formula below**,
+with no subjective or reputational input, so any reader can reproduce any
+list from the published data:
+
+- **Eligible work:** completed projects only (`status: completed`), with
+  `year_completed` in the trailing five years. Announced and in-progress
+  work appears in the index but never counts toward a score.
+- **Recency-weighted count:** each eligible project where the firm holds the
+  list's role scores 1.0 if completed this year or last, 0.75 if 2–3 years
+  ago, 0.5 if 4–5 years ago.
+- **Sourcing bonus:** +0.1 per project (capped at +0.5 per firm) for
+  projects corroborated by independent sources — meaning at least two
+  distinct source domains not operated by the credited firm.
+- **Ties** are broken by most recent `status_verified` date — never by
+  editorial discretion.
+- **Minimum depth:** a role receives a ranked list only once at least 8
+  firms show eligible activity in it. Below that, we publish an unranked
+  "Firms Working In [Role]" roundup instead — a small dataset ranked is a
+  false signal.
+
+Weights and thresholds may be revised as the dataset grows; every revision
+to this policy is recorded in the repository's history.
+
+**Self-inclusion:** every list runs the same formula against the same open
+data, including the publisher's own record, and carries the disclosure above
+inline whether or not Sitara Systems places on it.

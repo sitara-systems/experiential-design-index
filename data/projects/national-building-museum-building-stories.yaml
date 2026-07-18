@@ -1,0 +1,29 @@
+id: national-building-museum-building-stories
+name: Building Stories
+venue: national-building-museum
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: plus-and-greater-than
+    role: exhibit-design
+  - firm: plus-and-greater-than
+    role: interpretive-planning
+  - firm: av-c
+    role: av-integration
+  - firm: southside-design-build
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - projection
+  - interactive stations
+summary: >
+  Building Stories, a 4,000-square-foot long-term exhibition exploring
+  architecture and design through children's books, opened at the National
+  Building Museum in Washington, DC on January 21, 2024; exhibition and
+  interpretive design by Plus And Greater Than, curated by Leonard Marcus,
+  with AV integration by AV&C.
+description: ""
+sources:
+  - https://nbm.org/building-stories-exhibition-inspired-by-beloved-childrens-books-opens-at-the-national-building-museum/
+  - https://www.plusandgreaterthan.com/projects/building-stories
+  - https://washingtonian.com/2024/01/19/inside-the-national-building-museums-new-exhibit-on-childrens-books/

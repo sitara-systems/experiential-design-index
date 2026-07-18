@@ -1,0 +1,10 @@
+id: janes-carousel
+name: Jane's Carousel
+venue_type: public-space
+location:
+  city: Brooklyn
+  state: NY
+operator: Brooklyn Bridge Park
+website: https://janescarousel.com
+sources:
+  - https://brooklynbridgepark.org/places-to-see/janes-carousel/

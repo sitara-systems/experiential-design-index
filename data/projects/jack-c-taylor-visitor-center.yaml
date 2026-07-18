@@ -1,0 +1,25 @@
+id: jack-c-taylor-visitor-center
+name: Jack C. Taylor Visitor Center
+venue: missouri-botanical-garden
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: ayers-saint-gross
+    role: architecture
+  - firm: arbolope-studio
+    role: architecture
+    note: "St. Louis local design partner (no firm record yet)"
+  - firm: michael-vergason-landscape-architects
+    role: master-planning
+    note: "Landscape architecture (no firm record yet)"
+technologies: []
+summary: >
+  The Jack C. Taylor Visitor Center, a new gateway building for the Missouri
+  Botanical Garden in St. Louis, opened in August 2022; designed by Ayers
+  Saint Gross with St. Louis-based local partner Arbolope Studio and
+  landscape architecture by Michael Vergason Landscape Architects.
+description: ""
+sources:
+  - https://ayerssaintgross.com/portfolio/missouri-botanical-garden-visitor-center/
+  - https://www.missouribotanicalgarden.org/plan-your-visit/top-attractions/jack-c-taylor-visitor-center
+  - https://segd.org/projects/missouri-botanical-garden-jack-c-taylor-center/

@@ -1,0 +1,9 @@
+id: national-building-museum
+name: National Building Museum
+venue_type: design-museum
+location:
+  city: Washington
+  state: DC
+website: https://nbm.org
+sources:
+  - https://nbm.org/building-stories-exhibition-inspired-by-beloved-childrens-books-opens-at-the-national-building-museum/

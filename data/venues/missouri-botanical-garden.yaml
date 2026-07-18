@@ -1,0 +1,9 @@
+id: missouri-botanical-garden
+name: Missouri Botanical Garden
+venue_type: botanical-garden
+location:
+  city: St. Louis
+  state: MO
+website: https://www.missouribotanicalgarden.org
+sources:
+  - https://www.missouribotanicalgarden.org/plan-your-visit/top-attractions/jack-c-taylor-visitor-center
