@@ -1,0 +1,11 @@
+id: princeton-university-firestone-library
+name: Firestone Library (Ellen and Leonard Milberg Gallery), Princeton University
+venue_type: academic-institution
+location:
+  city: Princeton
+  state: NJ
+operator: Princeton University Library
+website: https://library.princeton.edu/firestone
+sources:
+  - https://library.princeton.edu/firestone
+  - https://library.princeton.edu/news/general/2020-02-13/puls-upcoming-exhibition-piranesi-page-reveals-art-architects-books

@@ -1,0 +1,11 @@
+id: jimmy-carter-library-and-museum
+name: Jimmy Carter Library and Museum
+venue_type: history-museum
+location:
+  city: Atlanta
+  state: GA
+operator: National Archives and Records Administration
+website: https://www.jimmycarterlibrary.gov/
+sources:
+  - https://en.wikipedia.org/wiki/Jimmy_Carter_Library_and_Museum
+  - https://www.jimmycarterlibrary.gov/

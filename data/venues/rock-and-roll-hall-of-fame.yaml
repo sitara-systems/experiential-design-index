@@ -1,0 +1,9 @@
+id: rock-and-roll-hall-of-fame
+name: Rock & Roll Hall of Fame
+venue_type: history-museum
+location:
+  city: Cleveland
+  state: OH
+website: https://rockhall.com
+sources:
+  - https://rockhall.com/expansion/

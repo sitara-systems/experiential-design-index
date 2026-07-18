@@ -1,0 +1,10 @@
+id: renwick-gallery
+name: Renwick Gallery
+venue_type: art-museum
+location:
+  city: Washington
+  state: DC
+operator: Smithsonian American Art Museum
+website: https://americanart.si.edu/visit/renwick
+sources:
+  - https://www.si.edu/newsdesk/releases/renwick-gallery-opens-nov-13-after-major-renovation-its-national-historic-landmark-building

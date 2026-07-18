@@ -1,0 +1,10 @@
+id: lucy-burns-museum
+name: Lucy Burns Museum
+venue_type: history-museum
+location:
+  city: Lorton
+  state: VA
+operator: Workhouse Arts Center
+website: https://workhousearts.org/lucy-burns-museum/
+sources:
+  - https://workhousearts.org/lucy-burns-museum/

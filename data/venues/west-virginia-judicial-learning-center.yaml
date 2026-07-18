@@ -1,0 +1,11 @@
+id: west-virginia-judicial-learning-center
+name: West Virginia Judicial Learning Center
+venue_type: other
+location:
+  city: Charleston
+  state: WV
+operator: Supreme Court of Appeals of West Virginia
+website: https://www.courtswv.gov/public-resources/learning-center
+sources:
+  - https://www.courtswv.gov/public-resources/learning-center
+  - https://wvrecord.com/stories/652863612-w-va-supreme-court-opens-judicial-learning-center

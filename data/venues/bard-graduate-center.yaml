@@ -1,0 +1,9 @@
+id: bard-graduate-center
+name: Bard Graduate Center Gallery
+venue_type: design-museum
+location:
+  city: New York
+  state: NY
+website: https://www.bgc.bard.edu/gallery
+sources:
+  - https://www.bgc.bard.edu/gallery/

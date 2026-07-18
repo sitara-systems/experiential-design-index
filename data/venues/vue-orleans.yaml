@@ -1,0 +1,10 @@
+id: vue-orleans
+name: Vue Orleans
+venue_type: themed-attraction
+location:
+  city: New Orleans
+  state: LA
+website: https://vueorleans.com
+sources:
+  - https://vueorleans.com/
+  - https://www.nola.com/entertainment_life/article_725d0e74-94da-11ec-9e42-fbf232f9c33c.html

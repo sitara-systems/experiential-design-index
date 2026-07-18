@@ -1,0 +1,11 @@
+id: national-music-museum
+name: National Music Museum
+venue_type: other   # vocab gap: no venue_type for musical-instrument museums; closest existing categories (art-museum, history-museum) don't fit — logged for editorial review
+location:
+  city: Vermillion
+  state: SD
+operator: University of South Dakota
+website: https://www.nmmusd.org
+sources:
+  - https://www.nmmusd.org
+  - https://www.usd.edu/Academics/Colleges-and-Schools/college-of-fine-arts/National-Music-Museum

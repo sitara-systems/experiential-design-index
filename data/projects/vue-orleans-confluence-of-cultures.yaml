@@ -1,0 +1,50 @@
+id: vue-orleans-confluence-of-cultures
+name: "Confluence of Cultures"
+venue: vue-orleans
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: cambridgeseven
+    role: architecture
+    note: "Exhibit design and architecture."
+  - firm: cortina-productions
+    role: media-design
+    note: >
+      Digital exhibit media: touchless/gesture interactives, AI facial
+      tracking, transparent displays, large-scale LED walls, multi-user
+      game-based interactives, an immersive theater, and augmented viewers.
+  - firm: 1220-fabrication
+    role: fabrication
+    note: "Exhibit fabrication and AV systems integration."
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: "No firm record yet (Vancouver, BC headquartered)."
+  - firm: electrosonic
+    role: av-integration
+    note: "AV integration for the elevator experience."
+technologies:
+  - touchless interactives
+  - gesture tracking
+  - facial tracking
+  - LED wall
+  - immersive theater
+  - augmented viewers
+summary: >
+  Confluence of Cultures, a suite of digital exhibits exploring New Orleans'
+  history and culture, opened in March 2022 as part of the Vue Orleans
+  observation-deck attraction atop the Four Seasons tower in New Orleans;
+  exhibit design and architecture by Cambridge Seven Associates, with
+  interactive media by Cortina Productions.
+description: >
+  The Confluence of Cultures exhibits include the "Do You NOLA" digital
+  interactive wall of city trivia, a personal-stories interactive on figures
+  from 18th- and 19th-century New Orleans, the Story Café interactive
+  featuring on-camera hosts preparing signature NOLA dishes, and the "Rising
+  Up" multi-screen film on the city's free Black community, narrated by
+  Henry Louis Gates Jr.
+sources:
+  - https://www.cortinaproductions.com/vue-orleans-experience-opens/
+  - https://www.cortinaproductions.com/projects/vue-orleans/
+  - https://vueorleans.com/
+  - https://www.nola.com/entertainment_life/article_725d0e74-94da-11ec-9e42-fbf232f9c33c.html
+  - https://www.commarts.com/content/files/competitions/2023%20IA%20Shortlist.pdf

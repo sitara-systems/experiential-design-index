@@ -1,0 +1,9 @@
+id: jacksonville-music-heritage-garden
+name: Music Heritage Garden (St. Johns River, near Jacksonville Symphony)
+venue_type: public-space
+location:
+  city: Jacksonville
+  state: FL
+operator: Jacksonville Downtown Investment Authority
+sources:
+  - https://www.theurbanconga.com/projects/a-cappella

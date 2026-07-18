@@ -1,0 +1,35 @@
+id: intel-museum-xr-fab-tour
+name: Intel XR Fab Tour
+venue: intel-museum
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: stimulant
+    role: media-design
+    note: >
+      No firm record yet. Sliding-rail augmented-reality display with eight
+      animated 3D vignettes explaining Intel's chip-fabrication process,
+      plus a Microsoft HoloLens 2 mixed-reality mode for up to 8 simultaneous
+      visitors.
+  - firm: invisible-thread
+    role: content-production
+    note: "No firm record yet. 3D animation and development."
+  - firm: john-murray-productions
+    role: fabrication
+    note: "No firm record yet."
+technologies:
+  - augmented reality
+  - mixed reality (HoloLens 2)
+  - real-time 3D rendering
+summary: >
+  Intel XR Fab Tour, an augmented- and mixed-reality exhibit at the Intel
+  Museum in Santa Clara, CA explaining Intel's chip-fabrication process,
+  opened in 2023 with design and engineering by Stimulant and animation by
+  Invisible Thread.
+description: ""
+sources:
+  - https://www.stimulant.com/work/intel-fab-xr-virtual-tour
+  - https://www.commarts.com/project/36289/intel-xr-fab-tour
+  - https://www.stimulant.com/news/new-project-interactive-exhibits-at-the-intel-museum
+  - http://web.archive.org/web/20231205121750/https://www.stimulant.com/news/new-project-interactive-exhibits-at-the-intel-museum
+  - https://www.commarts.com/content/files/competitions/2024%20IA%20Shortlist1.pdf

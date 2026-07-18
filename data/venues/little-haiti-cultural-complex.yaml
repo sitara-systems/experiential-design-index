@@ -1,0 +1,9 @@
+id: little-haiti-cultural-complex
+name: Little Haiti Cultural Complex
+venue_type: cultural-center
+location:
+  city: Miami
+  state: FL
+operator: City of Miami
+sources:
+  - https://www.theurbanconga.com/projects/entangled

@@ -1,0 +1,9 @@
+id: martin-luther-king-jr-park-rochester
+name: Martin Luther King Jr. Park
+venue_type: public-space
+location:
+  city: Rochester
+  state: NY
+operator: City of Rochester
+sources:
+  - https://www.theurbanconga.com/projects/ripple

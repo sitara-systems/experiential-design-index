@@ -1,0 +1,11 @@
+id: richard-nixon-presidential-library
+name: Richard Nixon Presidential Library and Museum
+venue_type: history-museum
+location:
+  city: Yorba Linda
+  state: CA
+operator: National Archives and Records Administration
+website: https://www.nixonlibrary.gov
+sources:
+  - https://www.nixonlibrary.gov
+  - https://en.wikipedia.org/wiki/Richard_Nixon_Presidential_Library_and_Museum

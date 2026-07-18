@@ -1,0 +1,10 @@
+id: charleston-visitor-center
+name: Charleston Visitor Center
+venue_type: visitor-center
+location:
+  city: Charleston
+  state: SC
+operator: City of Charleston / Explore Charleston
+website: https://www.charleston-sc.gov/161/Visitor-Center
+sources:
+  - https://www.charleston-sc.gov/161/Visitor-Center

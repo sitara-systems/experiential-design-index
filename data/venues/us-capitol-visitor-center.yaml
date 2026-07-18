@@ -1,0 +1,11 @@
+id: us-capitol-visitor-center
+name: United States Capitol Visitor Center
+venue_type: visitor-center
+location:
+  city: Washington
+  state: DC
+operator: Architect of the Capitol
+website: https://www.visitthecapitol.gov/
+sources:
+  - https://en.wikipedia.org/wiki/United_States_Capitol_Visitor_Center
+  - https://www.aoc.gov/explore-capitol-campus/buildings-grounds/capitol-building/capitol-visitor-center

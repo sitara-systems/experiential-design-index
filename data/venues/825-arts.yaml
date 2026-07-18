@@ -1,0 +1,11 @@
+id: 825-arts
+name: 825 Arts
+venue_type: cultural-center
+location:
+  city: St. Paul
+  state: MN
+operator: 825 Arts (formerly Victoria Theater Arts Center)
+website: https://825arts.org
+sources:
+  - https://825arts.org/about-825-arts/
+  - https://sahanjournal.com/arts-culture/twin-cities-arts-events-frogtown-arts-pangea-southern-theater/

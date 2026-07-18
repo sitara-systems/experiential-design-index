@@ -1,0 +1,9 @@
+id: childrens-museum-of-illinois
+name: Children's Museum of Illinois
+venue_type: childrens-museum
+location:
+  city: Decatur
+  state: IL
+website: https://cmoillinois.org
+sources:
+  - https://cmoillinois.org

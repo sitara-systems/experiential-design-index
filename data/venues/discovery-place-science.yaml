@@ -1,0 +1,9 @@
+id: discovery-place-science
+name: Discovery Place Science
+venue_type: science-center
+location:
+  city: Charlotte
+  state: NC
+website: https://discoveryplace.org
+sources:
+  - https://discoveryplace.org

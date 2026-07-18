@@ -1,0 +1,10 @@
+id: ascend-amphitheater
+name: Ascend Amphitheater
+venue_type: public-space
+location:
+  city: Nashville
+  state: TN
+operator: Metro Nashville
+sources:
+  - https://en.wikipedia.org/wiki/Ascend_Amphitheater
+  - https://fox17.com/news/local/50-million-ascend-amphitheater-generates-883950-in-tax-revenue-in-2015

@@ -1,0 +1,27 @@
+id: california-science-center-creative-world
+name: Creative World
+venue: california-science-center
+project_type: new-exhibition
+year_completed: 1998
+status: completed
+credits:
+  - firm: west-office
+    role: exhibit-design
+technologies:
+  - solar-powered vehicle racing
+  - video-conferencing kiosk
+  - structural/earthquake simulation
+summary: >
+  Creative World, one of two core hands-on science galleries that opened at
+  the California Science Center in Los Angeles in February 1998, was
+  designed by West Office Exhibition Design.
+description: >
+  Creative World explores the impact of technology on daily life and the
+  creative process through interactive experiences: racing solar-powered
+  vehicles, communicating via video technology with other Los Angeles
+  residents, designing transportation solutions, and participating in
+  simulated earthquake building tests. The gallery emphasizes collaborative
+  problem-solving in technological design.
+sources:
+  - https://woed.com/woprojects/california-science-center-creative-world/
+  - https://californiasciencecenter.org/about-us/our-story

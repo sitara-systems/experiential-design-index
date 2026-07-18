@@ -1,0 +1,26 @@
+id: audubon-aquarium-and-insectarium
+name: Audubon Aquarium and Insectarium
+venue: audubon-aquarium
+project_type: major-renovation
+year_completed: 2023
+credits:
+  - firm: eskew-dumez-ripple
+    role: architecture
+    note: "no firm record yet"
+  - firm: cambridgeseven
+    role: architecture
+  - firm: cambridgeseven
+    role: exhibit-design
+technologies:
+  - interactive video wall
+  - proximity-activated surround sound
+  - living green walls
+summary: >
+  The Audubon Aquarium and Insectarium reopened in 2023 in New Orleans,
+  combining the Audubon Aquarium of the Americas with a relocated 27,000 sq
+  ft Butterfly Garden and Insectarium under one roof; architecture and
+  exhibit design by Eskew Dumez Ripple and CambridgeSeven.
+description: ""
+sources:
+  - https://www.cambridgeseven.com/project/audubon-nature-institute-butterfly-garden-insectarium/
+  - https://amazingarchitecture.com/aquarium/eskewdumezripple-and-cambridgeseven-reveal-the-newly-expanded-and-transformed-audubon-aquarium-and-insectarium-in-new-orleans

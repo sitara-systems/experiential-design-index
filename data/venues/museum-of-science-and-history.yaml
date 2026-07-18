@@ -1,0 +1,10 @@
+id: museum-of-science-and-history
+name: Museum of Science & History
+venue_type: science-center
+location:
+  city: Jacksonville
+  state: FL
+operator: MOSH
+website: https://themosh.org
+sources:
+  - https://blooloop.com/museum/in-depth/mosh-genesis/

@@ -1,0 +1,11 @@
+id: maple-grove-town-green
+name: Town Green
+venue_type: public-space
+location:
+  city: Maple Grove
+  state: MN
+operator: City of Maple Grove
+website: https://www.maplegrovemn.gov/672/Town-Green
+sources:
+  - https://www.maplegrovemn.gov/672/Town-Green
+  - https://hga.com/projects/city-of-maple-grove/

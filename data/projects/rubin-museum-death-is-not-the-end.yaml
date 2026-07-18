@@ -1,0 +1,30 @@
+id: rubin-museum-death-is-not-the-end
+name: Death Is Not the End
+venue: rubin-museum-of-himalayan-art
+project_type: temporary-exhibition
+year_completed: 2023
+credits:
+  - firm: isometric-studio
+    role: exhibit-design
+  - firm: isometric-studio
+    role: architecture
+  - firm: southside-design-build
+    role: fabrication
+  - firm: noble-signs
+    role: fabrication
+    note: "neon signage; no firm record yet"
+technologies:
+  - neon signage
+  - backlit panels
+summary: >
+  Death Is Not the End, a 3,135-square-foot exhibition exploring Tibetan
+  Buddhist and Christian perspectives on death and the afterlife through 58
+  objects, opened at the Rubin Museum (now Rubin Museum of Himalayan Art)
+  in New York City in 2023, designed by Isometric Studio.
+description: >
+  The exhibition design features a suspended monumental scrim, custom
+  casework, neon and backlit graphic panels, and interactive components
+  including a sand table and reflection cards.
+sources:
+  - https://isometricstudio.com/death-is-not-the-end
+  - https://rubinmuseum.org

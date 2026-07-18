@@ -1,0 +1,42 @@
+id: california-museum-gold-mountain
+name: "Gold Mountain: Chinese Californian Stories"
+venue: california-museum
+project_type: new-exhibition
+year_completed: 2020
+credits:
+  - firm: hga
+    role: architecture
+    note: >
+      3,000 sq ft gallery renovation; design, code compliance, and DSA/State
+      Fire Marshal approvals for the new exhibit space
+  - firm: west-office
+    role: exhibit-design
+    note: "Exhibit conception, design, and dragon design"
+  - firm: cinnabar
+    role: fabrication
+  - firm: bbi-engineering
+    role: av-integration
+    note: "AV hardware integration"
+  - firm: full-frame-productions
+    role: content-production
+    note: "AV media production; no firm record yet"
+technologies:
+  - interactive video stations
+summary: >
+  "Gold Mountain: Chinese Californian Stories," a signature exhibition on the
+  history and contributions of Chinese Americans in California, opened at
+  The California Museum in Sacramento on January 26, 2020; HGA designed the
+  gallery renovation, with exhibit design by West Office Exhibition Design,
+  fabrication by Cinnabar, AV integration by BBI Engineering, and AV media
+  production by Full Frame Productions.
+description: >
+  The exhibition documents the history of Chinese immigrants who came to
+  California in search of opportunity during the Gold Rush era — known to
+  them as "Gold Mountain" — and stayed to help build the modern state,
+  covering their impact on California's economy, governance, and culture
+  from the 1840s to the present through historic artifacts, photographs,
+  interactive video stations, games, and a custom-designed dragon.
+sources:
+  - https://woed.com/woprojects/gold-mountain/
+  - https://hga.com/projects/the-california-museum-for-history-women-and-the-arts-gold-mountain-chinese-california-stories-gallery-renovation/
+  - https://www.newsreview.com/sacramento/content/gold-mountain-chinese-californian-stories-opening/29646383/

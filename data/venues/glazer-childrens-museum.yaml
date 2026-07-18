@@ -1,0 +1,9 @@
+id: glazer-childrens-museum
+name: Glazer Children's Museum
+venue_type: childrens-museum
+location:
+  city: Tampa
+  state: FL
+website: https://glazermuseum.org
+sources:
+  - https://www.theurbanconga.com/projects/dream-it-be-it

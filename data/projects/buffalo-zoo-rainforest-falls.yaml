@@ -1,0 +1,36 @@
+id: buffalo-zoo-rainforest-falls
+name: M&T Bank Rainforest Falls
+venue: buffalo-zoo
+project_type: new-building
+year_completed: 2008
+credits:
+  - firm: foit-albert-associates
+    role: architecture
+    note: "No firm record yet; architect of record"
+  - firm: pja-architects-and-landscape-architects
+    role: exhibit-design
+    note: "No firm record yet; Seattle-based exhibit design"
+  - firm: hadley-exhibits
+    role: interpretive-planning
+    note: Designed the interpretive components with the zoo's art director and curator of education
+technologies:
+  - ETFE inflated membrane roof
+  - underwater viewing
+summary: >
+  M&T Bank Rainforest Falls, a South American rainforest exhibit building at
+  the Buffalo Zoo in Buffalo, New York, opened September 8, 2008, with
+  architecture by Foit-Albert Associates, exhibit design by PJA Architects +
+  Landscape Architects, and interpretive design by Hadley Exhibits.
+description: >
+  Phase II of a $75 million zoo overhaul, budgeted at $16 million and
+  described as the biggest single project in the zoo's redesign at the time.
+  The building's roof uses inflated ETFE membrane pillows for insulation and
+  UV transmission. Structural engineering was by Jansen/Kiener Consulting
+  Engineers, mechanical engineering by M/E Engineering, life-support-system
+  design by TJP Inc., and general contracting by Manning Squires Hennig Co.
+  — none of which map to a role in the current delivery-stack vocabulary and
+  so are not recorded as credits here.
+sources:
+  - https://buffalozoo.org/exhibits/mt-rainforest/
+  - https://zoolex.org/gallery/show/1027/
+  - https://hadleyexhibits.com/buffalo-zoo-rainforest-falls/

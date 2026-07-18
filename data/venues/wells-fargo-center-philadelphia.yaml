@@ -1,0 +1,10 @@
+id: wells-fargo-center-philadelphia
+name: Wells Fargo Center
+venue_type: sports-venue
+location:
+  city: Philadelphia
+  state: PA
+operator: Comcast Spectacor
+website: https://www.wellsfargocenterphilly.com
+sources:
+  - https://www.wellsfargocenterphilly.com

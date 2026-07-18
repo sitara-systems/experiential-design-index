@@ -1,0 +1,29 @@
+id: national-blues-museum-core-exhibits
+name: National Blues Museum
+venue: national-blues-museum
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: batwin-and-robin
+    role: media-design
+    note: "No firm record yet"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      AV integration and software production for interactive exhibits incl.
+      "Mix it Up" (virtual instrument recording/mixing) and "Jug Band"
+      (4-player ensemble activity with video capture)
+technologies:
+  - interactive music mixing
+  - multiplayer ensemble activity
+  - video capture
+summary: >
+  The National Blues Museum, a museum on the history of blues music, opened
+  in St. Louis, Missouri in 2015, with exhibit design by Gallagher &
+  Associates, media production by Batwin and Robin, and AV integration by
+  BBI Engineering.
+description: ""
+sources:
+  - https://bbinet.com/works/national-blues-museum/

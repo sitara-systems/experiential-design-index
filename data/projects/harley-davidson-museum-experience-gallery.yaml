@@ -1,0 +1,29 @@
+id: harley-davidson-museum-experience-gallery
+name: Experience Gallery
+venue: harley-davidson-museum
+project_type: new-exhibition
+year_completed: 2022
+credits:
+  - firm: luci-creative
+    role: exhibit-design
+  - firm: ravenswood-studio
+    role: fabrication
+    note: "Fabrication, custom casework, motorcycle mounting platform, graphic production"
+technologies:
+  - interactive touchscreens
+  - reactive lighting
+  - media pillars
+summary: >
+  The Experience Gallery, a 3,500 sq ft gallery at the Harley-Davidson
+  Museum in Milwaukee, Wisconsin, opened July 12, 2022; Luci Creative
+  designed the exhibit, with fabrication by Ravenswood Studio.
+description: >
+  The gallery, called "The Road," immerses visitors in the Harley-Davidson
+  riding community through media pillars, choreographed and reactive
+  lighting, and interactive community pinboards sharing rider stories.
+  Visitors can sit on featured motorcycles as part of the interactive
+  experience.
+sources:
+  - https://www.roadracingworld.com/news/harley-davidson-museum-unveils-all-new-experience-gallery/
+  - https://ravenswoodstudio.com/project/experience-gallery/
+  - https://www.lucicreative.com/project/hdm-experience-gallery

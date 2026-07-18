@@ -1,0 +1,10 @@
+id: mystic-seaport
+name: Mystic Seaport Museum
+venue_type: history-museum
+location:
+  city: Mystic
+  state: CT
+website: https://mysticseaport.org
+sources:
+  - https://mysticseaport.org/
+  - https://mysticseaport.org/press-release/mystic-seaport-opens-thompson-exhibition-building/

@@ -1,0 +1,11 @@
+id: att-discovery-district
+name: AT&T Discovery District
+venue_type: public-space
+location:
+  city: Dallas
+  state: TX
+operator: AT&T
+website: https://discoverydistrictdallas.com
+sources:
+  - https://discoverydistrictdallas.com/
+  - https://www.bdcnetwork.com/home/news/55164490/att-discovery-district-is-dallas-newest-mixed-use-destination

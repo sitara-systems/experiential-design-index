@@ -1,0 +1,29 @@
+id: empire-state-building-80th-floor-observatory
+name: 80th Floor Observatory Redesign
+venue: empire-state-building
+project_type: major-renovation
+year_completed: 2019
+credits:
+  - firm: thinc-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: diversified
+    role: av-integration
+    note: >
+      Interactive exhibit engineering and AV integration, including
+      LED video walls, touch display arrays, and nine electromechanical
+      Tower Optical Viewers
+technologies:
+  - LED video walls
+  - interactive touch displays
+  - IR reflective glass
+summary: >
+  The redesigned 80th floor observatory at the Empire State Building,
+  completing the building's four-year, $165 million observatory
+  redevelopment, opened November 26, 2019, in New York City, led by
+  Thinc Design with AV integration by Diversified.
+description: ""
+sources:
+  - https://www.6sqft.com/empire-state-building-opens-80th-floor-observatory-completing-165m-redevelopment/
+  - https://www.broadwayworld.com/article/EMPIRE-STATE-BUILDING-OBSERVATORY-Completes-Redevelopment-of-the-80th-Floor-Go-Visit-20191129
+  - https://onediversified.com/case-study/esb-interactive-exhibits

@@ -1,0 +1,10 @@
+id: virginia-museum-of-natural-history
+name: Virginia Museum of Natural History
+venue_type: natural-history-museum
+location:
+  city: Martinsville
+  state: VA
+website: https://www.vmnh.net/
+sources:
+  - https://www.vmnh.net/
+  - https://en.wikipedia.org/wiki/Virginia_Museum_of_Natural_History

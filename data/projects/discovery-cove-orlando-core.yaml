@@ -1,0 +1,28 @@
+id: discovery-cove-orlando-core
+name: Discovery Cove
+venue: discovery-cove-orlando
+project_type: new-building
+year_completed: 2000
+credits:
+  - firm: pgav-destinations
+    role: master-planning
+  - firm: pgav-destinations
+    role: architecture
+  - firm: pgav-destinations
+    role: exhibit-design
+technologies: []
+summary: >
+  Discovery Cove, an all-inclusive marine-life park adjacent to SeaWorld in
+  Orlando, Florida, opened July 1, 2000, with interactive marine habitats,
+  a free-flight aviary of more than 250 tropical birds, and dolphin
+  interaction experiences; master planning, architecture, and exhibit
+  design by PGAV Destinations.
+description: >
+  Later phases expanded the park with the Grand Reef snorkeling habitat
+  (2011) and the Freshwater Oasis marmoset habitat (2012); PGAV Destinations
+  credits itself with design work across the park's development but the
+  public sourcing for those later phases specifically is not independently
+  confirmed here.
+sources:
+  - https://pgavdestinations.com/project/discovery-cove/
+  - https://en.wikipedia.org/wiki/Discovery_Cove

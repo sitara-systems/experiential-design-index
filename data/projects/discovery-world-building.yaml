@@ -1,0 +1,21 @@
+id: discovery-world-building
+name: Discovery World at Pier Wisconsin
+venue: discovery-world
+project_type: new-building
+year_completed: 2005
+credits:
+  - firm: hga
+    role: architecture
+  - firm: la-dallman
+    role: exhibit-design
+    note: "Grace La and James Dallman; permanent exhibit design; no firm record yet"
+technologies: []
+summary: >
+  Discovery World at Pier Wisconsin, a 120,000 sq ft youth science and
+  technology museum and freshwater aquarium on Milwaukee's lakefront,
+  opened in 2005; architecture by HGA (won via invited competition), with
+  permanent exhibit design by LA DALLMAN.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Pier_Wisconsin
+  - https://hga.com/projects/discovery-world-at-pier-wisconsin/

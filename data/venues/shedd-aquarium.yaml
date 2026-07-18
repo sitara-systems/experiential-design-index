@@ -1,0 +1,9 @@
+id: shedd-aquarium
+name: John G. Shedd Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Chicago
+  state: IL
+website: https://www.sheddaquarium.org
+sources:
+  - https://www.sheddaquarium.org

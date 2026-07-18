@@ -1,0 +1,11 @@
+id: shangri-la-botanical-gardens-and-nature-center
+name: Shangri La Botanical Gardens and Nature Center
+venue_type: botanical-garden
+location:
+  city: Orange
+  state: TX
+operator: Stark Foundation
+website: https://shangrilagardens.org
+sources:
+  - https://merriell.com/portfolio-hall-of-fame
+  - https://merriell.com/portfolio-overview

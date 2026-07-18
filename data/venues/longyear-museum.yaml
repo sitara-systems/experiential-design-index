@@ -1,0 +1,9 @@
+id: longyear-museum
+name: Longyear Museum
+venue_type: history-museum
+location:
+  city: Chestnut Hill
+  state: MA
+website: https://www.longyear.org
+sources:
+  - https://www.longyear.org

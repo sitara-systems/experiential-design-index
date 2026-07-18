@@ -1,0 +1,21 @@
+id: national-aquarium-original-building
+name: National Aquarium
+venue: national-aquarium
+project_type: new-building
+year_completed: 1981
+credits:
+  - firm: cambridgeseven
+    role: architecture
+  - firm: cambridgeseven
+    role: exhibit-design
+    note: "Led by Peter Chermayeff, conceptual and exhibit design"
+technologies: []
+summary: >
+  The National Aquarium, a purpose-built aquarium on Baltimore's Inner
+  Harbor known for its pyramidal glass roofline, opened August 8, 1981;
+  designed by Cambridge Seven Associates (now CambridgeSeven), building on
+  the firm's earlier work on the New England Aquarium.
+description: ""
+sources:
+  - https://www.architectmagazine.com/technology/lighting/deep-dive-at-two-aquariums-by-cambridge-seven-associates_o
+  - https://en.wikipedia.org/wiki/National_Aquarium_(Baltimore)

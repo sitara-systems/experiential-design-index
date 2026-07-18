@@ -1,0 +1,9 @@
+id: national-soccer-hall-of-fame
+name: National Soccer Hall of Fame
+venue_type: sports-venue
+location:
+  city: Frisco
+  state: TX
+operator: Toyota Stadium
+sources:
+  - https://capitolmuseumservices.com/portfolio/museums/

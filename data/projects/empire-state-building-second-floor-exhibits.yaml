@@ -1,0 +1,31 @@
+id: empire-state-building-second-floor-exhibits
+name: Second Floor Observatory Experience
+venue: empire-state-building
+project_type: new-exhibition
+year_completed: 2019
+credits:
+  - firm: thinc-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: diversified
+    role: av-integration
+    note: >
+      AV systems, digital content production, and display integration
+      across a 74-projection-surface curved mosaic wall and a King Kong
+      installation with synced animatronics
+technologies:
+  - short-throw projection
+  - LED video walls
+  - animatronics
+  - 4D media
+summary: >
+  A 10,000-square-foot, nine-gallery Second Floor Observatory Experience
+  telling the Empire State Building's 100-year history, including a
+  King Kong installation, opened July 29, 2019, in New York City, designed
+  by Thinc Design with AV integration and digital content production by
+  Diversified.
+description: ""
+sources:
+  - https://gothamist.com/2019/07/30/empire_state_building_museum_photos.php
+  - https://www.esbnyc.com/press/empire-state-building-unveils-brand-new-second-floor-observatory-experience
+  - https://onediversified.com/case-study/modern-interactive-exhibits-esb

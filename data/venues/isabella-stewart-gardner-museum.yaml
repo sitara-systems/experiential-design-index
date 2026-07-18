@@ -1,0 +1,9 @@
+id: isabella-stewart-gardner-museum
+name: Isabella Stewart Gardner Museum
+venue_type: art-museum
+location:
+  city: Boston
+  state: MA
+website: https://www.gardnermuseum.org
+sources:
+  - https://www.gardnermuseum.org

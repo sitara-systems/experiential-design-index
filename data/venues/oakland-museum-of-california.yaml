@@ -1,0 +1,10 @@
+id: oakland-museum-of-california
+name: Oakland Museum of California
+venue_type: history-museum
+location:
+  city: Oakland
+  state: CA
+website: https://museumca.org
+sources:
+  - https://museumca.org
+  - https://bbinet.com/works/oakland-museum-of-california/

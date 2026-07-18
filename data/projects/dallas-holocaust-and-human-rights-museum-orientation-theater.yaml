@@ -1,0 +1,42 @@
+id: dallas-holocaust-and-human-rights-museum-orientation-theater
+name: Orientation Theater
+venue: dallas-holocaust-and-human-rights-museum
+project_type: new-exhibition
+year_completed: 2019
+credits:
+  - firm: pacific-studio
+    role: exhibit-design
+  - firm: cortina-productions
+    role: content-production
+    note: "Media production, per BBI Engineering's own project page"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      Designed and installed the synchronized projection and lighting cue
+      system for the Orientation Theater's ascending-stairs journey sequence
+  - firm: omniplan
+    role: architecture
+    note: "No firm record yet"
+  - firm: schuler-shook
+    role: lighting-design
+    note: >
+      Interior and exterior lighting design for the museum building as a
+      whole (offices, archive library, main lobby, museum shop, theatre,
+      special exhibits gallery, roof deck, and building facades), per
+      Schuler Shook's own project page — broader in scope than the
+      Orientation Theater exhibit specifically, but this is the only
+      project record for the venue
+technologies:
+  - synchronized projection and lighting
+summary: >
+  The Orientation Theater, the signature multimedia entry exhibit of the
+  Dallas Holocaust and Human Rights Museum, opened with the museum's new
+  facility in 2019; Omniplan was architect of the building, Pacific Studio
+  led exhibit design, Cortina produced the media, BBI Engineering designed
+  and installed the theater's synchronized projection and lighting system,
+  and Schuler Shook designed the building's interior and exterior lighting.
+description: ""
+sources:
+  - https://bbinet.com/works/dallas-holocaust-human-rights-museum/
+  - https://www.archdaily.com/926223/the-dallas-holocaust-and-human-rights-museum-omniplan
+  - https://schulershook.com/projects/dallas-holocaust-and-human-rights-museum

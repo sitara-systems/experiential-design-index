@@ -1,0 +1,9 @@
+id: maryland-state-house
+name: Maryland State House
+venue_type: history-museum
+location:
+  city: Annapolis
+  state: MD
+website: https://msa.maryland.gov/msa/mdstatehouse/html/home.html
+sources:
+  - https://msa.maryland.gov/msa/mdstatehouse/html/home.html

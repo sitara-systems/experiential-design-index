@@ -1,0 +1,39 @@
+id: acrisure-stadium-steelers-hall-of-honor-museum
+name: Pittsburgh Steelers Hall of Honor Museum
+venue: acrisure-stadium
+project_type: new-exhibition
+year_completed: 2022
+credits:
+  - firm: pgav-destinations
+    role: architecture
+  - firm: pgav-destinations
+    role: exhibit-design
+  - firm: pgav-destinations
+    role: graphics-wayfinding
+  - firm: pgav-destinations
+    role: interpretive-planning
+  - firm: mad-systems
+    role: av-integration
+    note: >
+      AV infrastructure design, engineering, and integration (AV++ platform);
+      no firm record yet
+technologies:
+  - touch-screen kiosks
+  - AV infrastructure (AV++ platform)
+summary: >
+  The Pittsburgh Steelers Hall of Honor Museum, a museum chronicling 90 years
+  of Steelers history located above the Pro Shop at Acrisure Stadium in
+  Pittsburgh, Pennsylvania, opened in November 2022; architecture, exhibit
+  design, environmental and interpretive graphics by PGAV Destinations, with
+  AV integration by Mad Systems.
+description: >
+  The museum honors 57 Hall of Honor inductees via bronze/steel footballs,
+  biographies, photos, and touch-screen kiosks, alongside life-sized player
+  mannequins, game-worn uniform pieces, replicated offices of founder Art
+  Rooney Sr. and chairman Daniel M. Rooney, the team's six Super Bowl rings,
+  a radio-booth replica for recording historical play calls, and a rotating
+  exhibition space.
+sources:
+  - https://pgavdestinations.com/project/pittsburgh-steelers-hall-of-honor-museum/
+  - https://www.inparkmagazine.com/steelers-hall-of-honor-museum-opening-date/
+  - https://madsystems.com/portfolio-steelers-hall.html

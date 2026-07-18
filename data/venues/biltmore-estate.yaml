@@ -1,0 +1,10 @@
+id: biltmore-estate
+name: Biltmore Estate
+venue_type: public-space
+location:
+  city: Asheville
+  state: NC
+operator: The Biltmore Company
+website: https://www.biltmore.com
+sources:
+  - https://www.biltmore.com/visit/biltmore-estate/

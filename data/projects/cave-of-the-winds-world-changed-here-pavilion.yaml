@@ -1,0 +1,28 @@
+id: cave-of-the-winds-world-changed-here-pavilion
+name: The World Changed Here Pavilion
+venue: cave-of-the-winds-pavilion
+project_type: major-renovation
+year_completed: 2017
+credits:
+  - firm: hhl-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: pgav-destinations
+    role: exhibit-design
+  - firm: hadley-exhibits
+    role: fabrication
+technologies:
+  - immersive object theater
+  - projection
+summary: >
+  The World Changed Here Pavilion, a $7 million, 6,125-square-foot
+  renovation of the Cave of the Winds pavilion at Niagara Falls State Park
+  in Niagara Falls, New York, opened in November 2017 with architecture by
+  HHL Architects, exhibit master planning and design by PGAV Destinations,
+  and fabrication by Hadley Exhibits.
+description: ""
+sources:
+  - https://www.dasny.org/news/2017/governor-cuomo-announces-opening-7-million-year-round-cave-winds-experience-niagara-falls
+  - https://hhlarchitects.com/portfolio/niagara-falls-state-park-cave-of-the-winds-experience/
+  - https://pgavdestinations.com/news/cotw/
+  - https://hadleyexhibits.com/Cave-of-the-Winds

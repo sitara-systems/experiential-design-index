@@ -1,0 +1,39 @@
+id: amazon-hq2-visitor-landing
+name: Amazon Visitor Landing
+venue: amazon-hq2-metropolitan-park
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: zgf-architects
+    role: architecture
+    note: "Exhibit architect; no firm record yet"
+  - firm: luci-creative
+    role: exhibit-design
+  - firm: belle-and-wissell
+    role: media-design
+  - firm: chicago-scenic-studios
+    role: fabrication
+  - firm: bbi-engineering
+    role: av-integration
+technologies:
+  - interactive screens
+  - data visualization
+  - biophilic design
+summary: >
+  Amazon Visitor Landing, an interactive visitor experience on the ground
+  floor of the Merlin building at Amazon's HQ2 Metropolitan Park campus in
+  Arlington, Virginia, opened in September 2023; Luci Creative led exhibit
+  design with exhibit architecture by ZGF Architects, media design by Belle
+  & Wissell, fabrication by Chicago Scenic Studios, and AV integration by
+  BBI Engineering.
+description: >
+  The exhibit introduces neighbors and visitors to Amazon's culture, people,
+  and innovations through a biophilic environment featuring undulating
+  copper and plywood forms inspired by the nearby Potomac River, a live
+  botanical wall, and interactive displays including "Voices of Amazon" and
+  "By The Numbers."
+sources:
+  - https://www.aboutamazon.com/news/amazon-offices/amazon-visitor-landing-hq2-photos
+  - https://bwco.info/work/amazon-visitor-landing/
+  - https://www.zgf.com/work/6159-amazon-seneca-group-amazon-visitor-landing
+  - https://segd.org/member-news/luci-creative-designs-biophilic-environment-at-visitors-landing-amazons-hq2/

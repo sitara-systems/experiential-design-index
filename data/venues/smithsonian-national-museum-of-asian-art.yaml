@@ -1,0 +1,10 @@
+id: smithsonian-national-museum-of-asian-art
+name: National Museum of Asian Art
+venue_type: art-museum
+location:
+  city: Washington
+  state: DC
+operator: Smithsonian Institution
+website: https://asia.si.edu/
+sources:
+  - https://asia.si.edu/

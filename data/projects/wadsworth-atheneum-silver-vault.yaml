@@ -1,0 +1,27 @@
+id: wadsworth-atheneum-silver-vault
+name: Silver Vault Gallery
+venue: wadsworth-atheneum
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: steven-spandle-architect
+    role: architecture
+    note: "No firm record yet"
+  - firm: stephen-saitas-designs
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: smallcorp
+    role: fabrication
+    note: "Custom casework; no firm record yet"
+  - firm: anita-jorgensen-lighting-design
+    role: lighting-design
+summary: >
+  The Silver Vault Gallery, a renovated vault space displaying the
+  Wadsworth Atheneum Museum of Art's silver collection in Hartford,
+  Connecticut, opened in 2022 with architecture by Steven W. Spandle,
+  exhibition design by Stephen Saitas Designs, custom casework by
+  SmallCorp, and lighting design by Anita Jorgensen Lighting Design.
+description: ""
+sources:
+  - https://www.smallcorp.com/in-the-vault-wadsworth-athenaeum/
+  - https://www.ajld.net/project.php?id=170

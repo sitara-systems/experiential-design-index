@@ -1,0 +1,26 @@
+id: old-faithful-visitor-education-center-core-exhibits
+name: Old Faithful Visitor Education Center
+venue: old-faithful-visitor-education-center
+project_type: new-building
+year_completed: 2010
+credits:
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      AV systems for the visitor education center incl. an earthquake
+      monitor, interactive map kiosks, and a surround-sound theater
+technologies:
+  - interactive kiosks
+  - surround-sound theater
+summary: >
+  The Old Faithful Visitor Education Center in Yellowstone National Park,
+  Wyoming, opened August 25, 2010, replacing a 1970s-era facility; BBI
+  Engineering installed the center's AV systems, including an earthquake
+  monitor, interactive map kiosks, and a surround-sound theater, as part of
+  a decade-long AV relationship with the National Park Service spanning
+  Yellowstone's Canyon, Old Faithful, and Mammoth visitor centers.
+description: ""
+sources:
+  - https://travelwyoming.com/listing/the-new-old-faithful-visitor-education-center/1285/
+  - https://www.nps.gov/yell/planyourvisit/oldfaithfulvec.htm
+  - https://bbinet.com/works/yellowstone-national-park-visitor-centers/

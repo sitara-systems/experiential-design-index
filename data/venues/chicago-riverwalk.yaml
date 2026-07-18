@@ -1,0 +1,10 @@
+id: chicago-riverwalk
+name: Chicago Riverwalk
+venue_type: public-space
+location:
+  city: Chicago
+  state: IL
+operator: City of Chicago
+website: https://www.chicago.gov/city/en/depts/dcd/provdrs/riverwalk.html
+sources:
+  - https://www.chicago.gov/city/en/depts/dcd/provdrs/riverwalk.html

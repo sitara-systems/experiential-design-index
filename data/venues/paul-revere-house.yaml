@@ -1,0 +1,11 @@
+id: paul-revere-house
+name: Paul Revere House
+venue_type: history-museum
+location:
+  city: Boston
+  state: MA
+operator: Paul Revere Memorial Association
+website: https://www.paulreverehouse.org
+sources:
+  - https://www.paulreverehouse.org/
+  - https://www.bostonpreservation.org/advocacy-project/paul-revere-house-education-and-visitor-center

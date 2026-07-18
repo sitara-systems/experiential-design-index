@@ -1,0 +1,26 @@
+id: chabot-bill-nyes-climate-lab
+name: "Bill Nye's Climate Lab"
+venue: chabot-space-and-science-center
+project_type: new-exhibition
+year_completed: 2010
+credits:
+  - firm: amaze-design
+    role: exhibit-design
+  - firm: general-graphics
+    role: fabrication
+    note: "no firm record yet"
+  - firm: available-light
+    role: lighting-design
+summary: >
+  "Bill Nye's Climate Lab," a permanent and traveling exhibition on climate
+  change at Chabot Space and Science Center in Oakland, California, developed
+  with scientific advisor Bill Nye; exhibit design by Amaze Design, with
+  fabrication by General Graphics and lighting design by Available Light.
+description: >
+  Visitors participate as "climate scouts" conducting experiments and
+  meeting scientists, collecting an arsenal of climate-change solutions
+  through floor exhibits and an online platform, concluding with real-world
+  success stories in sustainable practices.
+sources:
+  - https://www.amazedesign.com/work/billnyesclimatelab-f8t53-saw3w
+  - https://buildings.lbl.gov/news/688/bill-nyes-climate-lab-new-show-at-chabot-space-and-science-center-opens-nov-20

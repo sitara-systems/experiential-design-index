@@ -1,0 +1,25 @@
+id: museum-of-the-city-of-new-york-new-york-now-home
+name: "New York, Now: Home"
+venue: museum-of-the-city-of-new-york
+project_type: temporary-exhibition
+year_completed: 2023
+credits:
+  - firm: isometric-studio
+    role: exhibit-design
+  - firm: isometric-studio
+    role: architecture
+technologies:
+  - supergraphic screens (JFK Terminal 4 outpost)
+summary: >
+  "New York, Now: Home," an exhibition featuring steel-and-oak roof
+  trusses and temporary exhibition walls, opened at the Museum of the City
+  of New York in 2023, designed by Isometric Studio, with a secondary
+  outpost at JFK Airport Terminal 4.
+description: >
+  Isometric Studio designed the exhibition's roof-truss architecture and
+  typography featuring the words "New York" in a centripetal, lens-like
+  configuration; a companion installation at JFK Terminal 4 played
+  animations on supergraphic screens.
+sources:
+  - https://isometricstudio.com/new-york-now-home
+  - https://www.mcny.org

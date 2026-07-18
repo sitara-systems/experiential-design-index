@@ -8,13 +8,13 @@ credits:
     role: architecture
   - firm: solid-light
     role: exhibit-design
-    note: "Visitor-experience design, interpretive graphics, and brand identity assistance (no firm record yet)"
+    note: "Visitor-experience design, interpretive graphics, and brand identity assistance"
   - firm: solid-light
     role: media-design
-    note: "Interactive media (no firm record yet)"
+    note: "Interactive media"
   - firm: solid-light
     role: fabrication
-    note: "Design-through-fabrication of visitor-experience elements (no firm record yet)"
+    note: "Design-through-fabrication of visitor-experience elements"
 technologies:
   - interactive media
 summary: >

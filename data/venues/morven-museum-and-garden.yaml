@@ -1,0 +1,10 @@
+id: morven-museum-and-garden
+name: Morven Museum & Garden
+venue_type: history-museum
+location:
+  city: Princeton
+  state: NJ
+website: https://www.morven.org
+sources:
+  - https://www.morven.org
+  - https://en.wikipedia.org/wiki/Morven_(Princeton,_New_Jersey)

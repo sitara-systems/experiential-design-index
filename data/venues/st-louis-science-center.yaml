@@ -1,0 +1,9 @@
+id: st-louis-science-center
+name: St. Louis Science Center
+venue_type: science-center
+location:
+  city: St. Louis
+  state: MO
+website: https://www.slsc.org
+sources:
+  - https://www.slsc.org

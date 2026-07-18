@@ -1,0 +1,10 @@
+id: asrc-cuny-graduate-center
+name: Advanced Science Research Center, CUNY Graduate Center
+venue_type: academic-institution
+location:
+  city: New York
+  state: NY
+operator: The Graduate Center, City University of New York
+website: https://asrc.gc.cuny.edu
+sources:
+  - https://asrc.gc.cuny.edu

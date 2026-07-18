@@ -1,0 +1,10 @@
+id: risd-museum
+name: RISD Museum
+venue_type: art-museum
+location:
+  city: Providence
+  state: RI
+website: https://risdmuseum.org
+sources:
+  - https://risdmuseum.org
+  - https://heyrhody.com/stories/inside-risds-renovations,12679

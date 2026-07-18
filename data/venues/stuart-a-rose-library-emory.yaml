@@ -1,0 +1,10 @@
+id: stuart-a-rose-library-emory
+name: Stuart A. Rose Manuscript, Archives, and Rare Book Library
+venue_type: library-archive
+location:
+  city: Atlanta
+  state: GA
+operator: Emory University
+website: https://libraries.emory.edu/rose
+sources:
+  - https://libraries.emory.edu/rose

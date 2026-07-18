@@ -1,0 +1,11 @@
+id: westfield-countryside-clearwater
+name: Westfield Countryside
+venue_type: other
+location:
+  city: Clearwater
+  state: FL
+operator: Westfield Group
+website: https://www.countrysidemallfl.com
+sources:
+  - https://www.theurbanconga.com/projects/the-oasis
+  - https://www.tripadvisor.com/Attraction_Review-g34141-d7149059-Reviews-Westfield_Countryside_Mall-Clearwater_Florida.html

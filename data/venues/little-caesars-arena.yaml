@@ -1,0 +1,10 @@
+id: little-caesars-arena
+name: Little Caesars Arena
+venue_type: sports-venue
+location:
+  city: Detroit
+  state: MI
+operator: Detroit Red Wings / Detroit Pistons
+website: https://www.313presents.com/venue/little-caesars-arena
+sources:
+  - https://en.wikipedia.org/wiki/Little_Caesars_Arena

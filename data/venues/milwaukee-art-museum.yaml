@@ -1,0 +1,9 @@
+id: milwaukee-art-museum
+name: Milwaukee Art Museum
+venue_type: art-museum
+location:
+  city: Milwaukee
+  state: WI
+website: https://mam.org
+sources:
+  - https://mam.org

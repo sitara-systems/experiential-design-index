@@ -1,0 +1,11 @@
+id: north-dakota-heritage-center
+name: North Dakota Heritage Center & State Museum
+venue_type: history-museum
+location:
+  city: Bismarck
+  state: ND
+operator: State Historical Society of North Dakota
+website: https://www.statemuseum.nd.gov
+sources:
+  - https://www.statemuseum.nd.gov
+  - https://www.statehistoricalfoundation.org/north-dakota-in-the-news/three-exhibit-firms-hired-for-nd-heritage-center-expansion

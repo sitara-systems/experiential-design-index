@@ -1,0 +1,29 @@
+id: chicago-history-museum-sensing-chicago
+name: Sensing Chicago
+venue: chicago-history-museum
+project_type: new-exhibition
+year_completed: 2006
+credits:
+  - firm: amaze-design
+    role: exhibit-design
+  - firm: proto-productions
+    role: fabrication
+    note: "no firm record yet"
+  - firm: monadnock-media
+    role: media-design
+    note: "no firm record yet"
+technologies:
+  - tactile interactive
+  - olfactory interactive
+summary: >
+  Sensing Chicago, an interactive children's gallery at the Chicago History
+  Museum exploring the city's history through multiple senses; exhibit
+  design by Amaze Design, with fabrication by Proto Productions and media
+  design by Monadnock Media.
+description: >
+  The gallery, developed as part of the museum's broader facility renovation,
+  features a high-wheel bicycle tactile experience over simulated wooden
+  brick streets, a tabletop map with olfactory interactives, and a soft-sculpture
+  hot dog bun installation.
+sources:
+  - https://www.amazedesign.com/work/sensing-chicago

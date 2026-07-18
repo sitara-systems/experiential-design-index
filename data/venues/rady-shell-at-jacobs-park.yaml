@@ -1,0 +1,11 @@
+id: rady-shell-at-jacobs-park
+name: The Rady Shell at Jacobs Park
+venue_type: public-space
+location:
+  city: San Diego
+  state: CA
+operator: San Diego Symphony
+website: https://theshell.org
+sources:
+  - https://theshell.org/about/about-the-rady-shell
+  - https://en.wikipedia.org/wiki/The_Rady_Shell_at_Jacobs_Park

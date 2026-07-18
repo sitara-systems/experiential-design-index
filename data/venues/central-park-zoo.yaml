@@ -1,0 +1,10 @@
+id: central-park-zoo
+name: Central Park Zoo
+venue_type: aquarium-zoo
+location:
+  city: New York
+  state: NY
+operator: Wildlife Conservation Society
+website: https://centralparkzoo.com
+sources:
+  - https://centralparkzoo.com/things-to-do/exhibits/allison-maher-stern-snow-leopard

@@ -1,0 +1,10 @@
+id: monocacy-national-battlefield
+name: Monocacy National Battlefield
+venue_type: visitor-center
+location:
+  city: Frederick
+  state: MD
+operator: National Park Service
+website: https://www.nps.gov/mono/
+sources:
+  - https://www.nps.gov/mono/

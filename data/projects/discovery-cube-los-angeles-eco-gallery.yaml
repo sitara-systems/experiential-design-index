@@ -1,0 +1,23 @@
+id: discovery-cube-los-angeles-eco-gallery
+name: Eco Gallery
+venue: discovery-cube-los-angeles
+project_type: new-exhibition
+year_completed: 2015
+credits:
+  - firm: cinnabar
+    role: exhibit-design
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      AV integration for a recreation of the Discovery Cube Orange County
+      Eco Gallery's trash-sorting interactive
+technologies:
+  - RFID
+  - touchscreen interactives
+summary: >
+  The Eco Gallery at Discovery Cube Los Angeles opened in 2015, a recreation
+  of the popular 2011 Eco Gallery at Discovery Cube Orange County, with
+  exhibit design by Cinnabar and AV integration by BBI Engineering.
+description: ""
+sources:
+  - https://bbinet.com/works/the-discovery-cube/

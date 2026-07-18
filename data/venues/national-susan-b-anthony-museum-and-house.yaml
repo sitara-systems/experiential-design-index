@@ -1,0 +1,9 @@
+id: national-susan-b-anthony-museum-and-house
+name: National Susan B. Anthony Museum & House
+venue_type: history-museum
+location:
+  city: Rochester
+  state: NY
+website: https://susanb.org
+sources:
+  - https://en.wikipedia.org/wiki/Susan_B._Anthony_House

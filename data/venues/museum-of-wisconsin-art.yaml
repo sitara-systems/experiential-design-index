@@ -1,0 +1,9 @@
+id: museum-of-wisconsin-art
+name: Museum of Wisconsin Art
+venue_type: art-museum
+location:
+  city: West Bend
+  state: WI
+website: https://wisconsinart.org
+sources:
+  - https://wisconsinart.org

@@ -1,0 +1,9 @@
+id: japan-society
+name: Japan Society Gallery
+venue_type: cultural-center
+location:
+  city: New York
+  state: NY
+website: https://japansociety.org
+sources:
+  - https://japansociety.org

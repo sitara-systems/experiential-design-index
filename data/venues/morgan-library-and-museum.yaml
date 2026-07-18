@@ -1,0 +1,9 @@
+id: morgan-library-and-museum
+name: The Morgan Library & Museum
+venue_type: library-archive
+location:
+  city: New York
+  state: NY
+website: https://www.themorgan.org
+sources:
+  - https://www.themorgan.org

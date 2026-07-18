@@ -1,0 +1,10 @@
+id: south-carolina-historical-society-museum
+name: South Carolina Historical Society Museum
+venue_type: history-museum
+location:
+  city: Charleston
+  state: SC
+operator: South Carolina Historical Society
+website: https://schistory.org/museum/
+sources:
+  - https://schistory.org/museum/

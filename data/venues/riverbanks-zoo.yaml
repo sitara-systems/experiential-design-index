@@ -1,0 +1,10 @@
+id: riverbanks-zoo
+name: Riverbanks Zoo and Garden
+venue_type: aquarium-zoo
+location:
+  city: Columbia
+  state: SC
+website: https://www.riverbanks.org
+sources:
+  - https://www.riverbanks.org/media-center/highlights/birdhouse
+  - https://www.riverbanks.org/media-center/park-info/history

@@ -1,0 +1,15 @@
+# venue_type: no dedicated "senior housing / affordable housing with public
+# heritage plaza" type exists in vocabularies.yaml; closest fit is `other`.
+# Logged as a vocab gap in the research report rather than forcing a
+# mismatched category.
+id: hana-gardens
+name: Hana Gardens
+venue_type: other
+location:
+  city: El Cerrito
+  state: CA
+operator: Eden Housing
+website: https://edenhousing.org/properties/hana-gardens/
+sources:
+  - https://edenhousing.org/properties/hana-gardens/
+  - https://www.elcerrito.gov/817/Hana-Gardens-Senior-Apartments

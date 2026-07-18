@@ -1,0 +1,9 @@
+id: field-museum-of-natural-history
+name: Field Museum of Natural History
+venue_type: natural-history-museum
+location:
+  city: Chicago
+  state: IL
+website: https://www.fieldmuseum.org
+sources:
+  - https://www.fieldmuseum.org

@@ -1,0 +1,9 @@
+id: eternal-gandhi-museum-houston
+name: Eternal Gandhi Museum Houston
+venue_type: history-museum
+location:
+  city: Houston
+  state: TX
+website: https://egmh.org
+sources:
+  - https://egmh.org/

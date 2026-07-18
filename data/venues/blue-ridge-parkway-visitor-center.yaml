@@ -1,0 +1,10 @@
+id: blue-ridge-parkway-visitor-center
+name: Blue Ridge Parkway Visitor Center
+venue_type: visitor-center
+location:
+  city: Asheville
+  state: NC
+operator: National Park Service
+website: https://www.nps.gov/blri/planyourvisit/blue-ridge-parkway-visitor-center.htm
+sources:
+  - https://www.nps.gov/blri/planyourvisit/blue-ridge-parkway-visitor-center.htm

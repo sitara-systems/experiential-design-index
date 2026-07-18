@@ -1,0 +1,22 @@
+id: postal-museum-systems-at-work
+name: Systems at Work
+venue: smithsonian-national-postal-museum
+project_type: new-exhibition
+year_completed: 2013
+credits:
+  - firm: capitol-museum-services
+    role: fabrication
+    note: "3,200 sq ft postal exhibition with central 270-degree AV theater hub; 6-week demolition/renovation timeframe, per CMS's own portfolio"
+  - firm: capitol-museum-services
+    role: av-integration
+technologies:
+  - immersive theater
+summary: >
+  Systems at Work, a 3,200-square-foot exhibition on postal sorting and
+  transportation systems built around a central 270-degree audio-visual
+  theater, opened at the Smithsonian's National Postal Museum in
+  Washington, DC; fabrication and AV integration by Capitol Museum
+  Services.
+description: ""
+sources:
+  - https://capitolmuseumservices.com/portfolio/museums/

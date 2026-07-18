@@ -1,0 +1,11 @@
+id: coppell-arts-center
+name: Coppell Arts Center
+venue_type: cultural-center
+location:
+  city: Coppell
+  state: TX
+operator: City of Coppell
+website: https://www.coppellartscenter.org
+sources:
+  - https://www.coppellartscenter.org/about/history
+  - https://www.corgan.com/projects/coppell-arts-center

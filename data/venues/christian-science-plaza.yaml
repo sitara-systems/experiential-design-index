@@ -1,0 +1,11 @@
+id: christian-science-plaza
+name: Christian Science Plaza
+venue_type: visitor-center
+location:
+  city: Boston
+  state: MA
+operator: The First Church of Christ, Scientist
+website: https://www.christianscience.com/find-us/visit-the-mother-church/visit-the-christian-science-plaza
+sources:
+  - https://www.christianscience.com/find-us/visit-the-mother-church/visit-the-christian-science-plaza/how-do-you-see-the-world-experience
+  - https://en.wikipedia.org/wiki/Christian_Science_Plaza

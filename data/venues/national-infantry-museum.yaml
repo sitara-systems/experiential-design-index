@@ -1,0 +1,11 @@
+id: national-infantry-museum
+name: National Infantry Museum & Soldier Center
+venue_type: history-museum
+location:
+  city: Columbus
+  state: GA
+operator: National Infantry Foundation
+website: https://nationalinfantrymuseum.org
+sources:
+  - https://nationalinfantrymuseum.org
+  - https://en.wikipedia.org/wiki/National_Infantry_Museum

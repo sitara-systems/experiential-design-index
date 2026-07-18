@@ -1,0 +1,33 @@
+id: smart-factory-wichita-experience
+name: The Smart Factory by Deloitte @ Wichita
+venue: smart-factory-wichita
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: gensler
+    role: media-design
+    note: Digital experience design, digital content design and production, and experience strategy for the tablet-guided visitor journey
+  - firm: gensler
+    role: architecture
+    note: Interior architecture and design
+  - firm: gensler
+    role: graphics-wayfinding
+    note: Environmental graphics and wayfinding
+technologies:
+  - real-time data visualization
+  - tablet-guided wayfinding
+  - React-based software
+  - sensor-driven production metrics
+summary: >
+  The Smart Factory by Deloitte @ Wichita, a 60,000 sq ft immersive smart-manufacturing
+  experience center on the Wichita State University Innovation
+  Campus in Wichita, Kansas, opened in June 2022; Gensler provided digital
+  experience design, interior architecture, and environmental graphics for
+  the tablet-guided, data-driven visitor journey through a fully operational
+  production line.
+description: ""
+sources:
+  - https://www.deloitte.com/us/en/about/press-room/deloitte-opens-new-us-smart-factory-in-wichita-kansas.html
+  - https://www.gensler.com/projects/the-smart-factory-by-deloitte
+  - https://dxd.gensler.com/case-studies/thesmartfactory
+  - https://www.commarts.com/project/37564/the-smart-factory-by-deloitte-wichita

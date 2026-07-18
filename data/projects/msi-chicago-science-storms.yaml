@@ -1,0 +1,31 @@
+id: msi-chicago-science-storms
+name: Science Storms
+venue: museum-of-science-and-industry-chicago
+project_type: new-exhibition
+year_completed: 2010
+credits:
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "Engineering services, fabrication, automation software development, rigging installation, coordination with other fabrication firms"
+  - firm: evidence-design
+    role: exhibit-design
+    note: "Lead design partner"
+  - firm: cortina-productions
+    role: media-design
+    note: "Media producer"
+  - firm: mad-systems
+    role: av-integration
+    note: "Audio-visual systems design; no firm record yet"
+technologies:
+  - automated science demonstration rigs
+summary: >
+  Science Storms, a 26,000 sq ft exhibition of seven core exhibits on
+  natural phenomena including sunlight, opened at the Museum of Science
+  and Industry, Chicago in 2010; lead design by Evidence Design, media
+  production by Cortina Productions, AV systems design by MAD Systems, and
+  fabrication, engineering, and installation by Chicago Scenic Studios.
+description: >
+  The Sunlight exhibit demonstrates sunlight's scientific properties via
+  large-scale, repeatable visual experiments including a heliostat array.
+sources:
+  - https://www.chicagoscenic.com/projects/science-storms

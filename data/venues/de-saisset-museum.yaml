@@ -1,0 +1,10 @@
+id: de-saisset-museum
+name: de Saisset Museum
+venue_type: art-museum
+location:
+  city: Santa Clara
+  state: CA
+operator: Santa Clara University
+website: https://www.scu.edu/desaisset/
+sources:
+  - https://www.scu.edu/desaisset/

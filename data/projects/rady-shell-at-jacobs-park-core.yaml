@@ -1,0 +1,61 @@
+id: rady-shell-at-jacobs-park-core
+name: The Rady Shell at Jacobs Park
+venue: rady-shell-at-jacobs-park
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: tucker-sadler-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: soundforms
+    role: architecture
+    note: "performance shell (tensile-fabric/steel-tube canopy) design, with Flanagan Lawrence and Expedition; no firm record yet"
+  - firm: fabritecture
+    role: fabrication
+    note: "tensile structure technical design, fabrication, and installation of the shell; no firm record yet"
+  - firm: burton-landscape-architecture-studio
+    role: landscape-architecture
+    note: "no firm record yet"
+  - firm: charles-m-salter-associates
+    role: av-integration
+    note: "acoustic, AV, and IT consulting and acoustic paneling design; acoustics itself is outside this index's role vocabulary, AV design credited here; no firm record yet"
+  - firm: meyer-sound
+    role: av-integration
+    note: "designed the onstage acoustic enhancement system ('Constellation'); no firm record yet"
+  - firm: l-acoustics
+    role: av-integration
+    note: "custom surround sound reinforcement system; no firm record yet"
+  - firm: hlb
+    role: lighting-design
+    note: "Horton Lees Brogden; architectural lighting design, distinct from Schuler Shook's theatrical lighting/rigging scope; no firm record yet"
+  - firm: schuler-shook
+    role: lighting-design
+    note: "theatre planning and consulting, theatrical lighting and rigging design, coordination of stage equipment within the tensile-fabric shell"
+technologies: []
+summary: >
+  The Rady Shell at Jacobs Park, a permanent 10,000-capacity outdoor
+  amphitheater on San Diego Bay and summer home of the San Diego Symphony,
+  opened August 2021, designed by Tucker Sadler Architects with a tensile
+  fabric-and-steel performance shell by Soundforms (with Flanagan Lawrence
+  and Expedition), fabricated and installed by Fabritecture, and theatre
+  planning by Schuler Shook.
+description: >
+  Built on the Embarcadero Marina Park South site for roughly $85 million,
+  the venue's irregular tensile-fabric canopy required close coordination
+  between its shell designer (Soundforms), fabricator (Fabritecture), and
+  theatre/AV consultants to integrate stage rigging, acoustics, and sound
+  reinforcement within the structure. Landscape architecture was led by
+  Burton Landscape Architecture Studio; acoustic, AV, and IT consulting by
+  Charles M. Salter Associates; the onstage acoustic enhancement system by
+  Meyer Sound and surround sound reinforcement by L-Acoustics; architectural
+  lighting by HLB (Horton Lees Brogden), with theatrical lighting and
+  rigging by Schuler Shook. Structural engineering was by Coffman Engineers,
+  civil engineering by Moffat & Nichol, and MEP engineering by Robinson
+  Engineering — not credited here as engineering is outside this index's
+  role vocabulary. General contractor was Rudolph and Sletten.
+sources:
+  - https://schulershook.com/projects/the-rady-shell-at-jacobs-park
+  - https://www.tuckersadler.com/projects/rady-shell
+  - https://theshell.org/about/about-the-rady-shell
+  - https://en.wikipedia.org/wiki/The_Rady_Shell_at_Jacobs_Park
+  - https://metropolismag.com/projects/rady-shell-san-diego-waterfront/

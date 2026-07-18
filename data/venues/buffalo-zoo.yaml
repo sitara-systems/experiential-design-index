@@ -1,0 +1,10 @@
+id: buffalo-zoo
+name: Buffalo Zoo
+venue_type: aquarium-zoo
+location:
+  city: Buffalo
+  state: NY
+website: https://buffalozoo.org
+sources:
+  - https://buffalozoo.org/exhibits/arctic-edge/
+  - https://buffalozoo.org/exhibits/mt-rainforest/

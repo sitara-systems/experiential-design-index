@@ -1,0 +1,31 @@
+# Firm record — New England Technology Group
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: new-england-technology-group
+name: New England Technology Group, Inc.
+aka:
+  - NETG
+website: https://netgworld.com
+hq:
+  city: Cambridge
+  state: MA
+founded: 1981
+roles:
+  - av-integration
+  - media-design
+status: unclear
+status_basis: >
+  Company website (netgworld.com) remains live with a 1996-2026 copyright
+  footer, but its own case-study content is not dated past c. 2012 and no
+  public evidence of a project completed in the last 3 years was found.
+  Credited projects in this dataset (Concord Museum, 2021; Dillaway-Thomas
+  House, c. 2019) are outside the 3-year active window as of this check.
+status_verified: 2026-07-18
+summary: >
+  New England Technology Group is a Cambridge, Massachusetts-based
+  multimedia design and AV integration firm founded in 1981, producing
+  interactive exhibits, show-control systems, and media installations for
+  museums, national parks, and visitor centers.
+sources:
+  - https://netgworld.com/
+  - https://netgworld.com/contact/

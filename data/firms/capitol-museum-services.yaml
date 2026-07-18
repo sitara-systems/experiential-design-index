@@ -1,0 +1,35 @@
+# Firm record — Capitol Museum Services
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: capitol-museum-services
+name: Capitol Museum Services
+aka:
+  - CMS
+  - Capitol Exhibit Services (parent company)
+website: https://capitolmuseumservices.com
+hq:
+  city: Manassas
+  state: VA
+founded: 1988
+roles:
+  - fabrication
+  - av-integration
+  - graphics-wayfinding
+status: active
+status_basis: >
+  Active portfolio maintained on capitolmuseumservices.com listing projects
+  through 2024 (Valentine museum "Sculpting History," January 2024); credited
+  on the Museum of Utah and Collection Facility, which opened June 2026.
+status_verified: 2026-07-18
+summary: >
+  Capitol Museum Services is a Manassas, Virginia-based exhibit fabricator,
+  operating since 1988 (as a division of Capitol Exhibit Services, Inc. since
+  2013), providing detailing, fabrication, graphics production, delivery,
+  installation, and AV integration for museum, visitor-center, and corporate
+  exhibits, primarily for Smithsonian Institution museums, the National Park
+  Service, and other US cultural and government institutions.
+sources:
+  - https://capitolmuseumservices.com/
+  - https://capitolmuseumservices.com/approach/museums/
+  - https://capitolexhibit.com/about-us/history/
+  - https://capitolmuseumservices.com/portfolio/museums/

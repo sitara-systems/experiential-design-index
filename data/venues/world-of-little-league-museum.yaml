@@ -1,0 +1,10 @@
+id: world-of-little-league-museum
+name: World of Little League Museum and Official Store
+venue_type: sports-venue
+location:
+  city: South Williamsport
+  state: PA
+operator: Little League Baseball, Incorporated
+website: https://www.littleleague.org/play-little-league/world-of-little-league/
+sources:
+  - https://www.littleleague.org/play-little-league/world-of-little-league/

@@ -1,0 +1,11 @@
+id: seaworld-san-diego
+name: SeaWorld San Diego
+venue_type: aquarium-zoo
+location:
+  city: San Diego
+  state: CA
+operator: United Parks & Resorts
+website: https://seaworld.com/san-diego/
+sources:
+  - https://seaworld.com/san-diego/animals/the-jellyfish-experience/
+  - https://unitedparks.com/media/press-releases/seaworld-san-diego-debuts-a-one-of-a-kind-wonder-jewels-of-the-sea-the-ultimate-jellyfish-experience/

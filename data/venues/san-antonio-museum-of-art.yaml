@@ -1,0 +1,9 @@
+id: san-antonio-museum-of-art
+name: San Antonio Museum of Art
+venue_type: art-museum
+location:
+  city: San Antonio
+  state: TX
+website: https://www.samuseum.org
+sources:
+  - https://www.samuseum.org/about/our-history/

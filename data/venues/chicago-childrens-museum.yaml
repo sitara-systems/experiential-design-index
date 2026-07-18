@@ -1,0 +1,9 @@
+id: chicago-childrens-museum
+name: Chicago Children's Museum
+venue_type: childrens-museum
+location:
+  city: Chicago
+  state: IL
+website: https://www.chicagochildrensmuseum.org
+sources:
+  - https://www.chicagochildrensmuseum.org

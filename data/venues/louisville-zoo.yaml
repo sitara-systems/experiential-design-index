@@ -1,0 +1,9 @@
+id: louisville-zoo
+name: Louisville Zoo
+venue_type: aquarium-zoo
+location:
+  city: Louisville
+  state: KY
+website: https://louisvillezoo.org
+sources:
+  - https://louisvillezoo.org/gorilla-forest/

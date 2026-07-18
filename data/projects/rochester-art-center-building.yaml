@@ -1,0 +1,16 @@
+id: rochester-art-center-building
+name: Rochester Art Center
+venue: rochester-art-center
+project_type: new-building
+year_completed: 2004
+credits:
+  - firm: hga
+    role: architecture
+technologies: []
+summary: >
+  The 36,000 sq ft Rochester Art Center building in Rochester, Minnesota,
+  opened in spring 2004; architecture by HGA.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Rochester_Art_Center
+  - https://hga.com/projects/rochester-art-center/

@@ -1,0 +1,31 @@
+id: buffalo-zoo-arctic-edge
+name: Arctic Edge
+venue: buffalo-zoo
+project_type: new-exhibition
+year_completed: 2015
+credits:
+  - firm: foit-albert-associates
+    role: architecture
+    note: "No firm record yet; Buffalo-based architect of record"
+  - firm: hadley-exhibits
+    role: fabrication
+    note: "on this credit's counterpart firms; per Hadley's own portfolio"
+technologies:
+  - underwater viewing
+summary: >
+  Arctic Edge, a 1.5-acre, $14 million polar bear and Arctic species exhibit
+  at the Buffalo Zoo in Buffalo, New York, opened in fall 2015 with
+  architecture by Foit-Albert Associates and fabrication by Hadley Exhibits.
+description: >
+  The exhibit features polar bear habitats with underwater viewing, plus
+  Arctic wolves, Canadian lynx, and bald eagles, and converted the zoo's
+  former gift shop into an Arctic Conservation Center for climate-change
+  educational programming. Buffalo-based Foit-Albert Associates served as
+  architect of record; Seattle-based Pat Jankowski Architects & Landscape
+  Architects also contributed to the design per contemporaneous press
+  coverage, though the landscape-architecture role has no matching entry in
+  the current roles vocabulary and is not recorded as a credit here.
+sources:
+  - https://buffalozoo.org/exhibits/arctic-edge/
+  - https://www.buffalorising.com/2014/02/buffalo-zoo-arctic-edge-exhibit/
+  - https://hadleyexhibits.com/buffalo-zoo-arctic-edge-exhibit/

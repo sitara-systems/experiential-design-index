@@ -1,0 +1,29 @@
+id: museum-of-science-and-industry-chicago-you-the-experience
+name: "YOU! The Experience (Giant Heart)"
+venue: museum-of-science-and-industry-chicago
+project_type: new-exhibition
+year_completed: 2009
+credits:
+  - firm: thinc-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      AV for the Giant Heart interactive: five blended projectors on a
+      shaped perforated surface, two blended rear-background projectors, a
+      7th Sense playback system, six-channel audio, and touchscreen
+      visitor/staff interfaces
+technologies:
+  - blended projection
+  - touchscreen interactives
+  - real-time biometric sync
+summary: >
+  "YOU! The Experience," a 15,000-square-foot exhibition centered on a
+  reimagined walk-in Giant Heart, opened at the Museum of Science and
+  Industry, Chicago in 2009, designed by Thinc Design with AV integration by
+  BBI Engineering.
+description: ""
+sources:
+  - https://www.thincdesign.com/project/you-the-experience
+  - https://bbinet.com/works/cmsi-giant-heart/

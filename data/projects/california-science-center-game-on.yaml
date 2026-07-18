@@ -1,0 +1,36 @@
+id: california-science-center-game-on
+name: "GAME ON! Science, Sports & Play"
+venue: california-science-center
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: luci-creative
+    role: exhibit-design
+  - firm: cortina-productions
+    role: media-design
+    note: "10 bilingual (English/Spanish) media experiences"
+  - firm: electrosonic
+    role: av-integration
+  - firm: ravenswood-studio
+    role: fabrication
+technologies:
+  - interactive touchscreens
+  - motion tracking
+  - bilingual media
+summary: >
+  "GAME ON! Science, Sports & Play," a 17,000 sq ft exhibition at the
+  California Science Center in Los Angeles, opened May 15, 2025; Luci
+  Creative designed the exhibit, with media design and production by
+  Cortina Productions, AV integration by Electrosonic, and fabrication by
+  Ravenswood Studio.
+description: >
+  The exhibition features three Skills Labs (force, balance, motion) and
+  more than 25 interactive experiences spanning baseball, softball,
+  basketball, soccer, yoga, dance, board sports, climbing, and swimming,
+  developed with input from Los Angeles-based professional athletes and in
+  partnership with Nike's Sport Research Lab, LA84, and the Dodgers
+  Foundation. Content is presented bilingually in English and Spanish.
+sources:
+  - https://www.cortinaproductions.com/game-on-at-california-science-center/
+  - https://californiasciencecenter.org/exhibits/game-on-science-sports-play
+  - https://www.prnewswire.com/news-releases/game-on-science-sports--play-302395177.html

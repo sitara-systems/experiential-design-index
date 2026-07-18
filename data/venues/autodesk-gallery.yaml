@@ -1,0 +1,11 @@
+id: autodesk-gallery
+name: Autodesk Gallery
+venue_type: brand-experience-center
+location:
+  city: San Francisco
+  state: CA
+operator: Autodesk
+website: https://www.autodesk.com/gallery/overview
+sources:
+  - https://www.autodesk.com/gallery/overview
+  - https://bbinet.com/works/autodesk/

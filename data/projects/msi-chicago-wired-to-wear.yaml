@@ -1,0 +1,29 @@
+id: msi-chicago-wired-to-wear
+name: Wired to Wear
+venue: museum-of-science-and-industry-chicago
+project_type: temporary-exhibition
+year_completed: 2019
+credits:
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "Fabricated modular display platforms, scenic elements, and customized mannequins; project management, fabrication, installation"
+  - firm: ravenswood-studio
+    role: fabrication
+    note: "Fabrication partner"
+  - firm: lightswitch
+    role: lighting-design
+    note: "no firm record yet"
+technologies:
+  - wearable technology displays
+  - interactive touch box
+summary: >
+  Wired to Wear, an 8,000 sq ft exhibition of wearable technologies from 15
+  countries, opened at the Museum of Science and Industry, Chicago in 2019;
+  fabrication by Chicago Scenic Studios and Ravenswood Studio, with lighting
+  design by Lightswitch.
+description: >
+  Featured items include Gravity Industries' Jet Suit, Google's Smart
+  Tattoo, and an interactive Jacquard Box by Google, plus a maker space
+  called Makers United.
+sources:
+  - https://www.chicagoscenic.com/projects/museum-of-science-and-industry

@@ -1,0 +1,9 @@
+id: us-army-womens-museum
+name: U.S. Army Women's Museum
+venue_type: history-museum
+location:
+  city: Fort Gregg-Adams
+  state: VA
+website: https://awm.armylive.dodlive.mil/
+sources:
+  - https://capitolmuseumservices.com/portfolio/museums/

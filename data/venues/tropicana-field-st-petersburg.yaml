@@ -1,0 +1,9 @@
+id: tropicana-field-st-petersburg
+name: Tropicana Field
+venue_type: sports-venue
+location:
+  city: St. Petersburg
+  state: FL
+operator: Tampa Bay Rays
+sources:
+  - https://www.theurbanconga.com/projects/play-with-the-rays

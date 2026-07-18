@@ -1,0 +1,10 @@
+id: tenderloin-museum
+name: Tenderloin Museum
+venue_type: history-museum
+location:
+  city: San Francisco
+  state: CA
+operator: Uptown Tenderloin, Inc.
+website: https://www.tenderloinmuseum.org/
+sources:
+  - https://en.wikipedia.org/wiki/Tenderloin_Museum

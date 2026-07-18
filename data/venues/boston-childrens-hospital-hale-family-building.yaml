@@ -1,0 +1,11 @@
+id: boston-childrens-hospital-hale-family-building
+name: "Boston Children's Hospital — Hale Family Clinical Building"
+venue_type: healthcare-institution
+location:
+  city: Boston
+  state: MA
+operator: Boston Children's Hospital
+website: https://www.childrenshospital.org/about-us/expansion-renewal/hale-family-building
+sources:
+  - https://www.childrenshospital.org/about-us/expansion-renewal/hale-family-building
+  - https://www.healthdesign.org/insights-solutions/boston-childrens-hospital-hale-family-building

@@ -1,0 +1,12 @@
+id: the-momentary
+name: The Momentary
+venue_type: cultural-center
+location:
+  city: Bentonville
+  state: AR
+operator: Crystal Bridges Museum of American Art
+website: https://themomentary.org
+sources:
+  - https://en.wikipedia.org/wiki/The_Momentary
+  - https://themomentary.org/about/
+  - https://crystalbridges.org/news-room/a-new-contemporary-art-space-the-momentary-opens-in-the-heartland-with-the-debut-of-state-of-the-art-2020/

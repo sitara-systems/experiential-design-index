@@ -1,0 +1,10 @@
+id: national-atomic-testing-museum
+name: National Atomic Testing Museum
+venue_type: history-museum
+location:
+  city: Las Vegas
+  state: NV
+website: https://www.atomicmuseum.vegas
+sources:
+  - https://www.atomicmuseum.vegas
+  - https://merriell.com/first-atomic-test

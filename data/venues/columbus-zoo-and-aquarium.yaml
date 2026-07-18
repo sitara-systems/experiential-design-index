@@ -1,0 +1,10 @@
+id: columbus-zoo-and-aquarium
+name: Columbus Zoo and Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Powell
+  state: OH
+website: https://www.columbuszoo.org
+sources:
+  - https://www.columbuszoo.org/heart-of-africa
+  - https://zoolex.org/gallery/show/1630/

@@ -1,0 +1,10 @@
+id: university-of-alaska-museum-of-the-north
+name: University of Alaska Museum of the North
+venue_type: natural-history-museum
+location:
+  city: Fairbanks
+  state: AK
+operator: University of Alaska Fairbanks
+website: https://www.uaf.edu/museum/
+sources:
+  - https://www.uaf.edu/museum/

@@ -1,0 +1,10 @@
+id: washington-state-history-museum
+name: Washington State History Museum
+venue_type: history-museum
+location:
+  city: Tacoma
+  state: WA
+operator: Washington State Historical Society
+website: https://www.washingtonhistory.org
+sources:
+  - https://en.wikipedia.org/wiki/Washington_State_History_Museum

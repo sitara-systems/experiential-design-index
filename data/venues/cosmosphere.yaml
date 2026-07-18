@@ -1,0 +1,9 @@
+id: cosmosphere
+name: Cosmosphere
+venue_type: science-center
+location:
+  city: Hutchinson
+  state: KS
+website: https://cosmo.org
+sources:
+  - https://cosmo.org

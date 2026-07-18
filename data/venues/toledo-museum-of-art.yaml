@@ -1,0 +1,10 @@
+id: toledo-museum-of-art
+name: Toledo Museum of Art
+venue_type: art-museum
+location:
+  city: Toledo
+  state: OH
+website: https://toledomuseum.org
+sources:
+  - https://toledomuseum.org
+  - https://en.wikipedia.org/wiki/Toledo_Museum_of_Art

@@ -1,0 +1,43 @@
+id: national-music-museum-reinstallation
+name: National Music Museum Reinstallation
+venue: national-music-museum
+project_type: major-renovation
+year_completed: 2023
+credits:
+  - firm: luci-creative
+    role: exhibit-design
+  - firm: northern-light-productions
+    role: content-production
+  - firm: electrosonic
+    role: av-integration
+  - firm: ravenswood-studio
+    role: fabrication
+  - firm: gravity-exhibitions
+    role: fabrication
+    note: "Artifact mount-making; no firm record yet"
+  - firm: luxam
+    role: lighting-design
+    note: "No firm record yet"
+technologies:
+  - interactive tables
+  - soundscapes
+  - digital interactives
+summary: >
+  The National Music Museum at the University of South Dakota in Vermillion
+  reopened its first floor of permanent exhibitions on August 26, 2023,
+  following a multi-year renovation of its historic Carnegie Library
+  building; Luci Creative led exhibit design across 15,000 square feet and
+  seven redesigned galleries, with content production by Northern Light
+  Productions, AV integration by Electrosonic, and fabrication by Ravenswood
+  Studio.
+description: >
+  The reinstallation redisplayed the museum's collection of over 600
+  instruments (from holdings of over 15,000 worldwide), curating tactile and
+  digital interactives, media, and soundscapes intended to broaden and
+  diversify the museum's audience. The project also added the Lillibridge
+  Wing, a new special-exhibitions gallery, performance hall, and gift shop.
+sources:
+  - https://siouxcityjournal.com/news/local/national-music-museum-in-vermillion-reopens-renovated-gallery-spaces-after-being-closed-for-five-years/article_c75822ce-445b-11ee-a7dc-db86a017d209.html
+  - https://blooloop.com/museum/news/luci-creative-national-music-museum/
+  - https://ravenswoodstudio.com/project/national-music-museum/
+  - https://www.lucicreative.com/project/national-music-museum

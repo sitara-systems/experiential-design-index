@@ -1,0 +1,30 @@
+id: staten-island-zoo-reptile-house
+name: Carl F. Kauffeld Hall of Reptiles
+venue: staten-island-zoo
+project_type: major-renovation
+year_completed: 2007
+credits:
+  - firm: curtis-and-ginsberg-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: hadley-exhibits
+    role: fabrication
+    note: "on other credits; per Hadley's own portfolio"
+technologies:
+  - artifact/specimen mounts
+summary: >
+  The Carl F. Kauffeld Hall of Reptiles, a 16,600 sq ft renovation of the
+  Staten Island Zoo's 1930s WPA-era exhibit hall in Staten Island, New York,
+  opened in 2007 with architecture by Curtis + Ginsberg Architects and
+  fabrication by Hadley Exhibits.
+description: >
+  Curtis + Ginsberg Architects was engaged by the zoo to fully reimagine the
+  original 1930s reptile exhibition for the 21st century, working with the
+  zoo's curator, keepers, and a wildlife consultant on themes and layout. The
+  project received the NYC Design + Construction Excellence award (2008) and
+  was named to NY Construction News' Best of 2007 list; the completion year
+  above is inferred from those award-cycle dates as no explicit opening date
+  was found in public sources.
+sources:
+  - https://www.cplusga.com/works/staten-island-zoo-reptile-wing/
+  - https://hadleyexhibits.com/staten-island-zoo-reptile-house/

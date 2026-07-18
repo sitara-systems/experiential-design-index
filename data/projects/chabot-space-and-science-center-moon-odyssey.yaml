@@ -1,0 +1,33 @@
+id: chabot-space-and-science-center-moon-odyssey
+name: A Moon Odyssey
+venue: chabot-space-and-science-center
+project_type: new-exhibition
+year_completed: 2006
+credits:
+  - firm: west-office
+    role: exhibit-design
+  - firm: gizmo-art-production
+    role: fabrication
+    note: >
+      No firm record yet; Gizmo Art Production's own portfolio lists "A Moon
+      Odyssey" among eleven interactive exhibits it fabricated for Chabot in
+      2006 (explicit West Office collaboration is named there only for the
+      companion exhibit "Destination Universe," but the two exhibits are
+      part of the same dated project listing)
+technologies:
+  - simulated moonwalk
+  - lunar-module landing simulator
+summary: >
+  A Moon Odyssey, a permanent exhibition on lunar exploration history,
+  opened at Chabot Space & Science Center in Oakland, California in 2006,
+  with exhibit design by West Office Exhibition Design and fabrication by
+  Gizmo Art Production.
+description: >
+  Visitors take a simulated moonwalk, climb into a Mercury capsule replica,
+  and operate a lunar-module landing simulator, while displays address
+  lunar phases, gravity, and the Moon's effects on Earth using space
+  artifacts and replicas spanning Sputnik to Apollo, including an actual
+  Moon-rock sample.
+sources:
+  - https://woed.com/woprojects/chabot-space-science-center-moon-odyssey/
+  - https://gizmosf.com/portfolio/chabot-science-center/

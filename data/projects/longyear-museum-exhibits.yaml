@@ -1,0 +1,33 @@
+id: longyear-museum-exhibits
+name: Longyear Museum Exhibits
+venue: longyear-museum
+project_type: new-exhibition
+year_completed: 2001
+credits:
+  - firm: amaze-design
+    role: exhibit-design
+  - firm: stopfel-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: ede-corporation
+    role: fabrication
+    note: "no firm record yet"
+  - firm: available-light
+    role: lighting-design
+  - firm: batwin-and-robin-productions
+    role: media-design
+    note: "no firm record yet"
+summary: >
+  Permanent exhibits at the Longyear Museum in Chestnut Hill, Massachusetts,
+  presenting the life of Mary Baker Eddy; exhibit design by Amaze Design,
+  with architecture by Stopfel Architects, fabrication by EDE Corporation,
+  lighting design by Available Light, and media design by Batwin + Robin
+  Productions.
+description: >
+  Amaze Design developed the conceptual framework, designed exhibit elements
+  in 2D and 3D, created media content, and managed fabrication through
+  installation for the two interconnected galleries presenting artifacts,
+  audio, media, and Eddy's own words.
+sources:
+  - https://www.amazedesign.com/work/longyear-museum
+  - https://www.longyear.org/about/

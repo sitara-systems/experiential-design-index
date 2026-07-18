@@ -1,0 +1,10 @@
+id: museum-of-art-and-light
+name: Museum of Art + Light
+venue_type: art-museum
+location:
+  city: Manhattan
+  state: KS
+website: https://artlightmuseum.org
+sources:
+  - https://artlightmuseum.org/about/
+  - https://www.forbes.com/sites/chaddscott/2024/11/03/museum-of-art--light-opening-in-manhattan-ks-with-an-industry-leading-focus-on-digital-art/

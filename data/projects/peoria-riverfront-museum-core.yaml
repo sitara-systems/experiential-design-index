@@ -1,0 +1,24 @@
+id: peoria-riverfront-museum-core
+name: Peoria Riverfront Museum
+venue: peoria-riverfront-museum
+project_type: new-building
+year_completed: 2012
+credits:
+  - firm: dewberry
+    role: architecture
+    note: "no firm record yet"
+  - firm: punt-consulting-group
+    role: technical-consulting
+    note: "museum advisory team; wrote RFQs and ran vendor selection for exhibit designers, media/AV developers, and fabricators; no firm record yet"
+  - firm: hadley-exhibits
+    role: fabrication
+summary: >
+  The Peoria Riverfront Museum, a LEED Gold-certified museum combining art,
+  science, and history galleries with a Giant Screen theater and dome
+  planetarium in Peoria, Illinois, opened October 20, 2012, with
+  architecture by Dewberry and exhibit fabrication by Hadley Exhibits.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Peoria_Riverfront_Museum
+  - https://www.puntconsulting.com/projects/peoria-riverfront-museum
+  - https://hadleyexhibits.com/Peoria-Riverfront-Museum

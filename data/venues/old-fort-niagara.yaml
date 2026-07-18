@@ -1,0 +1,9 @@
+id: old-fort-niagara
+name: Old Fort Niagara
+venue_type: history-museum
+location:
+  city: Youngstown
+  state: NY
+website: https://www.oldfortniagara.org/
+sources:
+  - https://nyfalls.com/lakes/ontario/fort-niagara/

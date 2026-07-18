@@ -1,0 +1,14 @@
+# Venue record — Jekyll Island Museum (Mosaic)
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: jekyll-island-museum
+name: Jekyll Island Museum
+venue_type: history-museum
+location:
+  city: Jekyll Island
+  state: GA
+operator: Jekyll Island Authority
+website: https://www.jekyllisland.com/history/museum/
+sources:
+  - https://en.wikipedia.org/wiki/Jekyll_Island_Museum
+  - https://www.jekyllisland.com/history/museum/

@@ -1,0 +1,32 @@
+id: levis-stadium-49ers-museum
+name: San Francisco 49ers Museum
+venue: levis-stadium
+project_type: new-exhibition
+year_completed: 2014
+credits:
+  - firm: cambridgeseven
+    role: exhibit-design
+  - firm: cortina-productions
+    role: media-design
+    note: "Interactive exhibits, film and audio experiences"
+  - firm: electrosonic
+    role: av-integration
+  - firm: the-taylor-group
+    role: fabrication
+    note: "no firm record yet"
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: "no firm record yet"
+technologies:
+  - interactive touchscreens
+  - VR simulation
+  - large-format theater screen
+summary: >
+  The San Francisco 49ers Museum, a 20,000 sq ft museum at Levi's Stadium in
+  Santa Clara, California, opened in August 2014; exhibit design by
+  CambridgeSeven, media design and production by Cortina Productions, AV
+  integration by Electrosonic.
+description: ""
+sources:
+  - https://www.cambridgeseven.com/project/san-francisco-49ers-museum/
+  - https://www.cortinaproductions.com/projects/san-francisco-49ers-museum/

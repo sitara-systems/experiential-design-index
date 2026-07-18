@@ -1,0 +1,11 @@
+id: cave-of-the-winds-pavilion
+name: Cave of the Winds / World Changed Here Pavilion
+venue_type: visitor-center
+location:
+  city: Niagara Falls
+  state: NY
+operator: New York State Parks (Niagara Falls State Park)
+website: https://www.niagarafallsstatepark.com/attractions/cave-of-the-winds/
+sources:
+  - https://www.dasny.org/news/2017/governor-cuomo-announces-opening-7-million-year-round-cave-winds-experience-niagara-falls
+  - https://hhlarchitects.com/portfolio/niagara-falls-state-park-cave-of-the-winds-experience/

@@ -1,0 +1,11 @@
+id: ronald-reagan-presidential-library
+name: Ronald Reagan Presidential Library & Museum
+venue_type: history-museum
+location:
+  city: Simi Valley
+  state: CA
+operator: Ronald Reagan Presidential Foundation & Institute
+website: https://www.reaganfoundation.org/library-museum
+sources:
+  - https://en.wikipedia.org/wiki/Ronald_Reagan_Presidential_Library
+  - https://www.reaganfoundation.org/library-museum

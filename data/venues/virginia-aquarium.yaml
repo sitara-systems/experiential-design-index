@@ -1,0 +1,9 @@
+id: virginia-aquarium
+name: Virginia Aquarium & Marine Science Center
+venue_type: aquarium-zoo
+location:
+  city: Virginia Beach
+  state: VA
+website: https://virginiaaquarium.com
+sources:
+  - https://virginiaaquarium.com

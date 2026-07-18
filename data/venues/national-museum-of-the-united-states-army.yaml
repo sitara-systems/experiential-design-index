@@ -1,0 +1,11 @@
+id: national-museum-of-the-united-states-army
+name: National Museum of the United States Army
+venue_type: history-museum
+location:
+  city: Fort Belvoir
+  state: VA
+operator: Army Historical Foundation
+website: https://www.thenmusa.org/
+sources:
+  - https://en.wikipedia.org/wiki/National_Museum_of_the_United_States_Army
+  - https://www.smithsonianmag.com/smart-news/national-museum-united-states-army-opens-180976293/

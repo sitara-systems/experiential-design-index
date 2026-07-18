@@ -1,0 +1,38 @@
+id: smithsonian-national-air-and-space-museum-the-commons
+name: The Commons
+venue: smithsonian-national-air-and-space-museum
+project_type: major-renovation
+year_completed: 2022
+credits:
+  - firm: pgav-destinations
+    role: exhibit-design
+  - firm: pgav-destinations
+    role: interpretive-planning
+  - firm: pgav-destinations
+    role: graphics-wayfinding
+  - firm: pgav-destinations
+    role: media-design
+technologies:
+  - large-format screens
+  - generative/machine-learning data visualization
+summary: >
+  The Commons, the central concourse and terraces connecting the west
+  wing's renovated galleries at the Smithsonian's National Air and Space
+  Museum in Washington, DC, opened as part of the museum's west-wing
+  reopening on October 14, 2022; exhibit design, interpretive and
+  environmental graphics, and media design by PGAV Destinations, with
+  generative data-visualization content by artist Refik Anadol.
+description: >
+  A concourse and gathering space spanning a footprint larger than two
+  football fields, The Commons connects the museum's base-building
+  architecture to its exhibit galleries and thematically links the west
+  wing's renovated galleries into a single guest journey. Large-format
+  screens throughout the space display stories about the museum's mission
+  and collection, including a partnership with artist Refik Anadol, whose
+  machine-learning algorithms generate abstract "data paintings" from the
+  museum's archival photographs.
+sources:
+  - https://pgavdestinations.com/project/the-commons-national-air-and-space-museum/
+  - https://pgavdestinations.com/news/smithsonian2018/
+  - https://www.si.edu/newsdesk/releases/national-air-and-space-museum-reopens-eight-new-galleries-oct-14
+  - https://www.cnn.com/travel/article/national-air-and-space-museum-reopening-washington-dc-scn/index.html

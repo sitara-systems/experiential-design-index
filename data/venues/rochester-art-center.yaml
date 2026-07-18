@@ -1,0 +1,9 @@
+id: rochester-art-center
+name: Rochester Art Center
+venue_type: art-museum
+location:
+  city: Rochester
+  state: MN
+website: https://www.rochesterartcenter.org
+sources:
+  - https://en.wikipedia.org/wiki/Rochester_Art_Center

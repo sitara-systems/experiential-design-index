@@ -1,0 +1,10 @@
+id: acrisure-stadium
+name: Acrisure Stadium
+venue_type: sports-venue
+location:
+  city: Pittsburgh
+  state: PA
+operator: Pittsburgh Steelers
+website: https://www.steelers.com/stadium/
+sources:
+  - https://www.steelers.com/stadium/

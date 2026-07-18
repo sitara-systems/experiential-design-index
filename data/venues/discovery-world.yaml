@@ -1,0 +1,10 @@
+id: discovery-world
+name: Discovery World at Pier Wisconsin
+venue_type: science-center
+location:
+  city: Milwaukee
+  state: WI
+website: https://www.discoveryworld.org
+sources:
+  - https://www.discoveryworld.org
+  - https://en.wikipedia.org/wiki/Pier_Wisconsin

@@ -1,0 +1,11 @@
+id: riveredge-park
+name: RiverEdge Park
+venue_type: public-space
+location:
+  city: Aurora
+  state: IL
+operator: Aurora Civic Center Authority (Paramount Theatre)
+website: https://paramountaurora.com/riveredge/about/
+sources:
+  - https://paramountaurora.com/riveredge/about/
+  - https://www.archdaily.com/613528/dunham-pavilion-at-aurora-riveredge-park-muller-and-mulloer

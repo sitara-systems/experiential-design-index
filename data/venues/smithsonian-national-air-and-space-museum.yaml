@@ -1,0 +1,10 @@
+id: smithsonian-national-air-and-space-museum
+name: National Air and Space Museum
+venue_type: science-center
+location:
+  city: Washington
+  state: DC
+operator: Smithsonian Institution
+website: https://airandspace.si.edu/
+sources:
+  - https://airandspace.si.edu/

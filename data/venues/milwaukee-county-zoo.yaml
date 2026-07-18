@@ -1,0 +1,10 @@
+id: milwaukee-county-zoo
+name: Milwaukee County Zoo
+venue_type: aquarium-zoo
+location:
+  city: Milwaukee
+  state: WI
+operator: Zoological Society of Milwaukee
+website: https://www.milwaukeezoo.org
+sources:
+  - https://www.milwaukeezoo.org

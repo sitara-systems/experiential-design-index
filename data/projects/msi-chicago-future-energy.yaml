@@ -1,0 +1,30 @@
+id: msi-chicago-future-energy
+name: Future Energy Chicago
+venue: museum-of-science-and-industry-chicago
+project_type: new-exhibition
+year_completed: 2013
+credits:
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "Custom lighting/rigging systems and electrical floor templates; fabrication, installation, project management"
+  - firm: evidence-design
+    role: exhibit-design
+  - firm: electrosonic
+    role: av-integration
+    note: "A/V design development"
+technologies:
+  - stationary bike-powered light effects
+  - hand-crank plasma trees
+summary: >
+  Future Energy Chicago, an interactive exhibit on energy generation and
+  Chicago's future transportation and power systems, opened at the Museum
+  of Science and Industry, Chicago in 2013; exhibit design by Evidence
+  Design, AV design development by Electrosonic, and fabrication,
+  installation, and project management by Chicago Scenic Studios.
+description: >
+  Visitors power displays through physical activity, including stationary
+  bikes generating light effects and hand cranks activating plasma trees,
+  plus facilitated design competitions for energy-efficient vehicles,
+  homes, and neighborhoods.
+sources:
+  - https://www.chicagoscenic.com/projects/future-energy

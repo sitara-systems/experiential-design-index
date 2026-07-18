@@ -1,0 +1,10 @@
+id: discovery-cube-orange-county
+name: Discovery Cube Orange County
+venue_type: childrens-museum
+location:
+  city: Santa Ana
+  state: CA
+website: https://www.discoverycube.org/orange-county
+sources:
+  - https://en.wikipedia.org/wiki/Discovery_Cube_Orange_County
+  - https://bbinet.com/works/the-discovery-cube/

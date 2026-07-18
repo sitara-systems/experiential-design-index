@@ -1,0 +1,10 @@
+id: boston-common
+name: Boston Common
+venue_type: public-space
+location:
+  city: Boston
+  state: MA
+operator: Boston Parks and Recreation Department
+website: https://www.boston.gov/parks/boston-common
+sources:
+  - https://www.boston.gov/parks/boston-common

@@ -1,0 +1,10 @@
+id: colored-musicians-club
+name: The Colored Musicians Club & Jazz Museum
+venue_type: cultural-center
+location:
+  city: Buffalo
+  state: NY
+website: https://www.thecoloredmusiciansclub.com
+sources:
+  - https://www.thecoloredmusiciansclub.com/about-us
+  - https://www.wnyheritage.org/content/endnotes_the_colored_musicians_club_jazz_museum/index.html

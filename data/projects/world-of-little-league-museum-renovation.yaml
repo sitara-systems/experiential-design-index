@@ -1,0 +1,25 @@
+id: world-of-little-league-museum-renovation
+name: World of Little League
+venue: world-of-little-league-museum
+project_type: major-renovation
+year_completed: 2013
+credits:
+  - firm: cambridgeseven
+    role: exhibit-design
+  - firm: design-and-production-incorporated
+    role: fabrication
+technologies:
+  - interactive video
+  - touch table
+  - 3D simulation
+summary: >
+  The former Peter J. McGovern Little League Museum in South Williamsport,
+  Pennsylvania reopened as the World of Little League after a $4.3 million
+  renovation in June 2013, reorganizing the museum into six interactive
+  gallery "Innings"; exhibit design by CambridgeSeven, with fabrication by
+  Design and Production Incorporated.
+description: ""
+sources:
+  - https://www.cambridgeseven.com/project/world-of-little-league/
+  - https://www.littleleague.org/news/world-little-league-museum-gives-international-sports-heritage-association-world-class-experience/
+  - https://d-and-p.com/human-history

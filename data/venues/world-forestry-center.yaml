@@ -1,0 +1,9 @@
+id: world-forestry-center
+name: World Forestry Center
+venue_type: science-center
+location:
+  city: Portland
+  state: OR
+website: https://worldforestry.org
+sources:
+  - https://worldforestry.org

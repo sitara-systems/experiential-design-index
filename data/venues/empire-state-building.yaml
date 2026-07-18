@@ -1,0 +1,10 @@
+id: empire-state-building
+name: Empire State Building Observatory
+venue_type: themed-attraction
+location:
+  city: New York
+  state: NY
+operator: Empire State Realty Trust
+website: https://www.esbnyc.com
+sources:
+  - https://www.esbnyc.com/press/empire-state-building-observatory-redevelopment-completed

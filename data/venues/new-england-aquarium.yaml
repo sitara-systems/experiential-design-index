@@ -1,0 +1,9 @@
+id: new-england-aquarium
+name: New England Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Boston
+  state: MA
+website: https://www.neaq.org
+sources:
+  - https://www.neaq.org

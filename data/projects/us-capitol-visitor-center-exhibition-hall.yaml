@@ -1,0 +1,27 @@
+id: us-capitol-visitor-center-exhibition-hall
+name: U.S. Capitol Visitor Center Exhibition Hall
+venue: us-capitol-visitor-center
+project_type: new-building
+year_completed: 2008
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: rtkl-associates
+    role: architecture
+    note: "no firm record yet"
+  - firm: hadley-exhibits
+    role: fabrication
+    note: "one of several fabrication contractors on the exhibition hall"
+technologies:
+  - orientation film
+summary: >
+  The U.S. Capitol Visitor Center, a 580,000-square-foot underground
+  orientation and exhibit facility beneath the East Front of the U.S.
+  Capitol in Washington, D.C., opened December 2, 2008, with exhibition
+  design by Ralph Appelbaum Associates, architecture by RTKL Associates, and
+  fabrication by a team of contractors that included Hadley Exhibits.
+description: ""
+sources:
+  - https://raai.com/project/united-states-capitol-visitor-center/
+  - https://en.wikipedia.org/wiki/United_States_Capitol_Visitor_Center
+  - https://hadleyexhibits.com/Capitol-Visitor-Center

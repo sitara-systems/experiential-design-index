@@ -1,0 +1,13 @@
+# Venue record — ABQ BioPark Zoo
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: abq-biopark-zoo
+name: ABQ BioPark Zoo
+venue_type: aquarium-zoo
+location:
+  city: Albuquerque
+  state: NM
+operator: City of Albuquerque
+website: https://www.cabq.gov/artsculture/biopark/zoo
+sources:
+  - https://www.cabq.gov/artsculture/biopark/news/abq-biopark-opens-new-asia-habitat

@@ -1,0 +1,9 @@
+id: the-wild-center
+name: The Wild Center (Natural History Museum of the Adirondacks)
+venue_type: natural-history-museum
+location:
+  city: Tupper Lake
+  state: NY
+website: https://www.wildcenter.org/
+sources:
+  - https://www.wildcenter.org/about-us/the-history-of-the-wild-center/

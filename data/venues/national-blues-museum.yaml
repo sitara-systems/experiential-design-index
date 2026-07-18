@@ -1,0 +1,10 @@
+id: national-blues-museum
+name: National Blues Museum
+venue_type: history-museum
+location:
+  city: St. Louis
+  state: MO
+website: https://www.nationalbluesmuseum.org
+sources:
+  - https://www.nationalbluesmuseum.org
+  - https://bbinet.com/works/national-blues-museum/

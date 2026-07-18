@@ -1,0 +1,10 @@
+id: levis-stadium
+name: Levi's Stadium
+venue_type: sports-venue
+location:
+  city: Santa Clara
+  state: CA
+operator: San Francisco 49ers
+website: https://levisstadium.com
+sources:
+  - https://levisstadium.com/museum/

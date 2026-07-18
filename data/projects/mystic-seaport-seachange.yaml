@@ -1,0 +1,32 @@
+id: mystic-seaport-seachange
+name: SeaChange
+venue: mystic-seaport
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: mcmillan-group
+    role: exhibit-design
+    note: "Design firm closed 2018; no firm record yet"
+  - firm: trivium-interactive
+    role: media-design
+    note: "Media presentation and projection mapping on a 20-foot sail"
+  - firm: mystic-scenic
+    role: fabrication
+technologies:
+  - projection mapping
+summary: >
+  SeaChange, the inaugural exhibit in the Collins Gallery of Mystic Seaport
+  Museum's Thompson Exhibition Building in Mystic, Connecticut, opened
+  December 10, 2016; exhibit design by the McMillan Group, projection-mapped
+  media by Trivium Interactive, and fabrication by Mystic Scenic Studios.
+description: >
+  SeaChange presented objects from Mystic Seaport's collections that speak
+  to transformation in material, technology, and American culture over 200
+  years, several displayed for the first time, each paired with a media
+  presentation. A 20-foot sail at the exhibit's opening was
+  projection-mapped by Trivium Interactive. The project won a 2018 Graphis
+  Design Gold award in the Museum category.
+sources:
+  - https://www.triviuminteractive.com/project/seachange
+  - https://mysticseaport.org/press-release/mystic-seaport-opens-thompson-exhibition-building/
+  - https://www.mysticcustomfabrication.com/newsandawards

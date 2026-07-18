@@ -1,0 +1,10 @@
+id: state-historical-museum-of-iowa
+name: State Historical Museum of Iowa
+venue_type: history-museum
+location:
+  city: Des Moines
+  state: IA
+operator: State Historical Society of Iowa / Iowa Department of Cultural Affairs
+website: https://history.iowa.gov
+sources:
+  - https://history.iowa.gov/visit/state-historical-museum-iowa/exhibits/hollywood-heartland

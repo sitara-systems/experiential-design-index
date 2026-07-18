@@ -1,0 +1,11 @@
+id: google-9th-avenue-office
+name: Google 9th Avenue Office
+venue_type: other
+location:
+  city: New York
+  state: NY
+operator: Google
+website: https://www.google.com
+sources:
+  - https://www.deeplocal.com/google-flowers
+  - https://segd.org/projects/google-flowers/

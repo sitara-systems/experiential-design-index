@@ -1,0 +1,23 @@
+id: oakland-museum-of-california-history-galleries
+name: History and Art Galleries
+venue: oakland-museum-of-california
+project_type: new-exhibition
+year_completed: 2010
+credits:
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      AV systems for the new History and Art Galleries, incl. the "Story
+      Studio" recording-booth interactive and the "Draw Yourself"
+      touchscreen/mirror self-portrait exhibit
+technologies:
+  - interactive recording booth
+  - touchscreen/mirror interactive
+summary: >
+  The History and Art Galleries, part of a renovation of the Oakland Museum
+  of California in Oakland, California, opened in 2010 with AV integration
+  by BBI Engineering, including the "Story Studio" recording-booth and "Draw
+  Yourself" self-portrait interactives.
+description: ""
+sources:
+  - https://bbinet.com/works/oakland-museum-of-california/

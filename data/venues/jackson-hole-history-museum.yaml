@@ -1,0 +1,11 @@
+id: jackson-hole-history-museum
+name: Jackson Hole History Museum
+venue_type: history-museum
+location:
+  city: Jackson
+  state: WY
+operator: Jackson Hole Historical Society & Museum
+website: https://jacksonholehistory.org
+sources:
+  - https://jacksonholehistory.org
+  - https://buckrail.com/history-museum-celebrates-its-grand-opening-june-29/

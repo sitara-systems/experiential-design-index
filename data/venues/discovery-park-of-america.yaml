@@ -1,0 +1,9 @@
+id: discovery-park-of-america
+name: Discovery Park of America
+venue_type: history-museum
+location:
+  city: Union City
+  state: TN
+website: https://discoveryparkofamerica.com
+sources:
+  - https://en.wikipedia.org/wiki/Discovery_Park_of_America

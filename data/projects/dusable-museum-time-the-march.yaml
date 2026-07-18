@@ -1,0 +1,27 @@
+id: dusable-museum-time-the-march
+name: 'TIME "The March": A Virtual Reality Exhibit'
+venue: dusable-museum-of-african-american-history
+project_type: temporary-exhibition
+year_completed: 2020
+credits:
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "Project management, fabrication, and installation; transformed a 2,800 sq ft space into soundproof rooms, custom furniture, and check-in desk"
+  - firm: local-projects
+    role: exhibit-design
+technologies:
+  - virtual reality
+  - immersive media rooms
+summary: >
+  TIME "The March", A Virtual Reality Exhibit recreating the 1963 March on
+  Washington, opened at the DuSable Museum of African American History in
+  Chicago in 2020; produced by TIME Studios with exhibit design by Local
+  Projects and fabrication, installation, and project management by
+  Chicago Scenic Studios.
+description: >
+  Visitors move through five small rooms in groups of four, experiencing
+  civil rights history through media displays and a VR simulation
+  positioning them near the Washington Monument reflecting pool during Dr.
+  Martin Luther King Jr.'s "I Have A Dream" speech.
+sources:
+  - https://www.chicagoscenic.com/projects/time-the-march-a-virtual-reality-exhibit

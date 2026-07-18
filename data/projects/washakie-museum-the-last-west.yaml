@@ -1,0 +1,34 @@
+id: washakie-museum-the-last-west
+name: "The Last West"
+venue: washakie-museum-and-cultural-center
+project_type: new-exhibition
+year_completed: 2011
+credits:
+  - firm: cta-architects-engineers
+    role: architecture
+    note: "No firm record yet"
+  - firm: studio-tectonic
+    role: exhibit-design
+    note: "Full content development, artifact identification and acquisition, exhibit and graphic design, and interactive development; no firm record yet"
+  - firm: hadley-exhibits
+    role: fabrication
+  - firm: hefferan-partnership
+    role: lighting-design
+    note: "No firm record yet"
+technologies:
+  - touch screen
+  - interactive kiosk
+summary: >
+  "The Last West," a permanent exhibition on the social history of Wyoming's
+  Big Horn Basin at the Washakie Museum & Cultural Center in Worland,
+  Wyoming, was designed by Studio Tectonic with architecture by CTA
+  Architects Engineers and fabrication by Hadley Exhibits.
+description: >
+  The exhibition covers the region's cattle wars, lawlessness, and
+  pioneering heritage from the 1800s through the 1920s, including the
+  Johnson County War and the Spring Creek Raid; its Cattle Branding
+  interactive won a Gold Award from the Association of Marketing and
+  Communication Professionals.
+sources:
+  - https://www.studiotectonic.com/projects/washakie-museum-the-last-west/
+  - https://hadleyexhibits.com/washakie-museum-and-cultural-center/

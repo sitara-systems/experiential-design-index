@@ -1,0 +1,9 @@
+id: tennessee-aquarium
+name: Tennessee Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Chattanooga
+  state: TN
+website: https://www.tnaqua.org
+sources:
+  - https://www.tnaqua.org

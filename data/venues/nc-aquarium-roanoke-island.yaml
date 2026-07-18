@@ -1,0 +1,10 @@
+id: nc-aquarium-roanoke-island
+name: North Carolina Aquarium on Roanoke Island
+venue_type: aquarium-zoo
+location:
+  city: Manteo
+  state: NC
+operator: North Carolina Aquariums
+website: https://www.ncaquariums.com/roanoke-island
+sources:
+  - https://www.ncaquariums.com/roanoke-island

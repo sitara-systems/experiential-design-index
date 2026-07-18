@@ -1,0 +1,10 @@
+id: google-grove-experience-center
+name: The Grove, Google Experience Center
+venue_type: briefing-center
+location:
+  city: Redwood City
+  state: CA
+operator: Google
+sources:
+  - https://www.electrosonic.com/projects/the-grove-google-experience-center
+  - https://www.taittowers.com/work/google-the-grove-experience-center

@@ -1,0 +1,9 @@
+id: north-museum-of-nature-and-science
+name: North Museum of Nature and Science
+venue_type: science-center
+location:
+  city: Lancaster
+  state: PA
+website: https://northmuseum.org/
+sources:
+  - https://lancasteronline.com/news/local/new-planetarium-new-nature-gallery-part-of-major-renovations-planned-at-north-museum/article_7f24c5fc-f55a-11e3-80cc-0017a43b2370.html

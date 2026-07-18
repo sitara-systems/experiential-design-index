@@ -1,0 +1,26 @@
+id: buffalo-bill-center-of-the-west-plains-indian-museum
+name: Plains Indian Museum
+venue: buffalo-bill-center-of-the-west
+project_type: new-exhibition
+year_completed: 1999
+credits:
+  - firm: west-office
+    role: exhibit-design
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      A 90-ft-wide by 40-ft-high cyclorama-backed diorama AV system: a
+      12-track sound system, dual 5000-lumen projectors, and a 90-fixture
+      lighting system, originally on laser disk/CD playback; updated 2006
+technologies:
+  - cyclorama projection
+  - multi-track sound system
+summary: >
+  The Plains Indian Museum, one of five museums at the Buffalo Bill Center
+  of the West in Cody, Wyoming, received a diorama and cyclorama exhibit
+  with exhibit design by West Office Exhibition Design and AV integration by
+  BBI Engineering in 1999, updated in 2006.
+description: ""
+sources:
+  - https://woed.com/woprojects/buffalo-bill-center-of-the-west-plains-indian-museum/
+  - https://bbinet.com/works/museum-of-the-plains-indian/

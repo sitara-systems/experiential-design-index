@@ -1,0 +1,31 @@
+id: american-civil-war-museum-core-exhibit
+name: American Civil War Museum Core Exhibit
+venue: american-civil-war-museum
+project_type: new-building
+year_completed: 2019
+credits:
+  - firm: 3north
+    role: architecture
+    note: "no firm record yet"
+  - firm: solid-light
+    role: exhibit-design
+  - firm: solid-light
+    role: media-design
+  - firm: solid-light
+    role: fabrication
+technologies:
+  - interactive media
+summary: >
+  The American Civil War Museum's 30,000 sq ft flagship building at Historic
+  Tredegar in Richmond, VA, opened in 2019; architecture by 3North with
+  exhibit design, interactive media, and fabrication by Solid Light.
+description: >
+  A 6,000 sq ft core exhibition built within the historic Tredegar Iron
+  Works that reframes the Civil War through first-person narratives of
+  soldiers, civilians, politicians, and African Americans, enslaved and
+  free. Received the 2020 Excellence in Exhibition recognition from the
+  American Alliance of Museums.
+sources:
+  - https://solidlight-inc.com/work/american-civil-war-museum/
+  - https://www.3north.com/project/american-civil-war-museum/
+  - https://en.wikipedia.org/wiki/American_Civil_War_Museum

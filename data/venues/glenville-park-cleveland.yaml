@@ -1,0 +1,9 @@
+id: glenville-park-cleveland
+name: Glenville neighborhood park walkway
+venue_type: public-space
+location:
+  city: Cleveland
+  state: OH
+operator: City of Cleveland
+sources:
+  - https://www.theurbanconga.com/projects/shifting-totems

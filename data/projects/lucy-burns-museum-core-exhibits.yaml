@@ -1,0 +1,23 @@
+id: lucy-burns-museum-core-exhibits
+name: Lucy Burns Museum
+venue: lucy-burns-museum
+project_type: new-building
+year_completed: 2020
+credits:
+  - firm: howard-plus-revis-design
+    role: exhibit-design
+    note: "Designer Tracy Revis of Howard+Revis Design; no firm record yet"
+  - firm: capitol-museum-services
+    role: fabrication
+    note: "Interactive rotating panels and faux prison doors, per CMS's own portfolio"
+technologies:
+  - interactive rotating panels
+summary: >
+  The Lucy Burns Museum, housed in a former women's prison at the Workhouse
+  Arts Center in Lorton, Virginia, opened January 25, 2020, timed to the
+  centennial of the 19th Amendment; exhibit design by Tracy Revis of
+  Howard+Revis Design, fabrication by Capitol Museum Services.
+description: ""
+sources:
+  - https://capitolmuseumservices.com/portfolio/museums/
+  - https://workhousearts.org/lucy-burns-museum/

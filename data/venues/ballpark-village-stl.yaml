@@ -1,0 +1,10 @@
+id: ballpark-village-stl
+name: Ballpark Village
+venue_type: sports-venue
+location:
+  city: St. Louis
+  state: MO
+operator: St. Louis Cardinals
+website: https://www.stlballparkvillage.com
+sources:
+  - https://www.stlballparkvillage.com

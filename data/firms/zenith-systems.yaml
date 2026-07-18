@@ -1,0 +1,36 @@
+id: zenith-systems
+name: Zenith Systems
+website: https://www.zenithsystems.com
+hq:
+  city: Cleveland
+  state: OH
+other_offices:
+  - city: Lorain
+    state: OH
+  - city: Erie
+    state: PA
+  - city: Youngstown
+    state: OH
+  - city: Akron
+    state: OH
+  - city: Columbus
+    state: OH
+roles:
+  - av-integration
+status: active
+status_basis: >
+  Cleveland Museum of Art lobby digital signage installed March 2025 and
+  "Pintoricchio Magnified" dvLED exhibit installed by Aug 2025 (running
+  through Aug 2026); active current job postings.
+status_verified: 2026-07-18
+summary: >
+  Zenith Systems is a Cleveland, Ohio design-build electrical, technology,
+  and audio/video systems integration firm, serving as AV integrator on
+  multiple Cleveland Museum of Art digital installations since at least 2012
+  and on the Civil Debate Wall at the University of Florida's Bob Graham
+  Center for Public Service.
+sources:
+  - https://www.zenithsystems.com/services/audio-video
+  - https://www.clevelandart.org/digital-innovations/digital-innovation-collaborators
+  - https://www.clevelandart.org/articles/our-new-lobby-digital-signage
+  - https://www.localprojects.com/work/institutional-hospital-university-college/civil-debate-wall/

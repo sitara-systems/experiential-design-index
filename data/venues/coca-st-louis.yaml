@@ -1,0 +1,11 @@
+id: coca-st-louis
+name: COCA (Center of Creative Arts)
+venue_type: cultural-center
+location:
+  city: University City
+  state: MO
+operator: COCA – Center of Creative Arts
+website: https://www.cocastl.org
+sources:
+  - https://www.cocastl.org
+  - https://www.kirkegaard.com/center-of-creative-arts/

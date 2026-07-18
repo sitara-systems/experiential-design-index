@@ -1,0 +1,10 @@
+id: harley-davidson-museum
+name: Harley-Davidson Museum
+venue_type: corporate-museum
+location:
+  city: Milwaukee
+  state: WI
+operator: Harley-Davidson
+website: https://www.harley-davidson.com/us/en/museum.html
+sources:
+  - https://www.harley-davidson.com/us/en/museum.html

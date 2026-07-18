@@ -1,0 +1,28 @@
+id: gates-foundation-visitor-center-core-exhibits
+name: Gates Foundation Discovery Center
+venue: gates-foundation-visitor-center
+project_type: new-building
+year_completed: 2012
+credits:
+  - firm: olson-kundig
+    role: architecture
+    note: "No firm record yet"
+  - firm: possible-worldwide
+    role: media-design
+    note: "No firm record yet"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      AV systems for interactive exhibits incl. the "Where We Work" globe
+      display synchronized to six monitors with news and social-feed content
+technologies:
+  - synchronized physical/digital globe display
+summary: >
+  The Gates Foundation Discovery Center, a free public visitor center
+  adjacent to the Bill & Melinda Gates Foundation's Seattle campus, opened
+  in February 2012, with architecture by Olson Kundig, media production by
+  Possible Worldwide, and AV integration by BBI Engineering.
+description: ""
+sources:
+  - https://www.gatesfoundation.org/ideas/media-center/press-releases/2012/02/gates-foundation-invites-public-to-explore-new-visitor-center
+  - https://bbinet.com/works/bill-and-melinda-gates-foundation/

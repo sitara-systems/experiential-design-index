@@ -1,0 +1,10 @@
+id: intel-museum
+name: Intel Museum
+venue_type: corporate-museum
+location:
+  city: Santa Clara
+  state: CA
+operator: Intel Corporation
+website: https://www.intel.com/content/www/us/en/company-overview/intel-museum.html
+sources:
+  - https://www.intel.com/content/www/us/en/company-overview/intel-museum.html

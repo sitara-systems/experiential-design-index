@@ -1,0 +1,27 @@
+id: springs-preserve-core-exhibits
+name: Springs Preserve
+venue: springs-preserve
+project_type: new-building
+year_completed: 2007
+credits:
+  - firm: west-office
+    role: exhibit-design
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      Technical design for the project's exhibits and interactives, incl.
+      fabrication/programming of augmented-reality viewers, sliding-monitor
+      exhibits, an RFID-based fossil-dig interactive, object theaters, and
+      outdoor soundscape
+technologies:
+  - augmented reality viewers
+  - RFID interactive
+  - object theaters
+summary: >
+  Springs Preserve, a LEED Platinum museum and cultural campus on Las Vegas
+  history and desert sustainability, opened in Las Vegas, Nevada in 2007,
+  with exhibit design by West Office Exhibition Design and AV integration by
+  BBI Engineering.
+description: ""
+sources:
+  - https://bbinet.com/works/las-vegas-springs-preserve/

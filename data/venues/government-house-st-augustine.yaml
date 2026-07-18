@@ -1,0 +1,10 @@
+id: government-house-st-augustine
+name: Government House Museum & Interpretation Center
+venue_type: history-museum
+location:
+  city: St. Augustine
+  state: FL
+operator: UF Historic St. Augustine, Inc. (University of Florida)
+website: https://staugustine.ufl.edu/museum.html
+sources:
+  - https://staugustine.ufl.edu/museum.html

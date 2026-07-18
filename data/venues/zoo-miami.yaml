@@ -1,0 +1,13 @@
+# Venue record — Zoo Miami
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: zoo-miami
+name: Zoo Miami
+venue_type: aquarium-zoo
+location:
+  city: Miami
+  state: FL
+operator: Miami-Dade County
+website: https://www.zoomiami.org
+sources:
+  - https://www.zoomiami.org

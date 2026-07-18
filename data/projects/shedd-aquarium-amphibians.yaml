@@ -1,0 +1,23 @@
+id: shedd-aquarium-amphibians
+name: Amphibians
+venue: shedd-aquarium
+project_type: new-exhibition
+year_completed: 2016
+credits:
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "Fabrication, installation, project management; fabricated tank bases and habitat elements"
+  - firm: nevin-hedlund-architects
+    role: architecture
+    note: "no firm record yet"
+technologies:
+  - habitat display tanks
+summary: >
+  Amphibians, a permanent exhibition of more than 30 habitats containing 40
+  species of salamanders, frogs, toads, and caecilians, opened at the John
+  G. Shedd Aquarium in Chicago in May 2016; designed with Nevin Hedlund
+  Architects and fabricated, installed, and project-managed by Chicago
+  Scenic Studios.
+description: ""
+sources:
+  - https://www.chicagoscenic.com/projects/amphibians

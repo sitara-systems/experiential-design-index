@@ -1,0 +1,25 @@
+# Project record — Zoo Miami Florida: Mission Everglades
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: zoo-miami-mission-everglades
+name: "Florida: Mission Everglades"
+venue: zoo-miami
+project_type: new-exhibition
+year_completed: 2018
+credits:
+  - firm: main-street-design
+    role: interpretive-planning
+    note: "Interpretive graphics and exhibits, including signage and specialty interactives"
+  - firm: pja-architects
+    role: architecture
+    note: "No firm record yet"
+technologies: []
+summary: >
+  "Florida: Mission Everglades," an immersive exhibit zone at Zoo Miami in
+  Miami, Florida taking visitors through Everglades habitats including
+  hammocks, pinelands, and a river-otter water slide, opened in 2018;
+  architecture by PJA Architects, with interpretive graphics and exhibits by
+  Main Street Design and fabrication by Nassal.
+description: ""
+sources:
+  - https://www.nassal.com/projects/zoo-miami-mission-everglades

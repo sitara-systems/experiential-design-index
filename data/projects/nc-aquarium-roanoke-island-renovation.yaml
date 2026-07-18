@@ -1,0 +1,24 @@
+id: nc-aquarium-roanoke-island-renovation
+name: North Carolina Aquarium on Roanoke Island renovation
+venue: nc-aquarium-roanoke-island
+project_type: major-renovation
+year_completed: 2016
+credits:
+  - firm: cambridgeseven
+    role: exhibit-design
+  - firm: cortina-productions
+    role: media-design
+    note: "14 media pieces including an immersive 150-degree film and interactive floor projections"
+technologies:
+  - augmented reality
+  - interactive floor projection
+summary: >
+  The North Carolina Aquarium on Roanoke Island in Manteo reopened August
+  10, 2016 after a $6.5 million renovation of seven galleries tracing a
+  journey from inland freshwater ecosystems to the Outer Banks; exhibit
+  design by CambridgeSeven, media design and production by Cortina
+  Productions.
+description: ""
+sources:
+  - https://www.cambridgeseven.com/project/north-carolina-aquarium-on-roanoke-island/
+  - https://www.cortinaproductions.com/nc-aquarium-renovation/

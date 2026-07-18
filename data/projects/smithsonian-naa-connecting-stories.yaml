@@ -1,0 +1,21 @@
+id: smithsonian-naa-connecting-stories
+name: Connecting Stories
+venue: smithsonian-national-museum-of-asian-art
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: capitol-museum-services
+    role: fabrication
+    note: "Per CMS's own portfolio, which describes a topographic Fuller Map and Tibetan Buddhist Shrine Room immersive experience as part of the gallery's scope; not independently corroborated in institutional coverage of the interactive touchscreen component"
+technologies:
+  - interactive touchscreen
+  - projection
+summary: >
+  Connecting Stories, an interactive gallery inviting visitors to explore
+  personal connections to the collection, opened April 29, 2023 at the
+  Smithsonian's National Museum of Asian Art in Washington, DC; fabrication
+  by Capitol Museum Services.
+description: ""
+sources:
+  - https://capitolmuseumservices.com/portfolio/museums/
+  - https://asia.si.edu/whats-on/exhibitions/connecting-stories-at-the-national-museum-of-asian-art/

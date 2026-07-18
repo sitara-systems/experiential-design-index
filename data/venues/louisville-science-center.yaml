@@ -1,0 +1,9 @@
+id: louisville-science-center
+name: Louisville Science Center
+venue_type: science-center
+location:
+  city: Louisville
+  state: KY
+website: https://louisvillescience.org
+sources:
+  - https://louisvillescience.org

@@ -1,0 +1,30 @@
+id: wells-fargo-center-philadelphia-kinetic-scoreboard
+name: Kinetic Center-Hung Scoreboard
+venue: wells-fargo-center-philadelphia
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: tait
+    role: fabrication
+    note: "Design & engineering, fabrication, integration, and show control for the first-of-its-kind kinetic center-hung 4K LED scoreboard"
+  - firm: tait
+    role: av-integration
+technologies:
+  - 4K LED video
+  - kinetic automation
+  - TAIT Navigator automation platform
+summary: >
+  A first-of-its-kind kinetic center-hung 4K LED scoreboard at the Wells
+  Fargo Center arena in Philadelphia, home of the NBA's 76ers and NHL's
+  Flyers, was installed in 2019 as part of the arena's transformation,
+  designed, fabricated, and integrated by TAIT with movable crown trusses
+  automated on the TAIT Navigator platform.
+description: >
+  The 90,000 lb system totals 6,601 sq ft of 4K LED video across more than
+  40 million pixels, with crown trusses on either side capable of vertical
+  movement at up to 4 ft per second, enabling motion, pyrotechnics,
+  lighting, and video effects in combination.
+sources:
+  - https://www.taittowers.com/work/wells-fargo-center-kinetic-scoreboard
+  - https://www.inquirer.com/business/philadelphia-wells-fargo-center-scoreboard-tait-lititz-20190813.html
+  - https://www.inquirer.com/sports/wells-fargo-center-flyers-76ers-kinetic-scoreboard-20190910.html

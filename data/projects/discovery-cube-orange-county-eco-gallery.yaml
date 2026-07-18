@@ -1,0 +1,24 @@
+id: discovery-cube-orange-county-eco-gallery
+name: Eco Gallery
+venue: discovery-cube-orange-county
+project_type: new-exhibition
+year_completed: 2011
+credits:
+  - firm: cinnabar
+    role: exhibit-design
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      AV integration for a 4-player trash-sorting game with leaderboard, 500
+      RFID objects, touchscreen interactives, and barcode-reader shopping
+      carts
+technologies:
+  - RFID
+  - touchscreen interactives
+summary: >
+  The Eco Gallery, a waste-management-themed interactive exhibit at
+  Discovery Cube Orange County in Santa Ana, California, opened in 2011,
+  with exhibit design by Cinnabar and AV integration by BBI Engineering.
+description: ""
+sources:
+  - https://bbinet.com/works/the-discovery-cube/

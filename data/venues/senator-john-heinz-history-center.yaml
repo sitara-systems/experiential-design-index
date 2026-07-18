@@ -1,0 +1,10 @@
+id: senator-john-heinz-history-center
+name: Senator John Heinz History Center
+venue_type: history-museum
+location:
+  city: Pittsburgh
+  state: PA
+operator: Heinz History Center / Smithsonian Institution affiliate
+website: https://www.heinzhistorycenter.org
+sources:
+  - https://www.heinzhistorycenter.org

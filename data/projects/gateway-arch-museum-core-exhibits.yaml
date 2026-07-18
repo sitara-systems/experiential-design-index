@@ -1,0 +1,29 @@
+id: gateway-arch-museum-core-exhibits
+name: Gateway Arch Museum
+venue: gateway-arch-museum
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: hayley-sharpe-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: aperture-films
+    role: content-production
+    note: "No firm record yet"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      AV systems incl. three large rear-projection screens emerging from the
+      floor at the entry and a 100-screen video wall in the tram lobby
+technologies:
+  - rear projection
+  - video wall
+summary: >
+  The Gateway Arch Museum, a 9-gallery museum on Manifest Destiny and
+  westward expansion beneath the Gateway Arch in St. Louis, Missouri, opened
+  in 2018 as part of the CityArchRiver renovation, with exhibit design by
+  Hayley Sharpe Design, media production by Aperture Films, and AV
+  integration by BBI Engineering.
+description: ""
+sources:
+  - https://bbinet.com/works/gateway-arch-national-park/

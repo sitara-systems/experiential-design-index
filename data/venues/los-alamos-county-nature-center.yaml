@@ -1,0 +1,10 @@
+id: los-alamos-county-nature-center
+name: Los Alamos County Nature Center
+venue_type: botanical-garden
+location:
+  city: Los Alamos
+  state: NM
+operator: Los Alamos County
+website: https://losalamosnaturecenter.org
+sources:
+  - https://merriell.com/los-alamos

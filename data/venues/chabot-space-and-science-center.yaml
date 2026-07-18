@@ -1,0 +1,9 @@
+id: chabot-space-and-science-center
+name: Chabot Space and Science Center
+venue_type: science-center
+location:
+  city: Oakland
+  state: CA
+website: https://www.chabotspace.org
+sources:
+  - https://www.chabotspace.org

@@ -1,0 +1,10 @@
+id: big-break-visitor-center
+name: Big Break Visitor Center
+venue_type: visitor-center
+location:
+  city: Oakley
+  state: CA
+operator: East Bay Regional Park District
+website: https://www.ebparks.org/parks/visitor-centers/big-break
+sources:
+  - https://www.ebparks.org/parks/visitor-centers/big-break

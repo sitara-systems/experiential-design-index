@@ -1,0 +1,10 @@
+id: epcot
+name: EPCOT
+venue_type: themed-attraction
+location:
+  city: Lake Buena Vista
+  state: FL
+operator: Walt Disney World Resort
+website: https://disneyworld.disney.go.com/destinations/epcot/
+sources:
+  - https://disneyworld.disney.go.com/destinations/epcot/

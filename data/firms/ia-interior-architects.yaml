@@ -1,0 +1,38 @@
+id: ia-interior-architects
+name: IA Interior Architects
+aka:
+  - IA
+website: https://interiorarchitects.com
+hq:
+  city: San Francisco
+  state: CA
+other_offices:
+  - city: Atlanta
+    state: GA
+  - city: Chicago
+    state: IL
+  - city: New York
+    state: NY
+  - city: Washington
+    state: DC
+founded: 1984
+roles:
+  - architecture
+  - exhibit-design
+status: active
+status_basis: >
+  Completed Relish'in Change for Relish Works, Chicago (2024), which won a
+  2025 SEGD Global Design Award Honor Award; ongoing active project
+  portfolio and office network as of 2026.
+status_verified: 2026-07-18
+summary: >
+  IA Interior Architects is a San Francisco-based global interior
+  architecture firm founded in 1984, with offices across the US and in
+  London and Toronto. Its work is overwhelmingly corporate workplace
+  interiors, with occasional experiential design and branded-environment
+  work for corporate clients and, less often, public civic and cultural
+  facilities.
+sources:
+  - https://interiorarchitects.com/who-we-are/
+  - https://interiorarchitects.com/what-we-do/
+  - https://segd.org/firms/ia-interior-architects/

@@ -1,0 +1,10 @@
+id: childrens-health-dallas
+name: Children's Health
+venue_type: healthcare-institution
+location:
+  city: Dallas
+  state: TX
+operator: Children's Medical Center Dallas
+website: https://www.childrens.com/
+sources:
+  - https://mcdmag.com/2013/09/childrens-medical-center-dallas-commemorates-100-years-of-care-with-new-lobby/

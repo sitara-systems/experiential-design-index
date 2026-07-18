@@ -1,0 +1,30 @@
+id: fernbank-museum-wildwoods-aglow
+name: "WildWoods: AGLOW"
+venue: fernbank-museum
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: tait
+    role: exhibit-design
+    note: "Credited as \"produced by Thinkwell, now tait\"; design of the nighttime immersive experience"
+  - firm: tait
+    role: media-design
+    note: "Interactive lighting and projection across the 10-acre WildWoods habitat"
+technologies:
+  - projection
+  - interactive lighting
+  - motion-triggered sound
+summary: >
+  WildWoods: AGLOW, a nighttime immersive light and sound experience across
+  the 10-acre WildWoods natural habitat behind the Fernbank Museum of
+  Natural History in Atlanta, opened in 2022, designed and produced by TAIT
+  (via its Thinkwell Group studio) in partnership with Fernbank's science
+  team.
+description: >
+  The experience transforms the wooded habitat into an open-environment
+  attraction using trees, roots, and other natural elements as the canvas
+  for projected imagery and interactive light, including oversized glowing
+  seed forms and mushrooms that trigger sound based on guest movement.
+sources:
+  - https://www.taittowers.com/work/wildwoods-aglow
+  - https://www.businesswire.com/news/home/20230221005827/en/%E2%80%9CWildWoods-AGLOW%E2%80%9D-Nighttime-Attraction-at-Fernbank-Museum-Reaches-its-Final-Two-Weeks

@@ -1,0 +1,11 @@
+id: warner-bros-studio-tour-hollywood
+name: Warner Bros. Studio Tour Hollywood
+venue_type: themed-attraction
+location:
+  city: Burbank
+  state: CA
+operator: Warner Bros.
+website: https://www.wbstudiotour.com
+sources:
+  - https://www.wbstudiotour.com
+  - https://en.wikipedia.org/wiki/Warner_Bros._Studio_Tour_Hollywood

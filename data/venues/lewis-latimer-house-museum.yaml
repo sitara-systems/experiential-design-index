@@ -1,0 +1,10 @@
+id: lewis-latimer-house-museum
+name: Lewis Latimer House Museum
+venue_type: history-museum
+location:
+  city: Flushing
+  state: NY
+website: https://www.lewislatimerhouse.org
+sources:
+  - https://www.lewislatimerhouse.org
+  - https://nylandmarks.org/news/conservancy-grant-helps-with-latimer-house-renovation/

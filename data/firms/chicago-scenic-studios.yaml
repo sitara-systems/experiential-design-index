@@ -1,0 +1,31 @@
+# Firm record — Chicago Scenic Studios
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: chicago-scenic-studios
+name: Chicago Scenic Studios, Inc.
+aka: []
+website: https://www.chicagoscenic.com
+hq:
+  city: Chicago
+  state: IL
+founded: 1983
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Portfolio page (chicagoscenic.com/projects) lists work through recent
+  years including the 2022 Willis Tower Skydeck renovation and a current
+  team page; already credited fabricator on 6+ projects recorded in this
+  index (American Writers Museum, de Young Museum, Great Lakes Science
+  Center/NASA Glenn Visitor Center, Mascot Hall of Fame, Willis Tower
+  Skydeck).
+status_verified: 2026-07-18
+summary: >
+  Chicago Scenic Studios is a Chicago-based scenic fabrication company
+  operating a 165,000-square-foot production facility, providing exhibit
+  and themed-environment fabrication, installation, and project management
+  for museums, science centers, aquariums, corporate, and entertainment
+  clients.
+sources:
+  - https://www.chicagoscenic.com/about
+  - https://www.chicagoscenic.com/projects

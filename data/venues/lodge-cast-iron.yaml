@@ -1,0 +1,10 @@
+id: lodge-cast-iron
+name: Lodge Cast Iron
+venue_type: corporate-museum
+location:
+  city: South Pittsburg
+  state: TN
+operator: Lodge Manufacturing Company
+website: https://www.lodgecastiron.com/pages/museum
+sources:
+  - https://www.lodgecastiron.com/pages/museum

@@ -1,0 +1,10 @@
+id: old-state-house-museum
+name: Old State House Museum
+venue_type: history-museum
+location:
+  city: Little Rock
+  state: AR
+operator: Department of Arkansas Heritage
+website: https://www.oldstatehouse.com
+sources:
+  - https://www.arkansasheritage.com/old-state-house-museum/about/history/history-2

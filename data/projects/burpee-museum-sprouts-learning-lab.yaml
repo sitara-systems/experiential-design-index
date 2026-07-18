@@ -1,0 +1,26 @@
+id: burpee-museum-sprouts-learning-lab
+name: SPROUTS Learning Lab
+venue: burpee-museum-of-natural-history
+project_type: new-exhibition
+year_completed: 2018
+credits:
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "Fabrication, installation, project management"
+  - firm: architecture-is-fun
+    role: exhibit-design
+    note: "no firm record yet"
+technologies:
+  - hands-on discovery stations
+summary: >
+  SPROUTS Learning Lab, an interactive early-childhood science exhibit at
+  the Burpee Museum of Natural History in Rockford, Illinois, opened in
+  2018; design by Architecture Is Fun with fabrication, installation, and
+  project management by Chicago Scenic Studios.
+description: >
+  Centered on a U-shaped "Conversation Pit" with accessible cubbies of
+  touchable artifacts, a "Dino Wall" for customizing a T-Rex silhouette,
+  and a "Cloud of Wonder" of suspended taxidermy animals, all built low to
+  the ground for child accessibility.
+sources:
+  - https://www.chicagoscenic.com/projects/sprouts-learning-lab

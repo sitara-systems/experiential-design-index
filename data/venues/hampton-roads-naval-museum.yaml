@@ -1,0 +1,10 @@
+id: hampton-roads-naval-museum
+name: Hampton Roads Naval Museum
+venue_type: history-museum
+location:
+  city: Norfolk
+  state: VA
+operator: Naval History and Heritage Command / U.S. Navy
+website: https://www.history.navy.mil/content/history/museums/hrnm.html
+sources:
+  - https://www.history.navy.mil/content/history/museums/hrnm.html

@@ -1,0 +1,9 @@
+id: florence-county-museum
+name: Florence County Museum
+venue_type: history-museum
+location:
+  city: Florence
+  state: SC
+website: https://florencecountymuseum.org/
+sources:
+  - https://florencecountymuseum.org/

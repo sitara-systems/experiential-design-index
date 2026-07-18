@@ -1,0 +1,29 @@
+id: bbi-engineering
+name: BBI Engineering
+aka: []
+website: https://bbinet.com
+hq:
+  city: San Francisco
+  state: CA
+other_offices: []
+founded: 1984
+roles:
+  - av-integration
+status: active
+status_basis: >
+  Active portfolio and services site as of this check; most recent named
+  project is the Autodesk Gallery 2.0 renovation (2021), and the firm lists
+  an ongoing decade-long relationship with Autodesk and other repeat museum
+  clients (Yellowstone National Park, 2009-2019).
+status_verified: 2026-07-18
+summary: >
+  BBI Engineering is a San Francisco-based design-build audiovisual
+  integrator founded in 1984 by Phil Bailey and Mark Roos, specializing in
+  AV systems, custom interactive hardware, and control-system engineering
+  for museums, visitor centers, and corporate/institutional clients across
+  the United States.
+sources:
+  - https://bbinet.com
+  - https://bbinet.com/our-story/
+  - https://bbinet.com/services/
+  - https://bbinet.com/museums/

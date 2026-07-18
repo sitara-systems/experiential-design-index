@@ -1,0 +1,11 @@
+id: american-civil-war-museum
+name: American Civil War Museum at Historic Tredegar
+venue_type: history-museum
+location:
+  city: Richmond
+  state: VA
+operator: American Civil War Museum
+website: https://acwm.org
+sources:
+  - https://en.wikipedia.org/wiki/American_Civil_War_Museum
+  - https://acwm.org/historic-tredegar/

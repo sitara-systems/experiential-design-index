@@ -1,0 +1,11 @@
+id: lodgepole-visitor-center
+name: Lodgepole Visitor Center
+venue_type: visitor-center
+location:
+  city: Three Rivers
+  state: CA
+operator: National Park Service
+website: https://www.nps.gov/seki/planyourvisit/visitorcenters.htm
+sources:
+  - https://hanfordsentinel.com/news/local/sequoia-kings-canyon-national-parks-unveil-new-lodgepole-visitor-center/article_3bf9569e-5c8a-5e2e-ad4a-9e1dac3a1dd5.html
+  - https://www.nps.gov/thingstodo/visit-lodgepole-visitor-center.htm

@@ -1,0 +1,9 @@
+id: adams-county-historical-society
+name: Adams County Historical Society
+venue_type: history-museum
+location:
+  city: Gettysburg
+  state: PA
+website: https://www.achs-pa.org
+sources:
+  - https://www.achs-pa.org

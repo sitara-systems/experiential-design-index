@@ -1,0 +1,10 @@
+id: siena-suwanee-town-center
+name: Siena Suwanee Town Center
+venue_type: public-space
+location:
+  city: Suwanee
+  state: GA
+operator: Terwilliger Pappas
+sources:
+  - https://www.theurbanconga.com/projects/tetra
+  - https://www.theurbanconga.com/projects/solis

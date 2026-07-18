@@ -1,0 +1,29 @@
+id: lewis-latimer-house-museum-permanent-exhibition
+name: Lewis Latimer House Museum Permanent Exhibition
+venue: lewis-latimer-house-museum
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: isometric-studio
+    role: exhibit-design
+  - firm: isometric-studio
+    role: architecture
+  - firm: kasa-collective
+    role: media-design
+    note: "interactive stations; no firm record yet"
+technologies:
+  - interactive stations
+summary: >
+  The Lewis Latimer House Museum's permanent exhibition, a reinstallation of
+  the historic Flushing, New York home of inventor Lewis Latimer, opened in
+  June 2024, designed by Isometric Studio with a custom typeface called
+  Filament.
+description: >
+  Isometric Studio developed a visual identity and an architectural
+  framework for the historic house, working with Brocade Studio on
+  strategic planning, writer Josh Epperson, KASA Collective on interactive
+  stations, and Latimer's descendants and local community members.
+sources:
+  - https://isometricstudio.com/lewis-latimer-house-museum
+  - https://nylandmarks.org/news/conservancy-grant-helps-with-latimer-house-renovation/
+  - https://www.lewislatimerhouse.org/latimer-permanent-exhibition

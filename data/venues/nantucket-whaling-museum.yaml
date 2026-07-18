@@ -1,0 +1,10 @@
+id: nantucket-whaling-museum
+name: Nantucket Whaling Museum
+venue_type: history-museum
+location:
+  city: Nantucket
+  state: MA
+operator: Nantucket Historical Association
+website: https://nha.org
+sources:
+  - https://nha.org

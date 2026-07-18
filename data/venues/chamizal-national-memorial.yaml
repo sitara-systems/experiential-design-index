@@ -1,0 +1,10 @@
+id: chamizal-national-memorial
+name: Chamizal National Memorial
+venue_type: visitor-center
+location:
+  city: El Paso
+  state: TX
+operator: National Park Service
+website: https://www.nps.gov/cham/
+sources:
+  - https://www.nps.gov/cham/

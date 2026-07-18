@@ -1,0 +1,11 @@
+id: george-w-bush-presidential-center
+name: George W. Bush Presidential Center
+venue_type: history-museum
+location:
+  city: Dallas
+  state: TX
+operator: George W. Bush Foundation
+website: https://www.bushcenter.org/
+sources:
+  - https://en.wikipedia.org/wiki/George_W._Bush_Presidential_Center
+  - https://www.bushcenter.org/

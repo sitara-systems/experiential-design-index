@@ -1,0 +1,37 @@
+id: asrc-cuny-illuminationspace
+name: IlluminationSpace
+venue: asrc-cuny-graduate-center
+project_type: installation
+year_completed: 2018
+credits:
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "Fabrication of custom exhibit elements, AV/lighting/graphics installation, acoustical panels"
+  - firm: liberty-science-center
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: flad-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: peter-hyde-design
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: available-light
+    role: lighting-design
+technologies:
+  - interactive projection wall
+  - touchscreen games
+  - motion-sensing interactives
+summary: >
+  IlluminationSpace, an 800 sq ft interactive science exploration space at
+  the Advanced Science Research Center of the CUNY Graduate Center in New
+  York, opened December 2018; exhibit design by Liberty Science Center and
+  Peter Hyde Design, architecture by Flad Architects, lighting design by
+  Available Light, and fabrication by Chicago Scenic Studios.
+description: >
+  Features interactive motion and touchscreen games, an interactive
+  projection wall, and researcher conversations across five interconnected
+  science areas: nanoscience, photonics, structural biology, neuroscience,
+  and environmental sciences.
+sources:
+  - https://www.chicagoscenic.com/projects/advanced-science-research-center-city-university-nyc

@@ -1,0 +1,41 @@
+id: luminary-arts-center-renovation
+name: Luminary Arts Center Renovation
+venue: luminary-arts-center
+project_type: major-renovation
+year_completed: 2022
+credits:
+  - firm: shelter-architecture
+    role: architecture
+    note: "lead design firm for interior architecture and accessibility-focused renovation; no firm record yet"
+  - firm: schuler-shook
+    role: lighting-design
+    note: theatre planning and lighting design, including a new tension-wire lighting grid and LED fixture upgrade
+  - firm: kirkegaard
+    role: av-integration
+    note: "credited as acoustics and audiovisual consultant; no existing vocabulary role covers acoustics consulting specifically, closest fit used; no firm record yet"
+  - firm: nth
+    role: technical-consulting
+    note: "owner's representative; no firm record yet"
+technologies: []
+summary: >
+  The Luminary Arts Center, a 224-seat performing arts venue in Minneapolis's
+  North Loop neighborhood owned and operated by Minnesota Opera, reopened in
+  September 2022 following a $6 million renovation led by Shelter Architecture
+  with theatre planning and lighting design by Schuler Shook.
+description: >
+  Originally built in 1988 as the Guthrie Theater's second stage and later
+  known as the Lab Theater, the 8,000-square-foot stone building was acquired
+  by Minnesota Opera in 2019 and renovated beginning July 2021. The project
+  reoriented the theatre to improve performer stage access and backstage
+  space, redesigned the lobby and restrooms for accessibility and inclusivity
+  (including gender-neutral restrooms and dressing rooms), added a freight
+  elevator, replaced the pipe grid with a tension wire grid, and installed a
+  redesigned LED lighting system. General contractor was LS Black
+  Constructors; Kirkegaard served as acoustics and audiovisual consultant;
+  NTH served as owner's representative. The renovation won a 2024 AIA
+  Minneapolis Merit Award and a 2025 ASID Minnesota Design Excellence Award
+  (First Place, Commercial Institutional).
+sources:
+  - https://schulershook.com/projects/luminary-arts-center
+  - https://shelterarchitecture.com/portfolio/luminary-arts-center/
+  - https://mnopera.org/blog/introducing-the-luminary-arts-center/

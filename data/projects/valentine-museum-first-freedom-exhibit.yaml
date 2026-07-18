@@ -1,0 +1,20 @@
+id: valentine-museum-first-freedom-exhibit
+name: First Freedom
+venue: valentine-museum
+project_type: new-exhibition
+year_completed: 2020
+credits:
+  - firm: the-design-minds
+    role: exhibit-design
+  - firm: capitol-museum-services
+    role: fabrication
+    note: "2,200 sq ft exhibition centered on a Four Pillars of Freedom display, per CMS's own portfolio"
+technologies: []
+summary: >
+  First Freedom, a 2,200-square-foot exhibition on the origins of religious
+  freedom in Virginia, opened at The Valentine museum in Richmond, Virginia;
+  exhibit design by The Design Minds, fabrication by Capitol Museum
+  Services.
+description: ""
+sources:
+  - https://capitolmuseumservices.com/portfolio/museums/

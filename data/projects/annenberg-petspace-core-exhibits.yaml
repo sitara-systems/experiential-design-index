@@ -1,0 +1,29 @@
+id: annenberg-petspace-core-exhibits
+name: Annenberg PetSpace
+venue: annenberg-petspace
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: storyline-studio
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: belle-and-wissell
+    role: media-design
+    note: "Media producer, per BBI Engineering's own project page"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      Touchscreen kiosks, 70-inch touchscreens in adoption rooms, an
+      interactive entrance video wall, and live feeds from grooming/therapy
+      rooms
+technologies:
+  - touchscreen interactives
+  - video wall
+summary: >
+  Annenberg PetSpace, a pet adoption, education, and leadership facility in
+  Playa Vista, California, opened in 2018, with exhibit design by Storyline
+  Studio, media production by Belle & Wissell, and AV integration by BBI
+  Engineering.
+description: ""
+sources:
+  - https://bbinet.com/works/annenberg-petspace/

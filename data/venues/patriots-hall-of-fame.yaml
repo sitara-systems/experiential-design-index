@@ -1,0 +1,10 @@
+id: patriots-hall-of-fame
+name: The Patriots Hall of Fame
+venue_type: sports-venue
+location:
+  city: Foxborough
+  state: MA
+operator: New England Patriots
+website: https://www.patriotshalloffame.com
+sources:
+  - https://www.patriotshalloffame.com/about/about-the-hall/

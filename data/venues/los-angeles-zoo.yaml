@@ -1,0 +1,9 @@
+id: los-angeles-zoo
+name: Los Angeles Zoo and Botanical Gardens
+venue_type: aquarium-zoo
+location:
+  city: Los Angeles
+  state: CA
+website: https://lazoo.org
+sources:
+  - https://lazoo.org/explore-your-zoo/exhibits/red-ape-rain-forest/

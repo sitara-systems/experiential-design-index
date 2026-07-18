@@ -1,0 +1,9 @@
+id: fort-ligonier-museum
+name: Fort Ligonier Museum
+venue_type: history-museum
+location:
+  city: Ligonier
+  state: PA
+website: https://www.fortligonier.org/
+sources:
+  - https://www.fortligonier.org/

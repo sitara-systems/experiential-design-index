@@ -1,0 +1,28 @@
+id: green-bay-packers-hall-of-fame-core-exhibits
+name: Green Bay Packers Hall of Fame
+venue: green-bay-packers-hall-of-fame
+project_type: major-renovation
+year_completed: 2016
+credits:
+  - firm: rockwell-group
+    role: exhibit-design
+  - firm: batwin-and-robin
+    role: media-design
+    note: "No firm record yet"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      AV systems with a central content-management system, incl. a
+      recreation of the 1967 "Ice Bowl" game and a blended multi-projection
+      celebration of Packers championships; technology refresh in 2015
+technologies:
+  - blended multi-projection
+  - content management system
+summary: >
+  The Green Bay Packers Hall of Fame at Lambeau Field in Green Bay,
+  Wisconsin, was renovated with a technology refresh completed in 2016, with
+  exhibit design by Rockwell Group, media production by Batwin and Robin,
+  and AV integration by BBI Engineering.
+description: ""
+sources:
+  - https://bbinet.com/works/green-bay-packers-hall-of-fame/

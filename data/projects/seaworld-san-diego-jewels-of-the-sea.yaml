@@ -1,0 +1,43 @@
+id: seaworld-san-diego-jewels-of-the-sea
+name: "Jewels of the Sea: The Jellyfish Experience"
+venue: seaworld-san-diego
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: pgav-destinations
+    role: master-planning
+  - firm: pgav-destinations
+    role: architecture
+  - firm: pgav-destinations
+    role: exhibit-design
+  - firm: avi-spl
+    role: av-integration
+    note: >
+      AVI-SPL's XTG (Experience Technology Group) division engineered the AV
+      system (audio, control, and the 360-degree LED video wall) for the
+      Medusa Gallery.
+technologies:
+  - curved LED video wall
+  - 360-degree immersive media room
+  - Q-SYS audio/control platform
+  - responsive lighting synced to media and live tanks
+summary: >
+  "Jewels of the Sea: The Jellyfish Experience," an 18-aquarium jellyfish
+  exhibit built inside a repurposed ride building at SeaWorld San Diego in
+  San Diego, California, opened March 15, 2025; design by PGAV Destinations
+  with AV integration (360-degree LED video wall and show control for the
+  Medusa Gallery) by AVI-SPL's XTG team.
+description: >
+  The exhibit spans three galleries -- Realm of the Jellies, Jellyfish
+  Passage, and the central Medusa Gallery -- featuring nine jellyfish
+  species across 18 aquariums, including 10 circular tanks integrated
+  directly into curved LED video walls. The Medusa Gallery combines a
+  three-sided LED video wall with a custom show-control system
+  synchronizing video, audio, and live-tank lighting. The exhibit drew more
+  than 100,000 visitors in its first 90 days.
+sources:
+  - https://pgavdestinations.com/project/jewels-of-the-sea-the-jellyfish-experience-sea-world-san-diego/
+  - https://unitedparks.com/media/press-releases/seaworld-san-diego-debuts-a-one-of-a-kind-wonder-jewels-of-the-sea-the-ultimate-jellyfish-experience/
+  - https://www.aza.org/connect-stories/stories/all-new-jewels-of-the-sea-the-jellyfish-experience-at-seaworld-san-diego
+  - https://avispl.com/xtg/our-work/seaworld/
+  - https://seaworld.com/san-diego/animals/the-jellyfish-experience/

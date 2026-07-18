@@ -1,0 +1,9 @@
+id: boston-childrens-museum
+name: Boston Children's Museum
+venue_type: childrens-museum
+location:
+  city: Boston
+  state: MA
+website: https://bostonchildrensmuseum.org
+sources:
+  - https://bostonchildrensmuseum.org

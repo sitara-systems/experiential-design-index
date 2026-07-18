@@ -1,0 +1,27 @@
+id: exploration-tower-at-port-canaveral-exhibitry
+name: Exploration Tower exhibitry
+venue: exploration-tower-at-port-canaveral
+project_type: new-building
+year_completed: 2013
+credits:
+  - firm: haley-sharpe-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: gwwo-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: capitol-museum-services
+    role: fabrication
+    note: "Seven-story structure overlooking the bay, multi-level exhibitry; builder SKANSKA (general contractor, not a design-vocabulary role), per CMS's own portfolio, which refers to the venue as 'Cove Welcome Center'"
+technologies: []
+summary: >
+  Multi-level exhibitry for Exploration Tower, a seven-story visitor
+  facility overlooking the bay operated by the Canaveral Port Authority in
+  Cape Canaveral, Florida, which opened November 4, 2013; exhibit design
+  by Haley Sharpe Design, architecture by GWWO, fabrication by Capitol
+  Museum Services.
+description: ""
+sources:
+  - https://capitolmuseumservices.com/portfolio/museums/
+  - https://archello.com/project/port-canaveral-exploration-tower
+  - https://www.usa.skanska.com/what-we-deliver/projects/152821/Port-Canaveral-Welcome-Center

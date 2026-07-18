@@ -1,0 +1,11 @@
+id: harry-s-truman-library-and-museum
+name: Harry S. Truman Presidential Library and Museum
+venue_type: history-museum
+location:
+  city: Independence
+  state: MO
+operator: National Archives and Records Administration
+website: https://www.trumanlibrary.gov/
+sources:
+  - https://www.trumanlibrary.gov/
+  - https://www.trumanlibraryinstitute.org/about-us/news-releases/museum-reopening/

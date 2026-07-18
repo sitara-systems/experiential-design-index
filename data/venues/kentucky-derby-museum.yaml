@@ -1,0 +1,10 @@
+id: kentucky-derby-museum
+name: Kentucky Derby Museum
+venue_type: sports-venue
+location:
+  city: Louisville
+  state: KY
+website: https://derbymuseum.org
+sources:
+  - https://en.wikipedia.org/wiki/Kentucky_Derby_Museum
+  - https://www.derbymuseum.org/Media-And-Press/Article/265/Derby-Museum-renovation-gets-a-big-assist

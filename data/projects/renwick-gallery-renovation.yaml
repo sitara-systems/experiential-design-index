@@ -1,0 +1,23 @@
+id: renwick-gallery-renovation
+name: Renwick Gallery Renovation
+venue: renwick-gallery
+project_type: major-renovation
+year_completed: 2015
+credits:
+  - firm: dlr-group
+    role: architecture
+  - firm: dlr-group
+    role: lighting-design
+  - firm: dlr-group
+    role: av-integration
+technologies: []
+summary: >
+  The Renwick Gallery of the Smithsonian American Art Museum, a National
+  Historic Landmark building in Washington, D.C., reopened November 13,
+  2015 after a two-year infrastructure renovation and historic-feature
+  restoration; architecture, interiors, lighting, and audiovisual systems
+  by DLR Group.
+description: ""
+sources:
+  - https://www.dlrgroup.com/work/smithsonian-american-art-museums-renwick-gallery/
+  - https://www.si.edu/newsdesk/releases/renwick-gallery-opens-nov-13-after-major-renovation-its-national-historic-landmark-building

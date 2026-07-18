@@ -1,0 +1,27 @@
+# Project record — ABQ BioPark Zoo Asia Exhibit
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: abq-biopark-zoo-asia-exhibit
+name: Asia
+venue: abq-biopark-zoo
+project_type: new-exhibition
+year_completed: 2023
+credits:
+  - firm: main-street-design
+    role: interpretive-planning
+    note: "Interpretive planning and design"
+  - firm: creo-industrial-arts
+    role: fabrication
+    note: "Project management, design support, exhibit fabrication, interactive development, media integration, scenic production, and signage"
+technologies: []
+summary: >
+  Asia, a 4.5-acre, $33 million habitat expansion at the ABQ BioPark Zoo in
+  Albuquerque, New Mexico featuring orangutans, siamangs, Malayan tigers,
+  snow leopards, and Steller's sea eagles, opened October 5, 2023;
+  interpretive planning and design by Main Street Design, with fabrication
+  by CREO Industrial Arts.
+description: ""
+sources:
+  - https://www.creoindustrialarts.com/portfolio/abq-biopark-zoo/
+  - https://www.cabq.gov/artsculture/biopark/news/abq-biopark-opens-new-asia-habitat
+  - https://www.krqe.com/news/albuquerque-metro/abq-bioparks-asia-exhibit-awarded-for-excellence-in-design/

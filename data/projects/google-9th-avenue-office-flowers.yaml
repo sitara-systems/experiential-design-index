@@ -1,0 +1,33 @@
+id: google-9th-avenue-office-flowers
+name: Flowers
+venue: google-9th-avenue-office
+project_type: installation
+year_completed: 2021
+credits:
+  - firm: deeplocal
+    role: media-design
+    note: >
+      Design, engineering, and fabrication of the kinetic installation and
+      its real-time sensing/machine-learning control software. No firm
+      record yet.
+technologies:
+  - kinetic sculpture
+  - real-time sensing
+  - machine learning
+summary: >
+  Flowers, a kinetic installation of 160 electromechanical flowers suspended
+  in Google's 9th Avenue office lobby in New York City, was completed in
+  December 2021 by Deeplocal; it was named Environmental category winner and
+  Best-in-Show at Communication Arts' 2023 Interactive competition.
+description: >
+  The 160 flowers bloom in stages as visitors move through the lobby below,
+  using real-time sensing and machine learning (Grasshopper/Python for
+  algorithmic layout, openCV/PoseNet for gesture recognition) to react to
+  movement; at night, choreography is instead cued by pedestrians visible
+  from the street. The flowers are fabricated from powder-coated metal and
+  printed Tyvek.
+sources:
+  - https://www.deeplocal.com/google-flowers
+  - https://segd.org/projects/google-flowers/
+  - https://www.deeplocal.com/news-deeplocal-wins-communication-arts-interactive
+  - https://www.commarts.com/content/files/competitions/2023%20IA%20Shortlist.pdf

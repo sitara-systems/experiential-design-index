@@ -1,0 +1,9 @@
+id: rosicrucian-egyptian-museum
+name: Rosicrucian Egyptian Museum
+venue_type: history-museum
+location:
+  city: San Jose
+  state: CA
+website: https://egyptianmuseum.org/
+sources:
+  - https://egyptianmuseum.org/alchemy-exhibit

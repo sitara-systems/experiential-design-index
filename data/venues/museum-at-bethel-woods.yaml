@@ -1,0 +1,10 @@
+id: museum-at-bethel-woods
+name: The Museum at Bethel Woods
+venue_type: history-museum
+location:
+  city: Bethel
+  state: NY
+operator: Bethel Woods Center for the Arts
+website: https://www.bethelwoodscenter.org/museum
+sources:
+  - https://en.wikipedia.org/wiki/Bethel_Woods_Center_for_the_Arts

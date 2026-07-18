@@ -1,0 +1,10 @@
+id: discovery-cube-los-angeles
+name: Discovery Cube Los Angeles
+venue_type: childrens-museum
+location:
+  city: Los Angeles
+  state: CA
+website: https://www.discoverycube.org/los-angeles
+sources:
+  - https://www.discoverycube.org/los-angeles
+  - https://bbinet.com/works/the-discovery-cube/

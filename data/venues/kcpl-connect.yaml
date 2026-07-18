@@ -1,0 +1,10 @@
+id: kcpl-connect
+name: KCP&L Connect
+venue_type: brand-experience-center
+location:
+  city: Kansas City
+  state: MO
+operator: Kansas City Power & Light (KCP&L)
+sources:
+  - https://membership.kcchamber.com/news/details/kcp-l-opens-doors-to-first-of-its-kind-energy-solutions-center
+  - https://www.hok.com/projects/view/kcpl-connect/

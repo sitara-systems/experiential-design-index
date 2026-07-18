@@ -1,0 +1,10 @@
+id: walker-art-center
+name: Walker Art Center
+venue_type: art-museum
+location:
+  city: Minneapolis
+  state: MN
+website: https://walkerart.org
+sources:
+  - https://walkerart.org
+  - https://en.wikipedia.org/wiki/Walker_Art_Center

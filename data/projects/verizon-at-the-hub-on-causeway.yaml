@@ -1,0 +1,37 @@
+id: verizon-at-the-hub-on-causeway
+name: "Verizon at the Hub on Causeway"
+venue: verizon-innovation-center-hub-on-causeway
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: gensler
+    role: architecture
+    note: "Interior architecture and design of Verizon's 450,000-square-foot vertical campus, including the Innovation Center."
+  - firm: esi-design
+    role: media-design
+    note: >
+      Interactive media experience for the three-story Innovation Center:
+      curated exhibits and experiential moments showcasing Verizon's
+      technologies for customers and partners, plus responsive lighting and
+      immersive sound throughout the building (including a lobby media
+      canvas).
+technologies:
+  - responsive lighting
+  - immersive sound
+  - interactive media wall
+summary: >
+  Verizon's Innovation Center, a three-story customer- and partner-facing
+  experience space within Verizon's vertical campus at The Hub on Causeway in
+  Boston, opened in 2022; interior architecture by Gensler, with interactive
+  media experience design by ESI Design (an NBBJ company).
+description: >
+  The Innovation Center presents curated exhibits and experiential moments
+  where visiting customers, business partners, and academic guests explore
+  Verizon's emerging technologies. Building-wide, integrated lighting and
+  sound respond to movement and time of day; in "Boston mode" the lobby media
+  canvas becomes a map of the city.
+sources:
+  - https://www.gensler.com/projects/verizon-at-the-hub
+  - https://esi.nbbj.com/work/verizon-at-the-hub-on-causeway
+  - https://interiordesign.net/projects/gensler-designs-a-multi-faceted-office-for-verizon-in-boston/
+  - https://www.commarts.com/content/files/competitions/2023%20IA%20Shortlist.pdf

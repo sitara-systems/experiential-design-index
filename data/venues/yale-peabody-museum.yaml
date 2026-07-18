@@ -1,0 +1,9 @@
+id: yale-peabody-museum
+name: Yale Peabody Museum of Natural History
+venue_type: natural-history-museum
+location:
+  city: New Haven
+  state: CT
+website: https://peabody.yale.edu
+sources:
+  - https://news.yale.edu/2024/03/26/inspiring-wonder-again-peabody-museum-reopens

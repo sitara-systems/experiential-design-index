@@ -1,0 +1,27 @@
+id: museum-of-science-and-history-genesis
+name: MOSH Genesis
+venue: museum-of-science-and-history
+project_type: new-building
+status: announced
+year_expected: 2028
+credits:
+  - firm: dlr-group
+    role: architecture
+    note: "Design partnership with kasper architects + associates; specific scope division between the two firms not stated in public sources"
+  - firm: kasper-architects-and-associates
+    role: architecture
+    note: "Jacksonville-based local architect, design partnership with DLR Group. No firm record yet."
+technologies: []
+summary: >
+  MOSH Genesis, a new home for the Museum of Science & History on the
+  Northbank riverfront at the Jacksonville Shipyards in Jacksonville,
+  Florida, was unveiled in design in 2022 and is expected to open in
+  summer 2028; architecture by DLR Group in a design partnership with
+  kasper architects + associates, with landscape architecture by SCAPE
+  (unlinked; no role mapping in this index's vocabulary).
+description: ""
+sources:
+  - https://www.dlrgroup.com/work/museum-of-science-history/
+  - https://www.dlrgroup.com/firm-news/mosh-renderings-revealed/
+  - https://blooloop.com/museum/in-depth/mosh-genesis/
+  - https://developjacksonville.com/mosh-new-location/

@@ -1,0 +1,26 @@
+id: museum-of-art-and-light-inaugural-installation
+name: Museum of Art + Light Inaugural AV & Projection System
+venue: museum-of-art-and-light
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: diversified
+    role: av-integration
+    note: >
+      AV system design and implementation, network infrastructure, and
+      projection mapping integration across 108 laser projectors and
+      37,000 linear sq ft of mapped surfaces in a 21,500 sq ft venue
+technologies:
+  - projection mapping
+  - immersive audio
+  - laser projection
+summary: >
+  The Museum of Art + Light, a purpose-built digital and immersive art
+  museum in Manhattan, Kansas, opened November 8, 2024, with AV system
+  design, network infrastructure, and projection-mapping integration by
+  Diversified.
+description: ""
+sources:
+  - https://www.forbes.com/sites/chaddscott/2024/11/03/museum-of-art--light-opening-in-manhattan-ks-with-an-industry-leading-focus-on-digital-art/
+  - https://artlightmuseum.org/about/
+  - https://onediversified.com/case-study/moal

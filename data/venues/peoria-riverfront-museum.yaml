@@ -1,0 +1,9 @@
+id: peoria-riverfront-museum
+name: Peoria Riverfront Museum
+venue_type: science-center
+location:
+  city: Peoria
+  state: IL
+website: https://www.peoriariverfrontmuseum.org/
+sources:
+  - https://en.wikipedia.org/wiki/Peoria_Riverfront_Museum

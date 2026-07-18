@@ -1,0 +1,33 @@
+id: georgia-aquarium-original-building
+name: Georgia Aquarium
+venue: georgia-aquarium
+project_type: new-building
+year_completed: 2005
+credits:
+  - firm: tvsdesign
+    role: architecture
+    note: "No firm record yet"
+  - firm: pgav-destinations
+    role: exhibit-design
+    note: "Conceptualized, designed, and supervised construction of all aquaria, animal exhibits, and interpretives"
+  - firm: fisher-marantz-stone
+    role: lighting-design
+technologies:
+  - large-format viewing windows
+summary: >
+  The Georgia Aquarium, a 550,000-square-foot, $250 million aquarium in
+  Atlanta, Georgia, opened November 23, 2005, as the world's largest
+  aquarium at the time; architecture by TVS (Thompson, Ventulett, Stainback
+  & Associates), exhibit design by PGAV Destinations, and lighting design by
+  Fisher Marantz Stone.
+description: >
+  The original aquarium building includes seven galleries of immersive
+  aquatic habitats, anchored by the Ocean Voyager gallery's viewing window
+  (25 feet high by 65 feet long, among the largest in the world at opening).
+  PGAV Destinations designed and supervised construction of all aquaria,
+  animal exhibits, and interpretive elements across the facility.
+sources:
+  - https://www.tvsdesign.com/projects/project-detail/georgia-aquarium/
+  - https://pgavdestinations.com/project/georgia-aquarium/
+  - https://www.fmsp.com/projects/georgia-aquarium/
+  - https://en.wikipedia.org/wiki/Georgia_Aquarium

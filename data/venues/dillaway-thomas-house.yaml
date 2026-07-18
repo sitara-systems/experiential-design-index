@@ -1,0 +1,11 @@
+id: dillaway-thomas-house
+name: Dillaway-Thomas House
+venue_type: history-museum
+location:
+  city: Roxbury
+  state: MA
+operator: Massachusetts Department of Conservation and Recreation (Roxbury Heritage State Park)
+website: https://www.mass.gov/locations/roxbury-heritage-state-park
+sources:
+  - https://www.mass.gov/info-details/roxbury-heritage-state-park-signature-park-project
+  - https://www.bostonpreservation.org/advocacy-project/dillaway-thomas-house

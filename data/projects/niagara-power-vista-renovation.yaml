@@ -1,0 +1,26 @@
+id: niagara-power-vista-renovation
+name: Niagara Power Vista Renovation
+venue: niagara-power-vista
+project_type: major-renovation
+year_completed: 2016
+credits:
+  - firm: boston-productions
+    role: media-design
+    note: "design, research, scripting, and production of all media exhibits; no firm record yet"
+  - firm: hadley-exhibits
+    role: fabrication
+technologies:
+  - 4D motion theater
+  - MultiTaction interactive tables
+  - RFID ticketing
+summary: >
+  The Niagara Power Vista, the New York Power Authority's visitor center in
+  Lewiston, New York overlooking the Niagara Power Project, was renovated
+  with over 25 interactive exhibits and a 4D motion theater completed in
+  2016; Boston Productions Inc. designed, researched, scripted, and produced
+  the media exhibits, working in collaboration with fabricator Hadley
+  Exhibits.
+description: ""
+sources:
+  - https://bostonproductions.com/portfolio/new-york-power-authority/
+  - https://hadleyexhibits.com/New-York-Power-Authority

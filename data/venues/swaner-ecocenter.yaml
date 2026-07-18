@@ -1,0 +1,11 @@
+id: swaner-ecocenter
+name: Swaner EcoCenter
+venue_type: visitor-center
+location:
+  city: Park City
+  state: UT
+operator: Utah State University
+website: https://extension.usu.edu/swaner/
+sources:
+  - https://extension.usu.edu/swaner/
+  - https://en.wikipedia.org/wiki/Swaner_EcoCenter

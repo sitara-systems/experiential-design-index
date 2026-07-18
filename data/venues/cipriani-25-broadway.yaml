@@ -1,0 +1,10 @@
+id: cipriani-25-broadway
+name: Cipriani 25 Broadway
+venue_type: themed-attraction
+location:
+  city: New York
+  state: NY
+operator: Cipriani
+website: https://ciprianievents.com/venue/new-york-25-broadway/
+sources:
+  - https://ciprianievents.com/venue/new-york-25-broadway/

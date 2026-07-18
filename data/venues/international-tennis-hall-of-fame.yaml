@@ -1,0 +1,11 @@
+id: international-tennis-hall-of-fame
+name: International Tennis Hall of Fame & Museum
+venue_type: sports-venue
+location:
+  city: Newport
+  state: RI
+operator: International Tennis Hall of Fame
+website: https://www.tennisfame.com
+sources:
+  - https://www.tennisfame.com
+  - https://www.forbes.com/sites/timnewcomb/2025/05/14/international-tennis-hall-of-fame-opens-renovated-museum/

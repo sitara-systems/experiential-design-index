@@ -1,0 +1,9 @@
+id: dupage-childrens-museum
+name: DuPage Children's Museum
+venue_type: childrens-museum
+location:
+  city: Naperville
+  state: IL
+website: https://www.dupagechildrensmuseum.org
+sources:
+  - https://www.dupagechildrensmuseum.org

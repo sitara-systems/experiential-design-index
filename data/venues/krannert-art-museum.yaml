@@ -1,0 +1,11 @@
+id: krannert-art-museum
+name: Krannert Art Museum
+venue_type: art-museum
+location:
+  city: Champaign
+  state: IL
+operator: University of Illinois Urbana-Champaign
+website: https://kam.illinois.edu
+sources:
+  - https://kam.illinois.edu/about
+  - https://en.wikipedia.org/wiki/Krannert_Art_Museum

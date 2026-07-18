@@ -1,0 +1,31 @@
+id: us-marshals-museum-core-exhibits
+name: U.S. Marshals Museum
+venue: us-marshals-museum
+project_type: new-building
+year_completed: 2023
+credits:
+  - firm: polk-stanley-wilcox
+    role: architecture
+    note: "Building architect of record; no firm record yet"
+  - firm: cambridgeseven
+    role: exhibit-design
+    note: "Concept design for the star-shaped building form and galleries"
+  - firm: tait
+    role: media-design
+    note: "Credited as \"produced by Thinkwell, now tait\"; design, production, and delivery of the guest experience across 50,000 sq ft, including media production and interactives"
+  - firm: tait
+    role: av-integration
+    note: "Technology integration across the museum's exhibits"
+technologies: []
+summary: >
+  The U.S. Marshals Museum, a 53,000 sq ft museum on the Arkansas River in
+  Fort Smith, Arkansas telling the history of the U.S. Marshals Service
+  since 1789, opened to the public July 1, 2023; concept and exhibit design
+  by CambridgeSeven with Polk Stanley Wilcox as architect of record, and
+  guest-experience media design and technology integration by TAIT (via its
+  Thinkwell Group studio).
+description: ""
+sources:
+  - https://www.cambridgeseven.com/project/u-s-marshals-museum/
+  - https://encyclopediaofarkansas.net/entries/us-marshals-museum-8151/
+  - https://www.taittowers.com/work/us-marshals-museum

@@ -1,0 +1,10 @@
+id: national-mississippi-river-museum-aquarium
+name: National Mississippi River Museum & Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Dubuque
+  state: IA
+website: https://www.rivermuseum.org
+sources:
+  - https://www.rivermuseum.org/
+  - https://en.wikipedia.org/wiki/National_Mississippi_River_Museum_%26_Aquarium

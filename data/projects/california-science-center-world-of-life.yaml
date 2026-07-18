@@ -1,0 +1,27 @@
+id: california-science-center-world-of-life
+name: World of Life
+venue: california-science-center
+project_type: new-exhibition
+year_completed: 1998
+status: completed
+credits:
+  - firm: west-office
+    role: exhibit-design
+technologies:
+  - animatronics
+  - projected animation
+summary: >
+  World of Life, one of two core hands-on science galleries that opened at
+  the California Science Center in Los Angeles in February 1998, was
+  designed by West Office Exhibition Design and centers on the BodyWorks
+  Theater's 50-foot animatronic figure, Tess.
+description: >
+  The World of Life gallery examines biological systems shared across
+  organisms, including respiration and reproduction. Its centerpiece,
+  BodyWorks Theater, features a 50-foot animated character named Tess that
+  demonstrates homeostasis through functioning heart, lung, circulatory, and
+  nervous-system displays, and lets visitors compare human body systems to
+  those of other animals.
+sources:
+  - https://woed.com/woprojects/california-science-center-world-of-life/
+  - https://californiasciencecenter.org/exhibits/world-of-life/bodyworks-theater

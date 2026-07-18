@@ -1,0 +1,54 @@
+id: meow-wolf-convergence-station-perplexiplex
+name: Perplexiplex
+venue: meow-wolf-convergence-station
+project_type: installation
+year_completed: 2021
+credits:
+  - firm: meow-wolf
+    role: exhibit-design
+    note: >
+      In-house creative production of the four-scene interactive
+      forest/arboretum installation (Fungi Sensation, Spectral Vision, Neon
+      Intrusion, Palette Obsession) — creative production, lighting design,
+      video/projection design, sound design, and mural art by Meow Wolf
+      staff; no firm record yet.
+  - firm: moment-factory
+    role: media-design
+    note: >
+      Collaborating experience-design and technical-implementation partner —
+      floor/wall projection mapping, motion tracking, and interactive
+      systems. Montreal, Canada-headquartered; no firm record yet (non-US
+      firm, per current US-firm-record scope).
+  - firm: adirondack-studios
+    role: fabrication
+    note: "Show fabrication vendor; no firm record yet."
+  - firm: themespace
+    role: exhibit-design
+    note: >
+      Credited as "Design Consultant" on Meow Wolf's and Moment Factory's own
+      project credit pages; no exact vocabulary fit for a standalone design-consultant
+      role (logged as a vocab gap), closest fit used. Themespace
+      merged into The Hettema Group to form THG Creative in April 2022; no
+      firm record created (single credit, below the 3-project bar, and now a
+      defunct independent entity).
+technologies:
+  - projection mapping
+  - motion tracking
+  - interactive lighting
+  - real-time interactive media
+summary: >
+  Perplexiplex, a permanent four-scene interactive forest installation within
+  Meow Wolf's Convergence Station in Denver, Colorado, opened in 2021,
+  co-created by Meow Wolf and Moment Factory.
+description: >
+  A surreal interactive forest/arboretum built across four connected scenes
+  over a black-and-white mural by Nathaniel Gutierrez, combining
+  floor-and-wall projection mapping, motion tracking, and an ambient score
+  that responds to visitor movement. Built by a combined Meow Wolf/Moment
+  Factory team of 60+ over roughly seven months. Won the Communication Arts
+  Interactive Design Annual 2022 (Environmental category).
+sources:
+  - https://credits.meowwolf.com/convergence-station/transit-station/the-perplexiplex/
+  - https://momentfactory.com/products/perplexiplex-meow-wolf-denver
+  - https://www.commarts.com/project/33941/perplexiplex
+  - https://en.wikipedia.org/wiki/Convergence_Station

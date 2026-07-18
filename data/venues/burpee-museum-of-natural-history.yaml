@@ -1,0 +1,9 @@
+id: burpee-museum-of-natural-history
+name: Burpee Museum of Natural History
+venue_type: natural-history-museum
+location:
+  city: Rockford
+  state: IL
+website: https://www.burpee.org
+sources:
+  - https://www.burpee.org

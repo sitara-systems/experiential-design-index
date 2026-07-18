@@ -1,0 +1,8 @@
+id: hyde-park-village-tampa
+name: Hyde Park Village
+venue_type: other
+location:
+  city: Tampa
+  state: FL
+sources:
+  - https://www.theurbanconga.com/projects/ambient-play

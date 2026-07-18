@@ -1,0 +1,42 @@
+id: hok
+name: HOK
+aka:
+  - Hellmuth, Obata + Kassabaum
+website: https://www.hok.com
+hq:
+  city: St. Louis
+  state: MO
+other_offices:
+  - city: Atlanta
+    state: GA
+  - city: Chicago
+    state: IL
+  - city: New York
+    state: NY
+  - city: Washington
+    state: DC
+  - city: San Francisco
+    state: CA
+founded: 1955
+roles:
+  - architecture
+  - exhibit-design
+status: active
+status_basis: >
+  Celebrated its 70th anniversary (Jan 2025); Atlanta studio named AIA
+  Georgia's 2025 Firm of the Year; named Metropolis magazine's "Firm of the
+  Year" for sustainable design leadership (2025); Caltech quantum research
+  center dedicated (June 2026).
+status_verified: 2026-07-18
+summary: >
+  HOK is a global interdisciplinary architecture, engineering, interiors, and
+  planning firm founded in 1955 and headquartered in St. Louis, with 28
+  offices on three continents. Within the experiential-design space its work
+  spans museum architecture — including the Smithsonian's National Air and
+  Space Museum and its Udvar-Hazy Center annex — and corporate experience-
+  center architecture and exhibit design for clients including Honeywell,
+  Porsche, and KCP&L.
+sources:
+  - https://www.hok.com/about/
+  - https://en.wikipedia.org/wiki/HOK_(firm)
+  - https://www.hok.com/news/2025-01/hok-celebrates-70th-anniversary/

@@ -1,0 +1,29 @@
+id: chicago-cultural-center-piranesi-circus
+name: Piranesi Circus
+venue: chicago-cultural-center
+project_type: installation
+year_completed: 2015
+credits:
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "Fabrication, installation, and project management; ETCP-certified rigging"
+  - firm: atelier-bow-wow
+    role: architecture
+    note: "Architectural design; no firm record yet"
+  - firm: woodhouse-tinucci-architects
+    role: architecture
+    note: "Architect of record; no firm record yet"
+technologies:
+  - sculptural installation
+summary: >
+  Piranesi Circus, a sculptural installation by Tokyo-based Atelier
+  Bow-Wow for the 2015 Chicago Architecture Biennial, was installed at the
+  Chicago Cultural Center in 2015; Woodhouse Tinucci Architects served as
+  architect of record, with fabrication, installation, and project
+  management by Chicago Scenic Studios.
+description: >
+  Featured bridged stairways, a ladder, swing, and balcony elements visible
+  from the historic building's interior windows; required specialized
+  rigging to avoid damage to the protected landmark structure.
+sources:
+  - https://www.chicagoscenic.com/projects/piranesi-circus

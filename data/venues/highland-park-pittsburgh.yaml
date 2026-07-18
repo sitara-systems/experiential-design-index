@@ -1,0 +1,9 @@
+id: highland-park-pittsburgh
+name: Highland Park
+venue_type: public-space
+location:
+  city: Pittsburgh
+  state: PA
+operator: City of Pittsburgh, Department of Public Works
+sources:
+  - https://www.theurbanconga.com/projects/together

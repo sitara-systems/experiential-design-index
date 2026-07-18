@@ -1,0 +1,20 @@
+id: longwood-gardens-fountain-show-control
+name: Longwood Gardens Fountain Show Control System
+venue: longwood-gardens
+project_type: installation
+year_completed: 2017
+credits:
+  - firm: tait
+    role: media-design
+    note: "TAIT Show Control System powered by TAIT Navigator, synchronizing lighting, audio, and non-traditional entertainment technology including pumps and water-treatment systems for the fountain performances"
+technologies:
+  - show control system
+  - automated scheduling
+summary: >
+  Longwood Gardens in Kennett Square, Pennsylvania, uses a TAIT Show
+  Control System, installed as part of the Main Fountain Garden's
+  restoration completed in 2017, to synchronize lighting, audio, and water
+  and safety systems across its choreographed fountain performances.
+description: ""
+sources:
+  - https://www.taittowers.com/work/longwood-gardens

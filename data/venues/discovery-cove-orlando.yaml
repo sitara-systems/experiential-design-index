@@ -1,0 +1,11 @@
+id: discovery-cove-orlando
+name: Discovery Cove
+venue_type: aquarium-zoo
+location:
+  city: Orlando
+  state: FL
+operator: SeaWorld Parks & Entertainment
+website: https://discoverycove.com/orlando/
+sources:
+  - https://discoverycove.com/orlando/
+  - https://en.wikipedia.org/wiki/Discovery_Cove

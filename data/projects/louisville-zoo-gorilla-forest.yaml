@@ -1,0 +1,30 @@
+id: louisville-zoo-gorilla-forest
+name: Gorilla Forest
+venue: louisville-zoo
+project_type: new-exhibition
+year_completed: 2002
+credits:
+  - firm: schmidt-associates
+    role: architecture
+    note: "No firm record yet; designed under the firm's former name, Arrasmith"
+  - firm: hadley-exhibits
+    role: fabrication
+    note: "on other credits; per Hadley's own portfolio"
+technologies:
+  - interactive sound trigger
+  - infrared heaters
+summary: >
+  Gorilla Forest, a 4-acre western lowland gorilla habitat at the Louisville
+  Zoo in Louisville, Kentucky, opened in 2002 with architecture by Schmidt
+  Associates (then operating as Arrasmith) and fabrication by Hadley
+  Exhibits.
+description: >
+  The exhibit features three multi-level indoor habitats and two outdoor
+  habitats, a viewing shelter with underwater hippo views, a sanctuary trail
+  with eye-level primate viewing, gorilla-activated interactive sound
+  buttons, and infrared heaters positioned to draw gorillas toward visitor
+  viewing points. It received the AZA's 2003 Exhibit Award.
+sources:
+  - https://louisvillezoo.org/gorilla-forest/
+  - https://schmidt-arch.com/louisville-zoo/
+  - https://hadleyexhibits.com/Louisville-Zoo-Gorilla-Forest

@@ -1,0 +1,11 @@
+id: st-louis-aquarium-union-station
+name: St. Louis Aquarium at Union Station
+venue_type: aquarium-zoo
+location:
+  city: St. Louis
+  state: MO
+operator: zoOceanarium Group
+website: https://www.stlouisaquarium.com
+sources:
+  - https://pgavdestinations.com/news/st-louis-aquarium-now-open/
+  - https://www.forbes.com/sites/micheleherrmann/2020/02/03/st-louis-welcomes-new-aquarium-at-union-station/

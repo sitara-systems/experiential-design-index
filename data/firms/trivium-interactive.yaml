@@ -1,0 +1,27 @@
+# Firm record — Trivium Interactive
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: trivium-interactive
+name: Trivium Interactive
+website: https://www.triviuminteractive.com
+hq:
+  city: Boston
+  state: MA
+roles:
+  - media-design
+  - content-production
+status: active
+status_basis: >
+  "You, Me, We" exhibition at Boston Children's Museum, co-created by
+  Trivium Interactive, won the American Alliance of Museums' 2024 Award
+  for Advancement of Diversity, Equity, Accessibility & Inclusion.
+status_verified: 2026-07-18
+summary: >
+  Trivium Interactive is a Boston, Massachusetts-based, women-owned
+  experiential media design studio producing interactive and immersive
+  media, animation, and video content for museums and attractions.
+sources:
+  - https://www.triviuminteractive.com/
+  - https://www.aam-us.org/2024/03/19/aam-recognizes-13-individuals-and-10-institutions-for-exemplary-work-in-the-museum-field/
+  - https://www.triviuminteractive.com/whats-new/you-me-we-exhibition-at-the-boston-childrens-museum-has-won-the-2024-american-alliance-of-museums-award-for-advancement-of-diversity-equity-accessibility-inclusion
+  - https://www.triviuminteractive.com/project/seachange

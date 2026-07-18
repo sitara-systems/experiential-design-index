@@ -1,0 +1,9 @@
+id: central-middle-school-columbus-indiana
+name: Central Middle School
+venue_type: other
+location:
+  city: Columbus
+  state: IN
+operator: Bartholomew Consolidated School Corporation
+sources:
+  - https://modelofarchitecture.org/projects/exhibit-columbus-biennial

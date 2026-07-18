@@ -1,0 +1,23 @@
+id: museum-at-bethel-woods-core
+name: The Museum at Bethel Woods
+venue: museum-at-bethel-woods
+project_type: new-building
+year_completed: 2008
+credits:
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: hadley-exhibits
+    role: fabrication
+    note: "engineered, fabricated, and installed large graphic/acoustic panels via Transformit"
+technologies:
+  - archival film
+  - interactive displays
+summary: >
+  The Museum at Bethel Woods, a museum on the site of the 1969 Woodstock
+  festival in Bethel, New York, opened in May 2008 with exhibits designed
+  by Gallagher & Associates and fabrication, including large
+  graphic/acoustic panels, by Hadley Exhibits.
+description: ""
+sources:
+  - https://www.transformit.com/news/bid/42836/woodstock-graphic-acoustic-panels-at-the-museum-at-bethel-woods
+  - https://hadleyexhibits.com/The-Museum-at-Bethel-Woods

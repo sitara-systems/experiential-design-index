@@ -1,0 +1,25 @@
+# Project record — Mosaic, Jekyll Island Museum
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: jekyll-island-museum-mosaic
+name: Mosaic
+venue: jekyll-island-museum
+project_type: major-renovation
+year_completed: 2019
+credits:
+  - firm: main-street-design
+    role: exhibit-design
+    note: "Exhibit design"
+  - firm: weber-group
+    role: architecture
+    note: "Renovation and restoration of the historic Club Stables building; no firm record yet"
+technologies: []
+summary: >
+  Mosaic, the renovation and reopening of the Jekyll Island Museum inside the
+  122-year-old former Jekyll Island Club stable on Jekyll Island, Georgia,
+  opened in spring 2019 after a $3.1 million renovation; restoration and
+  architecture by Weber Group, with exhibit design by Main Street Design.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Jekyll_Island_Museum
+  - https://jekyllislandfoundation.org/about/for-the-record/mosaic-revealed/

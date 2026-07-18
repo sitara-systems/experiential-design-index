@@ -1,0 +1,10 @@
+id: mote-sea
+name: Mote SEA (Science Education Aquarium)
+venue_type: aquarium-zoo
+location:
+  city: Sarasota
+  state: FL
+operator: Mote Marine Laboratory
+website: https://mote.org/aquarium/
+sources:
+  - https://mote.org/aquarium/

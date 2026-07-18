@@ -1,0 +1,25 @@
+id: washington-state-history-museum-permanent-exhibition
+name: Permanent Exhibition
+venue: washington-state-history-museum
+project_type: new-building
+year_completed: 1996
+status: completed
+credits:
+  - firm: west-office
+    role: exhibit-design
+technologies:
+  - interactive theatrical vignettes
+  - multimedia presentations
+summary: >
+  The Washington State History Museum's founding permanent exhibition,
+  opened with the Tacoma museum on August 10, 1996, was designed by West
+  Office Exhibition Design.
+description: >
+  The exhibition presents Washington's history through interactive
+  theatrical vignettes combining artifacts, environmental settings,
+  interactive exhibits, and multimedia presentations depicting the state's
+  natural environment, the cultures of its inhabitants, and significant
+  historical events.
+sources:
+  - https://woed.com/woprojects/washington-state-history-museum/
+  - https://en.wikipedia.org/wiki/Washington_State_History_Museum

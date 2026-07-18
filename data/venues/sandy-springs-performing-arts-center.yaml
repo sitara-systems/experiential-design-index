@@ -1,0 +1,11 @@
+id: sandy-springs-performing-arts-center
+name: Sandy Springs Performing Arts Center
+venue_type: cultural-center
+location:
+  city: Sandy Springs
+  state: GA
+operator: City of Sandy Springs
+website: https://citysprings.com/places/sandy-springs-performing-arts-center/
+sources:
+  - https://www.sandyspringsga.gov/places/sandy-springs-performing-arts-center/
+  - https://citysprings.com/places/sandy-springs-performing-arts-center/

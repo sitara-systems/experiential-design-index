@@ -1,0 +1,35 @@
+id: schuler-shook
+name: Schuler Shook
+aka: []
+website: https://schulershook.com
+hq:
+  city: Chicago
+  state: IL
+other_offices:
+  - city: Minneapolis
+    state: MN
+  - city: Dallas
+    state: TX
+  - city: San Francisco
+    state: CA
+  - city: New York
+    state: NY
+founded: 1986
+roles:
+  - lighting-design
+  - av-integration
+status: active
+status_basis: >
+  Firm portfolio site actively listing recent projects through 2025-2026
+  (e.g. National Medal of Honor Museum, opened 2025; Buddy Holly Hall of
+  Performing Arts and Sciences, 2021; Railyard Park, 2021; Lynn Wyatt Square
+  for the Performing Arts, 2024), 237 projects listed on schulershook.com.
+status_verified: 2026-07-18
+summary: >
+  Schuler Shook is a Chicago-based theatre planning, architectural lighting
+  design, and audiovisual design firm, founded in 1986, with additional
+  offices in Minneapolis, Dallas, San Francisco, and New York, working on
+  performing arts centers, museums, libraries, and public spaces nationwide.
+sources:
+  - https://schulershook.com/about
+  - https://schulershook.com/projects

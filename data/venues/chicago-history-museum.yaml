@@ -1,0 +1,9 @@
+id: chicago-history-museum
+name: Chicago History Museum
+venue_type: history-museum
+location:
+  city: Chicago
+  state: IL
+website: https://www.chicagohistory.org
+sources:
+  - https://www.chicagohistory.org

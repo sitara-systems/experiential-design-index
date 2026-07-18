@@ -1,0 +1,10 @@
+id: the-frick-collection
+name: The Frick Collection
+venue_type: art-museum
+location:
+  city: New York
+  state: NY
+website: https://www.frick.org
+sources:
+  - https://www.frick.org/renovation
+  - https://www.frick.org/press/frick-reopens-april-17

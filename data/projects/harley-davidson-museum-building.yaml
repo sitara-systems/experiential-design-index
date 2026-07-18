@@ -1,0 +1,30 @@
+id: harley-davidson-museum-building
+name: Harley-Davidson Museum
+venue: harley-davidson-museum
+project_type: new-building
+year_completed: 2008
+credits:
+  - firm: hga
+    role: architecture
+  - firm: pentagram
+    role: exhibit-design
+    note: "James Biber/Michael Zweck-Bonner (architecture collaboration) and Abbott Miller (permanent exhibition design); no firm record yet"
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Shop drawings, showcases, interactives, graphics, and artifact mounting/installation"
+technologies:
+  - interactive kiosks
+summary: >
+  The 130,000 sq ft Harley-Davidson Museum in Milwaukee, Wisconsin, opened
+  July 12, 2008; architecture by HGA with Pentagram, and fabrication by
+  Kubik Maltbie.
+description: >
+  The museum campus houses Harley-Davidson's corporate archive and permanent
+  collection of motorcycles alongside interpretive galleries. This record
+  covers the original building and its opening exhibits; the museum's 2022
+  Experience Gallery is tracked as a separate, later project.
+sources:
+  - https://urbanmilwaukee.com/2008/07/12/the-harley-davidson-museum-celebrates-an-american-icon/
+  - https://hga.com/projects/harley-davidson-museum/
+  - https://www.pentagram.com/work/the-harley-davidson-museum-1/story
+  - https://kubikmaltbie.com/project/harley-davidson-museum/

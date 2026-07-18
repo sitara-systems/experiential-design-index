@@ -1,0 +1,9 @@
+id: alamance-arts-plaza-graham
+name: Alamance Arts Alliance plaza (between Alamance Children's Museum, public library, and Arts Alliance HQ)
+venue_type: public-space
+location:
+  city: Graham
+  state: NC
+operator: Alamance Arts Alliance
+sources:
+  - https://www.theurbanconga.com/projects/press-play

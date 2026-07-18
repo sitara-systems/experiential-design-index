@@ -1,0 +1,40 @@
+id: att-discovery-district-the-globe
+name: "The Globe: Interactive Installation at AT&T Discovery District"
+venue: att-discovery-district
+project_type: installation
+year_completed: 2021
+credits:
+  - firm: gensler
+    role: architecture
+    note: "Master architecture and design of the AT&T Discovery District, of which The Globe is a centerpiece."
+  - firm: float4
+    role: media-design
+    note: "Interactive content and real-time show control, triggered by lidar sensors. No firm record yet."
+  - firm: made-music-studio
+    role: content-production
+    note: "Custom generative audio composition that swells and grows more complex as more visitors enter. No firm record yet."
+  - firm: electrosonic
+    role: av-integration
+    note: "Complete audio, video, control, and ICT systems design and integration."
+technologies:
+  - LED
+  - lidar sensors
+  - generative audio
+  - real-time show control
+summary: >
+  The Globe, a 30-foot-tall walk-through interactive sculpture with over
+  300,000 LEDs, opened in 2021 as the centerpiece of the AT&T Discovery
+  District in downtown Dallas; architecture by Gensler, interactive content
+  by Float4, audio by Made Music Studio, and AV/ICT systems integration by
+  Electrosonic.
+description: >
+  Visitors walking through The Globe's 15 steel ribs trigger lidar sensors
+  that reshape a generative light and sound show in real time, responding to
+  visitor speed, movement, and the number of people present; the piece is
+  inspired by the AT&T logo.
+sources:
+  - https://segd.org/projects/the-globe-interactive-installation-at-att-discovery-district/
+  - https://www.electrosonic.com/projects/the-globe-at-att-discovery-district
+  - https://www.float4.com/en/projects/the-globe-interactive-installation-at-att-discovery-district/
+  - https://www.gensler.com/projects/att-discovery-district
+  - https://www.commarts.com/content/files/competitions/2023%20IA%20Shortlist.pdf

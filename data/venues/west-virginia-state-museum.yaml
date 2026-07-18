@@ -1,0 +1,11 @@
+id: west-virginia-state-museum
+name: West Virginia State Museum
+venue_type: history-museum
+location:
+  city: Charleston
+  state: WV
+operator: West Virginia Culture Center
+website: https://wvculture.org/explore/wv-state-museum/
+sources:
+  - https://en.wikipedia.org/wiki/West_Virginia_State_Museum
+  - https://wvculture.org/explore/wv-state-museum/

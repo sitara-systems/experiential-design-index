@@ -1,0 +1,11 @@
+id: world-food-prize-hall-of-laureates
+name: The World Food Prize Hall of Laureates
+venue_type: history-museum
+location:
+  city: Des Moines
+  state: IA
+operator: World Food Prize Foundation
+website: https://www.halloflaureates.org/
+sources:
+  - https://en.wikipedia.org/wiki/World_Food_Prize
+  - https://www.halloflaureates.org/

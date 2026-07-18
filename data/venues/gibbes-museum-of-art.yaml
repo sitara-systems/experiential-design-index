@@ -1,0 +1,10 @@
+id: gibbes-museum-of-art
+name: Gibbes Museum of Art
+venue_type: art-museum
+location:
+  city: Charleston
+  state: SC
+website: https://www.gibbesmuseum.org
+sources:
+  - https://www.gibbesmuseum.org
+  - https://www.gibbesmuseum.org/news/lighting-the-gibbes-museum-qa-with-anita-jorgensen/

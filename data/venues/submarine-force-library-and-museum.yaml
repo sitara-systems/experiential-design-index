@@ -1,0 +1,10 @@
+id: submarine-force-library-and-museum
+name: Submarine Force Library and Museum
+venue_type: history-museum
+location:
+  city: Groton
+  state: CT
+operator: U.S. Navy
+website: https://www.ussnautilus.org
+sources:
+  - https://en.wikipedia.org/wiki/Submarine_Force_Library_and_Museum

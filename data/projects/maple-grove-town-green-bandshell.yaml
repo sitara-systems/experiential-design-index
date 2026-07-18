@@ -1,0 +1,39 @@
+id: maple-grove-town-green-bandshell
+name: Town Green Bandshell
+venue: maple-grove-town-green
+project_type: new-building
+year_completed: 2010
+credits:
+  - firm: hga
+    role: architecture
+    note: "design lead Eric Amel"
+  - firm: damon-farber
+    role: landscape-architecture
+    note: "no firm record yet"
+  - firm: schuler-shook
+    role: lighting-design
+    note: "theatre planning, lighting design, and rigging systems design"
+technologies: []
+summary: >
+  The Town Green Bandshell, an outdoor performance bandshell with a
+  cantilevered concrete canopy on West Arbor Lake in Maple Grove,
+  Minnesota's civic Town Green park, opened in 2010, designed by HGA with
+  landscape architecture by Damon Farber and theatre planning, lighting, and
+  rigging design by Schuler Shook.
+description: >
+  The bandshell's six-pole, wing-like concrete canopy is inspired by the
+  form of a maple seed pod; it seats up to 500 on grassy, terraced tiers
+  next to the Maple Grove Government Center and Library. Acoustic
+  consulting was by Kvernstoen, Ronnholm & Associates — not credited here
+  as acoustics is outside this index's role vocabulary. Theatrical
+  lighting/dimming equipment (ETC Source 4 fixtures, ETC Unison control) was
+  supplied and installed by Norcostco; that role has no clean fit in this
+  index's role vocabulary (equipment supply/installation, not design) and is
+  flagged rather than force-fit. The bandshell won a 2011 ASLA Minnesota
+  Merit Award.
+sources:
+  - https://schulershook.com/projects/maple-grove-town-green-bandshell
+  - https://hga.com/projects/city-of-maple-grove/
+  - https://www.damonfarber.com/projects/maple-grove-town-green-
+  - https://norcostco.com/maple-grove-town-green-banshell/
+  - https://www.maplegrovemn.gov/672/Town-Green

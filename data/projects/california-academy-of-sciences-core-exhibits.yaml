@@ -1,0 +1,33 @@
+id: california-academy-of-sciences-core-exhibits
+name: California Academy of Sciences (Opening Exhibits)
+venue: california-academy-of-sciences
+project_type: new-building
+year_completed: 2008
+credits:
+  - firm: renzo-piano-building-workshop
+    role: architecture
+    note: "No firm record yet"
+  - firm: volume-inc
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      Comprehensive building AV incl. traditional media pieces, large
+      blended projection systems, a 100-node digital signage system, and
+      building-wide and local docent-support PA systems, plus custom
+      sensor-based interactives
+technologies:
+  - blended projection
+  - digital signage
+  - custom sensor interactives
+summary: >
+  The California Academy of Sciences, a rebuilt natural history museum under
+  a living roof in San Francisco, opened September 27, 2008, designed by
+  Renzo Piano Building Workshop with exhibit design by Volume Inc. and
+  building-wide AV integration by BBI Engineering.
+description: ""
+sources:
+  - https://www.dezeen.com/2008/10/03/california-academy-of-sciences-by-renzo-piano/
+  - https://www.fastcompany.com/1357775/california-academy-sciences-delivers-sustainable-message-sustainable-exhibition-design
+  - https://bbinet.com/works/california-academy-of-sciences/

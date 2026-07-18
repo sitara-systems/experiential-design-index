@@ -1,0 +1,10 @@
+id: chicago-cultural-center
+name: Chicago Cultural Center
+venue_type: cultural-center
+location:
+  city: Chicago
+  state: IL
+operator: City of Chicago Department of Cultural Affairs and Special Events
+website: https://www.chicago.gov/city/en/depts/dca/supp_info/chicago_culturalcenter.html
+sources:
+  - https://www.chicago.gov/city/en/depts/dca/supp_info/chicago_culturalcenter.html

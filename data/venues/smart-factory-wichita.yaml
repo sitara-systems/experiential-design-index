@@ -1,0 +1,11 @@
+id: smart-factory-wichita
+name: The Smart Factory @ Wichita
+venue_type: brand-experience-center
+location:
+  city: Wichita
+  state: KS
+operator: Deloitte
+website: https://www.deloitte.com/us/en/services/consulting/services/the-smart-factory.html
+sources:
+  - https://www.deloitte.com/us/en/about/press-room/deloitte-opens-new-us-smart-factory-in-wichita-kansas.html
+  - https://www.wichita.edu/about/wsunews/news/2023/03-march/smartfactory_4.php

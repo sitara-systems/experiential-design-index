@@ -1,0 +1,9 @@
+id: longwood-gardens
+name: Longwood Gardens
+venue_type: botanical-garden
+location:
+  city: Kennett Square
+  state: PA
+website: https://longwoodgardens.org
+sources:
+  - https://longwoodgardens.org

@@ -1,0 +1,9 @@
+id: staten-island-zoo
+name: Staten Island Zoo
+venue_type: aquarium-zoo
+location:
+  city: Staten Island
+  state: NY
+website: https://www.statenislandzoo.org
+sources:
+  - https://www.cplusga.com/works/staten-island-zoo-reptile-wing/

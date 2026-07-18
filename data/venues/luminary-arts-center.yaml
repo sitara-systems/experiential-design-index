@@ -1,0 +1,11 @@
+id: luminary-arts-center
+name: Luminary Arts Center
+venue_type: cultural-center
+location:
+  city: Minneapolis
+  state: MN
+operator: Minnesota Opera
+website: https://luminaryartscenter.com
+sources:
+  - https://mnopera.org/blog/introducing-the-luminary-arts-center/
+  - https://shelterarchitecture.com/portfolio/luminary-arts-center/

@@ -1,0 +1,11 @@
+id: old-faithful-visitor-education-center
+name: Old Faithful Visitor Education Center
+venue_type: visitor-center
+location:
+  city: Yellowstone National Park
+  state: WY
+operator: National Park Service
+website: https://www.nps.gov/yell/planyourvisit/oldfaithfulvec.htm
+sources:
+  - https://www.nps.gov/yell/planyourvisit/oldfaithfulvec.htm
+  - https://bbinet.com/works/yellowstone-national-park-visitor-centers/

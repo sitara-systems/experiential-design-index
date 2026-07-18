@@ -1,0 +1,10 @@
+id: american-swedish-institute
+name: American Swedish Institute
+venue_type: cultural-center
+location:
+  city: Minneapolis
+  state: MN
+website: https://asimn.org
+sources:
+  - https://asimn.org
+  - https://en.wikipedia.org/wiki/American_Swedish_Institute

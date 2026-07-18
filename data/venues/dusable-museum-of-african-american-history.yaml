@@ -1,0 +1,9 @@
+id: dusable-museum-of-african-american-history
+name: DuSable Museum of African American History
+venue_type: history-museum
+location:
+  city: Chicago
+  state: IL
+website: https://www.dusablemuseum.org
+sources:
+  - https://www.dusablemuseum.org

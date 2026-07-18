@@ -1,0 +1,11 @@
+id: millennium-park
+name: Millennium Park
+venue_type: public-space
+location:
+  city: Chicago
+  state: IL
+operator: City of Chicago
+website: https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html
+sources:
+  - https://en.wikipedia.org/wiki/Millennium_Park
+  - https://www.architecture.org/online-resources/buildings-of-chicago/pritzker-pavilion

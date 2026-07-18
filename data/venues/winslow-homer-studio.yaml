@@ -1,0 +1,9 @@
+id: winslow-homer-studio
+name: Winslow Homer Studio
+venue_type: history-museum
+location:
+  city: Scarborough
+  state: ME
+operator: Portland Museum of Art
+sources:
+  - https://www.amazedesign.com/work/winslow-homer-studio-nr3bn

@@ -1,0 +1,10 @@
+id: park-city-museum
+name: Park City Museum
+venue_type: history-museum
+location:
+  city: Park City
+  state: UT
+operator: Park City Historical Society & Museum
+website: https://parkcityhistory.org/
+sources:
+  - https://www.cavagnero.com/project/park-city-museum/

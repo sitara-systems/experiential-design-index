@@ -1,0 +1,10 @@
+id: center-for-puppetry-arts
+name: Center for Puppetry Arts
+venue_type: cultural-center
+location:
+  city: Atlanta
+  state: GA
+website: https://puppet.org
+sources:
+  - https://puppet.org
+  - https://en.wikipedia.org/wiki/Center_for_Puppetry_Arts

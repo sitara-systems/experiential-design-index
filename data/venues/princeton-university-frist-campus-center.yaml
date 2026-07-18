@@ -1,0 +1,11 @@
+id: princeton-university-frist-campus-center
+name: Frist Campus Center, Princeton University
+venue_type: academic-institution
+location:
+  city: Princeton
+  state: NJ
+operator: Princeton University
+website: https://frist.princeton.edu
+sources:
+  - https://frist.princeton.edu
+  - https://paw.princeton.edu/article/sis-boom-ah

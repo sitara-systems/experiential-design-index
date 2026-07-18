@@ -1,0 +1,11 @@
+id: gateway-arch-museum
+name: Gateway Arch Museum
+venue_type: history-museum
+location:
+  city: St. Louis
+  state: MO
+operator: Gateway Arch National Park (National Park Service)
+website: https://www.nps.gov/jeff
+sources:
+  - https://www.nps.gov/jeff
+  - https://bbinet.com/works/gateway-arch-national-park/

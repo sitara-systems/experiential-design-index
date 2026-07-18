@@ -1,0 +1,11 @@
+id: lakewood-welcome-center
+name: Lakewood Welcome Center
+venue_type: visitor-center
+location:
+  city: Minneapolis
+  state: MN
+operator: Lakewood Cemetery
+website: https://www.lakewoodcemetery.org/places/welcome-center/
+sources:
+  - https://www.lakewoodcemetery.org/places/welcome-center/
+  - https://snowkreilich.com/ourwork/lakewood-welcome-center/

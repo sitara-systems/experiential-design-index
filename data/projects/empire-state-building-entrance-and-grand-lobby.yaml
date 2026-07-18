@@ -1,0 +1,25 @@
+id: empire-state-building-entrance-and-grand-lobby
+name: Observatory Entrance & Grand Lobby Renovation
+venue: empire-state-building
+project_type: major-renovation
+year_completed: 2018
+credits:
+  - firm: diversified
+    role: av-integration
+    note: >
+      Technology integrator for the new observatory entrance at 20 West
+      34th Street and grand lobby, including LED displays, large-format
+      LCD screens, and projection systems with automatic failover/backup
+technologies:
+  - LED displays
+  - large-format LCD
+  - projection mapping
+summary: >
+  The Empire State Building's new dedicated Observatory entrance at 20 West
+  34th Street and redesigned grand lobby, phase one of the building's
+  $165 million observatory redevelopment, opened August 22, 2018, in New
+  York City, with audiovisual systems integration by Diversified.
+description: ""
+sources:
+  - https://www.prnewswire.com/news-releases/empire-state-building-unveils-new-observatory-entrance-300701050.html
+  - https://onediversified.com/case-study/seamless-technology-integration

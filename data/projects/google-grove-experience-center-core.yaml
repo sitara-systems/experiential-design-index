@@ -1,0 +1,28 @@
+id: google-grove-experience-center-core
+name: The Grove, Google Experience Center
+venue: google-grove-experience-center
+project_type: new-exhibition
+year_completed: 2018
+credits:
+  - firm: tait
+    role: exhibit-design
+    note: "Credited as \"produced by Thinkwell, now tait\"; concept and design of the corporate briefing center across thirteen spaces"
+  - firm: tait
+    role: media-design
+  - firm: electrosonic
+    role: av-integration
+    note: "Facility integration, engineering, fabrication, installation, programming, and commissioning of AV technology across thirteen spaces"
+technologies:
+  - interactive media
+  - environmental storytelling
+summary: >
+  The Grove, a corporate briefing center for Google in Redwood City,
+  California, opened in 2018, designed by TAIT (via its Thinkwell Group
+  studio) in partnership with Google's Experience Studio team, with AV
+  integration across thirteen spaces by Electrosonic; the space is themed
+  around the nearby coastal redwood forests and won a 2020 World-Class
+  Center Award from the Association of Briefing Program Managers.
+description: ""
+sources:
+  - https://www.taittowers.com/work/google-the-grove-experience-center
+  - https://www.electrosonic.com/projects/the-grove-google-experience-center

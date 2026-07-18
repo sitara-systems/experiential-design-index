@@ -1,0 +1,34 @@
+# Firm record — Mystic Custom Fabrication (formerly Mystic Scenic Studios)
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: mystic-scenic
+name: Mystic Custom Fabrication
+aka:
+  - Mystic Scenic Studios
+  - Mystic Scenic
+website: https://www.mysticcustomfabrication.com
+hq:
+  city: Norwood
+  state: MA
+founded: 1989
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Active fabrication portfolio (broadcast, exhibits, millwork, scenic, and
+  industrial work) maintained at mysticcustomfabrication.com as of this
+  check; town of Norwood's TIF success-story page documents a 2004-2024
+  Tax Increment Financing agreement concluding June 2024 with $4,478,154
+  invested in the firm's Norwood facility and 97 full-time employees.
+status_verified: 2026-07-18
+summary: >
+  Mystic Custom Fabrication (operating for most of its history as Mystic
+  Scenic Studios) is a Norwood, Massachusetts-based custom fabrication
+  company founded in 1989, producing museum and exhibit displays, broadcast
+  sets, scenic construction, and commercial millwork and architectural
+  elements from a 100,000-square-foot production facility.
+sources:
+  - https://www.mysticcustomfabrication.com/
+  - https://www.mysticcustomfabrication.com/exhibit-projects
+  - https://www.mysticcustomfabrication.com/newsandawards
+  - https://www.norwoodma.gov/government/committees_boards/economic_development_committee/tif_success_stories/mystic_scenic_studios.php

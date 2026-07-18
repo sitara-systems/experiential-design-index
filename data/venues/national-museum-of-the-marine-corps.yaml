@@ -1,0 +1,11 @@
+id: national-museum-of-the-marine-corps
+name: National Museum of the Marine Corps
+venue_type: history-museum
+location:
+  city: Triangle
+  state: VA
+operator: Marine Corps Heritage Foundation
+website: https://www.usmcmuseum.com/
+sources:
+  - https://en.wikipedia.org/wiki/National_Museum_of_the_Marine_Corps
+  - https://www.usmcmuseum.com/

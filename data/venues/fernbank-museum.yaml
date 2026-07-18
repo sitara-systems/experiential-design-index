@@ -1,0 +1,9 @@
+id: fernbank-museum
+name: Fernbank Museum of Natural History
+venue_type: natural-history-museum
+location:
+  city: Atlanta
+  state: GA
+website: https://www.fernbankmuseum.org
+sources:
+  - https://www.fernbankmuseum.org

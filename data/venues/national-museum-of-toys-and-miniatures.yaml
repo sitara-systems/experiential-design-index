@@ -1,0 +1,10 @@
+id: national-museum-of-toys-and-miniatures
+name: The National Museum of Toys and Miniatures
+venue_type: history-museum
+location:
+  city: Kansas City
+  state: MO
+website: https://toyandminiaturemuseum.org/
+sources:
+  - https://toyandminiaturemuseum.org/
+  - https://www.kcur.org/arts-life/2015-08-01/kansas-citys-toy-and-miniature-museum-reopens-after-year-long-renovation

@@ -1,0 +1,11 @@
+id: brandeis-university-rose-art-museum
+name: Rose Art Museum
+venue_type: art-museum
+location:
+  city: Waltham
+  state: MA
+operator: Brandeis University
+website: https://www.brandeis.edu/rose/
+sources:
+  - https://www.brandeis.edu/rose/
+  - https://en.wikipedia.org/wiki/Rose_Art_Museum

@@ -1,0 +1,9 @@
+id: national-baseball-hall-of-fame-and-museum
+name: National Baseball Hall of Fame and Museum
+venue_type: sports-venue
+location:
+  city: Cooperstown
+  state: NY
+website: https://baseballhall.org
+sources:
+  - https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum

@@ -1,0 +1,32 @@
+id: harrahs-cherokee-casino-rotunda
+name: Harrah's Cherokee Casino Resort Rotunda
+venue: harrahs-cherokee-casino
+project_type: installation
+year_completed: 2012
+credits:
+  - firm: cuningham-group
+    role: architecture
+    note: "No firm record yet"
+  - firm: lexington
+    role: fabrication
+    note: "Design/build fabricator: shop drawings, fabrication, AV/lighting integration, and installation"
+  - firm: candela-controls
+    role: lighting-design
+    note: >
+      Lighting integration and control programming (800+ LED tree fixtures,
+      waterfall lighting, four seasonal light shows); no firm record yet
+technologies:
+  - programmable LED lighting
+  - synchronized light and water show
+summary: >
+  The rotunda at Harrah's Cherokee Casino Resort in Cherokee, North Carolina,
+  a themed entry centerpiece with twin 68-foot waterfalls and eight 60-foot
+  illuminated tree columns, opened in 2012 as part of a multi-year resort
+  expansion; Cuningham Group was architect, Lexington was design/build
+  fabricator, and Candela Controls engineered the lighting control systems.
+description: ""
+sources:
+  - https://www.nassal.com/projects/harrahs-cherokee-casino
+  - https://www.candelacontrols.com/portfolio_item/harrahs-cherokee-casino/
+  - https://smokymountainnews.com/news/item/7512-dynamite-rotunda-comes-to-life-at-harrah%20%20%20s-cherokee-casino
+  - https://cuningham.com/portfolio/harrahs-cherokee-casino-resort-2

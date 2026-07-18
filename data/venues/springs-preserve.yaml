@@ -1,0 +1,11 @@
+id: springs-preserve
+name: Springs Preserve
+venue_type: cultural-center
+location:
+  city: Las Vegas
+  state: NV
+operator: Las Vegas Valley Water District
+website: https://www.springspreserve.org
+sources:
+  - https://www.springspreserve.org
+  - https://bbinet.com/works/las-vegas-springs-preserve/

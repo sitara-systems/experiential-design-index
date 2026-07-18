@@ -1,0 +1,11 @@
+id: porsche-experience-center-atlanta
+name: Porsche Experience Center Atlanta
+venue_type: brand-experience-center
+location:
+  city: Atlanta
+  state: GA
+operator: Porsche Cars North America
+website: https://www.porschedriving.com/atlanta/
+sources:
+  - https://newsroom.porsche.com/en_US/company/porsche-experience-centers/porsche-experience-center-atlanta-18228.html
+  - https://www.hok.com/projects/view/porsche-cars-north-america-experience-center-and-headquarters/

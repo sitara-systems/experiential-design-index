@@ -1,0 +1,11 @@
+id: national-law-enforcement-museum
+name: National Law Enforcement Museum
+venue_type: history-museum
+location:
+  city: Washington
+  state: DC
+operator: National Law Enforcement Officers Memorial Fund
+website: https://nleomf.org/museum/
+sources:
+  - https://en.wikipedia.org/wiki/National_Law_Enforcement_Museum
+  - https://nleomf.org/museum/

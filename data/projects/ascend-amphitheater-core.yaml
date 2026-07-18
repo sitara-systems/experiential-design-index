@@ -1,0 +1,42 @@
+id: ascend-amphitheater-core
+name: Ascend Amphitheater
+venue: ascend-amphitheater
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: hodgetts-and-fung
+    role: architecture
+    note: "design architect (principals Craig Hodgetts, FAIA, and Hsinming Fung, AIA); no firm record yet"
+  - firm: smith-gee-studio
+    role: architecture
+    note: "architect of record / interior architect; no firm record yet"
+  - firm: hawkins-partners
+    role: landscape-architecture
+    note: "lead consultant, authored the West Riverfront Master Plan; no firm record yet"
+  - firm: schuler-shook
+    role: lighting-design
+    note: "stage lighting and rigging infrastructure design, audience seating and sightline design, production lighting systems design"
+technologies: []
+summary: >
+  Ascend Amphitheater, an outdoor concert amphitheater seating roughly
+  6,500-6,800 in Nashville's Metro Riverfront Park on the Cumberland River,
+  opened July 30, 2015, designed by Hodgetts + Fung (design architect) with
+  Smith Gee Studio (architect of record) and landscape architecture by
+  Hawkins Partners; Schuler Shook designed the stage lighting, rigging, and
+  audience seating.
+description: >
+  Built on the site of the former Nashville Thermal Transfer Plant as part
+  of an 11-acre riverfront park redevelopment, Ascend Amphitheater was the
+  first outdoor amphitheater in the US to achieve LEED Gold. The design
+  team's roof form draws on the shape of a Gretsch guitar amplifier.
+  Acoustic consulting was by Jaffe Holden (per Schuler Shook's own project
+  credit) and structural engineering by EMC Structural Engineers — not
+  credited here as engineering is outside this index's role vocabulary.
+  Commonwealth Development Group provided owner's-representative planning,
+  design, and construction oversight. The project cost roughly $50 million.
+sources:
+  - https://schulershook.com/projects/ascend-amphitheater
+  - https://smithgeestudio.com/portfolio-item/ascend-amphitheater/
+  - https://en.wikipedia.org/wiki/Ascend_Amphitheater
+  - https://www.designboom.com/architecture/ascend-amphitheater-hodgetts-fung-nashville-tennessee-03-16-2016/
+  - https://gibsonlandscape.com/project-perspectives-nashvilles-riverfront-park/

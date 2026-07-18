@@ -1,0 +1,9 @@
+id: princeton-university-louis-a-simpson-international-building
+name: Louis A. Simpson International Building, Princeton University
+venue_type: academic-institution
+location:
+  city: Princeton
+  state: NJ
+operator: Princeton University
+sources:
+  - https://isometricstudio.com/princeton-international-atrium

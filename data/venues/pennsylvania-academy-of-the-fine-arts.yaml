@@ -1,0 +1,9 @@
+id: pennsylvania-academy-of-the-fine-arts
+name: Pennsylvania Academy of the Fine Arts
+venue_type: art-museum
+location:
+  city: Philadelphia
+  state: PA
+website: https://www.pafa.org
+sources:
+  - https://www.pafa.org/location/rhoden-arts-center

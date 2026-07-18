@@ -1,0 +1,9 @@
+id: cleveland-museum-of-natural-history
+name: Cleveland Museum of Natural History
+venue_type: natural-history-museum
+location:
+  city: Cleveland
+  state: OH
+website: https://www.cmnh.org
+sources:
+  - https://www.cmnh.org/news/press-room/2024/12/13/museum-reveals-once-in-a-lifetime-transformation-and-invites-all-to-explore-reimagined-exhibits

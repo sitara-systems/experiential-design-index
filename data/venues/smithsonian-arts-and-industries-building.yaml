@@ -1,0 +1,10 @@
+id: smithsonian-arts-and-industries-building
+name: Smithsonian Arts and Industries Building
+venue_type: cultural-center
+location:
+  city: Washington
+  state: DC
+operator: Smithsonian Institution
+website: https://aib.si.edu
+sources:
+  - https://aib.si.edu

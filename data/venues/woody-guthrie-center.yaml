@@ -1,0 +1,12 @@
+id: woody-guthrie-center
+name: Woody Guthrie Center
+venue_type: history-museum
+location:
+  city: Tulsa
+  state: OK
+operator: George Kaiser Family Foundation
+website: https://woodyguthriecenter.org
+sources:
+  - https://en.wikipedia.org/wiki/Woody_Guthrie_Center
+  - https://www.npr.org/2013/05/28/186893611/coming-home-the-woody-guthrie-center-opens-in-tulsa
+  - https://woodyguthriecenter.org

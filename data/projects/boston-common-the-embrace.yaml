@@ -1,0 +1,37 @@
+id: boston-common-the-embrace
+name: The Embrace
+venue: boston-common
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: mass-design-group
+    role: architecture
+    note: "Architecture, landscape design, and plaza design; conceived with artist Hank Willis Thomas, who designed the bronze sculpture (individual artist, not a firm)"
+  - firm: walla-walla-foundry
+    role: fabrication
+    note: "Bronze casting and fabrication of the sculpture; no firm record yet"
+  - firm: quarra-stone-company
+    role: fabrication
+    note: "Stone fabrication of plaza pavers, benches, and wall elements; no firm record yet"
+technologies:
+  - bronze casting
+  - custom stone paving
+summary: >
+  The Embrace, a bronze memorial to Martin Luther King Jr. and Coretta Scott
+  King, was unveiled on Boston Common in Boston, Massachusetts, in 2023;
+  designed by artist Hank Willis Thomas with MASS Design Group as
+  architect/landscape designer, bronze fabrication by Walla Walla Foundry, and
+  stone fabrication by Quarra Stone Company.
+description: >
+  The Embrace is a 20-foot-tall, 25-foot-wide bronze sculpture depicting four
+  interlocking arms, inspired by a photograph of Martin Luther King Jr. and
+  Coretta Scott King embracing after King learned he had won the Nobel Peace
+  Prize. MASS Design Group designed the surrounding 1965 Freedom Plaza,
+  including inscribed pavers naming 65 local civil rights leaders. The bronze
+  was cast and installed by Walla Walla Foundry; plaza stonework, benches, and
+  wall elements were fabricated by Quarra Stone Company.
+sources:
+  - https://modelofarchitecture.org/projects/embrace
+  - https://en.wikipedia.org/wiki/The_Embrace
+  - https://www.mgac.com/blog/mgac-manages-fabrication-and-delivery-of-hank-willis-thomas-the-embrace-sculpture-at-the-boston-common/
+  - https://www.bu.edu/articles/2023/celebrating-mlk-on-boston-common/

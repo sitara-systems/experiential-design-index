@@ -1,0 +1,10 @@
+id: morris-houses-bronx
+name: Morris Houses
+venue_type: public-space
+location:
+  city: Bronx
+  state: NY
+operator: New York City Housing Authority
+sources:
+  - https://www.designboom.com/readers/the-urban-conga-common-corner-playscape-new-york-public-housing-community-bronx-12-23-2025/
+  - https://en.wikipedia.org/wiki/Morris_Houses

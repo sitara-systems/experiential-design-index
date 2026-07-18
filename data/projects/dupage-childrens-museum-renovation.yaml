@@ -1,0 +1,26 @@
+id: dupage-childrens-museum-renovation
+name: DuPage Children's Museum Renovation
+venue: dupage-childrens-museum
+project_type: major-renovation
+year_completed: 2015
+credits:
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "Fabrication, installation, and overall project management"
+  - firm: architecture-is-fun
+    role: exhibit-design
+    note: "no firm record yet"
+technologies:
+  - interactive play structures
+summary: >
+  A 7,000 sq ft redesign of the DuPage Children's Museum in Naperville,
+  Illinois, completed in 2015 after water-damage restoration; exhibit
+  design by Architecture Is Fun with fabrication, installation, and
+  project management by Chicago Scenic Studios.
+description: >
+  New spaces included "Creativity Connections" and "Big Lawn" with sliding
+  hills, plus enhanced "Make it Move" exhibits and the award-winning
+  Pyramid Puzzle interactive installation (2016 AIA Chicago Small Project
+  award).
+sources:
+  - https://www.chicagoscenic.com/projects/dupage-childrens-museum

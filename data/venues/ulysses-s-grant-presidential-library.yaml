@@ -1,0 +1,11 @@
+id: ulysses-s-grant-presidential-library
+name: Ulysses S. Grant Presidential Library
+venue_type: library-archive
+location:
+  city: Starkville
+  state: MS
+operator: Mississippi State University Libraries
+website: https://www.usgrantlibrary.org
+sources:
+  - https://www.usgrantlibrary.org
+  - https://www.newsarchive.msstate.edu/newsroom/article/2017/10/ulysses-s-grant-presidential-library-and-williams-lincolniana-collection

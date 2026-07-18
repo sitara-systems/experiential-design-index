@@ -1,0 +1,21 @@
+id: new-england-aquarium-original-building
+name: New England Aquarium
+venue: new-england-aquarium
+project_type: new-building
+year_completed: 1969
+credits:
+  - firm: cambridgeseven
+    role: architecture
+  - firm: cambridgeseven
+    role: exhibit-design
+technologies: []
+summary: >
+  The New England Aquarium, a purpose-built aquarium on Boston's waterfront,
+  opened in 1969; designed by Cambridge Seven Associates (now
+  CambridgeSeven), it became a precedent-setting prototype for integrated
+  architecture-and-exhibit aquarium design and was the firm's first major
+  commission.
+description: ""
+sources:
+  - https://www.cambridgeseven.com/project/new-england-aquarium/
+  - https://en.wikipedia.org/wiki/Peter_Chermayeff

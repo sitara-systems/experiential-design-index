@@ -1,0 +1,9 @@
+id: us-marshals-museum
+name: U.S. Marshals Museum
+venue_type: history-museum
+location:
+  city: Fort Smith
+  state: AR
+website: https://www.marshalsmuseum.org
+sources:
+  - https://www.marshalsmuseum.org
