@@ -37,3 +37,11 @@ its specific sources; this is the survey list for building coverage.
 - Institutional announcements outrank firm portfolios when credits conflict;
   conflicts that can't be resolved are flagged in the record rather than
   silently chosen.
+- **A source must be public and independently checkable — a page anyone can
+  go look at.** A firm's own published portfolio counts (see
+  `docs/editorial-policy.md` § "What counts as a source"). A page that
+  returns an error for every reader, a paywalled report, or a claim that
+  only exists as something told to the researcher privately does not count
+  — even if that's where the lead came from. If the only way to confirm a
+  fact is a private/unpublished channel, either find a public page that
+  says the same thing or drop the fact.

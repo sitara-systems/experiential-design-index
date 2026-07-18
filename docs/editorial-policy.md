@@ -14,6 +14,16 @@ A firm is included when both are true:
    sources (firm portfolio, institutional announcements, award records, press).
    We do not publish credits we cannot source.
 
+**What counts as a source.** A source must be a **public, independently
+checkable record** — a live web page anyone can go look at. A firm's own
+published website or portfolio page counts (it's public even if
+self-authored). A claim that only exists as something told to us
+privately, an internal or paywalled document nobody else can open, or a
+page that returns an error for every reader — does not count, and the
+fact it would support is dropped rather than published on that basis
+alone. Every fact in the index traces to a source meeting this bar; there
+is no "trust us" tier of inclusion.
+
 There is no fee, no submission requirement, and no relationship prerequisite
 for inclusion. Firms are added because their work belongs in the record.
 
