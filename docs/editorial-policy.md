@@ -37,6 +37,19 @@ settings — academic, healthcare, corporate, and civic spaces with
 public-facing experiential installations. A venue does not need to be a
 standalone public destination for its projects to be part of the record.
 
+**Project-type scope: no advertising.** The index does not cover
+advertising campaigns, ad-agency work, or one-off marketing/brand
+activations (TV/digital commercials, social campaigns, marketing stunts).
+This is a deliberate exclusion, not an oversight — advertising credit
+rosters are notoriously incomplete and rarely publicly documented, which
+runs directly against the sourcing standard above. The line is drawn by
+the *nature of the engagement*, not the client's industry: a firm's work
+on a **built, physical space** — a brand experience center, a corporate
+museum, a retail flagship — stays in scope and is held to the same
+sourcing bar as museum work, because those are still credited,
+documented, physical installations. The same firm's ad-campaign work for
+the same client is out of scope.
+
 ## Activity status (active vs. inactive firms)
 
 Every firm record carries an evidence-based activity status — `active`,
