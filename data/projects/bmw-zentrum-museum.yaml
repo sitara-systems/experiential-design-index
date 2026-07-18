@@ -1,0 +1,19 @@
+id: bmw-zentrum-museum
+name: BMW Zentrum
+venue: bmw-zentrum
+project_type: new-building
+year_completed: 1997
+credits:
+  - firm: thinc-design
+    role: exhibit-design
+technologies: []
+summary: >
+  BMW Zentrum, BMW's 25,000-square-foot North American automotive museum at
+  BMW's manufacturing plant in Greer, SC, opened in 1997, exhibits designed
+  by Thinc Design.
+description: >
+  The exhibits are designed for flexible reconfiguration to accommodate
+  changing vehicle displays, with curvilinear forms drawn from BMW's design
+  tradition.
+sources:
+  - https://www.thincdesign.com/project/bmw-zentrum

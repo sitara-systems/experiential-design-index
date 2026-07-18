@@ -1,0 +1,10 @@
+id: heckscher-museum-of-art
+name: Heckscher Museum of Art
+venue_type: art-museum
+location:
+  city: Huntington
+  state: NY
+website: https://www.heckscher.org
+sources:
+  - https://www.heckscher.org/exhibitions/emma-stebbins-carving-out-history/
+  - https://www.longislandpress.com/2025/11/03/heckscher-emma-stebbins/

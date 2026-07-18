@@ -1,0 +1,30 @@
+# Firm record — Xibitz
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: xibitz
+name: Xibitz
+aka: []
+website: https://xibitz.com
+hq:
+  city: Grand Rapids
+  state: MI
+founded: 1988
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Active company website and news page with a 2025-dated project (The DoSeum's
+  "Uniquely Us: Understanding Race and Building Unity") and 2023 "35 Years of
+  Business" anniversary announcement; company acquired by current partners
+  Ben Metzger and Jeremy Miller in 2015.
+status_verified: 2026-07-18
+summary: >
+  Xibitz is a Grand Rapids, Michigan-based exhibit fabrication company,
+  founded in 1988 as a trade show exhibit builder and now operating an
+  80,000-square-foot facility producing custom museum, corporate, athletics,
+  higher-education, and healthcare exhibits and interiors.
+sources:
+  - https://xibitz.com/
+  - https://xibitz.com/history-and-team/
+  - https://xibitz.com/news-35-years-of-business/
+  - https://xibitz.com/doseum/

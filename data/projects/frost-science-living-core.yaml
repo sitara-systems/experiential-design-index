@@ -1,0 +1,26 @@
+id: frost-science-living-core
+name: Living Core
+venue: phillip-and-patricia-frost-museum-of-science
+project_type: new-building
+year_completed: 2016
+credits:
+  - firm: thinc-design
+    role: exhibit-design
+    note: "Concept design of the aquarium, including the Gulf Stream Tank"
+  - firm: grimshaw-architects
+    role: architecture
+    note: "no firm record yet"
+technologies:
+  - large-format aquarium tank
+summary: >
+  The Living Core, the central aquarium component of the Phillip and
+  Patricia Frost Museum of Science's new facility in Miami, FL, opened in
+  2016, designed by Thinc Design with architecture by Grimshaw Architects.
+description: >
+  The 25,000-square-foot aquarium component of the 250,000-square-foot
+  facility centers on a suspended 500,000-gallon Gulf Stream Tank ("the
+  Martini Tank") viewable through a 30-foot oculus, plus an aviary with
+  diving birds, a mangrove nursery, an Indo-Pacific coral tank, an Atlantic
+  reef fish tank, and a ray touch pool.
+sources:
+  - https://www.thincdesign.com/project/living-core

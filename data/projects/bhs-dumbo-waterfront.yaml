@@ -1,0 +1,33 @@
+id: bhs-dumbo-waterfront
+name: Waterfront
+venue: brooklyn-historical-society-dumbo
+project_type: new-exhibition
+year_completed: 2018
+credits:
+  - firm: pure-and-applied
+    role: exhibit-design
+  - firm: batwin-and-robin
+    role: content-production
+    note: "Animated history video of the Brooklyn waterfront, per the firm's own site"
+  - firm: potion-design
+    role: media-design
+    note: "Production firm on the exhibition's multisensory interactives, per archpaper.com"
+technologies:
+  - multisensory interactives (smell, touch, audio, video)
+summary: >
+  Waterfront, a long-term exhibition on Brooklyn's waterfront history,
+  opened January 20, 2018 at the Brooklyn Historical Society's DUMBO
+  location inside Empire Stores in Brooklyn, New York, curated by Julie
+  Golia and Katie Lasdow, with exhibition design by Pure+Applied and media
+  production by batwin + robin and Potion.
+description: >
+  The exhibition used operable drawers referencing the waterfront's
+  historical storage function and incorporated multisensory elements
+  (smell, touch, audio, video) documenting dockworkers and historical
+  imports such as cochineal, jute, and saltpeter.
+sources:
+  - https://untappedcities.com/2018/01/22/first-major-exhibition-about-brooklyns-coastline-opens-at-nycs-brooklyn-historical-society-dumbo/
+  - https://waterfrontalliance.org/2018/01/19/waterfront-at-brooklyn-historical-society-dumbo/
+  - https://pureandappliedstudio.com/project/waterfront
+  - https://www.archpaper.com/2019/08/waterfront-brooklyn-coast-show/
+  - https://www.batwinandrobin.com/projects/brooklyn-historical-society/

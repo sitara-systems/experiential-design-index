@@ -1,0 +1,11 @@
+id: harbour-town-golf-links-clubhouse
+name: Harbour Town Clubhouse
+venue_type: sports-venue
+location:
+  city: Hilton Head Island
+  state: SC
+operator: The Sea Pines Resort
+website: https://www.seapines.com/golf/information/harbour-town-clubhouse
+sources:
+  - https://www.seapines.com/golf/information/pete-dye-room
+  - https://discoversouthcarolina.com/articles/pete-dye-room-celebrates-creator-of-harbour-town-golf-links

@@ -1,0 +1,23 @@
+id: el-paso-childrens-museum-la-nube
+name: La Nube
+venue: el-paso-childrens-museum
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: snohetta
+    role: architecture
+  - firm: exigo-architecture
+    role: architecture
+    note: "Local associate architect; no firm record yet"
+  - firm: gyroscope
+    role: exhibit-design
+    note: "No firm record yet"
+technologies: []
+summary: >
+  La Nube, a light-filled STEAM discovery center for the El Paso Children's
+  Museum in El Paso's Downtown Arts District, opened in 2024; designed by
+  Snøhetta with Exigo Architecture as local associate architect and
+  Gyroscope as exhibit designer.
+description: ""
+sources:
+  - https://www.snohetta.com/projects/el-paso-childrens-museum-la-nube

@@ -1,0 +1,20 @@
+id: chicago-architecture-center-living-habitat
+name: "Chicago's Living Habitat"
+venue: chicago-architecture-center
+project_type: temporary-exhibition
+year_completed: 2026
+credits:
+  - firm: span-studio
+    role: exhibit-design
+    note: "Design direction and design; developed with Openlands and the Chicago Architecture Center"
+technologies: []
+summary: >
+  Chicago's Living Habitat, a temporary exhibition connecting the design of
+  Chicago with the natural landscapes that make the city possible, opened
+  at the Chicago Architecture Center on June 11, 2026, designed by Span
+  Studio in partnership with Openlands and the Chicago Architecture Center.
+description: ""
+sources:
+  - https://www.architecture.org/visit-the-center/exhibitions/chicagos-living-habitat
+  - https://openlands.org/2026/04/22/studio-gang-and-the-chicago-architecture-center-spotlight-bird-friendly-architecture-design-in-inspiring-new-exhibition-flyway-city/
+  - https://span.studio/projects/living-habitat

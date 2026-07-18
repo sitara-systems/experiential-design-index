@@ -1,0 +1,9 @@
+id: great-river-childrens-museum
+name: Great River Children's Museum
+venue_type: childrens-museum
+location:
+  city: St. Cloud
+  state: MN
+website: https://greatrivercm.org
+sources:
+  - https://www.startribune.com/st-cloud-minnesota-new-great-river-childrens-museum-grand-opening-this-weekend/601371032

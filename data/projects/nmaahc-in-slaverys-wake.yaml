@@ -1,0 +1,29 @@
+id: nmaahc-in-slaverys-wake
+name: "In Slavery's Wake: Making Black Freedom in the World"
+venue: nmaahc
+project_type: traveling-exhibition
+year_completed: 2024
+credits:
+  - firm: monadnock-media
+    role: media-design
+    note: "Media experience design and production and digital interactive design and development, including an interactive Abolition Map and single-user interactives, for the exhibition's Washington, DC debut"
+technologies:
+  - GIS mapping
+  - single-user interactive
+  - narrative video
+summary: >
+  "In Slavery's Wake: Making Black Freedom in the World," a 4,200 sq ft
+  international traveling exhibition on the legacies of racial slavery and
+  colonialism, opened at the Smithsonian's National Museum of African
+  American History and Culture in Washington, DC on December 13, 2024, with
+  media and interactive design by Monadnock Media.
+description: >
+  Organized by NMAAHC's Center for the Study of Global Slavery and Brown
+  University's Ruth J. Simmons Center for the Study of Slavery and Justice,
+  the exhibition also travels to venues in Brazil, South Africa, and
+  (planned) Senegal and England; only the Washington, DC installation is
+  recorded here per the index's US-venue scope.
+sources:
+  - https://monadnock.org/project/in-slaverys-wake
+  - https://nmaahc.si.edu/explore/exhibitions/in-slaverys-wake
+  - https://www.si.edu/newsdesk/releases/national-museum-african-american-history-and-culture-opens-international-traveling

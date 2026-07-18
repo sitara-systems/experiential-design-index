@@ -1,0 +1,32 @@
+# Firm record — Southern Custom Exhibits
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: southern-custom-exhibits
+name: Southern Custom Exhibits
+aka:
+  - Southern Custom Exhibits of Alabama
+website: https://southerncustomexhibits.com
+hq:
+  city: Anniston
+  state: AL
+founded: 1996
+roles:
+  - fabrication
+  - exhibit-design
+status: active
+status_basis: >
+  Credited as exhibit fabricator on the Boone Pickens Legacy Experience at
+  Oklahoma State University, which opened to the public June 2025; live
+  company website and LinkedIn presence maintained as of this check.
+status_verified: 2026-07-18
+summary: >
+  Southern Custom Exhibits is an Anniston, Alabama-based, family-run exhibit
+  fabrication and design-build firm operating since the mid-1990s, building
+  interpretive exhibits for museums, national park visitor centers, and
+  university and corporate facilities.
+sources:
+  - https://southerncustomexhibits.com/
+  - https://southerncustomexhibits.com/about-2/
+  - https://southerncustomexhibits.com/services/
+  - https://southerncustomexhibits.com/x_1-galleries/
+  - https://www.linkedin.com/company/southern-custom-exhibits

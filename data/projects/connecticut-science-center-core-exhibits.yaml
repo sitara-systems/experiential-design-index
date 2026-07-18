@@ -1,0 +1,23 @@
+id: connecticut-science-center-core-exhibits
+name: Connecticut Science Center (Opening Exhibits)
+venue: connecticut-science-center
+project_type: new-building
+year_completed: 2009
+credits:
+  - firm: thinc-design
+    role: exhibit-design
+  - firm: cesar-pelli-associates
+    role: architecture
+    note: "no firm record yet"
+technologies:
+  - interactive exhibits
+summary: >
+  The Connecticut Science Center, a 40,000-square-foot science museum in
+  Hartford, CT, opened in 2009, designed by Thinc Design with architecture
+  by Cesar Pelli Associates.
+description: >
+  Exhibits use "the lens of everyday experience" to explore natural
+  sciences including health, the human body, the Connecticut environment,
+  and global systems.
+sources:
+  - https://www.thincdesign.com/project/connecticut-science-center

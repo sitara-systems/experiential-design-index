@@ -1,0 +1,9 @@
+id: philadelphia-museum-of-art
+name: Philadelphia Museum of Art
+venue_type: art-museum
+location:
+  city: Philadelphia
+  state: PA
+website: https://philamuseum.org
+sources:
+  - https://philamuseum.org

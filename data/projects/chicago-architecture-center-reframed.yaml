@@ -1,0 +1,24 @@
+id: chicago-architecture-center-reframed
+name: "ReFramed: The Future of Cities in Wood"
+venue: chicago-architecture-center
+project_type: temporary-exhibition
+year_completed: 2023
+credits:
+  - firm: urbanlab
+    role: exhibit-design
+    note: "Exhibition design collaboration; no firm record yet"
+  - firm: span-studio
+    role: graphics-wayfinding
+    note: "Design direction, branding, and graphic language, based on a cross-laminated-timber construction grid"
+  - firm: ravenswood-studio
+    role: fabrication
+technologies: []
+summary: >
+  ReFramed: The Future of Cities in Wood, an exhibition on mass-timber
+  construction, opened at the Chicago Architecture Center in April 2023,
+  with exhibition design by Urbanlab and graphics by Span Studio.
+description: ""
+sources:
+  - https://www.architecturalrecord.com/articles/16248-mass-timber-exhibition-in-chicago-barks-up-the-right-tree
+  - https://architecture-org.s3.amazonaws.com/files/resources/new-pr-cac-reframed-4-25-23-27.pdf
+  - https://span.studio/projects/reframed

@@ -1,0 +1,9 @@
+id: indiana-state-museum
+name: Indiana State Museum
+venue_type: history-museum
+location:
+  city: Indianapolis
+  state: IN
+website: https://www.indianamuseum.org
+sources:
+  - https://www.indianamuseum.org/experience/ancient-seas/

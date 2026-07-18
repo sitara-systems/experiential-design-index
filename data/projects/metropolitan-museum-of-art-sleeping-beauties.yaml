@@ -1,0 +1,41 @@
+id: metropolitan-museum-of-art-sleeping-beauties
+name: "Sleeping Beauties: Reawakening Fashion"
+venue: metropolitan-museum-of-art
+project_type: temporary-exhibition
+year_completed: 2024
+credits:
+  - firm: leong-leong
+    role: architecture
+    note: "exhibition space design; no firm record yet"
+  - firm: full-point-graphics
+    role: fabrication
+    note: "graphics production"
+  - firm: showstudio
+    role: media-design
+    note: "technological activations, with Creative Consultant Nick Knight; London-based, no firm record yet, non-US"
+technologies:
+  - artificial intelligence
+  - computer-generated imagery
+  - x-ray imaging
+  - video animation
+  - light projection
+  - soundscape
+summary: >
+  "Sleeping Beauties: Reawakening Fashion," a Costume Institute exhibition
+  reactivating fragile garments from the Metropolitan Museum of Art's
+  collection through multisensory technology, was on view at the Anna
+  Wintour Costume Center in New York from May 10 through September 2, 2024,
+  curated by Andrew Bolton with exhibition design by Leong Leong.
+description: >
+  The exhibition, exploring themes of sea, land, and sky across roughly 250
+  objects, combined conservation research and AI/CGI reconstructions with
+  traditional formats including x-rays, video animation, light projection,
+  and soundscapes to "reawaken" garments too fragile for display on
+  mannequins. Nick Knight served as Creative Consultant, with his company
+  SHOWstudio developing technological activations; researcher and artist
+  Sissel Tolaas developed accompanying scent design.
+sources:
+  - https://www.metmuseum.org/exhibitions/sleeping-beauties-reawakening-fashion
+  - https://en.wikipedia.org/wiki/Sleeping_Beauties:_Reawakening_Fashion
+  - https://www.designboom.com/design/sleeping-beauties-reawakening-fashion-metropolitan-museum-art-costume-institute-met-gala-05-06-2024/
+  - https://www.fullpointgraphics.com/work/sleepingbeauties

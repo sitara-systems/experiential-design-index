@@ -1,0 +1,11 @@
+id: green-house-at-green-wood
+name: The Green-House at Green-Wood
+venue_type: visitor-center
+location:
+  city: Brooklyn
+  state: NY
+operator: Green-Wood Cemetery
+website: https://www.green-wood.com
+sources:
+  - https://www.green-wood.com
+  - https://www.aro.net/green-wood-cemetery-education-and-welcome-center/

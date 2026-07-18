@@ -1,0 +1,32 @@
+id: international-dark-sky-discovery-center-immersion-zone
+name: Immersion Zone
+venue: international-dark-sky-discovery-center
+project_type: new-building
+status: in-progress
+year_completed: 2026
+credits:
+  - firm: swaback-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: split-rock-studios
+    role: exhibit-design
+  - firm: split-rock-studios
+    role: fabrication
+technologies:
+  - interactive educational displays
+summary: >
+  The International Dark Sky Discovery Center, a $25 million,
+  23,000-sq-ft observatory and STEM education facility in Fountain
+  Hills, Arizona, broke ground April 8, 2024 and is expected to open in
+  2026; architecture by Swaback Architects + Planners, with the
+  building's Immersion Zone exhibit hall designed and fabricated by
+  Split Rock Studios.
+description: >
+  The facility includes a 27.5-inch PlaneWave telescope in a domed
+  observatory, a 65-seat planetarium, and a multipurpose auditorium,
+  alongside the 3,300-sq-ft Immersion Zone exhibit space dedicated to
+  STEM education and dark sky preservation.
+sources:
+  - https://www.mccarthy.com/insights/international-dark-sky-discovery-center-breaks-ground-in-fountain-hills
+  - https://www.kjzz.org/science/2025-10-06/big-telescope-installed-in-fountain-hills-dark-sky-discovery-center-scheduled-to-open-in-2026
+  - https://splitrockstudios.com/idsdc-breaks-ground-2024/

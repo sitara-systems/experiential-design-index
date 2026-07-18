@@ -1,0 +1,10 @@
+id: connecticut-science-center
+name: Connecticut Science Center
+venue_type: science-center
+location:
+  city: Hartford
+  state: CT
+website: https://www.ctsciencecenter.org
+sources:
+  - https://www.ctsciencecenter.org
+  - https://www.thincdesign.com/project/connecticut-science-center

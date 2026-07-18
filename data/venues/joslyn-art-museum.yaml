@@ -1,0 +1,9 @@
+id: joslyn-art-museum
+name: Joslyn Art Museum
+venue_type: art-museum
+location:
+  city: Omaha
+  state: NE
+website: https://joslyn.org
+sources:
+  - https://joslyn.org

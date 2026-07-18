@@ -1,0 +1,9 @@
+id: international-dark-sky-discovery-center
+name: International Dark Sky Discovery Center
+venue_type: science-center
+location:
+  city: Fountain Hills
+  state: AZ
+website: https://darkskycenter.org
+sources:
+  - https://www.mccarthy.com/insights/international-dark-sky-discovery-center-breaks-ground-in-fountain-hills

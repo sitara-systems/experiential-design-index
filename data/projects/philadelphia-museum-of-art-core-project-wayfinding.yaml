@@ -1,0 +1,32 @@
+id: philadelphia-museum-of-art-core-project-wayfinding
+name: Core Project Wayfinding and Signage
+venue: philadelphia-museum-of-art
+project_type: major-renovation
+year_completed: 2021
+credits:
+  - firm: gehry-partners
+    role: architecture
+    note: "Core Project renovation and interior expansion architect. No firm record yet"
+  - firm: design-communications-ltd
+    role: fabrication
+    note: "Signage fabrication"
+  - firm: pentagram
+    role: graphics-wayfinding
+    note: >
+      Comprehensive signage and wayfinding system, including kiosks with
+      digital LED screens, metal and glass signage, and the donor wall;
+      builds on a 2014 visual identity Pentagram had designed for the
+      museum. Led by partner Michael Gericke.
+technologies:
+  - digital LED signage
+summary: >
+  The Philadelphia Museum of Art's Core Project, a renovation and interior
+  expansion of the museum's landmark 1928 building designed by Frank Gehry
+  of Gehry Partners, opened to the public May 7, 2021, with a new signage
+  and wayfinding system by Pentagram fabricated by Design Communications
+  Ltd.
+description: ""
+sources:
+  - https://www.archpaper.com/2021/03/frank-gehry-philadelphia-museum-of-art-will-open-may-7/
+  - https://www.pentagram.com/work/philadelphia-museum-of-art-2/story
+  - https://press.philamuseum.org/gehry-project/

@@ -1,0 +1,11 @@
+id: bellevue-botanical-garden
+name: Bellevue Botanical Garden
+venue_type: botanical-garden
+location:
+  city: Bellevue
+  state: WA
+operator: City of Bellevue
+website: https://bellevuebotanical.org
+sources:
+  - https://bellevuebotanical.org/history/
+  - https://bellevuewa.gov/city-news/celebrating-new-growth-garden

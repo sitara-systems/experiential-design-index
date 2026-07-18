@@ -1,0 +1,12 @@
+# Venue record — Denver Art Museum
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: denver-art-museum
+name: Denver Art Museum
+venue_type: art-museum
+location:
+  city: Denver
+  state: CO
+website: https://www.denverartmuseum.org
+sources:
+  - https://www.denverartmuseum.org/en/press/release/martin-building-reopening-oct-2021

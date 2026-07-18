@@ -18,10 +18,10 @@ credits:
     note: "Exhibit fabrication and installation across fifteen renovated galleries, including archival display cases, three theater environments, an 11-foot interactive globe, and recreated White House architectural spaces"
   - firm: monadnock-media
     role: media-design
-    note: "Media installations and interactive experiences, including a Red Scare multiplayer interactive and a WWII immersive theater; no firm record yet"
+    note: "Media installations and interactive experiences, including a Red Scare multiplayer interactive and a WWII immersive theater"
   - firm: mad-systems
     role: av-integration
-    note: "AV design, engineering, integration, and commissioning using its QuickSilver distributed AV platform across the renovated museum; no firm record yet"
+    note: "AV design, engineering, integration, and commissioning using its QuickSilver distributed AV platform across the renovated museum"
 technologies:
   - projection mapping
   - interactive touchscreen

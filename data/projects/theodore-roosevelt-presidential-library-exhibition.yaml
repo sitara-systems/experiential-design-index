@@ -6,7 +6,7 @@ year_completed: 2026
 credits:
   - firm: snohetta
     role: architecture
-    note: "Design architect and interior designer; no firm record yet"
+    note: "Design architect and interior designer"
   - firm: snohetta
     role: landscape-architecture
   - firm: local-projects
@@ -15,15 +15,23 @@ credits:
   - firm: local-projects
     role: exhibit-design
     note: "Adventure Galleries exhibition experience and institutional brand identity"
+  - firm: split-rock-studios
+    role: fabrication
+    note: "Fabricated over 40 artifact cases across the library, including the Narrative Gallery and the Roosevelt Museum of Natural History Room"
+  - firm: electrosonic
+    role: av-integration
 technologies:
   - immersive galleries
 summary: >
   The Theodore Roosevelt Presidential Library & Museum, a 95,000-sq-ft
   building adjacent to Theodore Roosevelt National Park in Medora, North
   Dakota, opened July 4, 2026; architecture by Snøhetta, with interpretive
-  planning, exhibition design, and brand identity by Local Projects.
+  planning, exhibition design, and brand identity by Local Projects,
+  exhibit fabrication by Split Rock Studios, and AV integration by
+  Electrosonic.
 description: ""
 sources:
   - https://localprojects.com/work/museums-attractions/theodore-roosevelt-presidential-library/
   - https://www.trlibrary.com/about/press/press-releases/theodore-roosevelt-presidential-library-opening-celebrations-july-4-2026
   - https://www.snohetta.com/news/theodore-roosevelt-presidential-library-opens
+  - https://splitrockstudios.com/theodore-roosevelt-presidential-library/

@@ -1,0 +1,9 @@
+id: far-rockaway-library
+name: Far Rockaway Library
+venue_type: library-archive
+location:
+  city: Queens
+  state: NY
+operator: Queens Public Library
+sources:
+  - https://www.archdaily.com/1022953/far-rockaway-library-snohetta

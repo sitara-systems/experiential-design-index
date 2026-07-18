@@ -1,0 +1,11 @@
+id: wells-visitor-center
+name: Wells Visitor Center & Ice Cream Parlor
+venue_type: visitor-center
+location:
+  city: Le Mars
+  state: IA
+operator: Wells Enterprises (Blue Bunny)
+website: https://ilovewells.com
+sources:
+  - https://ilovewells.com/
+  - https://www.iowapublicradio.org/ipr-news/2019-06-13/wells-blue-bunny-remodels-facility-hoping-to-bring-more-tourism-to-le-mars

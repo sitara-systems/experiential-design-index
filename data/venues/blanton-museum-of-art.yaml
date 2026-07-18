@@ -1,0 +1,10 @@
+id: blanton-museum-of-art
+name: Blanton Museum of Art
+venue_type: art-museum
+location:
+  city: Austin
+  state: TX
+operator: The University of Texas at Austin
+website: https://blantonmuseum.org
+sources:
+  - https://blantonmuseum.org

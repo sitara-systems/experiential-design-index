@@ -1,0 +1,8 @@
+id: beaufort-history-museum
+name: Beaufort History Museum
+venue_type: history-museum
+location:
+  city: Beaufort
+  state: SC
+sources:
+  - https://yourislandnews.com/photos-beaufort-history-museum-family-day/

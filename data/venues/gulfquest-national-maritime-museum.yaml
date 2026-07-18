@@ -1,0 +1,10 @@
+id: gulfquest-national-maritime-museum
+name: GulfQuest National Maritime Museum of the Gulf Coast
+venue_type: history-museum
+location:
+  city: Mobile
+  state: AL
+website: https://nmmog.org
+sources:
+  - https://en.wikipedia.org/wiki/National_Maritime_Museum_of_the_Gulf_of_Mexico
+  - https://nmmog.org

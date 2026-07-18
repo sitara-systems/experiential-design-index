@@ -1,0 +1,35 @@
+id: chicago-architecture-center-flyway-city
+name: "Flyway City: Architecture for a Flourishing Ecosystem"
+venue: chicago-architecture-center
+project_type: temporary-exhibition
+year_completed: 2026
+credits:
+  - firm: studio-gang
+    role: exhibit-design
+    note: "Design and co-curation, led by Jeanne Gang"
+  - firm: span-studio
+    role: graphics-wayfinding
+    note: "Graphic identity and environmental graphics"
+  - firm: navillus-woodworks
+    role: fabrication
+technologies:
+  - interactive media
+summary: >
+  Flyway City: Architecture for a Flourishing Ecosystem, an exhibition on
+  bird-friendly and wildlife-friendly urban design, opened at the Chicago
+  Architecture Center's Skyscraper Gallery on June 11, 2026 and runs
+  through January 3, 2027, designed and co-curated by Studio Gang with
+  graphic identity and environmental graphics by Span Studio.
+description: >
+  The exhibition combines architectural models, building material mockups,
+  photography, original illustrations, interactive media, and
+  community-sourced artifacts to introduce visitors to five regional
+  ecosystems (wetland, prairie, dunes and swales, woodland, and urban
+  wildlife) and to Studio Gang projects incorporating bird-safe design,
+  including the Aqua Tower and the David Rubenstein Treehouse at Harvard
+  University.
+sources:
+  - https://www.architecture.org/visit-the-center/exhibitions/flyway-city
+  - https://studiogang.com/now/flyway-city-announcement/
+  - https://chicago.suntimes.com/architecture-design/2026/06/12/jeanne-gang-chicago-architecture-center-flyway-openlands-exhibition-birds
+  - https://span.studio/projects/flyway-city

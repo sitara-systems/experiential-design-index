@@ -1,0 +1,11 @@
+id: national-museum-of-the-great-lakes
+name: National Museum of the Great Lakes
+venue_type: history-museum
+location:
+  city: Toledo
+  state: OH
+operator: Great Lakes Historical Society
+website: https://nmgl.org
+sources:
+  - https://nmgl.org
+  - https://en.wikipedia.org/wiki/National_Museum_of_the_Great_Lakes

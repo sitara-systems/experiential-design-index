@@ -1,0 +1,9 @@
+id: waukesha-county-museum
+name: Waukesha County Museum
+venue_type: history-museum
+location:
+  city: Waukesha
+  state: WI
+website: https://www.waukeshacountymuseum.org
+sources:
+  - https://www.peterhydedesign.com/projects/les-paul-the-wizard-of-waukesha/

@@ -1,0 +1,30 @@
+# Firm record — Parz Designs
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: parz-designs
+name: Parz Designs
+website: https://parzdesigns.com
+hq:
+  city: Falls Church
+  state: VA
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Credited by Isometric Studio as exhibition fabricator on "Queer Justice:
+  50 Years of Lambda Legal and LGBTQ+ Rights" (opened November 2023,
+  touring through 2024) and the Juanita J. Craft Civil Rights House and
+  Museum permanent exhibition (2023); parzdesigns.com is a live, actively
+  maintained business site.
+status_verified: 2026-07-18
+summary: >
+  Parz Designs is a family-owned custom woodworking and carpentry company
+  based in Falls Church, Virginia, serving the Washington, D.C. metro area;
+  it has been credited by Isometric Studio as exhibition fabricator on
+  three museum installations between 2019 and 2023.
+sources:
+  - https://parzdesigns.com/
+  - https://parzdesigns.com/gallery/
+  - https://isometricstudio.com/who-we-are-exhibition
+  - https://isometricstudio.com/juanita-craft-civil-rights-house
+  - https://isometricstudio.com/queer-justice

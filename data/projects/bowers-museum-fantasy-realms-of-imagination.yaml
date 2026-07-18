@@ -1,0 +1,32 @@
+id: bowers-museum-fantasy-realms-of-imagination
+name: "Fantasy: Realms of Imagination"
+venue: bowers-museum
+project_type: temporary-exhibition
+year_completed: 2024
+status: completed
+credits:
+  - firm: mad-systems
+    role: av-integration
+    note: >
+      Technology partner; wireless QuickSilver AV platform with TeaParty
+      show control powering ~20 media displays and projection-based
+      immersive environments throughout the exhibition
+technologies:
+  - wireless AV distribution
+  - projection
+  - media displays
+summary: >
+  Fantasy: Realms of Imagination, a British Library exhibition on the
+  fantasy genre presented with the Bowers Museum in Santa Ana, California,
+  opened October 26, 2024, with AV integration by MAD Systems.
+description: >
+  The exhibition featured over 150 artifacts spanning fairy tales and
+  folklore to Studio Ghibli, The Lord of the Rings, and Pan's Labyrinth,
+  including costumes, historical manuscripts, rare first editions, and film
+  props, alongside roughly 20 media displays and projection-based immersive
+  environments.
+sources:
+  - https://madsystems.com/portfolio-bowers-museum.html
+  - https://blooloop.com/museum/news/mad-systems-fantasy-realms-of-imagination-exhibition/
+  - https://www.bl.uk/about/press/releases/major-new-exhibition-opens-today-exploring-fantasy
+  - https://x.com/BowersMuseum/status/1849256093610131915

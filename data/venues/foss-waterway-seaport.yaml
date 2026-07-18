@@ -1,0 +1,10 @@
+id: foss-waterway-seaport
+name: Foss Waterway Seaport
+venue_type: history-museum
+location:
+  city: Tacoma
+  state: WA
+website: https://www.fosswaterwayseaport.org
+sources:
+  - https://www.fosswaterwayseaport.org
+  - https://www.archpaper.com/2012/08/foss-waterway-seaport/

@@ -1,0 +1,13 @@
+# Venue record — North Bridge Visitor Center
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: north-bridge-visitor-center
+name: North Bridge Visitor Center
+venue_type: visitor-center
+location:
+  city: Concord
+  state: MA
+operator: Minute Man National Historical Park, National Park Service
+website: https://www.nps.gov/mima/planyourvisit/north-bridge-visitor-center.htm
+sources:
+  - https://www.nps.gov/mima/planyourvisit/north-bridge-visitor-center.htm

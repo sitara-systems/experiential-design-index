@@ -1,0 +1,13 @@
+# Venue record — Ritz Theatre and LaVilla Museum
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: ritz-theatre-and-lavilla-museum
+name: Ritz Theatre and LaVilla Museum
+venue_type: history-museum
+location:
+  city: Jacksonville
+  state: FL
+website: https://www.ritzjacksonville.com
+sources:
+  - https://en.wikipedia.org/wiki/Ritz_Theatre_(Jacksonville)
+  - https://en.wikipedia.org/wiki/LaVilla_Museum

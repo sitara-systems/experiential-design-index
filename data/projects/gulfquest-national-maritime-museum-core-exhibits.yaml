@@ -1,0 +1,31 @@
+id: gulfquest-national-maritime-museum-core-exhibits
+name: GulfQuest Core Exhibits
+venue: gulfquest-national-maritime-museum
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: monadnock-media
+    role: media-design
+    note: "Media master planning, exhibit design collaboration, media experience design and production, digital interactive design and development, and technical systems oversight across the 35,000 sq ft museum, including the Port of Victory Theater, Deep Explorer virtual-submersible interactive, GulfQuest panoramic theater, Great Gulf Challenge multiplayer game, and Take the Helm simulator"
+  - firm: lyons-zaremba
+    role: exhibit-design
+    note: "no firm record yet"
+technologies:
+  - projection mapping
+  - GIS mapping
+  - multiplayer game
+  - simulator
+summary: >
+  GulfQuest National Maritime Museum of the Gulf Coast, a 120,000 sq ft
+  museum in Mobile, Alabama (renamed National Maritime Museum of the Gulf
+  in 2024), opened September 26, 2015, with roughly 90 interactive
+  exhibits; Monadnock Media produced the media and interactive experiences
+  with exhibit design by Lyons/Zaremba Inc.
+description: >
+  Installations credited to Monadnock Media include a virtual-submersible
+  "Deep Explorer" interactive, a panoramic orientation theater, and a
+  multiplayer "Great Gulf Challenge" game.
+sources:
+  - https://monadnock.org/project/gulfquest
+  - https://en.wikipedia.org/wiki/National_Maritime_Museum_of_the_Gulf_of_Mexico
+  - https://www.watermarkarchitects.com/2016/01/gulfquest-wins-project-year/

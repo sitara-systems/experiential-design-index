@@ -1,0 +1,13 @@
+# Venue record — Historic Mitchelville Freedom Park
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: historic-mitchelville-freedom-park
+name: Historic Mitchelville Freedom Park
+venue_type: history-museum
+location:
+  city: Hilton Head Island
+  state: SC
+website: https://exploremitchelville.org
+sources:
+  - https://exploremitchelville.org/
+  - https://www.postandcourier.com/beaufort-county/news/mitchelville-park-ribbon-cutting-hilton-head/article_1ec6c524-274b-11ef-bd95-77ed341b58f8.html

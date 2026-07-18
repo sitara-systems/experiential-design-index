@@ -1,0 +1,35 @@
+id: the-franklin-institute-sportszone
+name: SportsZone
+venue: the-franklin-institute
+project_type: new-exhibition
+year_completed: 2015
+credits:
+  - firm: art-guild-inc
+    role: fabrication
+    note: "Prototyping, testing, fabrication, and installation"
+  - firm: 900lbs-of-creative
+    role: media-design
+    note: >
+      "No firm record yet; produced 'The Run,' a 40-foot interactive
+      augmented-reality race installation using multi-camera capture and
+      laser-projection blending"
+technologies:
+  - augmented reality
+  - laser projection
+  - interactive touch stations
+summary: >
+  SportsZone, a 3,600-square-foot permanent exhibition on the science of
+  sports, opened at The Franklin Institute in Philadelphia on October 24,
+  2015, fabricated by Art Guild with the centerpiece "The Run" interactive
+  race installation produced by 900lbs of Creative.
+description: >
+  The exhibit features 21 interactive experiences exploring how the human
+  body, laws of motion, and technology interact in sports, including an
+  augmented-reality race against professional athletes, a pitching skill
+  tester, a surfboard simulator, and impact-force models comparing protected
+  and unprotected human heads.
+sources:
+  - https://www.inquirer.com/philly/health/sportsmedicine/20150809_Franklin_Institute_s_new_SportsZone_lets_you_discover_the_science_of_athletics.html
+  - https://www.artguildinc.com/2015/11/05/art-guild-fabricates-interactive-experiences-for-new-sportszone-exhibit-at-the-franklin-institute/
+  - https://www.900lbs.com/portfolio/franklin-institute-run-exhibit
+  - https://fi.edu/en/exhibits-and-experiences/sportszone

@@ -1,0 +1,25 @@
+id: kavli-institute-mit-mcnair-tribute
+name: MIT McNair Tribute
+venue: kavli-institute-mit
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: proun-design
+    role: exhibit-design
+  - firm: wb-inc
+    role: fabrication
+    note: "no firm record yet"
+technologies:
+  - internally lit graphic rail
+  - digital display kiosks
+summary: >
+  The MIT McNair Tribute, a lobby installation at the Kavli Institute for
+  Astrophysics and Space Research at MIT in Cambridge, Massachusetts,
+  opened in 2024, with exhibit design by Proun Design and fabrication by
+  WB Inc.
+description: >
+  An internally lit graphic rail chronicles the life and legacy of
+  astronaut Ronald McNair, accompanied by two digital display kiosks
+  providing further interpretation.
+sources:
+  - https://www.proundesign.com/cultural-history-1/mit--mcnair--tribute

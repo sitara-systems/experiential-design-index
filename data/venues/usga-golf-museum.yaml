@@ -1,0 +1,10 @@
+id: usga-golf-museum
+name: USGA Golf Museum
+venue_type: history-museum
+location:
+  city: Far Hills
+  state: NJ
+operator: United States Golf Association
+website: https://www.usga.org
+sources:
+  - https://mediacenter.usga.org/2015-05-27-USGA-Museum-Celebrates-Opening-Of-Jack-Nicklaus-Room

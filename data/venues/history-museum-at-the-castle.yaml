@@ -1,0 +1,8 @@
+id: history-museum-at-the-castle
+name: The History Museum at the Castle
+venue_type: history-museum
+location:
+  city: Appleton
+  state: WI
+sources:
+  - https://splitrockstudios.com/you-are-here-grand-opening/

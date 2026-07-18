@@ -1,0 +1,11 @@
+id: south-side-sanctuary
+name: South Side Sanctuary
+venue_type: public-space
+location:
+  city: Chicago
+  state: IL
+operator: The Nascent Group
+website: https://southsidesanctuary.org
+sources:
+  - https://blockclubchicago.org/2024/08/07/south-side-sanctuary-community-plaza-opens-in-bronzeville/
+  - https://abc7chicago.com/post/new-south-side-sanctuary-brings-large-outdoor-green-space-bronzeville-chicago-east-47th-street-king-drive/15151183/

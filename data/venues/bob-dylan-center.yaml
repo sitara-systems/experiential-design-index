@@ -1,0 +1,11 @@
+id: bob-dylan-center
+name: Bob Dylan Center
+venue_type: history-museum
+location:
+  city: Tulsa
+  state: OK
+operator: American Song Archives
+website: https://www.bobdylancenter.com
+sources:
+  - https://www.bobdylancenter.com
+  - https://en.wikipedia.org/wiki/Bob_Dylan_Center

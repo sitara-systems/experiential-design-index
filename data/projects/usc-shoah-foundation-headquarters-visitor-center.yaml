@@ -1,0 +1,38 @@
+id: usc-shoah-foundation-headquarters-visitor-center
+name: USC Shoah Foundation Global Headquarters Visitor Center
+venue: usc-shoah-foundation-headquarters
+project_type: new-exhibition
+year_completed: 2018
+status: completed
+credits:
+  - firm: belzberg-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: maude-group
+    role: exhibit-design
+    note: "Exhibition consultant (Chicago, IL; no firm record yet)"
+  - firm: mad-systems
+    role: av-integration
+    note: >
+      Audiovisual consultant; designed and installed the "Waterfall,"
+      "Fins," "Pathways to Testimony," and "Mirror Wall" interactive
+      testimony displays
+technologies:
+  - interactive touchscreen
+  - video wall
+summary: >
+  The USC Shoah Foundation's global headquarters, occupying the top floor
+  of USC's Leavey Library in Los Angeles, opened its public visitor center
+  in November 2018 with architecture by Belzberg Architects, exhibition
+  consulting by the Maude Group, and AV integration by MAD Systems.
+description: >
+  The visitor center's interactive exhibits include Waterfall (two 10-ft
+  interactive displays sharing survivor testimonies), Fins (touchscreen
+  information pillars), Pathways to Testimony (portrait touchscreens), and
+  a 24-ft Mirror Wall of monitors combining survivor testimony with an
+  interactive map of the exhibition's global impact.
+sources:
+  - https://madsystems.com/portfolio-shoah-usc.html
+  - https://today.usc.edu/usc-shoah-foundation-opens-new-office-kicks-off-25th-anniversary-commemoration/
+  - https://interiordesign.net/projects/the-usc-shoah-foundation-in-los-angeles-by-belzberg-architects-shines-light-on-the-darkest-events-in-modern-history/
+  - https://www.pk30system.com/case-studies/usc-shoah-foundation/

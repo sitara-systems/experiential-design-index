@@ -343,6 +343,120 @@ list.*
   candidate list — by credit-count threshold or manual review — before
   crawling it in full.
 
+- **Tier 3 — Arrowstreet firm crawl (2026-07-18).** Targeted single-firm
+  crawl: Arrowstreet (Boston architecture/environmental-graphics firm) was
+  already credited on 2 projects (Dillaway-Thomas House, Hildreth
+  Elementary School) with no firm record. Created
+  `data/firms/arrowstreet.yaml` (founded 1961, `architecture` +
+  `graphics-wayfinding` + `exhibit-design` + `interpretive-planning` roles,
+  active). Crawled the firm's full portfolio sitemap (~280 URLs) and
+  filtered to museum/library/civic work with real experiential content —
+  the bulk of the sitemap is unrelated commercial/residential/mall/office
+  work, correctly excluded. Added **9 new projects** and **5 new venues**:
+  Pilgrim Monument and Provincetown Museum wayfinding (2022), PAAM
+  wayfinding/donor recognition (2006, alongside Machado and Silvetti
+  Associates' renovation), and 4 Boston Public Library Central Library
+  projects at different dates (Central Library Wayfinding 2014, Teen
+  Central 2015, Book Mosaic 2016 — reusing the existing
+  `mystic-scenic` fabrication credit, Special Collections Exhibit 2022
+  alongside Finegold Alexander Architects), East Boston Branch Library
+  environmental graphics (2013, alongside William Rawn Associates), Thayer
+  Public Library Children's Room (2019), and a Newburyport Black History
+  Initiative interpretive-panel installment (2023) on the Clipper City Rail
+  Trail. Reused the existing `boston-public-library` venue record for the
+  four BPL projects. Excluded as out of scope: Patriot Place and its
+  signage/wayfinding sub-projects (a 1.3M-sf retail/entertainment/hotel
+  development — the embedded Patriots Hall of Fame museum has no
+  separately documented Arrowstreet exhibit-design credit distinct from
+  the overall commercial development), the Massport kinetic garage facade
+  (parking structure, not a public-facing cultural/civic venue), Joan and
+  Irwin Jacobs Center for STEAM Education (school building; its one
+  interactive element was designed by a third party, not Arrowstreet), and
+  Artists For Humanity EpiCenter (architecture of a working studio
+  building with no exhibit/interpretive-design credit beyond the building
+  shell). New unlinked partner-firm credits (all below the 3-project bar):
+  `machado-silvetti-associates`, `william-rawn-associates` (2 credits),
+  `finegold-alexander-architects`. `validate.py`: 0 errors from this
+  batch (dataset's 1 pre-existing error, on an unrelated Dark Sky
+  Discovery Center record, is not from this work).
+
+- **Tier 3 — remaining 21 firms (2026-07-18).** Continuation of the same
+  Tier 3 batch as the Arrowstreet entry above (one agent per firm, run in
+  parallel): Thinc Design, Pentagram, EOS Lightmedia, Taylor Studios,
+  Stephen Saitas Designs, Pure+Applied, Xibitz, Split Rock Studios, Span
+  Studio, Southern Custom Exhibits, Snøhetta, Proun Design, Peter Hyde
+  Design, Parz Designs, Olson Kundig, Monadnock Media, MAD Systems, Full
+  Point Graphics, Explus, Batwin + Robin Productions, Art Guild Inc.
+  (Moment Factory and Reich+Petch were excluded from firm-record creation
+  going in — both already confirmed non-US in earlier tiers.)
+
+  **Result: dataset grew from 88/900/709 to 112/1160/882**
+  (firms/projects/venues). `validate.py`: 0 errors.
+
+  Notable per-firm findings: **EOS Lightmedia** — researched directly on
+  its own site rather than assumed; confirmed Vancouver, BC headquartered
+  (a genuine but subsidiary US presence in Orlando/NYC doesn't clear the
+  operating-reality bar), so no firm record was created, matching rule 6 —
+  correctly left as unlinked credits. **Snøhetta** — a deliberate
+  US-qualification test case: Oslo-founded but a 22-year-old, ~70-person
+  New York studio independently leading US museum/cultural work (Joslyn
+  Art Museum credited "Snøhetta New York" specifically) cleared the
+  operating-reality bar in `editorial-policy.md`; firm record created with
+  `hq` set to the NY office. **Xibitz** — the brief's assumed Maryland HQ
+  was wrong; the firm's own site and history page place it in Grand
+  Rapids, MI since 1988 (stale data-broker listings were the source of the
+  bad assumption) — corrected before the record was written. **Parz
+  Designs** — a real, active fabrication business, but its own portfolio
+  is 100% residential; its 3 museum credits all come from a partner firm's
+  (Isometric Studio's) project pages, not its own. **Explus** — the
+  dispatched research agent returned a thorough two-part report but never
+  wrote any files; the orchestrating session used that research directly
+  to write the firm record + 3 new sourced projects. The agent's report
+  also caught a live sourcing problem: an existing project record
+  (`nascar-hall-of-fame-engine-ar.yaml`) credited Explus with no
+  corroboration anywhere (not on Explus's own site, no independent
+  source) — removed per the "never guess" rule rather than left
+  standing. **Proun Design** — by far the largest single-firm crawl this
+  tier; the dispatched agent fanned out 5 of its own sub-batches to cover
+  Proun's ~90-project portfolio (Baker Library/HBS, MIT, social-justice/
+  civil-rights exhibitions, NPS sites, corporate lobbies), contributing
+  roughly 60 new projects on its own — a bigger single-firm fan-out than
+  even Schuler Shook in Tier 2.
+
+  Firms promoted mid-crawl as side effects (per rule 8, found while
+  crawling a different target firm's credits): `studio-gang` and
+  `navillus-woodworks` (via Span Studio), `taylor-studios` and
+  `peter-hyde-design` (also independent Tier 3 targets in their own
+  right, additionally surfaced via Xibitz's credits),
+  `wondercabinet-interpretive-design` (via the Proun Design batch,
+  recorded `status: inactive` — no activity found on its Cargo Collective
+  portfolio past 2012–2013).
+
+  Reconciliation this round: no firm-id near-duplicates found (each
+  agent's own dedup pass held this time — a first). One project/venue id
+  collision fixed (Norway House Saga Center). Two vocabulary gaps
+  surfaced but not self-resolved (logged for Nathan): (1) no
+  `project_types` value fits a standalone master-planning-only engagement
+  (Proun's Historic Mitchelville Freedom Park master-plan credit — parked,
+  not recorded); (2) no clean role fits "museum consulting" as distinct
+  from `interpretive-planning` (one Proun-credited project, left
+  uncredited for that one firm rather than force a mapping).
+
+  **Tier 4 candidate list**: 20 firms now sit at ≥3 credits without a
+  firm record. 4 are already-confirmed non-US and correctly stay unlinked
+  regardless of credit count (`eos-lightmedia`, `moment-factory`,
+  `reich-petch`, `lord-cultural-resources`). The other 16:
+  `ashton-design`, `beyer-blinder-belle`, `bluebird-graphic-solutions`,
+  `bowen-technovation`, `davis-brody-bond`, `diller-scofidio-renfro`,
+  `gehry-partners`, `goppion`, `hilferty-and-associates`,
+  `kieran-timberlake`, `matter-architecture-practice`,
+  `mills-whitaker-architects`, `neal-mayer`, `smithgroup`,
+  `tod-williams-billie-tsien-architects`, `upswell`, `wb-inc`. Given three
+  tiers of consistent, large per-tier growth (39→88→112 firms; 473→900→1160
+  projects), the next session should treat this as a genuine pause point —
+  confirm scope/scale intent with Nathan before launching Tier 4, per the
+  methodology's own "pause between tiers" rationale.
+
 ## Updating an existing record (not just adding new ones)
 
 This methodology also covers maintenance, not only initial seeding:

@@ -1,0 +1,9 @@
+id: aquarium-of-niagara
+name: Aquarium of Niagara
+venue_type: aquarium-zoo
+location:
+  city: Niagara Falls
+  state: NY
+website: https://www.aquariumofniagara.org/
+sources:
+  - https://taylorstudios.com/our-work/great-lakes-360/

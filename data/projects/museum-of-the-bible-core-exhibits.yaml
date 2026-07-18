@@ -15,6 +15,19 @@ credits:
     note: "Directed a team of a dozen creative firms in developing 100,000 sq ft of exhibitions across the museum, including three galleries of artifacts from the Vatican Library and the Israel Antiquities Authority"
   - firm: design-and-production-incorporated
     role: fabrication
+  - firm: available-light
+    role: lighting-design
+    note: "Exhibit lighting designer for the Impact Gallery, per Eos Lightmedia's own project page."
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Exhibit fabricator for the Impact Gallery specifically, per Eos Lightmedia's own project page."
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: >
+      Supplied, installed, focused, and programmed the overhead and integral
+      lighting of the Impact Gallery's 9-foot-high, 180-foot-long narrative
+      tapestry (gobo projection). No firm record yet (Vancouver, BC
+      headquartered; non-US, per editorial policy geographic scope).
 technologies:
   - interactive touchscreens
   - 360-degree panoramic projection
@@ -40,3 +53,4 @@ sources:
   - https://www.museumofthebible.org/press-releases/floor-2-impact-of-the-bible-bible-now
   - https://theprdgroup.com/project/museum-of-the-bible/
   - https://d-and-p.com/human-history
+  - https://www.eoslightmedia.com/work/32

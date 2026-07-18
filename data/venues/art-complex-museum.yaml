@@ -1,0 +1,9 @@
+id: art-complex-museum
+name: Art Complex Museum
+venue_type: art-museum
+location:
+  city: Duxbury
+  state: MA
+website: https://artcomplex.org
+sources:
+  - https://www.proundesign.com/cultural-history-1/the-founders-room

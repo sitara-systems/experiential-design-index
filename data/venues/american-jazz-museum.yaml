@@ -1,0 +1,12 @@
+# Venue record — American Jazz Museum
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: american-jazz-museum
+name: American Jazz Museum
+venue_type: history-museum
+location:
+  city: Kansas City
+  state: MO
+website: https://americanjazzmuseum.org
+sources:
+  - https://en.wikipedia.org/wiki/American_Jazz_Museum

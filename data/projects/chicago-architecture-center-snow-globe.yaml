@@ -1,0 +1,24 @@
+id: chicago-architecture-center-snow-globe
+name: "City in a Snow Globe"
+venue: chicago-architecture-center
+project_type: temporary-exhibition
+year_completed: 2022
+credits:
+  - firm: urbanlab
+    role: exhibit-design
+    note: "Exhibition design; no firm record yet"
+  - firm: span-studio
+    role: graphics-wayfinding
+    note: "Visual identity and graphics"
+  - firm: navillus-woodworks
+    role: fabrication
+technologies: []
+summary: >
+  City in a Snow Globe, an exhibition featuring five scale-model winter
+  scenes imagined for Chicago's downtown lakefront, opened at the Chicago
+  Architecture Center in November 2022 and ran through February 2023, with
+  exhibition design by Urbanlab and graphics by Span Studio.
+description: ""
+sources:
+  - https://www.architecture.org/online-resources/archived-exhibitions
+  - https://span.studio/projects/city-in-a-snow-globe

@@ -1,0 +1,10 @@
+id: childrens-discovery-museum-normal
+name: Children's Discovery Museum
+venue_type: childrens-museum
+location:
+  city: Normal
+  state: IL
+website: https://www.childrensdiscoverymuseum.net
+sources:
+  - https://www.childrensdiscoverymuseum.net
+  - https://www.farmweeknow.com/education/new-ag-exhibit-officially-opens-at-childrens-discovery-museum/article_0748f286-81a3-42ec-9cb8-a622856203dc.html

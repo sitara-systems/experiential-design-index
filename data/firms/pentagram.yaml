@@ -1,0 +1,40 @@
+id: pentagram
+name: Pentagram
+aka: []
+website: https://www.pentagram.com
+hq:
+  city: New York
+  state: NY
+other_offices:
+  - city: London
+    country: UK
+  - city: Austin
+    state: TX
+  - city: Berlin
+    country: Germany
+  - city: San Francisco
+    state: CA
+founded: 1972
+roles:
+  - exhibit-design
+  - graphics-wayfinding
+status: active
+status_basis: >
+  Dataland (Los Angeles) and Green-Wood Cemetery's Green-House visitor center
+  (Brooklyn) both credit Pentagram graphics/identity work completed in 2026;
+  the Obama Presidential Center's "Words of Hope" facade typography opened
+  June 2026; Live from New York: The Lorne Michaels Collection at the Harry
+  Ransom Center opened September 2025; active studio pages and current work
+  listed on pentagram.com as of this check.
+status_verified: 2026-07-18
+summary: >
+  Pentagram is a multi-disciplinary, partner-owned design studio founded in
+  1972, with offices in New York, London, Austin, Berlin, and San Francisco.
+  Within the experiential design space it is credited for exhibition design,
+  environmental graphics, and wayfinding programs at museums, libraries, and
+  cultural institutions, alongside its broader commercial practice in brand
+  identity, digital, and product design.
+sources:
+  - https://www.pentagram.com/about
+  - https://www.pentagram.com/wayfinding
+  - https://www.pentagram.com/exhibitions

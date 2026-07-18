@@ -1,0 +1,10 @@
+id: neilson-library-smith-college
+name: Neilson Library, Smith College
+venue_type: library-archive
+location:
+  city: Northampton
+  state: MA
+operator: Smith College
+website: https://libraries.smith.edu/spaces-technology/neilson-library
+sources:
+  - https://libraries.smith.edu/news/2022/06/neilson-library-evolution-exhibit

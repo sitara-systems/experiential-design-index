@@ -1,0 +1,10 @@
+id: contemporary-jewish-museum
+name: Contemporary Jewish Museum
+venue_type: history-museum
+location:
+  city: San Francisco
+  state: CA
+website: https://www.thecjm.org
+sources:
+  - https://thecjm.org/exhibitions/19
+  - https://architizer.com/blog/inspiration/industry/jews-and-midcentury-modernism-at-mjh/

@@ -1,0 +1,9 @@
+id: norway-house-saga-center
+name: Norway House
+venue_type: cultural-center
+location:
+  city: Minneapolis
+  state: MN
+website: https://www.norwayhouse.org
+sources:
+  - https://www.norwayhouse.org/saga-center

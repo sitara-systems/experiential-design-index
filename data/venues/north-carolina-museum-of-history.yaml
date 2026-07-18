@@ -1,0 +1,13 @@
+# Venue record — North Carolina Museum of History
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: north-carolina-museum-of-history
+name: North Carolina Museum of History
+venue_type: history-museum
+location:
+  city: Raleigh
+  state: NC
+website: https://www.ncmuseumofhistory.org
+sources:
+  - https://www.ncmuseumofhistory.org/story-north-carolina
+  - https://www.deseret.com/2011/10/22/20225059/history-museum-tells-the-story-of-north-carolina/

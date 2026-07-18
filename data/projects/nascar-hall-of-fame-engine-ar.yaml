@@ -11,9 +11,6 @@ credits:
       real Ford FR9 EFI V8 engine on display in the "Inside NASCAR" exhibit;
       built in Unity 3D with ARKit; won a 2020 AAM MUSE Award (AR/VR/Mixed
       Reality, silver)
-  - firm: explus
-    role: fabrication
-    note: "EXPLUS, Inc.; museum production support; no firm record yet"
 technologies:
   - augmented reality
   - ARKit

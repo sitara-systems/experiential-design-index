@@ -1,0 +1,11 @@
+id: novocure-headquarters
+name: Novocure North American Headquarters
+venue_type: corporate-museum
+location:
+  city: Portsmouth
+  state: NH
+operator: Novocure
+website: https://www.novocure.com
+sources:
+  - https://www.proundesign.com/science/novocure
+  - https://www.nhbr.com/novocure-opens-new-u-s-headquarters-in-portsmouth/

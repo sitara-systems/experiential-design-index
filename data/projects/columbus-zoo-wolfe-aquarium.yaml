@@ -1,0 +1,25 @@
+id: columbus-zoo-wolfe-aquarium
+name: John F. Wolfe Aquarium
+venue: columbus-zoo-and-aquarium
+project_type: new-building
+year_expected: 2029
+status: announced
+credits:
+  - firm: thinc-design
+    role: exhibit-design
+    note: "Exhibit design, habitat design, and interpretive planning"
+  - firm: lmn-architects
+    role: architecture
+    note: "Architecture, programming, and sustainability"
+technologies: []
+summary: >
+  The John F. Wolfe Aquarium, a planned new aquarium facility for the
+  Columbus Zoo and Aquarium in Powell, OH, is targeted to open in 2029, with
+  exhibit design by Thinc Design and architecture by LMN Architects.
+description: >
+  The $175 million project will showcase Ohio's native species and
+  ecological systems alongside conservation storytelling; Thinc Design
+  previously designed the Perkins Wildlife Center at the Cleveland Museum of
+  Natural History.
+sources:
+  - https://www.thincdesign.com/project/wolfe-aquarium

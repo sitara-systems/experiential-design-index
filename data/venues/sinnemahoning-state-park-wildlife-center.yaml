@@ -1,0 +1,9 @@
+id: sinnemahoning-state-park-wildlife-center
+name: Sinnemahoning State Park Wildlife Center
+venue_type: visitor-center
+location:
+  city: Austin
+  state: PA
+operator: Pennsylvania Department of Conservation and Natural Resources
+sources:
+  - https://taylorstudios.com/our-work/sinnemahoning-state-park/

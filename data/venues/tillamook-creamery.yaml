@@ -1,0 +1,11 @@
+id: tillamook-creamery
+name: Tillamook Creamery
+venue_type: visitor-center
+location:
+  city: Tillamook
+  state: OR
+operator: Tillamook County Creamery Association
+website: https://www.tillamook.com/visit-us/creamery
+sources:
+  - https://www.tillamook.com/visit-us/creamery
+  - https://www.archpaper.com/2020/01/olson-kundig-celebrates-history-food-oregon-tillamook-creamery/

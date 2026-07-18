@@ -1,0 +1,10 @@
+id: provincetown-art-association-and-museum
+name: Provincetown Art Association and Museum
+venue_type: art-museum
+location:
+  city: Provincetown
+  state: MA
+website: https://paam.org
+sources:
+  - https://paam.org/about-paam/history/
+  - https://www.machado-silvetti.com/provincetown-art-association-museum

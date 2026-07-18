@@ -1,0 +1,10 @@
+id: fort-bend-museum
+name: Fort Bend Museum
+venue_type: history-museum
+location:
+  city: Richmond
+  state: TX
+operator: Fort Bend History Association
+website: https://www.fortbendmuseum.org/
+sources:
+  - https://taylorstudios.com/our-work/fort-bend-museum/

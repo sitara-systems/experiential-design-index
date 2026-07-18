@@ -1,0 +1,24 @@
+id: museum-of-science-boston-human-body-theater
+name: Human Body Theater
+venue: museum-of-science-boston
+project_type: new-exhibition
+year_completed: 2013
+credits:
+  - firm: monadnock-media
+    role: media-design
+    note: "Exhibit design collaboration, media experience design and production, technical systems design and oversight, and immersive theater design for a 10,000 sq ft multi-dimensional projection theater on human biology, developed in collaboration with the Museum of Science's in-house team"
+technologies:
+  - multi-dimensional projection
+  - immersive theater
+summary: >
+  The Human Body Theater, a 10,000 sq ft immersive-projection theater
+  within the Museum of Science, Boston's Hall of Human Life, opened in
+  November 2013, produced by Monadnock Media in collaboration with the
+  museum's in-house exhibit team.
+description: >
+  The theater uses multi-dimensional projection to create the illusion of
+  depth while exploring the workings of the human body, with a
+  light-hearted, accessible approach.
+sources:
+  - https://monadnock.org/project/human-body-theater
+  - https://www.mos.org/visit/exhibits/hall-human-life

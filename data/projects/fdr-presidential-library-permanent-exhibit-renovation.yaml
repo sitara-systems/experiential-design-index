@@ -1,0 +1,29 @@
+id: fdr-presidential-library-permanent-exhibit-renovation
+name: Permanent Exhibit Renovation
+venue: fdr-presidential-library
+project_type: major-renovation
+year_completed: 2013
+credits:
+  - firm: monadnock-media
+    role: media-design
+    note: "Media experiences across a 12,000 sq ft renovation, including the World in Crisis and Remembering Pearl Harbor immersive/multi-screen theaters and the Legacy theater film written and narrated by President Bill Clinton"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+technologies:
+  - multi-screen projection
+  - immersive theater
+summary: >
+  The Franklin D. Roosevelt Presidential Library and Museum in Hyde Park,
+  New York reopened June 30, 2013 after its first full-scale renovation,
+  with new permanent-exhibit media designed and produced by Monadnock Media
+  and exhibit design by Gallagher & Associates.
+description: >
+  New theaters include "World in Crisis" (the 1932 political and economic
+  crisis as FDR sought the presidency), "Remembering Pearl Harbor" (a
+  multi-screen theater on the attack's transformation of US foreign
+  policy), and "Legacy," a film written and narrated by President Bill
+  Clinton on FDR's influence.
+sources:
+  - https://monadnock.org/project/fdr
+  - https://fdr.blogs.archives.gov/2013/04/23/fdr-library-renovation/
+  - https://fdr.blogs.archives.gov/2013/05/28/clinton-on-roosevelt/

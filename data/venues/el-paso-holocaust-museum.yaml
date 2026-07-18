@@ -1,0 +1,10 @@
+id: el-paso-holocaust-museum
+name: El Paso Holocaust Museum and Study Center
+venue_type: history-museum
+location:
+  city: El Paso
+  state: TX
+website: https://elpasoholocaustmuseum.org
+sources:
+  - https://elpasoholocaustmuseum.org
+  - https://en.wikipedia.org/wiki/El_Paso_Holocaust_Museum_and_Study_Center

@@ -1,0 +1,11 @@
+id: kirkland-museum-of-fine-and-decorative-art
+name: Kirkland Museum of Fine & Decorative Art
+venue_type: art-museum
+location:
+  city: Denver
+  state: CO
+website: https://www.kirklandmuseum.org
+sources:
+  - https://www.kirklandmuseum.org
+  - https://www.archpaper.com/2018/03/kirkland-museum-fine-decorative-art-opens-denver/
+  - https://en.wikipedia.org/wiki/Kirkland_Museum_of_Fine_%26_Decorative_Art

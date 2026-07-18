@@ -1,0 +1,10 @@
+id: booker-t-washington-national-monument
+name: Booker T. Washington National Monument
+venue_type: visitor-center
+location:
+  city: Hardy
+  state: VA
+operator: National Park Service
+website: https://www.nps.gov/bowa/
+sources:
+  - https://www.nps.gov/bowa/

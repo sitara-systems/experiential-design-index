@@ -1,0 +1,11 @@
+id: dataland
+name: Dataland
+venue_type: art-museum
+location:
+  city: Los Angeles
+  state: CA
+operator: Refik Anadol Studio
+website: https://dataland.art
+sources:
+  - https://dataland.art/about
+  - https://news.artnet.com/art-world/refik-anadol-ai-museum-dataland-2543122

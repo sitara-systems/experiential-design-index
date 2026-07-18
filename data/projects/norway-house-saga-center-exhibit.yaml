@@ -1,0 +1,30 @@
+id: norway-house-saga-center-exhibit
+name: The Saga Center
+venue: norway-house-saga-center
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: split-rock-studios
+    role: exhibit-design
+  - firm: split-rock-studios
+    role: fabrication
+    note: "hand-carved Wood Wall and wood furnishings"
+  - firm: trivium-interactive
+    role: media-design
+technologies:
+  - immersive technology
+summary: >
+  The Saga Center, an interactive exhibit within Norway House's Haugo
+  Bibliotek in Minneapolis, opened in October 2025 with a grand opening
+  celebration October 20, 2025 attended by Crown Prince Haakon of
+  Norway; exhibit design and fabrication by Split Rock Studios, with
+  media components by Trivium Interactive.
+description: >
+  The exhibit invites visitors to explore connections to Norway through
+  hands-on experiences and immersive environments, including a
+  hand-carved Wood Wall, alongside the Haugo Bibliotek's Norwegian
+  genealogical research library.
+sources:
+  - https://www.norwayhouse.org/saga-center
+  - https://www.triviuminteractive.com/project/saga-center
+  - https://splitrockstudios.com/norway-house/

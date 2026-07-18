@@ -1,0 +1,10 @@
+id: national-museum-of-industrial-history
+name: National Museum of Industrial History
+venue_type: history-museum
+location:
+  city: Bethlehem
+  state: PA
+operator: National Museum of Industrial History (Smithsonian affiliate)
+website: https://www.nmih.org
+sources:
+  - https://en.wikipedia.org/wiki/National_Museum_of_Industrial_History

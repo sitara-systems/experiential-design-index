@@ -1,0 +1,30 @@
+# Firm record — Stephen Saitas Designs
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: stephen-saitas-designs
+name: Stephen Saitas Designs
+aka: []
+hq:
+  city: New York
+  state: NY
+roles:
+  - exhibit-design
+status: active
+status_basis: >
+  Credited as "the Frick's longtime exhibition designer" on the Frick
+  Collection's Renovation and Enhancement Project, which reopened April 17,
+  2025; also credited on the Hill Art Foundation's "Paradise Found" stained-
+  glass display, installed 2022.
+status_verified: 2026-07-18
+summary: >
+  Stephen Saitas Designs is a New York-based exhibition design studio led by
+  Stephen Saitas, working primarily with art museums on gallery renovations,
+  permanent-collection reinstallations, and period-room and object display
+  design. The Frick Collection's longtime exhibition designer, credited on
+  projects there spanning more than a decade.
+sources:
+  - https://www.frick.org/press/frick-reopens-april-17
+  - https://www.frick.org/about/frick_madison
+  - https://www.renfrodesign.com/page/frick-collection-portico-gallery
+  - https://britishart.yale.edu/news-and-press/yale-center-british-art-completes-major-building-conservation-project-and-reopens
+  - https://www.denverartmuseum.org/en/press/release/martin-building-reopening-oct-2021

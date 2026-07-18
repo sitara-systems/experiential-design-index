@@ -1,0 +1,10 @@
+id: bowers-museum
+name: Bowers Museum
+venue_type: art-museum
+location:
+  city: Santa Ana
+  state: CA
+website: https://www.bowers.org
+sources:
+  - https://www.bowers.org
+  - https://en.wikipedia.org/wiki/Bowers_Museum

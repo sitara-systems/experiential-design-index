@@ -1,0 +1,33 @@
+id: indiana-state-museum-ancient-seas
+name: Ancient Seas
+venue: indiana-state-museum
+project_type: exhibition-refresh
+year_completed: 2024
+credits:
+  - firm: split-rock-studios
+    role: exhibit-design
+  - firm: boston-productions
+    role: media-design
+    note: "no firm record yet; projection-mapped media, 3D animation, and AR interactives"
+  - firm: bowen-technovation
+    role: fabrication
+    note: "no firm record yet"
+technologies:
+  - projection mapping
+  - augmented reality
+  - digital interactives
+summary: >
+  Ancient Seas, a reimagined permanent exhibit at the Indiana State
+  Museum in Indianapolis, opened June 8, 2024; exhibit design by Split
+  Rock Studios, with projection-mapped media and augmented reality by
+  Boston Productions and fabrication support from Bowen Technovation.
+description: >
+  The exhibit showcases more than 200 fossils from ancient forests and
+  shallow seas that once covered Indiana, combining physical specimens
+  with 3D animation, sweeping environmental projection, and digital
+  interactives such as building a crinoid.
+sources:
+  - https://www.indianamuseum.org/experience/ancient-seas/
+  - https://www.indianamuseum.org/news-article/reimagined-ancient-seas-opens-june-8/
+  - https://bostonproductions.com/portfolio/ancient-seas/
+  - https://splitrockstudios.com/nai-2025-media-award/

@@ -1,0 +1,8 @@
+id: el-paso-childrens-museum
+name: El Paso Children's Museum (La Nube)
+venue_type: childrens-museum
+location:
+  city: El Paso
+  state: TX
+sources:
+  - https://www.snohetta.com/projects/el-paso-childrens-museum-la-nube

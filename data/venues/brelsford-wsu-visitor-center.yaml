@@ -1,0 +1,11 @@
+id: brelsford-wsu-visitor-center
+name: Brelsford WSU Visitor Center
+venue_type: visitor-center
+location:
+  city: Pullman
+  state: WA
+operator: Washington State University
+website: https://visitor.wsu.edu
+sources:
+  - https://visitor.wsu.edu/about-us/
+  - https://sah-archipedia.org/buildings/WA-01-075-0008-17

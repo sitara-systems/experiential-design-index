@@ -1,0 +1,10 @@
+id: civil-rights-memorial-center
+name: Civil Rights Memorial Center
+venue_type: history-museum
+location:
+  city: Montgomery
+  state: AL
+operator: Southern Poverty Law Center
+website: https://www.splcenter.org/civil-rights-memorial/
+sources:
+  - https://www.splcenter.org/civil-rights-memorial/

@@ -1,0 +1,10 @@
+id: intuit-art-museum
+name: Intuit Art Museum
+venue_type: art-museum
+location:
+  city: Chicago
+  state: IL
+website: https://art.org
+sources:
+  - https://chicago.suntimes.com/museums-zoos/2025/05/24/intuit-museum-reopens-art-center-chicago
+  - https://blockclubchicago.org/2025/05/22/intuit-art-museum-reopens-friday-after-10-million-revamp/

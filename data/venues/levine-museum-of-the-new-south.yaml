@@ -1,0 +1,9 @@
+id: levine-museum-of-the-new-south
+name: Levine Museum of the New South
+venue_type: history-museum
+location:
+  city: Charlotte
+  state: NC
+website: https://www.museumofthenewsouth.org
+sources:
+  - https://www.museumofthenewsouth.org

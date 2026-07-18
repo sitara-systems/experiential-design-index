@@ -1,0 +1,9 @@
+id: rock-and-roll-hall-of-fame-annex-nyc
+name: Rock & Roll Hall of Fame Annex NYC
+venue_type: themed-attraction
+location:
+  city: New York
+  state: NY
+sources:
+  - https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame
+  - https://rockandrollroadmap.com/places/museums-halls/north-east-u-s-museums-halls/rock-and-roll-hall-of-fame-annex/

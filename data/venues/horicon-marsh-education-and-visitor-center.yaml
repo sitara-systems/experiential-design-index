@@ -1,0 +1,9 @@
+id: horicon-marsh-education-and-visitor-center
+name: Horicon Marsh Education & Visitor Center
+venue_type: visitor-center
+location:
+  city: Horicon
+  state: WI
+operator: Wisconsin Department of Natural Resources
+sources:
+  - https://taylorstudios.com/our-work/horicon-marsh-education-visitor-center/

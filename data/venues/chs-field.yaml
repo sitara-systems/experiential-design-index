@@ -1,0 +1,10 @@
+id: chs-field
+name: CHS Field
+venue_type: sports-venue
+location:
+  city: Saint Paul
+  state: MN
+operator: St. Paul Saints
+website: https://www.cityofbaseballmuseum.com/chs-field
+sources:
+  - https://www.cityofbaseballmuseum.com/chs-field

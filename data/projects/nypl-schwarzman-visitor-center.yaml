@@ -1,0 +1,31 @@
+id: nypl-schwarzman-visitor-center
+name: NYPL Visitor Center
+venue: nypl-schwarzman-building
+project_type: new-exhibition
+year_completed: 2023
+credits:
+  - firm: pure-and-applied
+    role: exhibit-design
+    note: "Exhibition/wayfinding graphics and multi-sensory interpretive design for the Library's first Visitor Center"
+  - firm: mecanoo
+    role: architecture
+    note: "No firm record yet"
+  - firm: beyer-blinder-belle
+    role: architecture
+    note: "No firm record yet"
+technologies:
+  - tactile and braille interpretive elements
+summary: >
+  The New York Public Library opened its first-ever Visitor Center in the
+  Stephen A. Schwarzman Building in New York on July 11, 2023, as part of a
+  building-wide renovation by Mecanoo and Beyer Blinder Belle, with
+  interpretive exhibition design and graphics by Pure+Applied offering
+  visual, tactile, braille, trilingual, and aural visitor resources.
+description: >
+  The Visitor Center transformed former office and map-storage space and
+  included a new 2,250-square-foot public plaza, an ADA-accessible entrance,
+  and a new public stair and elevator.
+sources:
+  - https://www.nypl.org/press/new-york-public-library-completes-major-schwarzman-building-renovation-opening-new-visitor
+  - https://pureandappliedstudio.com/project/nypl-visitorcenter
+  - https://www.beyerblinderbelle.com/work/view/new-york-public-library-stephen-a-schwarzman-building/

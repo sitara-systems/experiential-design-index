@@ -1,0 +1,25 @@
+id: james-b-hunt-jr-library-building
+name: James B. Hunt Jr. Library
+venue: james-b-hunt-jr-library
+project_type: new-building
+year_completed: 2013
+credits:
+  - firm: snohetta
+    role: architecture
+  - firm: snohetta
+    role: landscape-architecture
+    note: "With Susan Hatchell Landscape Architecture PLLC"
+  - firm: pearce-brinkley-cease-and-lee
+    role: architecture
+    note: "Executive architect; no firm record yet"
+technologies:
+  - automated book delivery system
+summary: >
+  The James B. Hunt Jr. Library, a 221,122-square-foot library on North
+  Carolina State University's Centennial Campus in Raleigh, opened in 2013;
+  designed by Snøhetta with Pearce Brinkley Cease + Lee as executive
+  architect, featuring an automated book delivery ("bookBot") system by
+  Dematic.
+description: ""
+sources:
+  - https://www.archdaily.com/354701/hunt-library-snohetta

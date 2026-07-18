@@ -1,0 +1,30 @@
+id: aspire-center-gateway-through-time
+name: "Gateway Through Time"
+venue: aspire-center-for-workforce-innovation
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: lamar-johnson-collaborative
+    role: architecture
+    note: "Building architecture; no firm record yet"
+  - firm: borderless-studio
+    role: interpretive-planning
+    note: "Architecture, content collection, and curation; no firm record yet"
+  - firm: span-studio
+    role: exhibit-design
+    note: "Design direction and design"
+  - firm: navillus-woodworks
+    role: fabrication
+technologies: []
+summary: >
+  Gateway Through Time, a permanent exhibition tracing 125 years of the
+  history of the former Robert Emmet Elementary School through its
+  conversion into the Aspire Center for Workforce Innovation, opened in
+  Austin, Texas on Juneteenth 2025 (June 19, 2025), with exhibition design
+  by Span Studio.
+description: >
+  A modular, ascending timeline of archival images and community voices
+  spanning the building's three eras — education, closure, and rebirth —
+  developed with Austin Coming Together and Westside Health Authority.
+sources:
+  - https://span.studio/projects/aspire-center-resilience-and-reinvention-exhibition

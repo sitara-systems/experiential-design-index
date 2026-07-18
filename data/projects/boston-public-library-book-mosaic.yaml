@@ -1,0 +1,31 @@
+id: boston-public-library-book-mosaic
+name: BPL Book Mosaic
+venue: boston-public-library
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: arrowstreet
+    role: exhibit-design
+    note: >
+      Concept, digital layout, and design of a large lobby wall mosaic
+      created entirely from hardcover books.
+  - firm: mystic-scenic
+    role: fabrication
+    note: Sealed, sprayed, and attached the books to backer panels.
+technologies:
+  - digital scanning and layout
+summary: >
+  BPL Book Mosaic, a large wall mosaic in the Boston Public Library's
+  renovated Central Library lobby in Copley Square, Boston, Massachusetts,
+  made entirely from hardcover books and unveiled at the library's July
+  2016 grand reopening; designed by Arrowstreet and fabricated by Mystic
+  Scenic.
+description: >
+  The installation forms an interpretation of Boston created from hardcover
+  books sourced from a local used bookshop or donated for the project.
+  Arrowstreet developed the concept, scanned each book to complete an
+  electronic layout, refined book positioning digitally, and supervised a
+  full-sized hand layout before Mystic Scenic sealed, sprayed, and attached
+  the books to backer panels for installation.
+sources:
+  - https://www.arrowstreet.com/portfolio/bpl-book-mosaic/

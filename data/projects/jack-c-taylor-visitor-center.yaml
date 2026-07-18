@@ -12,14 +12,24 @@ credits:
   - firm: michael-vergason-landscape-architects
     role: landscape-architecture
     note: "Landscape architecture (no firm record yet)"
-technologies: []
+  - firm: pgav-destinations
+    role: media-design
+    note: "Hired to design a new immersive media experience for the visitor center lobby"
+  - firm: mad-systems
+    role: av-integration
+    note: "Audio/visual technology partner implementing the lobby media experience"
+technologies:
+  - immersive media wall
 summary: >
   The Jack C. Taylor Visitor Center, a new gateway building for the Missouri
   Botanical Garden in St. Louis, opened in August 2022; designed by Ayers
-  Saint Gross with St. Louis-based local partner Arbolope Studio and
-  landscape architecture by Michael Vergason Landscape Architects.
+  Saint Gross with St. Louis-based local partner Arbolope Studio, landscape
+  architecture by Michael Vergason Landscape Architects, and an immersive
+  lobby media experience designed by PGAV Destinations with AV integration
+  by MAD Systems.
 description: ""
 sources:
   - https://ayerssaintgross.com/portfolio/missouri-botanical-garden-visitor-center/
   - https://www.missouribotanicalgarden.org/plan-your-visit/top-attractions/jack-c-taylor-visitor-center
   - https://segd.org/projects/missouri-botanical-garden-jack-c-taylor-center/
+  - https://pgavdestinations.com/news/missouri-botanical-garden-hires-pgav-destinations-to-design-media-experience/

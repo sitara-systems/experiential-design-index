@@ -1,0 +1,9 @@
+id: tellus-science-museum
+name: Tellus Science Museum
+venue_type: science-center
+location:
+  city: Cartersville
+  state: GA
+website: https://tellusmuseum.org
+sources:
+  - https://tellusmuseum.org/exhibit/my-big-backyard/

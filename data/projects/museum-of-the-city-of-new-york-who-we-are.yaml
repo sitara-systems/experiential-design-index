@@ -8,7 +8,6 @@ credits:
     role: exhibit-design
   - firm: parz-designs
     role: fabrication
-    note: "no firm record yet"
 technologies:
   - data visualization
   - interactive touchscreens
@@ -23,3 +22,4 @@ description: ""
 sources:
   - https://segd.org/projects/who-we-are-visualizing-nyc-numbers/
   - https://www.mcny.org/exhibition/who-we-are
+  - https://isometricstudio.com/who-we-are-exhibition

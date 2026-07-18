@@ -1,0 +1,9 @@
+id: ecotarium
+name: EcoTarium
+venue_type: science-center
+location:
+  city: Worcester
+  state: MA
+website: https://ecotarium.org
+sources:
+  - https://ecotarium.org

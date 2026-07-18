@@ -1,0 +1,14 @@
+# Venue record — Eustis Estate
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: eustis-estate
+name: Eustis Estate
+venue_type: history-museum
+location:
+  city: Milton
+  state: MA
+operator: Historic New England
+website: https://www.historicnewengland.org
+sources:
+  - https://www.historicnewengland.org/head-to-toe-hat-and-shoe-fashion-opens-at-the-eustis-estate/
+  - https://www.miltonscene.com/2018/11/head-to-toe-hat-and-shoe-fashions-from-historic-new-england-exhibit-to-be-held-at-eustis-estate/

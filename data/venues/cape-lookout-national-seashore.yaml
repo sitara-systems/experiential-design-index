@@ -1,0 +1,11 @@
+id: cape-lookout-national-seashore
+name: Cape Lookout National Seashore Beaufort Visitor Information Center
+venue_type: visitor-center
+location:
+  city: Beaufort
+  state: NC
+operator: National Park Service
+website: https://www.nps.gov/calo
+sources:
+  - https://www.nps.gov/calo/learn/news/2021-04-09.htm
+  - https://www.nps.gov/calo/planyourvisit/visitorcenters.htm

@@ -1,0 +1,35 @@
+id: chickasaw-cultural-center-core-exhibits
+name: Chickasaw Cultural Center Core Exhibits
+venue: chickasaw-cultural-center
+project_type: new-building
+year_completed: 2010
+credits:
+  - firm: frankfurt-short-bruza
+    role: architecture
+    note: "no firm record yet"
+  - firm: hilferty
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: andrew-merriell
+    role: exhibit-design
+  - firm: batwin-and-robin
+    role: media-design
+technologies:
+  - projection
+  - immersive environment
+summary: >
+  The Chickasaw Cultural Center, a museum, research, and education campus
+  for the Chickasaw Nation in Sulphur, Oklahoma, opened in 2010; the
+  campus was designed by Frankfurt Short Bruza (FSB), with 5,300 sq ft of
+  exhibits designed by Hilferty and Andrew Merriell & Associates, with
+  media design by batwin + robin.
+description: >
+  Hilferty and Andrew Merriell & Associates' exhibit work included
+  recreating a thatch and timber council house that serves as an
+  orientation theater, where a projection screen rises to reveal a hidden
+  exit through a limestone cave leading into the Spirit Forest, an
+  immersive environment using light and sound.
+sources:
+  - https://en.wikipedia.org/wiki/Chickasaw_Cultural_Center
+  - https://www.hilferty.com/project-details
+  - https://www.batwinandrobin.com/projects/chickasaw-cultural-center/

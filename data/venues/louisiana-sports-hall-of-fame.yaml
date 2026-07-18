@@ -1,0 +1,10 @@
+id: louisiana-sports-hall-of-fame
+name: Louisiana Sports Hall of Fame and Northwest Louisiana History Museum
+venue_type: history-museum
+location:
+  city: Natchitoches
+  state: LA
+website: https://www.lasportshall.com
+sources:
+  - https://www.lasportshall.com
+  - https://www.thincdesign.com/project/louisiana-sports-hall-of-fame

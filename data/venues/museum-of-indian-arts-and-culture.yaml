@@ -1,0 +1,11 @@
+id: museum-of-indian-arts-and-culture
+name: Museum of Indian Arts & Culture
+venue_type: history-museum
+location:
+  city: Santa Fe
+  state: NM
+operator: New Mexico Department of Cultural Affairs
+website: https://www.indianartsandculture.org
+sources:
+  - https://www.indianartsandculture.org/
+  - https://www.newmexicoculture.org/museums/museum-of-indian-arts-culture

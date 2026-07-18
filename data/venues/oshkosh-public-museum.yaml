@@ -1,0 +1,9 @@
+id: oshkosh-public-museum
+name: Oshkosh Public Museum
+venue_type: history-museum
+location:
+  city: Oshkosh
+  state: WI
+website: https://www.oshkoshmuseum.org
+sources:
+  - https://www.oshkoshmuseum.org/exhibitions/people-of-the-waters/

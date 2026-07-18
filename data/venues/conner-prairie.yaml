@@ -1,0 +1,9 @@
+id: conner-prairie
+name: Conner Prairie
+venue_type: history-museum
+location:
+  city: Fishers
+  state: IN
+website: https://www.connerprairie.org
+sources:
+  - https://www.connerprairie.org

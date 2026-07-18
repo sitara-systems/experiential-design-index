@@ -1,0 +1,48 @@
+id: library-of-congress-collecting-memories-treasures-gallery
+name: "Collecting Memories: Treasures from the Library of Congress"
+venue: library-of-congress
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: the-graphics-office
+    role: exhibit-design
+    note: "With Roger Westerman Design; Library of Congress in-house design office. No firm record yet"
+  - firm: batwin-and-robin
+    role: content-production
+    note: "Linear digital media design and production"
+  - firm: upswell
+    role: media-design
+    note: "Interactive digital media; no firm record yet"
+  - firm: ford-av
+    role: av-integration
+    note: "Systems design and integration; no firm record yet"
+  - firm: anita-jorgensen-lighting-design
+    role: lighting-design
+    note: "Gallery lighting design"
+  - firm: goppion
+    role: fabrication
+    note: "Casework engineering, fabrication, and gallery fabrication; no firm record yet"
+technologies:
+  - projection
+  - interactive media
+  - custom display casework
+summary: >
+  "Collecting Memories: Treasures from the Library of Congress," a
+  permanent exhibition in the new David M. Rubenstein Treasures Gallery at
+  the Library of Congress in Washington, DC, opened for press preview June
+  10, 2024, with exhibition and graphic design by the Library's Graphics
+  Office with Roger Westerman Design, linear media production by
+  batwin+robin, interactive media by Upswell, AV systems by Ford AV,
+  lighting design by Anita Jorgensen Lighting Design, and casework
+  fabrication by Goppion.
+description: >
+  The gallery's 26-minute ambient film immerses the room with projections
+  showcasing the richness and materiality of collection artifacts,
+  including a panoramic 1909 image of Piccadilly Circus, details of the
+  39-foot Naxi Funeral Scroll, and a 1944 jazz session film, set to an
+  original soundscape.
+sources:
+  - https://www.loc.gov/exhibitions/treasures-from-the-library-of-congress/credits/
+  - https://newsroom.loc.gov/news/new-library-exhibition--collecting-memories--opens-in-new-david-m.-rubenstein-treasures-gallery/s/f85cd354-924f-418d-900a-042173e5ec88
+  - https://www.goppion.com/projects/library-of-congress-david-m-rubenstein-treasures-gallery
+  - https://www.batwinandrobin.com/projects/collecting-memories-treasures-from-the-library-of-congress/

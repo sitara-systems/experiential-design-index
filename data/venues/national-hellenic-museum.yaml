@@ -1,0 +1,10 @@
+id: national-hellenic-museum
+name: National Hellenic Museum
+venue_type: history-museum
+location:
+  city: Chicago
+  state: IL
+website: https://www.nationalhellenicmuseum.org
+sources:
+  - https://www.nationalhellenicsociety.org/spirit-of-the-marathon-exhibit.html
+  - https://www.peterhydedesign.com/projects/the-spirit-of-the-marathon/

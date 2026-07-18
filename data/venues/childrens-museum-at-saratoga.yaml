@@ -1,0 +1,11 @@
+id: childrens-museum-at-saratoga
+name: The Children's Museum at Saratoga
+venue_type: childrens-museum
+location:
+  city: Saratoga Springs
+  state: NY
+operator: Saratoga Spa State Park
+website: https://cmssny.org
+sources:
+  - https://cmssny.org/about-cmssny/
+  - https://www.saratoga.com/saratogabusinessjournal/2022/08/childrens-museum-at-saratoga-officially-opens-its-new-16000-square-foot-location/

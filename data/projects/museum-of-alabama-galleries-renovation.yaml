@@ -1,0 +1,30 @@
+id: museum-of-alabama-galleries-renovation
+name: Museum of Alabama Galleries Renovation
+venue: museum-of-alabama
+project_type: exhibition-refresh
+year_completed: 2025
+credits:
+  - firm: monadnock-media
+    role: media-design
+    note: "Media experience design and production and digital interactive design and development across an 11,000 sq ft renovation, including two narrative-video programs in the Military Gallery, touchable-hotspot interactive dioramas in the Voices of Alabama gallery, and the Mission Control immersive children's spaceflight experience"
+  - firm: the-prd-group
+    role: exhibit-design
+technologies:
+  - touchscreen interactive
+  - narrative video
+summary: >
+  A renovation of galleries at the Museum of Alabama, part of the Alabama
+  Department of Archives and History in Montgomery, including a new
+  Alabama Military Stories gallery that reopened November 2025; Monadnock
+  Media produced the media and interactive components with exhibit design
+  by The PRD Group.
+description: >
+  The Alabama Military Stories gallery focuses on the personal journeys of
+  individual Alabama service members rather than a single war or branch of
+  service. Monadnock Media's own project page also credits an interactive
+  Voices of Alabama diorama gallery and a "Mission Control" spaceflight
+  experience for younger visitors as part of the same renovation.
+sources:
+  - https://monadnock.org/project/museum-of-alabama
+  - https://www.wsfa.com/2025/11/07/museum-alabama-reopens-with-new-military-themed-gallery/
+  - https://archives.alabama.gov/about/press-releases/news-detail.aspx?ID=16568

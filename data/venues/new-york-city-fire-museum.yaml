@@ -1,0 +1,10 @@
+id: new-york-city-fire-museum
+name: New York City Fire Museum
+venue_type: history-museum
+location:
+  city: New York
+  state: NY
+website: https://www.nycfiremuseum.org
+sources:
+  - https://www.nycfiremuseum.org/
+  - https://www.nycfiremuseum.org/fire-safety-education

@@ -1,0 +1,10 @@
+id: milwaukee-public-museum
+name: Milwaukee Public Museum
+venue_type: natural-history-museum
+location:
+  city: Milwaukee
+  state: WI
+website: https://www.mpm.edu
+sources:
+  - https://www.mpm.edu
+  - https://www.thincdesign.com/project/nature-culture-museum-of-wisconsin

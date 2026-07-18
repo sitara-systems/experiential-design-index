@@ -1,0 +1,9 @@
+id: custer-state-park-bison-center
+name: Custer State Park Bison Center
+venue_type: visitor-center
+location:
+  city: Fairburn
+  state: SD
+operator: South Dakota Game, Fish and Parks
+sources:
+  - https://taylorstudios.com/our-work/bison-center/

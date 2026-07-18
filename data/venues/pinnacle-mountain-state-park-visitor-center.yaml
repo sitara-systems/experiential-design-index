@@ -1,0 +1,9 @@
+id: pinnacle-mountain-state-park-visitor-center
+name: Pinnacle Mountain State Park Visitor Center
+venue_type: visitor-center
+location:
+  city: Little Rock
+  state: AR
+operator: Arkansas State Parks
+sources:
+  - https://taylorstudios.com/our-work/pinnacle-mountain-state-park/

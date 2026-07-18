@@ -4,6 +4,12 @@ venue: brooklyn-botanic-garden
 project_type: new-exhibition
 year_completed: 2012
 credits:
+  - firm: thinc-design
+    role: exhibit-design
+    note: "Exhibition design and exterior interpretive signage design"
+  - firm: weiss-manfredi
+    role: architecture
+    note: "no firm record yet"
   - firm: electrosonic
     role: av-integration
     note: Interactive "peek-a-boo" tables and multi-sensory exhibit systems
@@ -13,10 +19,12 @@ credits:
 summary: >
   The Brooklyn Botanic Garden's Visitor Center opened in 2012 with
   interactive exhibits including "peek-a-boo" tables revealing educational
-  video content, with audiovisual systems designed and installed by
-  Electrosonic and fabrication by Hadley Exhibits.
+  video content, exhibition design by Thinc Design, architecture by
+  Weiss/Manfredi, audiovisual systems by Electrosonic, and fabrication by
+  Hadley Exhibits.
 description: ""
 sources:
   - http://www.lightingandsoundamerica.com/news/story.asp?ID=EKN348
   - https://www.electrosonic.com/projects/brooklyn-botanical-garden
   - https://hadleyexhibits.com/Brooklyn-Botanic-Garden-Visitor-Center
+  - https://www.thincdesign.com/project/brooklyn-botanic-garden-visitor-center

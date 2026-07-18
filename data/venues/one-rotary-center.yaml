@@ -1,0 +1,11 @@
+id: one-rotary-center
+name: One Rotary Center
+venue_type: corporate-museum
+location:
+  city: Evanston
+  state: IL
+operator: Rotary International
+website: https://www.rotary.org/en/visit-rotary-international-world-headquarters
+sources:
+  - https://www.rotary.org/en/visit-rotary-international-world-headquarters
+  - https://www.peterhydedesign.com/projects/rotary-international-one-rotary-center/

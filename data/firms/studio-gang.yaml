@@ -1,0 +1,33 @@
+id: studio-gang
+name: Studio Gang
+aka:
+  - Studio Gang Architects
+website: https://studiogang.com
+hq:
+  city: Chicago
+  state: IL
+other_offices:
+  - city: New York
+    state: NY
+  - city: San Francisco
+    state: CA
+founded: 1997
+roles:
+  - architecture
+  - exhibit-design
+status: active
+status_basis: >
+  Designed and co-curated "Flyway City: Architecture for a Flourishing
+  Ecosystem" at the Chicago Architecture Center, opened June 2026; active
+  project listing on studiogang.com.
+status_verified: 2026-07-18
+summary: >
+  Studio Gang is a Chicago-based architecture and urban design practice
+  founded by Jeanne Gang in 1997, with additional offices in New York, San
+  Francisco, and Paris. Known for the Aqua Tower and other high-profile
+  buildings, the firm's work spans architecture, planning, interiors, and
+  exhibitions with an emphasis on sustainability and community engagement.
+sources:
+  - https://studiogang.com/about
+  - https://en.wikipedia.org/wiki/Jeanne_Gang
+  - https://studiogang.com/now/flyway-city-announcement/

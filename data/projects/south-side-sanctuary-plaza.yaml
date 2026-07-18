@@ -1,0 +1,26 @@
+id: south-side-sanctuary-plaza
+name: South Side Sanctuary
+venue: south-side-sanctuary
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: future-firm
+    role: architecture
+    note: "No firm record yet"
+  - firm: span-studio
+    role: graphics-wayfinding
+    note: "Brand identity, logotype, and visual system"
+technologies: []
+summary: >
+  South Side Sanctuary, a 13,000-square-foot public outdoor plaza in
+  Chicago's Bronzeville neighborhood built through the city's Public
+  Outdoor Plaza (POP!) program, opened in August 2024 with architecture by
+  Future Firm and brand identity by Span Studio.
+description: >
+  Developed by The Nascent Group (Cecilia Cuff and Jasmine Anwuli) to
+  transform a vacant lot into an inclusive space for pedestrians,
+  skateboarders, and cyclists.
+sources:
+  - https://blockclubchicago.org/2024/08/07/south-side-sanctuary-community-plaza-opens-in-bronzeville/
+  - https://abc7chicago.com/post/new-south-side-sanctuary-brings-large-outdoor-green-space-bronzeville-chicago-east-47th-street-king-drive/15151183/
+  - https://span.studio/projects/south-side-sanctuary

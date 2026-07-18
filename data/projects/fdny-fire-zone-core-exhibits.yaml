@@ -1,0 +1,45 @@
+id: fdny-fire-zone-core-exhibits
+name: FDNY Fire Zone
+venue: fdny-fire-zone
+project_type: new-exhibition
+year_completed: 2020
+credits:
+  - firm: batwin-and-robin
+    role: media-design
+    note: "Creative direction, project design, and media production"
+  - firm: lb-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: ashton-design
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: david-weiner-design
+    role: lighting-design
+    note: "no firm record yet"
+  - firm: synapse-audio-visual-designs
+    role: av-integration
+    note: "no firm record yet"
+  - firm: cigar-box-studios
+    role: fabrication
+    note: "no firm record yet"
+technologies:
+  - projection mapping
+  - theatrical lighting
+  - surround sound audioscapes
+summary: >
+  The FDNY Fire Zone, a fire and life-safety learning center at Rockefeller
+  Center in New York, reopened at a new location in October 2020, with
+  media design and creative direction by batwin + robin, exhibit design by
+  Ashton Design, architecture by LB Architects, lighting design by David
+  Weiner Design, AV integration by Synapse Audio Visual Designs, and
+  fabrication by Cigar Box Studios.
+description: >
+  Visitors can try on turnout gear, sit in the jumpseat of a full-scale
+  fire engine, and experience an immersive educational theater with eight
+  fire scenarios using projection mapping, lighting, special effects, and
+  surround sound, culminating a state-of-the-art fire and life-safety
+  education experience run by the FDNY Foundation.
+sources:
+  - https://www.batwinandrobin.com/projects/fdny-fire-zone/
+  - https://segd.org/projects/fdny-fire-zone/
+  - https://www.fdnyfoundation.org/fdny-foundation-and-fdny-celebrate-grand-opening-of-new-fdny-firezone-to-kick-off-95th-annual-national-fire-prevention-week/

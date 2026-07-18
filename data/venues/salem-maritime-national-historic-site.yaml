@@ -1,0 +1,13 @@
+# Venue record — Salem Maritime National Historic Site
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: salem-maritime-national-historic-site
+name: Salem Maritime National Historic Site
+venue_type: visitor-center
+location:
+  city: Salem
+  state: MA
+operator: National Park Service
+website: https://www.nps.gov/sama/
+sources:
+  - https://www.nps.gov/sama/

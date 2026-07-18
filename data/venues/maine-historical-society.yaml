@@ -1,0 +1,13 @@
+# Venue record — Maine Historical Society
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: maine-historical-society
+name: Maine Historical Society
+venue_type: history-museum
+location:
+  city: Portland
+  state: ME
+website: https://www.mainehistory.org
+sources:
+  - https://www.mainehistory.org/all-exhibitions/maine-eats-exhibition/
+  - https://www.pressherald.com/2018/02/28/find-creative-nourishment-at-maine-eats/

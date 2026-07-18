@@ -1,0 +1,13 @@
+id: brooklyn-historical-society-dumbo
+name: Brooklyn Historical Society DUMBO (Empire Stores)
+aka:
+  - BHS DUMBO
+venue_type: history-museum
+location:
+  city: Brooklyn
+  state: NY
+operator: Brooklyn Public Library
+website: https://www.bklynlibrary.org/exhibitions/waterfront
+sources:
+  - https://untappedcities.com/2018/01/22/first-major-exhibition-about-brooklyns-coastline-opens-at-nycs-brooklyn-historical-society-dumbo/
+  - https://www.bklynlibrary.org/exhibitions/waterfront

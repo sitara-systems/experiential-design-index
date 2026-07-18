@@ -1,0 +1,33 @@
+id: bob-dylan-center-tulsa
+name: Bob Dylan Center
+venue: bob-dylan-center
+project_type: major-renovation
+year_completed: 2022
+credits:
+  - firm: olson-kundig
+    role: architecture
+  - firm: olson-kundig
+    role: exhibit-design
+  - firm: 59-productions
+    role: media-design
+    note: "Interactive recording-studio installation; no firm record yet"
+  - firm: art-processors
+    role: media-design
+    note: "Immersive, location-aware audio guide; no firm record yet"
+technologies:
+  - interactive recording-studio remix installation
+  - location-aware audio guide
+summary: >
+  The Bob Dylan Center, a museum and archive in Tulsa, Oklahoma holding more
+  than 100,000 items from the Bob Dylan Archive, opened May 10, 2022, with
+  architecture and exhibit design by Olson Kundig inside an adaptively
+  reused early-20th-century warehouse.
+description: >
+  59 Productions designed an interactive recording-studio environment
+  letting visitors remix layers of Dylan recordings, projected onto a
+  three-dimensional model built in forced perspective. Art Processors
+  developed the exhibit's immersive, location-aware interactive audio guide.
+sources:
+  - https://olsonkundig.com/projects/bob-dylan-center/
+  - https://www.archdaily.com/982365/olson-kundig-transforms-abandoned-warehouse-into-a-bob-dylan-center-in-tulsa
+  - https://en.wikipedia.org/wiki/Bob_Dylan_Center

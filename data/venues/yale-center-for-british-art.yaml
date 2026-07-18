@@ -1,0 +1,13 @@
+# Venue record — Yale Center for British Art
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: yale-center-for-british-art
+name: Yale Center for British Art
+venue_type: art-museum
+location:
+  city: New Haven
+  state: CT
+operator: Yale University
+website: https://britishart.yale.edu
+sources:
+  - https://britishart.yale.edu/news-and-press/yale-center-british-art-completes-major-building-conservation-project-and-reopens

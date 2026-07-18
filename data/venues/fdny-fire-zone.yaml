@@ -1,0 +1,10 @@
+id: fdny-fire-zone
+name: FDNY Fire Zone
+venue_type: visitor-center
+location:
+  city: New York
+  state: NY
+operator: FDNY Foundation
+website: https://www.fdnysmart.org/firezone/
+sources:
+  - https://www.fdnyfoundation.org/fdny-foundation-and-fdny-celebrate-grand-opening-of-new-fdny-firezone-to-kick-off-95th-annual-national-fire-prevention-week/

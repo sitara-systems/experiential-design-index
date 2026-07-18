@@ -1,0 +1,9 @@
+id: kennedy-center
+name: John F. Kennedy Center for the Performing Arts
+venue_type: cultural-center
+location:
+  city: Washington
+  state: DC
+website: https://www.kennedy-center.org
+sources:
+  - https://www.kennedy-center.org

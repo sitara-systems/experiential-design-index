@@ -1,0 +1,10 @@
+id: whatcom-museum
+name: Whatcom Museum
+venue_type: history-museum
+location:
+  city: Bellingham
+  state: WA
+website: https://www.whatcommuseum.org
+sources:
+  - https://www.whatcommuseum.org
+  - https://en.wikipedia.org/wiki/Whatcom_Museum

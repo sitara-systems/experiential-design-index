@@ -1,0 +1,10 @@
+id: allerton-park
+name: Robert Allerton Park & Retreat Center
+venue_type: visitor-center
+location:
+  city: Monticello
+  state: IL
+operator: University of Illinois
+website: https://allerton.illinois.edu/
+sources:
+  - https://taylorstudios.com/our-work/allerton-park-visitor-center/

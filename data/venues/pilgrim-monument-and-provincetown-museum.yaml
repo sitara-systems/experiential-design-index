@@ -1,0 +1,10 @@
+id: pilgrim-monument-and-provincetown-museum
+name: Pilgrim Monument and Provincetown Museum
+venue_type: history-museum
+location:
+  city: Provincetown
+  state: MA
+website: https://www.pilgrim-monument.org
+sources:
+  - https://www.pilgrim-monument.org
+  - https://en.wikipedia.org/wiki/Pilgrim_Monument

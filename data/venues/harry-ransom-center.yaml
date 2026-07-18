@@ -1,0 +1,10 @@
+id: harry-ransom-center
+name: Harry Ransom Center
+venue_type: library-archive
+location:
+  city: Austin
+  state: TX
+operator: University of Texas at Austin
+website: https://www.hrc.utexas.edu
+sources:
+  - https://www.hrc.utexas.edu

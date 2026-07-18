@@ -1,0 +1,11 @@
+id: gulf-of-maine-research-institute
+name: Gulf of Maine Research Institute
+venue_type: academic-institution
+location:
+  city: Portland
+  state: ME
+operator: Gulf of Maine Research Institute
+website: https://gmri.org
+sources:
+  - https://gmri.org
+  - https://en.wikipedia.org/wiki/Gulf_of_Maine_Research_Institute

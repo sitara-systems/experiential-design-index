@@ -1,0 +1,25 @@
+id: davinci-science-center-discovery-exhibits
+name: DaVinci Discovery Center Exhibits
+venue: davinci-science-center
+project_type: new-exhibition
+year_completed: 2005
+credits:
+  - firm: j-jensen-design
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: proun-design
+    role: graphics-wayfinding
+    note: "Exhibit graphics"
+summary: >
+  The DaVinci Discovery Center of Science and Technology (the predecessor
+  name of the DaVinci Science Center) opened a 10,000 sq ft exhibit hall in
+  Allentown, Pennsylvania in 2005 built around Leonardo da Vinci's
+  principles of curiosity and inquiry, with exhibit design by J. Jensen
+  Design and graphics by Proun Design.
+description: >
+  A color-coded graphic system inspired by scientific flow charts organizes
+  hands-on learning stations around three of da Vinci's principles:
+  Curiosità (seek the truth), Sensazione (sharpen awareness), and
+  Arte/Scienza (cultivate balance).
+sources:
+  - https://www.proundesign.com/science/davinci-discovery-center

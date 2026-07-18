@@ -1,0 +1,30 @@
+id: pennypickles-workshop-satta
+name: "SATTA (Space and Time Travel Apparatus)"
+venue: pennypickles-workshop
+project_type: installation
+year_completed: 2019
+status: completed
+credits:
+  - firm: mad-systems
+    role: av-integration
+    note: >
+      Designed and installed the SATTA time/space-travel console, including
+      dual-projector immersive ceiling/floor projection and spatial-audio
+      show control
+technologies:
+  - projection
+  - spatial audio
+  - touchscreen
+summary: >
+  SATTA, the Space and Time Travel Apparatus, an immersive time-travel
+  console exhibit at Pennypickle's Workshop (Temecula Children's Museum) in
+  Temecula, California, opened in 2019 with AV design and integration by
+  MAD Systems.
+description: >
+  Visitors enter Professor Pennypickle's console through a London call-box
+  door and select a destination and era on a touchscreen; ultra-short-throw
+  projectors create an immersive "viewport" and "wormhole" effect during
+  simulated takeoffs and landings, accompanied by a spatial sound system.
+sources:
+  - https://madsystems.com/portfolio-pennypickle.html
+  - https://www.avnetwork.com/features/mad-systems-blasts-off-at-the-temecula-childrens-museum

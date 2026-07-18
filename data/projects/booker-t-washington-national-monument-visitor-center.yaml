@@ -1,0 +1,30 @@
+id: booker-t-washington-national-monument-visitor-center
+name: Booker T. Washington Visitor Center
+venue: booker-t-washington-national-monument
+project_type: new-exhibition
+year_completed: 2013
+credits:
+  - firm: proun-design
+    role: graphics-wayfinding
+    note: "Exhibit graphics; no firm record yet"
+  - firm: wondercabinet-interpretive-design
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: mystic-scenic
+    role: fabrication
+technologies:
+  - interactive exhibits
+summary: >
+  The Booker T. Washington Visitor Center, a permanent exhibition at
+  Booker T. Washington National Monument in Hardy, Virginia, opened in
+  2013; exhibit design by Wondercabinet Interpretive Design with exhibit
+  graphics by Proun Design and fabrication by Mystic Scenic Studios,
+  focused on Washington's early life as an enslaved child on the site's
+  tobacco plantation.
+description: >
+  Illustrated graphic murals and interactive exhibits convey the
+  hardships of enslavement and Washington's early life before his later
+  achievements as an educator and orator.
+sources:
+  - https://www.proundesign.com/items/booker-t.-washington-visitor-center
+  - https://www.nps.gov/bowa/

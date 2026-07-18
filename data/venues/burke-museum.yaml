@@ -1,0 +1,11 @@
+id: burke-museum
+name: Burke Museum of Natural History and Culture
+venue_type: natural-history-museum
+location:
+  city: Seattle
+  state: WA
+operator: University of Washington
+website: https://www.burkemuseum.org
+sources:
+  - https://www.burkemuseum.org
+  - https://segd.org/projects/burke-museum/

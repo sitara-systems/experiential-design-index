@@ -1,0 +1,25 @@
+id: indianapolis-zoo-international-orangutan-center
+name: International Orangutan Center
+venue: indianapolis-zoo
+project_type: new-exhibition
+year_completed: 2014
+credits:
+  - firm: thinc-design
+    role: exhibit-design
+    note: "Interior and exterior exhibition elements"
+  - firm: browning-day-mullins-dierdorf
+    role: architecture
+    note: "no firm record yet"
+technologies:
+  - interactive puzzle exhibits
+summary: >
+  The International Orangutan Center, a 5,300-square-foot interior visitor
+  space at the Indianapolis Zoo in Indianapolis, IN, opened in 2014, with
+  exhibition design by Thinc Design and architecture by Browning Day Mullins
+  Dierdorf.
+description: >
+  The exhibits include interactive cognitive-stimulation elements allowing
+  visitors and orangutans to engage in joint problem-solving tasks using
+  tools.
+sources:
+  - https://www.thincdesign.com/project/international-orangutan-center

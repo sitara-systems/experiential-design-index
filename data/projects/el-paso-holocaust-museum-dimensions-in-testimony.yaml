@@ -1,0 +1,27 @@
+id: el-paso-holocaust-museum-dimensions-in-testimony
+name: Dimensions in Testimony
+venue: el-paso-holocaust-museum
+project_type: new-exhibition
+year_completed: 2024
+status: completed
+credits:
+  - firm: mad-systems
+    role: av-integration
+    note: "AV infrastructure for the interactive survivor-testimony theater"
+technologies:
+  - interactive video testimony
+  - natural language processing
+summary: >
+  Dimensions in Testimony, an interactive exhibit developed by the USC
+  Shoah Foundation that lets visitors converse with recorded Holocaust
+  survivor testimonies, opened at the El Paso Holocaust Museum and Study
+  Center on October 5, 2024, with AV integration by MAD Systems.
+description: >
+  The El Paso installation features interactive biographies of four
+  Holocaust survivors, including one in Spanish, and a WWII liberator,
+  using natural-language processing so visitors can ask questions and hear
+  responses drawn from recorded testimony.
+sources:
+  - https://madsystems.com/portfolio-shoah-el-paso.html
+  - https://www.kfoxtv.com/news/local/new-el-paso-museum-exhibit-lets-visitors-talk-to-holocaust-survivors-texas-tx-argentina-dimensions-in-testimony-jamie-flores-executive-director-usc-shoah-foundation-liberator
+  - https://elpasoholocaustmuseum.org/dimensions-in-testimony/

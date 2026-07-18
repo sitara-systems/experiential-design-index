@@ -1,0 +1,23 @@
+id: louisiana-sports-hall-of-fame-museum
+name: Louisiana Sports Hall of Fame and Northwest Louisiana History Museum
+venue: louisiana-sports-hall-of-fame
+project_type: new-building
+year_completed: 2013
+credits:
+  - firm: thinc-design
+    role: exhibit-design
+  - firm: trahan-architects
+    role: architecture
+    note: "no firm record yet"
+technologies:
+  - interactive digital displays
+summary: >
+  The Louisiana Sports Hall of Fame and Northwest Louisiana History Museum,
+  an 11,000-square-foot museum in Natchitoches, LA, opened in 2013, designed
+  by Thinc Design with architecture by Trahan Architects.
+description: >
+  The museum displays inductee names, artifacts, video, and interactive
+  digital systems for exploring athlete statistics alongside regional
+  history content.
+sources:
+  - https://www.thincdesign.com/project/louisiana-sports-hall-of-fame

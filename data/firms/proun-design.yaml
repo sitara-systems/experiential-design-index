@@ -1,0 +1,32 @@
+# Firm record — Proun Design
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: proun-design
+name: Proun Design
+aka: []
+website: https://www.proundesign.com
+hq:
+  city: Somerville
+  state: MA
+other_offices: []
+founded: 1999
+roles:
+  - exhibit-design
+  - interpretive-planning
+  - graphics-wayfinding
+status: active
+status_basis: >
+  Novocure corporate headquarters lobby exhibits (opened 2024) and
+  Lexington Visitor Center (opened 2020) both listed as current work on
+  proundesign.com; firm's portfolio site actively maintained (sitemap
+  entries dated January 2026) as of this check.
+status_verified: 2026-07-18
+summary: >
+  Proun Design is a Somerville, Massachusetts-based interpretive exhibit
+  design firm founded in 1999, working on museum, visitor center, cultural
+  history, and science-museum exhibits, with additional work for corporate
+  and institutional clients across the northeastern and southeastern
+  United States.
+sources:
+  - https://www.proundesign.com/
+  - https://www.proundesign.com/about

@@ -1,0 +1,21 @@
+id: mit-ocean-engineering-timeline
+name: MIT Ocean Engineering Timeline
+venue: massachusetts-institute-of-technology
+project_type: installation
+year_completed: 2011
+credits:
+  - firm: proun-design
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: wb-inc
+    role: fabrication
+    note: "no firm record yet"
+summary: >
+  The MIT Ocean Engineering Timeline, a 50-linear-foot exhibit tracing the
+  evolution of MIT's Ocean Engineering program from its origins in naval
+  architecture to modern oceanic resource, defense, and transportation
+  applications, opened on the MIT campus in Cambridge, Massachusetts in
+  2011, with exhibit design by Proun Design and fabrication by WB Inc.
+description: ""
+sources:
+  - https://www.proundesign.com/hospitals-universities/mit-ocean-engineering-timeline

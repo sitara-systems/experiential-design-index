@@ -1,0 +1,37 @@
+id: gulf-of-maine-research-institute-labventure
+name: LabVenture (Cohen Center for Interactive Learning)
+venue: gulf-of-maine-research-institute
+project_type: exhibition-refresh
+year_completed: 2018
+credits:
+  - firm: lassel-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: open-studio-collective
+    role: exhibit-design
+    note: "Physical design execution; no firm record yet"
+  - firm: upswell
+    role: media-design
+    note: "Content and technology platform design; no firm record yet"
+  - firm: art-guild-inc
+    role: fabrication
+technologies:
+  - multi-touch collaborative tables
+  - 4K video projection
+  - live biodiversity tank
+  - bathymetric dimensional wall map
+summary: >
+  LabVenture, a hands-on marine-science learning experience for Maine middle
+  schoolers at the Gulf of Maine Research Institute's Cohen Center for
+  Interactive Learning in Portland, Maine, reopened in a comprehensive
+  renovation in September 2018, with fabrication by Art Guild.
+description: >
+  The renovated space uses NASA satellite data and local fishery information
+  to teach ocean science, including multi-touch collaborative tables, 4K
+  video projection, a renovated live biodiversity tank, and a
+  bathymetric-inspired dimensional wall map; content and technology platform
+  design was led by the experience-design firm Upswell.
+sources:
+  - https://gmri.org/stories/relaunching-labventure/
+  - https://www.artguildinc.com/2018/09/25/interactive-exhibits-saving-maines-eco-system-one-lobstah-at-a-time/
+  - https://www.artguildinc.com/project/labventure-gulf-of-maine-research-institute/

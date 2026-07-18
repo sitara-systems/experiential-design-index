@@ -1,0 +1,11 @@
+id: gordon-library-wpi
+name: George C. Gordon Library
+venue_type: academic-institution
+location:
+  city: Worcester
+  state: MA
+operator: Worcester Polytechnic Institute
+website: https://www.wpi.edu/library
+sources:
+  - https://www.wpi.edu/library
+  - https://www.proundesign.com/science/profiles-in-innovation

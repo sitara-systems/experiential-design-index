@@ -1,0 +1,11 @@
+id: obama-presidential-center
+name: Obama Presidential Center
+venue_type: history-museum
+location:
+  city: Chicago
+  state: IL
+operator: Obama Foundation
+website: https://www.obama.org
+sources:
+  - https://www.obama.org
+  - https://en.wikipedia.org/wiki/Barack_Obama_Presidential_Center

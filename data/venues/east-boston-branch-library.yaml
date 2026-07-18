@@ -1,0 +1,11 @@
+id: east-boston-branch-library
+name: East Boston Branch Library
+venue_type: library-archive
+location:
+  city: Boston
+  state: MA
+operator: Boston Public Library
+website: https://www.bpl.org/about-east-boston/
+sources:
+  - https://www.bpl.org/about-east-boston/
+  - https://www.architecturalrecord.com/articles/7433-east-boston-branch-library

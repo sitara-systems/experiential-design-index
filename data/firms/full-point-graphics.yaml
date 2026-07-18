@@ -1,0 +1,26 @@
+# Firm record — Full Point Graphics
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: full-point-graphics
+name: Full Point Graphics
+hq:
+  city: Brooklyn
+  state: NY
+founded: 2011
+roles:
+  - fabrication
+  - graphics-wayfinding
+status: active
+status_basis: >
+  Live portfolio listing 2024 work (Lewis Latimer House Museum reinstallation,
+  The Met's "Sleeping Beauties: Reawakening Fashion") as of this check.
+status_verified: 2026-07-18
+summary: >
+  Full Point Graphics is a Brooklyn, New York-based studio, established in
+  2011 and run by Hiroshi Kumagai, producing cut-vinyl lettering, large
+  format printing, stencils, hand-painted signage, and gilding for museum
+  and exhibition graphics.
+sources:
+  - https://www.fullpointgraphics.com/about
+  - https://www.fullpointgraphics.com/services
+  - https://www.fullpointgraphics.com/work

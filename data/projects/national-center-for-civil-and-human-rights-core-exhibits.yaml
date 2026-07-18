@@ -20,6 +20,13 @@ credits:
     role: content-production
   - firm: history-associates
     role: interpretive-planning
+  - firm: batwin-and-robin
+    role: content-production
+    note: >
+      25+ media pieces incl. short-form documentaries, a panoramic tribute
+      to the March on Washington, and a 36-screen multimedia experience,
+      per the firm's own site; distinct from Second Story's interactive
+      installations
 technologies:
   - touch displays
   - motion graphics
@@ -30,10 +37,12 @@ summary: >
   Atlanta, opened June 23, 2014; architecture was by The Freelon Group in
   partnership with HOK, exhibit design was by Rockwell Group, and Second
   Story produced interactive installations with Design & Production
-  Incorporated and History Associates.
+  Incorporated and History Associates, and batwin + robin produced the
+  museum's linear media pieces.
 description: ""
 sources:
   - https://en.wikipedia.org/wiki/National_Center_for_Civil_and_Human_Rights
   - https://www.archdaily.com/542382/national-center-for-civil-and-human-rights-david-rockwell
   - https://www.archdaily.com/770551/national-center-for-civil-and-human-rights-the-freelon-group-architects-plus-hok
   - https://2s-archive.rzrfs.com/work/cchr
+  - https://www.batwinandrobin.com/projects/center-civil-human-rights/

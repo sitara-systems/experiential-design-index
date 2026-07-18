@@ -1,0 +1,21 @@
+id: chicago-architecture-center-currents
+name: "Currents: 60 Years of CAC"
+venue: chicago-architecture-center
+project_type: temporary-exhibition
+year_completed: 2026
+credits:
+  - firm: span-studio
+    role: exhibit-design
+    note: "Design direction and design, drawing on Massimo Vignelli's 1972 NYC subway map"
+  - firm: colorphonic
+    role: fabrication
+    note: "Printing and fabrication; no firm record yet"
+technologies: []
+summary: >
+  Currents: 60 Years of CAC, an exhibition marking the Chicago Architecture
+  Center's 60th anniversary, opened April 13, 2026 in the Orientation Space
+  and runs through March 1, 2027, designed by Span Studio.
+description: ""
+sources:
+  - https://www.architecture.org/visit-the-center/exhibitions/currents-60-years-of-cac
+  - https://span.studio/projects/currents

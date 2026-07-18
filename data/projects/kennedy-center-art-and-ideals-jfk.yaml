@@ -1,0 +1,43 @@
+id: kennedy-center-art-and-ideals-jfk
+name: "Art and Ideals: President John F. Kennedy"
+venue: kennedy-center
+project_type: new-exhibition
+year_completed: 2022
+credits:
+  - firm: kieran-timberlake
+    role: architecture
+    note: "no firm record yet"
+  - firm: pentagram
+    role: exhibit-design
+    note: "Creative director Abbott Miller"
+  - firm: studio-thegreeneyl
+    role: media-design
+    note: "Interactive media design; no firm record yet"
+  - firm: batwin-and-robin
+    role: content-production
+    note: "Media concepting, design, and production"
+  - firm: threshold-acoustics
+    role: technical-consulting
+    note: "Acoustics and AV design; no firm record yet"
+technologies:
+  - LED architectural frieze
+  - interactive media
+summary: >
+  "Art and Ideals: President John F. Kennedy," a permanent exhibition in a
+  renovated 7,500 sq ft atrium at the Kennedy Center for the Performing
+  Arts in Washington, DC, opened September 2022, with architecture by
+  KieranTimberlake, exhibit design by Pentagram, interactive media design
+  by Studio TheGreenEyl, media production by batwin + robin, and acoustics
+  and AV design by Threshold.
+description: >
+  The exhibition tells the story of JFK's presidency through the lens of
+  the arts, organized into four areas linking the arts to democracy,
+  social change, culture, and the White House; Pentagram's design features
+  an architectural frieze of LEDs that lets visitors experience Kennedy's
+  oratory.
+sources:
+  - https://www.pentagram.com/work/art-and-ideals-president-john-f-kennedy
+  - https://kierantimberlake.com/updates/kierantimberlake-john-f-kennedy-exhibit/
+  - https://www.thegreeneyl.com/kennedy-center
+  - https://threshold.llc/kennedy-center
+  - https://www.batwinandrobin.com/projects/art-and-ideals-president-john-f-kennedy/

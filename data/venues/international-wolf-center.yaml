@@ -1,0 +1,9 @@
+id: international-wolf-center
+name: International Wolf Center
+venue_type: visitor-center
+location:
+  city: Ely
+  state: MN
+website: https://wolf.org
+sources:
+  - https://splitrockstudios.com/discover-wolves/

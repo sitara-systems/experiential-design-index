@@ -1,0 +1,9 @@
+id: massachusetts-institute-of-technology
+name: Massachusetts Institute of Technology
+venue_type: academic-institution
+location:
+  city: Cambridge
+  state: MA
+website: https://www.mit.edu
+sources:
+  - https://www.mit.edu

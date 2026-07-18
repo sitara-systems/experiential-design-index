@@ -1,0 +1,9 @@
+id: dallin-museum
+name: Dallin Art Museum
+venue_type: art-museum
+location:
+  city: Arlington
+  state: MA
+website: https://dallin.org
+sources:
+  - https://www.proundesign.com/cultural-history-1/indigenous-peoples--gallery

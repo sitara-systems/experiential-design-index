@@ -1,0 +1,11 @@
+id: clipper-city-rail-trail
+name: Clipper City Rail Trail
+venue_type: public-space
+location:
+  city: Newburyport
+  state: MA
+operator: City of Newburyport
+website: https://www.cityofnewburyport.com/planning-development/clipper-city-rail-trail-harborwalk
+sources:
+  - https://www.cityofnewburyport.com/planning-development/clipper-city-rail-trail-harborwalk
+  - https://www.cityofnewburyport.com/planning-development/newburyport-black-history-initiative

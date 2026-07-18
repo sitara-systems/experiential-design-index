@@ -1,0 +1,9 @@
+id: pokagon-state-park
+name: Pokagon State Park
+venue_type: visitor-center
+location:
+  city: Angola
+  state: IN
+operator: Indiana Department of Natural Resources
+sources:
+  - https://taylorstudios.com/our-work/pokagon-state-park/

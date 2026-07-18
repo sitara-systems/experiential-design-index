@@ -1,0 +1,47 @@
+id: sloan-museum-of-discovery-expansion
+name: Sloan Museum of Discovery Expansion and Renovation
+venue: sloan-museum-of-discovery
+project_type: major-renovation
+year_completed: 2022
+credits:
+  - firm: cambridgeseven
+    role: exhibit-design
+  - firm: peter-hyde-design
+    role: exhibit-design
+  - firm: blue-telescope
+    role: media-design
+    note: "AR/VR interactives for the History Gallery; no firm record yet"
+  - firm: electrosonic
+    role: av-integration
+  - firm: xibitz
+    role: fabrication
+technologies:
+  - touch-screen kiosk
+  - motion-triggered AV
+  - augmented reality
+  - virtual reality
+summary: >
+  A $30 million expansion and renovation of the Sloan Museum of Discovery
+  in Flint, Michigan, nearly doubling the museum from 58,000 to 107,000
+  square feet, reopened to the public July 16, 2022; exhibit design by
+  CambridgeSeven and Peter Hyde Design, media by Blue Telescope, AV
+  integration by Electrosonic, and fabrication by Xibitz across four new
+  galleries (Discovery Hall, Hagerman Street Early Childhood Gallery,
+  History Gallery, Durant Vehicle Gallery).
+description: >
+  The renovation added four new permanent galleries: Discovery Hall
+  (hands-on science, including a touch-screen 3-D periodic table and an
+  interactive automobile assembly line), the Hagerman Street Early
+  Childhood Gallery (an interactive ambulance and a three-story
+  treehouse climbing structure), the History Gallery (motion-triggered
+  audiovisual "Story Stones" and Blue Telescope-developed AR/VR
+  experiences, including a virtual tour inside a WWII M18 Hellcat tank
+  destroyer), and the 11,000-square-foot Durant Vehicle Gallery
+  showcasing regional automotive history in partnership with General
+  Motors.
+sources:
+  - https://www.cambridgeseven.com/about/news/re-made-sloan-museum-of-discovery-celebrates-opening/
+  - https://davisonindex.mihomepaper.com/articles/sloan-museum-of-discovery-reopens-to-the-public/
+  - https://blooloop.com/museum/news/blue-telescope-team-expansion-2023/
+  - https://xibitz.com/sloan-museum-of-discovery/
+  - https://xibitz.com/news-final-exhibit-features-installed-at-sloan-museum-of-discovery-article/

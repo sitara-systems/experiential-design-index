@@ -1,0 +1,9 @@
+id: skelton-park
+name: Skelton Park
+venue_type: public-space
+location:
+  city: Champaign
+  state: IL
+operator: City of Champaign
+sources:
+  - https://taylorstudios.com/our-work/skelton-park-hall-of-fame/

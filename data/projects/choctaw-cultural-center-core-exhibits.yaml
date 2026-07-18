@@ -1,0 +1,31 @@
+id: choctaw-cultural-center-core-exhibits
+name: Choctaw Cultural Center Core Exhibits
+venue: choctaw-cultural-center
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: monadnock-media
+    role: media-design
+    note: "Media experience design and production across a 24,500 sq ft footprint, including the Moundville Model animated projection, the We Are Choctaw orientation theater, Hickory Grove AR/VR stations, Treaty Theater, and Creation Stories projected-shadow sculptures"
+  - firm: design-division
+    role: exhibit-design
+    note: "no firm record yet"
+technologies:
+  - projection mapping
+  - AR/VR interactive
+  - GIS mapping
+  - immersive theater
+summary: >
+  The Choctaw Cultural Center, a 100,000+ sq ft ground-up cultural center
+  for the Choctaw Nation of Oklahoma in Durant, opened July 23, 2021, with
+  media experiences produced by Monadnock Media and exhibit design by
+  Design Division, Inc.
+description: >
+  The center tells the 14,000-year history of the Choctaw (Chahta) people
+  "from their own perspective," per Chief Gary Batton, through installations
+  including a 3D-scanned Moundville Model, an AR/VR Hickory Grove habitat
+  experience, and a Treaty Theater chronicling historical treaties.
+sources:
+  - https://monadnock.org/project/choctaw-cultural-center
+  - https://www.nbcdfw.com/entertainment/the-scene/choctaw-cultural-center-to-celebrate-chahta-people-open-july-23/2647567/
+  - https://tribalbusinessnews.com/sections/tourism/13521-with-new-75m-cultural-center-choctaw-nation-blends-tribal-services-with-cultural-tourism

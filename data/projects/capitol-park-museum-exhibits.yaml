@@ -1,0 +1,25 @@
+id: capitol-park-museum-exhibits
+name: Capitol Park Museum Permanent Exhibits
+venue: capitol-park-museum
+project_type: new-building
+year_completed: 2006
+credits:
+  - firm: christopher-chadbourne-and-associates
+    role: exhibit-design
+  - firm: explus
+    role: fabrication
+  - firm: proun-design
+    role: graphics-wayfinding
+    note: "Exhibit Graphics: Proun Design, LLC and CCA staff"
+technologies: []
+summary: >
+  Capitol Park Museum, a 2006 branch of the Louisiana State Museum in Baton
+  Rouge, Louisiana, presents Louisiana's natural and cultural history
+  across two floors, with exhibit design by Christopher Chadbourne &
+  Associates, fabrication by Explus, and exhibit graphics by Proun Design.
+description: >
+  The 32,000 sq ft exhibition covers state history, Mardi Gras, music, and
+  culture, with distinct graphic design approaches on each floor.
+sources:
+  - https://www.proundesign.com/cultural-history-1/louisiana-state-museum
+  - https://en.wikipedia.org/wiki/Capitol_Park_Museum_-_Baton_Rouge

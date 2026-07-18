@@ -1,0 +1,10 @@
+id: sioux-city-public-museum
+name: Sioux City Public Museum
+venue_type: history-museum
+location:
+  city: Sioux City
+  state: IA
+website: https://www.siouxcitymuseum.org
+sources:
+  - https://www.siouxcitymuseum.org
+  - https://en.wikipedia.org/wiki/Sioux_City_Public_Museum

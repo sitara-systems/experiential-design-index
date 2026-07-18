@@ -1,0 +1,33 @@
+id: dataland-opening
+name: Dataland
+venue: dataland
+project_type: new-building
+year_completed: 2026
+credits:
+  - firm: refik-anadol-studio
+    role: media-design
+    note: >
+      Founding studio; designed the five galleries' data-driven,
+      AI-generated media works, including the inaugural exhibition
+      "Machine Dreams: Rainforest." No firm record yet
+  - firm: pentagram
+    role: graphics-wayfinding
+    note: >
+      Brand identity system, including logotype, symbol, typographic stack,
+      color palette, and data visualization system. Led by partners Giorgia
+      Lupi and Abbott Miller.
+technologies:
+  - AI-generated media
+  - projection
+  - real-time data visualization
+summary: >
+  Dataland, described as the world's first permanent museum of AI arts,
+  opened June 20, 2026 inside Frank Gehry's The Grand LA development in Los
+  Angeles, founded by Refik Anadol Studio, with a brand identity and
+  data-visualization system designed by Pentagram.
+description: ""
+sources:
+  - https://news.artnet.com/art-world/refik-anadol-ai-museum-dataland-2543122
+  - https://dataland.art/about
+  - https://www.pentagram.com/work/dataland
+  - https://www.related.com/press-releases/2024-09-24/refik-anadol-studio-presents-dataland-worlds-first-museum-ai-arts-opening

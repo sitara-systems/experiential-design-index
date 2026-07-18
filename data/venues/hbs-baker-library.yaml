@@ -1,0 +1,10 @@
+id: hbs-baker-library
+name: Baker Library, Harvard Business School
+venue_type: library-archive
+location:
+  city: Boston
+  state: MA
+operator: Harvard Business School
+website: https://www.library.hbs.edu
+sources:
+  - https://www.hbs.edu/news/releases/Pages/south-sea-bubble-exhibition.aspx

@@ -1,0 +1,10 @@
+id: purina-farms-visitor-center
+name: Purina Farms Visitor Center
+venue_type: brand-experience-center
+location:
+  city: Gray Summit
+  state: MO
+operator: Nestle Purina PetCare
+website: https://www.purinafarms.com/
+sources:
+  - https://taylorstudios.com/our-work/purina-farms-visitors-center/

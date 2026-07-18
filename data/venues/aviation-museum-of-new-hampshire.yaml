@@ -1,0 +1,14 @@
+# Venue record — Aviation Museum of New Hampshire
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: aviation-museum-of-new-hampshire
+name: Aviation Museum of New Hampshire
+venue_type: history-museum
+location:
+  city: Londonderry
+  state: NH
+operator: New Hampshire Aviation Historical Society
+website: https://aviationmuseumofnh.org
+sources:
+  - https://en.wikipedia.org/wiki/Aviation_Museum_of_New_Hampshire
+  - https://aviationmuseumofnh.org/about-us/

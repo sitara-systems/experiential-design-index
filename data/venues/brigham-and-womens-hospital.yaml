@@ -1,0 +1,9 @@
+id: brigham-and-womens-hospital
+name: Brigham and Women's Hospital
+venue_type: healthcare-institution
+location:
+  city: Boston
+  state: MA
+website: https://www.brighamandwomens.org
+sources:
+  - https://www.brighamandwomens.org

@@ -1,0 +1,25 @@
+id: dallin-museum-indigenous-peoples-gallery
+name: Indigenous Peoples Gallery
+venue: dallin-museum
+project_type: new-exhibition
+year_completed: 2022
+credits:
+  - firm: proun-design
+    role: exhibit-design
+  - firm: rlmg
+    role: media-design
+  - firm: wb-inc
+    role: fabrication
+    note: "no firm record yet"
+technologies:
+  - audio program
+summary: >
+  The Indigenous Peoples Gallery, a 2022 permanent gallery at the Dallin
+  Art Museum in Arlington, Massachusetts, features sculptor Cyrus Dallin's
+  maquettes and sculptures honoring Indigenous peoples, with exhibit design
+  by Proun Design and media by RLMG.
+description: >
+  The gallery pairs Dallin's sculptures with an audio program combining
+  Dallin's own quotes with commentary from a Ute Tribe elder.
+sources:
+  - https://www.proundesign.com/cultural-history-1/indigenous-peoples--gallery

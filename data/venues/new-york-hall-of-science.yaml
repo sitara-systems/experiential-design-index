@@ -1,0 +1,10 @@
+id: new-york-hall-of-science
+name: New York Hall of Science
+venue_type: science-center
+location:
+  city: Queens
+  state: NY
+website: https://nysci.org
+sources:
+  - https://nysci.org
+  - https://www.thincdesign.com/project/great-hall

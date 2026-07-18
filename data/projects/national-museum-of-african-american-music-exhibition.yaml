@@ -18,6 +18,17 @@ credits:
     note: "RFID technology provider; no firm record yet"
   - firm: 1220-fabrication
     role: fabrication
+  - firm: available-light
+    role: lighting-design
+    note: "Lighting design for six galleries, per Eos Lightmedia's own project page."
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: >
+      Supplied, installed, and commissioned exhibit lighting (theatrical,
+      overhead track, integrated case lighting) and a museum-wide lighting
+      control system, on behalf of 1220 Exhibits. No firm record yet
+      (Vancouver, BC headquartered; non-US, per editorial policy geographic
+      scope).
 technologies:
   - RFID
   - interactive media
@@ -39,3 +50,4 @@ sources:
   - https://www.nmaam.org/about/
   - https://www.npr.org/2021/10/13/1016619682/national-museum-african-american-music-nashville
   - https://gallagherdesign.com/project/nmaam/
+  - https://www.eoslightmedia.com/work/74

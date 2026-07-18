@@ -1,0 +1,9 @@
+id: north-carolina-museum-of-art
+name: North Carolina Museum of Art
+venue_type: art-museum
+location:
+  city: Raleigh
+  state: NC
+website: https://ncartmuseum.org
+sources:
+  - https://ncartmuseum.org

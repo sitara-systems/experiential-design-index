@@ -1,0 +1,30 @@
+id: mit-building-20-exhibit
+name: MIT Building 20 Exhibit
+venue: massachusetts-institute-of-technology
+project_type: installation
+year_completed: 2004
+credits:
+  - firm: proun-design
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: back-bay-signs
+    role: fabrication
+    note: "no firm record yet"
+  - firm: advanced-photographics
+    role: fabrication
+    note: "no firm record yet"
+summary: >
+  The MIT Building 20 Exhibit, a commemorative lobby installation in MIT's
+  Stata Center honoring the wartime radar-research and innovation legacy
+  of the temporary Building 20 it replaced, opened in Cambridge,
+  Massachusetts in 2004, with exhibit design by Proun Design and
+  fabrication by Back Bay Signs and Advanced Photographics.
+description: >
+  The installation features a circa-1945 radar antenna with an 8-foot
+  dish, from which quotes of former Building 20 occupants radiate onto
+  adjacent walls and windows; interpretive panels showcase Building 20
+  alumni including Doc Edgerton's strobe photography, Noam Chomsky's
+  linguistics work, and Amar Bose's acoustics research. Curated by Debbie
+  Douglas, PhD, for the MIT Museum.
+sources:
+  - https://www.proundesign.com/hospitals-universities/mit--building-20-exhibit

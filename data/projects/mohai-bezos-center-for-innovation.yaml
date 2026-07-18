@@ -8,12 +8,15 @@ credits:
     role: exhibit-design
   - firm: pacific-studio
     role: fabrication
+  - firm: olson-kundig
+    role: exhibit-design
+    note: "3D/spatial design"
 summary: >
   Studio Matthews designed the Bezos Center for Innovation, a permanent
   exhibition at Seattle's Museum of History and Industry (MOHAI) featuring
   a 360-degree timeline of Northwest innovation history and interactive
-  contribution prompts.
+  contribution prompts, with 3D design by Olson Kundig.
 description: >
-  3D design by Olson Kundig; production by Brown Bag Creative.
+  Production by Brown Bag Creative.
 sources:
   - https://studiomatthews.com/project/bezos-center-for-innovation/

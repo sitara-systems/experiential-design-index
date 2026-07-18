@@ -1,0 +1,13 @@
+# Venue record — Roger Williams National Memorial
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: roger-williams-national-memorial
+name: Roger Williams National Memorial
+venue_type: visitor-center
+location:
+  city: Providence
+  state: RI
+operator: National Park Service
+website: https://www.nps.gov/rowi/
+sources:
+  - https://www.nps.gov/rowi/

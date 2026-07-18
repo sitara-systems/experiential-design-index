@@ -1,0 +1,11 @@
+id: beacon-childrens-hospital
+name: Beacon Children's Hospital
+venue_type: healthcare-institution
+location:
+  city: South Bend
+  state: IN
+operator: Beacon Health System
+website: https://www.beaconhealthsystem.org/beacon-childrens-hospital/
+sources:
+  - https://www.beaconhealthsystem.org/beacon-childrens-hospital/
+  - https://www.wndu.com/content/news/Beacon-Childrens-Hospital-to-celebrate-grand-opening-Wednesday-421122893.html

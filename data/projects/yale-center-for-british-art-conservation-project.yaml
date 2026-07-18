@@ -1,0 +1,40 @@
+id: yale-center-for-british-art-conservation-project
+name: Building Conservation Project
+venue: yale-center-for-british-art
+project_type: major-renovation
+year_completed: 2016
+credits:
+  - firm: knight-architecture
+    role: architecture
+    note: "No firm record yet"
+  - firm: peter-inskip-and-peter-jenkins-architects
+    role: architecture
+    note: "Conservation architect; no firm record yet"
+  - firm: stephen-saitas-designs
+    role: exhibit-design
+  - firm: staples-and-charles
+    role: exhibit-design
+    note: "Credited as furnishings, fixtures, and equipment consultant; no firm record yet"
+  - firm: hefferan-partnership-lighting-design
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: strong-cohen-graphic-designers
+    role: graphics-wayfinding
+    note: "No firm record yet"
+  - firm: cavanaugh-tocci-associates
+    role: technical-consulting
+    note: "Acoustics, audiovisual, and theater consultant; no firm record yet"
+summary: >
+  The Yale Center for British Art in New Haven, Connecticut completed a
+  three-year building conservation project and reopened to the public May
+  11, 2016, with architecture by Knight Architecture and conservation
+  architecture by Peter Inskip + Peter Jenkins Architects, exhibition design
+  by Stephen Saitas Designs, and lighting design by Hefferan Partnership
+  Lighting Design.
+description: >
+  The project conserved Louis I. Kahn's original 1969-1974 building,
+  addressing building envelope, mechanical systems, and life-safety
+  infrastructure while reinstalling the museum's permanent collection
+  galleries.
+sources:
+  - https://britishart.yale.edu/news-and-press/yale-center-british-art-completes-major-building-conservation-project-and-reopens

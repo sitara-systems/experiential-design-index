@@ -1,0 +1,40 @@
+id: boone-pickens-stadium-legacy-experience
+name: Boone Pickens Legacy Experience
+venue: boone-pickens-stadium
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: trivium-interactive
+    role: media-design
+    note: "Lead experience designer"
+  - firm: amaze-design
+    role: exhibit-design
+    note: "Design partner"
+  - firm: southern-custom-exhibits
+    role: fabrication
+  - firm: avl-systems-design
+    role: av-integration
+    note: "no firm record yet"
+  - firm: available-light
+    role: lighting-design
+technologies:
+  - augmented reality
+  - multi-screen video wall
+summary: >
+  The Boone Pickens Legacy Experience, a 10,000 sq ft museum in the West End
+  Zone of Boone Pickens Stadium at Oklahoma State University in Stillwater,
+  Oklahoma, opened to the public in June 2025; interactive experience design
+  by Trivium Interactive, exhibit design by Amaze Design, fabrication by
+  Southern Custom Exhibits, AV systems design by AVL Systems Design, and
+  lighting design by Available Light.
+description: >
+  The museum honors the life and philanthropy of T. Boone Pickens through
+  interactive installations including a six-screen quote wall, a room of
+  western art, coverage of the Pickens Plan renewable-energy initiative,
+  archival-footage displays, and an augmented-reality exploration of his
+  office bookshelf, alongside recreated settings from his life such as his
+  childhood home and a replica of his 1955 Ford station wagon mobile office.
+sources:
+  - https://www.triviuminteractive.com/project/the-boone-pickens-legacy-experience
+  - https://www.kjrh.com/news/local-news/new-attraction-boone-pickens-legacy-experience-plans-full-opening
+  - https://news.okstate.edu/articles/communications/2023/osu_boone_pickens_foundation_reveal_plans_for_boone_pickens_legacy_experience.html

@@ -1,0 +1,13 @@
+# Venue record — Boone Pickens Stadium
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: boone-pickens-stadium
+name: Boone Pickens Stadium
+venue_type: sports-venue
+location:
+  city: Stillwater
+  state: OK
+operator: Oklahoma State University
+website: https://okstate.com
+sources:
+  - https://news.okstate.edu/articles/communications/2023/osu_boone_pickens_foundation_reveal_plans_for_boone_pickens_legacy_experience.html

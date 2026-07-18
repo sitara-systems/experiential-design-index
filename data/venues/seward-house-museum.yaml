@@ -1,0 +1,9 @@
+id: seward-house-museum
+name: Seward House Museum
+venue_type: history-museum
+location:
+  city: Auburn
+  state: NY
+website: https://sewardhouse.org
+sources:
+  - https://sewardhouse.org/exhibitions/current-exhibitions/forged-freedom-bond-seward-tubman-families

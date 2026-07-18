@@ -1,0 +1,10 @@
+id: hopkins-center-for-the-arts
+name: Hopkins Center for the Arts
+venue_type: cultural-center
+location:
+  city: Hanover
+  state: NH
+operator: Dartmouth College
+website: https://hop.dartmouth.edu
+sources:
+  - https://hop.dartmouth.edu

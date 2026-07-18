@@ -1,0 +1,9 @@
+id: marblehead-museum
+name: Marblehead Museum
+venue_type: history-museum
+location:
+  city: Marblehead
+  state: MA
+website: https://marbleheadmuseum.org
+sources:
+  - https://marbleheadmuseum.org/kitchen-slave-quarters/

@@ -1,0 +1,9 @@
+id: logoly-state-park-visitor-center
+name: Logoly State Park Visitor Center
+venue_type: visitor-center
+location:
+  city: Magnolia
+  state: AR
+operator: Arkansas State Parks
+sources:
+  - https://taylorstudios.com/our-work/logoly-state-park/

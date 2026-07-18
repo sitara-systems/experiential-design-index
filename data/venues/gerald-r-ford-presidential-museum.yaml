@@ -1,0 +1,11 @@
+id: gerald-r-ford-presidential-museum
+name: Gerald R. Ford Presidential Museum
+venue_type: history-museum
+location:
+  city: Grand Rapids
+  state: MI
+operator: National Archives and Records Administration
+website: https://www.fordlibrarymuseum.gov
+sources:
+  - https://en.wikipedia.org/wiki/Gerald_R._Ford_Presidential_Museum
+  - https://www.detroitnews.com/story/news/local/michigan/2016/05/19/new-day-gerald-ford-museum/84637000/

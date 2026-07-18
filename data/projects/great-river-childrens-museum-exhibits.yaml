@@ -1,0 +1,40 @@
+id: great-river-childrens-museum-exhibits
+name: Great River Children's Museum
+venue: great-river-childrens-museum
+project_type: major-renovation
+year_completed: 2025
+credits:
+  - firm: glt-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: haizlip-studios
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: split-rock-studios
+    role: exhibit-design
+  - firm: split-rock-studios
+    role: fabrication
+  - firm: native-skywatchers-design-studio
+    role: media-design
+    note: "no firm record yet; animation and constellation visualization for the Headwaters exhibit"
+technologies:
+  - interactive water table
+  - animation
+summary: >
+  Great River Children's Museum, a 31,000-sq-ft children's museum
+  created by merging three historic buildings (including the former
+  Liberty Bank building) in downtown St. Cloud, Minnesota, opened June
+  10, 2025; architecture by GLT Architects, exhibit design by Haizlip
+  Studios and Split Rock Studios, fabrication by Split Rock Studios,
+  and media design for the Headwaters exhibit by Native Skywatchers
+  Design Studio.
+description: >
+  The museum's eight interactive exhibit areas include Headwaters (a
+  Mississippi River immersion space), Climber to the Clouds (a
+  three-story weather-themed atrium), Community Connections, an
+  Everyday Engineering tinker workspace, and a 35-foot Great Big River
+  water table.
+sources:
+  - https://www.startribune.com/st-cloud-minnesota-new-great-river-childrens-museum-grand-opening-this-weekend/601371032
+  - https://www.gltarchitects.com/great-river-childrens-museum/
+  - https://splitrockstudios.com/great-river-childrens-museum/

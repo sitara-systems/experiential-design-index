@@ -1,0 +1,28 @@
+id: waukesha-county-museum-les-paul
+name: "Les Paul, The Wizard of Waukesha"
+venue: waukesha-county-museum
+project_type: new-exhibition
+year_completed: 2013
+credits:
+  - firm: peter-hyde-design
+    role: exhibit-design
+  - firm: chicago-scenic-studios
+    role: fabrication
+  - firm: rbh-multimedia
+    role: media-design
+    note: "no firm record yet"
+technologies:
+  - touchscreen audio/video comparisons
+  - high-end distributed audio system
+summary: >
+  "Les Paul, The Wizard of Waukesha," a permanent 2,000 sq ft exhibit on
+  guitarist and inventor Les Paul at the Waukesha County Museum in
+  Waukesha, Wisconsin, opened in 2013; exhibit design by Peter Hyde Design
+  with fabrication by Chicago Scenic Studios and media by RBH Multimedia.
+description: >
+  A multi-level exhibit told in six chapters covering aspects of Les Paul's
+  life and career, using graphics, narrative text, video, and artifacts,
+  including interactive comparisons of guitar sounds, audio clips of Paul
+  discussing his inventions, and a visitor "Dream Wall."
+sources:
+  - https://www.peterhydedesign.com/projects/les-paul-the-wizard-of-waukesha/

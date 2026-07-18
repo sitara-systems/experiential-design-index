@@ -1,0 +1,9 @@
+id: wolfe-center-for-the-arts
+name: Wolfe Center for the Arts
+venue_type: cultural-center
+location:
+  city: Bowling Green
+  state: OH
+operator: Bowling Green State University
+sources:
+  - https://www.bgsu.edu/news/2012/08/wolfe-center-recognized.html

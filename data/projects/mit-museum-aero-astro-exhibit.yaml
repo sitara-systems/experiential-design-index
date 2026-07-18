@@ -1,0 +1,24 @@
+id: mit-museum-aero-astro-exhibit
+name: MIT Aero/Astro Exhibit
+venue: mit-museum
+project_type: installation
+year_completed: 2015
+credits:
+  - firm: proun-design
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: advanced-digital
+    role: fabrication
+    note: "no firm record yet"
+summary: >
+  The MIT Aero/Astro Exhibit, marking a century of aerospace engineering
+  education at MIT with artifacts including an early wind-tunnel balance
+  and Apollo guidance-system gyroscopes, opened at the MIT Museum in
+  Cambridge, Massachusetts in 2015, with exhibit design by Proun Design
+  and graphic fabrication by Advanced Digital.
+description: >
+  Includes an interactive table letting visitors explore the physics of
+  gyroscopes, and marks MIT as the first U.S. university to offer an
+  aeronautical engineering degree.
+sources:
+  - https://www.proundesign.com/hospitals-universities/mit-aero%2Fastro-exhibit

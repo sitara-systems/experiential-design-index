@@ -1,0 +1,32 @@
+id: discovery-park-of-america-discovery-center
+name: Discovery Center
+venue: discovery-park-of-america
+project_type: new-building
+year_completed: 2013
+credits:
+  - firm: thinc-design
+    role: exhibit-design
+  - firm: kubik-maltbie
+    role: fabrication
+    note: >
+      Credited as "Maltbie" on Thinc Design's own project page; kubik maltbie
+      is the continuing entity
+  - firm: verner-johnson
+    role: architecture
+    note: "no firm record yet"
+technologies:
+  - earthquake simulator
+  - interactive digital planetarium
+summary: >
+  The Discovery Center, a 52,000-square-foot exhibition space within the
+  100,000-square-foot Discovery Park of America in Union City, TN, opened in
+  2013, designed by Thinc Design.
+description: >
+  Nine exhibition galleries cover natural history, regional history, space
+  science, alternative energy, military history, and Native American
+  cultures, including an earthquake simulator, interactive digital
+  planetarium, global treasure vault, and anatomical slide-through exhibit.
+  The Discovery Center received a 2015 TAM Award for Permanent Gallery from
+  the Tennessee Alliance of Museums.
+sources:
+  - https://www.thincdesign.com/project/discovery-center

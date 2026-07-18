@@ -1,0 +1,9 @@
+id: holocaust-center-for-humanity
+name: Holocaust Center for Humanity
+venue_type: history-museum
+location:
+  city: Seattle
+  state: WA
+website: https://www.holocaustcenterseattle.org
+sources:
+  - https://www.holocaustcenterseattle.org

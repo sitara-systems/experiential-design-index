@@ -1,0 +1,13 @@
+# Venue record — Lowell National Historical Park
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: lowell-national-historical-park
+name: Lowell National Historical Park
+venue_type: visitor-center
+location:
+  city: Lowell
+  state: MA
+operator: National Park Service
+website: https://www.nps.gov/lowe/
+sources:
+  - https://www.nps.gov/lowe/

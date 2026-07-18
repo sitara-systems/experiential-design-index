@@ -1,0 +1,10 @@
+id: mississippi-civil-rights-museum
+name: Mississippi Civil Rights Museum
+venue_type: history-museum
+location:
+  city: Jackson
+  state: MS
+website: https://mcrm.mdah.ms.gov
+sources:
+  - https://mcrm.mdah.ms.gov
+  - https://en.wikipedia.org/wiki/Mississippi_Civil_Rights_Museum

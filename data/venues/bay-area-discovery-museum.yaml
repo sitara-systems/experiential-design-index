@@ -1,0 +1,9 @@
+id: bay-area-discovery-museum
+name: Bay Area Discovery Museum
+venue_type: childrens-museum
+location:
+  city: Sausalito
+  state: CA
+website: https://bayareadiscoverymuseum.org
+sources:
+  - https://olsonkundig.com/projects/bay-area-discovery-museum/

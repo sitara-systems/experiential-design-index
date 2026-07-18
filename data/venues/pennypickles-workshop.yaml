@@ -1,0 +1,11 @@
+id: pennypickles-workshop
+name: Pennypickle's Workshop (Temecula Children's Museum)
+venue_type: childrens-museum
+location:
+  city: Temecula
+  state: CA
+operator: City of Temecula
+website: https://www.pennypickles.org
+sources:
+  - https://www.pennypickles.org
+  - https://temeculaca.gov/facilities/facility/details/Pennypickles-Workshop-Childrens-Museum-70

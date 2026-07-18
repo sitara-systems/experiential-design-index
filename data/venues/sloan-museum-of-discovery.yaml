@@ -1,0 +1,11 @@
+id: sloan-museum-of-discovery
+name: Sloan Museum of Discovery
+venue_type: history-museum
+location:
+  city: Flint
+  state: MI
+operator: Sloan Museum of Discovery & Longway Planetarium
+website: https://sloanlongway.org/sloan/
+sources:
+  - https://sloanlongway.org/sloan/
+  - https://davisonindex.mihomepaper.com/articles/sloan-museum-of-discovery-reopens-to-the-public/

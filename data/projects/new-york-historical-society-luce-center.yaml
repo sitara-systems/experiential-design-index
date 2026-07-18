@@ -1,0 +1,30 @@
+id: new-york-historical-society-luce-center
+name: Henry Luce III Center (Fourth Floor Galleries)
+venue: new-york-historical-society
+project_type: major-renovation
+year_completed: 2017
+credits:
+  - firm: pbdw-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: batwin-and-robin
+    role: media-design
+    note: "17 interactives and 5 stand-alone videos across the North and Tiffany Galleries"
+technologies:
+  - touchscreen interactives
+  - video
+summary: >
+  The renovated Henry Luce III Center at the New-York Historical Society
+  in New York, including the North Gallery, the Tiffany Gallery, and the
+  Center for Women's History, reopened April 29, 2017, with architecture
+  by PBDW Architects (with Eva Jiřičná on the Tiffany Gallery) and 17
+  interactives and 5 videos designed by batwin + robin.
+description: >
+  batwin + robin's interactives and videos for the North Gallery
+  reinforced the theme "Objects Tell Stories," covering subjects including
+  the 1863 Draft Riots, slavery in colonial New York, master craftsman
+  Duncan Phyfe, and the history of New York's street grid.
+sources:
+  - https://www.nyhistory.org/press/transformed-fourth-floor-new-york-historical-society-opens-april-29-2017-sharing
+  - https://www.pbdw.com/the-new-york-historical-fourth-floor-galleries
+  - https://www.batwinandrobin.com/projects/new-york-historical-society-luce-center/

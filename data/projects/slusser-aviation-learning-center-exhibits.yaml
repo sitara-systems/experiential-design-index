@@ -1,0 +1,30 @@
+id: slusser-aviation-learning-center-exhibits
+name: Slusser Aviation Learning Center Exhibits
+venue: aviation-museum-of-new-hampshire
+project_type: major-renovation
+year_completed: 2011
+credits:
+  - firm: wondercabinet-interpretive-design
+    role: exhibit-design
+  - firm: proun-design
+    role: graphics-wayfinding
+    note: "Exhibit graphics"
+  - firm: wb-inc
+    role: fabrication
+    note: "no firm record yet"
+technologies:
+  - flight simulators
+summary: >
+  The Slusser Aviation Learning Center, an addition to the Aviation Museum
+  of New Hampshire in Londonderry that nearly quadrupled its exhibition
+  space, opened in May 2011 with exhibit design by Wondercabinet
+  Interpretive Design, graphics by Proun Design, and fabrication by WB Inc.
+description: >
+  The center showcases New Hampshire's aviation heritage from Civil War-era
+  reconnaissance balloons through modern space exploration, with scale
+  models, engines, flight simulators, and original drawings supported by
+  interpretive graphics.
+sources:
+  - https://www.proundesign.com/cultural-history-1/slusser-aviation-learning-center
+  - https://en.wikipedia.org/wiki/Aviation_Museum_of_New_Hampshire
+  - https://www.sheerr.com/the-places-weve-made/slusser-aviation-learning-center-and-museum/

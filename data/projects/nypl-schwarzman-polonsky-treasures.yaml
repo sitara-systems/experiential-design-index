@@ -1,0 +1,35 @@
+id: nypl-schwarzman-polonsky-treasures
+name: "The Polonsky Exhibition of The New York Public Library's Treasures"
+venue: nypl-schwarzman-building
+project_type: new-exhibition
+year_completed: 2021
+credits:
+  - firm: pure-and-applied
+    role: exhibit-design
+  - firm: mecanoo
+    role: architecture
+    note: "No firm record yet"
+  - firm: beyer-blinder-belle
+    role: architecture
+    note: "No firm record yet"
+  - firm: goppion
+    role: fabrication
+    note: "Display case fabricator; no firm record yet"
+technologies: []
+summary: >
+  The Polonsky Exhibition of The New York Public Library's Treasures, the
+  Library's first permanent exhibition showcasing items from its research
+  collections, opened September 24, 2021 in Gottesman Hall of the Stephen A.
+  Schwarzman Building in New York, with exhibition design by Pure+Applied,
+  architecture by Mecanoo and Beyer Blinder Belle, and display cases by
+  Goppion.
+description: >
+  Made possible by a $12.5 million gift from Dr. Leonard Polonsky CBE, the
+  exhibition presents more than 250 items drawn from the Library's research
+  centers, curated by a team led by Declan Kiely, Director of Special
+  Collections and Exhibitions.
+sources:
+  - https://www.nypl.org/press/polonsky-exhibition-new-york-public-librarys-treasures-open-september-24-2021
+  - https://www.mecanoo.nl/News/ID/550/Grand-opening-of-The-Polonsky-Exhibition-of-The-New-York-Public-Librarys-Treasures
+  - https://pureandappliedstudio.com/project/nypl-treasures
+  - https://www.goppion.com/projects/the-new-york-public-library-stephen-a-schwarzman-building

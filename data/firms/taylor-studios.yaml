@@ -1,0 +1,41 @@
+# Firm record — Taylor Studios
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: taylor-studios
+name: Taylor Studios
+aka:
+  - "Taylor Studios, Inc."
+website: https://taylorstudios.com
+hq:
+  city: Rantoul
+  state: IL
+founded: 1991
+roles:
+  - exhibit-design
+  - interpretive-planning
+  - fabrication
+  - graphics-wayfinding
+status: active
+status_basis: >
+  Active company website listing projects through 2025 (Skelton Park
+  African American Heritage Trail sculpture, a 2025 National WWI Museum
+  trench/triage exhibit refresh) and open job postings for a Senior Project
+  Manager and CAD Detailer as of this check; credited on the North Dakota
+  Heritage Center expansion (2014), the University of Michigan Museum of
+  Natural History's new building (2019), and the National WWI Museum's 2024
+  media refresh. Acquired by Innovative Companies Inc. (Proviso Capital) in
+  December 2021; founder Betty Brennan remained president and all 35 staff
+  retained their positions, with no change to the firm's line of business.
+status_verified: 2026-07-18
+summary: >
+  Taylor Studios is a Rantoul, Illinois-based exhibit design and fabrication
+  firm founded in 1991, producing interpretive exhibits, dioramas, custom
+  sculptural elements, and environmental graphics for museums, state and
+  national parks, zoos, and visitor centers across the United States.
+sources:
+  - https://taylorstudios.com/
+  - https://taylorstudios.com/about/
+  - https://taylorstudios.com/our-work/
+  - https://taylorstudios.com/press-kit/
+  - https://www.yahoo.com/news/founder-rantouls-taylor-studios-sells-154500590.html
+  - https://will.illinois.edu/prairiefire/story/taylor-studios

@@ -1,0 +1,10 @@
+id: capitol-park-museum
+name: Capitol Park Museum
+venue_type: history-museum
+location:
+  city: Baton Rouge
+  state: LA
+operator: Louisiana State Museum
+website: https://louisianastatemuseum.org/museum/capitol-park-museum
+sources:
+  - https://en.wikipedia.org/wiki/Capitol_Park_Museum_-_Baton_Rouge

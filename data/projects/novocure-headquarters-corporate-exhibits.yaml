@@ -1,0 +1,29 @@
+id: novocure-headquarters-corporate-exhibits
+name: Novocure Corporate Headquarters Exhibits
+venue: novocure-headquarters
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: proun-design
+    role: exhibit-design
+  - firm: trivium-interactive
+    role: media-design
+  - firm: mystic-scenic
+    role: fabrication
+  - firm: electrosonic
+    role: av-integration
+technologies:
+  - digital touch table
+  - illuminated kiosks
+summary: >
+  Novocure's North American headquarters in Portsmouth, New Hampshire opened
+  corporate lobby exhibits in 2024 exploring the science behind its Tumor
+  Treating Fields cancer treatment technology and company history, designed
+  by Proun Design with media by Trivium Interactive, fabrication by Mystic
+  Scenic Studios, and AV integration by Electrosonic.
+description: >
+  The exhibits include illuminated kiosks displaying artifacts, a digital
+  touch table, a wall-mounted screen with company information, and
+  large-format flatscreens with patient portraits.
+sources:
+  - https://www.proundesign.com/science/novocure

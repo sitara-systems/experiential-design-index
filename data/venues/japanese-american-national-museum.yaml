@@ -1,0 +1,10 @@
+id: japanese-american-national-museum
+name: Japanese American National Museum
+venue_type: history-museum
+location:
+  city: Los Angeles
+  state: CA
+website: https://www.janm.org
+sources:
+  - https://www.janm.org
+  - https://rafu.com/2020/01/transcendients-taiji-terasaki-janm/

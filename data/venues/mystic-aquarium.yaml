@@ -1,0 +1,10 @@
+id: mystic-aquarium
+name: Mystic Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Mystic
+  state: CT
+website: https://www.mysticaquarium.org
+sources:
+  - https://www.mysticaquarium.org
+  - https://www.thincdesign.com/project/challenge-of-the-deep

@@ -1,0 +1,32 @@
+# Firm record — Explus
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: explus
+name: Explus, Inc.
+aka: []
+website: https://www.explusinc.com/
+hq:
+  city: Sterling
+  state: VA
+founded: 1979
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Confirmed exhibitor at the Mid-Atlantic Association of Museums' Building
+  Museums Symposium, March 2025; active ~52,000-sq-ft production facility per
+  its own site. Founding year (1979) is repeated across several third-party
+  business-data aggregators but not independently confirmed on a primary
+  Explus source.
+status_verified: 2026-07-18
+summary: >
+  Explus, Inc. is a museum exhibit fabrication company based in Sterling,
+  Virginia, providing custom casework, artifact mounting, scenic and
+  thematic environment construction, interactive/electro-mechanical
+  components, graphics, and AV installation coordination. It typically
+  executes designs originated by separate exhibit-design and architecture
+  firms rather than designing exhibits itself.
+sources:
+  - https://www.explusinc.com/about.html
+  - https://www.explusinc.com/portfolio.html
+  - https://midatlanticmuseums.org/building-museums/past-conferences/building-museums/

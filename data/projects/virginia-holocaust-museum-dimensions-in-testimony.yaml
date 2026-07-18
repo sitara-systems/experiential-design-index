@@ -1,0 +1,32 @@
+id: virginia-holocaust-museum-dimensions-in-testimony
+name: Dimensions in Testimony
+venue: virginia-holocaust-museum
+project_type: new-exhibition
+year_completed: 2024
+status: completed
+credits:
+  - firm: mad-systems
+    role: av-integration
+    note: >
+      Designed the interactive testimony theater, including a Pepper's
+      Ghost-style display, in the newly constructed Alan and Halina Zimm
+      Theater of Remembrance
+technologies:
+  - Pepper's Ghost display
+  - interactive video testimony
+  - natural language processing
+summary: >
+  Dimensions in Testimony, a permanent interactive exhibit developed by the
+  USC Shoah Foundation featuring interactive Holocaust survivor biographies,
+  opened November 1, 2024 at the Virginia Holocaust Museum in Richmond in
+  the newly built Alan and Halina Zimm Theater of Remembrance, with exhibit
+  design and AV integration by MAD Systems.
+description: >
+  The permanent exhibition, on the museum's second floor, features five
+  rotating survivor biographies that visitors can question in real time,
+  including Richmond resident Halina Zimm, whose testimony was recorded
+  over 15 hours in response to nearly 1,000 questions.
+sources:
+  - https://madsystems.com/portfolio-shoah-richmond.html
+  - https://blooloop.com/museum/news/mad-systems-usc-shoah-foundation-virginia-holocaust-museum/
+  - https://rvahub.com/2024/11/07/virginia-holocaust-museum-features-interactive-biographies-with-holocaust-survivors/

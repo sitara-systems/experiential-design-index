@@ -1,0 +1,10 @@
+id: frye-art-museum
+name: Frye Art Museum
+venue_type: art-museum
+location:
+  city: Seattle
+  state: WA
+website: https://fryemuseum.org
+sources:
+  - https://fryemuseum.org
+  - https://ww2.fryemuseum.org/history/

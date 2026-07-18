@@ -1,0 +1,10 @@
+id: thayer-public-library
+name: Thayer Public Library
+venue_type: library-archive
+location:
+  city: Braintree
+  state: MA
+website: https://thayerpubliclibrary.org
+sources:
+  - https://thayerpubliclibrary.org
+  - https://www.arrowstreet.com/portfolio/thayer-library-childrens-room-2/

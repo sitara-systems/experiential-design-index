@@ -1,0 +1,10 @@
+id: scripps-earth-exploration-center
+name: Scripps Earth Exploration Center
+venue_type: science-center
+location:
+  city: La Jolla
+  state: CA
+operator: Scripps Institution of Oceanography, UC San Diego
+website: https://scripps.ucsd.edu
+sources:
+  - https://www.thincdesign.com/project/scripps-earth-exploration-center

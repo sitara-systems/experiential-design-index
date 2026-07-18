@@ -1,0 +1,28 @@
+id: mystic-aquarium-challenge-of-the-deep
+name: Challenge of the Deep
+venue: mystic-aquarium
+project_type: new-exhibition
+year_completed: 1999
+credits:
+  - firm: thinc-design
+    role: exhibit-design
+  - firm: xenon
+    role: media-design
+    note: "Floating-image media, interactive videos, and animations; no firm record yet"
+  - firm: dennis-earl-moore-productions
+    role: media-design
+    note: "Immersive spherical 'Dive Theatre' video production; no firm record yet"
+technologies:
+  - floating-image media
+  - spherical dome video
+summary: >
+  Challenge of the Deep, a 20,000-square-foot deep-water exploration
+  exhibition, opened at Mystic Aquarium in Mystic, CT in 1999, designed by
+  Thinc Design.
+description: >
+  The exhibition guides visitors from familiar environments into deep-sea
+  settings using immersive media, including a spherical "Dive Theatre" video
+  installation, and displays artifacts and specimens from deep-water
+  exploration.
+sources:
+  - https://www.thincdesign.com/project/challenge-of-the-deep

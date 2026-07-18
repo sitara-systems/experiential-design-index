@@ -1,0 +1,22 @@
+id: bp-energy-center-anchorage-story-pipeline
+name: Story Pipeline
+venue: bp-energy-center-anchorage
+project_type: installation
+year_completed: 2002
+credits:
+  - firm: batwin-and-robin
+    role: content-production
+    note: "16 documentary shorts and an LED sign installation"
+technologies:
+  - LED signage
+  - documentary video
+summary: >
+  Story Pipeline, a multimedia installation of 16 documentaries at the BP
+  Energy Center, a community meeting and education center for Alaska
+  nonprofit organizations in Anchorage that opened in 2002, was produced
+  by batwin + robin; an LED sign weaves through the surrounding birch
+  forest into the building to the larger multimedia display.
+description: ""
+sources:
+  - https://www.petroleumnews.com/story/2002/09/22/news/bp-opens-71-million-energy-center/3130.html
+  - https://www.batwinandrobin.com/projects/bp-alaska-energy-center/

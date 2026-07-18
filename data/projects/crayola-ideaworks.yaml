@@ -1,0 +1,35 @@
+id: crayola-ideaworks
+name: "Crayola IDEAworks: The Creativity Exhibition"
+venue: the-franklin-institute
+project_type: traveling-exhibition
+year_completed: 2021
+status: completed
+credits:
+  - firm: agency808
+    role: exhibit-design
+    note: "Exhibition producer (no firm record yet)"
+  - firm: mad-systems
+    role: av-integration
+    note: >
+      First traveling exhibit built on a wireless QuickSilver AV platform —
+      30+ exhibits with only 7 signal cables total, plus RFID-personalized
+      visitor experience infrastructure
+technologies:
+  - wireless AV distribution
+  - RFID personalization
+  - projection
+summary: >
+  Crayola IDEAworks: The Creativity Exhibition, a 17,000 sq ft traveling
+  interactive exhibition on creativity produced with Agency808, premiered
+  at The Franklin Institute in Philadelphia on February 13, 2021, with AV
+  integration by MAD Systems, before touring North America.
+description: >
+  A 30+ exhibit touring installation in which each visitor receives a
+  personalized experience via an RFID keepsake wristband scanned at
+  stations throughout the exhibition; the AV system was built entirely on
+  a wireless version of MAD Systems' QuickSilver platform to simplify
+  load-out and setup between touring venues.
+sources:
+  - https://madsystems.com/portfolio-crayola-ideaworks.html
+  - https://www.inparkmagazine.com/crayola-ideaworks-traveling-exhibit/
+  - https://blooloop.com/museum/news/epson-crayola-ideaworks-creativity-exhibition/

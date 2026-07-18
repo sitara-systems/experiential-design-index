@@ -1,0 +1,9 @@
+id: rivers-edge-discovery-center
+name: River's Edge Discovery Center
+venue_type: visitor-center
+location:
+  city: Fort Dodge
+  state: IA
+operator: Webster County Conservation Board
+sources:
+  - https://taylorstudios.com/our-work/rivers-edge-discovery-center/

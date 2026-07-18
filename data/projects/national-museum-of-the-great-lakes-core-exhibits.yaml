@@ -1,0 +1,31 @@
+id: national-museum-of-the-great-lakes-core-exhibits
+name: National Museum of the Great Lakes Core Exhibits
+venue: national-museum-of-the-great-lakes
+project_type: new-building
+year_completed: 2014
+credits:
+  - firm: monadnock-media
+    role: media-design
+    note: "Media master planning, media experience design and production, digital interactive design and development, and technical systems design and oversight across the 12,000 sq ft museum, including the Dive to the Edmund Fitzgerald virtual-submersible interactive and the A Powerful Force orientation theater"
+  - firm: hilferty-and-associates
+    role: exhibit-design
+    note: "no firm record yet"
+technologies:
+  - GIS mapping
+  - immersive theater
+  - animation
+summary: >
+  The National Museum of the Great Lakes, a 12,000 sq ft riverfront museum
+  in Toledo, Ohio operated by the Great Lakes Historical Society, opened
+  April 26, 2014, with media and interactive experiences produced by
+  Monadnock Media and exhibit design by Hilferty & Associates.
+description: >
+  Notable installations include "Dive to the Edmund Fitzgerald," a virtual
+  submersible piloted through a 3D underwater environment to investigate
+  the Lake Superior shipwreck, and an orientation theater with projected
+  imagery over a rear-lit topographic map. The museum won an American
+  Alliance of Museums MUSE Award.
+sources:
+  - https://monadnock.org/project/national-museum-great-lakes
+  - https://en.wikipedia.org/wiki/National_Museum_of_the_Great_Lakes
+  - https://councilofamericanmaritimemuseums.org/national-museum-of-the-great-lakes-ready-to-open/

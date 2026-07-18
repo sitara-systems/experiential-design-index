@@ -1,0 +1,11 @@
+id: jordan-schnitzer-museum-of-art-wsu
+name: Jordan Schnitzer Museum of Art WSU
+venue_type: art-museum
+location:
+  city: Pullman
+  state: WA
+operator: Washington State University
+website: https://museum.wsu.edu
+sources:
+  - https://museum.wsu.edu/about-us/
+  - https://news.wsu.edu/press-release/2018/03/01/art-museum-opening/

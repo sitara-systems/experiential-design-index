@@ -1,0 +1,10 @@
+id: norton-museum-of-art
+name: Norton Museum of Art
+venue_type: art-museum
+location:
+  city: West Palm Beach
+  state: FL
+website: https://www.norton.org
+sources:
+  - https://www.norton.org
+  - https://pureandappliedstudio.com/project/keep-calm-and-carry-on-exhibition

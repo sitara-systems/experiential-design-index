@@ -1,0 +1,12 @@
+# Venue record — Door County Maritime Museum
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: door-county-maritime-museum
+name: Door County Maritime Museum
+venue_type: history-museum
+location:
+  city: Sturgeon Bay
+  state: WI
+website: https://dcmm.org
+sources:
+  - https://dcmm.org/

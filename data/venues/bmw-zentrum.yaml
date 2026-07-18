@@ -1,0 +1,11 @@
+id: bmw-zentrum
+name: BMW Zentrum
+venue_type: brand-experience-center
+location:
+  city: Greer
+  state: SC
+operator: BMW of North America
+website: https://www.bmwusfactory.com/zentrum-museum/
+sources:
+  - https://www.bmwusfactory.com/zentrum-museum/
+  - https://www.thincdesign.com/project/bmw-zentrum

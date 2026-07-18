@@ -1,0 +1,19 @@
+id: custer-state-park-bison-center-exhibits
+name: Custer State Park Bison Center Exhibits
+venue: custer-state-park-bison-center
+project_type: new-exhibition
+year_completed: 2022
+credits:
+  - firm: taylor-studios
+    role: exhibit-design
+summary: >
+  A 2,343-square-foot exhibit hall dedicated to the Custer State Park bison
+  herd in Fairburn, South Dakota, completed in 2022 by Taylor Studios for
+  South Dakota Game, Fish and Parks, distinct from the park's main visitor
+  center (`custer-state-park-visitor-center`).
+description: >
+  Low-tech, seasonally framed displays cover the natural history of bison
+  in North America, the history and management of bison in Custer State
+  Park, and the park's buffalo roundup and auction.
+sources:
+  - https://taylorstudios.com/our-work/bison-center/

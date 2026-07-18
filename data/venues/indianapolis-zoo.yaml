@@ -1,0 +1,10 @@
+id: indianapolis-zoo
+name: Indianapolis Zoo
+venue_type: aquarium-zoo
+location:
+  city: Indianapolis
+  state: IN
+website: https://www.indianapoliszoo.com
+sources:
+  - https://www.indianapoliszoo.com
+  - https://www.thincdesign.com/project/international-orangutan-center

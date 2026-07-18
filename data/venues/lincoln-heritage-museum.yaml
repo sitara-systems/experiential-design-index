@@ -1,0 +1,11 @@
+id: lincoln-heritage-museum
+name: Lincoln Heritage Museum
+venue_type: history-museum
+location:
+  city: Lincoln
+  state: IL
+operator: Lincoln College
+website: https://museum.lincolncollege.edu/
+sources:
+  - https://taylorstudios.com/our-work/lincoln-heritage-museum/
+  - https://museum.lincolncollege.edu/

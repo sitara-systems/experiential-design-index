@@ -1,0 +1,26 @@
+id: janm-transcendients
+name: "Transcendients: Heroes at Borders"
+venue: japanese-american-national-museum
+project_type: temporary-exhibition
+year_completed: 2020
+status: completed
+credits:
+  - firm: mad-systems
+    role: av-integration
+    note: "AV infrastructure for the mist-projection installation"
+technologies:
+  - mist projection
+summary: >
+  "Transcendients: Heroes at Borders," a contemporary art exhibition by
+  artist Taiji Terasaki using mist projection, opened February 1, 2020 at
+  the Japanese American National Museum in Los Angeles, with AV integration
+  by MAD Systems.
+description: >
+  The exhibition honored individuals who advocate for those facing
+  discrimination and inequality at physical and psychological borders,
+  using video projected onto mist alongside photographic weavings and
+  audience-participation elements.
+sources:
+  - https://madsystems.com/portfolio-taiji-terasaki.html
+  - https://rafu.com/2020/01/transcendients-taiji-terasaki-janm/
+  - https://www.janm.org/exhibits/transcendients

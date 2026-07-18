@@ -1,0 +1,11 @@
+id: museum-of-alabama
+name: Museum of Alabama
+venue_type: history-museum
+location:
+  city: Montgomery
+  state: AL
+operator: Alabama Department of Archives and History
+website: https://archives.alabama.gov
+sources:
+  - https://archives.alabama.gov
+  - https://www.wsfa.com/2025/11/07/museum-alabama-reopens-with-new-military-themed-gallery/

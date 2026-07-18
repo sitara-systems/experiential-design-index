@@ -1,0 +1,10 @@
+id: oakmont-country-club
+name: Oakmont Country Club
+venue_type: sports-venue
+location:
+  city: Oakmont
+  state: PA
+website: https://www.oakmontcc.org
+sources:
+  - https://www.oakmontcc.org/history
+  - https://www.peterhydedesign.com/projects/oakmont-country-club-u-s-open-exhibit/

@@ -1,0 +1,29 @@
+id: malek-west-point-visitors-center-core-exhibits
+name: Malek West Point Visitors Center Core Exhibits
+venue: malek-west-point-visitors-center
+project_type: major-renovation
+year_completed: 2017
+credits:
+  - firm: monadnock-media
+    role: media-design
+    note: "Media master planning, exhibit design collaboration, media experience design and production, digital interactive design and development, technical systems design and oversight, and immersive theater design, including a multi-screen projection introduction, a translation app, and an immersive theater with movable stone walls"
+  - firm: steve-feldman-design
+    role: exhibit-design
+    note: "no firm record yet"
+technologies:
+  - projection mapping
+  - mobile app
+  - animation
+summary: >
+  The Frederic V. Malek West Point Visitors Center at the U.S. Military
+  Academy in Highland Falls, New York, reopened in late 2017 after a
+  renovation, with media experiences produced by Monadnock Media and
+  exhibit design by Steve Feldman Design.
+description: >
+  Installations include a multi-screen projection introduction to West
+  Point's history and mission, a translation app, and an immersive theater
+  featuring movable stone walls.
+sources:
+  - https://monadnock.org/project/malek-west-point
+  - http://www.pointerview.com/2017/11/02/west-point-unveils-new-malek-visitors-center/
+  - https://www.wilsoncenter.org/article/west-point-dedicates-new-frederic-v-malek-visitor-center

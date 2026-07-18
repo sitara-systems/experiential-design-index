@@ -1,0 +1,25 @@
+id: lexington-visitor-center-exhibits
+name: Lexington Visitor Center Exhibits
+venue: lexington-visitor-center
+project_type: new-exhibition
+year_completed: 2020
+credits:
+  - firm: proun-design
+    role: graphics-wayfinding
+    note: "Exhibit graphics"
+  - firm: mystic-scenic
+    role: fabrication
+technologies:
+  - iPad-based interactive
+summary: >
+  New exhibits at the Lexington Visitor Center in Lexington, Massachusetts,
+  interpreting the April 19, 1775 battle on Lexington Green, opened in
+  2020 with graphics by Proun Design and fabrication by Mystic Scenic
+  Studios.
+description: >
+  The exhibition features a miniature diorama depicting the skirmish on
+  Lexington Green along with displays on the war's causes and global
+  consequences; an iPad-based interactive offers detailed perspectives on
+  the battle scene.
+sources:
+  - https://www.proundesign.com/cultural-history-1/lexington-visitor-center

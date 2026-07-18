@@ -1,0 +1,10 @@
+id: biogen-headquarters
+name: Biogen Headquarters
+venue_type: corporate-museum
+location:
+  city: Cambridge
+  state: MA
+operator: Biogen
+website: https://www.biogen.com
+sources:
+  - https://www.proundesign.com/science/biogen-corporate-headquarters

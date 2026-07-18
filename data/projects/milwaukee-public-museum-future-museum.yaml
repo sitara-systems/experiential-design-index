@@ -1,0 +1,28 @@
+id: milwaukee-public-museum-future-museum
+name: "Future Museum (Nature & Culture Museum of Wisconsin)"
+venue: milwaukee-public-museum
+project_type: new-building
+year_expected: 2026
+status: announced
+credits:
+  - firm: thinc-design
+    role: exhibit-design
+    note: "Exhibition planning and design for core visitor experiences"
+  - firm: ennead-architects
+    role: architecture
+  - firm: kahler-slater
+    role: architecture
+    note: "no firm record yet"
+technologies: []
+summary: >
+  The Milwaukee Public Museum's "Future Museum," a new building replacing
+  its current facility in Milwaukee, WI, is targeted to open in 2026, with
+  exhibition design by Thinc Design and architecture by Ennead Architects
+  and Kahler Slater.
+description: >
+  The new facility will present five permanent gallery themes, including
+  "Time Travel" and "Wisconsin Journey," exploring the intersections of
+  nature and culture; described as the largest cultural project in
+  Wisconsin's history.
+sources:
+  - https://www.thincdesign.com/project/nature-culture-museum-of-wisconsin

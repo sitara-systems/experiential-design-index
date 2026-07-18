@@ -1,0 +1,10 @@
+id: virginia-holocaust-museum
+name: Virginia Holocaust Museum
+venue_type: history-museum
+location:
+  city: Richmond
+  state: VA
+website: https://www.vaholocaust.org
+sources:
+  - https://www.vaholocaust.org
+  - https://rvahub.com/2024/11/07/virginia-holocaust-museum-features-interactive-biographies-with-holocaust-survivors/

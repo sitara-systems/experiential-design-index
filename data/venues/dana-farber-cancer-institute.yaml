@@ -1,0 +1,9 @@
+id: dana-farber-cancer-institute
+name: Dana-Farber Cancer Institute
+venue_type: healthcare-institution
+location:
+  city: Boston
+  state: MA
+website: https://www.dana-farber.org
+sources:
+  - https://www.jimmyfund.org/about-us/news-and-publications/press-room/jimmy-fund-press-releases/2014/boston-red-sox-and-jimmy-fund-celebrate-new-gallery-and-auditorium/

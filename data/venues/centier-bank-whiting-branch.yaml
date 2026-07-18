@@ -1,0 +1,11 @@
+id: centier-bank-whiting-branch
+name: Centier Bank Museum
+venue_type: corporate-museum
+location:
+  city: Whiting
+  state: IN
+operator: Centier Bank
+website: https://www.centier.com/about/who-we-are/centier-museum
+sources:
+  - https://www.centier.com/about/who-we-are/centier-museum
+  - https://www.cbsnews.com/chicago/news/centier-bank-museum-whiting-indiana/

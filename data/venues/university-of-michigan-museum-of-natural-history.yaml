@@ -1,0 +1,11 @@
+id: university-of-michigan-museum-of-natural-history
+name: University of Michigan Museum of Natural History
+venue_type: natural-history-museum
+location:
+  city: Ann Arbor
+  state: MI
+operator: University of Michigan
+website: https://lsa.umich.edu/ummnh
+sources:
+  - https://lsa.umich.edu/ummnh/about/history.html
+  - https://news.umich.edu/u-m-to-unveil-new-home-for-museum-of-natural-history-april-14/

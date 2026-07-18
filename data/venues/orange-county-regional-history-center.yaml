@@ -1,0 +1,9 @@
+id: orange-county-regional-history-center
+name: Orange County Regional History Center
+venue_type: history-museum
+location:
+  city: Orlando
+  state: FL
+website: https://www.thehistorycenter.org
+sources:
+  - https://www.thehistorycenter.org

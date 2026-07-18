@@ -1,0 +1,13 @@
+# Venue record — Hill Art Foundation
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: hill-art-foundation
+name: Hill Art Foundation
+venue_type: art-museum
+location:
+  city: New York
+  state: NY
+website: https://hillartfoundation.org
+sources:
+  - https://hillartfoundation.org/foundation/faq/
+  - https://hillartfoundation.org/art/exhibitions/view/lux-and-lumen/

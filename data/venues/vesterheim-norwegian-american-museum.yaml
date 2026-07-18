@@ -1,0 +1,11 @@
+id: vesterheim-norwegian-american-museum
+name: Vesterheim Norwegian-American Museum
+venue_type: history-museum
+location:
+  city: Decorah
+  state: IA
+operator: Vesterheim
+website: https://vesterheim.org
+sources:
+  - https://vesterheim.org
+  - https://vesterheim.org/vesterheim-commons-is-open/

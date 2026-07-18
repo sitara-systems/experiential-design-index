@@ -1,0 +1,11 @@
+id: malek-west-point-visitors-center
+name: Frederic V. Malek West Point Visitors Center
+venue_type: visitor-center
+location:
+  city: Highland Falls
+  state: NY
+operator: United States Military Academy
+website: https://www.westpoint.edu/west-point-visitors-center
+sources:
+  - https://www.westpoint.edu/west-point-visitors-center
+  - http://www.pointerview.com/2017/11/02/west-point-unveils-new-malek-visitors-center/

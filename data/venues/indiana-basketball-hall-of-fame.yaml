@@ -1,0 +1,10 @@
+id: indiana-basketball-hall-of-fame
+name: Indiana Basketball Hall of Fame
+venue_type: sports-venue
+location:
+  city: New Castle
+  state: IN
+website: https://hoopshall.com
+sources:
+  - https://hoopshall.com/indiana-basketball-hall-of-fame-grand-re-opening-announced/
+  - https://hoopshall.com/about-us/

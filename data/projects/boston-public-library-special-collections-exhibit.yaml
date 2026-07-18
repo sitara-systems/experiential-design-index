@@ -1,0 +1,33 @@
+id: boston-public-library-special-collections-exhibit
+name: BPL Special Collections Exhibit
+venue: boston-public-library
+project_type: new-exhibition
+year_completed: 2022
+credits:
+  - firm: finegold-alexander-architects
+    role: architecture
+    note: "Special Collections Department renovation architect; no firm record yet."
+  - firm: arrowstreet
+    role: exhibit-design
+    note: >
+      Flexible graphic exhibit system for artifact displays, mission-statement
+      panels, a "Staff Spotlight" section, and QR-code-linked interpretive
+      content; also recommended elevator-lobby wayfinding updates.
+technologies:
+  - QR codes
+summary: >
+  A flexible exhibit and graphic display system for the Boston Public
+  Library's Special Collections Department at the Central Library in Copley
+  Square, Boston, Massachusetts, designed by Arrowstreet and opened with the
+  department's renovated space in September 2022.
+description: >
+  The $15.7 million, City-funded renovation of the Special Collections
+  Department (architecture by Finegold Alexander Architects) reopened in
+  September 2022 with a new reading room and lobby. Arrowstreet designed the
+  accompanying exhibit system for curated artifacts — rare books, artwork,
+  and historical items — using bold color panels to anchor cases, a "Staff
+  Spotlight" section, and QR codes linking to extended content, plus
+  wayfinding recommendations for the adjoining elevator lobby.
+sources:
+  - https://www.arrowstreet.com/portfolio/bpl-special-collections-exhibit/
+  - https://www.bpl.org/news/special-collections-renovation/

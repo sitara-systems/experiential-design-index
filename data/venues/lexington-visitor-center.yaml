@@ -1,0 +1,12 @@
+# Venue record — Lexington Visitor Center
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: lexington-visitor-center
+name: Lexington Visitor Center
+venue_type: visitor-center
+location:
+  city: Lexington
+  state: MA
+website: https://www.proundesign.com/cultural-history-1/lexington-visitor-center
+sources:
+  - https://www.proundesign.com/cultural-history-1/lexington-visitor-center
