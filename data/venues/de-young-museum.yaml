@@ -1,0 +1,10 @@
+id: de-young-museum
+name: de Young Museum
+venue_type: art-museum
+location:
+  city: San Francisco
+  state: CA
+operator: Fine Arts Museums of San Francisco
+website: https://deyoung.famsf.org
+sources:
+  - https://www.famsf.org/press-room/the-fine-arts-museums-of-san-francisco-partner-with-yves-behars-fuseproject-and-tellart-to-premiere-de-youngsters-studio-a-new-interactive-childrens-gallery-at-the-de-young-museum

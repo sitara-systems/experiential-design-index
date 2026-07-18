@@ -1,0 +1,10 @@
+id: holocaust-museum-la
+name: Holocaust Museum LA
+venue_type: history-museum
+location:
+  city: Los Angeles
+  state: CA
+website: https://www.holocaustmuseumla.org
+sources:
+  - https://en.wikipedia.org/wiki/Holocaust_Museum_LA
+  - https://www.architecturalrecord.com/articles/7865-los-angeles-museum-of-the-holocaust

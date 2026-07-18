@@ -1,0 +1,9 @@
+id: independence-seaport-museum
+name: Independence Seaport Museum
+venue_type: history-museum
+location:
+  city: Philadelphia
+  state: PA
+website: https://www.phillyseaport.org
+sources:
+  - https://www.phillyseaport.org

@@ -1,0 +1,20 @@
+id: national-aquarium-blue-wonders
+name: Blue Wonders
+venue: national-aquarium
+project_type: installation
+year_completed: 2013
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Six touchscreen stations composing collaborative wave-animation phrases about water"
+  - firm: cambridgeseven
+    role: exhibit-design
+technologies:
+  - touchscreen collaborative display
+summary: >
+  Blue Wonders, an interactive touchscreen installation at the National
+  Aquarium in Baltimore, opened in 2013; RLMG designed the media and
+  soundscape, with exhibit design by CambridgeSeven.
+description: ""
+sources:
+  - https://www.rlmg.com/work/blue-wonders

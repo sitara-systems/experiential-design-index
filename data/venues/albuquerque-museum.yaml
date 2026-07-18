@@ -1,0 +1,9 @@
+id: albuquerque-museum
+name: Albuquerque Museum
+venue_type: history-museum
+location:
+  city: Albuquerque
+  state: NM
+website: https://www.albuquerquemuseum.org
+sources:
+  - https://www.albuquerquemuseum.org

@@ -1,0 +1,10 @@
+id: 151-north-franklin
+name: 151 North Franklin
+venue_type: other
+location:
+  city: Chicago
+  state: IL
+operator: The John Buck Company
+sources:
+  - https://esidesign.com/work/151-north-franklin-light-installation/
+  - https://www.codaworx.com/projects/sensing-change-the-john-buck-company/

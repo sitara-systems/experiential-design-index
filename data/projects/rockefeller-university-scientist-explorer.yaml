@@ -1,0 +1,35 @@
+id: rockefeller-university-scientist-explorer
+name: Scientist Explorer
+venue: rockefeller-university
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: c-and-g-partners
+    role: media-design
+    note: >
+      C&G Partners' own portfolio credits the firm as designer/developer;
+      The Rockefeller University's press coverage instead credits the
+      project to its internal Communications and Public Affairs office
+      without naming an outside design firm. Both are public sources; kept
+      per editorial policy (a firm's self-published portfolio counts as a
+      source) but flagged as a partial attribution conflict rather than a
+      confirmed joint credit.
+technologies:
+  - interactive touch screen
+  - biographical database
+summary: >
+  Scientist Explorer, an interactive touch-screen directory installed on the
+  A-level of the Collaborative Research Center at The Rockefeller University
+  in New York City, launched in December 2019, presenting biographies of
+  scientists who worked in the adjoining Smith and Flexner Halls over the
+  preceding century.
+description: >
+  The circular touch-screen kiosk lets visitors filter roughly 136 scientists
+  by name, field of study, awards and honors, or institutional timeline, with
+  individual biography pages built around career timelines and building
+  associations. The interface uses a playful, chemical-particle-inspired
+  motion-graphics palette and a circular form intended to evoke a magnifying
+  glass and a petri dish.
+sources:
+  - https://www.cgpartnersllc.com/projects/scientist-explorer-interactive-touch-screen/
+  - https://www.rockefeller.edu/news/27012-collaborative-research-center-installation-bridges-past-and-present-scientists/

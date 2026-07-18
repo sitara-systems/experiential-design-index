@@ -1,0 +1,32 @@
+id: delta-terminal-c-laguardia-departing-impressions
+name: "Departing Impressions"
+venue: delta-terminal-c-laguardia
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: esi-design
+    role: media-design
+    note: "Concept and creative direction for the 34-panel lenticular digital mural"
+  - firm: standardvision
+    role: av-integration
+    note: "no firm record yet"
+  - firm: dimensional-worldwide
+    role: fabrication
+    note: "no firm record yet"
+technologies:
+  - lenticular LED display
+  - real-time flight data visualization
+summary: >
+  "Departing Impressions," a 34-panel lenticular digital art installation in
+  the departures hall of Delta Air Lines' new Terminal C at LaGuardia
+  Airport in New York, opened with the terminal in June 2022, designed by
+  ESI Design with StandardVision and Dimensional Worldwide.
+description: >
+  The data-driven mural draws on live Delta flight data to depict the
+  airline's North American destinations, updating in real time as flights
+  depart; it welcomes passengers into Terminal C's main departure hall as
+  part of Delta's $4 billion terminal rebuild at LaGuardia.
+sources:
+  - https://news.delta.com/delta-debuts-dazzling-terminal-c-facility-new-yorks-laguardia-airport
+  - https://www.sixteen-nine.net/2022/06/24/here-are-details-and-video-of-that-stunning-lenticular-led-wall-at-rebuilt-laguardia-airport/
+  - https://esi.nbbj.com/work/delta-lga-terminal-c-media-experience

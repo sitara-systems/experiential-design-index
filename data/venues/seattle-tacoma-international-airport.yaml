@@ -1,0 +1,9 @@
+id: seattle-tacoma-international-airport
+name: Seattle-Tacoma International Airport
+venue_type: other
+location:
+  city: SeaTac
+  state: WA
+operator: Port of Seattle
+sources:
+  - https://studiomatthews.com/project/pilchuck-glass-school/

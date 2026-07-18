@@ -1,0 +1,29 @@
+id: agua-caliente-cultural-museum-core
+name: Agua Caliente Cultural Museum
+venue: agua-caliente-cultural-museum
+project_type: new-building
+year_completed: 2023
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "360-degree Creation and Migration theater and projection-mapped Coachella Valley timeline"
+  - firm: bbi-engineering
+    role: av-integration
+    note: "No firm record yet"
+  - firm: cinnabar
+    role: fabrication
+    note: "No firm record yet"
+  - firm: pacific-studio
+    role: fabrication
+technologies:
+  - 360-degree theater
+  - projection mapping
+summary: >
+  The Agua Caliente Cultural Museum, a new tribal cultural museum and plaza
+  in Palm Springs, California operated by the Agua Caliente Band of Cahuilla
+  Indians, opened in 2023; RLMG produced the immersive media, with AV
+  integration by BBI Engineering and fabrication by Cinnabar and Pacific
+  Studio.
+description: ""
+sources:
+  - https://www.rlmg.com/work/agua-caliente-cultural-museum

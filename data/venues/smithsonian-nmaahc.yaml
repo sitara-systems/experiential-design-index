@@ -1,0 +1,10 @@
+id: smithsonian-nmaahc
+name: Smithsonian National Museum of African American History and Culture
+venue_type: history-museum
+location:
+  city: Washington
+  state: DC
+operator: Smithsonian Institution
+website: https://nmaahc.si.edu
+sources:
+  - https://nmaahc.si.edu

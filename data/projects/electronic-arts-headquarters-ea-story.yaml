@@ -1,0 +1,33 @@
+id: electronic-arts-headquarters-ea-story
+name: "EA Story"
+venue: electronic-arts-headquarters
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: dome-collective
+    role: media-design
+    note: "Strategy, creative direction, and design of an interactive wall displaying box artwork from over 1,200 games spanning EA's 40-year history, with mobile-scan access to archival content"
+  - firm: aimee-stevland-design
+    role: graphics-wayfinding
+    note: "Doodle-style tribute illustration mural on the exterior wall honoring iconic EA titles, characters, and franchises; illustration, photo retouching/restoration. No firm record yet (individual designer, below 3-project inclusion bar)"
+technologies:
+  - projection mapping
+  - interactive wall / touch selection
+  - mobile scan-to-content
+summary: >
+  EA Story, an interactive gallery installation at Electronic Arts headquarters
+  in Redwood City, California, opened in 2022 for the company's 40th
+  anniversary, with strategy, creative direction, and design by Dome and
+  exterior tribute illustration by designer Aimee Stevland.
+description: >
+  The installation features an interactive wall displaying box artwork from
+  more than 1,200 games released across EA's four-decade history, letting
+  visitors filter by genre, year, platform, or title and scan physical game
+  covers with a mobile device to access archival content. Dome processed an
+  inventory of more than 20,000 historical images for the piece. The project
+  received an Honorable Mention in the Experience Design category of Fast
+  Company's 2023 Innovation by Design Awards.
+sources:
+  - https://www.domecollective.lynnkiang.com/ears.html
+  - https://aimeestevland.com/portfolio/electronic-arts-historical-exhibit/
+  - https://aimeebruckner.com/2022/06/electronic-arts-40th-anniversary/

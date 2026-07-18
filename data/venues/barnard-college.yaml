@@ -1,0 +1,9 @@
+id: barnard-college
+name: Barnard College
+venue_type: academic-institution
+location:
+  city: New York
+  state: NY
+website: https://barnard.edu
+sources:
+  - https://barnard.edu/news/barnard-college-celebrates-grand-opening-milstein-center

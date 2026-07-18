@@ -1,0 +1,9 @@
+id: comed-chicago-north-community-center
+name: ComEd Chicago North Community Center
+venue_type: brand-experience-center
+location:
+  city: Chicago
+  state: IL
+operator: Commonwealth Edison
+sources:
+  - https://www.rlmg.com/work/powering-lives

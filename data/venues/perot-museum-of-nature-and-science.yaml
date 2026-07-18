@@ -1,0 +1,9 @@
+id: perot-museum-of-nature-and-science
+name: Perot Museum of Nature and Science
+venue_type: natural-history-museum
+location:
+  city: Dallas
+  state: TX
+website: https://perotmuseum.org
+sources:
+  - https://perotmuseum.org

@@ -1,0 +1,11 @@
+id: mob-museum
+name: The Mob Museum
+venue_type: history-museum
+location:
+  city: Las Vegas
+  state: NV
+operator: National Museum of Organized Crime and Law Enforcement
+website: https://themobmuseum.org
+sources:
+  - https://themobmuseum.org/
+  - https://en.wikipedia.org/wiki/Mob_Museum

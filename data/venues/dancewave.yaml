@@ -1,0 +1,10 @@
+id: dancewave
+name: Dancewave
+venue_type: cultural-center
+location:
+  city: Brooklyn
+  state: NY
+operator: Dancewave
+website: https://dancewave.org
+sources:
+  - https://studiojoseph.com/work/dancewave

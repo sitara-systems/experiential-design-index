@@ -1,0 +1,8 @@
+id: twelfth-avenue-arts
+name: 12th Avenue Arts
+venue_type: cultural-center
+location:
+  city: Seattle
+  state: WA
+sources:
+  - https://studiomatthews.com/project/12th-avenue-arts/

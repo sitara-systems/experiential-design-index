@@ -1,0 +1,9 @@
+id: world-golf-hall-of-fame-pinehurst
+name: Golf House Pinehurst (USGA Experience and World Golf Hall of Fame)
+venue_type: sports-venue
+location:
+  city: Pinehurst
+  state: NC
+operator: United States Golf Association
+sources:
+  - https://www.usga.org/content/usga/home-page/articles/2024/03/new-world-golf-hall-of-fame-hilary-cronheim-pinehurst.html

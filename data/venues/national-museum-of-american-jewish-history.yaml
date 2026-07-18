@@ -1,0 +1,10 @@
+id: national-museum-of-american-jewish-history
+name: Weitzman National Museum of American Jewish History
+venue_type: history-museum
+location:
+  city: Philadelphia
+  state: PA
+website: https://theweitzman.org
+sources:
+  - https://theweitzman.org/about-us/
+  - https://en.wikipedia.org/wiki/Weitzman_National_Museum_of_American_Jewish_History

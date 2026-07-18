@@ -1,0 +1,34 @@
+id: mississippi-arts-and-entertainment-experience-max
+name: Mississippi Arts + Entertainment Experience (The MAX)
+venue: mississippi-arts-and-entertainment-experience
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: lpk-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: gallagher-and-associates
+    role: content-production
+  - firm: history-associates
+    role: interpretive-planning
+    note: Research and image acquisition
+  - firm: available-light
+    role: lighting-design
+  - firm: solomon-group
+    role: fabrication
+technologies:
+  - projection mapping
+  - machine learning-driven video
+summary: >
+  The Mississippi Arts + Entertainment Experience (The MAX), a 16,000-square-
+  foot interactive museum, opened April 28, 2018 in Meridian, Mississippi,
+  with exhibit design and content development by Gallagher & Associates and
+  fabrication by Solomon Group.
+description: >
+  Roland, Woolworth and Associates is credited as A/V consultant per
+  Gallagher & Associates' own project page; no firm record yet.
+sources:
+  - https://gallagherdesign.com/project/max/
+  - https://www.historyassociates.com/history-associates-conducts-research-and-image-acquisition-for-striking-new-museum-mississippi-arts-entertainment-experience/

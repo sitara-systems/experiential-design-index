@@ -1,0 +1,9 @@
+id: knock-knock-childrens-museum
+name: Knock Knock Children's Museum
+venue_type: childrens-museum
+location:
+  city: Baton Rouge
+  state: LA
+website: https://knockknockmuseum.org
+sources:
+  - https://knockknockmuseum.org/about/

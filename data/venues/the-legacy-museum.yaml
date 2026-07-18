@@ -1,0 +1,10 @@
+id: the-legacy-museum
+name: The Legacy Museum
+venue_type: history-museum
+location:
+  city: Montgomery
+  state: AL
+operator: Equal Justice Initiative
+website: https://legacysites.eji.org
+sources:
+  - https://eji.org/news/museum-and-memorial-opening-april-26-2018/

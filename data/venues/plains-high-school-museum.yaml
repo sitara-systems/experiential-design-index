@@ -1,0 +1,10 @@
+id: plains-high-school-museum
+name: Plains High School Museum
+venue_type: visitor-center
+location:
+  city: Plains
+  state: GA
+operator: Jimmy Carter National Historical Park / National Park Service
+website: https://www.nps.gov/jica/planyourvisit/plains-hs.htm
+sources:
+  - https://www.nps.gov/jica/planyourvisit/plains-hs.htm

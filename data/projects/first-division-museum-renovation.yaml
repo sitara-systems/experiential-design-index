@@ -1,0 +1,38 @@
+id: first-division-museum-renovation
+name: First Division Museum Renovation and Expansion
+venue: first-division-museum
+project_type: major-renovation
+year_completed: 2017
+credits:
+  - firm: luci-creative
+    role: exhibit-design
+    note: "Exhibit development, design, and production management; no firm record yet"
+  - firm: unified-field
+    role: media-design
+    note: "Interactive and media content development"
+  - firm: northern-light-productions
+    role: content-production
+    note: "Interactive and media content development"
+technologies:
+  - virtual reality
+  - CGI vehicle simulation
+  - interactive kiosks
+summary: >
+  The First Division Museum at Cantigny Park in Wheaton, Illinois,
+  reopened August 26, 2017 after an eight-million-dollar, ten-month
+  renovation and expansion coinciding with the 100th anniversary of the
+  1st Infantry Division; exhibit development and design by Luci Creative,
+  with interactive and media content by Northern Light Productions and
+  Unified Field.
+description: >
+  The renovation added the permanent "Duty First" exhibit and reimagined
+  the "First in War" gallery, extending the museum's story from the
+  Vietnam War to the present. Interactive features include a full-scale
+  Black Hawk helicopter with VR headsets simulating a house raid in Iraq
+  and a Bradley Fighting Vehicle simulation of a Gulf War tank battle,
+  built with CGI using footage of actual First Division soldiers.
+sources:
+  - https://www.army.mil/article/193273/first_division_museum_reopens_tells_100_years_of_big_red_one_stories
+  - https://www.livedesignonline.com/news/massive-update-from-luci-creative-brings-first-division-museum-dynamic-new-life
+  - https://www.prnewswire.com/news-releases/first-division-museum-grand-reopening-set-for-august-26-300504148.html
+  - https://nlprod.com/item/first-division-museum/

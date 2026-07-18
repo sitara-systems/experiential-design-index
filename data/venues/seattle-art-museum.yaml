@@ -1,0 +1,10 @@
+id: seattle-art-museum
+name: Seattle Art Museum
+venue_type: art-museum
+location:
+  city: Seattle
+  state: WA
+website: https://www.seattleartmuseum.org
+sources:
+  - https://art.seattleartmuseum.org/objects/38896/mirror
+  - https://www.e-architect.com/seattle/mirror-seattle-art-museum

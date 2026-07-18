@@ -1,0 +1,9 @@
+id: jpl-von-karman-visitor-center
+name: von Kármán Visitor Center
+venue_type: visitor-center
+location:
+  city: Pasadena
+  state: CA
+operator: NASA Jet Propulsion Laboratory (Caltech)
+sources:
+  - https://www.jpl.nasa.gov/events/tours/

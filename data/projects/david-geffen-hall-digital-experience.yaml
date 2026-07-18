@@ -1,0 +1,35 @@
+id: david-geffen-hall-digital-experience
+name: Digital Experience
+venue: david-geffen-hall
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: esi-design
+    role: media-design
+    note: "Experience design lead for the digital layer; project realized in support of ESI Design"
+  - firm: av-c
+    role: media-design
+    note: "Designed and implemented 22 digital elements across the lobby, Welcome Center, Sidewalk Studio, and Music Box"
+  - firm: tod-williams-billie-tsien-architects
+    role: architecture
+    note: "Architect for the renovated public/social spaces (Karen and Richard LeFrak Lobby and related areas); no firm record yet"
+  - firm: diamond-schmitt
+    role: architecture
+    note: "Architect for the reimagined concert hall itself; no firm record yet"
+technologies:
+  - interactive display
+  - digital signage
+  - live streaming
+summary: >
+  David Geffen Hall at Lincoln Center in New York reopened October 8, 2022
+  after a $550 million renovation; ESI Design and AV&C designed and
+  implemented a 22-element digital experience layer across the renovated
+  lobby, Welcome Center, and Sidewalk Studio, alongside architecture by Tod
+  Williams Billie Tsien Architects (public spaces) and Diamond Schmitt
+  (concert hall).
+description: ""
+sources:
+  - https://www.av-controls.com/dgh
+  - https://esi.nbbj.com
+  - https://www.architecturalrecord.com/articles/15955-diamond-schmitt-and-tod-williams-billie-tsien-architects-reimagine-david-geffen-hall
+  - https://www.lincolncenter.org/venue/david-geffen-hall/info/welcome-center

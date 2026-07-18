@@ -1,0 +1,11 @@
+id: first-division-museum
+name: First Division Museum at Cantigny Park
+venue_type: history-museum
+location:
+  city: Wheaton
+  state: IL
+operator: Cantigny Park / McCormick Foundation
+website: https://www.fdmuseum.org/
+sources:
+  - https://www.army.mil/article/193273/first_division_museum_reopens_tells_100_years_of_big_red_one_stories
+  - https://www.livedesignonline.com/news/massive-update-from-luci-creative-brings-first-division-museum-dynamic-new-life

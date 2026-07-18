@@ -1,0 +1,25 @@
+id: perot-museum-being-human-hall
+name: Being Human Hall
+venue: perot-museum-of-nature-and-science
+project_type: exhibition-refresh
+year_completed: 2018
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "20 interactive installations including a face-swap ancestor station and motion-sensing 'human dance' wall"
+  - firm: design-and-production-incorporated
+    role: fabrication
+  - firm: the-prd-group
+    role: exhibit-design
+    note: "No firm record yet"
+technologies:
+  - motion sensing
+  - facial mapping
+summary: >
+  Being Human Hall, a redesigned exhibition on human traits at the Perot
+  Museum of Nature and Science in Dallas, opened in 2018; RLMG designed 20
+  interactive installations, with fabrication by Design and Production
+  Incorporated.
+description: ""
+sources:
+  - https://www.rlmg.com/work/being-human-hall

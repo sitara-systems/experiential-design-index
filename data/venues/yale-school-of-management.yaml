@@ -1,0 +1,11 @@
+id: yale-school-of-management
+name: Edward P. Evans Hall, Yale School of Management
+venue_type: academic-institution
+location:
+  city: New Haven
+  state: CT
+operator: Yale University
+website: https://som.yale.edu/about/plan-a-visit/about-the-building
+sources:
+  - https://www.fosterandpartners.com/projects/edward-p-evans-hall-yale-school-of-management
+  - https://en.wikipedia.org/wiki/Edward_P._Evans_Hall

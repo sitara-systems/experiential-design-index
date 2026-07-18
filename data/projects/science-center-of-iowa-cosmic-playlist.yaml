@@ -1,0 +1,23 @@
+id: science-center-of-iowa-cosmic-playlist
+name: Cosmic Playlist
+venue: science-center-of-iowa
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Interactive kiosk system letting visitors curate their own planetarium show"
+  - firm: cosm
+    role: technical-consulting
+    note: "Planetarium dome technology provider; no firm record yet"
+technologies:
+  - interactive kiosk
+  - dome theater projection
+summary: >
+  Cosmic Playlist, an interactive planetarium pre-show kiosk system at the
+  Science Center of Iowa in Des Moines, opened in 2024; RLMG designed the
+  software letting visitors personalize their Star Theater show, working
+  with dome technology provider Cosm.
+description: ""
+sources:
+  - https://www.rlmg.com/work/cosmic-playlist

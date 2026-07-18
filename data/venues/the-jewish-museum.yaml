@@ -1,0 +1,9 @@
+id: the-jewish-museum
+name: The Jewish Museum
+venue_type: art-museum
+location:
+  city: New York
+  state: NY
+website: https://thejewishmuseum.org
+sources:
+  - https://studiojoseph.com/work/kehinde-wiley-the-world-stage-israel

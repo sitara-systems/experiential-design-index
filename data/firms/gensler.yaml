@@ -1,0 +1,33 @@
+id: gensler
+name: Gensler
+aka: []
+website: https://www.gensler.com
+hq:
+  city: San Francisco
+  state: CA
+other_offices: []
+founded: 1965
+roles:
+  - architecture
+  - master-planning
+  - graphics-wayfinding
+  - media-design
+status: active
+status_basis: >
+  Large, active global architecture practice with continuously updated
+  project portfolio; multiple museum/cultural/institutional and airport
+  projects credited in this dataset (AKC Museum of the Dog 2020 SEGD Award,
+  Ford Foundation Center for Social Justice wayfinding 2018, New Jersey Hall
+  of Fame Learning Center, JetBlue Terminal 5/T5i at JFK, Jackie Robinson
+  Museum Ebbets Field interactive via the Gensler DXD digital-experience
+  studio, 2022).
+status_verified: 2026-07-18
+summary: >
+  Gensler is a global architecture, design, and planning firm headquartered
+  in San Francisco, founded in 1965, working across workplace, aviation,
+  cultural, and institutional building types including museum and airport
+  projects credited in this index.
+sources:
+  - https://www.gensler.com/about
+  - https://en.wikipedia.org/wiki/Gensler
+  - https://www.gensler.com/projects/jetblue-jfk-t5i-t5-expansion

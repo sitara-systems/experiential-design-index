@@ -1,0 +1,11 @@
+id: north-cascades-visitor-center
+name: North Cascades Visitor Center
+venue_type: visitor-center
+location:
+  city: Newhalem
+  state: WA
+operator: National Park Service
+website: https://www.nps.gov/noca/planyourvisit/visitorcenters.htm
+sources:
+  - https://www.nps.gov/noca/planyourvisit/visitorcenters.htm
+  - https://www.goskagit.com/news/local_news/short-film-on-north-cascades-national-park-to-debut-saturday/article_1c827052-f923-11ee-b5b2-933c53eae5f5.html

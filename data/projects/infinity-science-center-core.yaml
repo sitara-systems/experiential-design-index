@@ -1,0 +1,23 @@
+id: infinity-science-center-core
+name: INFINITY Science Center Interactive Exhibits
+venue: infinity-science-center
+project_type: new-exhibition
+year_completed: 2018
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Deep Ocean Explorer, Hurricane Simulator, and Inundation Station installations"
+  - firm: designforce
+    role: exhibit-design
+    note: "No firm record yet"
+technologies:
+  - multi-player interactive game
+  - projection mapping
+summary: >
+  Interactive exhibits at INFINITY Science Center in Pearlington,
+  Mississippi, including the Deep Ocean Explorer submarine game and the
+  Hurricane Simulator, opened in 2018; RLMG designed the media with exhibit
+  design by DesignForce.
+description: ""
+sources:
+  - https://www.rlmg.com/work/infinity-science-center

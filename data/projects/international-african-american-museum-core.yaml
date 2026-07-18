@@ -1,0 +1,28 @@
+id: international-african-american-museum-core
+name: International African American Museum
+venue: international-african-american-museum
+project_type: new-building
+year_completed: 2023
+credits:
+  - firm: solomon-group
+    role: technical-consulting
+    note: "Project consultation and value engineering during design development"
+  - firm: solomon-group
+    role: fabrication
+  - firm: solomon-group
+    role: av-integration
+technologies:
+  - artifact display
+  - AV systems
+summary: >
+  The International African American Museum, a 40,000-square-foot museum at
+  Charleston, South Carolina's historic Gadsden's Wharf, opened June 27,
+  2023; Solomon Group served as project consultant, exhibit fabricator, and
+  AV integrator during late-stage design development and installation.
+description: >
+  The museum received a 2025 Thea Award for Outstanding Achievement from the
+  Themed Entertainment Association.
+sources:
+  - https://solomongroup.com/projects/the-international-african-american-museum
+  - https://iaamuseum.org/
+  - https://www.forbes.com/sites/chaddscott/2023/06/28/international-african-american-museum-opens-in-charleston-sc/

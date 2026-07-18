@@ -1,0 +1,21 @@
+id: view-boston-core
+name: View Boston
+venue: view-boston
+project_type: new-building
+year_completed: 2023
+credits:
+  - firm: electrosonic
+    role: av-integration
+    note: Blue-sky technology concepts, AV and control system design, and system integration
+technologies:
+  - projection mapping
+  - virtual itinerary interactives
+summary: >
+  View Boston, a 59,000 sq ft observation deck atop the Prudential Tower in
+  Boston, opened June 15, 2023; Electrosonic provided technology concepting,
+  AV and control system design, and systems integration for the multi-floor
+  experience.
+description: ""
+sources:
+  - https://www.prudentialcenter.com/2023/06/20/view-boston-is-now-open/
+  - https://www.electrosonic.com/projects/view-boston

@@ -1,0 +1,10 @@
+id: missouri-historical-society
+name: Missouri History Museum
+venue_type: history-museum
+location:
+  city: St. Louis
+  state: MO
+operator: Missouri Historical Society
+website: https://mohistory.org
+sources:
+  - https://mohistory.org

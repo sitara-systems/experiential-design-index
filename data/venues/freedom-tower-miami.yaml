@@ -1,0 +1,10 @@
+id: freedom-tower-miami
+name: Freedom Tower
+venue_type: history-museum
+location:
+  city: Miami
+  state: FL
+operator: Miami Dade College
+website: https://www.mdc.edu/freedomtower/
+sources:
+  - https://news.mdc.edu/pressrelease/miami-dade-colleges-historic-freedom-tower-to-reopen-in-september-2025-marking-100-years-as-a-symbol-of-hope-and-freedom/

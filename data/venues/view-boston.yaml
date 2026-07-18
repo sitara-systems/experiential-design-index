@@ -1,0 +1,10 @@
+id: view-boston
+name: View Boston
+venue_type: themed-attraction
+location:
+  city: Boston
+  state: MA
+operator: BXP
+website: https://viewboston.com
+sources:
+  - https://www.prudentialcenter.com/2023/06/20/view-boston-is-now-open/

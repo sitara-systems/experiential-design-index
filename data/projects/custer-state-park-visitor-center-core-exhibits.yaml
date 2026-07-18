@@ -1,0 +1,22 @@
+id: custer-state-park-visitor-center-core-exhibits
+name: Custer State Park Visitor Center Interactives
+venue: custer-state-park-visitor-center
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: second-story
+    role: media-design
+    note: >
+      A large interactive topographic map table and a depth-sensing,
+      proximity-triggered bison-safety installation
+technologies:
+  - interactive map table
+  - depth-sensing proximity trigger
+summary: >
+  Two interactive installations at the Custer State Park Visitor Center in
+  South Dakota, opened May 2016, were designed by Second Story: a
+  topographic map table for trip planning and a proximity-triggered
+  installation teaching visitors to safely view the park's bison herds.
+description: ""
+sources:
+  - https://2s-archive.rzrfs.com/work/custer

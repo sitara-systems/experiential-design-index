@@ -1,0 +1,9 @@
+id: alexandria-eastlake-life-sciences-campus
+name: Alexandria Eastlake Life Sciences Campus
+venue_type: other
+location:
+  city: Seattle
+  state: WA
+operator: Alexandria Real Estate Equities
+sources:
+  - https://studiomatthews.com/project/alexandria-eastlake/

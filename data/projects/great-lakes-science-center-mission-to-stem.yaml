@@ -1,0 +1,22 @@
+id: great-lakes-science-center-mission-to-stem
+name: Mission to STEM
+venue: great-lakes-science-center
+project_type: installation
+year_completed: 2017
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Mobile app guiding visitors through the NASA Glenn Visitor Center with AR challenges"
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - mobile app
+  - augmented reality
+summary: >
+  Mission to STEM, an AI-guided mobile app for the NASA Glenn Visitor Center
+  at the Great Lakes Science Center in Cleveland, launched in 2017; RLMG
+  designed the app with Chicago Scenic.
+description: ""
+sources:
+  - https://www.rlmg.com/work/mission-to-stem

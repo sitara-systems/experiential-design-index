@@ -1,0 +1,10 @@
+id: paul-w-bryant-museum
+name: Paul W. Bryant Museum
+venue_type: sports-venue
+location:
+  city: Tuscaloosa
+  state: AL
+operator: University of Alabama
+website: https://bryantmuseum.com
+sources:
+  - https://bryantmuseum.com

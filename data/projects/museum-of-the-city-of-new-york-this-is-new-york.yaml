@@ -6,13 +6,28 @@ year_completed: 2023
 credits:
   - firm: studio-joseph
     role: architecture
-    note: "No firm record yet"
+    note: "Architectural Design, per MCNY's own credit list"
   - firm: dome-collective
     role: media-design
-    note: "Conceived, designed, and produced three interactive media installations: a projection-mapped title wall, a digital bookshelf, and 'Songs of New York,' a five-borough interactive sound installation"
+    note: "Conceived, designed, and produced three interactive media installations: a projection-mapped title wall, a digital bookshelf, and 'Songs of New York,' a five-borough interactive sound installation; credited by MCNY as 'Interactive Design'"
   - firm: southside-design-build
     role: fabrication
     note: "No firm record yet"
+  - firm: the-cuttlefish
+    role: av-integration
+    note: "Audio Visual Integration and Installation, per MCNY's own credit list and the firm's own portfolio page. No firm record yet"
+  - firm: radicalmedia
+    role: content-production
+    note: "Produced the 'You Are Here' interactive component, per MCNY's own credit list. No firm record yet"
+  - firm: technical-artistry
+    role: lighting-design
+    note: "Lighting Design and Installation, per MCNY's own credit list. No firm record yet"
+  - firm: james-sanders-studio
+    role: interpretive-planning
+    note: "Curated the 'Scenes from the City' component, per MCNY's own credit list; closest vocabulary fit for a curatorial credit. No firm record yet"
+  - firm: outpost-digital-ny
+    role: content-production
+    note: "Post-production services, per MCNY's own credit list. No firm record yet"
 technologies:
   - projection mapping
   - interactive sound installation
@@ -23,8 +38,18 @@ summary: >
   city's legacy in art and pop culture, opened May 26, 2023, with
   architectural design by Studio Joseph, interactive media design by Dome,
   and fabrication by Southside Design + Build.
-description: ""
+description: >
+  MCNY's own credit list for the exhibition also names Williams Brothers
+  (gallery preparation and painting), several reproduction/graphics-printing
+  vendors (Creative Graphic Services, Digital Data Depot, Full Point
+  Graphics, Laumont Photographics, Tony Vaccaro Studio), type foundry Dinamo
+  GmbH (exhibition font, non-US), and JT Robinette (art and artifacts
+  collections management, an individual) — omitted from credits above as
+  print/production vendors and an individual collections manager rather than
+  design/production firms under the roles vocabulary, per research
+  methodology's target-firm criteria.
 sources:
   - https://www.mcny.org/this-is-new-york-behind-the-scenes
   - https://www.mcny.org/exhibition/new-york-100
   - https://news.artnet.com/art-world/this-is-new-york-museum-of-the-city-of-new-york-2316920
+  - https://www.thecuttlefish.com/portfolio/this-is-new-york

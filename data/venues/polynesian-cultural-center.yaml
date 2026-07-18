@@ -1,0 +1,9 @@
+id: polynesian-cultural-center
+name: Polynesian Cultural Center
+venue_type: cultural-center
+location:
+  city: Laie
+  state: HI
+website: https://www.polynesia.com
+sources:
+  - https://www.digitalcinemareport.com/article/hawaii%E2%80%99s-polynesian-center-now-features-4d-digital-cinema-theatre

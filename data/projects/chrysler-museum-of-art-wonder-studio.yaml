@@ -1,0 +1,29 @@
+id: chrysler-museum-of-art-wonder-studio
+name: Wonder Studio
+venue: chrysler-museum-of-art
+project_type: new-exhibition
+year_completed: 2018
+credits:
+  - firm: plus-and-greater-than
+    role: exhibit-design
+  - firm: upswell
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: usd-design-mach-consulting
+    role: technical-consulting
+    note: "Bruce Wyman; interactive/media technology consulting; no firm record yet"
+technologies:
+  - interactive stations
+  - periscopes and ear horns (analog interactives)
+summary: >
+  Wonder Studio, the Chrysler Museum of Art's first interactive family
+  gallery, opened in Norfolk, Virginia on July 14, 2018, designed by Upswell
+  and Plus And Greater Than with technology consulting from USD Design |
+  MACH Consulting.
+description: ""
+sources:
+  - https://chrysler.org/the-chrysler-museum-of-art-opens-its-first-interactive-gallery-for-families/
+  - https://chrysler.org/art/wonder-studio/
+  - https://upswell.studio/project/the-wonder-studio/
+  - https://www.usd-mach.com/portfolio-item/chrysler-museum-of-art-wonder-studio/
+  - https://www.plusandgreaterthan.com/projects/building-stories-24d5z-gml9e-7h884

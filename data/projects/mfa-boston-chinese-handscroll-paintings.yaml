@@ -1,0 +1,20 @@
+id: mfa-boston-chinese-handscroll-paintings
+name: Chinese Handscroll Paintings Interactive
+venue: museum-of-fine-arts-boston
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "High-resolution scroll-viewing interactive for six Song Dynasty handscroll paintings"
+technologies:
+  - high-resolution imaging
+  - game engine
+summary: >
+  An interactive digital viewer for six Song Dynasty Chinese handscroll
+  paintings at the Museum of Fine Arts, Boston opened in 2016; RLMG
+  designed the interactive using high-resolution photography and gaming
+  engine technology.
+description: ""
+sources:
+  - https://www.rlmg.com/work/mfa-boston-chinese-handscroll-paintings

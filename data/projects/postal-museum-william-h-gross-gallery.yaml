@@ -1,0 +1,23 @@
+id: postal-museum-william-h-gross-gallery
+name: William H. Gross Gallery
+venue: smithsonian-national-postal-museum
+project_type: new-exhibition
+year_completed: 2013
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "14 interactive media experiences incl. 84-foot lobby video walls and 60-screen 'Stamp Arch'"
+  - firm: design-and-production-incorporated
+    role: fabrication
+  - firm: gallagher-and-associates
+    role: exhibit-design
+technologies:
+  - multi-screen video wall
+summary: >
+  The William H. Gross Gallery, the stamp gallery of the Smithsonian
+  National Postal Museum in Washington, DC, opened in 2013; RLMG designed
+  14 interactive media experiences, with exhibit design by Gallagher &
+  Associates and fabrication by Design and Production Incorporated.
+description: ""
+sources:
+  - https://www.rlmg.com/work/smithsonian-national-postal-museum

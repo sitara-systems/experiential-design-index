@@ -1,0 +1,10 @@
+id: center-for-architecture
+name: Center for Architecture
+venue_type: design-museum
+location:
+  city: New York
+  state: NY
+operator: AIA New York
+website: https://centerforarchitecture.org
+sources:
+  - https://studiojoseph.com/work/kaneji-domoto-at-frank-lloyd-wright-s-usonia

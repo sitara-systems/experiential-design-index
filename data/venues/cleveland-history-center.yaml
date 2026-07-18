@@ -1,0 +1,10 @@
+id: cleveland-history-center
+name: Cleveland History Center
+venue_type: history-museum
+location:
+  city: Cleveland
+  state: OH
+operator: Western Reserve Historical Society
+website: https://www.wrhs.org
+sources:
+  - https://www.wrhs.org/do-see/exhibitions/cleveland-starts-here

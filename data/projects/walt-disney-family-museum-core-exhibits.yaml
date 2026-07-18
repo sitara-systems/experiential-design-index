@@ -1,0 +1,31 @@
+id: walt-disney-family-museum-core-exhibits
+name: The Walt Disney Family Museum
+venue: walt-disney-family-museum
+project_type: new-building
+year_completed: 2009
+credits:
+  - firm: rockwell-group
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: second-story
+    role: media-design
+    note: >
+      Interactive installations on walls and tables telling Walt Disney's
+      life story
+  - firm: page-and-turnbull
+    role: architecture
+    note: "Historic building renovation; no firm record yet"
+technologies:
+  - touch interfaces
+  - motion graphics
+  - interactive tables
+summary: >
+  The Walt Disney Family Museum, housed in a renovated historic Presidio
+  barracks building in San Francisco, opened October 2009; Rockwell Group
+  led exhibit design, Page & Turnbull led the building renovation, and Second
+  Story designed the museum's interactive wall and table installations.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Walt_Disney_Family_Museum
+  - https://www.archpaper.com/2009/09/the-house-the-mouse-built/
+  - https://2s-archive.rzrfs.com/work/walt-disney-family-museum

@@ -1,0 +1,22 @@
+id: boston-athenaeum-material-lumina
+name: "Material Lumina: Luminous Books"
+venue: boston-athenaeum
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "4K touch interface for rare art book collection"
+  - firm: mystic-scenic
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - 4K touchscreen
+summary: >
+  "Material Lumina: Luminous Books," a 4K touch-interface installation
+  presenting rare art books in the Norma Jean Calderwood gallery at the
+  Boston Athenaeum, opened in 2023; RLMG designed the interactive software
+  with fabrication by Mystic Scenic.
+description: ""
+sources:
+  - https://www.rlmg.com/work/boston-athenaeum

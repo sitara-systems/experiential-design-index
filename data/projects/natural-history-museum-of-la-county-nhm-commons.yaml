@@ -1,0 +1,33 @@
+id: natural-history-museum-of-la-county-nhm-commons
+name: NHM Commons
+venue: natural-history-museum-of-los-angeles-county
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: studio-joseph
+    role: exhibit-design
+    note: "Interior visitor experience design for the new wing, including the Judith Perlstein Welcome Center and Commons Theater"
+  - firm: frederick-fisher-and-partners
+    role: architecture
+    note: "No firm record yet"
+technologies:
+  - projection
+  - digital media wall
+summary: >
+  NHM Commons, a new $75 million public wing and welcome center at the
+  Natural History Museum of Los Angeles County, opened in Exposition Park in
+  Los Angeles, California in November 2024, designed by Frederick Fisher and
+  Partners with interior visitor-experience design by Studio Joseph.
+description: >
+  The new wing introduces both ticketed and non-ticketed visitors to NHM,
+  facing Exposition Park with a 400-seat Commons Theater, a cafe, and the
+  Judith Perlstein Welcome Center. Studio Joseph's interior design frames the
+  mounted fossil skeleton of "Gnatalie," a Diplodocus, against a wall of oak
+  fins referencing geological strata, and incorporates Barbara Carrasco's
+  mural "L.A. History: A Mexican Perspective." Studio-MLA served as landscape
+  architect (no delivery-stack role in the current vocabulary maps directly
+  to landscape architecture; logged as a vocab gap).
+sources:
+  - https://studiojoseph.com/work/nhm-commons
+  - https://nhm.org/press/natural-history-museums-los-angeles-countys-transformative-new-wing-nhm-commons-open-2024
+  - https://nhmlac.org/press/nhm-commons-opens-november-17-2024

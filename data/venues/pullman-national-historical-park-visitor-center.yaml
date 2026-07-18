@@ -1,0 +1,10 @@
+id: pullman-national-historical-park-visitor-center
+name: Pullman National Historical Park Visitor Center
+venue_type: visitor-center
+location:
+  city: Chicago
+  state: IL
+operator: National Park Service
+website: https://www.nps.gov/pull/
+sources:
+  - https://www.nps.gov/pull/planyourvisit/visitorcenters.htm

@@ -1,0 +1,9 @@
+id: baltimore-visitor-center
+name: Baltimore Visitor Center
+venue_type: visitor-center
+location:
+  city: Baltimore
+  state: MD
+operator: Visit Baltimore
+sources:
+  - https://ayerssaintgross.com/work/project/baltimore-visitor-center-environmental-graphics/

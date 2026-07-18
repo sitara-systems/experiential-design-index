@@ -1,0 +1,29 @@
+id: the-institute-presents-neurosociety
+name: "The Institute Presents: Neurosociety"
+venue: the-institute-menlo-park
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: unified-field
+    role: media-design
+    note: "Designed all interactive programs, systems, and device interfaces for the immersive theatrical experience; created by David Byrne and Mala Gaonkar (individuals, not firms)"
+technologies:
+  - custom interactive devices
+  - tablets
+  - digital visualization
+summary: >
+  The Institute Presents: Neurosociety, a 60-minute immersive theatrical
+  experience of neuroscience-inspired activities created by David Byrne
+  and Mala Gaonkar, opened at 350 El Camino Real in Menlo Park, California
+  on October 27, 2016; interactive systems and device interfaces designed
+  by Unified Field.
+description: >
+  Visitors move through four rooms of neuroscience-inspired experiments
+  exploring how personal biases influence moral behavior and perception.
+  The run at Menlo Park continued through March 31, 2017; the experience
+  later had additional runs at other venues, including Pace Gallery in New
+  York in 2018.
+sources:
+  - https://www.unifiedfield.com/projects/neurosociety
+  - https://www.davidbyrne.com/explore/the-institute-presents-neurosociety
+  - https://stanforddaily.com/2016/10/26/david-byrne-mala-gaonkar-neurosociety/

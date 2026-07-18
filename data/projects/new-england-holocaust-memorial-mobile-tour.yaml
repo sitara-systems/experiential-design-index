@@ -1,0 +1,21 @@
+id: new-england-holocaust-memorial-mobile-tour
+name: New England Holocaust Memorial Mobile Tour
+venue: new-england-holocaust-memorial
+project_type: installation
+year_completed: 2021
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "QR-code-triggered mobile tour across 11 memorial signs with survivor interviews"
+  - firm: caldwell-sign
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - QR code mobile tour
+summary: >
+  A QR-code-activated mobile tour with 11 signs at the New England
+  Holocaust Memorial in downtown Boston launched in 2021; RLMG designed the
+  mobile-responsive tour site, with sign fabrication by Caldwell Sign.
+description: ""
+sources:
+  - https://www.rlmg.com/work/new-england-holocaust-memorial

@@ -1,0 +1,10 @@
+id: pinehurst-resort-clubhouse
+name: Pinehurst Resort Main Clubhouse
+venue_type: themed-attraction
+location:
+  city: Pinehurst
+  state: NC
+operator: Pinehurst Resort
+website: https://www.pinehurst.com
+sources:
+  - https://www.pinehurst.com

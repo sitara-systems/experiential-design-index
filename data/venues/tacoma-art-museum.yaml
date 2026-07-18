@@ -1,0 +1,9 @@
+id: tacoma-art-museum
+name: Tacoma Art Museum
+venue_type: art-museum
+location:
+  city: Tacoma
+  state: WA
+website: https://www.tacomaartmuseum.org
+sources:
+  - https://studiomatthews.com/project/tacoma-art-museum/

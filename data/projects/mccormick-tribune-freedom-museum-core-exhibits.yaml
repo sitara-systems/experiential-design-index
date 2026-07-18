@@ -1,0 +1,33 @@
+id: mccormick-tribune-freedom-museum-core-exhibits
+name: McCormick Tribune Freedom Museum
+venue: mccormick-tribune-freedom-museum
+project_type: new-building
+year_completed: 2006
+credits:
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: second-story
+    role: media-design
+    note: >
+      Browser-based content-management tools for a 30-foot video wall,
+      kiosks, polling, and visitor video testimonials across 25+ interactive
+      exhibits
+  - firm: voa-associates
+    role: architecture
+    note: "No firm record yet"
+technologies:
+  - video wall
+  - touch kiosks
+  - content management system
+  - polling
+summary: >
+  The McCormick Tribune Freedom Museum, a 10,000 sq ft museum dedicated to
+  First Amendment freedoms in Chicago's Tribune Tower complex, opened April
+  11, 2006 and closed in 2009; exhibit design was by Gallagher & Associates,
+  architecture by VOA Associates, and Second Story built the interactive
+  media and content-management systems across more than 25 exhibits.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/McCormick_Tribune_Freedom_Museum
+  - https://www.commarts.com/project/11570/mccormick-tribune-freedom-museum
+  - https://2s-archive.rzrfs.com/work/mccormick-tribune-freedom-museum

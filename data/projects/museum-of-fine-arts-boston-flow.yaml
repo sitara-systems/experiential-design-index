@@ -1,0 +1,24 @@
+id: museum-of-fine-arts-boston-flow
+name: "Flow"
+venue: museum-of-fine-arts-boston
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: bluecadet
+    role: media-design
+    note: >
+      Room-scale interactive projection installation at the entry to the
+      Center for Netherlandish Art galleries; camera-sensing reveals layered
+      imagery, soundscapes, and text as visitors approach.
+technologies:
+  - projection
+  - camera sensing
+  - soundscape
+summary: >
+  Flow, a room-scale interactive projection installation at the entrance to
+  the Museum of Fine Arts, Boston's Center for Netherlandish Art galleries,
+  opened in 2022 with interactive media by Bluecadet.
+description: ""
+sources:
+  - https://www.bluecadet.com/work/flow
+  - https://www.mfa.org/collections/center-for-netherlandish-art

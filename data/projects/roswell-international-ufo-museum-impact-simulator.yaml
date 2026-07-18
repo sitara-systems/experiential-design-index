@@ -1,0 +1,30 @@
+id: roswell-international-ufo-museum-impact-simulator
+name: Impact Simulator and Galactic Explorer
+venue: roswell-international-ufo-museum
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: ideum
+    role: media-design
+    note: Two interactives — the Impact Simulator (immersive crash-landing simulation) and Galactic Explorer (search game)
+  - firm: ideum
+    role: av-integration
+    note: Five-display 4K projection/AV system and a 3.1 sound system with DMX lighting for the Impact Simulator
+technologies:
+  - multi-display video wall
+  - MadMapper
+  - touchscreen kiosk
+summary: >
+  Impact Simulator and Galactic Explorer, two theme-park-style interactive
+  experiences, opened in 2022 at the International UFO Museum and Research
+  Center in Roswell, New Mexico, designed and built by Ideum.
+description: >
+  The Impact Simulator uses five edge-to-edge 86" 4K displays combined into
+  a single 10800x3840 viewport, with 3.1 surround sound and DMX lighting, to
+  simulate an alien spaceship crash landing based on the Roswell Incident.
+  Galactic Explorer, on three 65" touch displays, is a search game where
+  visitors look for clues about life beyond Earth using NASA-sourced
+  research and archival footage.
+sources:
+  - https://ideum.com/portfolio/roswell-international-ufo-museum-galactic-explorer-impact-simulation
+  - https://blooloop.com/museum/news/ideum-roswell-ufo-museum/

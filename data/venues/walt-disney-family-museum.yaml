@@ -1,0 +1,11 @@
+id: walt-disney-family-museum
+name: The Walt Disney Family Museum
+venue_type: history-museum
+location:
+  city: San Francisco
+  state: CA
+operator: The Walt Disney Family Foundation
+website: https://www.waltdisney.org
+sources:
+  - https://en.wikipedia.org/wiki/Walt_Disney_Family_Museum
+  - https://www.archpaper.com/2009/09/the-house-the-mouse-built/

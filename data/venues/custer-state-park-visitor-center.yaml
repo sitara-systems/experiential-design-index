@@ -1,0 +1,10 @@
+id: custer-state-park-visitor-center
+name: Custer State Park Visitor Center
+venue_type: visitor-center
+location:
+  city: Custer
+  state: SD
+operator: South Dakota Game, Fish and Parks
+website: https://gfp.sd.gov/custer-state-park/
+sources:
+  - https://2s-archive.rzrfs.com/work/custer

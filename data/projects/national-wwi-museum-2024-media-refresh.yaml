@@ -1,0 +1,30 @@
+id: national-wwi-museum-2024-media-refresh
+name: National WWI Museum and Memorial Media Refresh
+venue: national-wwi-museum-and-memorial
+project_type: exhibition-refresh
+year_completed: 2024
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "12 interactive media installations including four large touch tables"
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: electrosonic
+    role: av-integration
+  - firm: taylor-studios
+    role: fabrication
+technologies:
+  - interactive touch tables
+  - digitized collections
+summary: >
+  A 2024 interactive-media refresh at the National WWI Museum and Memorial
+  in Kansas City, Missouri added 12 new media installations, including four
+  large touch tables on wartime technological change; RLMG designed the
+  media, working with Ralph Appelbaum Associates, Electrosonic, and Taylor
+  Studios.
+description: >
+  Distinct from the museum's 2006 renovation and expansion (see
+  `national-wwi-museum-renovation`), this is a later interactive-media
+  refresh RLMG names on its own portfolio.
+sources:
+  - https://www.rlmg.com/work/national-ww1-museum

@@ -1,0 +1,11 @@
+id: museum-of-mississippi-history
+name: Museum of Mississippi History
+venue_type: history-museum
+location:
+  city: Jackson
+  state: MS
+operator: Mississippi Department of Archives & History
+website: https://mmh.mdah.ms.gov/
+sources:
+  - https://en.wikipedia.org/wiki/Museum_of_Mississippi_History
+  - https://thedesignminds.com/project-mississippi/

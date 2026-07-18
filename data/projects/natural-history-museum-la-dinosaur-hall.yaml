@@ -1,0 +1,31 @@
+id: natural-history-museum-la-dinosaur-hall
+name: Dinosaur Hall
+venue: natural-history-museum-of-los-angeles-county
+project_type: new-exhibition
+year_completed: 2011
+credits:
+  - firm: evidence-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: unified-field
+    role: media-design
+    note: Interactive media programs
+  - firm: lexington
+    role: fabrication
+    note: "Lexington Design & Fabrication; no firm record yet"
+  - firm: electrosonic
+    role: av-integration
+technologies:
+  - multi-touch interactive
+  - interpretive video walls
+summary: >
+  Dinosaur Hall, a 14,000 sq ft permanent exhibition at the Natural History
+  Museum of Los Angeles County, opened in July 2011; Evidence Design led
+  exhibit design, Unified Field created the interactive media, Lexington
+  Design & Fabrication built the exhibit, and Electrosonic integrated the AV
+  and interactive systems.
+description: ""
+sources:
+  - https://www.svconline.com/the-wire/natural-history-museum-opens-new-dinosaur-hall-featuring-displays-installed-electrosonic-382443
+  - https://www.evidencedesign.com/details/dinosaur-hall/
+  - https://www.electrosonic.com/projects/dinosaur-hall-at-the-natural-history-museum

@@ -1,0 +1,10 @@
+id: art-omi
+name: Art Omi
+venue_type: public-space
+location:
+  city: Ghent
+  state: NY
+operator: Art Omi
+website: https://artomi.org
+sources:
+  - https://studiojoseph.com/work/sensory-journey

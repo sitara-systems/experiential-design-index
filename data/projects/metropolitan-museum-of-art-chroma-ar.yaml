@@ -1,0 +1,24 @@
+id: metropolitan-museum-of-art-chroma-ar
+name: "Chroma AR: Ancient Sculpture in Color"
+venue: metropolitan-museum-of-art
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: bluecadet
+    role: media-design
+    note: >
+      WebAR app (built on the 8th Wall toolkit) revealing the original
+      polychromy of an ancient Greek sphinx sculpture, viewable in-gallery
+      and remotely.
+technologies:
+  - augmented reality
+  - WebAR
+summary: >
+  Chroma AR, a web-based augmented-reality companion to The Metropolitan
+  Museum of Art's "Chroma: Ancient Sculpture in Color" exhibition, launched
+  in New York in 2022, designed by Bluecadet.
+description: ""
+sources:
+  - https://www.bluecadet.com/work/chroma-ar
+  - https://www.metmuseum.org/exhibitions/chroma/chroma-ar
+  - https://www.metmuseum.org/press-releases/chroma-2022-exhibitions

@@ -1,0 +1,29 @@
+id: shockoe-institute-expanding-freedom
+name: Expanding Freedom
+venue: shockoe-institute
+project_type: new-exhibition
+year_completed: 2026
+credits:
+  - firm: local-projects
+    role: exhibit-design
+    note: Vision and flagship exhibit design
+  - firm: local-projects
+    role: media-design
+  - firm: 1220-fabrication
+    role: fabrication
+    note: "Named on Local Projects' site as '1220 Exhibits'; no firm record yet"
+  - firm: electrosonic
+    role: av-integration
+technologies:
+  - immersive media
+summary: >
+  Expanding Freedom, the flagship exhibit of the Shockoe Institute at Main
+  Street Station in Richmond, Virginia, opened April 9, 2026, examining the
+  enduring impact of racial slavery; exhibit and media design by Local
+  Projects, with fabrication by 1220 Exhibits and AV integration by
+  Electrosonic.
+description: ""
+sources:
+  - https://localprojects.com/work/civil-rights-memorials/enduring-freedom/
+  - https://richmondbizsense.com/2026/04/10/shockoe-institute-hosts-ribbon-cutting-on-11m-main-street-station-education-center/
+  - https://www.vpm.org/news/2026-04-10/shockoe-institute-opening-main-street-station-rva-slavery-history-buckner

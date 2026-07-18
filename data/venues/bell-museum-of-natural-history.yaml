@@ -1,0 +1,11 @@
+id: bell-museum-of-natural-history
+name: Bell Museum
+venue_type: natural-history-museum
+location:
+  city: Falcon Heights
+  state: MN
+operator: University of Minnesota
+website: https://www.bellmuseum.umn.edu
+sources:
+  - https://twin-cities.umn.edu/news-events/bell-museum-grand-opening-set-july-13-15-2018
+  - https://gallagherdesign.com/project/bell/

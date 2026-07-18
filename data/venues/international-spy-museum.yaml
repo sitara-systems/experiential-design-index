@@ -1,0 +1,10 @@
+id: international-spy-museum
+name: International Spy Museum
+venue_type: history-museum
+location:
+  city: Washington
+  state: DC
+website: https://www.spymuseum.org
+sources:
+  - https://www.spymuseum.org/press/press-archive/2026-press-releases/camouflage-debut/
+  - https://gallagherdesign.com/project/spy/

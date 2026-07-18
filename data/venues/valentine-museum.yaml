@@ -1,0 +1,9 @@
+id: valentine-museum
+name: The Valentine
+venue_type: history-museum
+location:
+  city: Richmond
+  state: VA
+website: https://thevalentine.org
+sources:
+  - https://studiojoseph.com/work/sculpting-history

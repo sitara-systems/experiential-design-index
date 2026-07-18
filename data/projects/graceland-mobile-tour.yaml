@@ -1,0 +1,28 @@
+id: graceland-mobile-tour
+name: Graceland Mobile Tour
+venue: graceland
+project_type: installation
+year_completed: 2014
+credits:
+  - firm: unified-field
+    role: media-design
+    note: "iPad tour app with iBeacon-based location content"
+technologies:
+  - iPad app
+  - iBeacon
+  - QuickTime VR panoramas
+  - augmented reality
+summary: >
+  The Graceland Mobile Tour, an iBeacon-enabled iPad guided-tour app for
+  Elvis Presley's Graceland mansion, launched in Memphis, Tennessee during
+  Elvis Week in August 2014; developed and designed by Unified Field.
+description: >
+  The app delivers location-based audio, video, and archival photo content
+  as visitors move through the mansion and grounds, including 360-degree
+  panoramic views of normally restricted rooms, an augmented-reality
+  "Elvis Photobomb" camera tool, and trivia. Content is available in nine
+  languages and narrated by John Stamos.
+sources:
+  - https://www.unifiedfield.com/projects/graceland
+  - https://www.graceland.com/elvis-news/posts/all-new-interactive-ipad-tour-revolutionizes-guest-experience-at-elvis-presleys-graceland
+  - https://betterfutureawards.com/NYC15/project.asp?ID=13786

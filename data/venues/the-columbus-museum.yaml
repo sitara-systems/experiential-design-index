@@ -1,0 +1,9 @@
+id: the-columbus-museum
+name: The Columbus Museum
+venue_type: art-museum
+location:
+  city: Columbus
+  state: GA
+website: https://www.comuga.org
+sources:
+  - https://www.ajc.com/news/after-major-makeover-columbus-museum-will-reopen-lighter-and-brighter/XQ4PACOX4VDL3LBRRGKUWZ2Y3I/

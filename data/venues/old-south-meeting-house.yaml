@@ -1,0 +1,10 @@
+id: old-south-meeting-house
+name: Old South Meeting House
+venue_type: history-museum
+location:
+  city: Boston
+  state: MA
+operator: Revolutionary Spaces
+website: https://www.revolutionaryspaces.org
+sources:
+  - https://www.revolutionaryspaces.org

@@ -1,0 +1,9 @@
+id: georgia-aquarium
+name: Georgia Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Atlanta
+  state: GA
+website: https://www.georgiaaquarium.org
+sources:
+  - https://www.livedesignonline.com/electrosonic-dives-into-at-t-dolphin-tales-live-entertainment-project-for-georgia-aquarium

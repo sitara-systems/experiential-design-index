@@ -1,0 +1,24 @@
+id: buffalo-bill-center-of-the-west-buffalo-bill-wing
+name: Buffalo Bill Museum Renovation
+venue: buffalo-bill-center-of-the-west
+project_type: exhibition-refresh
+year_completed: 2012
+credits:
+  - firm: second-story
+    role: media-design
+    note: >
+      Animated video installation on William F. Cody's rise to fame and a
+      responsive-design interactive experience spanning his life story
+technologies:
+  - animated video
+  - responsive web-based interactive
+summary: >
+  The Buffalo Bill Museum wing of the Buffalo Bill Center of the West in
+  Cody, Wyoming, reopened after a renovation in May 2012; Second Story
+  created an animated video installation and an interactive experience
+  tracing William F. Cody's life from Pony Express rider to international
+  entertainer.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Buffalo_Bill_Center_of_the_West
+  - https://2s-archive.rzrfs.com/work/buffalo-bill-historical-center

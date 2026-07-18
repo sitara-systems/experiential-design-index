@@ -1,0 +1,21 @@
+id: davies-symphony-hall-chromatic
+name: Chromatic
+venue: davies-symphony-hall
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: av-c
+    role: media-design
+    note: "Conceived and developed in collaboration with the San Francisco Symphony"
+technologies:
+  - facade lighting
+  - generative software
+summary: >
+  Chromatic, a permanent facade and lobby lighting artwork responsive to live
+  music performances, was developed by AV&C in collaboration with the San
+  Francisco Symphony and launched at Davies Symphony Hall around 2023 to mark
+  the arrival of music director Esa-Pekka Salonen.
+description: ""
+sources:
+  - https://www.av-controls.com/chromatic
+  - https://en.wikipedia.org/wiki/Louise_M._Davies_Symphony_Hall

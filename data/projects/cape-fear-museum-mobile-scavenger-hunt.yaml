@@ -1,0 +1,22 @@
+id: cape-fear-museum-mobile-scavenger-hunt
+name: Cape Fear Mobile Scavenger Hunt
+venue: cape-fear-museum
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Bilingual mobile-web scavenger hunt app replacing a paper activity"
+  - firm: global-exhibit-technology
+    role: av-integration
+    note: "No firm record yet"
+technologies:
+  - mobile web app
+summary: >
+  The Cape Fear Mobile Scavenger Hunt, a bilingual mobile-web scavenger hunt
+  app for the Cape Fear Museum of History and Science in Wilmington, North
+  Carolina, launched in 2024; RLMG designed the app and backend content
+  system.
+description: ""
+sources:
+  - https://www.rlmg.com/work/cape-fear-mobile-scavenger-hunt

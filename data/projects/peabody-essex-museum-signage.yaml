@@ -1,0 +1,28 @@
+id: peabody-essex-museum-signage
+name: Signage at PEM
+venue: peabody-essex-museum
+project_type: major-renovation
+year_completed: 2019
+credits:
+  - firm: c-and-g-partners
+    role: graphics-wayfinding
+  - firm: ennead-architects
+    role: architecture
+    note: "no firm record yet; designed the 40,000 sq ft expansion wing"
+technologies:
+  - digital wayfinding kiosks
+  - cut steel letterforms
+summary: >
+  Signage at PEM, a directional, digital, and donor recognition signage
+  program spanning the Peabody Essex Museum's architecturally varied
+  buildings in Salem, Massachusetts, was designed by C&G Partners to
+  accompany the museum's 40,000-square-foot Ennead Architects-designed
+  expansion, which opened September 28, 2019.
+description: >
+  Digital kiosks built to resemble shipbuilding batten-seam paneling provide
+  wayfinding and event updates, while cut steel letterforms carry wayfinding
+  and donor recognition messaging throughout the connected historic and new
+  structures, drawing on the museum's maritime heritage.
+sources:
+  - https://www.cgpartnersllc.com/projects/expansion-signage-donor-recognition-program/
+  - https://www.wbur.org/news/2019/09/24/peabody-essex-museum-expansion

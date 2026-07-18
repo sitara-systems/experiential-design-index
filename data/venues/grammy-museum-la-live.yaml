@@ -1,0 +1,11 @@
+id: grammy-museum-la-live
+name: GRAMMY Museum
+venue_type: cultural-center
+location:
+  city: Los Angeles
+  state: CA
+operator: L.A. Live
+website: https://grammymuseum.org
+sources:
+  - https://en.wikipedia.org/wiki/Grammy_Museum_at_L.A._Live
+  - https://www.commarts.com/exhibit/the-grammy-museum-exhibition-design

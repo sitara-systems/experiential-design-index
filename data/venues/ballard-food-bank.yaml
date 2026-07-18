@@ -1,0 +1,9 @@
+id: ballard-food-bank
+name: Ballard Food Bank
+venue_type: other
+location:
+  city: Seattle
+  state: WA
+website: https://ballardfoodbank.org
+sources:
+  - https://studiomatthews.com/project/ballard-food-bank/

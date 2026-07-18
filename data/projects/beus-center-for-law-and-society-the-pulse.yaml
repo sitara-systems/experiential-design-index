@@ -1,0 +1,38 @@
+id: beus-center-for-law-and-society-the-pulse
+name: The Pulse
+venue: beus-center-for-law-and-society
+project_type: new-building
+year_completed: 2016
+credits:
+  - firm: ennead-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: unified-field
+    role: media-design
+    note: "Location-aware communication platform, mobile app, and building-wide digital signage/wayfinding network"
+  - firm: level3-av
+    role: av-integration
+    note: "No firm record yet"
+technologies:
+  - location-aware mobile app
+  - dynamic digital wayfinding
+  - large-format media displays
+  - real-time data visualization
+summary: >
+  The Pulse, a building-wide digital communication and wayfinding platform
+  for the Sandra Day O'Connor College of Law's Beus Center for Law and
+  Society, opened with the building in downtown Phoenix on August 15, 2016;
+  architecture by Ennead Architects, platform and app development by
+  Unified Field, and AV integration by Level3 AV.
+description: >
+  The Pulse aggregates user-generated, live data to connect students,
+  faculty, and guests throughout the six-story, 280,000-square-foot
+  building, supporting wayfinding, alerts, group formation, event
+  scheduling, space booking, and access to institutional knowledge across
+  more than 30 displays, including a street-facing nano display and a
+  media mesh in the building's breezeway.
+sources:
+  - https://www.unifiedfield.com/projects/asu
+  - https://news.asu.edu/20160816-arizona-impact-center-law-and-society-stands-inclusion
+  - https://cfo.asu.edu/law-building
+  - https://level3av.com/?view=article&id=188:arizona-state-university-beus-center-for-law-society&catid=9

@@ -1,0 +1,43 @@
+id: museum-of-mississippi-history-permanent-exhibition
+name: Museum of Mississippi History Permanent Exhibition
+venue: museum-of-mississippi-history
+project_type: new-building
+year_completed: 2017
+credits:
+  - firm: eley-guild-hardy
+    role: architecture
+    note: "no firm record yet"
+  - firm: cooke-douglass-farr-lemons
+    role: architecture
+    note: "no firm record yet"
+  - firm: dale-partners
+    role: architecture
+    note: "no firm record yet"
+  - firm: perkins-will
+    role: architecture
+    note: "As The Freelon Group; no firm record yet"
+  - firm: the-design-minds
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: northern-light-productions
+    role: content-production
+technologies:
+  - multi-screen theater film
+  - visitor reflection booth
+summary: >
+  The Museum of Mississippi History, a new building on the state's
+  bicentennial-era Two Mississippi Museums campus in Jackson, Mississippi,
+  opened December 9, 2017; the building was designed by a coalition of
+  Mississippi architecture firms in association with The Freelon Group
+  (Perkins&Will), exhibits by The Design Minds, with media production by
+  Northern Light Productions.
+description: >
+  Northern Light Productions produced 45 audiovisual programs for the
+  museum, including multi-screen theater films featuring contemporary
+  Mississippians such as Myrlie Evers and Morgan Freeman, interactive
+  exhibits, and a visitor reflection booth with a custom content
+  management system.
+sources:
+  - https://en.wikipedia.org/wiki/Museum_of_Mississippi_History
+  - https://thedesignminds.com/project-mississippi/
+  - https://nlprod.com/item/museum-of-mississippi-history/

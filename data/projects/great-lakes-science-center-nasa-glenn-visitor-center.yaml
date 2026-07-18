@@ -1,0 +1,25 @@
+id: great-lakes-science-center-nasa-glenn-visitor-center
+name: NASA Glenn Visitor Center
+venue: great-lakes-science-center
+project_type: new-exhibition
+year_completed: 2013
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "16 media installations incl. motion-sensor 16-foot interactive floor projection"
+  - firm: bowen-technovation
+    role: av-integration
+    note: "No firm record yet"
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - motion-sensor floor projection
+summary: >
+  The NASA Glenn Visitor Center, a renovated NASA visitor center within the
+  Great Lakes Science Center in Cleveland, opened in 2013; RLMG designed 16
+  media installations including a motion-sensing interactive floor, with AV
+  integration by Bowen Technovation and fabrication by Chicago Scenic.
+description: ""
+sources:
+  - https://www.rlmg.com/work/nasa-glenn-visitor-center

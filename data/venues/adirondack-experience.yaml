@@ -1,0 +1,9 @@
+id: adirondack-experience
+name: Adirondack Experience, The Museum on Blue Mountain Lake
+venue_type: history-museum
+location:
+  city: Blue Mountain Lake
+  state: NY
+website: https://www.theadkx.org
+sources:
+  - https://www.theadkx.org

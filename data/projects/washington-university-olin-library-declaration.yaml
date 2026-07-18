@@ -1,0 +1,30 @@
+id: washington-university-olin-library-declaration
+name: Olin's Declaration
+venue: washington-university-olin-library
+project_type: major-renovation
+year_completed: 2018
+credits:
+  - firm: c-and-g-partners
+    role: exhibit-design
+  - firm: c-and-g-partners
+    role: graphics-wayfinding
+  - firm: ann-beha-architects
+    role: architecture
+    note: "no firm record yet; architect for the Olin Library transformation"
+technologies:
+  - climate-controlled archival display case
+summary: >
+  Olin's Declaration, a special-collections exhibit built around a rare 1776
+  broadside copy of the Declaration of Independence in the John M. Olin
+  Library at Washington University in St. Louis, Missouri, was designed by
+  C&G Partners as part of the library's renovation with architect Ann Beha
+  Architects, completed in spring 2018.
+description: >
+  The Declaration is displayed in a climate-controlled, security-rated
+  chamber within a 75-foot archival gallery alcove. The project also
+  includes a 60-foot archival case showcasing university alumni and
+  affiliates, interactive interpretive elements, and a four-story tower
+  connecting special collections to a skylit conference room.
+sources:
+  - https://www.cgpartnersllc.com/projects/olin-special-collections-library/
+  - https://library.washu.edu/news/university-libraries-complete-olin-transformation-project/

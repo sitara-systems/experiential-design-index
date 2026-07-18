@@ -1,0 +1,46 @@
+id: san-diego-zoo-wildlife-explorers-basecamp-exhibits
+name: Wildlife Explorers Basecamp Interactive Exhibits
+venue: san-diego-zoo-wildlife-explorers-basecamp
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: ideum
+    role: exhibit-design
+    note: Over 20 exhibits across the herpetology and invertebrate buildings
+  - firm: ideum
+    role: fabrication
+    note: Custom microscope stations, volunteer/docent stations, and digital-signage enclosures
+  - firm: ideum
+    role: media-design
+    note: Migration full-dome projection experience, Living River LED sculpture animation, and multiple interactive games
+  - firm: ideum
+    role: av-integration
+  - firm: hgw-architecture
+    role: architecture
+    note: Architect for the herpetology and invertebrate exhibit buildings; collaborated with Ideum on microscope-station design and materials. No firm record yet.
+  - firm: elumenati
+    role: av-integration
+    note: Assisted with the full-dome projection system for the Migration experience. No firm record yet.
+technologies:
+  - full-dome projection
+  - LED sculpture
+  - Unity
+  - RFID
+  - custom touch hardware
+summary: >
+  More than 20 interactive exhibits across the herpetology and invertebrate
+  buildings of the Denny Sanford Wildlife Explorers Basecamp, which opened
+  March 11, 2022, at the San Diego Zoo, were designed, fabricated, and built
+  by Ideum with architecture by HGW Architecture.
+description: >
+  Highlights include a full-dome Migration projection experience (with
+  dome-projection assistance from Elumenati) immersing visitors among
+  animated insects; the Living River, a 3,245-LED animated sculpture
+  spanning 1,330 feet of strip lighting through the herpetology building;
+  custom-fabricated microscope stations; a two-screen stick-insect
+  camouflage game; docent-led and self-guided volunteer stations with RFID
+  card switching; and a zoo-wide digital signage system.
+sources:
+  - https://ideum.com/portfolio/san-diego-zoo-exhibition-design
+  - https://www.arestravel.com/wildlife-explorers-basecamp-opens-march-11-2022-at-the-san-diego-zoo/
+  - https://hgwarchitecture.com/project/san-diego-zoo-denny-sanford-wildlife-explorers-basecamp/

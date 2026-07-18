@@ -1,0 +1,10 @@
+id: canalside-buffalo
+name: Canalside
+venue_type: visitor-center
+location:
+  city: Buffalo
+  state: NY
+operator: Erie Canal Harbor Development Corporation
+website: https://www.canalsidebuffalo.com
+sources:
+  - https://www.governor.ny.gov/news/governor-hochul-announces-opening-waterway-change-canalside-buffalo

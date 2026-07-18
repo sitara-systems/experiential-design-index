@@ -1,0 +1,10 @@
+id: dauphin-island-sea-lab
+name: Dauphin Island Sea Lab
+venue_type: aquarium-zoo
+location:
+  city: Dauphin Island
+  state: AL
+website: https://www.disl.edu
+sources:
+  - https://www.disl.edu/
+  - https://solomongroup.com/projects/dauphin-island-sea-lab

@@ -1,0 +1,33 @@
+id: baylor-hurd-welcome-center-columns
+name: Mark and Paula Hurd Welcome Center
+venue: baylor-hurd-welcome-center
+project_type: new-building
+year_completed: 2023
+credits:
+  - firm: populous
+    role: architecture
+    note: "No firm record yet"
+  - firm: rlmg
+    role: media-design
+  - firm: electrosonic
+    role: av-integration
+    note: LED and specialty projection systems for four 96-foot interactive columns
+  - firm: xibitz
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - LED
+  - specialty projection
+  - interactive kiosks
+summary: >
+  The Mark and Paula Hurd Welcome Center, a 120,000 sq ft welcome center at
+  Baylor University in Waco, Texas, was dedicated September 8, 2023; Populous
+  designed the building, RLMG contributed media design, and Electrosonic
+  integrated the LED and projection systems for its four themed interactive
+  columns.
+description: ""
+sources:
+  - https://www2.baylor.edu/baylorproud/2023/08/hurd-welcome-center-now-open-as-baylors-front-door-to-campus/
+  - https://populous.com/showcases/mark-and-paula-hurd-welcome-center
+  - https://www.electrosonic.com/projects/baylor-university-hurd-welcome-center
+  - https://www.rlmg.com/work/hurd-welcome-center

@@ -1,0 +1,9 @@
+id: museum-of-fine-arts-boston
+name: Museum of Fine Arts, Boston
+venue_type: art-museum
+location:
+  city: Boston
+  state: MA
+website: https://www.mfa.org
+sources:
+  - https://www.mfa.org

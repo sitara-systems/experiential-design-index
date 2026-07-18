@@ -1,0 +1,11 @@
+id: toyota-mississippi-experience-center
+name: Toyota Mississippi Experience Center
+venue_type: visitor-center
+location:
+  city: Blue Springs
+  state: MS
+operator: Toyota Motor Manufacturing Mississippi
+website: https://www.toyotamississippi.com
+sources:
+  - https://pressroom.toyota.com/toyota-welcomes-guests-to-experience-advanced-manufacturing-in-a-remarkable-way/
+  - https://gallagherdesign.com/project/toyota/

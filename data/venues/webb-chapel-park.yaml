@@ -1,0 +1,9 @@
+id: webb-chapel-park
+name: Webb Chapel Park
+venue_type: public-space
+location:
+  city: Dallas
+  state: TX
+operator: City of Dallas
+sources:
+  - https://studiojoseph.com/work/webb-chapel-park-pavilion

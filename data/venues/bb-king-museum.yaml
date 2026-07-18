@@ -1,0 +1,10 @@
+id: bb-king-museum
+name: B.B. King Museum and Delta Interpretive Center
+venue_type: history-museum
+location:
+  city: Indianola
+  state: MS
+website: https://bbkingmuseum.org
+sources:
+  - https://bbkingmuseum.org/
+  - https://mississippitoday.org/2021/06/05/bb-king-museum-new-exhibits/

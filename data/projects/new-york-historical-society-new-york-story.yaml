@@ -1,0 +1,25 @@
+id: new-york-historical-society-new-york-story
+name: "\"New York Story\" and Renovated Galleries"
+venue: new-york-historical-society
+project_type: major-renovation
+year_completed: 2012
+credits:
+  - firm: donna-lawrence-productions
+    role: content-production
+    note: "\"New York Story\" panoramic film"
+  - firm: electrosonic
+    role: av-integration
+    note: Audio, video, interactive, control systems, and digital signage across the renovated museum
+technologies:
+  - panoramic projection
+  - motion-sensitive panels
+  - rotating touchscreens
+summary: >
+  The New-York Historical Society's three-year, $70 million renovation
+  culminated in 2012 with the debut of the panoramic film "New York Story,"
+  produced by Donna Lawrence Productions, with Electrosonic designing and
+  installing the museum's audio, video, interactive, and signage systems.
+description: ""
+sources:
+  - https://dlproductions.com/projects/new-york-historical-society/
+  - https://www.electrosonic.com/projects/new-york-historical-society-museum-and-library

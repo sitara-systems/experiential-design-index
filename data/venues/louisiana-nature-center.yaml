@@ -1,0 +1,9 @@
+id: louisiana-nature-center
+name: Audubon Louisiana Nature Center
+venue_type: science-center
+location:
+  city: New Orleans
+  state: LA
+operator: Audubon Nature Institute
+sources:
+  - https://solomongroup.com/projects/louisiana-nature-center

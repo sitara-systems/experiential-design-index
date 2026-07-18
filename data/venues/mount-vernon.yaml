@@ -1,0 +1,10 @@
+id: mount-vernon
+name: George Washington's Mount Vernon
+venue_type: history-museum
+location:
+  city: Mount Vernon
+  state: VA
+operator: Mount Vernon Ladies' Association
+website: https://www.mountvernon.org
+sources:
+  - https://www.mountvernon.org/plan-your-visit/be-washington/interactive-theater

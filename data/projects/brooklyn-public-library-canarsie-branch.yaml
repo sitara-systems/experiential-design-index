@@ -1,0 +1,23 @@
+id: brooklyn-public-library-canarsie-branch
+name: Canarsie Branch
+venue: brooklyn-public-library-canarsie
+project_type: new-building
+status: announced
+year_expected: 2027
+credits:
+  - firm: studio-joseph
+    role: architecture
+  - firm: sm-w
+    role: av-integration
+    note: "Shen Milsom & Wilke; AV/IT consulting. No firm record yet"
+  - firm: tillotson-design-associates
+    role: lighting-design
+    note: "No firm record yet"
+summary: >
+  The Canarsie Branch, a new 10,000-square-foot Brooklyn Public Library
+  building, is planned to open in Canarsie, Brooklyn, New York in 2027,
+  designed by Studio Joseph with AV/IT consulting by Shen Milsom & Wilke and
+  lighting design by Tillotson Design Associates.
+description: ""
+sources:
+  - https://studiojoseph.com/work/canarsie-branch

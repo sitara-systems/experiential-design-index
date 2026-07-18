@@ -1,0 +1,23 @@
+id: seattle-art-museum-mirror
+name: Mirror
+venue: seattle-art-museum
+project_type: installation
+year_completed: 2013
+credits:
+  - firm: av-c
+    role: media-design
+    note: "Design, programming, and installation of the facade artwork, in collaboration with artist Doug Aitken"
+technologies:
+  - LED facade display
+  - real-time data visualization
+summary: >
+  Mirror, a permanent architectural media artwork by artist Doug Aitken on
+  the facade of the Seattle Art Museum, was unveiled March 24, 2013; AV&C
+  collaborated with Aitken on the design, programming, and installation of
+  the system, which algorithmically recombines footage of Seattle using
+  live weather, tide, and pedestrian data.
+description: ""
+sources:
+  - https://www.av-controls.com/mirror
+  - https://art.seattleartmuseum.org/objects/38896/mirror
+  - https://www.complex.com/style/2013/03/the-seattle-art-museum-will-show-permanent-facade-installation-mirror-by-doug-aitken

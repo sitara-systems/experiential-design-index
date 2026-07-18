@@ -1,0 +1,9 @@
+id: seattle-academy-of-arts-and-sciences
+name: Seattle Academy of Arts and Sciences
+venue_type: academic-institution
+location:
+  city: Seattle
+  state: WA
+website: https://www.seattleacademy.org
+sources:
+  - https://studiomatthews.com/project/high-school-signage-storytelling/

@@ -1,0 +1,9 @@
+id: us-holocaust-memorial-museum
+name: United States Holocaust Memorial Museum
+venue_type: history-museum
+location:
+  city: Washington
+  state: DC
+website: https://www.ushmm.org
+sources:
+  - https://www.ushmm.org/information/press/press-releases/museum-opens-new-exhibition-americans-and-the-holocaust

@@ -1,0 +1,11 @@
+id: college-football-hall-of-fame
+name: College Football Hall of Fame
+venue_type: sports-venue
+location:
+  city: Atlanta
+  state: GA
+operator: Atlanta Hall Management
+website: https://www.cfbhall.com
+sources:
+  - https://en.wikipedia.org/wiki/College_Football_Hall_of_Fame
+  - https://www.archdaily.com/796711/college-football-hall-of-fame-tvsdesign

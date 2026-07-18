@@ -1,0 +1,32 @@
+id: sailing-museum-newport-core
+name: The Sailing Museum & National Sailing Hall of Fame
+venue: sailing-museum-newport
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: rlmg
+    role: exhibit-design
+    note: "Richard Lewis Media Group"
+  - firm: hadley-exhibits
+    role: fabrication
+    note: "No firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: 16 exhibit installations across video walls, projection, and interactive systems
+  - firm: healykohler
+    role: exhibit-design
+    note: "No firm record yet"
+technologies:
+  - dome projection
+  - haptic technology
+  - QR-enabled tracking
+summary: >
+  The Sailing Museum & National Sailing Hall of Fame, an 8,500 sq ft museum
+  in the historic Armory Building in Newport, Rhode Island, opened May 10,
+  2022; RLMG designed the exhibits, Hadley Exhibits fabricated them, and
+  Electrosonic engineered and integrated the AV and interactive systems.
+description: ""
+sources:
+  - https://www.forbes.com/sites/billspringer/2022/09/15/the-sailing-museum-in-newport-rhode-island-is-an-instant-landmark/
+  - https://www.electrosonic.com/projects/the-sailing-museum
+  - https://www.rlmg.com/work/the-sailing-museum

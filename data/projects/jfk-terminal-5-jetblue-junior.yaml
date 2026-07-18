@@ -1,0 +1,37 @@
+id: jfk-terminal-5-jetblue-junior
+name: JetBlue Junior
+venue: jfk-terminal-5
+project_type: installation
+year_completed: 2014
+credits:
+  - firm: gensler
+    role: architecture
+    note: "Terminal 5i base-building architecture"
+  - firm: unified-field
+    role: media-design
+  - firm: sh-skolnick
+    role: exhibit-design
+    note: "No firm record yet; Lee H. Skolnick Architecture + Design Partnership — concept design, interior design, interpretive planning, graphic design"
+technologies:
+  - cockpit flight simulator
+  - interactive touchscreens
+  - digital memory game
+status: completed
+summary: >
+  JetBlue Junior, a 650-square-foot aviation-themed interactive play space
+  for children ages 2-12, opened at JFK Airport's Terminal 5i in New York
+  around the terminal's international-arrivals expansion in November 2014;
+  base-building architecture by Gensler, exhibit and interpretive design by
+  Lee H. Skolnick Architecture + Design Partnership, and media design by
+  Unified Field.
+description: >
+  The space includes a cockpit flight simulator letting children pilot a
+  Boeing 737 from New York to San Juan, interactive airplane-window
+  displays of JetBlue destinations, a Concentration-style landmark memory
+  game, an illustrated aviation-history timeline, and a reading nook. The
+  play space has since closed (confirmed no longer operating as of 2021).
+sources:
+  - https://segd.org/projects/jetblue-junior-childrens-play-area/
+  - https://www.skolnick.com/jetblue-junior
+  - https://www.unifiedfield.com/projects/jetblue
+  - https://ir.jetblue.com/news/news-details/2014/JetBlue-Airways-Opens-International-Arrivals-Concourse-at-Its-Award-Winning-Terminal-5-at-John-F.-Kennedy-International-Airport-11-12-2014/default.aspx

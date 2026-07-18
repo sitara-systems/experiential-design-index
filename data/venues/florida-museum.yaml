@@ -1,0 +1,10 @@
+id: florida-museum
+name: Florida Museum of Natural History
+venue_type: natural-history-museum
+location:
+  city: Gainesville
+  state: FL
+operator: University of Florida
+website: https://www.floridamuseum.ufl.edu
+sources:
+  - https://www.floridamuseum.ufl.edu

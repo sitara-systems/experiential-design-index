@@ -1,0 +1,9 @@
+id: advisory-board-company-headquarters
+name: The Advisory Board Company Headquarters
+venue_type: briefing-center
+location:
+  city: Washington
+  state: DC
+operator: The Advisory Board Company
+sources:
+  - https://www.cgpartnersllc.com/projects/member-center/

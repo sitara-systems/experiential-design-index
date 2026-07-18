@@ -1,0 +1,10 @@
+id: mogan-cultural-center
+name: Mogan Cultural Center
+venue_type: visitor-center
+location:
+  city: Lowell
+  state: MA
+operator: Lowell National Historical Park / National Park Service
+website: https://www.nps.gov/lowe/
+sources:
+  - https://www.nps.gov/lowe/learn/cultural-exhibit-project.htm

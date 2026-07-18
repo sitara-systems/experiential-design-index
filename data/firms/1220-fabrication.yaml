@@ -1,0 +1,30 @@
+# Firm record — 1220 Exhibits
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: 1220-fabrication
+name: 1220 Exhibits
+aka:
+  - "1220"
+website: https://1220.com
+hq:
+  city: Nashville
+  state: TN
+founded: 1972
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Active project/capabilities pages and job postings maintained on 1220.com
+  as of this check; credited on the National WWII Museum's 2023 capstone
+  Liberation Pavilion phase.
+status_verified: 2026-07-18
+summary: >
+  1220 Exhibits is a Nashville, Tennessee-based exhibit fabrication company,
+  operating since 1972, building museum exhibits, scenic environments, and
+  large-scale installations for cultural, corporate, and collegiate clients.
+sources:
+  - https://1220.com/
+  - https://1220.com/about/
+  - https://1220.com/capabilities/fabrication/
+  - https://gallagherdesign.com/project/nmaam/
+  - https://gallagherdesign.com/project/wwii/

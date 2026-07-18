@@ -1,0 +1,9 @@
+id: peabody-essex-museum
+name: Peabody Essex Museum
+venue_type: art-museum
+location:
+  city: Salem
+  state: MA
+website: https://www.pem.org
+sources:
+  - https://www.pem.org

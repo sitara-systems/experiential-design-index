@@ -1,0 +1,10 @@
+id: chicago-architecture-center
+name: Chicago Architecture Center
+venue_type: design-museum
+location:
+  city: Chicago
+  state: IL
+website: https://www.architecture.org
+sources:
+  - https://www.architecture.org/online-resources/stories-of-chicago/chicago-architecture-center-opens-august-31
+  - https://gallagherdesign.com/project/cac/

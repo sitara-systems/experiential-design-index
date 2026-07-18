@@ -1,0 +1,10 @@
+id: mississippi-aquarium
+name: Mississippi Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Gulfport
+  state: MS
+website: https://msaquarium.org
+sources:
+  - https://msaquarium.org/
+  - https://solomongroup.com/projects/the-mississippi-aquarium

@@ -1,0 +1,26 @@
+id: history-colorado-center-core
+name: History Colorado Center
+venue: history-colorado-center
+project_type: new-building
+year_completed: 2012
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "28 interactive installations incl. 22-foot Christie MicroTile timeline display and motion-controlled floor map"
+  - firm: andrew-merriell
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: nassal
+    role: fabrication
+    note: "Credited on RLMG's project page as \"Nassal/Lexington\"; no firm record yet"
+technologies:
+  - motion-controlled floor map
+  - multi-tile video wall
+summary: >
+  The History Colorado Center, a new state history museum in Denver,
+  Colorado, opened in 2012; RLMG designed 28 interactive media
+  installations, with exhibit design by Andrew Merriell and fabrication by
+  Nassal/Lexington. The project received an AAM MUSE Award.
+description: ""
+sources:
+  - https://www.rlmg.com/work/history-colorado-center

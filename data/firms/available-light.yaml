@@ -1,0 +1,30 @@
+# Firm record — Available Light
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: available-light
+name: Available Light
+aka: []
+website: https://www.availablelight.com
+hq:
+  city: Boston
+  state: MA
+founded: 1992
+roles:
+  - lighting-design
+status: active
+status_basis: >
+  Active project portfolio maintained on availablelight.com as of this check;
+  credited on the National Medal of Honor Museum firm status_basis project
+  window and multiple 2018-2022 museum openings.
+status_verified: 2026-07-18
+summary: >
+  Available Light is a Boston-based lighting design firm, operating since
+  1992, specializing in exhibition and architectural lighting for museums,
+  themed environments, and immersive spaces.
+sources:
+  - https://www.availablelight.com/
+  - https://www.availablelight.com/specialties/museum-exhibition
+  - https://www.availablelight.com/team/
+  - https://gallagherdesign.com/project/sazerac/
+  - https://gallagherdesign.com/project/spy/
+  - https://gallagherdesign.com/project/max/

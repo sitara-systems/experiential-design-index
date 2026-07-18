@@ -1,0 +1,30 @@
+id: academy-museum-hollywoodland
+name: "Hollywoodland: Jewish Founders and the Making of a Movie Capital"
+venue: academy-museum-of-motion-pictures
+project_type: temporary-exhibition
+year_completed: 2023
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Four-projector cyclorama topographic map projection"
+  - firm: why-architecture-workshop
+    role: architecture
+    note: "No firm record yet"
+  - firm: bbi-engineering
+    role: av-integration
+    note: "No firm record yet"
+  - firm: cinnabar
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - projection mapping
+  - four-projector cyclorama
+summary: >
+  "Hollywoodland: Jewish Founders and the Making of a Movie Capital," a
+  temporary exhibition at the Academy Museum of Motion Pictures in Los
+  Angeles, opened in 2023; RLMG designed a four-projector cyclorama
+  projection onto a topographic city model, with WHY Architecture Workshop,
+  BBI Engineering, and Cinnabar contributing to the installation.
+description: ""
+sources:
+  - https://www.rlmg.com/work/academy-museum-of-motion-pictures

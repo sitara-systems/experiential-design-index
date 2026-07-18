@@ -1,0 +1,11 @@
+id: sagamore-spirit-distillery
+name: Sagamore Spirit Distillery
+venue_type: brand-experience-center
+location:
+  city: Baltimore
+  state: MD
+operator: Sagamore Spirit
+website: https://sagamorespirit.com
+sources:
+  - https://ayerssaintgross.com/work/project/sagamore-spirit-distillery/
+  - https://sagamorespirit.com/distillery-experience/

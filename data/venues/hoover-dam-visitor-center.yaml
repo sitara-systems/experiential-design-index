@@ -1,0 +1,11 @@
+id: hoover-dam-visitor-center
+name: Hoover Dam Visitor Center
+venue_type: visitor-center
+location:
+  city: Boulder City
+  state: NV
+operator: U.S. Bureau of Reclamation
+website: https://www.usbr.gov/lc/hooverdam/
+sources:
+  - https://www.usbr.gov/newsroom/news-release/5183
+  - https://hydro.org/powerhouse/article/history-reimagined-step-inside-the-new-hoover-dam-visitor-experience/

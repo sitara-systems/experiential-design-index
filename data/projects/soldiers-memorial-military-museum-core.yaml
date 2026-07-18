@@ -1,0 +1,25 @@
+id: soldiers-memorial-military-museum-core
+name: Soldiers Memorial Military Museum
+venue: soldiers-memorial-military-museum
+project_type: major-renovation
+year_completed: 2018
+credits:
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: solomon-group
+    role: fabrication
+  - firm: solomon-group
+    role: av-integration
+  - firm: solomon-group
+    role: graphics-wayfinding
+technologies:
+  - interactive media
+summary: >
+  Soldiers Memorial Military Museum in St. Louis reopened November 3, 2018
+  following a $30 million restoration; exhibit design by Gallagher &
+  Associates, with fabrication, wayfinding, and AV integration by Solomon
+  Group.
+description: ""
+sources:
+  - https://solomongroup.com/projects/soldiers-memorial-military-museum
+  - https://www.stlpr.org/show/st-louis-on-the-air/2018-11-02/soldiers-memorial-reopens-in-downtown-st-louis-after-major-renovation-inside-and-out

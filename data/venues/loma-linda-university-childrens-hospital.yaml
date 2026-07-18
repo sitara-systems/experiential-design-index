@@ -1,0 +1,11 @@
+id: loma-linda-university-childrens-hospital
+name: Loma Linda University Children's Hospital
+venue_type: healthcare-institution
+location:
+  city: Loma Linda
+  state: CA
+operator: Loma Linda University Health
+website: https://lluch.org/locations/loma-linda-university-childrens-hospital
+sources:
+  - https://news.llu.edu/health-wellness/first-of-its-kind-interactive-digital-wall-unveiled-loma-linda-university-children-s-hospital
+  - https://www.fastcompany.com/91015324/the-clever-way-one-california-hospital-made-visits-a-lot-less-stressful-for-children

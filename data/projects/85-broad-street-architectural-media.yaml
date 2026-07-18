@@ -1,0 +1,25 @@
+id: 85-broad-street-architectural-media
+name: 85 Broad Street Architectural Media
+venue: 85-broad-street
+project_type: installation
+year_completed: 2018
+credits:
+  - firm: esi-design
+    role: media-design
+    note: "Experience design lead"
+  - firm: av-c
+    role: media-design
+    note: "Generative software engine driving the lobby's dynamic media surfaces"
+technologies:
+  - LED display
+  - generative software
+summary: >
+  A building-wide digital media program integrating light sculptures, an LED
+  lobby archway, and elevator-vestibule displays opened at 85 Broad Street in
+  New York's Financial District around 2018; experience design by ESI Design
+  with software by AV&C for building owner Beacon Capital Partners.
+description: ""
+sources:
+  - https://www.av-controls.com/85-broad-street
+  - https://esidesign.com/work/85-broad-street-new-york-corporate-lobby-renovation/
+  - https://untappedcities.com/2018/03/12/400-year-old-nyc-street-calls-financial-district-lobby-home/

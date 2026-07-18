@@ -1,0 +1,10 @@
+id: nasa-goddard-visitor-center
+name: NASA Goddard Visitor Center
+venue_type: visitor-center
+location:
+  city: Greenbelt
+  state: MD
+operator: NASA
+website: https://www.nasa.gov/goddard/visitor-center/
+sources:
+  - https://www.nasa.gov/goddard/visitor-center/

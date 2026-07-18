@@ -1,0 +1,24 @@
+id: one-world-observatory-core
+name: One World Observatory
+venue: one-world-observatory
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: the-hettema-group
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: Facility-wide video, control, projection mapping, and LED wall systems across a 120,000 sq ft facility
+technologies:
+  - projection mapping
+  - LED video walls
+summary: >
+  One World Observatory, a 120,000 sq ft attraction atop One World Trade
+  Center in New York City, opened May 29, 2015; The Hettema Group designed
+  the visitor experience and Electrosonic integrated its AV, video, and
+  projection-mapping systems.
+description: ""
+sources:
+  - https://www.prnewswire.com/news-releases/one-world-observatory-announces-friday-may-29-opening-date-300062077.html
+  - https://www.electrosonic.com/projects/one-world-observatory

@@ -1,0 +1,9 @@
+id: path-with-art
+name: Path with Art
+venue_type: other
+location:
+  city: Seattle
+  state: WA
+website: https://pathwithart.org
+sources:
+  - https://studiomatthews.com/project/arthome/

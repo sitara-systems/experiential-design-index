@@ -1,0 +1,12 @@
+id: griffin-museum-of-science-and-industry
+name: Griffin Museum of Science and Industry
+aka:
+  - Museum of Science and Industry, Chicago
+  - MSI Chicago
+venue_type: science-center
+location:
+  city: Chicago
+  state: IL
+website: https://www.msichicago.org
+sources:
+  - https://www.msichicago.org

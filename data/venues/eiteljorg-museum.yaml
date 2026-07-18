@@ -1,0 +1,9 @@
+id: eiteljorg-museum
+name: Eiteljorg Museum of American Indians and Western Art
+venue_type: art-museum
+location:
+  city: Indianapolis
+  state: IN
+website: https://eiteljorg.org
+sources:
+  - https://eiteljorg.org

@@ -1,0 +1,11 @@
+id: the-white-house
+name: The White House
+venue_type: other
+location:
+  city: Washington
+  state: DC
+operator: National Park Service / White House Historical Association
+website: https://www.whitehouse.gov/
+sources:
+  - https://www.npr.org/2024/10/30/nx-s1-5165402/white-house-tours-get-a-revamp-for-the-first-time-in-decades
+  - https://esi.nbbj.com/work/the-white-house-public-tour

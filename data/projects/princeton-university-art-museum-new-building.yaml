@@ -1,0 +1,49 @@
+id: princeton-university-art-museum-new-building
+name: Princeton University Art Museum
+venue: princeton-university-art-museum
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: adjaye-associates
+    role: architecture
+    note: "Design architect. No firm record yet"
+  - firm: cooper-robertson
+    role: architecture
+    note: "Executive architect. No firm record yet"
+  - firm: studio-joseph
+    role: exhibit-design
+    note: "Exhibition and casework design"
+  - firm: 2x4
+    role: graphics-wayfinding
+    note: "Signage and wayfinding. No firm record yet"
+  - firm: bluecadet
+    role: media-design
+    note: "In-gallery films, digital signage, and lobby displays"
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Per Studio Joseph's own project page"
+  - firm: click-netherfield
+    role: fabrication
+    note: "Specialty casework. No firm record yet"
+  - firm: goppion
+    role: fabrication
+    note: "Embedded casework. No firm record yet"
+  - firm: tillotson-design-associates
+    role: lighting-design
+    note: "No firm record yet"
+technologies:
+  - digital signage
+  - film
+summary: >
+  The 146,000-square-foot new Princeton University Art Museum building,
+  designed by Adjaye Associates with Cooper Robertson as executive architect,
+  opened in Princeton, New Jersey on October 31, 2025, with exhibition and
+  casework design by Studio Joseph, signage and wayfinding by 2x4, and
+  digital media by Bluecadet.
+description: ""
+sources:
+  - https://www.princeton.edu/news/2025/10/09/town-square-arts-and-humanities-new-princeton-university-art-museum-shares-opening
+  - https://www.dezeen.com/2025/10/31/adjaye-associates-princeton-university-art-museum/
+  - https://www.archdaily.com/1035665/princeton-university-art-museum-adjaye-associates
+  - https://www.bluecadet.com/work/digital-signage-storytelling
+  - https://studiojoseph.com/work/princeton-university-art-museum

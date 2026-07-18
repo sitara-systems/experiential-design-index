@@ -1,0 +1,10 @@
+id: witte-museum
+name: The Witte Museum
+venue_type: natural-history-museum
+location:
+  city: San Antonio
+  state: TX
+website: https://www.wittemuseum.org
+sources:
+  - https://www.wittemuseum.org/about/history/
+  - https://gallagherdesign.com/project/witte/

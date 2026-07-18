@@ -1,0 +1,10 @@
+id: christies-rockefeller-center
+name: "Christie's — Rockefeller Center"
+venue_type: other
+location:
+  city: New York
+  state: NY
+operator: Christie's
+website: https://www.christies.com
+sources:
+  - https://collectordaily.com/auction-results-visionary-the-paul-g-allen-collection-parts-i-and-ii-november-9-and-10-2022-christies/

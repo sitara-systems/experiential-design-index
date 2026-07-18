@@ -1,0 +1,9 @@
+id: discovery-times-square
+name: Discovery Times Square
+venue_type: other
+location:
+  city: New York
+  state: NY
+operator: Running Subway Productions
+sources:
+  - https://www.starwars.com/news/star-wars-and-the-power-of-costume-set-to-invade-discovery-times-square

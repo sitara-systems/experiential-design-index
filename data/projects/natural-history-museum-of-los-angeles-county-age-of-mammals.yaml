@@ -1,0 +1,28 @@
+id: natural-history-museum-of-los-angeles-county-age-of-mammals
+name: Age of Mammals
+venue: natural-history-museum-of-los-angeles-county
+project_type: new-exhibition
+year_completed: 2010
+credits:
+  - firm: second-story
+    role: media-design
+    note: "Seven media installations complementing the fossil displays"
+  - firm: cinnabar
+    role: fabrication
+    note: >
+      Custom specimen cases, information rails, exhibit platforms, and AV
+      systems; no firm record yet
+technologies:
+  - motion graphics
+  - film/video
+  - interactive touch experiences
+summary: >
+  Age of Mammals, the first major new permanent exhibition at the Natural
+  History Museum of Los Angeles County in twenty years, opened July 2010;
+  Second Story created seven interactive media installations and Cinnabar
+  fabricated the specimen cases and exhibit platforms.
+description: ""
+sources:
+  - https://nhm.org/experience-nhm/exhibitions-natural-history-museum/age-mammals
+  - https://cinnabar.com/project/the-age-of-mammals/
+  - https://2s-archive.rzrfs.com/work/nhmlac-aom

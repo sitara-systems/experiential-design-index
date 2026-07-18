@@ -1,0 +1,28 @@
+id: museum-of-international-folk-art-appearances-deceive
+name: "Appearances Deceive: Embroideries by Policarpio Valencia — Digital Interactive"
+venue: museum-of-international-folk-art
+project_type: installation
+year_completed: 2025
+credits:
+  - firm: ideum
+    role: media-design
+    note: Touch-and-projection interactive letting visitors pan, zoom, and hear bilingual readings of Policarpio Valencia's embroidered textiles
+technologies:
+  - touchscreen
+  - projection
+  - Unity
+summary: >
+  A digital interactive companion to Appearances Deceive: Embroideries by
+  Policarpio Valencia opened June 8, 2025, in the Museum of International
+  Folk Art's Hispanic Heritage Wing in Santa Fe, New Mexico, designed and
+  built by Ideum.
+description: >
+  Housed in a custom table built by MOIFA, the interactive runs on a 65"
+  Ideum touch display paired with a projection that mirrors the screen at
+  larger scale for other gallery visitors. Visitors pan and zoom the
+  embroidered textiles, view the reverse side, and hear descendants of
+  Policarpio Valencia read the stitched text aloud in English and Spanish,
+  paired with word-by-word text animation.
+sources:
+  - https://ideum.com/portfolio/new-mexican-art-at-moifa
+  - https://moifa.org/event/details/6656/2025/06/exhibition-opening-appearances-deceive-embroideries-by-policarpio-valencia

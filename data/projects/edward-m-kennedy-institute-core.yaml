@@ -1,0 +1,25 @@
+id: edward-m-kennedy-institute-core
+name: Edward M. Kennedy Institute for the United States Senate
+venue: edward-m-kennedy-institute
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Tablet-controlled wall displays and 'Great Senate Debates' video series for a life-sized Senate Chamber replica"
+  - firm: electrosonic
+    role: av-integration
+  - firm: esi-design
+    role: exhibit-design
+technologies:
+  - tablet-controlled display
+  - live reenactment video
+summary: >
+  The Edward M. Kennedy Institute for the United States Senate, a 400,000
+  sq ft educational facility with a full-scale U.S. Senate Chamber replica
+  on the University of Massachusetts Boston campus, opened in 2015; RLMG
+  designed the interactive media, with exhibit design by ESI Design and AV
+  integration by Electrosonic.
+description: ""
+sources:
+  - https://www.rlmg.com/work/edward-m-kennedy-institute

@@ -1,0 +1,28 @@
+id: terrell-place-media-wall
+name: Terrell Place Interactive Media Wall
+venue: terrell-place
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: esi-design
+    role: media-design
+    note: "Experience design lead; 1,700 sq ft of motion-activated LED display"
+  - firm: av-c
+    role: media-design
+    note: "Software platform driving the three content modes (Seasons, Color Play, Cityscape)"
+  - firm: gensler
+    role: architecture
+    note: "Lobby renovation architect; no firm record yet"
+technologies:
+  - motion sensing
+  - LED display
+summary: >
+  Terrell Place, a Washington, DC office building, unveiled a 1,700-square-foot
+  motion-activated media wall in its lobby in 2016 as part of a Gensler-designed
+  renovation, with experience design by ESI Design and software by AV&C for
+  owner Beacon Capital Partners.
+description: ""
+sources:
+  - https://www.av-controls.com/terrell-place
+  - https://www.architectmagazine.com/technology/a-look-behind-esi-designs-interactive-media-wall-at-terrell-place
+  - https://www.designboom.com/art/esi-design-terrell-place-reactive-media-installation-washington-dc-07-11-2016/

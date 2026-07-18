@@ -1,0 +1,9 @@
+id: museum-of-science-and-industry-chicago
+name: Museum of Science and Industry, Chicago
+venue_type: science-center
+location:
+  city: Chicago
+  state: IL
+website: https://www.msichicago.org
+sources:
+  - https://studiomatthews.com/project/take-flight/

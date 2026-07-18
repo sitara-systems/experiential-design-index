@@ -1,0 +1,9 @@
+id: overlake-medical-center
+name: Overlake Medical Center
+venue_type: healthcare-institution
+location:
+  city: Bellevue
+  state: WA
+website: https://www.overlakehospital.org
+sources:
+  - https://studiomatthews.com/project/overlake/

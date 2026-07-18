@@ -1,0 +1,29 @@
+id: concord-museum-april-19-1775
+name: April 19, 1775 Gallery and Website
+venue: concord-museum
+project_type: new-exhibition
+year_completed: 2021
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "6-minute animated map projection plus companion interactive-timeline website"
+  - firm: amaze-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: mystic-scenic
+    role: fabrication
+    note: "No firm record yet"
+  - firm: new-england-technology-group
+    role: av-integration
+    note: "No firm record yet"
+technologies:
+  - projection mapping
+  - interactive timeline website
+summary: >
+  April 19, 1775 Gallery and Website, an exhibition and companion website on
+  the outbreak of the Revolutionary War at the Concord Museum in Concord,
+  Massachusetts, opened in 2021; RLMG designed the projected map animation
+  and the interactive website, with exhibit design by Amaze Design.
+description: ""
+sources:
+  - https://www.rlmg.com/work/april-19th-gallery-and-website

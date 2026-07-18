@@ -1,0 +1,36 @@
+id: wl-gore-capabilities-center-experience
+name: W. L. Gore & Associates Capabilities Center
+venue: wl-gore-capabilities-center
+project_type: new-exhibition
+year_completed: 2022
+credits:
+  - firm: digsau
+    role: architecture
+    note: "No firm record yet"
+  - firm: taylor-inc
+    role: fabrication
+    note: "No firm record yet"
+  - firm: diversified
+    role: av-integration
+    note: "No firm record yet"
+  - firm: bluecadet
+    role: media-design
+    note: >
+      Interactive experiences including the Advanced Materials Spiral,
+      immersive theater, product wall, and performance pods.
+technologies:
+  - RFID
+  - projection
+  - touchscreen interactives
+summary: >
+  The W. L. Gore & Associates Capabilities Center, a brand experience center
+  at Gore's headquarters in Newark, Delaware, opened in 2022 with architecture
+  by DIGSAU, fabrication by Taylor Inc., AV systems by Diversified, and
+  interactive media by Bluecadet.
+description: ""
+sources:
+  - https://www.bluecadet.com/work/wl-gore
+  - https://segd.org/projects/gore-capabilities-center/
+  - http://www.digsau.com/projects/gore-capabilities-center
+  - https://www.gore.com/about/gore-capabilities-center
+  - https://www.taylorinc.com/our-work/gore-innovation-center

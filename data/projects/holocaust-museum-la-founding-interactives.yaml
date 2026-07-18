@@ -1,0 +1,38 @@
+id: holocaust-museum-la-founding-interactives
+name: "Memory Pool and 18 Camps"
+venue: holocaust-museum-la
+project_type: new-exhibition
+year_completed: 2010
+credits:
+  - firm: potion-design
+    role: media-design
+    note: "Designed and fabricated the Memory Pool interactive table and the 18 Camps interactive display field for the museum's opening galleries"
+  - firm: belzberg-architects
+    role: architecture
+    note: "Museum building architect; no firm record yet"
+  - firm: variate-labs
+    role: technical-consulting
+    note: "Interactive strategy consultant, worked with the museum, architect, AV consultant, and Potion to conceive and deliver the interactives; no firm record yet"
+technologies:
+  - large-scale touch-sensitive tabletop surface
+  - field of interactive screens
+  - custom content management system
+summary: >
+  Memory Pool and 18 Camps, two permanent interactive installations in the
+  opening galleries of Holocaust Museum LA (then the Los Angeles Museum of
+  the Holocaust) in Los Angeles, California, opened with the museum's new
+  Pan Pacific Park building on October 14, 2010; Potion designed and
+  fabricated both interactives, working with interactive strategy consultant
+  Variate Labs, in a building designed by Belzberg Architects.
+description: >
+  Memory Pool is a tabletop touchscreen installation displaying archival
+  photographs and testimony of pre-war European Jewish families; 18 Camps is
+  a field of interactive screens in the museum's Holocaust gallery, each
+  screen devoted to a specific concentration camp. Potion also produced a
+  companion handheld Spatial Audio Guide for the museum, not separately
+  recorded here.
+sources:
+  - https://www.dexigner.com/news/22713
+  - http://variatelabs.com/la-museum-of-holocaust/
+  - https://en.wikipedia.org/wiki/Holocaust_Museum_LA
+  - https://www.architecturalrecord.com/articles/7865-los-angeles-museum-of-the-holocaust

@@ -1,0 +1,25 @@
+id: museum-of-the-southern-jewish-experience-core
+name: Museum of the Southern Jewish Experience
+venue: museum-of-the-southern-jewish-experience
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: solomon-group
+    role: fabrication
+  - firm: solomon-group
+    role: av-integration
+  - firm: solomon-group
+    role: lighting-design
+technologies:
+  - media interactives
+summary: >
+  The Museum of the Southern Jewish Experience, the first dedicated museum
+  telling the story of Jewish immigrants across the American South, opened
+  May 27, 2021 in New Orleans; exhibit design by Gallagher & Associates,
+  with fabrication, AV integration, and lighting by Solomon Group.
+description: ""
+sources:
+  - https://solomongroup.com/projects/museum-of-the-southern-jewish-experience
+  - https://jewishinsider.com/2021/05/new-orleans-museum-of-southern-jewish-experience/

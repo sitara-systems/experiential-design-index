@@ -1,0 +1,10 @@
+id: library-of-congress
+name: Library of Congress (Thomas Jefferson Building)
+venue_type: library-archive
+location:
+  city: Washington
+  state: DC
+operator: Library of Congress
+website: https://www.loc.gov
+sources:
+  - https://www.loc.gov/loc/lcib/0806/jefferson.html

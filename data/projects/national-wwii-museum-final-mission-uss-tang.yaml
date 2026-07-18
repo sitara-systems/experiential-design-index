@@ -1,0 +1,33 @@
+id: national-wwii-museum-final-mission-uss-tang
+name: "Final Mission: The USS Tang Submarine Experience"
+venue: national-wwii-museum
+project_type: installation
+year_completed: 2013
+credits:
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: cortina-productions
+    role: media-design
+  - firm: romeantics
+    role: media-design
+    note: "No firm record yet"
+  - firm: available-light
+    role: lighting-design
+  - firm: solomon-group
+    role: technical-consulting
+    note: "Technical direction for the exhibit's AV integration"
+  - firm: solomon-group
+    role: av-integration
+technologies:
+  - 360-degree projection
+  - show control system
+  - multi-channel soundscape
+summary: >
+  Final Mission: The USS Tang Submarine Experience, an 11-minute interactive
+  submarine-battle simulation in the US Freedom Pavilion, opened in January
+  2013 at The National WWII Museum in New Orleans; exhibit design by
+  Gallagher & Associates with AV integration led by Solomon Group.
+description: ""
+sources:
+  - https://solomongroup.com/projects/the-national-wwii-museum-the-uss-tang-submarine-experience
+  - https://www.nationalww2museum.org/visit/museum-campus-guide/us-freedom-pavilion/final-mission-uss-tang-experience

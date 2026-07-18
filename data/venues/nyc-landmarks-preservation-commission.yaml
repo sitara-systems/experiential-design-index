@@ -1,0 +1,11 @@
+id: nyc-landmarks-preservation-commission
+name: NYC Landmarks Preservation Commission (Home Life Building offices)
+venue_type: other
+location:
+  city: New York
+  state: NY
+operator: New York City Landmarks Preservation Commission
+website: https://www.nyc.gov/site/lpc/index.page
+sources:
+  - https://www.archpaper.com/2025/06/mbb-architects-renovates-landmark-preservation-commission/
+  - https://www.mbbarch.com/studio/news/nyc-lpc-opens-new-headquarters-designed-by-mbb/

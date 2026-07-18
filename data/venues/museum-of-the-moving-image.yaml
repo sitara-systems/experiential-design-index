@@ -1,0 +1,9 @@
+id: museum-of-the-moving-image
+name: Museum of the Moving Image
+venue_type: art-museum
+location:
+  city: Astoria
+  state: NY
+website: https://movingimage.org
+sources:
+  - https://movingimage.org/about/museum-history/

@@ -1,0 +1,10 @@
+id: boise-watershed
+name: The Watershed
+venue_type: science-center
+location:
+  city: Boise
+  state: ID
+operator: City of Boise
+website: https://www.cityofboise.org/departments/public-works/the-water-renewal-services/the-watershed/
+sources:
+  - https://www.cityofboise.org/departments/public-works/the-water-renewal-services/the-watershed/

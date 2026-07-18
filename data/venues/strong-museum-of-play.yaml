@@ -1,0 +1,10 @@
+id: strong-museum-of-play
+name: The Strong National Museum of Play
+venue_type: childrens-museum
+location:
+  city: Rochester
+  state: NY
+website: https://www.museumofplay.org
+sources:
+  - https://www.museumofplay.org/exhibit/toy-halls-of-fame/
+  - https://en.wikipedia.org/wiki/The_Strong_National_Museum_of_Play

@@ -1,0 +1,34 @@
+id: battleship-missouri-memorial-pathway-to-peace
+name: "Pathway to Peace: USS Missouri's World War II Experience"
+venue: battleship-missouri-memorial
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: ideum
+    role: exhibit-design
+  - firm: ideum
+    role: media-design
+    note: Custom software including an eight-veteran oral-history interview station
+  - firm: ideum
+    role: fabrication
+    note: CNC-routed and metal-worked custom cabinets designed to be hand-carried through the ship's hatches without drilling into historic steel
+technologies:
+  - touchscreen kiosk
+  - projection
+  - oral history video interviews
+summary: >
+  Pathway to Peace: USS Missouri's World War II Experience, a permanent
+  exhibit aboard the historic Battleship Missouri Memorial (BB-63) at Pearl
+  Harbor, Hawaii, was unveiled September 2, 2025, on the 80th anniversary of
+  the end of World War II, designed, fabricated, and built by Ideum.
+description: >
+  The exhibit charts the Missouri's history from construction through its
+  Pacific War service and the September 2, 1945 Japanese surrender ceremony
+  aboard the ship, using large-scale archival-film projection, interpretive
+  graphics, and custom fabricated cabinets fitted to the ship's bulkheads. A
+  dedicated oral history station features eight video interviews with
+  surviving WWII veterans, with a Naval-ID-card interface letting visitors
+  select a veteran and navigate through recorded interview questions.
+sources:
+  - https://ideum.com/portfolio/pathway-to-peace-uss-missouris-world-war-ii-experience
+  - https://ideum.com/news/ideum-reflects-on-2024

@@ -1,0 +1,31 @@
+# Firm record — History Associates Incorporated
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: history-associates
+name: History Associates Incorporated
+aka:
+  - HAI
+website: https://www.historyassociates.com
+hq:
+  city: Rockville
+  state: MD
+founded: 1981
+roles:
+  - interpretive-planning
+status: active
+status_basis: >
+  Active site with dated project posts (incl. a post on the Mississippi Arts
+  + Entertainment Experience) and a maintained services/timeline page as of
+  this check.
+status_verified: 2026-07-18
+summary: >
+  History Associates Incorporated (HAI) is a Rockville, Maryland-based
+  historical research, archival services, and interpretive-content firm,
+  founded in 1981, providing research, scriptwriting, and storytelling
+  services to museums, corporations, and government clients.
+sources:
+  - https://www.historyassociates.com/
+  - https://www.historyassociates.com/timeline/
+  - https://www.historyassociates.com/history-associates-conducts-research-and-image-acquisition-for-striking-new-museum-mississippi-arts-entertainment-experience/
+  - https://gallagherdesign.com/project/sazerac/
+  - https://gallagherdesign.com/project/spy/

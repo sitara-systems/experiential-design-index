@@ -1,0 +1,9 @@
+id: sarah-lawrence-college
+name: Sarah Lawrence College
+venue_type: academic-institution
+location:
+  city: Bronxville
+  state: NY
+website: https://www.sarahlawrence.edu
+sources:
+  - https://www.sarahlawrence.edu/news-events/news/2019-09-06-sarah-lawrence-college-welcomes-students,-opens-new-barbara-walters-campus-center-fs.html

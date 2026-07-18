@@ -1,0 +1,24 @@
+id: world-of-coca-cola-beverage-lab
+name: Beverage Lab
+venue: world-of-coca-cola
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: solomon-group
+    role: exhibit-design
+    note: "Experience development"
+  - firm: solomon-group
+    role: fabrication
+  - firm: solomon-group
+    role: av-integration
+technologies:
+  - interactive projection
+  - motion sensing
+summary: >
+  The Beverage Lab, an interactive exhibit letting visitors participate in
+  beverage creation, opened November 2024 at the World of Coca-Cola in
+  Atlanta; Solomon Group served as experience-development, fabrication, and
+  AV-integration partner.
+description: ""
+sources:
+  - https://solomongroup.com/projects/world-of-coca-cola-beverage-lab

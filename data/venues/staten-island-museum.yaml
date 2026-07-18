@@ -1,0 +1,10 @@
+id: staten-island-museum
+name: Staten Island Museum
+venue_type: history-museum
+location:
+  city: Staten Island
+  state: NY
+website: https://www.statenislandmuseum.org
+sources:
+  - https://www.statenislandmuseum.org/exhibitions/takingcare/
+  - https://studiomatthews.com/project/staten-island-museum-taking-care/

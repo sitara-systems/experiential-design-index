@@ -1,0 +1,9 @@
+id: snug-harbor-cultural-center
+name: Snug Harbor Cultural Center & Botanical Garden
+venue_type: cultural-center
+location:
+  city: Staten Island
+  state: NY
+website: https://snug-harbor.org
+sources:
+  - https://studiojoseph.com/work/music-hall

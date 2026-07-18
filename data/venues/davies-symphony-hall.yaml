@@ -1,0 +1,11 @@
+id: davies-symphony-hall
+name: Louise M. Davies Symphony Hall
+venue_type: cultural-center
+location:
+  city: San Francisco
+  state: CA
+operator: San Francisco Symphony
+website: https://www.sfsymphony.org
+sources:
+  - https://www.av-controls.com/chromatic
+  - https://en.wikipedia.org/wiki/Louise_M._Davies_Symphony_Hall

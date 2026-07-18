@@ -1,0 +1,24 @@
+id: bob-graham-center-civil-debate-wall
+name: Civil Debate Wall
+venue: bob-graham-center
+project_type: installation
+year_completed: 2012
+credits:
+  - firm: local-projects
+    role: exhibit-design
+    note: "Synchronized media wall for collaborative public debate, funded by a Knight Foundation grant"
+  - firm: zenith-systems
+    role: av-integration
+    note: "No firm record yet"
+technologies:
+  - synchronized media wall
+summary: >
+  The Civil Debate Wall, an interactive synchronized media installation for
+  collaborative public debate at the University of Florida's Bob Graham
+  Center for Public Service in Gainesville, was unveiled in January 2012 with
+  Knight Foundation funding; exhibit design by Local Projects with AV
+  integration by Zenith Systems.
+description: ""
+sources:
+  - https://localprojects.com/work/higher-ed/civil-debate-wall/
+  - https://knightfoundation.org/articles/wall-cutting-edge-tool-civil-debate/

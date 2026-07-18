@@ -1,0 +1,10 @@
+id: louis-armstrong-new-orleans-international-airport
+name: Louis Armstrong New Orleans International Airport
+venue_type: public-space
+location:
+  city: Kenner
+  state: LA
+website: https://flymsy.com
+sources:
+  - https://www.cnbc.com/2019/11/06/new-orleans-airport-debuts-1point3-billion-terminal.html
+  - https://solomongroup.com/projects/louis-armstrong-airport

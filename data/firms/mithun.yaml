@@ -1,0 +1,33 @@
+id: mithun
+name: Mithun
+aka: []
+website: https://mithun.com
+hq:
+  city: Seattle
+  state: WA
+other_offices:
+  - city: San Francisco
+    state: CA
+  - city: Los Angeles
+    state: CA
+founded: 1949
+roles:
+  - architecture
+  - master-planning
+status: active
+status_basis: >
+  Credited as architect on University Prep ULab (2023), Tacoma Community
+  College Center for Innovative Learning and Engagement (2025), and the
+  UW Haring Center for Inclusive Education renovation (reopened March
+  2024, LEED Platinum September 2024); received the 2023 AIA National
+  Architecture Firm Award.
+status_verified: 2026-07-18
+summary: >
+  Mithun is a Seattle-based architecture and design firm founded in 1949 by
+  Omer Mithun, with additional offices in San Francisco and Los Angeles,
+  known for integrated architecture, landscape architecture, and planning
+  work on educational, civic, and cultural buildings.
+sources:
+  - https://en.wikipedia.org/wiki/Mithun,_Inc
+  - https://www.aia.org/design-excellence/award-winners/architecture-firm-award-2023-mithun
+  - https://mithun.com/2024/03/20/uw-haring-center-reopens-to-students/

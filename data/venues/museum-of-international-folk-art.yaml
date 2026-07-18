@@ -1,0 +1,10 @@
+id: museum-of-international-folk-art
+name: Museum of International Folk Art
+venue_type: art-museum
+location:
+  city: Santa Fe
+  state: NM
+operator: New Mexico Department of Cultural Affairs
+website: https://www.internationalfolkart.org
+sources:
+  - https://www.internationalfolkart.org

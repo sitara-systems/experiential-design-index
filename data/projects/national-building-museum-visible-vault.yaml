@@ -1,0 +1,22 @@
+id: national-building-museum-visible-vault
+name: Visible Vault
+venue: national-building-museum
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: studio-joseph
+    role: exhibit-design
+  - firm: southside-design-build
+    role: fabrication
+    note: "No firm record yet"
+  - firm: delta-designs-ltd
+    role: fabrication
+    note: "Archival cabinetry. No firm record yet"
+summary: >
+  Visible Vault, an open-storage gallery displaying nearly 3,000 objects from
+  the National Building Museum's collection, opened in Washington, DC in
+  2024, with exhibition design by Studio Joseph, fabrication by Southside
+  Design + Build, and archival cabinetry by Delta Designs Ltd.
+description: ""
+sources:
+  - https://studiojoseph.com/work/visible-vault

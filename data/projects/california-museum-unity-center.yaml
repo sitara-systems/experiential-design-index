@@ -1,0 +1,25 @@
+id: california-museum-unity-center
+name: Unity Center
+venue: california-museum
+project_type: new-exhibition
+year_completed: 2017
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Interactive experiences on California diversity and civil rights, incl. 'Proud To Be Me' shadow projection"
+  - firm: bbi-engineering
+    role: av-integration
+    note: "No firm record yet"
+  - firm: west-office
+    role: exhibit-design
+    note: "No firm record yet"
+technologies:
+  - motion-tracked shadow projection
+summary: >
+  Unity Center, an exhibition on California's diversity and civil-rights
+  history at The California Museum in Sacramento, opened in 2017; RLMG
+  designed the interactive media, with exhibit design by West Office
+  Exhibition Design.
+description: ""
+sources:
+  - https://www.rlmg.com/work/unity-center

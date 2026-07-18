@@ -1,0 +1,9 @@
+id: worcester-art-museum
+name: Worcester Art Museum
+venue_type: art-museum
+location:
+  city: Worcester
+  state: MA
+website: https://www.worcesterart.org
+sources:
+  - https://www.worcesterart.org

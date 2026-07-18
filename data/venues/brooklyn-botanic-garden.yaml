@@ -1,0 +1,9 @@
+id: brooklyn-botanic-garden
+name: Brooklyn Botanic Garden
+venue_type: botanical-garden
+location:
+  city: Brooklyn
+  state: NY
+website: https://www.bbg.org
+sources:
+  - https://www.bbg.org/collections/gardens/discovery_garden

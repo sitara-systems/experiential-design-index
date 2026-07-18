@@ -1,0 +1,31 @@
+id: museum-of-fine-arts-boston-japanese-buddhist-temple-room
+name: Japanese Buddhist Temple Room Digital Interactive
+venue: museum-of-fine-arts-boston
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: ideum
+    role: media-design
+    note: Interactive 3D facsimile of the temple room and its seven sculptures, plus a flythrough animation of a traditional temple exterior
+  - firm: black-math
+    role: media-design
+    note: Refined the photogrammetry 3D scans of the sculptures used in the interactive. No firm record yet.
+technologies:
+  - photogrammetry
+  - touchscreen kiosk
+  - Unity
+summary: >
+  A digital interactive facsimile of the Museum of Fine Arts, Boston's
+  "Japanese Buddhist Temple Room," unveiled May 11, 2024, as part of the
+  renovated Arts of Japan galleries, was designed and developed by Ideum
+  using 3D scans refined by Black Math.
+description: >
+  Installed at the threshold before visitors reach the physical Temple Room
+  deep in the MFA's Arts of Japan galleries, the touchscreen kiosk lets
+  visitors tap hotspots on digital, photogrammetry-scanned versions of seven
+  centuries-old hand-carved Buddhist sculptures to learn about their
+  artistry, construction, and iconography, and to view conservation stories
+  for three of the works. The sculptures were scanned by the museum's
+  Conservation department in partnership with MIT students.
+sources:
+  - https://ideum.com/portfolio/mfa-virtual-japanese-buddhist-temple-room

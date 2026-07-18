@@ -1,0 +1,9 @@
+id: mohai
+name: Museum of History and Industry (MOHAI)
+venue_type: history-museum
+location:
+  city: Seattle
+  state: WA
+website: https://www.mohai.org
+sources:
+  - https://studiomatthews.com/project/bezos-center-for-innovation/

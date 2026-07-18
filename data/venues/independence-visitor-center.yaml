@@ -1,0 +1,10 @@
+id: independence-visitor-center
+name: Independence Visitor Center
+venue_type: visitor-center
+location:
+  city: Philadelphia
+  state: PA
+operator: Independence Visitor Center Corporation
+website: https://www.phlvisitorcenter.com
+sources:
+  - https://www.phlvisitorcenter.com/2019

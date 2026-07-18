@@ -1,0 +1,25 @@
+id: worcester-art-museum-arts-and-armor
+name: Arts and Armor Gallery
+venue: worcester-art-museum
+project_type: exhibition-refresh
+year_completed: 2025
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Animated media triptych projected into three historic arch openings"
+  - firm: ikd
+    role: architecture
+    note: "No firm record yet"
+  - firm: zone-display-cases
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - projection mapping
+summary: >
+  The Arts and Armor Gallery, a media refresh of the armor collection
+  gallery at the Worcester Art Museum in Worcester, Massachusetts, opened
+  in 2025; RLMG produced an animated media triptych with architectural
+  support from IKD and display cases by Zone Display Cases.
+description: ""
+sources:
+  - https://www.rlmg.com/work/arts-and-armor

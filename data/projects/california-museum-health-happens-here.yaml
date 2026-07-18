@@ -1,0 +1,25 @@
+id: california-museum-health-happens-here
+name: Health Happens Here
+venue: california-museum
+project_type: new-exhibition
+year_completed: 2012
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Nine interactive experiences incl. motion-tracking 'Heads Up' and resource game 'Stop the Drop'"
+  - firm: bbi-engineering
+    role: av-integration
+    note: "No firm record yet"
+  - firm: west-office
+    role: exhibit-design
+    note: "No firm record yet"
+technologies:
+  - motion tracking
+summary: >
+  Health Happens Here, an exhibition on community health at The California
+  Museum in Sacramento, opened in 2012; RLMG designed nine interactive
+  media experiences, with exhibit design by West Office Exhibition Design.
+  The exhibition received an AAM Excellence in Exhibition Award.
+description: ""
+sources:
+  - https://www.rlmg.com/work/health-happens-here

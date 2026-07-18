@@ -1,0 +1,24 @@
+id: freedom-plaza-path-of-liberty
+name: "Path of Liberty: Freedom Plaza"
+venue: freedom-plaza-nyc
+project_type: installation
+year_completed: 2025
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Interactive pop-up kiosks feeding a large digital flag display; interactive designer, 10-week timeline"
+  - firm: c-and-g-partners
+    role: exhibit-design
+  - firm: electrosonic
+    role: av-integration
+technologies:
+  - interactive kiosk
+  - large-format digital display
+summary: >
+  "Path of Liberty: Freedom Plaza," a temporary interactive pop-up
+  installation in Manhattan, New York ahead of America's 250th
+  anniversary, opened in 2025; RLMG served as interactive designer, with
+  exhibit design by C&G Partners and AV integration by Electrosonic.
+description: ""
+sources:
+  - https://www.rlmg.com/work/path-of-liberty

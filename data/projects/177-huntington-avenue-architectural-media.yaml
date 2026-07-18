@@ -1,0 +1,25 @@
+id: 177-huntington-avenue-architectural-media
+name: 177 Huntington Avenue Architectural Media
+venue: 177-huntington-avenue
+project_type: installation
+year_completed: 2015
+credits:
+  - firm: esi-design
+    role: media-design
+    note: "Experience design lead for the entry-sequence transformation"
+  - firm: av-c
+    role: media-design
+    note: "Software reinterpreting real-time weather and market data into LED motion"
+technologies:
+  - LED display
+  - generative software
+summary: >
+  A digital media installation transforming the entry sequence of I.M. Pei's
+  177 Huntington Avenue in Boston opened around 2015, following Beacon
+  Capital Partners' 2012 acquisition of the building; experience design by
+  ESI Design with software by AV&C.
+description: ""
+sources:
+  - https://www.av-controls.com/177-huntington
+  - https://esidesign.com/work/177-huntington-ave/
+  - https://www.architecturalrecord.com/articles/7706-177-huntington-avenue

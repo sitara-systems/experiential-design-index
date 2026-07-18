@@ -1,0 +1,9 @@
+id: new-mexico-museum-of-natural-history-and-science
+name: New Mexico Museum of Natural History & Science
+venue_type: natural-history-museum
+location:
+  city: Albuquerque
+  state: NM
+website: https://www.nmnaturalhistory.org
+sources:
+  - https://www.nmnaturalhistory.org

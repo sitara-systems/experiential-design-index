@@ -1,0 +1,9 @@
+id: brooklyn-childrens-museum
+name: Brooklyn Children's Museum
+venue_type: childrens-museum
+location:
+  city: Brooklyn
+  state: NY
+website: https://brooklynkids.org
+sources:
+  - https://studiojoseph.com/work/brooklyn-childrens-museum-auditorium

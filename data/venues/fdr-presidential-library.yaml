@@ -1,0 +1,10 @@
+id: fdr-presidential-library
+name: Franklin D. Roosevelt Presidential Library and Museum
+venue_type: history-museum
+location:
+  city: Hyde Park
+  state: NY
+operator: National Archives and Records Administration
+website: https://www.fdrlibrary.org
+sources:
+  - https://www.fdrlibrary.org/

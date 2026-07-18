@@ -1,0 +1,30 @@
+id: new-mexico-museum-of-art-gustave-baumann-marionette-vignettes
+name: "Gustave Baumann: The Artist's Environment — Marionette Vignettes"
+venue: new-mexico-museum-of-art
+project_type: installation
+year_completed: 2025
+credits:
+  - firm: ideum
+    role: media-design
+    note: 3D animation of Gustave Baumann's marionette characters across three custom-built entry-corridor displays
+  - firm: stark-raven-fabrication
+    role: fabrication
+    note: Fabricated the puppet-theater-style display frames and scenic elements. No firm record yet.
+technologies:
+  - 3D animation
+  - Unity
+summary: >
+  A three-screen animated marionette-show introduction to Gustave Baumann,
+  The Artist's Environment exhibition opened August 15, 2025, at the New
+  Mexico Museum of Art in Santa Fe, with digital animation by Ideum and
+  fabricated display frames by Stark Raven Fabrication.
+description: >
+  Along the entry corridor to the Baumann exhibition, three custom-built
+  displays styled as miniature proscenium stages play sequential animated
+  scenes recreating Baumann's whimsical marionette performances. Ideum's 3D
+  artists recreated each puppet character digitally, referencing Baumann's
+  original handcrafted marionettes and archival recordings, using script and
+  audio content provided by the museum.
+sources:
+  - https://ideum.com/portfolio/animated-introduction-gustave-bauman-artists-environment
+  - https://www.nmartmuseum.org/events/gustave-baumann-exhibition-opens-in-new-wing-gallery/

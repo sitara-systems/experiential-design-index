@@ -1,0 +1,9 @@
+id: illuminarium-atlanta
+name: Illuminarium Atlanta
+venue_type: themed-attraction
+location:
+  city: Atlanta
+  state: GA
+operator: Illuminarium Experiences
+sources:
+  - https://www.prnewswire.com/news-releases/illuminarium-experiences-first-venue-opens-on-atlantas-beltline-with-wild-a-safari-experience-immersing-guests-in-the-splendor-of-africas-most-exotic-animals-301324381.html

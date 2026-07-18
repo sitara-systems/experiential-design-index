@@ -1,0 +1,46 @@
+id: de-young-museum-de-youngsters-studio
+name: de Youngsters Studio
+venue: de-young-museum
+project_type: new-exhibition
+year_completed: 2018
+credits:
+  - firm: tellart
+    role: media-design
+    note: "Interactive stations including a digital color-mixing column and augmented-reality installations"
+  - firm: tellart
+    role: exhibit-design
+    note: "Realized fuseproject's concept as five hands-on activity stations (color, composition, shape and form, texture, sculpture)"
+  - firm: fuseproject
+    role: exhibit-design
+    note: "Conceptual design; no firm record yet"
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "Fabrication and installation; no firm record yet"
+  - firm: scenic-inc
+    role: fabrication
+    note: "Fabrication and installation; no firm record yet"
+  - firm: 42-design-fab
+    role: fabrication
+    note: "Fabrication and installation; no firm record yet"
+  - firm: sterling-graphics
+    role: fabrication
+    note: "Graphics fabrication and installation; no firm record yet"
+technologies:
+  - augmented reality
+  - interactive color-mixing column
+  - touch-interactive activity stations
+summary: >
+  de Youngsters Studio is a free, permanent interactive children's gallery at
+  the de Young Museum in San Francisco, conceptually designed by Yves
+  Behar's fuseproject and realized by Tellart, which opened December 1,
+  2018.
+description: >
+  The studio comprises five hands-on activity stations exploring
+  fundamental art-making concepts -- color, composition, shape and form,
+  texture, and sculpture -- aimed at children ages 3-8 exploring alongside
+  an accompanying adult.
+sources:
+  - https://www.famsf.org/press-room/the-fine-arts-museums-of-san-francisco-partner-with-yves-behars-fuseproject-and-tellart-to-premiere-de-youngsters-studio-a-new-interactive-childrens-gallery-at-the-de-young-museum
+  - https://www.tellart.com/projects/an-intuitive-exploration-of-art-making/
+  - https://fuseproject.com/work/de-youngsters-studio/
+  - https://www.designboom.com/design/yves-behar-de-youngsters-de-young-museum-11-13-2018/

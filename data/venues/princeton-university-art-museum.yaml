@@ -1,0 +1,11 @@
+id: princeton-university-art-museum
+name: Princeton University Art Museum
+venue_type: art-museum
+location:
+  city: Princeton
+  state: NJ
+operator: Princeton University
+website: https://artmuseum.princeton.edu
+sources:
+  - https://artmuseum.princeton.edu
+  - https://www.princeton.edu/news/2025/10/09/town-square-arts-and-humanities-new-princeton-university-art-museum-shares-opening

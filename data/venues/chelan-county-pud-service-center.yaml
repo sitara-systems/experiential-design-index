@@ -1,0 +1,9 @@
+id: chelan-county-pud-service-center
+name: Chelan County Public Utility District Service Center
+venue_type: other
+location:
+  city: Wenatchee
+  state: WA
+operator: Chelan County Public Utility District
+sources:
+  - https://ideum.com/portfolio/chelan-county-energy

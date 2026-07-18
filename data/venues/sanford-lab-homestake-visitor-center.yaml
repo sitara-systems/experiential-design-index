@@ -1,0 +1,10 @@
+id: sanford-lab-homestake-visitor-center
+name: Sanford Lab Homestake Visitor Center
+venue_type: visitor-center
+location:
+  city: Lead
+  state: SD
+operator: Sanford Underground Research Facility
+website: https://sanfordlab.org/slhvc
+sources:
+  - https://sanfordlab.org/slhvc

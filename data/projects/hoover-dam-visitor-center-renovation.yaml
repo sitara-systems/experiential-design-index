@@ -1,0 +1,38 @@
+id: hoover-dam-visitor-center-renovation
+name: Hoover Dam Visitor Center Exhibit Renovation
+venue: hoover-dam-visitor-center
+project_type: major-renovation
+year_completed: 2025
+credits:
+  - firm: aldrichpears-associates
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Prime exhibit contractor; no firm record yet"
+  - firm: kubik-maltbie
+    role: av-integration
+    note: "no firm record yet"
+  - firm: northern-light-productions
+    role: content-production
+    note: "Media producer for the renovated visitor experience"
+technologies:
+  - immersive media
+  - interactive physical model
+summary: >
+  The Hoover Dam Visitor Center's exhibits, near Boulder City, Nevada,
+  reopened in June 2025 after a $15 million renovation funded through the
+  Southern Nevada Public Lands Management Act; exhibit design was by
+  AldrichPears Associates, with kubik maltbie as prime exhibit contractor
+  and AV installer and Northern Light Productions as media producer.
+description: >
+  The 5,700-square-foot renovated exhibit space includes thirteen
+  interactive and immersive media experiences, including an immersive
+  canyon passageway with panoramic media recreating 1920s dam construction,
+  a "Build-a-Dam" interactive physical model, and media installations on
+  worker history and Boulder City's development.
+sources:
+  - https://www.usbr.gov/newsroom/news-release/5183
+  - https://hydro.org/powerhouse/article/history-reimagined-step-inside-the-new-hoover-dam-visitor-experience/
+  - https://blooloop.com/kubik-maltbie-hoover-dam/
+  - https://nlprod.com/item/hoover-dam-visitor-center/

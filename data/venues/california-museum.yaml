@@ -1,0 +1,9 @@
+id: california-museum
+name: The California Museum
+venue_type: history-museum
+location:
+  city: Sacramento
+  state: CA
+website: https://www.californiamuseum.org
+sources:
+  - https://www.californiamuseum.org

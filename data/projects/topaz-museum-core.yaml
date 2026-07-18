@@ -1,0 +1,23 @@
+id: topaz-museum-core
+name: The Topaz Museum
+venue: topaz-museum
+project_type: new-building
+year_completed: 2017
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Entrance theater films incl. rare internee archival footage, searchable internee database"
+  - firm: west-office
+    role: exhibit-design
+    note: "No firm record yet"
+technologies:
+  - archival film
+  - searchable database
+summary: >
+  The Topaz Museum, honoring the World War II Japanese-American internment
+  camp at Topaz, opened in Delta, Utah in 2017; RLMG designed the
+  interactive media and archival film content, with exhibit design by West
+  Office Exhibition Design.
+description: ""
+sources:
+  - https://www.rlmg.com/work/the-topaz-museum

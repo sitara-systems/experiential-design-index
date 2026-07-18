@@ -1,0 +1,9 @@
+id: boston-athenaeum
+name: Boston Athenaeum
+venue_type: library-archive
+location:
+  city: Boston
+  state: MA
+website: https://www.bostonathenaeum.org
+sources:
+  - https://www.bostonathenaeum.org

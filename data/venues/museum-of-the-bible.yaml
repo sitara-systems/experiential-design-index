@@ -1,0 +1,9 @@
+id: museum-of-the-bible
+name: Museum of the Bible
+venue_type: other
+location:
+  city: Washington
+  state: DC
+website: https://www.museumofthebible.org
+sources:
+  - https://www.smithgroup.com/news/2017/museum-of-the-bible-opens-in-washington-dc

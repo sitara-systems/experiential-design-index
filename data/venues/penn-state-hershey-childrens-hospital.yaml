@@ -1,0 +1,11 @@
+id: penn-state-hershey-childrens-hospital
+name: Penn State Health Children's Hospital
+aka:
+  - Penn State Hershey Children's Hospital
+venue_type: healthcare-institution
+location:
+  city: Hershey
+  state: PA
+website: https://www.pennstatehealth.org/childrens
+sources:
+  - https://www.pennstatehealth.org/childrens

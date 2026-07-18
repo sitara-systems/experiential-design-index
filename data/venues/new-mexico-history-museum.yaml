@@ -1,0 +1,10 @@
+id: new-mexico-history-museum
+name: New Mexico History Museum
+venue_type: history-museum
+location:
+  city: Santa Fe
+  state: NM
+operator: New Mexico Department of Cultural Affairs
+website: https://www.nmhistorymuseum.org
+sources:
+  - https://www.nmhistorymuseum.org

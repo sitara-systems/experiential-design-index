@@ -1,0 +1,9 @@
+id: museum-of-jewish-heritage
+name: Museum of Jewish Heritage – A Living Memorial to the Holocaust
+venue_type: history-museum
+location:
+  city: New York
+  state: NY
+website: https://mjhnyc.org
+sources:
+  - https://mjhnyc.org/exhibitions/courage-to-act-rescue-in-denmark/

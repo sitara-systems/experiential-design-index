@@ -1,0 +1,29 @@
+# Firm record — Videobred
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: videobred
+name: Videobred
+aka: []
+website: https://videobred.com
+hq:
+  city: Louisville
+  state: KY
+founded: 1979
+roles:
+  - content-production
+status: active
+status_basis: >
+  Active portfolio and museums page maintained on videobred.com as of this
+  check, including recent museum media-production credits (World Heritage
+  Center, 2024; National Museum of African American Music).
+status_verified: 2026-07-18
+summary: >
+  Videobred is a Louisville, Kentucky-based video and multimedia production
+  company, founded in 1979, producing films, video walls, and touchscreen
+  interactive content for museums and cultural institutions.
+sources:
+  - https://videobred.com/
+  - https://videobred.com/museums/
+  - https://videobred.com/our-story/
+  - https://gallagherdesign.com/project/nmaam/
+  - https://gallagherdesign.com/project/st-louis-kaplan-feldman-holocaust-museum/

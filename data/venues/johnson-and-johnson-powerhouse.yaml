@@ -1,0 +1,10 @@
+id: johnson-and-johnson-powerhouse
+name: The Powerhouse (Johnson & Johnson)
+venue_type: corporate-museum
+location:
+  city: New Brunswick
+  state: NJ
+operator: Johnson & Johnson
+sources:
+  - https://www.jnj.com/our-heritage/the-inside-story-of-the-powerhouse
+  - https://www.prnewswire.com/news-releases/johnson--johnson-introduces-two-new-interactive-experiences-showcasing-more-than-130-years-of-healthcare-innovation-300448526.html

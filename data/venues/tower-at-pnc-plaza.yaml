@@ -1,0 +1,10 @@
+id: tower-at-pnc-plaza
+name: The Tower at PNC Plaza
+venue_type: other
+location:
+  city: Pittsburgh
+  state: PA
+operator: PNC Financial Services Group
+sources:
+  - https://slate.com/human-interest/2015/10/esi-designs-the-beacon-in-pittsburghs-pnc-plaza-is-a-data-driven-light-sculpture-that-broadcasts-the-buildings-energy-use.html
+  - https://nextpittsburgh.com/city-design/the-tower-at-pnc-plaza-opens-as-the-greenest-office-building-in-the-world/

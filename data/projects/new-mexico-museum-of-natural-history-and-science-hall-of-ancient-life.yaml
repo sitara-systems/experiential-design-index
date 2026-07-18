@@ -1,0 +1,30 @@
+id: new-mexico-museum-of-natural-history-and-science-hall-of-ancient-life
+name: "Hall of Ancient Life — Exploring Earth and Postcards from the Paleozoic"
+venue: new-mexico-museum-of-natural-history-and-science
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: ideum
+    role: media-design
+    note: Two interactives — Exploring Earth (rotatable 3D globe timeline) and Postcards from the Paleozoic (personalized photo postcard generator)
+  - firm: ideum
+    role: fabrication
+    note: Custom wall-mounted touchscreen cabinets
+technologies:
+  - touchscreen
+  - Unity
+  - camera-based photo capture
+summary: >
+  The Hall of Ancient Life, a permanent exhibition opened February 15, 2025,
+  at the New Mexico Museum of Natural History & Science in Albuquerque, New
+  Mexico, features two digital interactives designed and built by Ideum.
+description: >
+  Exploring Earth uses a 3D rotatable globe on a 55" touchscreen to show
+  continental positions across 600 million years, with a New Mexico-focused
+  mode covering the Paleozoic era. Postcards from the Paleozoic lets
+  visitors create a personalized digital postcard set in one of five
+  Paleozoic New Mexico environments, combining a camera-captured photo with
+  species stickers and filters, downloadable via QR code.
+sources:
+  - https://ideum.com/portfolio/ancient-life-in-new-mexico
+  - https://www.abqjournal.com/lifestyle/article_538fff28-e690-11ef-b745-8360e9621209.html

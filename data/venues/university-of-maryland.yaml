@@ -1,0 +1,9 @@
+id: university-of-maryland
+name: University of Maryland
+venue_type: academic-institution
+location:
+  city: College Park
+  state: MD
+website: https://www.umd.edu
+sources:
+  - https://today.umd.edu/do-good-has-a-nice-ring-to-it

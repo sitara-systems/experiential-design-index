@@ -1,0 +1,32 @@
+id: plains-high-school-museum-exhibit-renovation
+name: Plains High School Museum Exhibit Renovation
+venue: plains-high-school-museum
+project_type: major-renovation
+year_completed: 2020
+credits:
+  - firm: history-associates-incorporated
+    role: interpretive-planning
+    note: "Exhibit planning and content development; no firm record yet"
+  - firm: healykohler-design
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: northern-light-productions
+    role: content-production
+technologies:
+  - touchscreen interactive
+  - soundscape
+summary: >
+  A renovation of the museum exhibits at Plains High School, the visitor
+  center for what is now Jimmy Carter National Historical Park in Plains,
+  Georgia, opened on Presidents' Day 2020; exhibit planning and content
+  development by History Associates Incorporated with HealyKohler Design,
+  and media by Northern Light Productions.
+description: >
+  Northern Light Productions created eight media programs for the
+  refurbished visitor center, including linear films, a fully accessible
+  touchscreen interactive, and soundscapes incorporating archival footage
+  and interviews with local residents about the Carters' connection to
+  Plains and their humanitarian work.
+sources:
+  - https://www.historyassociates.com/celebrating-a-homegrown-hero-the-jimmy-carter-national-historic-site-opens-in-plains-georgia/
+  - https://nlprod.com/item/jimmy-carter-national-historic-site/

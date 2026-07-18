@@ -1,0 +1,23 @@
+id: griffin-msi-007-science
+name: "007 Science: Inventing the World of Bond"
+venue: griffin-museum-of-science-and-industry
+project_type: traveling-exhibition
+year_completed: 2024
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Build-a-Bond-Car interactive stunt simulator"
+  - firm: luci-creative
+    role: exhibit-design
+    note: "No firm record yet"
+technologies:
+  - interactive simulation
+  - 3D animation
+summary: >
+  "007 Science: Inventing the World of Bond," a traveling exhibition on the
+  science behind James Bond's stunts and gadgets, opened at the Griffin
+  Museum of Science and Industry in Chicago in 2024; RLMG designed the
+  interactive media, including a "Build a Bond Car" stunt simulator.
+description: ""
+sources:
+  - https://www.rlmg.com/work/inventing-the-world-of-bond

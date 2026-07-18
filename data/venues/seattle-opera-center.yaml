@@ -1,0 +1,11 @@
+id: seattle-opera-center
+name: Seattle Opera Center
+venue_type: cultural-center
+location:
+  city: Seattle
+  state: WA
+operator: Seattle Opera
+sources:
+  - https://www.broadwayworld.com/seattle/article/Seattle-Opera-Welcomes-Classical-KING-FM-981-at-New-Opera-Center-Home-20200225
+  - https://www.seattleoperablog.com/2019/06/kinf-fm-and-seattle-opera-under-one-roof.html
+  - https://studiomatthews.com/project/king-fm/

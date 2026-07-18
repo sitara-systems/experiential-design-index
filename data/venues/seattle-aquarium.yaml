@@ -1,0 +1,10 @@
+id: seattle-aquarium
+name: Seattle Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Seattle
+  state: WA
+website: https://www.seattleaquarium.org
+sources:
+  - https://www.seattleaquarium.org/press-release/seattle-aquariums-new-ocean-pavilion-opens-august-29/
+  - https://studiomatthews.com/project/ocean-pavilion/

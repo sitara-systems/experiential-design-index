@@ -1,0 +1,11 @@
+id: first-bank-of-the-united-states
+name: First Bank of the United States
+venue_type: history-museum
+location:
+  city: Philadelphia
+  state: PA
+operator: Independence Historical Trust / National Park Service
+website: https://www.firstbankphilly.com
+sources:
+  - https://billypenn.com/2026/07/01/firstival-first-bank-united-states-philadelphia-history-old-city/
+  - https://whyy.org/articles/philadelphia-first-national-bank-hamilton-museum-artifacts/

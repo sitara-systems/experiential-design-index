@@ -1,0 +1,9 @@
+id: south-street-seaport-museum
+name: South Street Seaport Museum
+venue_type: history-museum
+location:
+  city: New York
+  state: NY
+website: https://southstreetseaportmuseum.org
+sources:
+  - https://studiojoseph.com/work/south-street-seaport-museum

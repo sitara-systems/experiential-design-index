@@ -1,0 +1,10 @@
+id: battleship-missouri-memorial
+name: Battleship Missouri Memorial
+venue_type: history-museum
+location:
+  city: Pearl Harbor
+  state: HI
+operator: USS Missouri Memorial Association
+website: https://ussmissouri.org
+sources:
+  - https://ussmissouri.org

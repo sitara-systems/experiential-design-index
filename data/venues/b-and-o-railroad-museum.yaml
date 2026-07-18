@@ -1,0 +1,9 @@
+id: b-and-o-railroad-museum
+name: B&O Railroad Museum
+venue_type: history-museum
+location:
+  city: Baltimore
+  state: MD
+website: https://www.borail.org
+sources:
+  - https://www.borail.org

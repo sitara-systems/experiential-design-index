@@ -1,0 +1,10 @@
+id: delta-terminal-c-laguardia
+name: Delta Air Lines Terminal C, LaGuardia Airport
+venue_type: other
+location:
+  city: East Elmhurst
+  state: NY
+operator: Delta Air Lines / Port Authority of New York and New Jersey
+sources:
+  - https://news.delta.com/delta-debuts-dazzling-terminal-c-facility-new-yorks-laguardia-airport
+  - https://www.sixteen-nine.net/2022/06/24/here-are-details-and-video-of-that-stunning-lenticular-led-wall-at-rebuilt-laguardia-airport/

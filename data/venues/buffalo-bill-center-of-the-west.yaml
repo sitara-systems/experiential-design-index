@@ -1,0 +1,9 @@
+id: buffalo-bill-center-of-the-west
+name: Buffalo Bill Center of the West
+venue_type: history-museum
+location:
+  city: Cody
+  state: WY
+website: https://centerofthewest.org
+sources:
+  - https://en.wikipedia.org/wiki/Buffalo_Bill_Center_of_the_West

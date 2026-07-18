@@ -1,0 +1,10 @@
+id: milton-hershey-school-founders-hall
+name: Founders Hall, Milton Hershey School
+venue_type: visitor-center
+location:
+  city: Hershey
+  state: PA
+operator: Milton Hershey School
+website: https://www.mhskids.org/about/virtual-tour-directions/founders-hall-visitors-center/
+sources:
+  - https://www.mhskids.org/news/milton-hershey-school-reopens-founders-hall-to-the-public/

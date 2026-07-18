@@ -1,0 +1,12 @@
+id: history-colorado-center
+name: History Colorado Center
+aka:
+  - History Colorado Museum
+venue_type: history-museum
+location:
+  city: Denver
+  state: CO
+operator: History Colorado
+website: https://www.historycolorado.org
+sources:
+  - https://www.historycolorado.org

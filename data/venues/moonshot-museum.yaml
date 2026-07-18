@@ -1,0 +1,9 @@
+id: moonshot-museum
+name: Moonshot Museum
+venue_type: science-center
+location:
+  city: Pittsburgh
+  state: PA
+website: https://moonshotmuseum.org
+sources:
+  - https://moonshotmuseum.org

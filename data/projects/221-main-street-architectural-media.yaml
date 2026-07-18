@@ -1,0 +1,24 @@
+id: 221-main-street-architectural-media
+name: 221 Main Street Architectural Media
+venue: 221-main-street-sf
+project_type: installation
+year_completed: 2020
+credits:
+  - firm: esi-design
+    role: media-design
+    note: "Experience design lead; 126-foot digital display from facade to lobby"
+  - firm: av-c
+    role: media-design
+    note: "Custom software for media playback and generative content"
+technologies:
+  - LED display
+  - generative software
+summary: >
+  A 126-foot mixed-resolution digital display spanning the facade, entry
+  passage, and lobby of 221 Main Street in San Francisco opened around 2020;
+  experience design by ESI Design with software by AV&C for owner Beacon
+  Capital Partners.
+description: ""
+sources:
+  - https://www.av-controls.com/221-main-architectural-media
+  - https://esidesign.com/work/221-main-street-san-francisco/

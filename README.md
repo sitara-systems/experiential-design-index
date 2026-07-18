@@ -41,6 +41,14 @@ process are documented in [`docs/editorial-policy.md`](docs/editorial-policy.md)
 In short: firms with at least three projects in the space are included;
 activity status is evidence-based and dated; anyone can submit a correction.
 
+## How the data is built
+
+Records are built and updated via a documented, repeatable process — an
+award-archive sweep (juried award winners, year by year) plus a
+breadth-first crawl of firms' own published portfolios that follows the
+delivery-stack credit graph outward to newly-discovered partner firms. See
+[`docs/research-methodology.md`](docs/research-methodology.md).
+
 ## Corrections and additions
 
 Spotted an error, a missing credit, or a firm we should cover? Open an issue

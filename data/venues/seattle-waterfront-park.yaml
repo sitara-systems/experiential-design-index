@@ -1,0 +1,11 @@
+id: seattle-waterfront-park
+name: Seattle Waterfront Park
+venue_type: public-space
+location:
+  city: Seattle
+  state: WA
+operator: City of Seattle, Office of the Waterfront and Civic Projects
+website: https://waterfrontpark.org
+sources:
+  - https://studiomatthews.com/project/waterfront-park/
+  - https://studiomatthews.com/project/pier-62-waterfront-park/

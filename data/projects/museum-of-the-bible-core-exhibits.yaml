@@ -1,0 +1,34 @@
+id: museum-of-the-bible-core-exhibits
+name: Museum of the Bible Core Exhibits
+venue: museum-of-the-bible
+project_type: new-building
+year_completed: 2017
+credits:
+  - firm: electrosonic
+    role: av-integration
+    note: More than 40 AV-driven exhibits across the museum's seven public floors
+  - firm: c-and-g-partners
+    role: exhibit-design
+    note: "Designed Bible Now, the reactive media gallery on the Floor 2 'Impact of the Bible' exhibit; content developed in consultation with scholarly advisors led by Gordon Campbell, Ph.D. and Byron R. Johnson, Ph.D."
+technologies:
+  - interactive touchscreens
+  - 360-degree panoramic projection
+  - handheld personalized tour devices
+summary: >
+  The Museum of the Bible, a 430,000 sq ft museum in Washington, DC, opened
+  November 17, 2017; Electrosonic designed, built, and integrated AV systems
+  for more than 40 exhibits throughout the building, including the Bible Now
+  reactive media gallery designed by C&G Partners on the Floor 2 "Impact of
+  the Bible" exhibit.
+description: >
+  Bible Now, part of the Floor 2 "Impact of the Bible" exhibit, is a
+  360-degree, full-height, constantly-changing panorama of digital
+  information exploring Scripture's contemporary impact in real time — live
+  social media feeds, aggregated data from Bible app users, a 24-hour
+  time-lapse of Jerusalem, and interactive tables where visitors contribute
+  their own responses.
+sources:
+  - https://www.smithgroup.com/news/2017/museum-of-the-bible-opens-in-washington-dc
+  - https://www.electrosonic.com/projects/museum-of-the-bible
+  - https://www.cgpartnersllc.com/projects/bible-now-reactive-media-space/
+  - https://www.museumofthebible.org/press-releases/floor-2-impact-of-the-bible-bible-now

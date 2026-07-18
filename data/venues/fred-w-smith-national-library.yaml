@@ -1,0 +1,11 @@
+id: fred-w-smith-national-library
+name: Fred W. Smith National Library for the Study of George Washington
+venue_type: library-archive
+location:
+  city: Mount Vernon
+  state: VA
+operator: Mount Vernon Ladies' Association
+website: https://www.mountvernon.org/library
+sources:
+  - https://en.wikipedia.org/wiki/Fred_W._Smith_National_Library_for_the_Study_of_George_Washington
+  - https://ayerssaintgross.com/work/project/mount-vernon-national-library-for-the-study-of-george-washington/

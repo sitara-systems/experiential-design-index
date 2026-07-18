@@ -1,0 +1,19 @@
+id: grammy-museum-mississippi-exhibition
+name: GRAMMY Museum Mississippi
+venue: grammy-museum-mississippi
+project_type: new-building
+year_completed: 2016
+credits:
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: gallagher-and-associates
+    role: content-production
+technologies:
+  - interactive media
+summary: >
+  GRAMMY Museum Mississippi, the only official GRAMMY museum outside Los
+  Angeles, opened in 2016 in Cleveland, Mississippi, with content
+  development and exhibit design by Gallagher & Associates.
+description: ""
+sources:
+  - https://gallagherdesign.com/project/grammy-mississippi/

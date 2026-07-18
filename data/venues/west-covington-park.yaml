@@ -1,0 +1,9 @@
+id: west-covington-park
+name: West Covington Park
+venue_type: public-space
+location:
+  city: Baltimore
+  state: MD
+operator: Center for Aquatic Life and Conservation (National Aquarium)
+sources:
+  - https://ayerssaintgross.com/work/project/national-aquarium-west-covington-park/

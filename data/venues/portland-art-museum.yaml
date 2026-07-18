@@ -1,0 +1,10 @@
+id: portland-art-museum
+name: Portland Art Museum
+venue_type: art-museum
+location:
+  city: Portland
+  state: OR
+website: https://portlandartmuseum.org
+sources:
+  - https://portlandartmuseum.org/
+  - https://portlandartmuseum.org/event/david-hockney/

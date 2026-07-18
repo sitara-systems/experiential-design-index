@@ -1,0 +1,26 @@
+id: national-medal-of-honor-museum-exhibition
+name: National Medal of Honor Museum
+venue: national-medal-of-honor-museum
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: rafael-vinoly-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: gallagher-and-associates
+    role: content-production
+  - firm: gallagher-and-associates
+    role: graphics-wayfinding
+technologies:
+  - interactive kiosks
+summary: >
+  The National Medal of Honor Museum, a new purpose-built museum honoring
+  Medal of Honor recipients, opened March 22, 2025 in Arlington, Texas, with
+  architecture by Rafael Vinoly Architects and exhibit and experience design
+  for the Exhibition Hall by Gallagher & Associates.
+description: ""
+sources:
+  - https://www.architecturalrecord.com/articles/17450-rafael-vinoly-architectss-national-medal-of-honor-museum-opens-in-arlington-texas
+  - https://gallagherdesign.com/project/national-medal-of-honor-museum/

@@ -24,6 +24,9 @@ credits:
   - firm: available-light
     role: lighting-design
     note: "no firm record yet"
+  - firm: gallagher-and-associates
+    role: technical-consulting
+    note: "Owner's representation and operations management, per G&A's own project page (distinct from its exhibit-design credit above)"
 technologies:
   - RFID
   - interactive kiosks

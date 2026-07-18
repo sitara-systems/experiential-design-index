@@ -1,0 +1,10 @@
+id: san-diego-zoo-wildlife-explorers-basecamp
+name: Denny Sanford Wildlife Explorers Basecamp
+venue_type: aquarium-zoo
+location:
+  city: San Diego
+  state: CA
+operator: San Diego Zoo Wildlife Alliance
+website: https://zoo.sandiegozoo.org/wildlife-explorers-basecamp
+sources:
+  - https://zoo.sandiegozoo.org/wildlife-explorers-basecamp

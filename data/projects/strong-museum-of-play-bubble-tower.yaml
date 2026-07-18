@@ -1,0 +1,32 @@
+id: strong-museum-of-play-bubble-tower
+name: Bubble Tower (Toy Halls of Fame)
+venue: strong-museum-of-play
+project_type: new-exhibition
+year_completed: 2015
+credits:
+  - firm: unified-field
+    role: media-design
+  - firm: northern-light-productions
+    role: content-production
+    note: "Experience design, hardware acquisition and integration, and gesture-recognition software"
+technologies:
+  - motion-capture
+  - gesture-based interaction
+  - large-format monitor array
+summary: >
+  The Bubble Tower, a 26-foot motion-capture interactive centerpiece of the
+  Toy Halls of Fame exhibit (home to the National Toy Hall of Fame and Toy
+  Industry Hall of Fame), opened at The Strong National Museum of Play in
+  Rochester, New York on September 19, 2015; interactive media design by
+  Unified Field.
+description: >
+  Guests step up to a pillar of monitors and use motion capture to create
+  and manipulate virtual soap bubbles, making streams and whirlwinds and
+  popping toys out of bubbles, with automatic photo capture built into the
+  environment. The installation marked the induction of bubbles into the
+  National Toy Hall of Fame in 2014.
+sources:
+  - https://www.unifiedfield.com/projects/strong-museum
+  - https://www.museumofplay.org/press/releases/2015/08/2212-highlights-toy-halls-fame-exhibit
+  - https://betterfutureawards.com/nyc16/project.asp?ID=15341
+  - https://nlprod.com/item/the-strong-national-museum-of-play/

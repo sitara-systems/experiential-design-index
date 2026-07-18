@@ -1,0 +1,20 @@
+id: museum-of-arts-and-design-madball
+name: MADball Interactive
+venue: museum-of-arts-and-design
+project_type: installation
+year_completed: 2018
+credits:
+  - firm: bluecadet
+    role: media-design
+    note: >
+      Capacitive-fruit-controlled Pong-style game built for the museum's 60th
+      annual MAD Ball gala.
+technologies:
+  - capacitive sensing
+summary: >
+  MADball, a capacitive-fruit-controlled interactive game created for the
+  Museum of Arts and Design's 60th annual MAD Ball gala in New York in 2018,
+  was designed by Bluecadet.
+description: ""
+sources:
+  - https://www.bluecadet.com/work/madball

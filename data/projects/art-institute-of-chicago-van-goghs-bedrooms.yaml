@@ -1,0 +1,25 @@
+id: art-institute-of-chicago-van-goghs-bedrooms
+name: "Van Gogh's Bedrooms"
+venue: art-institute-of-chicago
+project_type: temporary-exhibition
+year_completed: 2016
+credits:
+  - firm: bluecadet
+    role: media-design
+    note: >
+      Projection-mapped recreation of Van Gogh's bedroom at Arles, with
+      interactive touchscreens for close study of brushwork and conservation
+      findings.
+technologies:
+  - projection mapping
+  - touchscreen interactives
+summary: >
+  Van Gogh's Bedrooms, a temporary exhibition uniting Vincent van Gogh's
+  three bedroom paintings for the first time, ran at the Art Institute of
+  Chicago from February to May 2016, featuring a projection-mapped
+  installation and interactive media by Bluecadet.
+description: ""
+sources:
+  - https://www.bluecadet.com/work/van-gogh
+  - https://www.prnewswire.com/news-releases/bluecadet-immerses-art-institute-of-chicago-visitors-in-vincent-van-goghs-thoughts-artistry-and-bedroom-300222120.html
+  - https://www.artic.edu/exhibitions/1865/van-gogh-s-bedrooms

@@ -1,0 +1,10 @@
+id: new-mexico-museum-of-art
+name: New Mexico Museum of Art
+venue_type: art-museum
+location:
+  city: Santa Fe
+  state: NM
+operator: New Mexico Department of Cultural Affairs
+website: https://www.nmartmuseum.org
+sources:
+  - https://www.nmartmuseum.org

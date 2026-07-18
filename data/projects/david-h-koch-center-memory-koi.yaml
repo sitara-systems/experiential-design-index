@@ -1,0 +1,27 @@
+id: david-h-koch-center-memory-koi
+name: Memory Koi
+venue: david-h-koch-center-for-cancer-care
+project_type: installation
+year_completed: 2020
+credits:
+  - firm: c-and-g-partners
+    role: media-design
+  - firm: potion-design
+    role: media-design
+    note: "Collaborating partner on the interactive digital experience"
+technologies:
+  - real-time interactive animation
+  - proximity sensing
+summary: >
+  Memory Koi, an interactive digital koi pond at the David H. Koch Center for
+  Cancer Care, Memorial Sloan Kettering's outpatient facility in New York
+  City, opened with the building in January 2020, designed by C&G Partners in
+  collaboration with Potion.
+description: >
+  Virtual koi fish with custom behavioral AI respond to visitor proximity
+  across multiple accessible viewing heights, changing behavior with the time
+  of day and season and occasionally surfacing messages of encouragement to
+  patients.
+sources:
+  - https://www.cgpartnersllc.com/projects/koi-pond/
+  - https://www.mskcc.org/news-releases/new-era-care-david-koch-center-cancer-care-mskcc-open-january-2020

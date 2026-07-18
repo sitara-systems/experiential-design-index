@@ -1,0 +1,29 @@
+id: california-museum-women-inspire
+name: Women Inspire
+venue: california-museum
+project_type: new-exhibition
+year_completed: 2020
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Interactive timeline and personalized inspiration-video station"
+  - firm: bbi-engineering
+    role: av-integration
+    note: "No firm record yet"
+  - firm: cinnabar
+    role: fabrication
+    note: "No firm record yet"
+  - firm: west-office
+    role: exhibit-design
+    note: "No firm record yet"
+technologies:
+  - interactive timeline
+  - video recording station
+summary: >
+  Women Inspire, an exhibition celebrating notable Californian women at The
+  California Museum in Sacramento, opened in 2020; RLMG designed the
+  interactive media, with exhibit design by West Office Exhibition Design,
+  AV integration by BBI Engineering, and fabrication by Cinnabar.
+description: ""
+sources:
+  - https://www.rlmg.com/work/women-inspire

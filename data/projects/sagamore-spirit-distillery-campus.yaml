@@ -1,0 +1,34 @@
+id: sagamore-spirit-distillery-campus
+name: Sagamore Spirit Distillery
+venue: sagamore-spirit-distillery
+project_type: new-building
+year_completed: 2016
+credits:
+  - firm: ayers-saint-gross
+    role: architecture
+  - firm: solid-light
+    role: exhibit-design
+    note: "Visitor-experience design, interpretive graphics, and brand identity assistance (no firm record yet)"
+  - firm: solid-light
+    role: media-design
+    note: "Interactive media (no firm record yet)"
+  - firm: solid-light
+    role: fabrication
+    note: "Design-through-fabrication of visitor-experience elements (no firm record yet)"
+technologies:
+  - interactive media
+summary: >
+  Sagamore Spirit Distillery, a 60,000 sq ft, three-building whiskey
+  distillery and visitor campus on a former brownfield site in Baltimore, MD,
+  opened in 2016; architecture by Ayers Saint Gross with the visitor
+  experience (interpretive graphics, interactive media, and fabrication)
+  designed by Solid Light.
+description: >
+  Comprises a working distillery, a processing building with a tasting room,
+  retail, and an immersive visitor experience on Maryland's distilling
+  heritage, and a waterfront restaurant. Attracts an estimated 100,000
+  visitors annually.
+sources:
+  - https://ayerssaintgross.com/work/project/sagamore-spirit-distillery/
+  - https://solidlight-inc.com/work/sagamore-spirit-distillery-experience/
+  - https://sagamorespirit.com/distillery-experience/

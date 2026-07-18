@@ -1,0 +1,10 @@
+id: albuquerque-convention-center
+name: Albuquerque Convention Center
+venue_type: other
+location:
+  city: Albuquerque
+  state: NM
+operator: City of Albuquerque
+sources:
+  - https://ideum.com/portfolio/albuquerque-convention-center-fresco-wine-explorer
+  - https://www.cabq.gov/artsculture/public-art/albuquerque-convention-center-fresco

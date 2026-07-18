@@ -1,0 +1,26 @@
+id: cleveland-museum-of-art-lobby-digital-signage
+name: Lobby Digital Signage
+venue: cleveland-museum-of-art
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: bluecadet
+    role: media-design
+    note: >
+      20-foot digital signage wall in the historic Marcel Breuer lobby, with
+      animated templates and 3D artwork animations, integrated with the
+      museum's CMS.
+  - firm: zenith-systems
+    role: av-integration
+    note: "No firm record yet"
+technologies:
+  - digital signage
+  - CMS integration
+summary: >
+  A 20-foot digital signage installation in the Cleveland Museum of Art's
+  historic Marcel Breuer lobby opened in November 2024, designed by Bluecadet
+  with AV integration by Zenith Systems.
+description: ""
+sources:
+  - https://www.bluecadet.com/work/cleveland-museum-of-art
+  - https://www.clevelandart.org/articles/our-new-lobby-digital-signage

@@ -1,0 +1,10 @@
+id: smithsonian-national-museum-of-american-history
+name: National Museum of American History
+venue_type: history-museum
+location:
+  city: Washington
+  state: DC
+operator: Smithsonian Institution
+website: https://americanhistory.si.edu
+sources:
+  - https://www.pew.org/en/about/news-room/press-releases-and-statements/2008/11/20/original-starspangled-banner-debuts-in-new-stateoftheart-gallery-at-the-national-museum-of-american-history

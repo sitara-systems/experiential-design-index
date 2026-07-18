@@ -1,0 +1,30 @@
+id: monticello-visitor-center
+name: Thomas Jefferson Visitor Center and Smith Education Center
+venue: monticello
+project_type: new-building
+year_completed: 2008
+credits:
+  - firm: ayers-saint-gross
+    role: architecture
+  - firm: ayers-saint-gross
+    role: graphics-wayfinding
+    note: "Full signage and wayfinding system for the visitor center and campus (also documented by Ayers Saint Gross as a separate scope-of-work listing, 'Visitor Center and Smith Education Center Signage and Wayfinding')"
+  - firm: michael-vergason-landscape-architects
+    role: master-planning
+    note: "Landscape architecture and siting (no firm record yet)"
+technologies: []
+summary: >
+  The David M. Rubenstein Visitor Center and Smith Education Center, a 42,000
+  sq ft gateway complex at Monticello in Charlottesville, VA, opened in 2008;
+  designed by Ayers Saint Gross (architecture, interiors, and signage/
+  wayfinding) with landscape architecture by Michael Vergason Landscape
+  Architects.
+description: >
+  Five pavilions organized around a courtyard house ticketing, an orientation
+  theater, an exhibition gallery, the Griffin Discovery Room (a hands-on
+  family gallery), classrooms, a cafe, and retail. LEED Gold certified, with a
+  geothermal heating/cooling system and stormwater green infrastructure.
+sources:
+  - https://ayerssaintgross.com/work/project/monticello-visitor-center/
+  - https://www.vergason.net/thomas-jeffersons-monticello
+  - https://www.rkk.com/our-work/portfolio/monticello-thomas-jefferson-visitor-center-and-smith-education-center/

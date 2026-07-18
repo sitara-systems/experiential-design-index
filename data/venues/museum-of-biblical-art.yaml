@@ -1,0 +1,8 @@
+id: museum-of-biblical-art
+name: Museum of Biblical Art (MOBIA)
+venue_type: art-museum
+location:
+  city: New York
+  state: NY
+sources:
+  - https://studiojoseph.com/work/sculpture-in-the-age-of-donatello

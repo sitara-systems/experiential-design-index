@@ -1,0 +1,10 @@
+id: jfk-presidential-library
+name: John F. Kennedy Presidential Library and Museum
+venue_type: history-museum
+location:
+  city: Boston
+  state: MA
+operator: National Archives and Records Administration
+website: https://www.jfklibrary.org
+sources:
+  - https://www.jfklibrary.org

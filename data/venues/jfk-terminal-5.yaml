@@ -1,0 +1,11 @@
+id: jfk-terminal-5
+name: JFK Terminal 5 (T5i)
+venue_type: other
+location:
+  city: Queens
+  state: NY
+operator: JetBlue Airways
+website: https://www.jetblue.com/at-the-airport/terminal-5-at-jfk
+sources:
+  - https://ir.jetblue.com/news/news-details/2014/JetBlue-Airways-Opens-International-Arrivals-Concourse-at-Its-Award-Winning-Terminal-5-at-John-F.-Kennedy-International-Airport-11-12-2014/default.aspx
+  - https://segd.org/projects/jetblue-junior-childrens-play-area/

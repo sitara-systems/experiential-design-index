@@ -1,0 +1,9 @@
+id: wadsworth-atheneum
+name: Wadsworth Atheneum Museum of Art
+venue_type: art-museum
+location:
+  city: Hartford
+  state: CT
+website: https://www.thewadsworth.org
+sources:
+  - https://www.thewadsworth.org/about/

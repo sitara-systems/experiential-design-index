@@ -1,0 +1,10 @@
+id: summit-one-vanderbilt
+name: SUMMIT One Vanderbilt
+venue_type: themed-attraction
+location:
+  city: New York
+  state: NY
+operator: SL Green
+website: https://summitov.com
+sources:
+  - https://www.electrosonic.com/projects/summit-one-vanderbilt

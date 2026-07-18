@@ -1,0 +1,10 @@
+id: new-york-stock-exchange
+name: New York Stock Exchange
+venue_type: other
+location:
+  city: New York
+  state: NY
+operator: NYSE Euronext
+website: https://www.nyse.com
+sources:
+  - https://www.cgpartnersllc.com/projects/new-york-stock-exchange-new-york-stock-exchange-lobby-timeline/

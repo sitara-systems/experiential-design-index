@@ -1,0 +1,9 @@
+id: york-county-history-center
+name: York County History Center
+venue_type: history-museum
+location:
+  city: York
+  state: PA
+website: https://www.yorkhistorycenter.org
+sources:
+  - https://www.yorkhistorycenter.org

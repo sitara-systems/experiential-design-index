@@ -1,0 +1,10 @@
+id: willis-tower-skydeck
+name: Skydeck Chicago at Willis Tower
+venue_type: themed-attraction
+location:
+  city: Chicago
+  state: IL
+operator: EQ Office
+website: https://theskydeck.com
+sources:
+  - https://chicagoyimby.com/2021/05/construction-complete-on-renovation-of-skydeck-at-willis-tower-in-the-loop.html

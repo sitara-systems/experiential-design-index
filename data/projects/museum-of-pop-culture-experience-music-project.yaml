@@ -1,0 +1,25 @@
+id: museum-of-pop-culture-experience-music-project
+name: Experience Music Project
+venue: museum-of-pop-culture
+project_type: new-building
+year_completed: 2000
+credits:
+  - firm: gehry-partners
+    role: architecture
+    note: "No firm record yet"
+  - firm: second-story
+    role: media-design
+    note: "Three interactive media experiences for the museum's opening"
+technologies:
+  - touch interfaces
+  - interactive media
+summary: >
+  Experience Music Project (now the Museum of Pop Culture), designed by
+  Frank Gehry and commissioned by Paul Allen, opened at Seattle Center on
+  June 23, 2000; Second Story designed three interactive media experiences
+  for the museum.
+description: ""
+sources:
+  - https://www.historylink.org/file/5424
+  - https://en.wikipedia.org/wiki/Museum_of_Pop_Culture
+  - https://2s-archive.rzrfs.com/work/experience-music-project

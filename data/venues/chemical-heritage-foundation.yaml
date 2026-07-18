@@ -1,0 +1,10 @@
+id: chemical-heritage-foundation
+name: Chemical Heritage Foundation
+venue_type: history-museum
+location:
+  city: Philadelphia
+  state: PA
+website: https://www.sciencehistory.org
+sources:
+  - https://raai.com/project/making-modernity-science-history-institute/
+  - https://www.sciencehistory.org/distillations/magazine/making-modernity-a-gallery-preview

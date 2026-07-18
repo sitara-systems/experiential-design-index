@@ -1,0 +1,10 @@
+id: chrysler-museum-of-art
+name: Chrysler Museum of Art
+venue_type: art-museum
+location:
+  city: Norfolk
+  state: VA
+website: https://chrysler.org
+sources:
+  - https://chrysler.org/
+  - https://chrysler.org/the-chrysler-museum-of-art-opens-its-first-interactive-gallery-for-families/

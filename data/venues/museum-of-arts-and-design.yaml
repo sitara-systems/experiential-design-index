@@ -1,0 +1,9 @@
+id: museum-of-arts-and-design
+name: Museum of Arts and Design
+venue_type: design-museum
+location:
+  city: New York
+  state: NY
+website: https://madmuseum.org
+sources:
+  - https://madmuseum.org

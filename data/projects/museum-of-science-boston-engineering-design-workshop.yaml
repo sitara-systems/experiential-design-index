@@ -1,0 +1,26 @@
+id: museum-of-science-boston-engineering-design-workshop
+name: "Engineering Design Workshop, Powered by MathWorks"
+venue: museum-of-science-boston
+project_type: new-exhibition
+year_completed: 2021
+credits:
+  - firm: northern-light-productions
+    role: content-production
+technologies:
+  - hand-drawn animation
+  - documentary film
+summary: >
+  Engineering Design Workshop, Powered by MathWorks, a permanent exhibition
+  at the Museum of Science, Boston, opened in 2021 as part of the museum's
+  Blue Wing transformation; Northern Light Productions produced its film
+  content.
+description: >
+  Northern Light Productions developed six short films called "Engineering
+  Stories" demonstrating how professionals apply engineering to real-world
+  problem-solving, filmed at locations ranging from robotics facilities to
+  climbing gyms, featuring hand-drawn animations and origami-inspired
+  animated titles.
+sources:
+  - https://blooloop.com/museum/news/museum-science-boston-mathworks-stem-exhibit/
+  - https://yesblog.mos.org/exploring-an-engineering-career-with-the-engineering-design-workshop-powered-by-mathworks
+  - https://nlprod.com/item/museum-of-science-boston/

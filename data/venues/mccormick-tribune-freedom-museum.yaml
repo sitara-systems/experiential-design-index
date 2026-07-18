@@ -1,0 +1,11 @@
+id: mccormick-tribune-freedom-museum
+name: McCormick Tribune Freedom Museum
+venue_type: history-museum
+location:
+  city: Chicago
+  state: IL
+operator: McCormick Foundation
+website: https://en.wikipedia.org/wiki/McCormick_Tribune_Freedom_Museum
+sources:
+  - https://en.wikipedia.org/wiki/McCormick_Tribune_Freedom_Museum
+  - https://www.commarts.com/project/11570/mccormick-tribune-freedom-museum

@@ -1,0 +1,11 @@
+id: owa-theme-park
+name: OWA (The Park at OWA)
+venue_type: themed-attraction
+location:
+  city: Foley
+  state: AL
+operator: Poarch Band of Creek Indians
+website: https://visitowa.com
+sources:
+  - https://visitowa.com/
+  - https://parkworld-online.com/owa-now-open/

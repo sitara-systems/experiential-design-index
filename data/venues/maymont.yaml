@@ -1,0 +1,9 @@
+id: maymont
+name: Maymont
+venue_type: botanical-garden
+location:
+  city: Richmond
+  state: VA
+website: https://maymont.org
+sources:
+  - https://maymont.org

@@ -1,0 +1,11 @@
+id: barclays-center
+name: Barclays Center
+venue_type: sports-venue
+location:
+  city: Brooklyn
+  state: NY
+operator: BSE Global
+website: https://www.barclayscenter.com/
+sources:
+  - https://www.architecturalrecord.com/articles/7549-barclays-center
+  - https://en.wikipedia.org/wiki/Barclays_Center

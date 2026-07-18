@@ -1,0 +1,10 @@
+id: henry-ford-museum-of-american-innovation
+name: The Henry Ford Museum of American Innovation
+venue_type: history-museum
+location:
+  city: Dearborn
+  state: MI
+operator: The Henry Ford
+website: https://www.thehenryford.org
+sources:
+  - https://www.thehenryford.org

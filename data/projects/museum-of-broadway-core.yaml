@@ -1,0 +1,25 @@
+id: museum-of-broadway-core
+name: The Museum of Broadway
+venue: museum-of-broadway
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: rockwell-group
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: Audio, interactives, digital signage, and specialty projection across 20+ exhibition spaces
+technologies:
+  - augmented mirror
+  - interactive sensors
+  - digital signage
+summary: >
+  The Museum of Broadway, a 26,000 sq ft museum in Times Square, New York,
+  opened November 15, 2022; Rockwell Group contributed exhibit design and
+  Electrosonic designed, built, and integrated the museum's audiovisual
+  systems across three floors.
+description: ""
+sources:
+  - https://www.npr.org/2022/11/26/1138646738/new-museum-of-broadway-opens-musicals-theater
+  - https://www.electrosonic.com/projects/the-museum-of-broadway

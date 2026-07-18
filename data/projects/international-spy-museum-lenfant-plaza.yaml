@@ -1,0 +1,42 @@
+id: international-spy-museum-lenfant-plaza
+name: International Spy Museum (L'Enfant Plaza)
+venue: international-spy-museum
+project_type: new-building
+year_completed: 2019
+credits:
+  - firm: rogers-stirk-harbour-partners
+    role: architecture
+    note: "No firm record yet"
+  - firm: hickok-cole
+    role: architecture
+    note: "Associate architect, per gallagherdesign.com; no firm record yet"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "No firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: Over 1,300 pieces of AV/interactive equipment across 16 interactive exhibits
+  - firm: available-light
+    role: lighting-design
+  - firm: history-associates
+    role: interpretive-planning
+    note: "Script writing (credited jointly with Paul Rosenthal, an individual, not recorded per no-people policy)"
+  - firm: cortina-productions
+    role: media-design
+    note: "Interactive media and films"
+technologies:
+  - RFID
+  - interactive touchscreens
+  - motion detection
+summary: >
+  The International Spy Museum's new 140,000 sq ft building at L'Enfant
+  Plaza in Washington, DC opened May 12, 2019, designed by Rogers Stirk
+  Harbour + Partners with exhibit design by Gallagher & Associates,
+  fabrication by Kubik/Maltbie, and AV integration by Electrosonic.
+description: ""
+sources:
+  - https://www.washingtonpost.com/goingoutguide/museums/the-new-spy-museum-is-bigger-bolder-and-more-beautiful-here-are-the-10-things-you-shouldnt-miss/2019/05/08/1bfada0e-6853-11e9-82ba-fcfeff232e8f_story.html
+  - https://www.electrosonic.com/projects/international-spy-museum
+  - https://gallagherdesign.com/project/spy/

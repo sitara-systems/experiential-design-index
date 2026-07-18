@@ -1,0 +1,24 @@
+id: monterey-bay-aquarium-into-the-deep-towers
+name: "Into the Deep — On the Horizon Interactive Towers"
+venue: monterey-bay-aquarium
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: ideum
+    role: fabrication
+    note: Four custom touch towers (86" and 33" displays) for the On the Horizon area of the Into the Deep exhibition
+technologies:
+  - custom touch hardware
+summary: >
+  Four fabricated interactive touch towers in the "On the Horizon" area of
+  the Into the Deep exhibition, which opened April 2022 at the Monterey Bay
+  Aquarium in Monterey, California, were built by Ideum.
+description: >
+  Each tower combines an 86" stretch touch monitor with a 33" square monitor
+  on top of a custom cabinet, positioned where visitors can also see out
+  into Monterey Bay. Monterey Bay Aquarium staff developed the interactive
+  application, which presents images from the Monterey Bay Aquarium
+  Research Institute's (MBARI) Instagram feed.
+sources:
+  - https://ideum.com/portfolio/monterey-bay-into-the-deep-exhibit-fabrication
+  - https://www.montereybayaquarium.org/visit/exhibits/into-the-deep

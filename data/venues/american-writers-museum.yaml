@@ -1,0 +1,9 @@
+id: american-writers-museum
+name: American Writers Museum
+venue_type: other   # vocab gap: no "literary museum" type — see research notes
+location:
+  city: Chicago
+  state: IL
+website: https://americanwritersmuseum.org
+sources:
+  - https://americanwritersmuseum.org/about/history/

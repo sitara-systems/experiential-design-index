@@ -1,0 +1,8 @@
+id: freedom-plaza-nyc
+name: Freedom Plaza (Path of Liberty pop-up)
+venue_type: public-space
+location:
+  city: New York
+  state: NY
+sources:
+  - https://www.rlmg.com/work/path-of-liberty

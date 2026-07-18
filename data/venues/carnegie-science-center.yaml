@@ -1,0 +1,9 @@
+id: carnegie-science-center
+name: Carnegie Science Center
+venue_type: science-center
+location:
+  city: Pittsburgh
+  state: PA
+website: https://www.carnegiesciencecenter.org
+sources:
+  - https://kaminsciencecenter.org/exhibits/mars/

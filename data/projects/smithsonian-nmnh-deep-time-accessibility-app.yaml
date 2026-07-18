@@ -1,0 +1,21 @@
+id: smithsonian-nmnh-deep-time-accessibility-app
+name: David H. Koch Hall of Fossils (Deep Time) Accessibility App
+venue: smithsonian-national-museum-of-natural-history
+project_type: installation
+year_completed: 2018
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Mobile accessibility app for blind and low-vision visitors, developed with community feedback"
+technologies:
+  - mobile accessibility app
+  - screen reader integration
+summary: >
+  The David H. Koch Hall of Fossils (Deep Time) Accessibility App, a mobile
+  app enabling blind and low-vision visitors to independently explore the
+  Smithsonian National Museum of Natural History's fossil hall in
+  Washington, DC, launched in 2018; RLMG developed the app in consultation
+  with vision-impaired visitors.
+description: ""
+sources:
+  - https://www.rlmg.com/work/deep-time-accessibility-app

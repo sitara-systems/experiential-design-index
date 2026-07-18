@@ -1,0 +1,9 @@
+id: mcnay-art-museum
+name: McNay Art Museum
+venue_type: art-museum
+location:
+  city: San Antonio
+  state: TX
+website: https://www.mcnayart.org
+sources:
+  - https://www.mcnayart.org

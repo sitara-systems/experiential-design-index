@@ -1,0 +1,26 @@
+id: national-wwii-museum-expressions-of-america
+name: Expressions of America
+venue: national-wwii-museum
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: solomon-group
+    role: technical-consulting
+  - firm: solomon-group
+    role: av-integration
+    note: "Custom-built outdoor projection and audio system"
+  - firm: medici-media
+    role: media-design
+    note: "Formerly Mousetrappe; no firm record yet"
+technologies:
+  - outdoor projection mapping
+  - show control system
+summary: >
+  Expressions of America, an outdoor sound-and-light show projected across
+  three buildings of The National WWII Museum's campus in New Orleans,
+  debuted on Veterans Day (November 11) 2022; Solomon Group designed and
+  installed the custom projection and audio system in partnership with media
+  design partner Medici Media (formerly Mousetrappe).
+description: ""
+sources:
+  - https://solomongroup.com/projects/expressions-of-america-the-national-wwii-museum

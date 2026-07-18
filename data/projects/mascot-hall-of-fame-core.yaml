@@ -1,0 +1,36 @@
+id: mascot-hall-of-fame-core
+name: National Mascot Hall of Fame
+venue: mascot-hall-of-fame
+project_type: new-building
+year_completed: 2018
+status: completed
+credits:
+  - firm: electrosonic
+    role: av-integration
+    note: AV design and integration across 18 interactive exhibit areas
+  - firm: jack-rouse-associates
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "Project management, fabrication, and installation; no firm record yet"
+  - firm: northern-light-productions
+    role: content-production
+    note: "Prime media vendor; all linear video content plus two interactive exhibits, including the 'Marvelous Mascot Maker' physical-digital installation"
+technologies:
+  - interactive kiosks
+  - sensor-controlled games
+  - touch-screen applications
+summary: >
+  The National Mascot Hall of Fame, a 25,000 sq ft interactive children's
+  museum in Whiting, Indiana, opened December 26, 2018; Electrosonic
+  designed and integrated AV systems across its 18 interactive exhibit
+  areas, Jack Rouse Associates served as exhibit designer, Chicago Scenic
+  handled fabrication and installation, and Northern Light Productions was
+  the prime media vendor. The museum closed in 2024.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Mascot_Hall_of_Fame
+  - https://www.electrosonic.com/projects/mascot-hall-of-fame
+  - https://www.chicagoscenic.com/projects/mascot-hall-of-fame
+  - https://nlprod.com/item/mascot-hall-of-fame/

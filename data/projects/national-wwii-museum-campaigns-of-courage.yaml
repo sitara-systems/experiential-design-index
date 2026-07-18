@@ -1,0 +1,44 @@
+id: national-wwii-museum-campaigns-of-courage
+name: Campaigns of Courage
+venue: national-wwii-museum
+project_type: new-exhibition
+year_completed: 2015
+credits:
+  - firm: voorsanger-architects
+    role: architecture
+    note: "No firm record yet; Voorsanger Mathes LLC master-planned the pavilion"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: unified-field
+    role: media-design
+    note: "Interactive programs and linear media across both galleries, including personalized dog-tag stations, 360-degree cockpit viewers, and a flight simulator"
+  - firm: solomon-group
+    role: fabrication
+    note: "Scenic fabrication and installation across both Road to Berlin and Road to Tokyo galleries"
+  - firm: solomon-group
+    role: av-integration
+technologies:
+  - dog-tag personalization system
+  - 360-degree cockpit viewers
+  - flight simulator
+  - multiplayer interactive tables
+  - digital touchscreen kiosks
+summary: >
+  Campaigns of Courage, the two-gallery Road to Berlin (European Theater)
+  and Road to Tokyo (Pacific Theater) pavilion at The National WWII Museum
+  in New Orleans, opened in phases on December 13, 2014 and December 12,
+  2015; architecture by Voorsanger Mathes LLC, exhibit design by Gallagher
+  & Associates, and interactive/media design by Unified Field.
+description: >
+  Visitors receive personalized dog tags to customize their visit and
+  access saved video, photos, and artifacts online after the visit. The two
+  galleries include more than 25 interactive programs, 560 archival videos,
+  character narratives for 100 individuals, 13 animated maps, and 12
+  three-dimensional cutaway models.
+sources:
+  - https://www.unifiedfield.com/projects/national-wwii-museum
+  - https://www.nationalww2museum.org/visit/museum-campus-guide/campaigns-courage-pavilion
+  - https://www.nationalww2museum.org/media/press-releases/national-wwii-museum-presents-new-permanent-exhibit-road-tokyo-pacific-theater
+  - https://www.archdaily.com/209361/the-national-world-war-ii-museum-voorsanger-architects
+  - https://solomongroup.com/projects/the-national-wwii-museum-road-to-berlin-european-theater-galleries
+  - https://solomongroup.com/projects/the-national-wwii-museum-road-to-tokyo-pacific-theater-galleries

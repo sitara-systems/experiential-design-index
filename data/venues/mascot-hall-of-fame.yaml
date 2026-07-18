@@ -1,0 +1,8 @@
+id: mascot-hall-of-fame
+name: National Mascot Hall of Fame
+venue_type: sports-venue
+location:
+  city: Whiting
+  state: IN
+sources:
+  - https://en.wikipedia.org/wiki/Mascot_Hall_of_Fame

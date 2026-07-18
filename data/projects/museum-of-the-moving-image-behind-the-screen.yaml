@@ -1,0 +1,29 @@
+id: museum-of-the-moving-image-behind-the-screen
+name: Behind the Screen (renovation and expansion)
+venue: museum-of-the-moving-image
+project_type: major-renovation
+year_completed: 2011
+credits:
+  - firm: thomas-leeser-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: scharff-weisberg
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: Cinema projection, digital cinema servers, and the "Behind the Screen" exhibition AV systems
+technologies:
+  - cinema projection
+  - HD stereoscopic 3D
+  - interactive touch panels
+summary: >
+  The Museum of the Moving Image in Astoria, New York reopened January 15,
+  2011 after an expansion designed by architect Thomas Leeser, with a
+  redesigned "Behind the Screen" core exhibition; Electrosonic provided AV
+  design, engineering, and systems integration throughout the museum.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Museum_of_the_Moving_Image
+  - https://movingimage.org/about/museum-history/
+  - https://www.electrosonic.com/projects/museum-of-the-moving-image

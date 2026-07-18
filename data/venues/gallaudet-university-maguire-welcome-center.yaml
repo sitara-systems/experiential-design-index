@@ -1,0 +1,10 @@
+id: gallaudet-university-maguire-welcome-center
+name: Maguire Welcome Center
+venue_type: visitor-center
+location:
+  city: Washington
+  state: DC
+operator: Gallaudet University
+website: https://www.gallaudet.edu/maguire-welcome-center/
+sources:
+  - https://www.gallaudet.edu/maguire-welcome-center/

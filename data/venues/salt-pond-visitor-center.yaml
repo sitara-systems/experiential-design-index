@@ -1,0 +1,11 @@
+id: salt-pond-visitor-center
+name: Salt Pond Visitor Center
+venue_type: visitor-center
+location:
+  city: Eastham
+  state: MA
+operator: National Park Service (Cape Cod National Seashore)
+website: https://www.nps.gov/caco/planyourvisit/visitorcenters.htm
+sources:
+  - https://www.nps.gov/caco/planyourvisit/visitorcenters.htm
+  - https://www.nps.gov/caco/learn/news/orientation-movie-2018.htm

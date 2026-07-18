@@ -1,0 +1,9 @@
+id: northeastern-university
+name: Northeastern University
+venue_type: academic-institution
+location:
+  city: Boston
+  state: MA
+website: https://www.northeastern.edu
+sources:
+  - https://www.northeastern.edu

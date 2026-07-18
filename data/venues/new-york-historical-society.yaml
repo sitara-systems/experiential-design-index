@@ -1,0 +1,9 @@
+id: new-york-historical-society
+name: New-York Historical Society
+venue_type: history-museum
+location:
+  city: New York
+  state: NY
+website: https://www.nyhistory.org
+sources:
+  - https://dlproductions.com/projects/new-york-historical-society/

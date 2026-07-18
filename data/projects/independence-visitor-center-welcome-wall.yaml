@@ -1,0 +1,36 @@
+id: independence-visitor-center-welcome-wall
+name: Philly Welcome Wall
+venue: independence-visitor-center
+project_type: major-renovation
+year_completed: 2019
+credits:
+  - firm: electrosonic
+    role: av-integration
+    note: >
+      42-foot interactive digital wall with touch, proximity sensors, and
+      machine-learning-driven content
+  - firm: smith-diction
+    role: graphics-wayfinding
+    note: "Brand identity. No firm record yet"
+  - firm: bluecadet
+    role: media-design
+    note: >
+      Concierge Wall content and interaction design, National Park Service
+      Explorer touchscreen, welcome film, and dynamic digital signage across
+      the broader Visitor Experience Improvement Project.
+technologies:
+  - touchscreen interactives
+  - motion sensors
+  - digital signage
+summary: >
+  The Philly Welcome Wall, a 42-foot interactive digital wall, opened October
+  8, 2019 as the centerpiece of a $15 million Visitor Experience Improvement
+  Project at Philadelphia's Independence Visitor Center; Electrosonic
+  designed and integrated the AV and interactive systems, with content and
+  interaction design by Bluecadet and branding by Smith & Diction.
+description: ""
+sources:
+  - https://www.phillyvoice.com/renovation-independence-visitor-center-anticipates-philly-tourism-boom/
+  - https://www.electrosonic.com/projects/independence-visitor-center
+  - https://www.bluecadet.com/work/independence-visitor-center
+  - https://www.phlvisitorcenter.com/2019

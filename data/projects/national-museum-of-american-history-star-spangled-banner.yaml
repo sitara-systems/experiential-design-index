@@ -1,0 +1,45 @@
+id: national-museum-of-american-history-star-spangled-banner
+name: Star-Spangled Banner Gallery
+venue: smithsonian-national-museum-of-american-history
+project_type: new-exhibition
+year_completed: 2008
+credits:
+  - firm: c-and-g-partners
+    role: exhibit-design
+  - firm: som
+    role: architecture
+    note: "Skidmore, Owings & Merrill; no firm record yet"
+  - firm: rbh
+    role: av-integration
+    note: "Final AV design; no firm record yet"
+  - firm: potion-design
+    role: media-design
+    note: Interactive "Flag Table" touch-table technology design
+  - firm: technical-artistry
+    role: lighting-design
+    note: "Exhibit lighting; no firm record yet"
+  - firm: george-sexton-associates
+    role: lighting-design
+    note: "Architectural lighting; no firm record yet"
+technologies:
+  - interactive touch table
+  - projection
+  - climate-controlled glass enclosure
+summary: >
+  The Star-Spangled Banner Gallery, a permanent exhibition at the
+  Smithsonian's National Museum of American History in Washington, DC
+  displaying the flag that inspired the U.S. national anthem behind a
+  35-foot glass enclosure with a life-size interactive "Flag Table," opened
+  November 21, 2008 with the museum's renovation reopening; C&G Partners led
+  exhibition design, with architecture by SOM, AV design by RBH, and
+  interactive table technology by Potion.
+description: >
+  Includes the "Flag Table," a 15-foot interactive media table within the
+  gallery that lets visitors explore a projected, full-scale image of the
+  flag — confirmed by C&G Partners as a component of this exhibition, not a
+  separate installation.
+sources:
+  - https://www.pew.org/en/about/news-room/press-releases-and-statements/2008/11/20/original-starspangled-banner-debuts-in-new-stateoftheart-gallery-at-the-national-museum-of-american-history
+  - https://amhistory.si.edu/starspangledbanner/
+  - https://www.cgpartnersllc.com/projects/national-museum-of-american-history-star-spangled-banner-exhibit/
+  - https://www.cgpartnersllc.com/projects/national-museum-of-american-history-interactive-multimedia-exhibit/

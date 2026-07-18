@@ -1,0 +1,10 @@
+id: lower-east-side-tenement-museum
+name: Lower East Side Tenement Museum
+venue_type: history-museum
+location:
+  city: New York
+  state: NY
+website: https://www.tenement.org
+sources:
+  - https://www.tenement.org
+  - https://en.wikipedia.org/wiki/Lower_East_Side_Tenement_Museum

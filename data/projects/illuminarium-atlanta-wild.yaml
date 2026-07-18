@@ -1,0 +1,27 @@
+id: illuminarium-atlanta-wild
+name: "WILD: A Safari Experience"
+venue: illuminarium-atlanta
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: rockwell-group
+    role: exhibit-design
+    note: "LAB at Rockwell Group; experience design; no firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: Design engineering, projection studies, and coordination of all AV/technology systems
+technologies:
+  - 4K projection
+  - spatial 3D audio
+  - LIDAR interactivity
+  - haptic infrasound
+summary: >
+  Illuminarium Atlanta, a 30,000 sq ft immersive entertainment venue on the
+  Atlanta BeltLine, opened July 1, 2021 with the inaugural show "WILD: A
+  Safari Experience"; LAB at Rockwell Group designed the experience and
+  Electrosonic served as AV systems integrator across the 360-degree
+  projection theater.
+description: ""
+sources:
+  - https://www.prnewswire.com/news-releases/illuminarium-experiences-first-venue-opens-on-atlantas-beltline-with-wild-a-safari-experience-immersing-guests-in-the-splendor-of-africas-most-exotic-animals-301324381.html
+  - https://www.electrosonic.com/projects/illuminarium-atlanta

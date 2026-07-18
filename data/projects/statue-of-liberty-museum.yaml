@@ -1,0 +1,34 @@
+id: statue-of-liberty-museum
+name: Statue of Liberty Museum
+venue: statue-of-liberty-museum-venue
+project_type: new-building
+year_completed: 2019
+credits:
+  - firm: fxcollaborative
+    role: architecture
+    note: "no firm record yet"
+  - firm: esi-design
+    role: exhibit-design
+    note: "15,000 sq ft exhibition across three galleries: Immersive Theater, Engagement Gallery, Inspiration Gallery"
+  - firm: esi-design
+    role: media-design
+    note: "Immersive theater and the 450 sq ft crowdsourced 'Becoming Liberty' digital mural"
+technologies:
+  - immersive theater
+  - interactive touchscreens
+  - crowdsourced digital mural
+summary: >
+  The Statue of Liberty Museum, a 26,000-square-foot new visitor museum on
+  Liberty Island in New York, opened May 16, 2019, with architecture by
+  FXCollaborative and exhibition/interactive media design by ESI Design.
+description: >
+  Commissioned by the Statue of Liberty-Ellis Island Foundation, the museum
+  gives all Liberty Island visitors access to the statue's original torch and
+  a non-linear, three-gallery exhibition (Immersive Theater, Engagement
+  Gallery, Inspiration Gallery) covering the statue's history and global
+  symbolism, including more than 150 historic artifacts, 29 interactive
+  touchscreens, and the "Becoming Liberty" crowdsourced digital mural.
+sources:
+  - https://www.archpaper.com/2019/05/statue-of-liberty-museum-opens-fxcollaborative/
+  - https://esi.nbbj.com/work/statue-of-liberty-museum
+  - https://www.aiany.org/membership/oculus-magazine/article/summer-2019/the-statue-of-liberty-museum/

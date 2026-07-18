@@ -1,0 +1,26 @@
+id: national-wwii-museum-liberation-pavilion
+name: Liberation Pavilion
+venue: national-wwii-museum
+project_type: new-exhibition
+year_completed: 2023
+credits:
+  - firm: solomon-group
+    role: technical-consulting
+    note: "Early-stage design, budgeting, and scheduling consultation"
+  - firm: solomon-group
+    role: lighting-design
+  - firm: solomon-group
+    role: av-integration
+technologies:
+  - projection mapping
+  - show control system
+summary: >
+  The Liberation Pavilion, the capstone permanent exhibit of The National
+  WWII Museum's Road to Victory expansion in New Orleans, opened in November
+  2023; Solomon Group provided early-stage consultation, exhibit lighting,
+  and AV systems integration, including a custom projection-mapping system
+  for the pavilion's polygonal entrance art piece.
+description: ""
+sources:
+  - https://solomongroup.com/projects/liberation-pavilion
+  - https://www.nationalww2museum.org/visit/museum-campus-guide/liberation-pavilion

@@ -1,0 +1,48 @@
+id: sanford-lab-homestake-visitor-center-exhibits
+name: Science Research Buried in a Gold Mine
+venue: sanford-lab-homestake-visitor-center
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: c-and-g-partners
+    role: exhibit-design
+  - firm: c-and-g-partners
+    role: graphics-wayfinding
+    note: "Environmental graphics and branding"
+  - firm: dangermond-keane-architecture
+    role: architecture
+    note: "no firm record yet"
+  - firm: rbh-media
+    role: av-integration
+    note: "AV programming and hardware specification; no firm record yet"
+  - firm: formations
+    role: fabrication
+    note: "no firm record yet"
+  - firm: situ-studio
+    role: fabrication
+    note: "Mine model and interpretive ring fabrication; no firm record yet"
+technologies:
+  - multiscreen audiovisual
+  - sculptural kinetic model
+summary: >
+  Science Research Buried in a Gold Mine, the Sanford Lab Homestake Visitor
+  Center in Lead, South Dakota, opened in 2015 to interpret the former
+  Homestake gold mine's conversion into the Sanford Underground Research
+  Facility, with exhibit design, media, signage, and branding by C&G Partners,
+  architecture by Dangermond Keane Architecture, AV integration by RBH Media,
+  and fabrication by Formations and Situ Studio.
+description: >
+  The center addresses the challenge that most of the underground research
+  facility is a mile below ground and inaccessible to the public. Centerpiece
+  installations include a sculptural mobile representing all 370 miles of the
+  mine's tunnels and shafts, a 300-foot photographic frieze, a large window
+  overlooking the mine, and The Ross Cage: a vintage elevator cage salvaged
+  from the mine's Ross shaft, repurposed into a multiscreen audiovisual
+  experience simulating a descent to the Lab's 4850 Level featuring
+  conversations among mining engineers, employees, and physicists. The project
+  received an SEGD Merit Award in 2016.
+sources:
+  - https://www.cgpartnersllc.com/projects/sanford-lab-homestake-visitor-center/
+  - https://www.cgpartnersllc.com/projects/ross-cage-homestake-mine/
+  - https://segd.org/projects/sanford-lab-homestake-visitor-center/
+  - https://sanfordlab.org/slhvc

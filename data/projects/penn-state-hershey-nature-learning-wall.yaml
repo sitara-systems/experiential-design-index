@@ -1,0 +1,23 @@
+id: penn-state-hershey-nature-learning-wall
+name: Nature Learning Wall
+venue: penn-state-hershey-childrens-hospital
+project_type: installation
+year_completed: 2013
+credits:
+  - firm: rlmg
+    role: content-production
+    note: "70-foot panoramic forest wall with time-lapse viewing portals"
+  - firm: payette
+    role: architecture
+  - firm: selbert-perkins-design
+    role: graphics-wayfinding
+technologies:
+  - panoramic time-lapse video
+summary: >
+  The Nature Learning Wall, a 70-foot interactive forest installation at
+  Penn State Health Children's Hospital in Hershey, Pennsylvania, opened in
+  2013; RLMG produced the time-lapse video content, with architecture by
+  Payette and graphics by Selbert Perkins Design.
+description: ""
+sources:
+  - https://www.rlmg.com/work/hershey-childrens-hospital

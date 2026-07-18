@@ -1,0 +1,9 @@
+id: topaz-museum
+name: The Topaz Museum
+venue_type: history-museum
+location:
+  city: Delta
+  state: UT
+website: https://www.topazmuseum.org
+sources:
+  - https://www.topazmuseum.org

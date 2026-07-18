@@ -1,0 +1,10 @@
+id: pikes-peak-summit-visitor-center
+name: Pikes Peak Summit Visitor Center
+venue_type: visitor-center
+location:
+  city: Cascade
+  state: CO
+website: https://www.pikespeak.co.us/
+sources:
+  - https://www.businesswire.com/news/home/20210630005566/en/Pikes-Peak-Summit-Visitor-Center-Celebrates-Grand-Opening
+  - https://www.gwwoinc.com/projects/pikes-peak-summit-visitor-center

@@ -1,0 +1,34 @@
+id: cadillac-house-autoportrait
+name: AUTOPORTRAIT
+venue: cadillac-house
+project_type: temporary-exhibition
+year_completed: 2016
+credits:
+  - firm: tellart
+    role: media-design
+    note: "Designed and built ADA0002, a repurposed industrial welding robot retrofitted with face recognition and autonomous drawing capability"
+  - firm: leaflabs
+    role: media-design
+    note: "Engineered the software orchestration layer (computer vision, real-time motion control, communication protocols); no firm record yet"
+technologies:
+  - computer vision / face recognition
+  - robotic arm motion control
+  - autonomous drawing system
+summary: >
+  AUTOPORTRAIT was a temporary exhibition at the Gallery at Cadillac House
+  in New York City, presented by Visionaire, in which Tellart's ADA0002
+  robot -- an industrial welding arm retrofitted for autonomous portrait
+  drawing -- sketched visitors' portraits, running October 13 through
+  November 4, 2016.
+description: >
+  ADA0002 (Advanced Drawing Automation, a nod to Ada Lovelace) was built
+  from a repurposed ABB IRB1440 industrial welding robot. LeafLabs
+  engineered the orchestration layer combining AI-driven computer vision,
+  real-time motion control, and communication protocols to let the robot
+  sketch a live portrait of each visitor to take home; visitors reportedly
+  waited in line for over two hours for a turn.
+sources:
+  - https://www.tellart.com/projects/autonomous-portrait-artist/
+  - https://www.leaflabs.com/work/autoportrait
+  - https://www.dbusiness.com/daily-news/cadillac-house-launches-new-artist-robot-exhibit/
+  - https://visionaireworld.com/blogs/experience/visionaire-presents-autoportrait

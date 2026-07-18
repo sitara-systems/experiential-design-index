@@ -1,0 +1,31 @@
+id: rockefeller-university-digital-signage-triptychs
+name: Digital Signage Triptychs
+venue: rockefeller-university
+project_type: installation
+year_completed: 2020
+credits:
+  - firm: c-and-g-partners
+    role: media-design
+    note: "Concept, visual design, development, and deployment"
+  - firm: brightsign
+    role: av-integration
+    note: "no firm record yet; supplied BrightSign XT244 media players"
+technologies:
+  - digital signage
+  - BrightSign media players
+  - diptych/triptych screen arrays
+summary: >
+  The Digital Signage Triptychs, a campus-wide digital signage network
+  replacing printed posters at The Rockefeller University in New York City,
+  was designed and deployed by C&G Partners with BrightSign media players,
+  reported in press coverage dated July 2020.
+description: >
+  More than four dozen BrightSign XT244 players feed content to an equal
+  number of 49-inch 4K displays, configured in diptych and triptych
+  arrangements across the university's existing campus and the new Stavros
+  Niarchos Foundation-David Rockefeller River Campus. C&G Partners
+  transformed biomedical imagery generated in the university's own labs into
+  abstract animated backgrounds for branded event and lecture announcements.
+sources:
+  - https://www.cgpartnersllc.com/projects/digital-signage-program/
+  - https://www.svconline.com/the-wire/brightsign-helps-cg-partners-revitalize-and-unify-on-campus-communications-at-rockefeller-university

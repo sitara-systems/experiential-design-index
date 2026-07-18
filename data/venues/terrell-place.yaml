@@ -1,0 +1,10 @@
+id: terrell-place
+name: Terrell Place
+venue_type: other
+location:
+  city: Washington
+  state: DC
+operator: Beacon Capital Partners
+sources:
+  - https://www.architectmagazine.com/technology/a-look-behind-esi-designs-interactive-media-wall-at-terrell-place
+  - https://www.designboom.com/art/esi-design-terrell-place-reactive-media-installation-washington-dc-07-11-2016/

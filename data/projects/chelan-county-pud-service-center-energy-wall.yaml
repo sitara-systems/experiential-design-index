@@ -1,0 +1,28 @@
+id: chelan-county-pud-service-center-energy-wall
+name: Multi-Generational Energy Experience Wall
+venue: chelan-county-pud-service-center
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: ideum
+    role: media-design
+    note: Custom illustrated interactive touch wall covering energy and water conservation, with a Directus-based CMS
+  - firm: ideum
+    role: av-integration
+    note: Computer and AV system integrated with touch-sensor screens supplied by TSI Touch
+technologies:
+  - large-format touch wall
+  - Unity
+  - Directus CMS
+summary: >
+  A permanent interactive touch wall on energy and water conservation opened
+  October 7, 2023, at the new Chelan County Public Utility District Service
+  Center in Wenatchee, Washington, designed and built by Ideum.
+description: >
+  A large-scale touch wall presents a custom illustrated map of Chelan
+  County that changes with the seasons; adults are directed to information
+  on energy savings and utility rebate programs, while a lower section
+  offers children three mini-games about home energy use and conservation,
+  including a coloring game and an energy-and-water-saving game.
+sources:
+  - https://ideum.com/portfolio/chelan-county-energy

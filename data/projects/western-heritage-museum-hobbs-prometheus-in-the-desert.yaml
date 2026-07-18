@@ -1,0 +1,30 @@
+id: western-heritage-museum-hobbs-prometheus-in-the-desert
+name: Prometheus in the Desert
+venue: western-heritage-museum-hobbs
+project_type: temporary-exhibition
+year_completed: 2025
+status: completed
+credits:
+  - firm: ideum
+    role: exhibit-design
+  - firm: ideum
+    role: media-design
+    note: Interactive digital timeline of the Manhattan Project on a 65" touch table
+  - firm: ideum
+    role: fabrication
+    note: 27 interpretive panels and a full-scale replica of Los Alamos' East Main Gate
+technologies:
+  - multitouch table
+  - Unity
+summary: >
+  Prometheus in the Desert, a temporary exhibition on the Manhattan Project,
+  ran March 31 through October 18, 2025, at the Western Heritage Museum in
+  Hobbs, New Mexico, designed, fabricated, and built by Ideum.
+description: >
+  Timed to the 80th anniversary of the Manhattan Project's completion, the
+  exhibit combines an interactive digital timeline on a 65" touch table with
+  27 large-scale interpretive panels, props and costumes from the film
+  Oppenheimer, and a full-scale replica of Los Alamos' historic East Main
+  Gate.
+sources:
+  - https://ideum.com/portfolio/prometheus-in-the-desert

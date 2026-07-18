@@ -1,0 +1,9 @@
+id: uw-tacoma-milgard-hall
+name: Milgard Hall
+venue_type: academic-institution
+location:
+  city: Tacoma
+  state: WA
+operator: University of Washington Tacoma
+sources:
+  - https://studiomatthews.com/project/milgard-hall/

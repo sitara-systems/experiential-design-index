@@ -1,0 +1,26 @@
+id: summit-one-vanderbilt-core
+name: SUMMIT One Vanderbilt
+venue: summit-one-vanderbilt
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: snohetta
+    role: architecture
+    note: "No firm record yet"
+  - firm: kenzo-digital
+    role: exhibit-design
+    note: "Experience designer; no firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: 233 speakers, 14 subwoofers, and a 50x12-foot Samsung MicroLED wall across 26 spaces
+technologies:
+  - MicroLED
+  - immersive audio
+summary: >
+  SUMMIT One Vanderbilt, a 65,000 sq ft observation deck experience atop One
+  Vanderbilt in New York City, opened October 21, 2021; Snohetta designed
+  the architecture, Kenzo Digital was experience designer, and Electrosonic
+  engineered and integrated the AV systems across its 26 spaces.
+description: ""
+sources:
+  - https://www.electrosonic.com/projects/summit-one-vanderbilt

@@ -1,0 +1,24 @@
+id: georgia-aquarium-att-dolphin-tales
+name: AT&T Dolphin Tales
+venue: georgia-aquarium
+project_type: new-exhibition
+year_completed: 2011
+credits:
+  - firm: wowworks
+    role: exhibit-design
+    note: "WOW!Works, entertainment design and production; no firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: Show AV design, supply, and installation; also designed AV for the dolphin gallery lobby
+technologies:
+  - edge-blended projection
+  - surround sound
+summary: >
+  AT&T Dolphin Tales, a 25-minute live entertainment show staged in a new
+  1,800-seat auditorium at the Georgia Aquarium in Atlanta, opened November
+  2011; WOW!Works produced the show and Electrosonic designed, supplied, and
+  installed its audio and video systems.
+description: ""
+sources:
+  - https://www.livedesignonline.com/electrosonic-dives-into-at-t-dolphin-tales-live-entertainment-project-for-georgia-aquarium
+  - https://www.electrosonic.com/projects/at-t-dolphin-tales-at-georgia-aquarium

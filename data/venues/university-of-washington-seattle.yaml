@@ -1,0 +1,10 @@
+id: university-of-washington-seattle
+name: University of Washington, Seattle campus
+venue_type: academic-institution
+location:
+  city: Seattle
+  state: WA
+website: https://www.washington.edu
+sources:
+  - https://studiomatthews.com/project/uw-campus-wayfinding/
+  - https://studiomatthews.com/project/uws-office-of-minority-affairs-and-diversity/

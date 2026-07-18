@@ -1,0 +1,11 @@
+id: selma-interpretive-center
+name: Selma Interpretive Center
+venue_type: visitor-center
+location:
+  city: Selma
+  state: AL
+operator: National Park Service (Selma to Montgomery National Historic Trail)
+website: https://www.nps.gov/semo/planyourvisit/visitorcenters.htm
+sources:
+  - https://www.nps.gov/semo/planyourvisit/visitorcenters.htm
+  - https://www.nps.gov/semo/learn/photosmultimedia/the-way-to-freedom.htm

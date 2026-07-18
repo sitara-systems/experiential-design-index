@@ -1,0 +1,25 @@
+id: wells-fargo-center-denver-led-columns
+name: Wells Fargo Center Atrium LED Installation
+venue: wells-fargo-center-denver
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: esi-design
+    role: media-design
+    note: "Experience design lead; five 85-foot LED columns in the glass atrium"
+  - firm: av-c
+    role: media-design
+    note: "Software platform choreographing the canvases from local data and social feeds"
+technologies:
+  - LED display
+  - generative software
+summary: >
+  An eight-story digital installation of five 85-foot LED columns opened in
+  the glass atrium of Denver's Wells Fargo Center in 2016 as part of a lobby
+  renovation, with experience design by ESI Design and software by AV&C for
+  owner Beacon Capital Partners.
+description: ""
+sources:
+  - https://www.av-controls.com/wells-fargo-dever-co
+  - https://esi.nbbj.com/work/wells-fargo-center
+  - https://303magazine.com/2016/07/enoc-perez-esi-design-warm-wells-fargo-center/

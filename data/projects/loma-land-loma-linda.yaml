@@ -1,0 +1,26 @@
+id: loma-land-loma-linda
+name: Loma Land
+venue: loma-linda-university-childrens-hospital
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: esi-design
+    role: media-design
+    note: "Interactive digital wilderness experience; children create a personalized animal companion that can appear on a 60-foot shared display screen"
+technologies:
+  - real-time 3D character creation
+  - shared large-format display
+summary: >
+  Loma Land, an interactive digital-wilderness experience designed to ease
+  stress and anxiety for pediatric patients, opened at Loma Linda University
+  Children's Hospital in Loma Linda, California, in November 2023, designed
+  by ESI Design.
+description: >
+  Children create a personalized forest-animal companion at kiosk screens
+  along the walk to the elevators, then can release it to interact with other
+  visitors' animals on a 60-foot shared display; the project was a Fast
+  Company Innovation by Design Award finalist.
+sources:
+  - https://news.llu.edu/health-wellness/first-of-its-kind-interactive-digital-wall-unveiled-loma-linda-university-children-s-hospital
+  - https://www.fastcompany.com/91015324/the-clever-way-one-california-hospital-made-visits-a-lot-less-stressful-for-children
+  - https://esi.nbbj.com/work/loma-land-at-loma-linda-university-childrens-hospital

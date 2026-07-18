@@ -1,0 +1,30 @@
+id: yale-school-of-management-digital-signage
+name: Data Visualization and Digital Signage
+venue: yale-school-of-management
+project_type: new-building
+year_completed: 2014
+credits:
+  - firm: foster-and-partners
+    role: architecture
+    note: "No firm record yet"
+  - firm: unified-field
+    role: media-design
+technologies:
+  - digital signage network
+  - real-time data visualization
+summary: >
+  Three floors of interactive media and digital signage for Edward P. Evans
+  Hall, home of the Yale School of Management in New Haven, Connecticut,
+  opened with the building in January 2014; architecture by Foster +
+  Partners, digital signage and data-visualization design by Unified Field.
+description: >
+  The narrow-cast display network shares school-wide agendas, class and
+  conference schedules, announcements, and dynamic economic
+  data-visualizations across classrooms and common areas, along with
+  photography and content contributed by students, staff, and guest
+  speakers.
+sources:
+  - https://www.unifiedfield.com/projects/yale-school-of-management
+  - https://segd.org/projects/yale-school-management/
+  - https://www.designboom.com/architecture/foster-partners-open-yale-school-of-managements-edward-p-evans-hall-01-10-2014/
+  - https://en.wikipedia.org/wiki/Edward_P._Evans_Hall

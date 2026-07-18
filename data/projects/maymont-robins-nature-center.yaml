@@ -1,0 +1,25 @@
+id: maymont-robins-nature-center
+name: Robins Nature Center Digital Experiences
+venue: maymont
+project_type: installation
+year_completed: 2020
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "James Riverscape digital underwater scene and Digital Pools interactive"
+  - firm: building-four-fabrication
+    role: fabrication
+    note: "No firm record yet"
+  - firm: main-street-design
+    role: exhibit-design
+technologies:
+  - motion-responsive digital display
+  - 3D animal scanning
+summary: >
+  Interactive digital wildlife displays at the Robins Nature Center at
+  Maymont, a park and nature center in Richmond, Virginia, opened in 2020;
+  RLMG designed the media, using 3D scans of live animals, with fabrication
+  by Building Four Fabrication and exhibit design by Main Street Design.
+description: ""
+sources:
+  - https://www.rlmg.com/work/robins-nature-center

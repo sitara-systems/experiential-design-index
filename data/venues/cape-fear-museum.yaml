@@ -1,0 +1,9 @@
+id: cape-fear-museum
+name: Cape Fear Museum of History and Science
+venue_type: history-museum
+location:
+  city: Wilmington
+  state: NC
+website: https://www.capefearmuseum.com
+sources:
+  - https://www.capefearmuseum.com

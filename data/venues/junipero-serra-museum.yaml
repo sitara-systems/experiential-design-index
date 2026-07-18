@@ -1,0 +1,10 @@
+id: junipero-serra-museum
+name: Junípero Serra Museum
+venue_type: history-museum
+location:
+  city: San Diego
+  state: CA
+operator: San Diego History Center
+website: https://sandiegohistory.org/serramuseum/
+sources:
+  - https://sandiegohistory.org/serramuseum/

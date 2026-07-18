@@ -1,0 +1,27 @@
+id: grammy-museum-la-live-core-exhibits
+name: GRAMMY Museum
+venue: grammy-museum-la-live
+project_type: new-building
+year_completed: 2008
+credits:
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: second-story
+    role: media-design
+    note: >
+      Entrance media wall of 30 years of GRAMMY performances and eight
+      interactive audio production suites
+technologies:
+  - media wall
+  - interactive audio production stations
+  - touch interfaces
+summary: >
+  The GRAMMY Museum, a permanent museum within the L.A. Live entertainment
+  complex in downtown Los Angeles, opened December 6, 2008; exhibit design
+  was by Gallagher & Associates, with Second Story designing an entrance
+  media wall and eight interactive audio production suites.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Grammy_Museum_at_L.A._Live
+  - https://www.commarts.com/exhibit/the-grammy-museum-exhibition-design
+  - https://2s-archive.rzrfs.com/work/grammys-museum

@@ -1,0 +1,9 @@
+id: maritime-aquarium-norwalk
+name: The Maritime Aquarium at Norwalk
+venue_type: aquarium-zoo
+location:
+  city: Norwalk
+  state: CT
+website: https://www.maritimeaquarium.org
+sources:
+  - https://www.maritimeaquarium.org

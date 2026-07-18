@@ -1,0 +1,36 @@
+id: hearst-tower-signage
+name: Hearst Tower Signage
+venue: hearst-tower-manhattan
+project_type: installation
+year_completed: 2006
+credits:
+  - firm: c-and-g-partners
+    role: graphics-wayfinding
+  - firm: foster-and-partners
+    role: architecture
+    note: "tower design architect; no firm record yet"
+  - firm: adamson-associates
+    role: architecture
+    note: "architect of record; no firm record yet"
+  - firm: gensler
+    role: architecture
+    note: "interior architect"
+technologies:
+  - environmental graphics
+  - wayfinding signage
+summary: >
+  Hearst Tower, the Foster + Partners-designed addition to the landmarked
+  Hearst Building in Manhattan, opened in 2006 with a building-wide
+  signage system designed by C&G Partners (a project begun at Chermayeff &
+  Geismar) for the Hearst Corporation; the work received an SEGD Merit
+  Award in 2007.
+description: >
+  C&G Partners designed a building-wide network of lit signage, glass
+  films, and elevator-call totems for Hearst Tower. Freestanding glass and
+  steel totems integrate directional information, security cameras, and
+  elevator keypads, using typefaces aligned with Hearst's corporate and
+  magazine identity.
+sources:
+  - https://www.cgpartnersllc.com/projects/hearst-corporation-hearst-tower-signage/
+  - https://segd.org/projects/content-hearst-building-sign-program/
+  - https://en.wikipedia.org/wiki/Hearst_Tower_(Manhattan)

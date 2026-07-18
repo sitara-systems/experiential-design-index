@@ -1,0 +1,9 @@
+id: san-jose-museum-of-art
+name: San José Museum of Art
+venue_type: art-museum
+location:
+  city: San Jose
+  state: CA
+website: https://sjmusart.org
+sources:
+  - https://sjmusart.org/exhibition/rina-banerjee-make-me-summary-world

@@ -1,0 +1,41 @@
+id: st-louis-kaplan-feldman-holocaust-museum-exhibition
+name: St. Louis Kaplan Feldman Holocaust Museum
+venue: st-louis-kaplan-feldman-holocaust-museum
+project_type: major-renovation
+year_completed: 2022
+credits:
+  - firm: tri-architects
+    role: architecture
+    note: "Exterior architect; no firm record yet"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: gallagher-and-associates
+    role: content-production
+  - firm: videobred
+    role: content-production
+    note: Media development
+  - firm: mccann-systems
+    role: av-integration
+    note: "No firm record yet"
+  - firm: baker-and-hill
+    role: content-production
+    note: "Animation; no firm record yet"
+  - firm: icon-design
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - immersive theater
+  - interactive media
+summary: >
+  The St. Louis Kaplan Feldman Holocaust Museum reopened November 2, 2022
+  after a $21 million, roughly threefold expansion, with exterior
+  architecture by TR,i Architects and interior exhibit design and content
+  development by Gallagher & Associates.
+description: >
+  Facing History provided content development and Mais Directions provided
+  scriptwriting and content review, per Gallagher & Associates' own project
+  page; neither has a firm record yet in this index.
+sources:
+  - https://stlholocaustmuseum.org/about-us/
+  - https://www.stltoday.com/news/local/after-2-year-renovation-and-expansion-st-louis-kaplan-feldman-holocaust-museum-to-reopen/article_83f4088b-4cd5-50d5-81ec-4b8f5d575aff.html
+  - https://gallagherdesign.com/project/st-louis-kaplan-feldman-holocaust-museum/

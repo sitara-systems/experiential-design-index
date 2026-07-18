@@ -1,0 +1,11 @@
+id: hearst-tower-manhattan
+name: Hearst Tower
+venue_type: other
+location:
+  city: New York
+  state: NY
+operator: Hearst Corporation
+website: https://www.hearst.com
+sources:
+  - https://en.wikipedia.org/wiki/Hearst_Tower_(Manhattan)
+  - https://segd.org/projects/content-hearst-building-sign-program/

@@ -1,0 +1,11 @@
+id: university-of-nebraska-state-museum
+name: University of Nebraska State Museum (Morrill Hall)
+venue_type: natural-history-museum
+location:
+  city: Lincoln
+  state: NE
+operator: University of Nebraska-Lincoln
+website: https://museum.unl.edu/
+sources:
+  - https://museum.unl.edu/exhibits/cherishnebraska/
+  - https://news.unl.edu/article/morrill-hall-expansion-to-help-visitors-cherish-nebraska

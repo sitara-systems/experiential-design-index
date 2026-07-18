@@ -1,0 +1,10 @@
+id: national-museum-of-african-american-music
+name: National Museum of African American Music
+venue_type: history-museum
+location:
+  city: Nashville
+  state: TN
+website: https://www.nmaam.org
+sources:
+  - https://www.nmaam.org/about/
+  - https://www.npr.org/2021/10/13/1016619682/national-museum-african-american-music-nashville

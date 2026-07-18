@@ -1,0 +1,43 @@
+id: independence-seaport-museum-river-alive
+name: River Alive
+venue: independence-seaport-museum
+project_type: new-exhibition
+year_completed: 2019
+credits:
+  - firm: habitheque
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: hands-on-studio
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: handymakes-studio
+    role: content-production
+    note: "Content development. No firm record yet"
+  - firm: creative-machines
+    role: fabrication
+    note: "Physical interactive production. No firm record yet"
+  - firm: frazer-technology
+    role: av-integration
+    note: "No firm record yet"
+  - firm: b-fabrication
+    role: fabrication
+    note: "No firm record yet"
+  - firm: bluecadet
+    role: media-design
+    note: >
+      32-foot projection wall, touchscreen interactives, and a "River Hero"
+      personality quiz.
+technologies:
+  - projection
+  - sensors
+  - touchscreen interactives
+summary: >
+  River Alive, an exhibition on the Delaware River's maritime history and
+  watershed health, opened at the Independence Seaport Museum in
+  Philadelphia in 2019, with exhibition design by Habitheque and Hands on!
+  Studio, fabrication by Creative Machines and B Fabrication, AV systems by
+  Frazer Technology, content development by Handymakes Studio, and
+  interactive media by Bluecadet.
+description: ""
+sources:
+  - https://www.bluecadet.com/work/river-alive

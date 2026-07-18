@@ -1,0 +1,11 @@
+id: stonewall-national-monument-visitor-center
+name: Stonewall National Monument Visitor Center
+venue_type: visitor-center
+location:
+  city: New York
+  state: NY
+operator: Pride Live / National Park Service
+website: https://stonewallvisitorcenter.org
+sources:
+  - https://www.architecturalrecord.com/articles/16988-the-stonewall-national-monument-visitor-center-opens-in-new-york
+  - https://www.dezeen.com/2024/06/28/stonewall-monument-in-new-york-is-first-lgbtqia-visitor-centre-in-national-parks-service/

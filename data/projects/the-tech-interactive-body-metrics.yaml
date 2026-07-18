@@ -1,0 +1,22 @@
+id: the-tech-interactive-body-metrics
+name: Body Metrics
+venue: the-tech-interactive
+project_type: installation
+year_completed: 2014
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "'Heart Sync' light-sensor heartbeat display and 'Body Moves' Kinect-tracked movement challenges"
+  - firm: local-projects
+    role: exhibit-design
+technologies:
+  - light-sensor heartbeat tracking
+  - Kinect motion tracking
+summary: >
+  Body Metrics, two interactive installations on movement and physiology at
+  The Tech Interactive (then The Tech Museum of Innovation) in San Jose,
+  California, opened in 2014; RLMG developed the software, working with
+  Local Projects. The installation received an AAM MUSE Award.
+description: ""
+sources:
+  - https://www.rlmg.com/work/body-metrics

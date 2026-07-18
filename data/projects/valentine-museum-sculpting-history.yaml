@@ -1,0 +1,26 @@
+id: valentine-museum-sculpting-history
+name: 'Sculpting History: Art, Power, and the "Lost Cause" American Myth'
+venue: valentine-museum
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: studio-joseph
+    role: exhibit-design
+  - firm: capitol-design-services
+    role: fabrication
+    note: "Fabrication and media integration. No firm record yet"
+  - firm: cyi
+    role: content-production
+    note: "Media production. No firm record yet"
+technologies:
+  - large-scale projection
+  - programmatic lighting
+summary: >
+  Sculpting History, an exhibition examining sculptor Edward Valentine's
+  Lost Cause-era art within his historic studio, opened at The Valentine
+  museum in Richmond, Virginia in 2024, with exhibition design by Studio
+  Joseph, fabrication and media integration by Capitol Design Services, and
+  media production by CYI.
+description: ""
+sources:
+  - https://studiojoseph.com/work/sculpting-history

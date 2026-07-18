@@ -1,0 +1,24 @@
+id: henry-ford-museum-ai-connections-table
+name: AI Connections Table
+venue: henry-ford-museum-of-american-innovation
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: bluecadet
+    role: media-design
+    note: >
+      Interactive table pairing curator-identified connections with
+      AI-discovered links across the museum's digital collection.
+technologies:
+  - AI/machine learning
+  - touchscreen interactives
+summary: >
+  The AI Connections Table, an interactive installation at The Henry Ford
+  Museum of American Innovation in Dearborn, Michigan, combining curator
+  expertise with AI-discovered links across the museum's digital collection,
+  opened in 2022, designed by Bluecadet.
+description: ""
+sources:
+  - https://www.bluecadet.com/work/thf-connections-table
+  - https://medium.com/bluecadet/connecting-thf-collection-objects-using-ai-c076c09a1352
+  - https://www.thehenryford.org/explore/blog/a-table-of-digital-connections

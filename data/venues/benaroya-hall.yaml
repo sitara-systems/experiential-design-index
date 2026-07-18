@@ -1,0 +1,10 @@
+id: benaroya-hall
+name: Benaroya Hall
+venue_type: cultural-center
+location:
+  city: Seattle
+  state: WA
+operator: Seattle Symphony
+website: https://www.seattlesymphony.org
+sources:
+  - https://studiomatthews.com/project/octave-9/

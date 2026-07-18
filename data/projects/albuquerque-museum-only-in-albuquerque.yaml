@@ -1,0 +1,27 @@
+id: albuquerque-museum-only-in-albuquerque
+name: Only in Albuquerque
+venue: albuquerque-museum
+project_type: new-exhibition
+year_completed: 2016
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Eight-screen quilt-design station, multi-screen theaters, Route 66 postcard browser"
+  - firm: color-ad
+    role: fabrication
+    note: "No firm record yet"
+  - firm: the-design-minds
+    role: exhibit-design
+  - firm: electrosonic
+    role: av-integration
+technologies:
+  - multi-screen theater
+  - interactive design station
+summary: >
+  Only in Albuquerque, a permanent exhibition on the city's history and
+  culture at the Albuquerque Museum in New Mexico, opened in 2016; RLMG
+  designed the interactive media, with exhibit design by The Design Minds
+  and AV integration by Electrosonic.
+description: ""
+sources:
+  - https://www.rlmg.com/work/only-in-albuquerque

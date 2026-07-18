@@ -1,0 +1,22 @@
+id: mit-museum-cosmograph
+name: Cosmograph
+venue: mit-museum
+project_type: temporary-exhibition
+year_completed: 2024
+credits:
+  - firm: studio-joseph
+    role: exhibit-design
+  - firm: design-earth
+    role: exhibit-design
+    note: "Developed the exhibition concept, drawings, and sculptures as the collaborating art/research/architecture practice. No firm record yet"
+technologies:
+  - 3D-printed sculpture
+summary: >
+  Cosmograph, a speculative exhibition on humanity's relationship to space
+  developed with the art and research practice DESIGN EARTH, opened at the
+  MIT Museum in Cambridge, Massachusetts in 2024, with exhibition design by
+  Studio Joseph in collaboration with DESIGN EARTH and MIT's Center for Art,
+  Science & Technology.
+description: ""
+sources:
+  - https://studiojoseph.com/work/cosmograph

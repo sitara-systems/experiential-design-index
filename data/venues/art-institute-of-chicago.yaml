@@ -1,0 +1,9 @@
+id: art-institute-of-chicago
+name: Art Institute of Chicago
+venue_type: art-museum
+location:
+  city: Chicago
+  state: IL
+website: https://www.artic.edu
+sources:
+  - https://www.artic.edu

@@ -1,0 +1,10 @@
+id: one-world-observatory
+name: One World Observatory
+venue_type: themed-attraction
+location:
+  city: New York
+  state: NY
+operator: Legends
+website: https://oneworldobservatory.com
+sources:
+  - https://www.prnewswire.com/news-releases/one-world-observatory-announces-friday-may-29-opening-date-300062077.html

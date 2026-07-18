@@ -1,0 +1,38 @@
+id: pikes-peak-summit-visitor-center-exhibits
+name: Pikes Peak Summit Visitor Center
+venue: pikes-peak-summit-visitor-center
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: gwwo
+    role: architecture
+    note: "Design architect; no firm record yet"
+  - firm: rta-architects
+    role: architecture
+    note: "Architect of record; no firm record yet"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: northern-light-productions
+    role: content-production
+  - firm: northern-light-productions
+    role: media-design
+technologies:
+  - projection mapping
+  - touchscreen interactives
+  - mobile app
+summary: >
+  The Pikes Peak Summit Visitor Center, a new 38,000-square-foot building
+  at the 14,115-foot summit of Pikes Peak near Colorado Springs, Colorado,
+  opened in June 2021; designed by GWWO Architects with RTA Architects as
+  architect of record, exhibit design by Gallagher & Associates, and media
+  experiences by Northern Light Productions.
+description: >
+  Northern Light Productions produced the "Explore Pikes Peak Summit"
+  mobile app, the "My Pikes Peak Touchwall" interactive display, an
+  immersive 180-degree film, seven touchscreen interactive exhibits on
+  geology, ecology, history, and recreation, and a projection-mapped 3D
+  mountain model.
+sources:
+  - https://www.businesswire.com/news/home/20210630005566/en/Pikes-Peak-Summit-Visitor-Center-Celebrates-Grand-Opening
+  - https://www.gwwoinc.com/projects/pikes-peak-summit-visitor-center
+  - https://nlprod.com/item/pikes-peak-summit-visitor-center/

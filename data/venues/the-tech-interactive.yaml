@@ -1,0 +1,9 @@
+id: the-tech-interactive
+name: The Tech Interactive
+venue_type: science-center
+location:
+  city: San Jose
+  state: CA
+website: https://www.thetech.org
+sources:
+  - https://en.wikipedia.org/wiki/The_Tech_Interactive

@@ -1,0 +1,26 @@
+id: old-south-meeting-house-ruckus
+name: "Ruckus!"
+venue: old-south-meeting-house
+project_type: installation
+year_completed: 2026
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "27-minute projection-mapped animated production across the historic meeting house interior"
+  - firm: electrosonic
+    role: av-integration
+  - firm: available-light
+    role: lighting-design
+technologies:
+  - projection mapping
+  - transparent OLED screens
+  - surround sound
+summary: >
+  "Ruckus!", a 27-minute immersive projection-mapped show at the Old South
+  Meeting House in Boston, opened July 2, 2026 for operator Revolutionary
+  Spaces; RLMG designed the animated media production with AV integration by
+  Electrosonic and lighting by Available Light.
+description: ""
+sources:
+  - https://www.rlmg.com/work/old-south-meeting-house
+  - https://www.revolutionaryspaces.org/ruckus

@@ -1,0 +1,40 @@
+id: davinci-science-center-curiosity-hall
+name: Curiosity Hall
+venue: davinci-science-center
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: ideum
+    role: exhibit-design
+    note: Lead designer for the immersive projection theater, from concept through installation
+  - firm: ideum
+    role: media-design
+    note: Two of the three rotating group-interactive applications (art and engineering themes)
+  - firm: ideum
+    role: av-integration
+    note: Eight-projector, 36-million-pixel projection system across a 60-foot by 60-foot wall
+  - firm: mksd-architects
+    role: architecture
+    note: Architect of the new downtown Allentown building housing Curiosity Hall. No firm record yet.
+  - firm: roto
+    role: media-design
+    note: Assisted Ideum's software team on the third interactive application, Fit Kids. No firm record yet.
+technologies:
+  - projection mapping
+  - Unity
+  - multitouch kiosk
+summary: >
+  Curiosity Hall, a 60-foot immersive projection theater, opened May 22,
+  2024, as part of the DaVinci Science Center's new downtown Allentown,
+  Pennsylvania building, designed and built by Ideum with architecture by
+  MKSD Architects.
+description: >
+  Eight Christie projectors combine for a 36-million-pixel, 130,000-lumen
+  image across a 60-by-60-foot wall. Nine Ideum touch kiosks let visitors
+  submit creations to three rotating interactive applications modeled on the
+  science center's areas of study — art, engineering, and the human body —
+  supporting an estimated 400,000 annual visitors.
+sources:
+  - https://ideum.com/portfolio/curiosity-hall-davinci-science-center
+  - https://www.lehighvalleynews.com/allentown/i-have-to-pinch-myself-new-da-vinci-science-center-ready-to-open-in-heart-of-downtown-allentown
+  - https://www.mksdarchitects.com/mksd-announced-as-architect-for-new-da-vinci-science-center-allentown/

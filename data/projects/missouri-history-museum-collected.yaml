@@ -1,0 +1,25 @@
+id: missouri-history-museum-collected
+name: Collected
+venue: missouri-historical-society
+project_type: installation
+year_completed: 2025
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Touchscreen interface and companion mobile app for 150 years of collections, incl. accessibility app for blind and low-vision visitors"
+  - firm: bowen-technovation
+    role: av-integration
+    note: "No firm record yet"
+technologies:
+  - interactive touchscreen
+  - mobile app
+  - accessibility app
+summary: >
+  Collected, an interactive touchscreen and companion mobile app presenting
+  150 years of the Missouri Historical Society's collection at the Missouri
+  History Museum in St. Louis, launched in 2025; RLMG designed the
+  interface and content management system with AV integration by Bowen
+  Technovation.
+description: ""
+sources:
+  - https://www.rlmg.com/work/collected

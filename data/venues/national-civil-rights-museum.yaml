@@ -1,0 +1,11 @@
+id: national-civil-rights-museum
+name: National Civil Rights Museum
+venue_type: history-museum
+location:
+  city: Memphis
+  state: TN
+operator: Lorraine Civil Rights Museum Foundation
+website: https://www.civilrightsmuseum.org
+sources:
+  - https://en.wikipedia.org/wiki/National_Civil_Rights_Museum
+  - https://memphismagazine.com/features/the-national-civil-rights-museum-celebrates-a-remarkable-renovation/

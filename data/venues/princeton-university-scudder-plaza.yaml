@@ -1,0 +1,9 @@
+id: princeton-university-scudder-plaza
+name: Scudder Plaza, Princeton University
+venue_type: academic-institution
+location:
+  city: Princeton
+  state: NJ
+operator: Princeton University
+sources:
+  - https://studiojoseph.com/work/missing-voices

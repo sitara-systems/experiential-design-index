@@ -1,0 +1,41 @@
+id: national-museum-of-african-american-music-exhibition
+name: National Museum of African American Music
+venue: national-museum-of-african-american-music
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: harold-thompson-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: gallagher-and-associates
+    role: content-production
+  - firm: videobred
+    role: content-production
+  - firm: stark-rfid
+    role: technical-consulting
+    note: "RFID technology provider; no firm record yet"
+  - firm: 1220-fabrication
+    role: fabrication
+technologies:
+  - RFID
+  - interactive media
+summary: >
+  The National Museum of African American Music, a 56,000-square-foot
+  museum tracing 400 years of African American musical heritage, opened
+  January 30, 2021 in Nashville, Tennessee, with exhibit design and content
+  development by Gallagher & Associates.
+description: >
+  The museum's own credits page also names Donna Lawrence Productions,
+  Available Light, RomeAntics, Mind Over Data, Communications Electronic
+  Design, Clair Solutions, and Don Hardin Group as project collaborators;
+  roles for several are not stated precisely enough to assign a
+  delivery-stack role and are omitted here rather than guessed (Available
+  Light and RomeAntics already hold firm records/ids in this index from
+  other projects, so the omission here is only about role-specificity for
+  this particular project, not identity).
+sources:
+  - https://www.nmaam.org/about/
+  - https://www.npr.org/2021/10/13/1016619682/national-museum-african-american-music-nashville
+  - https://gallagherdesign.com/project/nmaam/

@@ -1,0 +1,25 @@
+id: 151-north-franklin-sensing-change
+name: Sensing Change
+venue: 151-north-franklin
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: esi-design
+    role: media-design
+    note: "Experience design lead"
+  - firm: av-c
+    role: media-design
+    note: "Software environment for weather-driven generative visuals"
+technologies:
+  - LED display
+  - generative software
+summary: >
+  Sensing Change, a weather-responsive light and motion installation on the
+  public terrace of 151 North Franklin Street in downtown Chicago, opened in
+  2019; experience design by ESI Design with software by AV&C for developer
+  The John Buck Company.
+description: ""
+sources:
+  - https://www.av-controls.com/sensing-change
+  - https://esidesign.com/work/151-north-franklin-light-installation/
+  - https://www.codaworx.com/projects/sensing-change-the-john-buck-company/

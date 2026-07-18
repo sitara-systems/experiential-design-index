@@ -1,0 +1,10 @@
+id: sequoia-kings-canyon-national-parks
+name: Sequoia and Kings Canyon National Parks
+venue_type: other
+location:
+  city: Three Rivers
+  state: CA
+operator: National Park Service
+website: https://www.nps.gov/seki
+sources:
+  - https://www.nps.gov/seki

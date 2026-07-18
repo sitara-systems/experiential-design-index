@@ -1,0 +1,25 @@
+id: 44-montgomery-street-interactive-art
+name: 44 Montgomery Street Interactive Art
+venue: 44-montgomery-street
+project_type: installation
+year_completed: 2020
+credits:
+  - firm: esi-design
+    role: media-design
+    note: "327-foot motion-activated digital canvas, five motion sensors"
+technologies:
+  - motion sensing
+  - generative digital canvas
+summary: >
+  A 327-foot motion-activated digital canvas in the lobby of 44 Montgomery
+  Street in San Francisco, designed by ESI Design for building owner Beacon
+  Capital Partners, opened in 2020.
+description: >
+  Five motion sensors track visitors moving through the lobby; the digital
+  display becomes more colorful and active as more people occupy the space,
+  with a backdrop of vertical bands echoing the tower's exterior metal
+  patterns. The installation won a 2020 SCN "Installs of the Year" honor and
+  a Good Design Award in the Installation category.
+sources:
+  - https://esi.nbbj.com/work/44-montgomery-street
+  - https://www.avnetwork.com/features/adapting-during-the-pandemic-video-walls-and-touch-free-engagement

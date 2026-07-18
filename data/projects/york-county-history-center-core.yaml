@@ -1,0 +1,25 @@
+id: york-county-history-center-core
+name: York County History Center
+venue: york-county-history-center
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Luminous digital pillars, History Makers Array, and Renewal Theater"
+  - firm: the-prd-group
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: 1220-fabrication
+    role: fabrication
+    note: "Credited on RLMG's project page as \"1220\""
+technologies:
+  - digital towers
+  - interactive maps
+summary: >
+  York County History Center, a converted steam-plant museum in York,
+  Pennsylvania, opened in 2024; RLMG designed the interactive media
+  including 20-foot digital towers, working with The PRD Group.
+description: ""
+sources:
+  - https://www.rlmg.com/work/york-county-history-center

@@ -1,0 +1,32 @@
+id: college-football-hall-of-fame-core-exhibits
+name: College Football Hall of Fame
+venue: college-football-hall-of-fame
+project_type: new-building
+year_completed: 2014
+credits:
+  - firm: tvsdesign
+    role: architecture
+    note: "No firm record yet"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: second-story
+    role: media-design
+    note: >
+      Half-scale interactive football field capturing visitor touchdown
+      dances on a Jumbotron, and a reactive concessions beverage cart with
+      LED-animated exterior, in collaboration with sponsor Coca-Cola
+technologies:
+  - motion capture
+  - LED animation
+  - interactive Jumbotron display
+summary: >
+  The College Football Hall of Fame, a new $68.5 million facility in
+  Atlanta, opened August 2014; architecture and interiors were by
+  tvsdesign, exhibit design was by Gallagher & Associates, and Second Story
+  designed a half-scale interactive football field and a reactive
+  concessions cart with sponsor Coca-Cola.
+description: ""
+sources:
+  - https://www.archdaily.com/796711/college-football-hall-of-fame-tvsdesign
+  - https://en.wikipedia.org/wiki/College_Football_Hall_of_Fame
+  - https://2s-archive.rzrfs.com/work/cfhf

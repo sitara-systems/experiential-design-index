@@ -1,0 +1,11 @@
+id: jackie-robinson-museum
+name: Jackie Robinson Museum
+venue_type: history-museum
+location:
+  city: New York
+  state: NY
+operator: Jackie Robinson Foundation
+website: https://www.jackierobinsonmuseum.org
+sources:
+  - https://www.jackierobinsonmuseum.org
+  - https://www.6sqft.com/the-jackie-robinson-museum-opens-in-new-york-city/

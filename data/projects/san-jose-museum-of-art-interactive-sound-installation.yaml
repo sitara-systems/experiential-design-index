@@ -1,0 +1,24 @@
+id: san-jose-museum-of-art-interactive-sound-installation
+name: Interactive Sound Installation (Rina Banerjee companion piece)
+venue: san-jose-museum-of-art
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: dome-collective
+    role: media-design
+    note: "Interactive sound experience using RFID technology, built as a companion piece to artist Rina Banerjee's exhibition"
+technologies:
+  - RFID
+  - interactive audio
+summary: >
+  An interactive sound installation at the San José Museum of Art in San
+  Jose, California, opened in 2019 alongside artist Rina Banerjee's
+  exhibition "Make Me a Summary of the World," designed and built by Dome
+  using RFID technology.
+description: >
+  Visitors build their own sequence of words into an audio version of
+  magnetic poetry, translated into English, Spanish, and Vietnamese, inspired
+  by Banerjee's concurrent exhibition.
+sources:
+  - https://www.domecollective.lynnkiang.com/sjma.html
+  - https://sjmusart.org/exhibition/rina-banerjee-make-me-summary-world

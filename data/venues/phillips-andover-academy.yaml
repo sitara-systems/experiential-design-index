@@ -1,0 +1,9 @@
+id: phillips-andover-academy
+name: Phillips Academy Andover
+venue_type: academic-institution
+location:
+  city: Andover
+  state: MA
+website: https://www.andover.edu
+sources:
+  - https://www.andover.edu

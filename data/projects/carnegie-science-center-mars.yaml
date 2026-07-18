@@ -1,0 +1,30 @@
+id: carnegie-science-center-mars
+name: "Mars: The Next Giant Leap"
+venue: carnegie-science-center
+project_type: new-exhibition
+year_completed: 2022
+credits:
+  - firm: luci-creative
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: rlmg
+    role: media-design
+  - firm: ravenswood-studio
+    role: fabrication
+    note: "No firm record yet"
+  - firm: electrosonic
+    role: av-integration
+technologies:
+  - projection mapping
+  - edge-blended projection
+  - interactive touchscreens
+summary: >
+  "Mars: The Next Giant Leap," a 7,500 sq ft permanent exhibition at the
+  Carnegie Science Center in Pittsburgh, opened November 19, 2022; Luci
+  Creative led exhibit design, RLMG produced media, Ravenswood Studio
+  fabricated the exhibit, and Electrosonic served as AV systems integrator.
+description: ""
+sources:
+  - https://nextpittsburgh.com/latest-news/carnegie-science-center-opening-new-permanent-exhibit-about-mars/
+  - https://www.rlmg.com/work/carnegie-science-center
+  - https://www.electrosonic.com/projects/mars-the-next-giant-leap-at-the-carnegie-science-center

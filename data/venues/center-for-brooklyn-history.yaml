@@ -1,0 +1,13 @@
+id: center-for-brooklyn-history
+name: Center for Brooklyn History
+aka:
+  - Brooklyn Historical Society
+venue_type: history-museum
+location:
+  city: Brooklyn
+  state: NY
+operator: Brooklyn Public Library
+website: https://www.bklynlibrary.org/locations/center-for-brooklyn-history
+sources:
+  - https://en.wikipedia.org/wiki/Center_for_Brooklyn_History
+  - https://brooklyneagle.com/articles/2020/10/02/brooklyn-historical-society-is-now-bpls-center-for-brooklyn-history/

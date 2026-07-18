@@ -1,0 +1,10 @@
+id: bob-graham-center
+name: Bob Graham Center for Public Service
+venue_type: academic-institution
+location:
+  city: Gainesville
+  state: FL
+operator: University of Florida
+website: https://bobgrahamcenter.ufl.edu
+sources:
+  - https://knightfoundation.org/articles/wall-cutting-edge-tool-civil-debate/

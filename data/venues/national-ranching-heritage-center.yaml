@@ -1,0 +1,10 @@
+id: national-ranching-heritage-center
+name: National Ranching Heritage Center
+venue_type: history-museum
+location:
+  city: Lubbock
+  state: TX
+operator: Texas Tech University
+website: https://ranchingheritage.org
+sources:
+  - https://ranchingheritage.org/learn/ranch-life-learning/

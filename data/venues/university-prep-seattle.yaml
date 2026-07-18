@@ -1,0 +1,10 @@
+id: university-prep-seattle
+name: University Prep
+venue_type: academic-institution
+location:
+  city: Seattle
+  state: WA
+website: https://www.universityprep.org
+sources:
+  - https://studiomatthews.com/project/ulab/
+  - https://mithun.com/project/university-prep-ulab/

@@ -1,0 +1,28 @@
+id: jpl-von-karman-visitor-center-trip-around-solar-system
+name: A Trip Around the Solar System
+venue: jpl-von-karman-visitor-center
+project_type: major-renovation
+year_completed: 2010
+credits:
+  - firm: c-and-g-partners
+    role: exhibit-design
+  - firm: cinnabar
+    role: fabrication
+    note: "no firm record yet"
+technologies:
+  - full-scale spacecraft models
+  - touchscreen video
+summary: >
+  A Trip Around the Solar System, the renovated von Kármán Visitor Center at
+  NASA's Jet Propulsion Laboratory in Pasadena, California, debuted at JPL's
+  Open House in May 2010, with exhibit design by C&G Partners and fabrication
+  by Cinnabar.
+description: >
+  The exhibition structures the visitor center as a tour through the solar
+  system, pairing planetary displays with full-scale models of JPL-built
+  instruments and spacecraft including Voyager, Galileo, Cassini, and the Mars
+  Exploration Rovers, designed to be modular and updateable for open houses
+  and official visits while emphasizing durability for high public traffic.
+sources:
+  - https://www.cgpartnersllc.com/projects/jet-propulsion-laboratory-nasa/
+  - https://www.livedesignonline.com/cinnabar-fabricates-exhibits-for-jet-propulsion-laboratory-visitor-center-upgrade

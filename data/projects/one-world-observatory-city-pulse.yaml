@@ -1,0 +1,25 @@
+id: one-world-observatory-city-pulse
+name: City Pulse Orientation Experience
+venue: one-world-observatory
+project_type: installation
+year_completed: 2015
+credits:
+  - firm: local-projects
+    role: media-design
+    note: "Gesture-controlled orientation installation; two 14-foot rings built from LCD screens, operated by a live guide"
+  - firm: the-hettema-group
+    role: exhibit-design
+    note: "Overall One World Observatory visitor experience design; no firm record yet"
+technologies:
+  - gesture control
+  - LCD video rings
+summary: >
+  City Pulse, a gesture-controlled orientation installation connecting the
+  skyline view to street-level storytelling, opened with One World
+  Observatory in New York City on May 29, 2015; media design by Local
+  Projects within an overall visitor experience designed by The Hettema
+  Group.
+description: ""
+sources:
+  - https://localprojects.com/work/corporate-experience/city-pulse/
+  - https://www.fastcompany.com/3046750/the-coolest-thing-about-1-world-trade-centers-new-observatory-isnt-the-view

@@ -1,0 +1,10 @@
+id: idaho-state-museum
+name: Idaho State Museum
+venue_type: history-museum
+location:
+  city: Boise
+  state: ID
+operator: Idaho State Historical Society
+website: https://history.idaho.gov/museum/
+sources:
+  - https://www.idahoednews.org/features/photos-newly-renovated-idaho-state-historical-museum-opens/

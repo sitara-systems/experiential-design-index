@@ -1,0 +1,26 @@
+id: 515-north-state-street-canvas
+name: Canvas
+venue: 515-north-state-street
+project_type: installation
+year_completed: 2017
+credits:
+  - firm: esi-design
+    role: media-design
+    note: "Experience design lead"
+  - firm: av-c
+    role: media-design
+    note: "Custom software development and visualization toolkit"
+technologies:
+  - LED display
+  - generative software
+summary: >
+  Canvas, a 23-foot algorithmic media display that renders Impressionist-style
+  scenes of Chicago's River North neighborhood in real time, opened in the
+  lobby of 515 North State Street in Chicago in 2017; experience design by
+  ESI Design with software development by AV&C for building owner Beacon
+  Capital Partners.
+description: ""
+sources:
+  - https://www.av-controls.com/515-state
+  - https://esidesign.com/work/515-north-state-street/
+  - https://www.engadget.com/2018-01-15-chicago-lobby-art-esi-design-the-big-picture.html

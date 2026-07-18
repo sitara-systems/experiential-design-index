@@ -1,0 +1,33 @@
+id: white-house-public-tour
+name: The White House Public Tour
+venue: the-white-house
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: esi-design
+    role: graphics-wayfinding
+    note: "Digital and physical reader rails, signage, and pillars along the public tour route"
+  - firm: esi-design
+    role: media-design
+    note: "Interactive 3D architectural model of the White House's evolution in the East Garden Room"
+technologies:
+  - digital reader rails
+  - tactile/touch interpretive elements
+  - interactive 3D model
+summary: >
+  A redesigned public tour experience for the White House in Washington, DC,
+  unveiled by First Lady Dr. Jill Biden in October 2024, added interpretive
+  signage, digital and tactile "reader rails," and an interactive
+  architectural model, designed by ESI Design in collaboration with the
+  National Park Service and The History Channel.
+description: >
+  The first substantial revamp of the White House public tour in decades
+  opened previously roped-off rooms (the Vermeil Room, the Library, the China
+  Room) and the Diplomatic Reception Room to visitors for the first time, adds
+  new interpretive reader rails with tactile features, and includes an
+  interactive 3D model in the East Garden Room illustrating the building's
+  architectural evolution since 1792.
+sources:
+  - https://www.npr.org/2024/10/30/nx-s1-5165402/white-house-tours-get-a-revamp-for-the-first-time-in-decades
+  - https://esi.nbbj.com/work/the-white-house-public-tour
+  - https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/21/first-lady-jill-biden-unveils-enhanced-and-expanded-white-house-tour/

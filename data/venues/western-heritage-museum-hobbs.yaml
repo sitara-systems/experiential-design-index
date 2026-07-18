@@ -1,0 +1,8 @@
+id: western-heritage-museum-hobbs
+name: Western Heritage Museum
+venue_type: history-museum
+location:
+  city: Hobbs
+  state: NM
+sources:
+  - https://ideum.com/portfolio/prometheus-in-the-desert

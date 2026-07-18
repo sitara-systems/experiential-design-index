@@ -1,0 +1,9 @@
+id: infinity-science-center
+name: INFINITY Science Center
+venue_type: science-center
+location:
+  city: Pearlington
+  state: MS
+website: https://www.visitinfinity.com
+sources:
+  - https://www.visitinfinity.com

@@ -1,0 +1,9 @@
+id: the-tech-museum-of-innovation
+name: The Tech Museum of Innovation
+venue_type: science-center
+location:
+  city: San Jose
+  state: CA
+website: https://www.thetech.org
+sources:
+  - https://synbiobeta.com/tech-museum-innovation-opens-first-interactive-bioengineering-exhibit-week

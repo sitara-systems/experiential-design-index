@@ -1,0 +1,10 @@
+id: graceland
+name: Graceland
+venue_type: history-museum
+location:
+  city: Memphis
+  state: TN
+operator: Elvis Presley Enterprises
+website: https://www.graceland.com
+sources:
+  - https://www.graceland.com/elvis-news/posts/all-new-interactive-ipad-tour-revolutionizes-guest-experience-at-elvis-presleys-graceland

@@ -1,0 +1,39 @@
+id: chicago-architecture-center-exhibition
+name: Chicago Architecture Center
+venue: chicago-architecture-center
+project_type: major-renovation
+year_completed: 2018
+credits:
+  - firm: adrian-smith-and-gordon-gill-architecture
+    role: architecture
+    note: Interior architecture for the Center's new home at One Illinois Center; no firm record yet
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: gallagher-and-associates
+    role: content-production
+  - firm: ravenswood-studio
+    role: fabrication
+    note: "No firm record yet"
+  - firm: creative-technology
+    role: av-integration
+    note: "No firm record yet"
+  - firm: studio-blue
+    role: graphics-wayfinding
+    note: Signage design; no firm record yet
+technologies:
+  - interactive kiosks
+  - projection
+summary: >
+  The Chicago Architecture Center opened August 31, 2018 in a new home at
+  One Illinois Center, with interior architecture by Adrian Smith + Gordon
+  Gill Architecture and exhibit design and content development by
+  Gallagher & Associates.
+description: >
+  Four Zero One (kiosk development) and Leviathan (projection studies) are
+  also credited on Gallagher & Associates' own project page; roles are
+  named but neither has a firm record yet, and both are single-project
+  mentions in this index so far.
+sources:
+  - https://www.architecture.org/online-resources/stories-of-chicago/chicago-architecture-center-opens-august-31
+  - https://www.architectmagazine.com/design/look-inside-the-new-chicago-architecture-center_o
+  - https://gallagherdesign.com/project/cac/

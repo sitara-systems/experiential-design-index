@@ -1,0 +1,27 @@
+id: albuquerque-convention-center-fresco-wine-explorer
+name: Fresco and Wine History Interactive Kiosk
+venue: albuquerque-convention-center
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: ideum
+    role: media-design
+    note: Kiosk documenting artist Frederico Vigil's in-progress wine-history fresco, with accessibility-focused UI design
+technologies:
+  - touchscreen kiosk
+  - Unity
+summary: >
+  An interactive kiosk documenting artist Frederico Vigil's in-progress
+  fresco on the history of wine in New Mexico opened in 2022 at the
+  Albuquerque Convention Center in Albuquerque, New Mexico, designed and
+  built by Ideum for the city's Public Art and Urban Enhancement Division.
+description: >
+  The 65" wall-integrated touch display lets visitors explore the parallel
+  histories of fresco-making and wine-making, including video interviews
+  with New Mexico vintners and a "Work in Progress" section tracking the
+  fresco's completion over time. Navigation is anchored to the lower third
+  of the screen with a dedicated accessibility mode, per Ideum's published
+  accessible-design guidance for multitouch installations.
+sources:
+  - https://ideum.com/portfolio/albuquerque-convention-center-fresco-wine-explorer
+  - https://www.cabq.gov/artsculture/public-art/albuquerque-convention-center-fresco

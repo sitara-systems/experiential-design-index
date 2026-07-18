@@ -1,0 +1,27 @@
+id: niagara-falls-underground-railroad-heritage-center-core
+name: Niagara Falls Underground Railroad Heritage Center
+venue: niagara-falls-underground-railroad-heritage-center
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: rlmg
+    role: exhibit-design
+    note: "Richard Lewis Media Group"
+  - firm: electrosonic
+    role: av-integration
+  - firm: studio-tectonic
+    role: exhibit-design
+    note: "No firm record yet"
+technologies:
+  - interactive media
+  - linear video
+summary: >
+  The Niagara Falls Underground Railroad Heritage Center opened May 4, 2018
+  in the historic U.S. Customhouse in Niagara Falls, New York; RLMG designed
+  the interpretive media and Electrosonic implemented the audiovisual and
+  interactive systems.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Niagara_Falls_Underground_Railroad_Heritage_Center
+  - https://www.electrosonic.com/projects/niagara-falls-underground-railroad-heritage-center
+  - https://www.rlmg.com/work/niagara-falls-underground-railroad-heritage-center

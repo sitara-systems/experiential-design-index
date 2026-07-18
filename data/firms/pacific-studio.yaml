@@ -1,0 +1,28 @@
+id: pacific-studio
+name: Pacific Studio
+aka: []
+hq:
+  city: Seattle
+  state: WA
+other_offices: []
+roles:
+  - fabrication
+status: unclear
+status_basis: >
+  Credited as fabricator on four Studio Matthews projects, but all dated
+  2014-2020 (Bezos Center for Innovation, Fred Hutch Visitor Center,
+  Design with the 90%, Gates Foundation 20th Anniversary) — no evidence of
+  activity in the trailing 3-year window. The company's own domain
+  (pacificstudio.com) currently resolves to a parked for-sale listing
+  rather than an active company site, though third-party business
+  directories (BBB, Yelp) still list a Seattle address without indicating
+  closure.
+status_verified: 2026-07-18
+summary: >
+  Pacific Studio was a Seattle-based design and fabrication company
+  producing museum-quality exhibits, casework, and interactives for
+  museums and visitor centers.
+sources:
+  - https://studiomatthews.com/project/bezos-center-for-innovation/
+  - https://studiomatthews.com/project/fred-hutch-visitor-center/
+  - https://www.bbb.org/us/wa/seattle/profile/design-contractor/pacific-studio-inc-1296-22460487

@@ -1,0 +1,10 @@
+id: natural-history-museum-of-los-angeles-county
+name: Natural History Museum of Los Angeles County
+venue_type: natural-history-museum
+location:
+  city: Los Angeles
+  state: CA
+website: https://nhm.org
+sources:
+  - https://nhm.org/experience-nhm/exhibitions-natural-history-museum/becoming-los-angeles
+  - http://www.discoverlosangeles.com/blog/becoming-los-angeles-natural-history-museum

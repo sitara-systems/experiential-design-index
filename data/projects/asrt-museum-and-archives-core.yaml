@@ -1,0 +1,25 @@
+id: asrt-museum-and-archives-core
+name: ASRT Museum and Archives
+venue: asrt-museum-and-archives
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "19 media pieces incl. 'Art of the Image' six-screen video and 4K touchtables"
+  - firm: andrew-merriell
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: pacific-studio
+    role: fabrication
+technologies:
+  - 4K touchtable
+  - multi-screen video
+summary: >
+  The ASRT Museum and Archives, the American Society of Radiologic
+  Technologists' headquarters museum in Albuquerque, New Mexico, opened in
+  2015; RLMG designed 19 interactive and video media pieces, with exhibit
+  design by Andrew Merriell and fabrication by Pacific Studio.
+description: ""
+sources:
+  - https://www.rlmg.com/work/asrt-museum-and-archives

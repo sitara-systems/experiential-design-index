@@ -1,0 +1,10 @@
+id: colman-dock
+name: Colman Dock
+venue_type: other
+location:
+  city: Seattle
+  state: WA
+operator: Washington State Department of Transportation / Washington State Ferries
+website: https://wsdot.wa.gov/travel/washington-state-ferries/terminals/colman-dock
+sources:
+  - https://studiomatthews.com/project/ballast-island/

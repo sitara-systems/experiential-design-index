@@ -1,0 +1,9 @@
+id: folger-shakespeare-library
+name: Folger Shakespeare Library
+venue_type: library-archive
+location:
+  city: Washington
+  state: DC
+website: https://www.folger.edu
+sources:
+  - https://www.folger.edu

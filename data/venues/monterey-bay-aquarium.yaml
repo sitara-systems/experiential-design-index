@@ -1,0 +1,9 @@
+id: monterey-bay-aquarium
+name: Monterey Bay Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Monterey
+  state: CA
+website: https://www.montereybayaquarium.org
+sources:
+  - https://www.montereybayaquarium.org

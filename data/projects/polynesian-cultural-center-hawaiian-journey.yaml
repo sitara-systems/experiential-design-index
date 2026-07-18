@@ -1,0 +1,26 @@
+id: polynesian-cultural-center-hawaiian-journey
+name: Hawaiian Journey 4D Theater
+venue: polynesian-cultural-center
+project_type: major-renovation
+year_completed: 2013
+credits:
+  - firm: technifex
+    role: fabrication
+    note: "No firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: 4K digital cinema and 4D motion-seat system replacing the original IMAX installation
+technologies:
+  - 4D motion seats
+  - 4K digital cinema
+summary: >
+  The Hawaiian Journey 4D Theater at the Polynesian Cultural Center in Laie,
+  Hawaii reopened March 29, 2013, converting the venue's original IMAX
+  theater into a 4D digital cinema experience; Technifex delivered the
+  motion-seat system and Electrosonic integrated the digital cinema AV
+  systems.
+description: ""
+sources:
+  - https://www.digitalcinemareport.com/article/hawaii%E2%80%99s-polynesian-center-now-features-4d-digital-cinema-theatre
+  - https://www.technifex.com/portfolio/polynesian-cultural-center-hawaiian-journey/
+  - https://www.electrosonic.com/projects/polynesian-cultural-centers-digital-4d-theater

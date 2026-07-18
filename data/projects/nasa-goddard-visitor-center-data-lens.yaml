@@ -1,0 +1,23 @@
+id: nasa-goddard-visitor-center-data-lens
+name: "Data Lens"
+venue: nasa-goddard-visitor-center
+project_type: installation
+year_completed: 2018
+credits:
+  - firm: bluecadet
+    role: media-design
+    note: >
+      Touchscreen data-visualization interactive letting visitors explore
+      Earth science data through life, air, and water "lenses."
+technologies:
+  - touchscreen interactives
+  - data visualization
+summary: >
+  Data Lens, a touchscreen data-visualization interactive in the Earth
+  Science Gallery at the NASA Goddard Visitor Center in Greenbelt, Maryland,
+  opened in 2018, designed by Bluecadet.
+description: ""
+sources:
+  - https://www.bluecadet.com/work/nasa-data-lens
+  - https://segd.org/nasa-data-lens
+  - https://mw18.mwconf.org/glami/nasa-data-lens/

@@ -1,0 +1,10 @@
+id: arthur-m-blank-hospital
+name: Arthur M. Blank Hospital
+venue_type: healthcare-institution
+location:
+  city: Brookhaven
+  state: GA
+operator: Children's Healthcare of Atlanta
+website: https://www.choa.org/locations/arthur-m-blank-hospital
+sources:
+  - https://www.choa.org/about-us/newsroom/childrens-healthcare-of-atlanta-arthur-m-blank-hospital-is-open

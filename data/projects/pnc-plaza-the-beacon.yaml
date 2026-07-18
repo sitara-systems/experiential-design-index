@@ -1,0 +1,25 @@
+id: pnc-plaza-the-beacon
+name: The Beacon
+venue: tower-at-pnc-plaza
+project_type: installation
+year_completed: 2015
+credits:
+  - firm: esi-design
+    role: media-design
+    note: "Design of the 30-foot data sculpture"
+  - firm: av-c
+    role: technical-consulting
+    note: "Technical and design consulting"
+technologies:
+  - data visualization
+  - building sensor integration
+summary: >
+  The Beacon, a 30-foot lobby data sculpture visualizing the building's
+  real-time energy, water, and recycling performance, opened with The Tower
+  at PNC Plaza in Pittsburgh in October 2015; designed by ESI Design with
+  technical consulting by AV&C.
+description: ""
+sources:
+  - https://www.av-controls.com/pnc-tower
+  - https://slate.com/human-interest/2015/10/esi-designs-the-beacon-in-pittsburghs-pnc-plaza-is-a-data-driven-light-sculpture-that-broadcasts-the-buildings-energy-use.html
+  - https://nextpittsburgh.com/city-design/the-tower-at-pnc-plaza-opens-as-the-greenest-office-building-in-the-world/

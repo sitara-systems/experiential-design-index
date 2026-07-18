@@ -1,0 +1,11 @@
+id: soldiers-memorial-military-museum
+name: Soldiers Memorial Military Museum
+venue_type: history-museum
+location:
+  city: St. Louis
+  state: MO
+operator: Missouri Historical Society
+website: https://mohistory.org/memorial
+sources:
+  - https://mohistory.org/memorial
+  - https://www.stlpr.org/show/st-louis-on-the-air/2018-11-02/soldiers-memorial-reopens-in-downtown-st-louis-after-major-renovation-inside-and-out

@@ -1,0 +1,10 @@
+id: denver-botanic-gardens
+name: Denver Botanic Gardens
+venue_type: botanical-garden
+location:
+  city: Denver
+  state: CO
+website: https://www.botanicgardens.org
+sources:
+  - https://www.botanicgardens.org/
+  - https://www.plusandgreaterthan.com/projects/building-stories-24d5z-gml9e-7h884-hhpxe

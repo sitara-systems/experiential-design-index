@@ -1,0 +1,10 @@
+id: smithsonian-national-postal-museum
+name: Smithsonian National Postal Museum
+venue_type: history-museum
+location:
+  city: Washington
+  state: DC
+operator: Smithsonian Institution
+website: https://postalmuseum.si.edu
+sources:
+  - https://postalmuseum.si.edu

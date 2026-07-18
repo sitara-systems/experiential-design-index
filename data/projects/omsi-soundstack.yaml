@@ -1,0 +1,23 @@
+id: omsi-soundstack
+name: Soundstack
+venue: omsi
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: plus-and-greater-than
+    role: exhibit-design
+  - firm: glowbox
+    role: media-design
+    note: "Hardware specification, systems design, and software development; no firm record yet"
+technologies:
+  - custom MIDI instrument
+  - 25-channel audio system
+summary: >
+  Soundstack, an 18-foot-tall collaborative musical instrument built inside
+  a decommissioned smokestack in OMSI's Turbine Hall, opened at the Oregon
+  Museum of Science and Industry in Portland, Oregon in April 2019, designed
+  by Plus And Greater Than with systems and software development by Glowbox.
+description: ""
+sources:
+  - https://www.glowbox.io/work/soundstack/
+  - https://www.plusandgreaterthan.com/projects/building-stories-24d5z-gml9e-7h884-hhpxe-za4re-9xftx

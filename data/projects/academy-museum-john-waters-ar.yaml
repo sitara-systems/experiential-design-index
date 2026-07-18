@@ -1,0 +1,24 @@
+id: academy-museum-john-waters-ar
+name: John Waters AR
+venue: academy-museum-of-motion-pictures
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: bluecadet
+    role: media-design
+    note: >
+      Face-swap AR web app accompanying the "John Waters: Pope of Trash"
+      retrospective, transforming visitors into five characters from Waters'
+      films.
+technologies:
+  - augmented reality
+  - WebAR
+summary: >
+  John Waters AR, a face-swap augmented-reality companion experience for the
+  "John Waters: Pope of Trash" retrospective, launched at the Academy Museum
+  of Motion Pictures in Los Angeles in 2024, designed by Bluecadet.
+description: ""
+sources:
+  - https://www.bluecadet.com/work/john-waters-ar
+  - https://www.museumnext.com/article/how-ar-face-filters-brought-john-waters-cinematic-world-to-life-at-the-academy-museum/
+  - https://www.academymuseum.org/en/johnwatersar

@@ -1,0 +1,32 @@
+id: sazerac-house-exhibition
+name: Sazerac House
+venue: sazerac-house
+project_type: major-renovation
+year_completed: 2019
+credits:
+  - firm: trapolin-peer
+    role: architecture
+    note: "No firm record yet"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: gallagher-and-associates
+    role: content-production
+  - firm: history-associates
+    role: interpretive-planning
+    note: Content research and writing
+  - firm: available-light
+    role: lighting-design
+  - firm: solomon-group
+    role: fabrication
+  - firm: solomon-group
+    role: av-integration
+technologies:
+  - interactive media
+summary: >
+  Sazerac House, a brand experience center tracing the origins of New
+  Orleans cocktail culture, opened in 2019 at the corner of Magazine and
+  Canal Streets in New Orleans, with historic-building architecture by
+  Trapolin-Peer and exhibit design by Gallagher & Associates.
+description: ""
+sources:
+  - https://gallagherdesign.com/project/sazerac/

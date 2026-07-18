@@ -1,0 +1,29 @@
+id: omsi-epicenter
+name: Epicenter
+venue: omsi
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: plus-and-greater-than
+    role: exhibit-design
+    note: "Creative direction and experience design"
+  - firm: axiom-custom-products
+    role: fabrication
+    note: "No firm record yet"
+  - firm: sisbro-studios
+    role: content-production
+    note: "Audio design and production; no firm record yet"
+technologies:
+  - pneumatic motion platform
+  - synchronized lighting and audio
+summary: >
+  Epicenter, an earthquake simulator letting visitors choose among three
+  real earthquake scenarios (Oregon, California, and Japan), opened at the
+  Oregon Museum of Science and Industry in Portland, Oregon in 2019,
+  designed by Plus And Greater Than with fabrication by Axiom Custom
+  Products.
+description: ""
+sources:
+  - https://segd.org/projects/epicenter/
+  - https://axiomcustom.com/work/omsi-epicenter/
+  - https://www.kgw.com/article/weather/earthquakes/what-will-the-big-one-feel-like-omsi-simulator-lets-you-feel-magnitude-9-earthquake/283-b572b01e-5b0f-43e9-81cc-e0177664e7f0

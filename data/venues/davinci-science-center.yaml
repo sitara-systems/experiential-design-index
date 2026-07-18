@@ -1,0 +1,10 @@
+id: davinci-science-center
+name: DaVinci Science Center
+venue_type: science-center
+location:
+  city: Allentown
+  state: PA
+website: https://www.davincisciencecenter.org
+sources:
+  - https://www.davincisciencecenter.org
+  - https://www.lehighvalleynews.com/allentown/i-have-to-pinch-myself-new-da-vinci-science-center-ready-to-open-in-heart-of-downtown-allentown

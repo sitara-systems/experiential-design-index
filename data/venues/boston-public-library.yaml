@@ -1,0 +1,9 @@
+id: boston-public-library
+name: Boston Public Library
+venue_type: library-archive
+location:
+  city: Boston
+  state: MA
+website: https://www.bpl.org
+sources:
+  - https://www.bpl.org

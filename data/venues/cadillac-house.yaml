@@ -1,0 +1,10 @@
+id: cadillac-house
+name: Cadillac House
+venue_type: brand-experience-center
+location:
+  city: New York
+  state: NY
+operator: Cadillac (General Motors)
+sources:
+  - https://www.motorauthority.com/news/1104132_design-oriented-cadillac-house-opens-in-new-york
+  - https://www.dbusiness.com/daily-news/cadillac-house-launches-new-artist-robot-exhibit/

@@ -1,0 +1,40 @@
+id: jackie-robinson-museum-ebbets-field-model
+name: Interactive Ebbets Field Model
+venue: jackie-robinson-museum
+project_type: new-exhibition
+year_completed: 2022
+credits:
+  - firm: ideum
+    role: fabrication
+    note: 1/64th-scale (S scale) illuminated model of Ebbets Field, including 30,000+ 3D-printed fans
+  - firm: ideum
+    role: av-integration
+    note: Projection mapping onto the model field, LED tile wall, and 34" reading-rail touch displays
+  - firm: gensler
+    role: media-design
+    note: Gensler's digital experience design studio (Gensler DXD) designed the interactive software presenting Jackie Robinson's career and activism
+  - firm: electrosonic
+    role: av-integration
+    note: AV integration partner on the installation
+technologies:
+  - projection mapping
+  - LED display
+  - 3D printing
+  - custom touch kiosk
+summary: >
+  The Interactive Ebbets Field Model, the cornerstone exhibit of the Jackie
+  Robinson Museum in New York City, opened in July 2022, fabricated and AV-
+  integrated by Ideum with interactive software design by Gensler DXD.
+description: >
+  The scale model of Ebbets Field, home of the Brooklyn Dodgers, has
+  controllable illuminated features including a period-style scoreboard,
+  bullpens, press box, and dugouts, and is projection-mapped from above to
+  turn the field into a storytelling surface. An LED tile wall behind the
+  model and 34" reading-rail touch displays let visitors navigate stories
+  about Jackie Robinson's baseball career and civil-rights activism. Ideum
+  also worked with Zubatkin on the installation (role not covered by the
+  roles vocabulary — construction/project management).
+sources:
+  - https://ideum.com/portfolio/jackie-robinson-museum-ebbets-field-model
+  - https://dxd.gensler.com/case-studies/jackie-robinson-museum
+  - https://www.6sqft.com/the-jackie-robinson-museum-opens-in-new-york-city/

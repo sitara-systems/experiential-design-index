@@ -1,0 +1,10 @@
+id: the-institute-menlo-park
+name: The Institute Presents (350 El Camino Real)
+venue_type: other
+location:
+  city: Menlo Park
+  state: CA
+operator: David Byrne / Mala Gaonkar (The Institute)
+sources:
+  - https://www.davidbyrne.com/explore/the-institute-presents-neurosociety
+  - https://stanforddaily.com/2016/10/26/david-byrne-mala-gaonkar-neurosociety/

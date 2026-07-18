@@ -1,0 +1,47 @@
+id: tennessee-state-museum-permanent-exhibits
+name: Tennessee State Museum
+venue: tennessee-state-museum
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: eoa-architects
+    role: architecture
+    note: "Architect of record; no firm record yet"
+  - firm: hga
+    role: architecture
+    note: "no firm record yet"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: design-and-production-incorporated
+    role: fabrication
+    note: "no firm record yet"
+  - firm: shen-milsom-and-wilke
+    role: av-integration
+    note: "no firm record yet"
+  - firm: mccoy-design
+    role: graphics-wayfinding
+    note: "no firm record yet"
+  - firm: northern-light-productions
+    role: content-production
+technologies:
+  - 3D animation
+  - 4K original filming
+  - touchscreen interactives
+  - curvilinear theater
+summary: >
+  The new 137,000-square-foot Tennessee State Museum building on
+  Nashville's Bicentennial Mall opened in October 2018; architecture by
+  EOA Architects and HGA, exhibit design by Gallagher & Associates,
+  fabrication by Design and Production, and media production by Northern
+  Light Productions.
+description: >
+  Northern Light Productions produced five linear films, seven interactive
+  installations, four listening stations, a multiplayer interactive music
+  table, and seven zoned soundscapes across the museum's Early Tennessee,
+  Change and Challenge, and Music Gallery exhibits, including a curvilinear
+  theater film on Tennessee's geological history and musical heritage.
+sources:
+  - https://www.archdaily.com/941837/the-tennessee-state-museum-eoa-architects-plus-hga
+  - https://hga.com/tennessee-state-museum-celebrates-grand-opening-of-new-home/
+  - https://www.d-and-p.com/tennessee-state-museum
+  - https://nlprod.com/item/tennessee-state-museum/

@@ -1,0 +1,41 @@
+id: world-golf-hall-of-fame-pinehurst-core
+name: The USGA Experience and World Golf Hall of Fame
+venue: world-golf-hall-of-fame-pinehurst
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: clearscapes
+    role: architecture
+    note: "No firm record yet"
+  - firm: luci-creative
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: rlmg
+    role: media-design
+  - firm: hadley-exhibits
+    role: fabrication
+    note: "No firm record yet"
+  - firm: kubik-maltbie
+    role: fabrication
+  - firm: available-light
+    role: lighting-design
+  - firm: electrosonic
+    role: av-integration
+  - firm: zubatkin-owner-representation
+    role: technical-consulting
+    note: "Owner's representation; no firm record yet"
+technologies:
+  - interactive touchscreens
+  - curved video wall
+  - directional audio
+summary: >
+  Golf House Pinehurst, housing the USGA Experience and the relocated World
+  Golf Hall of Fame, opened May 10, 2024 in Pinehurst, North Carolina;
+  Clearscapes was architect, Luci Creative led exhibit design with media
+  design by RLMG, fabrication by Hadley Exhibits and Kubik/Maltbie, lighting
+  by Available Light, and AV integration by Electrosonic.
+description: ""
+sources:
+  - https://www.usga.org/content/usga/home-page/articles/2024/03/new-world-golf-hall-of-fame-hilary-cronheim-pinehurst.html
+  - https://www.electrosonic.com/projects/the-usga-experience-and-world-golf-hall-of-fame
+  - https://www.rlmg.com/work/usga-experience

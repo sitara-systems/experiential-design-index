@@ -1,0 +1,24 @@
+id: comed-chicago-north-community-center-powering-lives
+name: "Powering Lives"
+venue: comed-chicago-north-community-center
+project_type: installation
+year_completed: 2021
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "15 media experiences incl. 25-foot data-visualization 'sustainability signature' wall"
+  - firm: solomon-group
+    role: fabrication
+  - firm: ravenswood-studio
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - data visualization wall
+summary: >
+  "Powering Lives," a customer-engagement exhibit on Chicago's energy
+  infrastructure at the ComEd Chicago North Community Center, opened in
+  2021; RLMG designed the interactive media, with fabrication by Solomon
+  Group and Ravenswood Studio.
+description: ""
+sources:
+  - https://www.rlmg.com/work/powering-lives

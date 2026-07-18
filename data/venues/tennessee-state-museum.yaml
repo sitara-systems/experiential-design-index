@@ -1,0 +1,10 @@
+id: tennessee-state-museum
+name: Tennessee State Museum
+venue_type: history-museum
+location:
+  city: Nashville
+  state: TN
+website: https://www.tnmuseum.org
+sources:
+  - https://www.archdaily.com/941837/the-tennessee-state-museum-eoa-architects-plus-hga
+  - https://hga.com/tennessee-state-museum-celebrates-grand-opening-of-new-home/

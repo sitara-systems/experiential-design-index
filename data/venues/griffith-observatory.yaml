@@ -1,0 +1,10 @@
+id: griffith-observatory
+name: Griffith Observatory
+venue_type: science-center
+location:
+  city: Los Angeles
+  state: CA
+operator: City of Los Angeles Department of Recreation and Parks
+website: https://griffithobservatory.org
+sources:
+  - https://griffithobservatory.org/about/observatory-history/renovation-and-expansion/renovation-and-expansion-timeline/

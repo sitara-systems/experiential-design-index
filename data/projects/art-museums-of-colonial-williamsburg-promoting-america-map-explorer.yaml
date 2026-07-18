@@ -1,0 +1,28 @@
+id: art-museums-of-colonial-williamsburg-promoting-america-map-explorer
+name: "Promoting America: Maps of the Colonies and the New Republic — Map Explorer"
+venue: art-museums-of-colonial-williamsburg
+project_type: temporary-exhibition
+year_completed: 2020
+status: completed
+credits:
+  - firm: ideum
+    role: media-design
+    note: Pan-and-zoom digital map and print explorer with curator-added annotations, connected to Colonial Williamsburg's museum-wide CMS
+technologies:
+  - touchscreen table
+  - Unity
+summary: >
+  A digital map-and-print explorer accompanying "Promoting America: Maps of
+  the Colonies and the New Republic," a temporary exhibition that ran
+  October 17, 2020 through March 27, 2022 at the Art Museums of Colonial
+  Williamsburg in Williamsburg, Virginia, was designed and developed by
+  Ideum.
+description: >
+  The interactive lets visitors pan and zoom historical maps and prints from
+  the colonial and early-Republic periods, exploring curator-added
+  points-of-interest. Ideum's Inline open-frame touch displays were housed
+  in custom period-styled tables built by Colonial Williamsburg's own museum
+  design and operations group.
+sources:
+  - https://ideum.com/portfolio/colonial-williamsburg-historic-maps-touch-table
+  - https://enfilade18thc.com/2020/10/10/exhibition-promoting-america-maps-of-the-colonies-and-the-new-republic/

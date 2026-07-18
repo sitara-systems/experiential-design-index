@@ -1,0 +1,9 @@
+id: paul-biane-library
+name: Paul A. Biane Library
+venue_type: library-archive
+location:
+  city: Rancho Cucamonga
+  state: CA
+website: https://www.cityofrc.us/library
+sources:
+  - https://www.cityofrc.us/library

@@ -1,0 +1,11 @@
+id: stance-soho
+name: Stance Soho
+venue_type: retail-flagship
+location:
+  city: New York
+  state: NY
+operator: Stance
+website: https://www.stance.com
+sources:
+  - https://wwd.com/fashion-news/activewear/feature/stance-socks-new-york-city-store-soho-10284922/
+  - https://us.fashionnetwork.com/news/Stance-opens-first-flagship-store-in-new-york-city,599956.html

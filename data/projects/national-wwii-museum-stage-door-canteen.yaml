@@ -1,0 +1,23 @@
+id: national-wwii-museum-stage-door-canteen
+name: BB's Stage Door Canteen
+venue: national-wwii-museum
+project_type: installation
+year_completed: 2009
+credits:
+  - firm: solomon-group
+    role: technical-consulting
+  - firm: solomon-group
+    role: av-integration
+    note: "Turnkey design, fabrication, installation, and show-control programming of lighting, audio, scenic, and video systems for a live stage show and documentary film"
+technologies:
+  - show control system
+  - live performance AV
+summary: >
+  BB's Stage Door Canteen, a recreated 1940s USO-style live-performance
+  venue within The National WWII Museum's Solomon Victory Theater complex
+  in New Orleans, opened November 6, 2009; Solomon Group delivered the
+  venue's lighting, audio, scenic, and show-control systems.
+description: ""
+sources:
+  - https://solomongroup.com/projects/bbs-stage-door-canteen
+  - https://www.nationalww2museum.org/media/press-releases/national-world-war-ii-museums-cutting-edge-solomon-victory-theater-stage-door

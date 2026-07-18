@@ -1,0 +1,9 @@
+id: lockkeepers-house
+name: Lockkeeper's House
+venue_type: history-museum
+location:
+  city: Washington
+  state: DC
+operator: Trust for the National Mall / National Park Service
+sources:
+  - https://www.smithsonianmag.com/smart-news/oldest-building-on-the-national-mall-opens-to-the-public-lockkeepers-house-180979977/

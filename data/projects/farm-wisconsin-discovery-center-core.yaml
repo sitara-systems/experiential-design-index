@@ -1,0 +1,20 @@
+id: farm-wisconsin-discovery-center-core
+name: Farm Wisconsin Discovery Center
+venue: farm-wisconsin-discovery-center
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: electrosonic
+    role: av-integration
+    note: Interactive farming simulators and agricultural-education AV exhibits
+technologies:
+  - interactive simulators
+  - touchscreen exhibits
+summary: >
+  Farm Wisconsin Discovery Center, a $13 million agricultural-education
+  center in Manitowoc County, Wisconsin, opened July 28, 2018; Electrosonic
+  designed and implemented its audiovisual and interactive farming exhibits.
+description: ""
+sources:
+  - https://madison.com/news/local/farm-wisconsin-discovery-center-opens-as-small-dairy-farms-disappear-and-farming-evolves-across-the/article_80bd83b5-392c-5ad6-8bc7-44558596eb4b.html
+  - https://www.electrosonic.com/projects/farm-wisconsin-discovery-center

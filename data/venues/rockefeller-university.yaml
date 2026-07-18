@@ -1,0 +1,9 @@
+id: rockefeller-university
+name: The Rockefeller University
+venue_type: academic-institution
+location:
+  city: New York
+  state: NY
+website: https://www.rockefeller.edu
+sources:
+  - https://www.rockefeller.edu/about/

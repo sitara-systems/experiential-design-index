@@ -1,0 +1,10 @@
+id: asrt-museum-and-archives
+name: ASRT Museum and Archives
+venue_type: history-museum
+location:
+  city: Albuquerque
+  state: NM
+operator: American Society of Radiologic Technologists
+website: https://www.asrt.org
+sources:
+  - https://www.asrt.org

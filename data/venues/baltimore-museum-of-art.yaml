@@ -1,0 +1,9 @@
+id: baltimore-museum-of-art
+name: Baltimore Museum of Art
+venue_type: art-museum
+location:
+  city: Baltimore
+  state: MD
+website: https://artbma.org
+sources:
+  - https://artbma.org

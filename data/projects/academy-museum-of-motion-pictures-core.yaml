@@ -1,0 +1,25 @@
+id: academy-museum-of-motion-pictures-core
+name: Academy Museum of Motion Pictures
+venue: academy-museum-of-motion-pictures
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: why-architecture
+    role: architecture
+    note: "Exhibition design and architecture; no firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: Primary AV integrator across four exhibition floors, 75+ installations
+technologies:
+  - projection mapping
+  - LED walls
+  - Dolby Atmos
+summary: >
+  The Academy Museum of Motion Pictures opened September 30, 2021 in the
+  historic May Company Building in Los Angeles; WHY Architecture led
+  exhibition design and Electrosonic served as primary AV integrator across
+  more than 75 installations spanning four exhibition floors.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Academy_Museum_of_Motion_Pictures
+  - https://www.electrosonic.com/projects/academy-museum-of-motion-pictures

@@ -1,0 +1,19 @@
+id: northeastern-curry-student-center
+name: John A. and Marcia E. Curry Student Center
+venue: northeastern-university
+project_type: installation
+year_completed: 2015
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "55-inch touchscreen student-organization directory synced daily to university databases"
+technologies:
+  - touchscreen kiosk
+summary: >
+  An interactive touchscreen directory of student organizations at
+  Northeastern University's John A. and Marcia E. Curry Student Center in
+  Boston opened in 2015; RLMG designed the software and content management
+  system.
+description: ""
+sources:
+  - https://www.rlmg.com/work/northeastern-curry-student-center

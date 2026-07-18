@@ -1,0 +1,23 @@
+id: smud-mosac-core
+name: SMUD Museum of Science and Curiosity
+venue: smud-museum-of-science-and-curiosity
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "28 media exhibits including gesture-responsive displays and augmented reality"
+  - firm: bbi-engineering
+    role: av-integration
+    note: "No firm record yet"
+technologies:
+  - gesture recognition
+  - augmented reality
+  - projection mapping
+summary: >
+  The SMUD Museum of Science and Curiosity, a science museum in a converted
+  power station in Sacramento, California, opened in 2021; RLMG designed 28
+  interactive media exhibits on sustainability and water conservation.
+description: ""
+sources:
+  - https://www.rlmg.com/work/smud-museum-of-science-and-curiosity

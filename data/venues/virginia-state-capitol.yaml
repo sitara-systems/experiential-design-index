@@ -1,0 +1,11 @@
+id: virginia-state-capitol
+name: Virginia State Capitol
+venue_type: visitor-center
+location:
+  city: Richmond
+  state: VA
+operator: Virginia General Assembly
+website: https://vga.virginia.gov
+sources:
+  - https://rvahub.com/2026/01/14/general-assembly-unveiling-of-new-capitol-visitor-experience-exhibit/
+  - https://www.wric.com/news/virginia-news/state-capitol-interactive-people-building-democracy-exhibit/

@@ -1,0 +1,9 @@
+id: fred-hutchinson-cancer-center-visitor-center
+name: Fred Hutchinson Cancer Center Visitor Center
+venue_type: visitor-center
+location:
+  city: Seattle
+  state: WA
+operator: Fred Hutchinson Cancer Center
+sources:
+  - https://studiomatthews.com/project/fred-hutch-visitor-center/

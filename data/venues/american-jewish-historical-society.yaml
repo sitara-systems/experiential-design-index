@@ -1,0 +1,9 @@
+id: american-jewish-historical-society
+name: American Jewish Historical Society
+venue_type: history-museum
+location:
+  city: New York
+  state: NY
+website: https://ajhs.org
+sources:
+  - https://ajhs.org/exhibits/1917-how-one-year-changed-the-world/

@@ -1,0 +1,11 @@
+id: deschutes-public-library-redmond
+name: Deschutes Public Library – Redmond Library
+venue_type: library-archive
+location:
+  city: Redmond
+  state: OR
+operator: Deschutes Public Library
+website: https://www.deschuteslibrary.org
+sources:
+  - https://millerhull.com/project/deschutes-county-libraries/
+  - https://www.deschuteslibrary.org/

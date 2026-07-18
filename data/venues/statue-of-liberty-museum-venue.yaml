@@ -1,0 +1,11 @@
+id: statue-of-liberty-museum-venue
+name: Statue of Liberty Museum
+venue_type: history-museum
+location:
+  city: New York
+  state: NY
+operator: Statue of Liberty-Ellis Island Foundation / National Park Service
+website: https://www.libertyellisfoundation.org/liberty-museum
+sources:
+  - https://www.archpaper.com/2019/05/statue-of-liberty-museum-opens-fxcollaborative/
+  - https://esi.nbbj.com/work/statue-of-liberty-museum

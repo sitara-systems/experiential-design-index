@@ -1,0 +1,31 @@
+id: gettysburg-national-military-park-museum-and-visitor-center-core-exhibits
+name: Gettysburg National Military Park Museum and Visitor Center
+venue: gettysburg-national-military-park-museum-and-visitor-center
+project_type: new-building
+year_completed: 2008
+credits:
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: second-story
+    role: media-design
+    note: >
+      Interactive media suite spanning battle maps, monument locators,
+      a resource room, and family-oriented activities
+  - firm: cooper-robertson
+    role: architecture
+    note: "No firm record yet"
+technologies:
+  - interactive touch-screen maps
+  - motion graphics
+  - database-driven resource kiosks
+summary: >
+  The Gettysburg National Military Park Museum and Visitor Center, a new
+  139,000 sq ft facility in Gettysburg, Pennsylvania, opened April 14, 2008;
+  exhibit design was by Gallagher & Associates, architecture by Cooper,
+  Robertson & Partners, and Second Story designed the interactive media suite
+  including battle maps, monument locators, and a visitor resource room.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Gettysburg_Museum_and_Visitor_Center
+  - https://www.gallagherdesign.com/projects/gettysburg-national-military-park-and-visitor-center/
+  - https://2s-archive.rzrfs.com/work/gettysburg-national-military-park-museum-and-visitor-center

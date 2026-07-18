@@ -1,0 +1,10 @@
+id: academy-museum-of-motion-pictures
+name: Academy Museum of Motion Pictures
+venue_type: art-museum
+location:
+  city: Los Angeles
+  state: CA
+operator: Academy of Motion Picture Arts and Sciences
+website: https://www.academymuseum.org
+sources:
+  - https://en.wikipedia.org/wiki/Academy_Museum_of_Motion_Pictures

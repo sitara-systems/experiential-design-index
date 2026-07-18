@@ -1,0 +1,32 @@
+id: idaho-state-museum-big-burn
+name: Idaho State Museum Renovation (incl. "Big Burn" exhibit)
+venue: idaho-state-museum
+project_type: major-renovation
+year_completed: 2018
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Richard Lewis Media Group brought Electrosonic onto the project"
+  - firm: electrosonic
+    role: av-integration
+    note: 46 multimedia exhibits including the "Big Burn" 4D wraparound recreation
+  - firm: andrew-merriell
+    role: exhibit-design
+    note: "Andrew Merriell & Associates; no firm record yet"
+  - firm: nassal
+    role: fabrication
+    note: "Credited on RLMG's project page as \"Nassal/Lexington\"; no firm record yet"
+technologies:
+  - interactive maps
+  - 4D projection
+  - audio storytelling
+summary: >
+  The Idaho State Museum in Boise reopened October 12, 2018 after a
+  four-year, $17 million renovation; RLMG led media design (including the
+  MUSE Award-winning "Big Burn" exhibit) with Electrosonic providing AV
+  integration across 46 multimedia exhibits.
+description: ""
+sources:
+  - https://www.idahoednews.org/features/photos-newly-renovated-idaho-state-historical-museum-opens/
+  - https://www.electrosonic.com/projects/idaho-state-museum
+  - https://www.rlmg.com/work/idaho-state-historical-society

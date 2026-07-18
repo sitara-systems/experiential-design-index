@@ -1,0 +1,28 @@
+id: international-quilt-museum-digital-gallery
+name: Digital Gallery
+venue: international-quilt-museum
+project_type: new-building
+year_completed: 2008
+credits:
+  - firm: robert-a-m-stern-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: second-story
+    role: media-design
+    note: >
+      Digital Gallery interactive installations including timelines,
+      touch-based exhibits, and user-generated content features
+technologies:
+  - touch installations
+  - motion graphics
+  - wayfinding
+summary: >
+  The International Quilt Museum (then International Quilt Study Center and
+  Museum) at the University of Nebraska-Lincoln opened its new building,
+  designed by Robert A.M. Stern Architects, in 2008; Second Story designed
+  the museum's Digital Gallery interactive installations.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/International_Quilt_Museum
+  - https://www.ramsa.com/projects/project/international-quilt-museum
+  - https://2s-archive.rzrfs.com/work/international-quilt-study-center-museum

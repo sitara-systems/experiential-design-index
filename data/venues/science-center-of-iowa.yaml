@@ -1,0 +1,9 @@
+id: science-center-of-iowa
+name: Science Center of Iowa
+venue_type: science-center
+location:
+  city: Des Moines
+  state: IA
+website: https://www.sciowa.org
+sources:
+  - https://www.sciowa.org

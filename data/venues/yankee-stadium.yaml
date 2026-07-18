@@ -1,0 +1,11 @@
+id: yankee-stadium
+name: Yankee Stadium
+venue_type: sports-venue
+location:
+  city: Bronx
+  state: NY
+operator: New York Yankees
+website: https://www.mlb.com/yankees/ballpark
+sources:
+  - https://en.wikipedia.org/wiki/Yankee_Stadium
+  - https://designobserver.com/take-me-out-to-the-old-yankee-stadium/

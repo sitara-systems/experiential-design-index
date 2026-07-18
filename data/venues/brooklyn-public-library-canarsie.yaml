@@ -1,0 +1,10 @@
+id: brooklyn-public-library-canarsie
+name: Brooklyn Public Library, Canarsie Branch
+venue_type: library-archive
+location:
+  city: Brooklyn
+  state: NY
+operator: Brooklyn Public Library
+website: https://www.bklynlibrary.org
+sources:
+  - https://studiojoseph.com/work/canarsie-branch

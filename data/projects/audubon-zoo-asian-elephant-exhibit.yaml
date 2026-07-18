@@ -1,0 +1,20 @@
+id: audubon-zoo-asian-elephant-exhibit
+name: Asian Elephant Exhibit
+venue: audubon-zoo
+project_type: new-exhibition
+year_completed: 2016
+credits:
+  - firm: solomon-group
+    role: fabrication
+  - firm: solomon-group
+    role: av-integration
+technologies:
+  - interactive kiosks
+summary: >
+  The Asian Elephant Exhibit, a themed pavilion and habitat expansion for
+  Audubon Zoo's Asian elephants, opened April 26, 2016 in New Orleans;
+  Solomon Group provided thematic exhibit fabrication, scenic decor, and
+  installation.
+description: ""
+sources:
+  - https://solomongroup.com/projects/asian-elephant-exhibit-audubon-zoo

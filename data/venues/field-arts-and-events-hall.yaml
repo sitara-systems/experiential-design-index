@@ -1,0 +1,9 @@
+id: field-arts-and-events-hall
+name: Field Arts & Events Hall
+venue_type: cultural-center
+location:
+  city: Port Angeles
+  state: WA
+website: https://www.fieldhallevents.org
+sources:
+  - https://studiomatthews.com/project/field-arts-events-hall/

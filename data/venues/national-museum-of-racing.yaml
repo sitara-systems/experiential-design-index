@@ -1,0 +1,9 @@
+id: national-museum-of-racing
+name: National Museum of Racing and Hall of Fame
+venue_type: sports-venue
+location:
+  city: Saratoga Springs
+  state: NY
+website: https://www.racingmuseum.org
+sources:
+  - https://saratogaliving.com/national-museum-racing-hall-fame-reopen/

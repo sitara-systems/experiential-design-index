@@ -1,0 +1,9 @@
+id: great-lakes-science-center
+name: Great Lakes Science Center
+venue_type: science-center
+location:
+  city: Cleveland
+  state: OH
+website: https://www.greatscience.com
+sources:
+  - https://www.greatscience.com

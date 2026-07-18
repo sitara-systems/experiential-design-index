@@ -1,0 +1,11 @@
+id: dinosaur-national-monument-quarry-visitor-center
+name: Quarry Visitor Center
+venue_type: visitor-center
+location:
+  city: Jensen
+  state: UT
+operator: National Park Service (Dinosaur National Monument)
+website: https://www.nps.gov/dino/planyourvisit/visitorcenters.htm
+sources:
+  - https://www.nps.gov/dino/planyourvisit/visitorcenters.htm
+  - https://www.recreation.gov/camping/poi/258725

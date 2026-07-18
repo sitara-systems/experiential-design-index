@@ -1,0 +1,24 @@
+id: boise-watershed-core
+name: The WaterShed
+venue: boise-watershed
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: rlmg
+    role: media-design
+    note: "Interactive exhibits including Sustainable Boise, Snow Theater, and Pledge Wall"
+  - firm: phaseshift
+    role: exhibit-design
+    note: "No firm record yet"
+technologies:
+  - motion sensing
+  - interactive projection
+  - arcade-style controls
+summary: >
+  The Boise WaterShed, an interactive exhibit suite on climate change and
+  Idaho's water supply at the City of Boise's WaterShed education center,
+  opened in 2025; RLMG designed the interactive media with exhibit design
+  by Phaseshift.
+description: ""
+sources:
+  - https://www.rlmg.com/work/watershed

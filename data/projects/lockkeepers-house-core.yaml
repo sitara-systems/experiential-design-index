@@ -1,0 +1,26 @@
+id: lockkeepers-house-core
+name: Lockkeeper's House
+venue: lockkeepers-house
+project_type: new-exhibition
+year_completed: 2018
+credits:
+  - firm: trivium-interactive
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: Projection onto historic stone walls, interactive tablets, and concealed audio
+technologies:
+  - projection
+  - interactive tablets
+summary: >
+  The Lockkeeper's House, the oldest building on Washington, DC's National
+  Mall, reopened as a small interpretive exhibit space in 2018 after
+  relocation and restoration; Trivium Interactive designed the visitor
+  experience and Electrosonic implemented the AV systems within the
+  350-square-foot historic structure.
+description: ""
+sources:
+  - https://www.smithsonianmag.com/smart-news/oldest-building-on-the-national-mall-opens-to-the-public-lockkeepers-house-180979977/
+  - https://www.triviuminteractive.com/project/the-lockkeepers-house
+  - https://www.electrosonic.com/projects/the-lockkeepers-house

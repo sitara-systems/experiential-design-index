@@ -1,0 +1,36 @@
+id: sony-wonder-technology-lab-music-mixer
+name: Music Mixer
+venue: sony-wonder-technology-lab
+project_type: installation
+year_completed: 2011
+credits:
+  - firm: unified-field
+    role: media-design
+    note: "Interactive programming design and development"
+  - firm: james-hollingsworth-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: three-byte-intermedia
+    role: av-integration
+    note: "No firm record yet; media hardware and systems integration"
+  - firm: available-light
+    role: lighting-design
+    note: "No firm record yet"
+technologies:
+  - multi-touch table
+  - real-time audio mixing
+summary: >
+  Music Mixer, a multi-player interactive multi-touch table installation
+  built around a remix of Alicia Keys' "Empire State of Mind (Part II),"
+  opened at the Sony Wonder Technology Lab in New York on June 28, 2011;
+  exhibit design by James Hollingsworth Design, interactive programming by
+  Unified Field, and media hardware/systems integration by Three Byte
+  Intermedia.
+description: >
+  Visitors manipulate three-dimensional "audio blocks" representing
+  different instruments, effects, and musical genres to collaboratively
+  remix the featured Alicia Keys track while learning about music
+  production.
+sources:
+  - https://www.unifiedfield.com/projects/sony-wonder-music-mixer
+  - https://www.prnewswire.com/news-releases/sony-wonder-technology-lab-unveils-new-interactive-music-experience-featuring-grammy-award-winning-artist-alicia-keys-124650478.html

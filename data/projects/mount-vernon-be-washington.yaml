@@ -1,0 +1,35 @@
+id: mount-vernon-be-washington
+name: "Be Washington: It's Your Turn to Lead"
+venue: mount-vernon
+project_type: installation
+year_completed: 2018
+credits:
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: cortina-productions
+    role: media-design
+    note: "Lead interactive producer; developed gameplay and produced media"
+  - firm: solomon-group
+    role: fabrication
+  - firm: solomon-group
+    role: av-integration
+technologies:
+  - 6K LED wall
+  - interactive touchscreen kiosks
+  - show control system
+summary: >
+  Be Washington: It's Your Turn to Lead, an interactive theater letting
+  visitors make decisions faced by George Washington, opened February 2018
+  at George Washington's Mount Vernon in Virginia; exhibit design by
+  Gallagher & Associates, interactive production by Cortina Productions,
+  and fabrication/AV integration by Solomon Group. It received a 2018 Thea
+  Award for Outstanding Achievement and a 2019 SEGD Merit Award.
+description: >
+  Solomon Group also upgraded Mount Vernon's separate 4D Revolutionary War
+  Theater as part of the same visitor-experience initiative; that upgrade is
+  not separately dated in public sources and is not recorded as its own
+  project.
+sources:
+  - https://solomongroup.com/projects/george-washingtons-mt-vernon
+  - https://www.mountvernon.org/blog/2018/10/be-washington-wins-award-of-outstanding-achievement
+  - https://www.cortinaproductions.com/projects/washington-turn-lead/

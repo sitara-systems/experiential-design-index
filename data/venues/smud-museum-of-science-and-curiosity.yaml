@@ -1,0 +1,11 @@
+id: smud-museum-of-science-and-curiosity
+name: SMUD Museum of Science and Curiosity
+aka:
+  - MOSAC
+venue_type: science-center
+location:
+  city: Sacramento
+  state: CA
+website: https://www.exploremosac.org
+sources:
+  - https://www.exploremosac.org

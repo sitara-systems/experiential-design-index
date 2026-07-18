@@ -1,0 +1,10 @@
+id: washington-university-olin-library
+name: John M. Olin Library
+venue_type: library-archive
+location:
+  city: St. Louis
+  state: MO
+operator: Washington University in St. Louis
+website: https://library.washu.edu/locations/olinlibrary/
+sources:
+  - https://library.washu.edu/locations/olinlibrary/

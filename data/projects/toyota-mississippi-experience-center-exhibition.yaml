@@ -1,0 +1,24 @@
+id: toyota-mississippi-experience-center-exhibition
+name: Toyota Mississippi Experience Center
+venue: toyota-mississippi-experience-center
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: jbhm-architecture
+    role: architecture
+    note: "No firm record yet"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: gallagher-and-associates
+    role: content-production
+technologies:
+  - interactive kiosks
+summary: >
+  The Toyota Mississippi Experience Center, a visitor center at Toyota's
+  manufacturing plant, opened June 7, 2022 in Blue Springs, Mississippi,
+  with architecture by JBHM Architecture and interactive exhibit design by
+  Gallagher & Associates.
+description: ""
+sources:
+  - https://pressroom.toyota.com/toyota-welcomes-guests-to-experience-advanced-manufacturing-in-a-remarkable-way/
+  - https://gallagherdesign.com/project/toyota/
