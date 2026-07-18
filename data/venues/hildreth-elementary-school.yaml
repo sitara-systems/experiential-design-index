@@ -1,0 +1,12 @@
+id: hildreth-elementary-school
+name: Hildreth Elementary School
+venue_type: other
+location:
+  city: Harvard
+  state: MA
+operator: Harvard Public Schools
+website: https://hildreth.psharvard.org
+sources:
+  - https://segd.org/projects/hildreth-elementary-school/
+  - https://www.arrowstreet.com/portfolio/hildreth-elementary-school/
+  - https://www.massschoolbuildings.org/programs/story_of_a_building/Oct_2022

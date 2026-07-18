@@ -1,0 +1,10 @@
+id: lake-union-park
+name: Lake Union Park
+venue_type: public-space
+location:
+  city: Seattle
+  state: WA
+website: https://www.seattle.gov/parks/parks/lake-union-park
+sources:
+  - https://www.seattle.gov/parks/parks/lake-union-park
+  - https://seadesignfest.org/event/forest-network/

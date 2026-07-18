@@ -1,0 +1,11 @@
+id: smithsonian-nmai-heye-center
+name: National Museum of the American Indian, George Gustav Heye Center
+venue_type: history-museum
+location:
+  city: New York
+  state: NY
+operator: Smithsonian Institution
+website: https://www.si.edu/museums/american-indian-museum-heye-center
+sources:
+  - https://www.si.edu/museums/american-indian-museum-heye-center
+  - https://en.wikipedia.org/wiki/George_Gustav_Heye_Center

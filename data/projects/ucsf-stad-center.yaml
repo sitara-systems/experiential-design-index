@@ -1,0 +1,26 @@
+id: ucsf-stad-center
+name: Stad Center for Pediatric Pain, Palliative & Integrative Medicine
+venue: ucsf-stad-center-venue
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: nbbj
+    role: architecture
+  - firm: belle-and-wissell
+    role: media-design
+    note: "Digital fabrication/experiential media"
+  - firm: jp-digital-imaging
+    role: fabrication
+    note: "no firm record yet"
+technologies: []
+summary: >
+  The Stad Center for Pediatric Pain, Palliative & Integrative Medicine, a
+  6,500-square-foot nature-themed pediatric clinic at UCSF's Mission Bay
+  campus in San Francisco, opened in January 2025 with architecture and
+  experiential graphic design by NBBJ and digital fabrication by Belle &
+  Wissell.
+description: ""
+sources:
+  - https://segd.org/projects/easing-pediatric-pain-stad-center-at-ucsf-benioff-childrens/
+  - https://www.nbbj.com/work/ucsf-pediatric-stad-center
+  - https://realestate.ucsf.edu/content/new-ucsf-pediatric-clinic-redefines-healing-innovative-child-friendly-design

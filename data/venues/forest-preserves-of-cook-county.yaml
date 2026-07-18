@@ -1,0 +1,11 @@
+id: forest-preserves-of-cook-county
+name: Forest Preserves of Cook County
+venue_type: public-space
+location:
+  city: Cook County
+  state: IL
+operator: Forest Preserves of Cook County
+website: https://fpdcc.com
+sources:
+  - https://segd.org/projects/cook-county-forest-preserves-interpretive-trails/
+  - https://100.sta-chicago.org/winners/2020/cook-county-forest-preserves-interpretive-trails

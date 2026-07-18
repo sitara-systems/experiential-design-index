@@ -11,10 +11,10 @@ credits:
     note: "Media and software development, including the projection-mapped, motion-tracking 'Dream Cube'"
   - firm: solomon-group
     role: fabrication
-    note: "Exhibit producer: scenic environment and artifact mount fabrication, graphics production and installation (no firm record yet)"
+    note: "Exhibit producer: scenic environment and artifact mount fabrication, graphics production and installation"
   - firm: solomon-group
     role: av-integration
-    note: "AV systems integration and interactive technology (no firm record yet)"
+    note: "AV systems integration and interactive technology"
   - firm: the-artery
     role: content-production
     note: "Media production and spatial-tracking (ZED stereo camera) implementation for the Dream Cube (no firm record yet)"

@@ -1,0 +1,34 @@
+id: museum-of-science-boston-arctic-adventure
+name: "Arctic Adventure: Exploring with Technology"
+venue: museum-of-science-boston
+project_type: new-exhibition
+year_completed: 2020
+credits:
+  - firm: moment-factory
+    role: media-design
+    note: "Real-time Unity-driven multimedia, interactive game-engine stations, and control system for a four-zone permanent gallery; first step of the Blue Wing renovation. No firm record yet"
+  - firm: adirondack-studios
+    role: fabrication
+    note: "Scenographic decor fabrication and installation; no firm record yet"
+technologies:
+  - Unity
+  - projection mapping
+  - real-time interactive media
+  - motion sensing
+summary: >
+  Arctic Adventure: Exploring with Technology, a permanent interactive
+  exhibition simulating Arctic field research, opened December 2020 at the
+  Museum of Science, Boston, designed by Moment Factory.
+description: >
+  Visitors pass through a multisensory ice cave into a "phygital" Arctic
+  environment built on a Unity game engine synced to immersive soundscapes
+  and dynamic lighting for a day/night cycle. Interactive stations let
+  visitors use analog and digital tools — drones, hydrophones, ground-
+  penetrating radar, ice-core drills — to analyze climate data, and a virtual
+  ice-field crossing gives real-time feedback on footing. The exhibition
+  marked the first phase of the museum's Blue Wing renovation and won an
+  SEGD 2021 Honor Award in the Interactive Experiences category.
+sources:
+  - https://segd.org/projects/arctic-adventure-exploring-with-technology/
+  - https://www.mos.org/visit/exhibits/arctic-adventure-exploring-technology
+  - https://frameweb.com/project/arctic-adventure-museum-of-science-boston-moment-factory

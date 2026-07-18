@@ -1,0 +1,11 @@
+id: ackland-art-museum
+name: Ackland Art Museum
+venue_type: art-museum
+location:
+  city: Chapel Hill
+  state: NC
+operator: University of North Carolina at Chapel Hill
+website: https://ackland.org
+sources:
+  - https://ackland.org/
+  - https://www.unc.edu/discover/playful-parc-pulls-passersby-to-the-ackland/

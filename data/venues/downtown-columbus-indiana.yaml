@@ -1,0 +1,10 @@
+id: downtown-columbus-indiana
+name: Downtown Columbus
+venue_type: public-space
+location:
+  city: Columbus
+  state: IN
+operator: Landmark Columbus Foundation
+sources:
+  - https://couldbe.design/work/carousel-for-companionship
+  - https://www.therepublic.com/2025/07/01/carousel-for-companionship-painting-underway/

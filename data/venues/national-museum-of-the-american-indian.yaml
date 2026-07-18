@@ -1,0 +1,11 @@
+id: national-museum-of-the-american-indian
+name: National Museum of the American Indian
+venue_type: history-museum
+location:
+  city: Washington
+  state: DC
+operator: Smithsonian Institution
+website: https://americanindian.si.edu
+sources:
+  - https://americanindian.si.edu
+  - https://www.si.edu/newsdesk/factsheets/americans

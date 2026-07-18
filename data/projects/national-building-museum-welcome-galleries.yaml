@@ -1,0 +1,27 @@
+id: national-building-museum-welcome-galleries
+name: Welcome Galleries
+venue: national-building-museum
+project_type: new-exhibition
+year_completed: 2021
+credits:
+  - firm: studio-joseph
+    role: exhibit-design
+    note: "No firm record yet."
+  - firm: bluecadet
+    role: media-design
+  - firm: southside-design-build
+    role: fabrication
+    note: "No firm record yet."
+technologies:
+  - interactive media
+summary: >
+  Welcome Galleries, a set of orientation and ticketing galleries
+  introducing visitors to the building industry's climate impact and
+  sustainable design, opened at the National Building Museum in Washington,
+  DC in September 2021; exhibition design by Studio Joseph, with media
+  design by Bluecadet and fabrication by Southside Design + Build.
+description: ""
+sources:
+  - https://segd.org/projects/welcome-galleries/
+  - https://www.dezeen.com/2023/10/12/studio-joseph-tactile-galleries-national-building-museum/
+  - https://studiojoseph.com/work/orientation-galleries

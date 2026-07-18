@@ -1,0 +1,11 @@
+id: national-mall
+name: National Mall
+venue_type: public-space
+location:
+  city: Washington
+  state: DC
+operator: National Park Service
+website: https://www.nps.gov/nama/
+sources:
+  - https://dcist.com/story/20/08/31/an-art-installation-on-the-national-mall-depicts-systemic-racism/
+  - https://architectsfoundation.org/societys-cage-installation-opens-on-the-national-mall/

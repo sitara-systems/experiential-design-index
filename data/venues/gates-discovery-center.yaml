@@ -1,0 +1,11 @@
+id: gates-discovery-center
+name: Gates Discovery Center
+venue_type: corporate-museum
+location:
+  city: Seattle
+  state: WA
+operator: Bill & Melinda Gates Foundation
+website: https://www.discovergates.org
+sources:
+  - https://www.discovergates.org/exhibitions/designing-motherhood/
+  - https://studiomatthews.com/project/designing-motherhood/

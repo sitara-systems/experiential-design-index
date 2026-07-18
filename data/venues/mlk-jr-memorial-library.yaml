@@ -1,0 +1,11 @@
+id: mlk-jr-memorial-library
+name: Martin Luther King Jr. Memorial Library
+venue_type: library-archive
+location:
+  city: Washington
+  state: DC
+operator: DC Public Library
+website: https://www.dclibrary.org
+sources:
+  - https://www.dclibrary.org/people
+  - https://awards.re-thinkingthefuture.com/up-from-the-people-protest-and-change-in-d-c-exhibition-at-martin-luther-king-jr-public-library-washington-dc-studio-joseph/

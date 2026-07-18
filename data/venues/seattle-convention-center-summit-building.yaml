@@ -1,0 +1,11 @@
+id: seattle-convention-center-summit-building
+name: Seattle Convention Center, Summit Building
+venue_type: other
+location:
+  city: Seattle
+  state: WA
+operator: Seattle Convention Center
+website: https://seattleconventioncenter.com/venues/summit-addition
+sources:
+  - https://seattleconventioncenter.com/venues/summit-addition
+  - https://studiomatthews.com/project/seattle-conv-ctr/

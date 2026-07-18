@@ -1,0 +1,9 @@
+id: kimmel-center-philadelphia
+name: Kimmel Center for the Performing Arts
+venue_type: cultural-center
+location:
+  city: Philadelphia
+  state: PA
+website: https://kimmelculturalcampus.org
+sources:
+  - https://kimmelculturalcampus.org

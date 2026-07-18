@@ -1,0 +1,11 @@
+id: homefield-showcase-center-olathe
+name: Homefield Kansas City Showcase Center
+venue_type: sports-venue
+location:
+  city: Olathe
+  state: KS
+operator: Homefield Kansas City
+website: https://homefieldkc.com
+sources:
+  - https://populous.com/showcases/homefield-kansas-city
+  - https://www.wskfarch.com/project/101-homefield-showcase-center/

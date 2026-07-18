@@ -1,0 +1,10 @@
+id: top-of-the-rock
+name: Top of the Rock
+venue_type: themed-attraction
+location:
+  city: New York
+  state: NY
+operator: Tishman Speyer
+sources:
+  - https://thgcreative.com/thg-top-of-the-rock/
+  - https://www.prnewswire.com/news-releases/thg-creative-and-tishman-speyer-reimagine-rockefeller-centers-top-of-the-rock-observation-deck-302268337.html

@@ -1,0 +1,11 @@
+id: brooklyn-public-library-central
+name: Brooklyn Public Library, Central Branch
+venue_type: library-archive
+location:
+  city: Brooklyn
+  state: NY
+operator: Brooklyn Public Library
+website: https://www.bklynlibrary.org
+sources:
+  - https://www.rocnation.com/news/the-book-of-hov-a-tribute-to-jay-z/
+  - https://www.fastcompany.com/90933065/how-designers-transformed-the-brooklyn-public-library-into-a-sprawling-ode-to-jay-zs-life

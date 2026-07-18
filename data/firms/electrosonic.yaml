@@ -1,0 +1,38 @@
+id: electrosonic
+name: Electrosonic
+aka: []
+website: https://www.electrosonic.com
+hq:
+  city: Orlando
+  state: FL
+other_offices:
+  - city: Burbank
+    state: CA
+  - city: New York
+    state: NY
+founded: 1964
+roles:
+  - av-integration
+  - media-design
+  - technical-consulting
+status: active
+status_basis: >
+  Published project profile and news activity within the last year: ISE
+  2026 recap article (Feb 2026); 2025 Digital Signage Awards win for F1
+  Drive at Tottenham Hotspur Stadium; 2024 AV Awards win for View Boston;
+  active project-profile and news pages maintained on electrosonic.com as
+  of this check.
+status_verified: 2026-07-18
+summary: >
+  Electrosonic is an audiovisual systems integration and technology design
+  firm founded in 1964, providing AV consulting, systems design, build, and
+  support services for museums, themed entertainment venues, and corporate
+  and branded environments, with offices in Orlando, Burbank, New York, and
+  internationally (London, Edinburgh).
+sources:
+  - https://www.electrosonic.com/about-us
+  - https://www.electrosonic.com/our-locations
+  - https://www.electrosonic.com/news/electrosonic-relocates-to-new-corporate-headquarters-and-production-facility-in-orlando-florida
+  - https://www.linkedin.com/company/electrosonic
+  - https://www.electrosonic.com/news/inside-ise-2026-electrosonics-experts-share-whats-next-for-av-and-immersive-experiences
+  - https://www.electrosonic.com/resources/project-profiles

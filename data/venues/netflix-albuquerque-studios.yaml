@@ -1,0 +1,10 @@
+id: netflix-albuquerque-studios
+name: Netflix Albuquerque Studios
+venue_type: other
+location:
+  city: Albuquerque
+  state: NM
+operator: Netflix
+sources:
+  - https://asteriskdesign.com/work/the-art-of-craft/
+  - https://segd.org/projects/the-art-of-craft/

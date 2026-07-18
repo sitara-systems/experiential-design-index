@@ -1,0 +1,10 @@
+id: university-of-oregon
+name: University of Oregon
+venue_type: academic-institution
+location:
+  city: Eugene
+  state: OR
+website: https://www.uoregon.edu
+sources:
+  - https://www.adventmovespeople.com/projects/university-oregon-0/
+  - https://blogs.uoregon.edu/studentwelcomecenter/about-the-swc/

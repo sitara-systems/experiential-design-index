@@ -1,0 +1,11 @@
+id: allianz-field
+name: Allianz Field
+venue_type: sports-venue
+location:
+  city: Saint Paul
+  state: MN
+operator: Minnesota United FC
+website: https://www.allianzfield.com
+sources:
+  - https://www.allianzfield.com
+  - https://populous.com/showcases/minnesota-united-fc-stadium

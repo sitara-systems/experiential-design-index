@@ -1,0 +1,11 @@
+id: washington-school-for-the-deaf
+name: Washington School for the Deaf
+venue_type: other
+location:
+  city: Vancouver
+  state: WA
+operator: Washington State School for the Deaf
+website: https://www.wsd.wa.gov
+sources:
+  - https://www.mayerreed.com/gates-are-open-at-washington-school-for-the-deaf/
+  - https://www.wsd.wa.gov/washington-school-for-deaf-students-expands-cultivates-belonging-and-courage-to-take-the-world-by-storm/

@@ -1,0 +1,51 @@
+id: us-olympic-and-paralympic-museum-galleries
+name: United States Olympic & Paralympic Museum (Exhibition & Interactive Design)
+venue: us-olympic-and-paralympic-museum
+project_type: new-building
+year_completed: 2020
+credits:
+  - firm: gallagher-and-associates
+    role: exhibit-design
+    note: "Design director Carl Rhodes"
+  - firm: centre-screen
+    role: av-integration
+  - firm: centre-screen
+    role: media-design
+    note: "Audiovisual & interactive design and production, incl. graphics & motion design; no firm record yet"
+  - firm: creo-industrial-arts
+    role: fabrication
+    note: "Exhibit fabrication and software engineering; no firm record yet"
+  - firm: diller-scofidio-renfro
+    role: architecture
+    note: "Design architect; no firm record yet"
+  - firm: anderson-mason-dale-architects
+    role: architecture
+    note: "Architect of record; no firm record yet"
+  - firm: available-light
+    role: lighting-design
+    note: "no firm record yet"
+technologies:
+  - RFID
+  - interactive kiosks
+  - motion capture
+  - projection
+summary: >
+  The United States Olympic & Paralympic Museum, a purpose-built museum
+  telling the story of Team USA athletes, opened July 2020 in Colorado
+  Springs, Colorado, with architecture by Diller Scofidio + Renfro and
+  Anderson Mason Dale Architects and exhibition/interactive design by
+  Gallagher & Associates and Centre Screen.
+description: >
+  The 60,000-square-foot museum uses RFID-enabled visitor credentials,
+  motion-capture and reflex-testing interactives, and immersive AV
+  environments across galleries dedicated to Olympic and Paralympic sport.
+  Centre Screen led audiovisual and interactive design and production; CREO
+  Industrial Arts fabricated exhibits and built supporting exhibit software.
+  The project won both an SEGD 2021 Honor Award (Interactive Experiences,
+  credited to Centre Screen and Gallagher & Associates) and a Merit Award
+  (Exhibition, credited to Gallagher & Associates).
+sources:
+  - https://segd.org/projects/united-states-olympic-and-paralympic-museum/
+  - https://blooloop.com/museum/in-depth/us-olympic-and-paralympic-museum/
+  - https://gallagherdesign.com/project/usopm/
+  - https://dsrny.com/project/united-states-olympic-and-paralympic-museum

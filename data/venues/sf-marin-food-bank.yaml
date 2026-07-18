@@ -1,0 +1,11 @@
+id: sf-marin-food-bank
+name: San Francisco-Marin Food Bank (Marin Distribution Center & Welcome Center)
+venue_type: visitor-center
+location:
+  city: San Rafael
+  state: CA
+operator: San Francisco-Marin Food Bank
+website: https://www.sfmfoodbank.org
+sources:
+  - https://www.som.com/projects/marin-food-bank/
+  - https://www.sfmfoodbank.org

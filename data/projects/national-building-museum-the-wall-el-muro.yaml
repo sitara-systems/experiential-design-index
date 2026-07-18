@@ -1,0 +1,33 @@
+id: national-building-museum-the-wall-el-muro
+name: "The Wall/El Muro: What Is a Border Wall?"
+venue: national-building-museum
+project_type: temporary-exhibition
+year_completed: 2021
+credits:
+  - firm: mgmt-design
+    role: exhibit-design
+  - firm: matter-architecture-practice
+    role: architecture
+    note: "no firm record yet"
+  - firm: full-point-graphics
+    role: fabrication
+    note: "no firm record yet"
+  - firm: print-exhibit-partners
+    role: fabrication
+    note: "no firm record yet"
+technologies:
+  - data visualization
+  - projection/animation
+summary: >
+  The Wall/El Muro: What Is a Border Wall?, a bilingual temporary exhibition
+  examining the US-Mexico border through artifacts, murals, sound, and data
+  visualizations, opened at the National Building Museum in Washington, DC
+  in November 2021 and ran for about a year; it was designed by mgmt. design
+  with architecture by Matter Architecture Practice, curated by Sarah A.
+  Leavitt.
+description: ""
+sources:
+  - https://segd.org/projects/the-wall-el-muro/
+  - http://mgmtdesign.com/work/exhibitions/the-wall-el-muro
+  - https://www.architecturalrecord.com/articles/15396-contested-ground-the-wallel-muro-exhibition-looks-at-the-usmexico-border-from-both-sides
+  - https://nbm.org/today-is-the-day/

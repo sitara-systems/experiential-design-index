@@ -1,0 +1,33 @@
+id: university-of-nebraska-lincoln-osborne-legacy-complex
+name: Osborne Legacy Complex
+venue: osborne-legacy-complex-unl
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: populous
+    role: architecture
+    note: "no firm record yet"
+  - firm: bvh-architecture
+    role: architecture
+    note: "no firm record yet"
+  - firm: dimensional-innovations
+    role: fabrication
+    note: "Physical and digital fabrication; no firm record yet"
+  - firm: avi-spl
+    role: av-integration
+    note: "no firm record yet"
+  - firm: ecc
+    role: av-integration
+    note: "no firm record yet"
+technologies:
+  - LED video wall
+summary: >
+  The Osborne Legacy Complex, a 315,000-square-foot Nebraska football
+  training and history facility in Lincoln, Nebraska featuring an 84-foot
+  lobby video board, opened in March 2024 with architecture and experience
+  design by Populous.
+description: ""
+sources:
+  - https://segd.org/projects/university-of-nebraska-lincoln-osborne-legacy-complex/
+  - https://populous.com/showcases/university-of-nebraska-lincoln-osborne-legacy-complex
+  - https://dimin.com/work/university-of-nebraska-osborne-legacy-complex

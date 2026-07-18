@@ -1,0 +1,43 @@
+id: world-heritage-center-exhibition
+name: World Heritage Center Exhibition
+venue: world-heritage-center
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: ga-collaborative
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: ga-collaborative
+    role: interpretive-planning
+    note: "no firm record yet"
+  - firm: alta-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: studio-practice
+    role: fabrication
+    note: "no firm record yet"
+  - firm: blue-telescope
+    role: media-design
+    note: "no firm record yet"
+  - firm: videobred
+    role: content-production
+    note: "no firm record yet"
+  - firm: bbi-engineering
+    role: av-integration
+    note: "no firm record yet"
+  - firm: sna-displays
+    role: av-integration
+    note: "LED video hardware; no firm record yet"
+technologies:
+  - LED video triptych
+  - projection
+summary: >
+  The World Heritage Center, a nearly 6,000-square-foot museum and visitor
+  center interpreting San Antonio's Spanish colonial missions, opened in
+  December 2024 with exhibit design and interpretive planning by G&A for the
+  City of San Antonio's World Heritage Office.
+description: ""
+sources:
+  - https://segd.org/projects/world-heritage-center/
+  - https://gallagherdesign.com/project/world-heritage-center/
+  - https://www.sanantonio.gov/WorldHeritage/Work-Plan-Updates/World-Heritage-Center

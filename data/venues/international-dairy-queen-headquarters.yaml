@@ -1,0 +1,10 @@
+id: international-dairy-queen-headquarters
+name: International Dairy Queen Headquarters
+venue_type: brand-experience-center
+location:
+  city: Bloomington
+  state: MN
+operator: International Dairy Queen, Inc.
+sources:
+  - https://segd.org/international-dairy-queen-inc-corporate-headquarters
+  - https://hga.com/dairy-queen-wins-global-experiential-graphic-design-award/

@@ -1,0 +1,32 @@
+id: grounds-for-sculpture-cloud-swing
+name: Cloud Swing
+venue: grounds-for-sculpture
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: isometric-studio
+    role: architecture
+    note: "no firm record yet"
+  - firm: serett-metalworks
+    role: fabrication
+    note: "no firm record yet"
+  - firm: oliver-construction
+    role: fabrication
+    note: "no firm record yet"
+technologies:
+  - accessible/wheelchair-adaptive swing hardware
+summary: >
+  Cloud Swing, an accessible public swing-set installation funded by Wellcome
+  Trust, opened at Grounds For Sculpture in Hamilton, New Jersey, in August
+  2023, designed by Isometric Studio.
+description: >
+  The installation is a cloud-shaped, electric-blue steel canopy on tripod
+  legs suspending two wheelchair-accessible swings and three plank swings,
+  developed with input from disability activist Trina Hazell and INCLUDEnyc
+  as part of Wellcome Trust's Mindscapes mental-health program. It received a
+  2024 SEGD Global Design Award (Public Installation).
+sources:
+  - https://segd.org/projects/cloud-swing/
+  - https://isometricstudio.com/cloud-swing
+  - https://www.groundsforsculpture.org/exhibitions/cloud-swing/
+  - https://design-milk.com/cloud-swing-is-good-design-providing-accessible-play-for-all/

@@ -1,0 +1,24 @@
+id: university-of-oregon-student-welcome-center
+name: Student Welcome Center
+venue: university-of-oregon
+project_type: new-exhibition
+year_completed: 2022
+credits:
+  - firm: advent
+    role: exhibit-design
+  - firm: advent
+    role: media-design
+    note: "Projection-mapped interactive book and interactive discovery lockers"
+technologies:
+  - projection mapping
+summary: >
+  The Student Welcome Center at the University of Oregon in Eugene, an
+  experiential admissions and welcome space built around the "Rewarding
+  Curiosity" concept, opened in January 2022; it was designed by Advent and
+  includes fifteen interactive discovery lockers, a projection-mapped
+  "enchanted book," a working postcard mail room, and an alumni library.
+description: ""
+sources:
+  - https://segd.org/projects/rewarding-curiosity-student-welcome-center/
+  - https://www.adventmovespeople.com/projects/university-oregon-0/
+  - https://www.adventmovespeople.com/oregon-welcome-center-segd-award/

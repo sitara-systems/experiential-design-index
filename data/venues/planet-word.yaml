@@ -1,0 +1,11 @@
+id: planet-word
+name: Planet Word
+venue_type: other
+location:
+  city: Washington
+  state: DC
+operator: Planet Word (housed in the Franklin School, a National Historic Landmark)
+website: https://planetwordmuseum.org
+sources:
+  - https://www.prnewswire.com/news-releases/dcs-newest-museum-planet-word-opens-to-the-public-301157565.html
+  - https://www.washingtonpost.com/goingoutguide/museums/planet-word-opens-in-downtown-washington/2020/10/19/afe7d722-0f59-11eb-8a35-237ef1eb2ef7_story.html

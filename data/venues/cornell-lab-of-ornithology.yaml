@@ -1,0 +1,11 @@
+id: cornell-lab-of-ornithology
+name: Cornell Lab of Ornithology Visitor Center
+venue_type: visitor-center
+location:
+  city: Ithaca
+  state: NY
+operator: Cornell University
+website: https://www.birds.cornell.edu
+sources:
+  - https://news.cornell.edu/stories/2025/11/cornell-lab-ornithology-receives-multiple-awards-its-visitor-center
+  - https://www.cgpartnersllc.com/projects/cornell-lab-of-ornithology/

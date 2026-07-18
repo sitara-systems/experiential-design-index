@@ -1,0 +1,10 @@
+id: alaska-airlines-the-hub-seatac
+name: Alaska Airlines "The Hub" (Copper River)
+venue_type: other
+location:
+  city: SeaTac
+  state: WA
+operator: Alaska Airlines
+sources:
+  - https://www.nbbj.com/work/alaska-airlines-copper-river-egd
+  - https://www.businesswire.com/news/home/20200729005154/en/Howard-S.-Wright-Celebrates-the-Opening-of-Alaska-Airlines%E2%80%99-%E2%80%9CThe-Hub%E2%80%9D-in-SeaTac-Washington

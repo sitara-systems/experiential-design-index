@@ -1,0 +1,10 @@
+id: us-olympic-and-paralympic-museum
+name: United States Olympic & Paralympic Museum
+venue_type: sports-venue
+location:
+  city: Colorado Springs
+  state: CO
+website: https://usopm.org
+sources:
+  - https://usopm.org
+  - https://en.wikipedia.org/wiki/United_States_Olympic_%26_Paralympic_Museum

@@ -1,0 +1,10 @@
+id: osborne-legacy-complex-unl
+name: Osborne Legacy Complex
+venue_type: sports-venue
+location:
+  city: Lincoln
+  state: NE
+operator: University of Nebraska-Lincoln
+sources:
+  - https://populous.com/showcases/university-of-nebraska-lincoln-osborne-legacy-complex
+  - https://segd.org/projects/university-of-nebraska-lincoln-osborne-legacy-complex/

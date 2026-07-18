@@ -1,0 +1,10 @@
+id: grounds-for-sculpture
+name: Grounds For Sculpture
+venue_type: art-museum
+location:
+  city: Hamilton
+  state: NJ
+website: https://www.groundsforsculpture.org
+sources:
+  - https://www.groundsforsculpture.org/exhibitions/cloud-swing/
+  - https://en.wikipedia.org/wiki/Grounds_For_Sculpture

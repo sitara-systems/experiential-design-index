@@ -1,0 +1,10 @@
+id: university-of-hawaii-at-manoa
+name: University of Hawaiʻi at Mānoa
+venue_type: academic-institution
+location:
+  city: Honolulu
+  state: HI
+website: https://manoa.hawaii.edu
+sources:
+  - https://www.uhcdc.manoa.hawaii.edu/work/wayfinding-and-signage
+  - https://www.hawaii.edu/news/2023/05/02/hawaiian-signage-award/

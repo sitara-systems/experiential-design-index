@@ -1,0 +1,43 @@
+id: kimmel-center-seat-at-the-table
+name: Seat at the Table
+venue: kimmel-center-philadelphia
+project_type: temporary-exhibition
+year_completed: 2020
+credits:
+  - firm: dome-collective
+    role: exhibit-design
+    note: "Exhibition strategy, creative direction, and design lead (Lynn Kiang); commemorated the centennial of the 19th Amendment for Drexel University's Institute for Women's Health & Leadership / Vision 2020"
+  - firm: dome-collective
+    role: interpretive-planning
+  - firm: art-guild-inc
+    role: fabrication
+    note: "no firm record yet"
+  - firm: makerb-studio
+    role: fabrication
+    note: "Soft furnishings design; no firm record yet"
+  - firm: this-is-our-work
+    role: graphics-wayfinding
+    note: "Graphic design; closest vocabulary fit — credit is for general graphic design, not wayfinding specifically. No firm record yet"
+  - firm: bad-idea-factory
+    role: media-design
+    note: "Software development for interactive screens; no firm record yet"
+technologies:
+  - interactive touchscreens
+  - custom furniture / environmental graphics
+summary: >
+  Seat at the Table, a temporary exhibition marking the centennial of the 19th
+  Amendment, opened March 2020 at the Kimmel Center for the Performing Arts in
+  Philadelphia, designed by Dome Collective for Drexel University's Institute
+  for Women's Health & Leadership and Vision 2020.
+description: >
+  Visitors encountered seven public seating areas of custom-built furniture
+  and large floor typography, sitting within human-scale infographics that
+  embody the uneven ratios of women to men in work, government, and society.
+  Six interactive screens featured dynamic quotes, portraits, and
+  contributions of eighteen pioneering women since 1920, alongside a "What's
+  Your Vision?" visitor poll on gender-equity issues. The project won SEGD's
+  2021 Sylvia Harris Award for social impact.
+sources:
+  - https://segd.org/projects/seat-at-the-table/
+  - https://blooloop.com/museum/news/segd-winners-global-design-awards-2021/
+  - https://drexel.edu/vision2020/events/calendar/details/?eid=28356&iid=74358

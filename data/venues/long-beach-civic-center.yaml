@@ -1,0 +1,10 @@
+id: long-beach-civic-center
+name: Long Beach Civic Center
+venue_type: public-space
+location:
+  city: Long Beach
+  state: CA
+operator: City of Long Beach
+sources:
+  - https://segd.org/projects/long-beach-police-and-fire-department-memorial/
+  - https://www.longbeach.gov/press-releases/long-beach-officials-honor-the-fallen-at-annual-police-and-fire-memorial-ceremony3/

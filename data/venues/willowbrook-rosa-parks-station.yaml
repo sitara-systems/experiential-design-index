@@ -1,0 +1,11 @@
+id: willowbrook-rosa-parks-station
+name: Willowbrook / Rosa Parks Station
+venue_type: public-space
+location:
+  city: Los Angeles
+  state: CA
+operator: Los Angeles County Metropolitan Transportation Authority (Metro)
+website: https://www.metro.net
+sources:
+  - https://www.metro.net/about/l-a-metro-celebrates-completion-of-construction-for-the-state-of-the-art-willowbrook-rosa-parks-station/
+  - https://thesourcearchives.metro.net/2021/11/19/a-closer-look-at-the-environmental-graphic-design-at-willowbrook-rosa-parks-station/

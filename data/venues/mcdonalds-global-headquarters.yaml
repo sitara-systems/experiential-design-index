@@ -1,0 +1,10 @@
+id: mcdonalds-global-headquarters
+name: McDonald's Global Headquarters
+venue_type: brand-experience-center
+location:
+  city: Chicago
+  state: IL
+operator: McDonald's Corporation
+sources:
+  - https://segd.org/projects/mcdonalds-headquarters-interactives/
+  - https://www.sixteen-nine.net/2019/06/28/a-look-inside-mcdonalds-new-interactive-screen-filled-global-hq/

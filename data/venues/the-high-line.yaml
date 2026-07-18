@@ -1,0 +1,9 @@
+id: the-high-line
+name: The High Line
+venue_type: public-space
+location:
+  city: New York
+  state: NY
+website: https://www.thehighline.org
+sources:
+  - https://www.thehighline.org

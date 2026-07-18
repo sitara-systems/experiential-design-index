@@ -1,0 +1,10 @@
+id: downey-city-library
+name: Downey City Library
+venue_type: library-archive
+location:
+  city: Downey
+  state: CA
+website: https://www.downeylibrary.org
+sources:
+  - https://segd.org/projects/downey-city-library/
+  - https://www.nacarchitecture.com/projects/downey-city-public-library

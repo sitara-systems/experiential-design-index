@@ -1,0 +1,39 @@
+# Firm record — Gallagher & Associates
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: gallagher-and-associates
+name: Gallagher & Associates
+aka:
+  - G&A
+website: https://gallagherdesign.com
+hq:
+  city: New York
+  state: NY
+other_offices:
+  - city: Washington
+    state: DC
+  - city: Portland
+    state: OR
+founded: 1999
+roles:
+  - exhibit-design
+  - interpretive-planning
+  - media-design
+status: active
+status_basis: >
+  Exhibit design credited on the National Medal of Honor Museum, which
+  opened March 22, 2025 in Arlington, TX; active project portfolio and
+  "Insights" articles maintained on gallagherdesign.com as of this check.
+status_verified: 2026-07-18
+summary: >
+  Gallagher & Associates (trading as G&A) is a New York-based museum and
+  experience planning and design firm founded in 1999 by Patrick Gallagher,
+  with additional offices in Washington, DC and Portland, OR, working on
+  museum, exhibition, and themed-entertainment projects.
+sources:
+  - https://gallagherdesign.com/
+  - https://gallagherdesign.com/contact/
+  - https://www.linkedin.com/company/gallagher-&-associates
+  - https://blooloop.com/theme-park/in-depth/g-a-new-chapter-gallagher-associates/
+  - https://gallagherdesign.com/project/national-medal-of-honor-museum/
+  - https://www.architecturalrecord.com/articles/17450-rafael-vinoly-architectss-national-medal-of-honor-museum-opens-in-arlington-texas

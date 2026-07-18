@@ -1,0 +1,10 @@
+id: louisiana-childrens-museum
+name: Louisiana Children's Museum
+venue_type: childrens-museum
+location:
+  city: New Orleans
+  state: LA
+website: https://lcm.org
+sources:
+  - https://segd.org/projects/louisiana-childrens-museum/
+  - https://studiomatthews.com/project/louisiana-childrens-museum-louisiana-childrens-museumbranding/

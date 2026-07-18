@@ -1,0 +1,28 @@
+id: allianz-field-united-sculpture
+name: United Sculpture at Allianz Field
+venue: allianz-field
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: populous
+    role: architecture
+    note: "Site design and detailing for a 65-foot-wide inscribed monument honoring the Itasca Society season-ticket members; no firm record yet"
+  - firm: jones-sign-company
+    role: fabrication
+    note: "Waterjet-cut aluminum panels; no firm record yet"
+technologies:
+  - waterjet-cut metal panels
+summary: >
+  United Sculpture, a 65-foot-wide monument inscribed with the names of
+  4,058 inaugural-season ticket holders, opened April 2019 on the south
+  lawn of Allianz Field in Saint Paul, Minnesota, designed by Populous.
+description: >
+  The sculpture reads as smooth lettering from a distance, resolving into
+  individually legible inscribed names within about 12 feet, each waterjet-
+  cut into aluminum panels. It honors the "Itasca Society," Minnesota
+  United FC's founding season-ticket members, and sits in the public plaza
+  Populous also designed around the stadium. The project won a 2021 SEGD
+  Global Design Award Merit Award in the Public Installation category.
+sources:
+  - https://segd.org/projects/the-united-sculpture-at-allianz-field/
+  - https://populous.com/article/how-populous-brought-brands-to-life-throughout-allianz-field

@@ -1,0 +1,11 @@
+id: world-heritage-center
+name: World Heritage Center
+venue_type: visitor-center
+location:
+  city: San Antonio
+  state: TX
+operator: City of San Antonio World Heritage Office
+website: https://www.sanantonio.gov/WorldHeritage
+sources:
+  - https://www.sanantonio.gov/WorldHeritage/Work-Plan-Updates/World-Heritage-Center
+  - https://gallagherdesign.com/project/world-heritage-center/

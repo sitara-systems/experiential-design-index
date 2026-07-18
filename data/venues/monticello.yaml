@@ -1,0 +1,11 @@
+id: monticello
+name: Monticello
+venue_type: history-museum
+location:
+  city: Charlottesville
+  state: VA
+operator: Thomas Jefferson Foundation
+website: https://www.monticello.org
+sources:
+  - https://www.monticello.org/visit/tips-for-visiting/burial-ground-for-enslaved-people/
+  - https://hga.com/projects/thomas-jefferson-foundation-monticello-contemplative-site-and-burial-ground-for-enslaved-people/

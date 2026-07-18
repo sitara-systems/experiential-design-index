@@ -1,0 +1,33 @@
+id: smithsonian-nmai-heye-center-native-new-york
+name: Native New York
+venue: smithsonian-nmai-heye-center
+project_type: new-exhibition
+year_completed: 2021
+credits:
+  - firm: c-and-g-partners
+    role: exhibit-design
+  - firm: c-and-g-partners
+    role: media-design
+  - firm: ewingcole
+    role: architecture
+    note: "No firm record yet."
+  - firm: hadley-exhibits
+    role: fabrication
+    note: "No firm record yet."
+  - firm: diversified
+    role: av-integration
+    note: "No firm record yet."
+technologies:
+  - interactive media
+  - touchable object stations
+summary: >
+  Native New York, a long-term exhibition tracing twelve sites of Native
+  history and presence across New York State and New York City, opened at
+  the Smithsonian's National Museum of the American Indian, George Gustav
+  Heye Center in Manhattan on October 25, 2021; exhibition, graphic, and
+  media design by C&G Partners.
+description: ""
+sources:
+  - https://segd.org/projects/native-new-york/
+  - https://www.cgpartnersllc.com/projects/native-new-york/
+  - https://www.si.edu/exhibitions/native-new-york:event-exhib-6292

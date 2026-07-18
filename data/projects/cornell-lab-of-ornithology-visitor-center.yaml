@@ -1,0 +1,42 @@
+id: cornell-lab-of-ornithology-visitor-center
+name: Cornell Lab of Ornithology Visitor Center
+venue: cornell-lab-of-ornithology
+project_type: major-renovation
+year_completed: 2024
+credits:
+  - firm: c-and-g-partners
+    role: exhibit-design
+  - firm: c-and-g-partners
+    role: interpretive-planning
+  - firm: richard-mcelhiney-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: hadley-exhibits
+    role: fabrication
+    note: "no firm record yet"
+  - firm: diversified
+    role: av-integration
+    note: "no firm record yet"
+  - firm: phase-shift-consulting
+    role: technical-consulting
+    note: "AV consulting; no firm record yet"
+  - firm: two-left-hands
+    role: media-design
+    note: "no firm record yet"
+  - firm: available-light
+    role: lighting-design
+    note: "no firm record yet"
+technologies:
+  - interactive kiosks
+  - motion graphics
+summary: >
+  The Cornell Lab of Ornithology Visitor Center, a renovated exhibition space
+  on a nature sanctuary pond in Ithaca, New York centered on the Adelson
+  Family Bird Discovery Lab, reopened in June 2024 with exhibits, interpretive
+  graphics, and interactive experiences designed by C&G Partners for Cornell
+  University.
+description: ""
+sources:
+  - https://segd.org/projects/cornell-lab-of-ornithology/
+  - https://www.cgpartnersllc.com/projects/cornell-lab-of-ornithology/
+  - https://news.cornell.edu/stories/2025/11/cornell-lab-ornithology-receives-multiple-awards-its-visitor-center

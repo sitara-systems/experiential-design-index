@@ -1,0 +1,9 @@
+id: university-of-california-davis
+name: University of California, Davis
+venue_type: academic-institution
+location:
+  city: Davis
+  state: CA
+website: https://www.ucdavis.edu
+sources:
+  - https://arts.ucdavis.edu/announcement/niloufar-abdolmaleki-receives-segd-award

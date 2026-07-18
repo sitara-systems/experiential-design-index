@@ -1,0 +1,43 @@
+id: top-of-the-rock-reimagined
+name: Top of the Rock Reimagined
+venue: top-of-the-rock
+project_type: major-renovation
+year_completed: 2024
+credits:
+  - firm: thg-creative
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: mda
+    role: architecture
+    note: "no firm record yet"
+  - firm: tait
+    role: fabrication
+    note: "no firm record yet"
+  - firm: cimolai
+    role: fabrication
+    note: "Structural steel fabrication; no firm record yet"
+  - firm: electrosonic
+    role: av-integration
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: "no firm record yet"
+  - firm: disguise
+    role: media-design
+    note: "Media server/show control technology; no firm record yet"
+  - firm: hunt-design
+    role: graphics-wayfinding
+    note: "no firm record yet"
+technologies:
+  - projection mapping
+  - media server show control
+summary: >
+  Top of the Rock Reimagined, a multiyear reinvention of Rockefeller Center's
+  observation-deck visitor experience in New York City including a new
+  projection-mapped Welcome Gallery and the Beam and Skylift attractions,
+  was completed in October 2024 by THG Creative for owner-operator Tishman
+  Speyer.
+description: ""
+sources:
+  - https://segd.org/projects/top-of-the-rock/
+  - https://thgcreative.com/thg-top-of-the-rock/
+  - https://www.prnewswire.com/news-releases/thg-creative-and-tishman-speyer-reimagine-rockefeller-centers-top-of-the-rock-observation-deck-302268337.html

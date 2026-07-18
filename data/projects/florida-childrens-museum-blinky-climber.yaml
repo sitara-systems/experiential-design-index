@@ -1,0 +1,24 @@
+id: florida-childrens-museum-blinky-climber
+name: The Blinky Climber
+venue: florida-childrens-museum
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: gyroscope-inc
+    role: exhibit-design
+  - firm: sasaki
+    role: architecture
+    note: "no firm record yet"
+  - firm: universal-services-associates
+    role: fabrication
+    note: "no firm record yet"
+technologies: []
+summary: >
+  The Blinky Climber, a 100-foot outdoor alligator climbing structure at the
+  Florida Children's Museum in Lakeland's Bonnet Springs Park, opened in June
+  2023 and was designed by Gyroscope Inc.
+description: ""
+sources:
+  - https://segd.org/projects/the-blinky-climber/
+  - https://www.gyroscopeinc.com/fcm
+  - https://lakelandmom.com/florida-childrens-museum/

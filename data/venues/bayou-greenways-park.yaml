@@ -1,0 +1,11 @@
+id: bayou-greenways-park
+name: Bayou Greenways Park
+venue_type: public-space
+location:
+  city: Houston
+  state: TX
+operator: Houston Parks Board
+website: https://houstonparksboard.org/initiatives/bayou-greenways/
+sources:
+  - https://segd.org/projects/bayou-greenways-park/
+  - https://houstonparksboard.org/initiatives/bayou-greenways/

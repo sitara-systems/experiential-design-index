@@ -1,0 +1,11 @@
+id: the-glass-lab-portland
+name: The Glass Lab
+venue_type: other
+location:
+  city: Portland
+  state: OR
+operator: ScanlanKemperBard (SKB)
+website: https://www.glasslabpdx.com
+sources:
+  - https://www.trybaarchitects.com/portfolio/the-glass-lab
+  - https://www.glasslabpdx.com

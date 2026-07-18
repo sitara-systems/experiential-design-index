@@ -1,0 +1,9 @@
+id: museum-of-science-boston
+name: Museum of Science, Boston
+venue_type: science-center
+location:
+  city: Boston
+  state: MA
+website: https://www.mos.org
+sources:
+  - https://www.mos.org

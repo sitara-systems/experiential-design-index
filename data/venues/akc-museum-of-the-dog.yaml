@@ -1,0 +1,11 @@
+id: akc-museum-of-the-dog
+name: AKC Museum of the Dog
+venue_type: other
+location:
+  city: New York
+  state: NY
+operator: American Kennel Club
+website: https://www.museumofthedog.org
+sources:
+  - https://segd.org/projects/akc-museum-dog/
+  - https://www.gensler.com/projects/akc-museum-of-the-dog

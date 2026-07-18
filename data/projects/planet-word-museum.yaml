@@ -1,0 +1,36 @@
+id: planet-word-museum
+name: Planet Word
+venue: planet-word
+project_type: major-renovation
+year_completed: 2020
+credits:
+  - firm: beyer-blinder-belle
+    role: architecture
+    note: >
+      No firm record yet. Preservation and rehabilitation of the Franklin
+      School, a National Historic Landmark, into the museum building.
+  - firm: local-projects
+    role: exhibit-design
+  - firm: local-projects
+    role: media-design
+  - firm: solomon-group
+    role: fabrication
+    note: "No firm record yet."
+  - firm: solomon-group
+    role: av-integration
+    note: "No firm record yet."
+technologies:
+  - voice interaction
+  - interactive projection
+  - touchscreen media
+summary: >
+  Planet Word, a voice-interactive museum of language housed in the
+  landmark Franklin School building, opened to the public in Washington, DC
+  on October 22, 2020; exhibition and media design by Local Projects, with
+  architecture by Beyer Blinder Belle and exhibit fabrication/AV
+  integration by Solomon Group.
+description: ""
+sources:
+  - https://segd.org/projects/planet-word-museum-of-language/
+  - https://localprojects.com/work/museums-attractions/planet-word-museum-of-words-and-language/
+  - https://www.prnewswire.com/news-releases/dcs-newest-museum-planet-word-opens-to-the-public-301157565.html

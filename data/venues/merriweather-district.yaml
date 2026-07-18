@@ -1,0 +1,11 @@
+id: merriweather-district
+name: Merriweather District
+venue_type: public-space
+location:
+  city: Columbia
+  state: MD
+operator: The Howard Hughes Corporation
+website: https://merriweatherdistrict.com
+sources:
+  - https://segd.org/projects/merriweather-district/
+  - https://merriweatherdistrict.com/

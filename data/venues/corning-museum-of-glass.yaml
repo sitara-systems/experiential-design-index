@@ -1,0 +1,10 @@
+id: corning-museum-of-glass
+name: Corning Museum of Glass
+venue_type: art-museum
+location:
+  city: Corning
+  state: NY
+website: https://www.cmog.org
+sources:
+  - https://whatson.cmog.org/exhibitions-galleries/new-glass-now
+  - https://segd.org/new-glass-now

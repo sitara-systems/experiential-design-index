@@ -1,0 +1,29 @@
+id: solomon-group
+name: Solomon Group
+aka: []
+website: https://solomongroup.com
+hq:
+  city: New Orleans
+  state: LA
+other_offices:
+  - city: Elmwood
+    state: LA
+founded: 2009
+roles:
+  - fabrication
+  - av-integration
+status: active
+status_basis: >
+  Beverage Lab exhibit for World of Coca-Cola opened November 2024; homepage
+  and news section list ongoing 2025 work (e.g. Event Marketer IT List 2025
+  recognition) as of this check.
+status_verified: 2026-07-18
+summary: >
+  Solomon Group is a New Orleans-based experiential production company
+  founded in 2009, providing exhibit fabrication and AV systems integration
+  for museums and themed environments alongside its live-events production
+  business.
+sources:
+  - https://solomongroup.com/
+  - https://solomongroup.com/about
+  - https://solomongroup.com/projects/world-of-coca-cola-beverage-lab

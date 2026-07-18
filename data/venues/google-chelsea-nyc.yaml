@@ -1,0 +1,9 @@
+id: google-chelsea-nyc
+name: Google Chelsea Office
+venue_type: brand-experience-center
+location:
+  city: New York
+  state: NY
+operator: Google
+sources:
+  - https://segd.org/projects/rising-together-black-experience-police-america/

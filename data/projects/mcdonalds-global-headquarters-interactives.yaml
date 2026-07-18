@@ -1,0 +1,32 @@
+id: mcdonalds-global-headquarters-interactives
+name: McDonald's Headquarters Interactives
+venue: mcdonalds-global-headquarters
+project_type: installation
+year_completed: 2018
+credits:
+  - firm: leviathan
+    role: media-design
+    note: "no firm record yet"
+  - firm: ia-interior-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: studio-o-plus-a
+    role: architecture
+    note: "no firm record yet"
+  - firm: avi-spl
+    role: av-integration
+    note: "no firm record yet"
+technologies:
+  - touch-responsive displays
+  - interactive video wall
+  - real-time content system
+summary: >
+  McDonald's Headquarters Interactives, a suite of interactive digital
+  installations throughout McDonald's global headquarters in Chicago,
+  opened in June 2018, designed by Leviathan with architecture by IA Interior
+  Architects and Studio O+A; it received a 2020 SEGD Global Design Award
+  Merit Award in the Interactive Experience category.
+description: ""
+sources:
+  - https://segd.org/projects/mcdonalds-headquarters-interactives/
+  - https://www.sixteen-nine.net/2019/06/28/a-look-inside-mcdonalds-new-interactive-screen-filled-global-hq/

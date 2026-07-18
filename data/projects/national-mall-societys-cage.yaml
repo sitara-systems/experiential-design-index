@@ -1,0 +1,33 @@
+id: national-mall-societys-cage
+name: Society's Cage
+venue: national-mall
+project_type: installation
+year_completed: 2020
+credits:
+  - firm: smithgroup
+    role: architecture
+    note: >
+      No firm record yet. Pro bono pavilion self-initiated and designed by a
+      team within SmithGroup's Washington, DC office (credited publicly as
+      the "Society's Cage Design Team (CAOS)"); SmithGroup was primary
+      sponsor.
+  - firm: gronning-design-manufacturing
+    role: fabrication
+    note: "No firm record yet. Physical fabrication."
+  - firm: abc-imaging
+    role: fabrication
+    note: "No firm record yet. Digital fabrication."
+technologies:
+  - projection mapping
+summary: >
+  Society's Cage, a public pavilion installation confronting systemic racism
+  through cage-like structures inscribed with statistics and testimony,
+  opened on the National Mall in Washington, DC in August 2020; it was
+  self-initiated and designed by a team within SmithGroup's Washington, DC
+  office, with fabrication by Gronning Design + Manufacturing and ABC
+  Imaging.
+description: ""
+sources:
+  - https://segd.org/projects/societys-cage/
+  - https://architectsfoundation.org/societys-cage-installation-opens-on-the-national-mall/
+  - https://dcist.com/story/20/08/31/an-art-installation-on-the-national-mall-depicts-systemic-racism/

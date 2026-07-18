@@ -1,0 +1,10 @@
+id: west-hill-alley-albany
+name: West Hill Alley
+venue_type: public-space
+location:
+  city: Albany
+  state: NY
+operator: City of Albany
+sources:
+  - https://albanyny.gov/2145/The-HIVE-a-community-led-redesign-of-pub
+  - https://www.vanalen.org/press/unveiling-albany-hive/

@@ -1,0 +1,26 @@
+id: museum-of-the-city-of-new-york-who-we-are
+name: "Who We Are: Visualizing NYC by the Numbers"
+venue: museum-of-the-city-of-new-york
+project_type: temporary-exhibition
+year_completed: 2019
+credits:
+  - firm: isometric-studio
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: parz-designs
+    role: fabrication
+    note: "no firm record yet"
+technologies:
+  - data visualization
+  - interactive touchscreens
+  - projection
+summary: >
+  Who We Are: Visualizing NYC by the Numbers, a temporary exhibition on the
+  2020 U.S. Census told through data-visualization artworks, opened at the
+  Museum of the City of New York in November 2019, designed by Isometric
+  Studio; it received a 2020 SEGD Global Design Award Merit Award in the
+  Exhibition category.
+description: ""
+sources:
+  - https://segd.org/projects/who-we-are-visualizing-nyc-numbers/
+  - https://www.mcny.org/exhibition/who-we-are

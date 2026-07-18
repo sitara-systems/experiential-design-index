@@ -1,0 +1,9 @@
+id: baltimore-museum-of-industry
+name: Baltimore Museum of Industry
+venue_type: history-museum
+location:
+  city: Baltimore
+  state: MD
+website: https://www.thebmi.org
+sources:
+  - https://www.thebmi.org/exhibits/food-for-thought/

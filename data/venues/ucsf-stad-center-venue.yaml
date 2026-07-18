@@ -1,0 +1,10 @@
+id: ucsf-stad-center-venue
+name: Stad Center for Pediatric Pain, Palliative & Integrative Medicine
+venue_type: healthcare-institution
+location:
+  city: San Francisco
+  state: CA
+operator: UCSF Benioff Children's Hospitals
+sources:
+  - https://realestate.ucsf.edu/content/new-ucsf-pediatric-clinic-redefines-healing-innovative-child-friendly-design
+  - https://www.nbbj.com/work/ucsf-pediatric-stad-center

@@ -1,0 +1,29 @@
+id: lake-union-park-forest-network
+name: Forest Net(work)
+venue: lake-union-park
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: nbbj
+    role: architecture
+    note: "Design and build lead for the temporary structure"
+  - firm: nbbj
+    role: fabrication
+  - firm: nbbj
+    role: graphics-wayfinding
+    note: "Mycelium- and hemp-based signage grown in-house and composted after the installation; landscape design by Berger Partnership and construction logistics by GLY are also credited but hold no delivery-stack role in this vocabulary (no firm record yet)"
+technologies:
+  - mycelium-grown signage
+  - biodegradable/compostable materials
+summary: >
+  Forest Net(work), a temporary zero-waste public installation honoring the
+  Puget Lowlands Forest biome, was designed and built by NBBJ with landscape
+  design by Berger Partnership for the 2022 Seattle Design Festival Block
+  Party at Lake Union Park in Seattle; it gave away 600 native trees, shrubs,
+  and ground covers to festival visitors and used mycelium-grown signage that
+  was composted after the event.
+description: ""
+sources:
+  - https://segd.org/projects/forest-network-2/
+  - https://www.bergerpartnership.com/activity/forest-network-at-the-seattle-design-festival/
+  - https://seadesignfest.org/event/forest-network/

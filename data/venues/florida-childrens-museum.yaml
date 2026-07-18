@@ -1,0 +1,11 @@
+id: florida-childrens-museum
+name: Florida Children's Museum
+venue_type: childrens-museum
+location:
+  city: Lakeland
+  state: FL
+operator: Bonnet Springs Park
+website: https://explorefcm.org
+sources:
+  - https://www.gyroscopeinc.com/fcm
+  - https://lakelandmom.com/florida-childrens-museum/

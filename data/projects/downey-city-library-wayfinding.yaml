@@ -1,0 +1,26 @@
+id: downey-city-library-wayfinding
+name: Downey City Library Environmental Graphics and Wayfinding
+venue: downey-city-library
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: nac-architecture
+    role: architecture
+    note: "No firm record yet."
+  - firm: handbuilt-studio
+    role: graphics-wayfinding
+    note: "No firm record yet. Custom lobby wayfinding sculpture, signage, and murals."
+  - firm: the-sh-group
+    role: fabrication
+    note: "No firm record yet."
+technologies:
+  - custom aluminum sculpture
+summary: >
+  Downey City Library, a new public library in Downey, California with
+  nature-inspired environmental graphics and wayfinding including a custom
+  aluminum lobby sculpture, opened in May 2021; architecture by NAC
+  Architecture, environmental and graphic design by Handbuilt Studio.
+description: ""
+sources:
+  - https://segd.org/projects/downey-city-library/
+  - https://www.nacarchitecture.com/projects/downey-city-public-library
