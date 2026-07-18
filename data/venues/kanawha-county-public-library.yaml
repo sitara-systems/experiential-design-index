@@ -1,0 +1,10 @@
+id: kanawha-county-public-library
+name: Kanawha County Public Library
+venue_type: library-archive
+location:
+  city: Charleston
+  state: WV
+website: https://www.kcpls.org
+sources:
+  - https://silling.com/project/kanawha-county-public-library/
+  - https://rsmdesign.com/work/kanawha-county-public-library

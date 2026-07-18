@@ -1,0 +1,11 @@
+id: sphere-las-vegas
+name: Sphere
+venue_type: themed-attraction
+location:
+  city: Las Vegas
+  state: NV
+operator: Sphere Entertainment Co.
+website: https://www.thesphere.com
+sources:
+  - https://www.sphereentertainmentco.com/sphere-and-icrave-reveal-innovative-interior-design-details-from-las-vegas-newest-entertainment-destination/
+  - https://en.wikipedia.org/wiki/Sphere_(venue)

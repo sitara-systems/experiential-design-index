@@ -1,0 +1,45 @@
+id: atlanta-history-center-cyclorama
+name: "Cyclorama: The Big Picture"
+venue: atlanta-history-center
+project_type: new-building
+year_completed: 2019
+credits:
+  - firm: shibui-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: cortina-productions
+    role: media-design
+    note: >
+      "Rotunda Film" — a 12-minute projected show across 125 ft of the
+      restored Cyclorama painting, using five projectors; won a 2020 AAM
+      MUSE Award (Video, Film, Animation & Live Media, bronze)
+  - firm: cei
+    role: av-integration
+    note: "Communications and Entertainment, Inc.; A/V design-build; no firm record yet"
+  - firm: malone-design
+    role: fabrication
+    note: "Malone Design/Fabrication; exhibit fabrication; no firm record yet"
+  - firm: avyve
+    role: av-integration
+    note: "Exhibit fabrication and A/V integration; no firm record yet"
+  - firm: building-four-fabrication
+    role: fabrication
+    note: "Cyclorama diorama fabrication; no firm record yet"
+technologies:
+  - projection mapping
+  - diorama
+summary: >
+  Cyclorama: The Big Picture opened February 22, 2019 at the Atlanta History
+  Center in Atlanta, housing the restored 1886 "Battle of Atlanta" cyclorama
+  painting in a new custom-built rotunda; exhibit design by Shibui Design,
+  A/V design-build by CEI, and diorama and exhibit fabrication by Building
+  Four Fabrication, Malone Design/Fabrication, and Avyve. Cortina
+  Productions' companion "Rotunda Film," projected onto the painting itself,
+  won a 2020 AAM MUSE Award.
+description: ""
+sources:
+  - https://segd.org/projects/cyclorama-the-big-picture-rotunda-film/
+  - https://www.cortinaproductions.com/projects/atlanta-history-center/
+  - https://www.atlantahistorycenter.com/exhibitions/cyclorama/
+  - https://roughdraftatlanta.com/2019/02/21/battle-of-atlanta-cyclorama-painting-returns-to-view-with-big-picture-on-civil-war/
+  - https://www.aam-us.org/programs/awards-recognition/2020-muse-award-winners/

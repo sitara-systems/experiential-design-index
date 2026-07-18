@@ -1,0 +1,11 @@
+id: 150-media-stream
+name: 150 Media Stream
+venue_type: public-space
+location:
+  city: Chicago
+  state: IL
+operator: Riverside Investment & Development (150 North Riverside Plaza)
+website: https://150mediastream.com
+sources:
+  - https://150mediastream.com/about/
+  - https://segd.org/150-media-stream

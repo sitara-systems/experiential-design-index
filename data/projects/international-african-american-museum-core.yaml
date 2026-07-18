@@ -11,18 +11,47 @@ credits:
     role: fabrication
   - firm: solomon-group
     role: av-integration
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: ralph-appelbaum-associates
+    role: interpretive-planning
+    note: "Planned narrative flow of the nine interior galleries; led community forums shaping the interpretive approach"
+  - firm: pei-cobb-freed-and-partners
+    role: architecture
+    note: "Design architect; Henry N. Cobb lead designer"
+  - firm: moody-nolan
+    role: architecture
+    note: "Co-architect / architect of record"
+  - firm: cortina-productions
+    role: media-design
+    note: "Multimedia exhibit design; no firm record yet"
+  - firm: technical-artistry
+    role: lighting-design
+    note: "Exhibit lighting design"
+  - firm: zone-display-cases
+    role: fabrication
+    note: "Museum display case fabrication; no firm record yet"
 technologies:
   - artifact display
   - AV systems
 summary: >
   The International African American Museum, a 40,000-square-foot museum at
   Charleston, South Carolina's historic Gadsden's Wharf, opened June 27,
-  2023; Solomon Group served as project consultant, exhibit fabricator, and
+  2023, with architecture by Pei Cobb Freed & Partners and Moody Nolan,
+  exhibition design and interpretive planning by Ralph Appelbaum Associates,
+  and Solomon Group serving as project consultant, exhibit fabricator, and
   AV integrator during late-stage design development and installation.
 description: >
   The museum received a 2025 Thea Award for Outstanding Achievement from the
-  Themed Entertainment Association.
+  Themed Entertainment Association, and was a 2024 Fast Company Innovation
+  by Design Awards finalist in the Spaces and Places category (credited to
+  Ralph Appelbaum Associates). Landscape design by Hood Design Studio is not
+  captured as a project credit — the vocabulary has no landscape-architecture
+  role (logged gap).
 sources:
   - https://solomongroup.com/projects/the-international-african-american-museum
   - https://iaamuseum.org/
   - https://www.forbes.com/sites/chaddscott/2023/06/28/international-african-american-museum-opens-in-charleston-sc/
+  - https://raai.com/project/international-african-american-museum/
+  - https://www.pcf-p.com/news/international-african-american-museum-open-saturday/
+  - https://www.fastcompany.com/91129806/spaces-places-innovation-by-design-2024

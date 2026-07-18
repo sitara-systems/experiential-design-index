@@ -1,0 +1,10 @@
+id: john-lewis-elementary-school
+name: John Lewis Elementary School
+venue_type: other
+location:
+  city: Washington
+  state: DC
+operator: DC Public Schools
+sources:
+  - https://www.perkinseastman-dc.com/projects/john-lewis-elementary-school/
+  - https://profiles.dcps.dc.gov/John+Lewis+Elementary+School

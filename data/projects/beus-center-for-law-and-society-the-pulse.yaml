@@ -6,7 +6,6 @@ year_completed: 2016
 credits:
   - firm: ennead-architects
     role: architecture
-    note: "No firm record yet"
   - firm: unified-field
     role: media-design
     note: "Location-aware communication platform, mobile app, and building-wide digital signage/wayfinding network"

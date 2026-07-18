@@ -1,0 +1,12 @@
+id: artcourt
+name: ArtCourt
+venue_type: public-space
+location:
+  city: Fayetteville
+  state: AR
+operator: Experience Fayetteville
+website: https://www.artcourt.com/
+sources:
+  - https://www.artcourt.com/
+  - https://www.ecologicaldg.com/works/art-court
+  - https://fayettevilleflyer.com/2022/08/11/art-court-the-art-themed-basketball-court-on-dickson-street-to-open-next-week/

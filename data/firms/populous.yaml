@@ -1,0 +1,33 @@
+id: populous
+name: Populous
+aka: []
+website: https://populous.com
+hq:
+  city: Kansas City
+  state: MO
+other_offices:
+  - city: New York
+    state: NY
+  - city: Los Angeles
+    state: CA
+founded: 1983
+roles:
+  - architecture
+  - graphics-wayfinding
+status: active
+status_basis: >
+  Synovus Park (Columbus, GA) completed and opened 2025; multiple other
+  active US stadium and campus projects (Allianz Field, Baylor, Homefield
+  KC, University of Nebraska-Lincoln) in the trailing several years; firm
+  relocated its Americas headquarters to a new Kansas City tower in 2024.
+status_verified: 2026-07-18
+summary: >
+  Populous is a Kansas City-based global architecture firm founded in 1983,
+  best known for sports and entertainment venue design, with an in-house
+  wayfinding and environmental graphics discipline that designs signage
+  systems for the stadiums and arenas it plans and builds.
+sources:
+  - https://populous.com/about
+  - https://populous.com/disciplines/wayfinding
+  - https://www.costar.com/article/254640561/architecture-firm-populous-to-move-headquarters-to-new-kansas-city-tower
+  - https://populous.com/projects/synovus-park

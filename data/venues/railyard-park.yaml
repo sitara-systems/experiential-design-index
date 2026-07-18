@@ -1,0 +1,10 @@
+id: railyard-park
+name: Railyard Park
+venue_type: public-space
+location:
+  city: Rogers
+  state: AR
+operator: City of Rogers, Arkansas
+sources:
+  - https://www.rogersar.gov/1386/Railyard-Park
+  - https://www.archdaily.com/963882/railyard-park-ross-barney-architects

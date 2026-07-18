@@ -1,0 +1,9 @@
+id: american-museum-of-natural-history
+name: American Museum of Natural History
+venue_type: natural-history-museum
+location:
+  city: New York
+  state: NY
+website: https://www.amnh.org
+sources:
+  - https://www.amnh.org

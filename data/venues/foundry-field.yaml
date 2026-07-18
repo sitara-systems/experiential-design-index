@@ -1,0 +1,12 @@
+id: foundry-field
+name: Foundry Field
+venue_type: sports-venue
+location:
+  city: South Bend
+  state: IN
+operator: South Bend Venues Parks & Arts
+website: https://foundryfield.org/
+sources:
+  - https://foundryfield.org/
+  - https://segd.org/projects/foundry-field-the-story-of-race-representation-access-and-baseball-in-south-bend-indiana/
+  - https://wsbt.com/news/local/foundry-field-giants-mural-african-american-team-studebaker-factory-1920s-public-access-history-art-sports-summer-park-wenger-high-street-south-bend-indiana

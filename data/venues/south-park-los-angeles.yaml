@@ -1,0 +1,10 @@
+id: south-park-los-angeles
+name: South Park (Los Angeles neighborhood)
+venue_type: public-space
+location:
+  city: Los Angeles
+  state: CA
+operator: South Park Business Improvement District
+sources:
+  - https://www.rios.com/projects/south-park-wayfinding/
+  - https://bwaf.org/bbw-projects/south-park-wayfinding

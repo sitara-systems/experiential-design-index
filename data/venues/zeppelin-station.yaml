@@ -1,0 +1,11 @@
+id: zeppelin-station
+name: Zeppelin Station
+venue_type: public-space
+location:
+  city: Denver
+  state: CO
+operator: Zeppelin Development
+website: https://www.iheartwunderwerkz.com/work/zeppelin-station
+sources:
+  - https://www.iheartwunderwerkz.com/work/zeppelin-station
+  - https://www.architectmagazine.com/project-gallery/zeppelin-station_o

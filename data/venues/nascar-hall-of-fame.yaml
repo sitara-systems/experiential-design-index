@@ -1,0 +1,10 @@
+id: nascar-hall-of-fame
+name: NASCAR Hall of Fame
+venue_type: sports-venue
+location:
+  city: Charlotte
+  state: NC
+website: https://www.nascarhall.com
+sources:
+  - https://en.wikipedia.org/wiki/NASCAR_Hall_of_Fame
+  - https://www.nascarhall.com/explore/exhibits/inside-nascar

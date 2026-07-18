@@ -1,0 +1,42 @@
+id: railyard-park-core
+name: Railyard Park
+venue: railyard-park
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: ross-barney-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: afhj-architects
+    role: architecture
+    note: "associate architect (Fayetteville, AR); no firm record yet"
+  - firm: schuler-shook
+    role: lighting-design
+    note: "no firm record yet"
+  - firm: span
+    role: graphics-wayfinding
+    note: "branding and environmental graphics, formerly Thirst; no firm record yet"
+  - firm: crowne-group
+    role: av-integration
+    note: "no firm record yet"
+technologies: []
+summary: >
+  Railyard Park, a five-acre civic park with an amphitheater, promenade, and
+  railroad-themed playground built around an active freight line in downtown
+  Rogers, Arkansas, opened in 2021, designed by Ross Barney Architects with
+  associate architect AFHJ Architects; Winner, Fast Company's 2022 Innovation
+  by Design Awards, Urban Design category.
+description: >
+  Funded by the Walton Family Foundation, the park reuses the city's rail
+  history as its organizing motif, with playground components fabricated
+  from salvaged railroad equipment (a freight crane, tanker car parts) by
+  Landscape Structures. Lighting design and lighting fabrication were led
+  by Schuler Shook; branding and environmental graphics were designed by
+  SPAN (formerly Thirst); AV consulting by Crowne Group; general contractor
+  Nabholz Construction.
+sources:
+  - https://www.fastcompany.com/90772250/urban-design-innovation-by-design-2022
+  - https://www.archdaily.com/963882/railyard-park-ross-barney-architects
+  - https://www.architectmagazine.com/project-gallery/railyard-park
+  - https://schulershook.com/projects/railyard-park
+  - https://www.r-barc.com/work/railyard-park

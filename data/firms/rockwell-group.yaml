@@ -1,0 +1,33 @@
+id: rockwell-group
+name: Rockwell Group
+aka: []
+website: https://www.rockwellgroup.com
+hq:
+  city: New York
+  state: NY
+other_offices:
+  - city: Los Angeles
+    state: CA
+founded: 1984
+roles:
+  - architecture
+  - exhibit-design
+  - media-design
+status: active
+status_basis: >
+  Credited on Edge, the observation deck at 30 Hudson Yards (opened 2020,
+  interior/experience design via its LAB at Rockwell Group studio), and on
+  exhibit design for Illuminarium Atlanta (2021), The Museum of Broadway
+  (2022), the National Center for Civil and Human Rights (2014), and The
+  Walt Disney Family Museum (2009); active firm website and ongoing press
+  coverage.
+status_verified: 2026-07-18
+summary: >
+  Rockwell Group is a New York City-based architecture and experience
+  design firm founded in 1984 by David Rockwell, working across hospitality,
+  cultural, and immersive-entertainment projects; its LAB at Rockwell Group
+  studio focuses on experience and exhibit design.
+sources:
+  - https://www.rockwellgroup.com/about
+  - https://en.wikipedia.org/wiki/David_Rockwell
+  - https://www.rockwellgroup.com/projects/edge

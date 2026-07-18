@@ -1,0 +1,9 @@
+id: atlanta-history-center
+name: Atlanta History Center
+venue_type: history-museum
+location:
+  city: Atlanta
+  state: GA
+website: https://www.atlantahistorycenter.com
+sources:
+  - https://www.atlantahistorycenter.com/exhibitions/cyclorama/

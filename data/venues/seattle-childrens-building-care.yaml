@@ -1,0 +1,11 @@
+id: seattle-childrens-building-care
+name: "Seattle Children's Building Care: Diagnostic and Treatment Facility"
+venue_type: healthcare-institution
+location:
+  city: Seattle
+  state: WA
+operator: Seattle Children's Hospital
+website: https://www.seattlechildrens.org
+sources:
+  - https://www.zgf.com/work/4266-seattle-children-s-building-care-diagnostic-and-treatment-facility
+  - https://www.aia.org/design-excellence/award-winners/seattle-childrens-building-care-diagnostic-treatment-facility

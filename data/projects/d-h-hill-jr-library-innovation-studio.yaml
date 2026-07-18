@@ -1,0 +1,34 @@
+id: d-h-hill-jr-library-innovation-studio
+name: Innovation Studio
+venue: d-h-hill-jr-library
+project_type: installation
+year_completed: 2020
+credits:
+  - firm: relative-scale
+    role: media-design
+    note: >
+      Developed the software infrastructure and gesture-based projected
+      tabletop system; no firm record yet (fewer than 3 credited projects
+      in the dataset)
+technologies:
+  - projection mapping
+  - depth-sensing gesture interaction
+summary: >
+  Innovation Studio, a hands-free interactive media space on the second
+  floor of NC State University's D. H. Hill Jr. Library in Raleigh, NC,
+  opened in August 2020 following the library's renovation; its
+  four-projector, depth-sensor tabletop system and custom software
+  platform were developed by Relative Scale.
+description: >
+  The Innovation Studio occupies the south tower's second floor and
+  showcases student and faculty work across disciplines including digital
+  humanities, data science, and visualization. Visitors navigate content
+  displayed across four large projected tables by moving their hands above
+  the surface rather than touching it, using hover-based depth-sensor
+  detection. The project won a MUSE Creative Gold Award in the
+  "Experiential & Immersive" category and a Bronze MUSE Award (AAM Media &
+  Technology, Research and Innovation category) in 2021.
+sources:
+  - https://www.lib.ncsu.edu/news/library-story/what-makes-innovation-studio-so-innovative-0
+  - https://www.lib.ncsu.edu/news/main-news/hill-librarys-innovation-studio-wins-muse-creative-award
+  - https://www.aam-us.org/2021/07/23/twenty-seven-organizations-have-gained-accolades-in-the-22nd-annual-media-technology-muse-awards/

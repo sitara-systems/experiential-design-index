@@ -1,0 +1,10 @@
+id: sloomoo-institute-nyc
+name: Sloomoo Institute (SoHo, New York)
+venue_type: themed-attraction
+location:
+  city: New York
+  state: NY
+operator: Sloomoo Institute
+website: https://www.sloomoo.com/locations/new-york
+sources:
+  - https://www.sloomoo.com/locations/new-york

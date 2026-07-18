@@ -1,0 +1,29 @@
+id: willie-woo-woo-wong-playground-core
+name: Willie "Woo Woo" Wong Playground Renovation
+venue: willie-woo-woo-wong-playground
+project_type: major-renovation
+year_completed: 2021
+credits:
+  - firm: jensen-architects
+    role: architecture
+    note: "clubhouse remodel; no firm record yet"
+technologies: []
+summary: >
+  A comprehensive renovation of Willie "Woo Woo" Wong Playground, a 1927
+  Chinatown neighborhood park in San Francisco, funded by the 2012 Clean and
+  Safe Neighborhood Parks Bond and completed in 2021; led by CMG Landscape
+  Architecture with Jensen Architects on the clubhouse remodel; a 2022
+  Finalist, Fast Company Innovation by Design Awards, Urban Design category.
+description: >
+  CMG Landscape Architecture led the $14.5 million park-wide renovation
+  (play areas, basketball court, landscape); Jensen Architects designed the
+  clubhouse remodel. The project team also included InterEthnica, Urban
+  Design Consulting Engineers, Pivot Structural Engineering, HRA Consulting
+  Engineers, McGinnis Chen Associates, and M Lee Corporation (contractor).
+  CMG Landscape Architecture is not credited here — no delivery-stack role
+  in the schema vocabulary currently covers landscape architecture (see
+  research-methodology.md's open vocab-gap note).
+sources:
+  - https://www.cmgsite.com/practice/news/willie-woo-woo-wong-playground-recognized-as-fast-companys-2022-innovation-by-design-award-finalist-urban-design/
+  - https://www.cmgsite.com/places/willie-woo-woo-wong-playground/
+  - https://jensen-architects.com/work/willie-woo-woo-wong-playground-full-page/

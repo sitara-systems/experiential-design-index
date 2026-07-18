@@ -1,0 +1,10 @@
+id: crystal-bridges-museum-of-american-art
+name: Crystal Bridges Museum of American Art
+venue_type: art-museum
+location:
+  city: Bentonville
+  state: AR
+website: https://crystalbridges.org
+sources:
+  - https://crystalbridges.org
+  - https://en.wikipedia.org/wiki/Crystal_Bridges_Museum_of_American_Art

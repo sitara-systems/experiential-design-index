@@ -1,0 +1,11 @@
+id: the-rail-park
+name: The Rail Park
+venue_type: public-space
+location:
+  city: Philadelphia
+  state: PA
+operator: Friends of the Rail Park / Center City District
+website: https://www.therailpark.org
+sources:
+  - https://www.therailpark.org
+  - https://segd.org/resources/railroads-research-and-rust-philadelphias-rail-park/

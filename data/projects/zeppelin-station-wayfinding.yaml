@@ -1,0 +1,30 @@
+id: zeppelin-station-wayfinding
+name: Zeppelin Station Signage & Wayfinding
+venue: zeppelin-station
+project_type: installation
+year_completed: 2018
+credits:
+  - firm: wunder-werkz
+    role: graphics-wayfinding
+    note: "No firm record yet"
+  - firm: dynia-architects
+    role: architecture
+    note: "No firm record yet"
+technologies:
+  - modular pegboard signage
+  - exterior LED display
+summary: >
+  Zeppelin Station, an adaptive-reuse food hall and transit stop along
+  Denver's RTD A Line, opened in 2018 with a modular vendor-signage and
+  wayfinding system by Wunder Werkz and architecture by Stephen Dynia
+  Architects; it was recognized in the Communication Arts Design Competition,
+  Environmental Graphics category.
+description: >
+  The signage system uses a custom steel pegboard with interchangeable plates
+  so vendor pricing and offerings can be updated without visual clutter
+  across nine food vendors, two bars, and three retail concepts; a 25-foot
+  exterior LED screen displays train times and notifications.
+sources:
+  - https://www.iheartwunderwerkz.com/work/zeppelin-station
+  - https://www.architectmagazine.com/project-gallery/zeppelin-station_o
+  - https://www.commarts.com/content/files/competitions/2020%20Design%20Shortlist-1.pdf

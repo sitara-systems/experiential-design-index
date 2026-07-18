@@ -1,0 +1,30 @@
+id: sphere-las-vegas-interiors
+name: Sphere Interiors
+venue: sphere-las-vegas
+project_type: new-building
+year_completed: 2023
+credits:
+  - firm: populous
+    role: architecture
+    note: "Architect of record for the Sphere venue overall"
+  - firm: icrave
+    role: exhibit-design
+    note: "Interior, wayfinding, and lighting design for ~400,000 sq ft of public-facing spaces (Atrium, F&B, expo, premium suites); no firm record yet"
+technologies:
+  - architectural lighting
+  - reflective terrazzo flooring
+summary: >
+  Sphere in Las Vegas, a 366-foot spherical entertainment venue, opened
+  October 2023 with architecture by Populous and space-inspired public
+  interior design by ICRAVE, a Journey Studio.
+description: >
+  Winner of the Experience Design category in Fast Company's 2024 Innovation
+  by Design Awards, credited to ICRAVE. Additional named collaborators on
+  the interiors (Holoplot audio, Sphere Studios content, ARUP engineering)
+  are vendor/engineering credits not sourced in enough design-role detail to
+  add here.
+sources:
+  - https://www.sphereentertainmentco.com/sphere-and-icrave-reveal-innovative-interior-design-details-from-las-vegas-newest-entertainment-destination/
+  - https://populous.com/showcases/sphere
+  - https://www.fastcompany.com/91129467/experience-design-innovation-by-design-2024
+  - https://www.dezeen.com/2023/11/01/msg-sphere-las-vegas-public-space-interiors-icrave/

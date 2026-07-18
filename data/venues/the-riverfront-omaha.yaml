@@ -1,0 +1,11 @@
+id: the-riverfront-omaha
+name: The RiverFront
+venue_type: public-space
+location:
+  city: Omaha
+  state: NE
+operator: Riverfront Revitalization, Inc. / City of Omaha
+website: https://www.omahariverfront.org
+sources:
+  - https://www.hdrinc.com/portfolio/riverfront-revitalization
+  - https://www.ojb.com/news/omaha-riverfront-project-achieves-platinum-certification/

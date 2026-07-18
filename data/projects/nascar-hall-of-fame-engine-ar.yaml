@@ -1,0 +1,30 @@
+id: nascar-hall-of-fame-engine-ar
+name: Engine AR
+venue: nascar-hall-of-fame
+project_type: installation
+year_completed: 2020
+credits:
+  - firm: cortina-productions
+    role: media-design
+    note: >
+      Tablet-based (iPad Air) augmented reality experience overlaying a
+      real Ford FR9 EFI V8 engine on display in the "Inside NASCAR" exhibit;
+      built in Unity 3D with ARKit; won a 2020 AAM MUSE Award (AR/VR/Mixed
+      Reality, silver)
+  - firm: explus
+    role: fabrication
+    note: "EXPLUS, Inc.; museum production support; no firm record yet"
+technologies:
+  - augmented reality
+  - ARKit
+  - real-time particle animation
+summary: >
+  Engine AR, installed in 2020 in the "Inside NASCAR" exhibit at the NASCAR
+  Hall of Fame in Charlotte, NC, is a tablet-based augmented reality
+  interactive by Cortina Productions that overlays a real Ford FR9 EFI V8
+  engine with real-time animation of its internal combustion process; it won
+  a 2020 AAM MUSE Award.
+description: ""
+sources:
+  - https://www.cortinaproductions.com/ar-2020-muse-award/
+  - https://www.aam-us.org/programs/awards-recognition/2020-muse-award-winners/

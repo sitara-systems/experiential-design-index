@@ -1,0 +1,29 @@
+id: artcourt-installation
+name: ArtCourt
+venue: artcourt
+project_type: major-renovation
+year_completed: 2022
+credits:
+  - firm: love-and-rockets
+    role: graphics-wayfinding
+    note: "no firm record yet"
+  - firm: ecological-design-group
+    role: architecture
+    note: "no firm record yet"
+  - firm: graham-edwards-art
+    role: graphics-wayfinding
+    note: "no firm record yet"
+technologies:
+  - hand-painted murals
+summary: >
+  ArtCourt, an adaptive reuse of a derelict 1940s garage into an art-themed
+  community basketball court and gathering space on Dickson Street in
+  Fayetteville, Arkansas, opened in 2022; environmental graphics and concept
+  design by Love and Rockets, architecture and civil engineering by Ecological
+  Design Group, and murals by Graham Edwards Art, funded by the Tyson Family
+  Foundation.
+description: ""
+sources:
+  - https://www.commarts.com/project/37013/artcourt
+  - https://www.ecologicaldg.com/works/art-court
+  - https://fayettevilleflyer.com/2022/08/11/art-court-the-art-themed-basketball-court-on-dickson-street-to-open-next-week/

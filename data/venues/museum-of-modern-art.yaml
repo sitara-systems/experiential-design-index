@@ -1,0 +1,9 @@
+id: museum-of-modern-art
+name: Museum of Modern Art (MoMA)
+venue_type: art-museum
+location:
+  city: New York
+  state: NY
+website: https://www.moma.org
+sources:
+  - https://www.moma.org/calendar/exhibitions/5761

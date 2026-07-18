@@ -1,0 +1,13 @@
+id: pittsburgh-international-airport
+name: Pittsburgh International Airport
+venue_type: other
+location:
+  city: Pittsburgh
+  state: PA
+operator: Allegheny County Airport Authority
+website: https://flypittsburgh.com
+sources:
+  - https://flypittsburgh.com/pittsburgh-international-airport/accessibility/sensory-room/
+# NOTE: no venue_type fits an airport terminal; using `other` and logging
+# the gap (a `transportation-hub` type would be a reasonable future addition
+# if more airport/transit venues are added).

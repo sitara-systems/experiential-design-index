@@ -1,0 +1,40 @@
+id: remembrance-gallery-puyallup
+name: "Remembrance Gallery: Immersive Memorial Space & Interactive Exhibit"
+venue: washington-state-fairgrounds-puyallup
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: belle-and-wissell
+    role: exhibit-design
+  - firm: belle-and-wissell
+    role: media-design
+  - firm: belle-and-wissell
+    role: content-production
+  - firm: okano-picard-studio
+    role: architecture
+    note: "architect and furniture designer; no firm record yet"
+  - firm: integrity-networks
+    role: av-integration
+    note: "no firm record yet"
+  - firm: blackmouth-design
+    role: fabrication
+    note: "no firm record yet"
+technologies:
+  - responsive lighting
+  - interactive digital installations
+  - soundscape
+summary: >
+  The Remembrance Gallery, an immersive memorial and interactive exhibit
+  honoring Japanese and Japanese American incarcerees at the Puyallup
+  Assembly Center, opened in 2024 in the Washington State Fair grandstand in
+  Puyallup, Washington, commissioned by the Puyallup chapter of the Japanese
+  American Citizens League and designed by Belle & Wissell, Co.
+description: >
+  The gallery recreates Puyallup Assembly Center barracks and centers on a
+  sculptural monument honoring over 7,500 incarcerees, with responsive
+  lighting that illuminates individual name markers as visitors approach.
+  Content partner Densho contributed historical material; oral histories
+  were filmed by John Pai.
+sources:
+  - https://bwco.info/work/remembrance-gallery/
+  - https://www.commarts.com/content/files/competitions/Design25Shortlist3.pdf

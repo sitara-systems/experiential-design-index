@@ -1,0 +1,10 @@
+id: powerhouse-arts
+name: Powerhouse Arts
+venue_type: cultural-center
+location:
+  city: Brooklyn
+  state: NY
+website: https://powerhousearts.org
+sources:
+  - https://powerhousearts.org/about
+  - https://www.archpaper.com/2023/06/after-years-of-work-herzog-de-meurons-powerhouse-arts-in-brooklyn-is-now-finished/

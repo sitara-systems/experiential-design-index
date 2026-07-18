@@ -1,0 +1,10 @@
+id: edge-hudson-yards
+name: Edge
+venue_type: themed-attraction
+location:
+  city: New York
+  state: NY
+operator: Related Companies / Oxford Properties Group
+website: https://www.edgenyc.com
+sources:
+  - https://www.hudsonyardsnewyork.com/press-media/press-releases/edge-western-hemispheres-highest-outdoor-sky-deck-open-march-11-2020

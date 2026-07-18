@@ -1,0 +1,35 @@
+id: jones-beach-energy-nature-center
+name: Jones Beach Energy & Nature Center
+venue: jones-beach-energy-and-nature-center
+project_type: new-building
+year_completed: 2020
+credits:
+  - firm: narchitects
+    role: architecture
+    note: "No firm record yet"
+  - firm: tactile
+    role: exhibit-design
+    note: "Graphic design and co-exhibition designer; no firm record yet"
+  - firm: tactile
+    role: graphics-wayfinding
+  - firm: aja-architects
+    role: exhibit-design
+    note: "Co-exhibition designer (AJA Architecture and Planning); no firm record yet"
+technologies:
+  - interpretive graphics
+summary: >
+  The Jones Beach Energy & Nature Center, a mass-timber visitor and
+  educational building at Jones Beach State Park in Wantagh, New York,
+  opened in 2020, designed by nARCHITECTS with exhibition and graphic design
+  by Tactile and AJA Architecture and Planning; it teaches coastal
+  sea-level-rise resilience alongside its own sustainable design.
+description: >
+  Winner of the Spaces and Places category in Fast Company's 2024 Innovation
+  by Design Awards. Landscape architecture by Starr Whitehouse is not
+  captured as a project credit — the vocabulary has no landscape-architecture
+  role (logged gap).
+sources:
+  - https://narchitects.com/work/jones-beach/
+  - https://www.fastcompany.com/91129806/spaces-places-innovation-by-design-2024
+  - https://www.archdaily.com/991911/jones-beach-energy-and-nature-center-narchitects
+  - https://www.dezeen.com/2022/10/21/narchitects-mass-timber-jones-beach-nature-centre/

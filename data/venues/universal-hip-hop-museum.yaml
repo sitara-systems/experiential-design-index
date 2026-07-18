@@ -1,0 +1,10 @@
+id: universal-hip-hop-museum
+name: Universal Hip Hop Museum
+venue_type: history-museum
+location:
+  city: Bronx
+  state: NY
+operator: Universal Hip Hop Museum
+website: https://www.uhhm.org
+sources:
+  - https://en.wikipedia.org/wiki/Hip_Hop_Museum

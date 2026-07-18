@@ -1,0 +1,29 @@
+id: seattle-childrens-building-care-wayfinding
+name: "Seattle Children's Building Care — Wayfinding"
+venue: seattle-childrens-building-care
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: studio-sc
+    role: graphics-wayfinding
+    note: "no firm record yet"
+  - firm: zgf-architects
+    role: architecture
+    note: "no firm record yet"
+technologies:
+  - illustrated wayfinding map
+  - environmental murals
+summary: >
+  Seattle Children's Building Care, a 479,000-square-foot diagnostic and
+  treatment facility designed by ZGF Architects, opened in June 2022 with a
+  Pacific Northwest-themed wayfinding program (Forest, Mountain, River,
+  Ocean zones) and murals designed by Studio SC.
+description: >
+  Studio SC simplified the hospital's navigation from six zones to four,
+  each named and color-coded to a Pacific Northwest landscape, with
+  floor-to-ceiling murals and an illustrated "Discovery Trail" map and
+  3D diorama at the main entrance.
+sources:
+  - https://www.zgf.com/work/4266-seattle-children-s-building-care-diagnostic-and-treatment-facility
+  - https://www.commarts.com/project/17794/seattle-children-s-hospital
+  - https://www.aia.org/design-excellence/award-winners/seattle-childrens-building-care-diagnostic-treatment-facility

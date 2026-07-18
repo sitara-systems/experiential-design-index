@@ -1,0 +1,11 @@
+id: synovus-park
+name: Synovus Park
+venue_type: sports-venue
+location:
+  city: Columbus
+  state: GA
+operator: City of Columbus, Georgia / Diamond Baseball Holdings
+website: https://www.milb.com/columbus-clingstones/ballpark
+sources:
+  - https://populous.com/projects/synovus-park
+  - https://www.milb.com/milb/news/featured/visit-synovus-park-home-of-the-columbus-clingstones

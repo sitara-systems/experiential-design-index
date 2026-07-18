@@ -1,0 +1,37 @@
+id: synovus-park-renovation
+name: Synovus Park
+venue: synovus-park
+project_type: major-renovation
+year_completed: 2025
+credits:
+  - firm: populous
+    role: architecture
+  - firm: populous
+    role: graphics-wayfinding
+    note: "Signage and wayfinding system led by Populous designer Nick Abele"
+  - firm: identity-group
+    role: fabrication
+    note: "no firm record yet"
+  - firm: dcl
+    role: fabrication
+    note: "no firm record yet"
+technologies:
+  - environmental graphics
+  - wayfinding signage
+summary: >
+  Synovus Park, a restored 100-year-old ballpark (originally Golden Park) in
+  Columbus, Georgia, reopened in 2025 as the home of the Columbus Clingstones
+  (Atlanta Braves Double-A affiliate), with a signage and wayfinding program
+  designed by Populous alongside its architectural renovation.
+description: >
+  Populous restored the park's original brick facade and 1926-era arches at
+  the Legacy Gateway entrance while adding premium seating, suites, and
+  modern amenities. The signage and wayfinding system, led by Populous
+  designer Nick Abele, drew on baseball ephemera (tickets, scoresheets) and
+  a recurring pattern of three circles referencing baseball's numerology,
+  fabricated by Identity Group and DCL.
+sources:
+  - https://populous.com/projects/synovus-park
+  - https://nickabeledesign.com/synovus-park
+  - https://www.mlb.com/milb/news/featured/visit-synovus-park-home-of-the-columbus-clingstones
+  - https://www.commarts.com/content/files/competitions/Design25Shortlist3.pdf

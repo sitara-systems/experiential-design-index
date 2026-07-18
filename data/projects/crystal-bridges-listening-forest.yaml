@@ -1,0 +1,28 @@
+id: crystal-bridges-listening-forest
+name: Listening Forest
+venue: crystal-bridges-museum-of-american-art
+project_type: temporary-exhibition
+year_completed: 2022
+credits:
+  - firm: trace-element
+    role: graphics-wayfinding
+    note: "no firm record yet; brand identity, signage/environmental design, and wayfinding for the exhibition (the interactive light-and-sound artworks themselves were created by artist Rafael Lozano-Hemmer, not a design firm)"
+technologies:
+  - projection
+  - interactive lighting
+  - biometric sensing
+summary: >
+  Listening Forest, an outdoor exhibition of eight interactive light-and-
+  sound installations by artist Rafael Lozano-Hemmer, opened at Crystal
+  Bridges Museum of American Art in Bentonville, Arkansas in August 2022,
+  with brand identity, signage, and wayfinding by Trace Element.
+description: >
+  The installations, sited in Crystal Bridges' North Forest, are activated
+  by visitors' heart rate, voice, and movement, set to an original soundtrack
+  by musician Scanner (Robin Rimbaud). Trace Element's contribution covered
+  the exhibition's visitor-facing environmental design rather than the
+  artworks themselves.
+sources:
+  - https://www.traceelement.com/
+  - https://crystalbridges.org/calendar/listening-forest-rafael-lozano-hemmer/
+  - https://fayettevilleflyer.com/2022/07/21/listening-forest-exhibit-to-open-aug-31-at-crystal-bridges/

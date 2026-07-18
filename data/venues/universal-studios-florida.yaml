@@ -1,0 +1,10 @@
+id: universal-studios-florida
+name: Universal Studios Florida
+venue_type: themed-attraction
+location:
+  city: Orlando
+  state: FL
+operator: Universal Orlando Resort
+website: https://www.universalorlando.com
+sources:
+  - https://www.universalorlando.com/web/en/us/things-to-do/shows/cinesational-symphonic-spectacular

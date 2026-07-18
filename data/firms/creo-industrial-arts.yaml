@@ -1,0 +1,27 @@
+# Firm record — CREO Industrial Arts
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: creo-industrial-arts
+name: CREO Industrial Arts
+aka: []
+website: https://www.creoindustrialarts.com
+hq:
+  city: Woodinville
+  state: WA
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Credited fabricator on the U.S. Olympic & Paralympic Museum (opened 2020)
+  and on wayfinding/signage projects for 2 Plus U Seattle, The Eight, and
+  University of Hawaii at Manoa; active project portfolio maintained on
+  creoindustrialarts.com as of this check.
+status_verified: 2026-07-18
+summary: >
+  CREO Industrial Arts is a Woodinville, Washington-based custom fabrication
+  firm producing high-end architectural, wayfinding, and exhibit elements for
+  workplace, retail, museum, hospitality, healthcare, and education clients.
+sources:
+  - https://www.creoindustrialarts.com/
+  - https://www.creoindustrialarts.com/about/
+  - https://gallagherdesign.com/project/usopm/

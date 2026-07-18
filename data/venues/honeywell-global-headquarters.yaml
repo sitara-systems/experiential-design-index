@@ -1,0 +1,10 @@
+id: honeywell-global-headquarters
+name: Honeywell Global Headquarters
+venue_type: briefing-center
+location:
+  city: Charlotte
+  state: NC
+operator: Honeywell International
+website: https://www.honeywell.com/us/en/company/customer-experience-centers/charlotte
+sources:
+  - https://www.hok.com/projects/view/experience-honeywells-global-hq/

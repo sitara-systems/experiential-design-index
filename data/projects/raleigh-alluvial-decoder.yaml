@@ -1,0 +1,26 @@
+id: raleigh-alluvial-decoder
+name: Alluvial Decoder
+venue: crabtree-creek-greenway-raleigh
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: a-gang-of-three
+    role: exhibit-design
+    note: "Site-specific interpretive installation; 25 color-coded steel pylons marking historic flood levels; no firm record yet"
+technologies:
+  - steel pylons
+summary: >
+  Alluvial Decoder, a public art installation of 25 flood-marker steel
+  pylons along the Crabtree Creek greenway in Raleigh, North Carolina,
+  opened in 2023, designed by A Gang of Three to visualize the relationship
+  between rising stormwater and past flood events in real time.
+description: >
+  An honorable mention in the Urban Design category of Fast Company's 2024
+  Innovation by Design Awards. Early design contributions from Delineator
+  and collaboration with MPdL Studio noted in some case-study material apply
+  to a related but distinct Dealey Plaza (Dallas) proposal by the same
+  studio, not this project.
+sources:
+  - https://www.agangofthree.com/case-study-alluvial-decoder
+  - https://raleighnc.gov/stormwater/services/stormwater-smart-initiatives/alluvial-decoder-greenway-trail-installation
+  - https://www.fastcompany.com/91129825/urban-design-innovation-by-design-2024

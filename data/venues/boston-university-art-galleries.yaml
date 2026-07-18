@@ -1,0 +1,10 @@
+id: boston-university-art-galleries
+name: Boston University Art Galleries
+venue_type: academic-institution
+location:
+  city: Boston
+  state: MA
+operator: Boston University College of Fine Arts
+website: https://www.bu.edu/cfa/news/bu-art-galleries/
+sources:
+  - https://www.bu.edu/cfa/featured-work/radical-return-2/

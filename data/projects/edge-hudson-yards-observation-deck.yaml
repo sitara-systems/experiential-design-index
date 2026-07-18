@@ -1,0 +1,33 @@
+id: edge-hudson-yards-observation-deck
+name: Edge
+venue: edge-hudson-yards
+project_type: new-building
+year_completed: 2020
+credits:
+  - firm: kpf
+    role: architecture
+    note: "Kohn Pedersen Fox; no firm record yet"
+  - firm: rockwell-group
+    role: media-design
+    note: >
+      As LAB at Rockwell Group; created "Journey to Edge," the immersive
+      multimedia entry experience, and the observation deck's interior
+      design
+technologies:
+  - immersive multimedia
+  - glass floor
+summary: >
+  Edge, the Western Hemisphere's highest outdoor observation deck, opened
+  atop 30 Hudson Yards in New York City on March 11, 2020; architecture by
+  Kohn Pedersen Fox (KPF), with the "Journey to Edge" immersive entry
+  experience and interior design by Rockwell Group's LAB studio.
+description: >
+  A 7,500-square-foot outdoor sky deck cantilevers 80 feet from the 100th
+  floor of 30 Hudson Yards, more than 1,100 feet above street level, with a
+  glass floor section and 360-degree Manhattan views; visitors reach it
+  through an immersive multimedia sequence documenting Hudson Yards' history.
+sources:
+  - https://www.kpf.com/project/edge
+  - https://www.rockwellgroup.com/projects/edge
+  - https://www.hudsonyardsnewyork.com/press-media/press-releases/edge-western-hemispheres-highest-outdoor-sky-deck-open-march-11-2020
+  - https://www.archpaper.com/2020/03/the-edge-debuts-1000-feet-above-hudson-yards/

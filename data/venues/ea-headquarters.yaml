@@ -1,0 +1,10 @@
+id: ea-headquarters
+name: Electronic Arts Headquarters
+venue_type: corporate-museum
+location:
+  city: Redwood City
+  state: CA
+operator: Electronic Arts
+website: https://www.ea.com/about
+sources:
+  - https://aimeestevland.com/portfolio/electronic-arts-historical-exhibit/

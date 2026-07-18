@@ -1,0 +1,10 @@
+id: seattle-asian-art-museum
+name: Seattle Asian Art Museum
+venue_type: art-museum
+location:
+  city: Seattle
+  state: WA
+operator: Seattle Art Museum
+website: https://www.seattleartmuseum.org/visit/seattle-asian-art-museum
+sources:
+  - https://www.seattleartmuseum.org/visit/seattle-asian-art-museum

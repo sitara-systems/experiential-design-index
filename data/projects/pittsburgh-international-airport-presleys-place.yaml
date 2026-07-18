@@ -1,0 +1,38 @@
+id: pittsburgh-international-airport-presleys-place
+name: "Presley's Place Sensory Suite"
+venue: pittsburgh-international-airport
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: hayes-design-group-architects
+    role: architecture
+    note: "Design of the sensory suite (family room, individual rooms, quiet room); no firm record yet"
+  - firm: childrens-museum-of-pittsburgh-design-consulting
+    role: exhibit-design
+    note: "Design and fabrication of the airplane-cabin sensory room, built from donated airline components; no firm record yet"
+  - firm: xyz-custom
+    role: fabrication
+    note: "Custom construction of the jet bridge, cabin divider, and threshold ramps; no firm record yet"
+technologies:
+  - full-scale reconstructed aircraft cabin
+  - sensory-controlled environment
+summary: >
+  Presley's Place, a 1,500 sq ft inclusive sensory suite for travelers with
+  autism and sensory-processing differences, opened at Pittsburgh
+  International Airport in July 2019; Hayes Design Group Architects
+  designed the suite, and Children's Museum of Pittsburgh Design &
+  Consulting designed and fabricated its sensory airplane-cabin experience
+  with XYZ Custom, Inc.
+description: >
+  The suite includes a family room, three individual rooms, and a quiet
+  room, plus a recreated airplane-cabin room built from donated American
+  Airlines seats, overhead bins, and window wall panels, with a custom-built
+  jet bridge and cabin divider and large-scale photographic wallpaper
+  completing the illusion. Won AIA Pittsburgh's 2019 People's Choice Award;
+  named a finalist in Accessible Design and an honoree in Experience Design
+  in Fast Company's 2023 Innovation by Design Awards.
+sources:
+  - https://aiapgh.org/a-look-inside-presleys-place/
+  - https://pittsburghkidsdesign.org/services/sensory-airplane-experience-at-pittsburgh-international-airport/
+  - https://flypittsburgh.com/pittsburgh-international-airport/accessibility/sensory-room/
+  - https://www.fastcompany.com/90933766/experience-design-innovation-by-design-2023

@@ -1,0 +1,10 @@
+id: santa-monica-north-beach-trail
+name: Santa Monica North Beach Trail
+venue_type: public-space
+location:
+  city: Santa Monica
+  state: CA
+operator: City of Santa Monica
+sources:
+  - https://www.swagroup.com/projects/santa-monica-north-beach-trail-improvements/
+  - https://www.santamonica.gov/blog/a-wider-safer-beach-trail-for-everyone

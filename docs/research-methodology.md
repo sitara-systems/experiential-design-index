@@ -226,6 +226,43 @@ list.*
   larger firms (Tellart, Gensler, NBBJ/ESI) with substantial non-US
   portfolios.
 
+- **Award cross-reference sweep — done (2026-07-18).** Not a BFS tier —
+  a second pass through three more award-archive sources (SEGD already
+  covered in Batch 2), 2020–2025, one agent per source-year (18 agents):
+  Communication Arts Design Competition (Environmental Graphics category),
+  Fast Company Innovation by Design Awards (Spaces and Places / Experience
+  Design / Urban Design categories — category names shifted year to year,
+  each agent confirmed the actual names for its year), AAM MUSE Awards.
+  **Finding: AAM MUSE has been dormant since 2023** — AAM's own site states
+  the program went on hold that year to redesign three other award
+  programs; the last real cycle was 2021 (22nd annual). Multiple
+  independent agents confirmed this (checked AAM's site, the annual-meeting
+  recap, and ruled out an unrelated same-named commercial "MUSE Design
+  Awards" competition) rather than substituting a different source. Only
+  2020 and 2021 produced real AAM MUSE data; 2022–2025 correctly returned
+  nothing. **Communication Arts note**: commarts.com's public archive is
+  the *finalist shortlist*, not a separate winners-only list — agents
+  cross-checked shortlist entries against live `commarts.com/project/...`
+  pages as the practical "did this actually publish as a winner" bar.
+
+  Result: dataset grew from 39/473/388 to **47/526/437**
+  (firms/projects/venues). 4 more firms promoted mid-sweep
+  (Skidmore Owings & Merrill, Rockwell Group, Ennead Architects, Creo
+  Industrial Arts, Populous — several already sat above the bar from
+  Tier 1 and just got their file written here). Reconciliation fixed one
+  more id near-duplicate (`kierantimberlake`→`kieran-timberlake`);
+  `validate.py`: 0 errors, no venue/project id collisions.
+
+  **Recurring finding across nearly every agent**: a substantial share of
+  Communication Arts' and Fast Company's "Environmental Graphics"/"Spaces
+  and Places" winners are **private corporate workplace interiors**
+  (Oracle Austin, LinkedIn Omaha, Hudson River Trading, NHL Office, Asurion
+  Gulch Hub, etc.) — consistently excluded as "not public-facing" by
+  independent agents applying the same judgment call flagged as an open
+  question in Batch 2. This keeps recurring and keeps costing real,
+  well-documented work — worth Nathan making an explicit, written call
+  rather than leaving it to each agent's independent judgment.
+
 ## Updating an existing record (not just adding new ones)
 
 This methodology also covers maintenance, not only initial seeding:

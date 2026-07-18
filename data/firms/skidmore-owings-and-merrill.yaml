@@ -1,0 +1,57 @@
+id: skidmore-owings-and-merrill
+name: Skidmore, Owings & Merrill
+aka:
+  - SOM
+website: https://www.som.com
+hq:
+  city: Chicago
+  state: IL
+other_offices:
+  - city: New York
+    state: NY
+  - city: San Francisco
+    state: CA
+  - city: Los Angeles
+    state: CA
+  - city: Washington
+    state: DC
+  - city: Boston
+    state: MA
+  - city: Denver
+    state: CO
+  - city: London
+    country: United Kingdom
+  - city: Hong Kong
+    country: Hong Kong
+  - city: Shanghai
+    country: China
+  - city: Shenzhen
+    country: China
+  - city: Mumbai
+    country: India
+  - city: Abu Dhabi
+    country: United Arab Emirates
+founded: 1936
+roles:
+  - architecture
+  - graphics-wayfinding
+  - exhibit-design
+status: active
+status_basis: >
+  Completed the Cotchett Law Center at UC Law San Francisco (2020) and the
+  Marin Welcome Center for the SF-Marin Food Bank (2020) with in-house
+  graphics and identity work by its Graphics and Brand Studio; active
+  project portfolio and press presence as of this check.
+status_verified: 2026-07-18
+summary: >
+  Skidmore, Owings & Merrill (SOM) is a global architecture, engineering,
+  and urban design firm founded in Chicago in 1936, with offices across the
+  US and internationally. In this index SOM is credited for architecture
+  and, through its in-house Graphics and Brand Studio, environmental
+  graphics, wayfinding, and exhibit design on institutional and civic
+  projects, alongside its much larger general architecture practice, which
+  is out of scope here.
+sources:
+  - https://www.som.com/about/
+  - https://en.wikipedia.org/wiki/SOM_(architectural_firm)
+  - https://www.som.com/expertise/graphics-brand/

@@ -1,0 +1,42 @@
+id: amnh-richard-gilder-center
+name: Richard Gilder Center for Science, Education, and Innovation
+venue: american-museum-of-natural-history
+project_type: new-building
+year_completed: 2023
+credits:
+  - firm: studio-gang
+    role: architecture
+    note: "Design architect; Jeanne Gang design principal"
+  - firm: davis-brody-bond
+    role: architecture
+    note: "Executive architect; no firm record yet"
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: tamschick-media-and-space
+    role: media-design
+    note: "Designed the Invisible Worlds immersive theater with Boris Micka Associates; Berlin-based, no firm record yet, non-US"
+  - firm: cost-of-wisconsin
+    role: fabrication
+    note: "Themed construction specialist; shotcrete canyon walls (~68,000 sq ft); no firm record yet"
+technologies:
+  - immersive theater
+  - projection
+summary: >
+  The Richard Gilder Center for Science, Education, and Innovation, a
+  230,000-square-foot expansion of the American Museum of Natural History in
+  New York, opened May 4, 2023, designed by Studio Gang with executive
+  architect Davis Brody Bond and exhibition design by Ralph Appelbaum
+  Associates.
+description: >
+  A 2024 Fast Company Innovation by Design Awards finalist in the Spaces and
+  Places category. The immersive theater "Invisible Worlds" was designed by
+  Tamschick Media+Space (Berlin) with Boris Micka Associates (Seville);
+  Arup served as structural/acoustical engineer and contributed to
+  audiovisual design for the exhibits (engineering credit, not captured as a
+  design-stack role per this schema).
+sources:
+  - https://studiogang.com/projects/gilder-center/
+  - https://www.gsd.harvard.edu/2023/04/the-american-museum-of-natural-history-reveals-gilder-center-designed-by-studio-gang/
+  - https://www.architectmagazine.com/project-gallery/richard-gilder-center-for-science-education-and-innovation_o/
+  - https://www.arup.com/en-us/projects/the-richard-gilder-center-for-science-education-and-innovation-at-the-american-museum-of-natural-history/
+  - https://www.fastcompany.com/91129806/spaces-places-innovation-by-design-2024

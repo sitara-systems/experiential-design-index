@@ -1,0 +1,10 @@
+id: storefront-for-art-and-architecture
+name: Storefront for Art and Architecture
+venue_type: design-museum
+location:
+  city: New York
+  state: NY
+website: https://storefront.nyc
+sources:
+  - https://storefront.nyc
+  - https://storefront.nyc/program/arabesque/
