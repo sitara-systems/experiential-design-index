@@ -282,6 +282,67 @@ list.*
   well-documented work — worth Nathan making an explicit, written call
   rather than leaving it to each agent's independent judgment.
 
+  **Resolved same day**: Nathan wrote the explicit call directly into
+  `editorial-policy.md` ("Employee-only corporate workplace interiors are
+  out of scope... the line is audience, not client industry") and a
+  companion clarification on `[[what "US-based" means]]` (operating
+  reality governs over legal registration — resolves the Tellart HQ
+  ambiguity flagged back in Batch 1). Both are now written policy, not
+  per-agent judgment calls.
+
+- **Tier 2 — done (2026-07-18).** Researched and created firm records for
+  the ~33 firms sitting at ≥3 credits without one (per the Tier 1 +
+  award-cross-reference candidate list), then crawled each one's own
+  portfolio per the standard per-tier procedure. Folded in the same
+  session, per instruction: a **Communication Arts Interactive category
+  sweep** (2020–2025, CA's "Environmental" sub-category — physical
+  interactive installations/kiosks, as distinct from CA's Design
+  Competition "Environmental Graphics" category already covered, and
+  distinct from pure websites/apps) — the most directly relevant CA
+  category to spatial/embodied-interface work.
+
+  Several individual Tier 2 firm crawls fanned out further sub-agents on
+  their own initiative to cover unusually large or geographically
+  dispersed portfolios — most notably **Schuler Shook** (a theatrical/
+  architectural lighting design firm), whose crawl alone surfaced dozens
+  of performing-arts-center and museum lighting credits across the US and
+  spawned roughly 20 further research sub-agents. This is the clearest
+  example yet of why the per-tier pause matters: a single Tier-2 firm's
+  crawl can rival an entire prior batch in scope. PGAV Destinations, West
+  Office, Capitol Museum Services, and HGA also fanned out multi-agent
+  sub-batches.
+
+  **Result: dataset grew from 47/526/437 to 88/900/709**
+  (firms/projects/venues). `validate.py`: 0 errors, 0 id collisions.
+  Reconciliation this round: retried 6 firm-record agents that hit
+  transient "model temporarily unavailable" errors
+  (`dangermond-keane-architecture` — the firm has since rebranded to
+  Bearing Architecture, recorded with the old name as `aka` — plus
+  `zenith-systems`, `schuler-shook`, `solid-light`,
+  `southside-design-build`, `tait`); fixed 8 more firm-id near-duplicates
+  (`fuse-project`→`fuseproject`, `taylor-group`→`the-taylor-group`,
+  `diamond-schmitt`→`diamond-schmitt-architects`,
+  `gwwo`→`gwwo-architects`, `proun`→`proun-design`,
+  `howard-plus-revis`→`howard-plus-revis-design`, `span`→`span-studio`,
+  `eos-light-media`→`eos-lightmedia`); removed 3 project records that
+  turned out to have no independently sourceable `year_completed` (a
+  required field — the sourcing agent had flagged them as "should skip"
+  in its own report but the files existed anyway, a real
+  process-inconsistency worth watching for); fixed 1 missing year on an
+  otherwise well-sourced record (Florence County Museum, 2014).
+
+  **Next tier's candidate list has not yet been tallied.** The next
+  session should re-run the `comm -23` diff (credited-firms-at-≥3 minus
+  `data/firms/` contents) fresh before starting Tier 3 — several firms
+  were already promoted mid-crawl as side effects this round (Ravenswood
+  Studio, New England Technology Group, Trivium Interactive, Cortina
+  Productions, Christopher Chadbourne & Associates, The Design Minds,
+  Evidence Design, The PRD Group among them), so the stale list from this
+  entry would overcount. Given how large Tier 2 already ran (nearly
+  doubling Tier 1's growth), strongly consider pruning the Tier 3
+  candidate list — by credit-count threshold or manual review — before
+  crawling it in full.
+
 ## Updating an existing record (not just adding new ones)
 
 This methodology also covers maintenance, not only initial seeding:
