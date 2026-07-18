@@ -1,0 +1,41 @@
+id: mit-museum-galleries
+name: MIT Museum
+venue: mit-museum
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: howeler-yoon
+    role: architecture
+    note: "No firm record yet"
+  - firm: studio-joseph
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: pentagram
+    role: graphics-wayfinding
+    note: "No firm record yet"
+  - firm: tillotson-design-associates
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "No firm record yet"
+  - firm: bluecadet
+    role: media-design
+    note: "Over 20 interactive installations across 20,000 sq ft of exhibition space"
+technologies:
+  - touchscreen interactives
+  - projection
+summary: >
+  The MIT Museum, a 56,000-square-foot new building at 314 Main Street in
+  Cambridge, Massachusetts, opened in October 2022 with galleries designed by
+  Höweler + Yoon Architecture, exhibition design by Studio Joseph, graphics by
+  Pentagram, lighting by Tillotson Design Associates, fabrication by kubik
+  maltbie, and interactive media by Bluecadet.
+description: ""
+sources:
+  - https://www.archpaper.com/2022/10/howeler-yoon-reopened-relocated-mit-museum/
+  - https://www.howeleryoon.com/work/1170/mit-museum
+  - https://kubikmaltbie.com/project/mit-museum/
+  - https://www.bluecadet.com/work/mit-museum
+  - https://segd.org/projects/mit-museum/
+  - https://thetech.com/2021/09/23/mit-museum-move

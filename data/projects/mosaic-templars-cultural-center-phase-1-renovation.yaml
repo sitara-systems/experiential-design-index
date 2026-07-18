@@ -1,0 +1,33 @@
+id: mosaic-templars-cultural-center-phase-1-renovation
+name: "Mosaic Templars Cultural Center Renovation: Phase I"
+venue: mosaic-templars-cultural-center
+project_type: major-renovation
+year_completed: 2021
+credits:
+  - firm: exhibit-concepts-inc
+    role: exhibit-design
+    note: "(no firm record yet)"
+  - firm: mercer-associates
+    role: interpretive-planning
+    note: "(no firm record yet)"
+  - firm: clements-associates-architecture
+    role: architecture
+    note: "(no firm record yet)"
+  - firm: northern-light-productions
+    role: content-production
+    note: "360-degree immersive theater experience"
+technologies:
+  - 360-degree projection theater
+summary: >
+  The Mosaic Templars Cultural Center in Little Rock, Arkansas completed
+  Phase I of a multi-year renovation in 2021, adding new lobby exhibitry, a
+  museum store, a children's gallery, and a 360-degree immersive theater
+  experience exploring African American history in Arkansas; exhibit design
+  was by Exhibit Concepts, interpretive planning by Mercer Associates,
+  architecture by Clements & Associates, and the theater experience was
+  produced by Northern Light Productions.
+description: ""
+sources:
+  - https://exhibitconcepts.com/same-different-amazing-the-mosaic-templars-cultural-center/
+  - https://nlprod.com/item/mosaic-templars-cultural-center/
+  - https://www.arkansasonline.com/news/2023/nov/28/mosaic-templars-cultural-center-celebrates-15-years-marks-140-years-of-mosaic-templars-of-america/

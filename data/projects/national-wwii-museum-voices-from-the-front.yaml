@@ -1,0 +1,32 @@
+id: national-wwii-museum-voices-from-the-front
+name: Voices from the Front
+venue: national-wwii-museum
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: ideum
+    role: media-design
+    note: Designed and developed the touchscreen user interface, including a filtering system and a microphone with visual feedback
+  - firm: storyfile
+    role: content-production
+    note: Provided the underlying conversational-AI video technology and produced the interview content
+technologies:
+  - touchscreen interface
+  - conversational AI
+  - video playback
+summary: >
+  Voices from the Front, an interactive oral history experience letting
+  visitors hold AI-driven conversations with recorded WWII veterans, opened
+  in the Malcolm S. Forbes Rare and Iconic Artifacts Gallery at The National
+  WWII Museum in New Orleans in March 2024, with the visitor interface
+  designed by Ideum on StoryFile's conversational-video technology.
+description: >
+  Visitors ask spoken questions of any of 18 recorded WWII-generation
+  interviewees; StoryFile's system transcribes the question and matches it
+  to a pre-recorded video response from a library of up to 1,000 answers per
+  subject. Ideum built the touchscreen interface guiding visitors through
+  interviewee selection and the conversation itself.
+sources:
+  - https://www.nationalww2museum.org/media/press-releases/national-wwii-museum-unveil-new-interactive-oral-history-experience-voices
+  - https://ideum.com/portfolio/voices-from-the-front
+  - https://www.globenewswire.com/news-release/2024/04/04/2858205/0/en/StoryFile-Debuts-Innovative-AI-Video-Experience-at-The-National-WWII-Museum.html

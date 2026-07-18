@@ -1,0 +1,10 @@
+id: rubin-museum-of-himalayan-art
+name: Rubin Museum of Himalayan Art
+venue_type: art-museum
+location:
+  city: New York
+  state: NY
+website: https://rubinmuseum.org
+sources:
+  - https://rubinmuseum.org/
+  - https://en.wikipedia.org/wiki/Rubin_Museum_of_Himalayan_Art

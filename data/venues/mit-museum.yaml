@@ -1,0 +1,11 @@
+id: mit-museum
+name: MIT Museum
+venue_type: science-center
+location:
+  city: Cambridge
+  state: MA
+operator: Massachusetts Institute of Technology
+website: https://mitmuseum.mit.edu
+sources:
+  - https://www.archpaper.com/2022/10/howeler-yoon-reopened-relocated-mit-museum/
+  - https://www.howeleryoon.com/work/1170/mit-museum

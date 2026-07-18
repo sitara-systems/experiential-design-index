@@ -1,0 +1,22 @@
+id: nypl-biblion
+name: "Biblion: The Boundless Library"
+venue: nypl-schwarzman-building
+project_type: installation
+year_completed: 2011
+credits:
+  - firm: potion-design
+    role: media-design
+    note: "iPad app design and development"
+technologies:
+  - iPad app
+  - 3D document-stack interface
+summary: >
+  Biblion, an iPad app presenting archival materials from the New York
+  Public Library's 1939-40 New York World's Fair collection, launched in May
+  2011 to coincide with the centennial of the library's Stephen A.
+  Schwarzman Building in New York City, designed and developed by Potion.
+description: ""
+sources:
+  - https://architizer.com/projects/biblion-the-boundless-library-new-york-public-library/
+  - https://www.engadget.com/2011-06-18-nypl-biblion-worlds-fair-ipad-app-a-compelling-look-at-yesterd.html
+  - https://the-gadgeteer.com/2011/05/18/explore-the-1939-40-worlds-fair-with-the-biblion-ipad-app-from-the-new-york-public-library/

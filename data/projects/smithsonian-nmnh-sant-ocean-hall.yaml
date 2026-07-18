@@ -1,0 +1,34 @@
+id: smithsonian-nmnh-sant-ocean-hall
+name: Sant Ocean Hall
+venue: smithsonian-national-museum-of-natural-history
+project_type: new-exhibition
+year_completed: 2008
+credits:
+  - firm: quinn-evans
+    role: architecture
+    note: "Renovation architecture for the museum's central halls (no firm record yet)"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+    note: "(no firm record yet)"
+  - firm: design-and-production-incorporated
+    role: fabrication
+    note: "(no firm record yet)"
+  - firm: northern-light-productions
+    role: content-production
+    note: "12 media pieces, including the Science On a Sphere program"
+technologies:
+  - Science On a Sphere projection
+summary: >
+  Sant Ocean Hall, a 23,000-square-foot permanent exhibition hall at the
+  Smithsonian's National Museum of Natural History in Washington, DC, opened
+  September 27, 2008, with exhibit design by Gallagher & Associates,
+  renovation architecture by Quinn Evans, fabrication by Design and
+  Production Incorporated, and media production by Northern Light
+  Productions.
+description: ""
+sources:
+  - https://www.si.edu/newsdesk/releases/new-sant-ocean-hall-opens-sept-27-smithsonian-s-national-museum-natural-history
+  - https://ocean.si.edu/sant-ocean-hall
+  - https://www.d-and-p.com/ocean-hall
+  - https://www.quinnevans.com/projects/sant-ocean-hall
+  - https://42degreesnorth.com/portfolio/oceanhall/

@@ -1,0 +1,25 @@
+id: national-archives-public-vaults
+name: Public Vaults
+venue: national-archives-building
+project_type: new-exhibition
+year_completed: 2004
+credits:
+  - firm: second-story
+    role: media-design
+    note: 13 interactive kiosks; project design and development
+  - firm: gallagher-and-associates
+    role: exhibit-design
+technologies:
+  - interactive kiosks
+  - touch-screen exhibits
+summary: >
+  Public Vaults, a permanent interactive exhibition in the National Archives
+  Building in Washington, DC drawing on the National Archives' historical
+  record holdings, opened November 12, 2004; Second Story designed and
+  developed 13 interactive kiosks for the exhibition, with exhibit design by
+  Gallagher and Associates.
+description: ""
+sources:
+  - https://www.archives.gov/press/press-releases/2005-2
+  - https://www.archives.gov/press/press-kits/public-vaults.html
+  - https://www.commarts.com/project/22598/national-archives-experience-the-public-vaults

@@ -1,0 +1,10 @@
+id: seattle-central-library
+name: Seattle Central Library
+venue_type: library-archive
+location:
+  city: Seattle
+  state: WA
+operator: Seattle Public Library
+website: https://www.spl.org
+sources:
+  - https://www.spl.org/hours-and-locations/central-library/central-library-highlights

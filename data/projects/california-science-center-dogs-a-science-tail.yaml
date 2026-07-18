@@ -1,0 +1,40 @@
+id: california-science-center-dogs-a-science-tail
+name: Dogs! A Science Tail
+venue: california-science-center
+project_type: temporary-exhibition
+year_completed: 2019
+credits:
+  - firm: evidence-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: unified-field
+    role: media-design
+  - firm: unified-field
+    role: content-production
+    note: "Digital interactives and linear media films"
+  - firm: pacific-studios
+    role: fabrication
+    note: "No firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: "No firm record yet"
+technologies:
+  - digital interactives
+  - green-screen film production
+  - iBeacon-based mobile app
+summary: >
+  Dogs! A Science Tail, a 9,000-square-foot traveling exhibition on the
+  science and history of dogs, opened at the California Science Center in
+  Los Angeles on March 16, 2019; exhibit design by Evidence Design, digital
+  interactives and media by Unified Field, fabrication by Pacific Studios,
+  and AV integration by Electrosonic.
+description: >
+  The bilingual (English/Spanish), ADA-accessible exhibition combines
+  physical and digital interactives exploring canine science, history, and
+  human-dog relationships; it later returned to the California Science
+  Center as part of a national tour.
+sources:
+  - https://segd.org/resources/all-paws-deck-dogs-las-california-science-center/
+  - https://www.prnewswire.com/news-releases/dogs-a-science-tail-makes-its-world-premiere-at-the-california-science-center-march-16-2019-300789752.html
+  - https://californiasciencecenter.org/exhibits/dogs-a-science-tail
+  - https://www.unifiedfield.com/projects/california-science-center

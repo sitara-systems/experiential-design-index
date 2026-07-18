@@ -1,0 +1,11 @@
+id: new-jersey-hall-of-fame
+name: New Jersey Hall of Fame Entertainment and Learning Center
+venue_type: sports-venue
+location:
+  city: East Rutherford
+  state: NJ
+operator: American Dream
+website: https://njhalloffame.org
+sources:
+  - https://njhalloffame.org/entertainment-learning-center/
+  - https://www.prnewswire.com/news-releases/unveiling-of-new-jersey-hall-of-fame-at-american-dream-as-americas-first-entertainment-and-learning-center-302174441.html

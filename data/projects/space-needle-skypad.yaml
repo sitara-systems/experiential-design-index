@@ -1,0 +1,30 @@
+id: space-needle-skypad
+name: SkyPad
+venue: space-needle
+project_type: installation
+year_completed: 2014
+credits:
+  - firm: belle-and-wissell
+    role: media-design
+    note: "Interactive guestbook, 3D globe, and photo-archive experience design"
+  - firm: olson-kundig
+    role: architecture
+    note: "Architectural integration; no firm record yet"
+  - firm: streamline-solutions
+    role: av-integration
+    note: "A/V hardware specialist; no firm record yet"
+technologies:
+  - multitouch LCD video wall
+  - interactive 3D globe
+  - real-time guestbook mapping visualization
+summary: >
+  SkyPad, a 20-foot-wide interactive multitouch video wall on the Space
+  Needle's Observation Deck in Seattle, opened in July 2014; Belle & Wissell
+  designed the interactive guestbook and photo-archive experience, with
+  architectural integration by Olson Kundig and A/V integration by
+  Streamline Solutions.
+description: ""
+sources:
+  - https://bwco.info/work/skypad/
+  - https://segd.org/projects/skypad-interactive-wall/
+  - https://bwco.info/2014/08/space-needle-observation-deck-experience-enhanced-by-skypad-an-interactive-installation/

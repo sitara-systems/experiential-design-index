@@ -1,0 +1,9 @@
+id: museum-of-pop-culture
+name: Museum of Pop Culture
+venue_type: other
+location:
+  city: Seattle
+  state: WA
+website: https://www.mopop.org
+sources:
+  - https://www.mopop.org/exhibitions/nirvana-taking-punk-to-the-masses

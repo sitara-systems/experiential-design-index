@@ -1,0 +1,30 @@
+id: museum-of-the-city-of-new-york-this-is-new-york
+name: "This Is New York: 100 Years of the City in Art and Pop Culture"
+venue: museum-of-the-city-of-new-york
+project_type: temporary-exhibition
+year_completed: 2023
+credits:
+  - firm: studio-joseph
+    role: architecture
+    note: "No firm record yet"
+  - firm: dome-collective
+    role: media-design
+    note: "Conceived, designed, and produced three interactive media installations: a projection-mapped title wall, a digital bookshelf, and 'Songs of New York,' a five-borough interactive sound installation"
+  - firm: southside-design-build
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - projection mapping
+  - interactive sound installation
+  - touchscreen digital bookshelf
+summary: >
+  This Is New York: 100 Years of the City in Art and Pop Culture, a
+  centennial exhibition at the Museum of the City of New York exploring the
+  city's legacy in art and pop culture, opened May 26, 2023, with
+  architectural design by Studio Joseph, interactive media design by Dome,
+  and fabrication by Southside Design + Build.
+description: ""
+sources:
+  - https://www.mcny.org/this-is-new-york-behind-the-scenes
+  - https://www.mcny.org/exhibition/new-york-100
+  - https://news.artnet.com/art-world/this-is-new-york-museum-of-the-city-of-new-york-2316920

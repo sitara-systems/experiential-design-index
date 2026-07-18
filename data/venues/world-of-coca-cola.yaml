@@ -1,0 +1,11 @@
+id: world-of-coca-cola
+name: World of Coca-Cola
+venue_type: corporate-museum
+location:
+  city: Atlanta
+  state: GA
+operator: The Coca-Cola Company
+website: https://www.worldofcoca-cola.com
+sources:
+  - https://www.worldofcoca-cola.com/explore-inside/explore-vault-secret-formula
+  - https://investors.coca-colacompany.com/news-events/press-releases/detail/299/coca-cola-moves-its-secret-formula-to-the-world-of-coca-cola

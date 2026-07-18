@@ -1,0 +1,9 @@
+id: metropolitan-museum-of-art
+name: The Metropolitan Museum of Art
+venue_type: art-museum
+location:
+  city: New York
+  state: NY
+website: https://www.metmuseum.org
+sources:
+  - https://www.metmuseum.org/press-releases/81st-st-studio-2023-news

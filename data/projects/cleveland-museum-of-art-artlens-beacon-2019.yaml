@@ -1,0 +1,21 @@
+id: cleveland-museum-of-art-artlens-beacon-2019
+name: ARTLENS Exhibition Beacon (2019 Reinstallation)
+venue: cleveland-museum-of-art
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: dome-collective
+    role: media-design
+    note: "Beacon component update as part of the June 2019 ARTLENS Exhibition reinstallation, adding visitor-generated content"
+technologies:
+  - digital signage
+  - visitor-generated content display
+summary: >
+  The Beacon, a digital media installation welcoming visitors to the
+  Cleveland Museum of Art's ARTLENS Exhibition gallery in Cleveland, Ohio,
+  was updated with new visitor-generated content as part of the gallery's
+  June 14, 2019 reinstallation, with the Beacon component credited to Dome.
+description: ""
+sources:
+  - https://www.clevelandart.org/digital-innovations/digital-innovation-collaborators
+  - https://www.clevelandart.org/articles/exploring-new-installation-artlens-exhibition-why-iteration-matters

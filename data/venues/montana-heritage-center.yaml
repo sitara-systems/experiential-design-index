@@ -1,0 +1,11 @@
+id: montana-heritage-center
+name: Montana Heritage Center
+venue_type: history-museum
+location:
+  city: Helena
+  state: MT
+operator: Montana Historical Society
+website: https://montanamuseum.org
+sources:
+  - https://montanamuseum.org/
+  - https://www.distinctlymontana.com/decade-making-montana-heritage-center-opens-december-2

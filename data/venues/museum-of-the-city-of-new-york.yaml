@@ -1,0 +1,9 @@
+id: museum-of-the-city-of-new-york
+name: Museum of the City of New York
+venue_type: history-museum
+location:
+  city: New York
+  state: NY
+website: https://www.mcny.org
+sources:
+  - https://www.mcny.org/exhibition/new-york-100

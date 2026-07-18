@@ -1,0 +1,37 @@
+id: smithsonian-nmnh-deep-time
+name: David H. Koch Hall of Fossils – Deep Time
+venue: smithsonian-national-museum-of-natural-history
+project_type: new-exhibition
+year_completed: 2019
+credits:
+  - firm: ewingcole
+    role: architecture
+    note: "Architect, structural engineer, and MEP engineer of record; no firm record yet"
+  - firm: reich-petch
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: design-and-production-incorporated
+    role: fabrication
+    note: "Fabrication, installation, model making, dioramas, custom illustration; no firm record yet"
+  - firm: design-and-production-incorporated
+    role: av-integration
+    note: "AV hardware procurement and installation; no firm record yet"
+  - firm: rlmg
+    role: media-design
+    note: "AV and multimedia software design; 22 media pieces including the Evolution Through Deep Time interactive"
+technologies:
+  - interactive touchtables
+  - projection
+  - 3D animation
+summary: >
+  David H. Koch Hall of Fossils – Deep Time, a 31,000-square-foot permanent
+  fossil hall at the Smithsonian's National Museum of Natural History in
+  Washington, DC, opened June 8, 2019; exhibit design by Reich+Petch Design
+  International, architecture by EwingCole, fabrication and AV integration
+  by Design and Production Incorporated, and AV/multimedia software design
+  by RLMG.
+description: ""
+sources:
+  - https://www.d-and-p.com/blog/2019/6/7/new-dino-hall-deep-time-opens-at-the-smithsonians-national-museum-of-natural-history
+  - https://www.bdcnetwork.com/reconstruction-awards/news/55162954/enter-the-world-of-deep-time-david-h-koch-hall-of-fossils
+  - https://www.rlmg.com/work/david-h-koch-hall-of-fossils-deep-time

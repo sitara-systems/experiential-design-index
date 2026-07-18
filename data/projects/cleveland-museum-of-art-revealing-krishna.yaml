@@ -1,0 +1,38 @@
+id: cleveland-museum-of-art-revealing-krishna
+name: "Revealing Krishna: Journey to Cambodia's Sacred Mountain"
+venue: cleveland-museum-of-art
+project_type: temporary-exhibition
+year_completed: 2021
+credits:
+  - firm: dome-collective
+    role: media-design
+    note: "Digital media strategy, creative direction, and UX/UI design for the exhibition's mixed-reality and digital components"
+  - firm: interactive-commons-cwru
+    role: media-design
+    note: "Mixed-reality development team (Interactive Commons at Case Western Reserve University); no firm record yet"
+  - firm: zenith-systems
+    role: av-integration
+    note: "No firm record yet"
+  - firm: dlr-group
+    role: content-production
+    note: "Sound design and production; no firm record yet"
+  - firm: true-edge-archive
+    role: content-production
+    note: "3D art and animation; no firm record yet"
+technologies:
+  - mixed reality
+  - HoloLens
+  - photogrammetry
+  - 3D digital modeling
+summary: >
+  Revealing Krishna: Journey to Cambodia's Sacred Mountain, an exhibition
+  presenting the restoration and mixed-reality reinterpretation of the
+  Cleveland Museum of Art's Krishna Lifting Mount Govardhan sculpture in
+  Cleveland, Ohio, opened November 14, 2021, with digital media strategy,
+  creative direction, and UX/UI design by Dome and mixed-reality development
+  by the Interactive Commons at Case Western Reserve University.
+description: ""
+sources:
+  - https://www.clevelandart.org/about/press/cleveland-museum-arts-highly-anticipated-exhibition-revealing-krishna-journey-cambodias
+  - https://www.clevelandart.org/digital-innovations/digital-innovation-collaborators
+  - https://www.clevescene.com/news/opening-this-weekend-cleveland-museum-of-arts-revealing-krishna-exhibit-offers-viewers-a-groundbreaking-mixed-reality-experience-37681043

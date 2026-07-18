@@ -1,0 +1,27 @@
+id: seattle-central-library-visitor-center
+name: Visitor Center Exhibit
+venue: seattle-central-library
+project_type: new-exhibition
+year_completed: 2014
+credits:
+  - firm: belle-and-wissell
+    role: exhibit-design
+    note: "Enclosure design and ADA accessibility for the orientation stations"
+  - firm: belle-and-wissell
+    role: media-design
+    note: "UI/UX design, 3D building model, and interactive touchscreen stations"
+technologies:
+  - interactive touchscreens
+  - 3D building model
+  - StoryCorps recorded oral histories
+summary: >
+  The Visitor Center Exhibit at Seattle's Central Library, designed by
+  Belle & Wissell for the Seattle Public Library and Seattle Public Library
+  Foundation, opened in 2014 to mark the tenth anniversary of the
+  Rem Koolhaas/LMN-designed building, using "Look" and "Learn" interactive
+  stations to orient visitors to the library's history and architecture.
+description: ""
+sources:
+  - https://bwco.info/work/libraryexhibit/
+  - http://www.bwco.info/2015/03/central-library-visitor-center-celebrates-seattle-public-library-history-and-achievements/
+  - https://www.edrealita.com/seattle-public-library

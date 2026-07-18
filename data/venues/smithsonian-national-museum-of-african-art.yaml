@@ -1,0 +1,10 @@
+id: smithsonian-national-museum-of-african-art
+name: Smithsonian National Museum of African Art
+venue_type: art-museum
+location:
+  city: Washington
+  state: DC
+operator: Smithsonian Institution
+website: https://africa.si.edu
+sources:
+  - https://ideum.com/portfolio/smithsonian-african-art

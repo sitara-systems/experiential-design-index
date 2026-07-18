@@ -1,0 +1,34 @@
+id: cooper-hewitt-interactive-tables
+name: Interactive Multitouch Tables — New Cooper Hewitt Experience
+venue: cooper-hewitt-smithsonian-design-museum
+project_type: major-renovation
+year_completed: 2014
+credits:
+  - firm: gluckman-mayner-architects
+    role: architecture
+    note: Design architect for the museum's capital renovation; Beyer Blinder Belle served as executive architect (not yet a separate firm record)
+  - firm: diller-scofidio-renfro
+    role: exhibit-design
+    note: Named "exhibition designer" for the 2014 reopening
+  - firm: local-projects
+    role: media-design
+    note: Participatory media designer; developed the interactive software layer and content strategy
+  - firm: ideum
+    role: media-design
+    note: Designed and built the 4K UHD multitouch table hardware (four 84" and approximately six 55" tables) and touch walls, with NFC pen-pairing support
+technologies:
+  - multitouch table
+  - projected capacitive touch
+  - NFC
+  - 4K display
+summary: >
+  Cooper Hewitt, Smithsonian Design Museum in New York reopened in December
+  2014 after a capital renovation, introducing an interactive digital visitor
+  experience built around multitouch tables developed by Ideum with
+  participatory software design by Local Projects, exhibition design by
+  Diller Scofidio + Renfro, and architecture by Gluckman Mayner Architects.
+description: ""
+sources:
+  - https://www.si.edu/newsdesk/releases/cooper-hewitt-announces-selection-diller-scofidio-renfro-exhibition-designer-and-local-proj
+  - https://www.cooperhewitt.org/new-experience/
+  - https://ideum.com/portfolio/cooper-hewitt

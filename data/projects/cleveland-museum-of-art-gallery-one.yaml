@@ -1,0 +1,30 @@
+id: cleveland-museum-of-art-gallery-one
+name: Gallery One
+venue: cleveland-museum-of-art
+project_type: new-exhibition
+year_completed: 2013
+credits:
+  - firm: rafael-vinoly-architects
+    role: architecture
+    note: "Museum-wide renovation masterplan and Ames Family Atrium housing Gallery One (no firm record yet)"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: local-projects
+    role: media-design
+    note: "All media design; collaborated with museum staff on concept development, including the interactive Collection Wall and ArtLens app"
+technologies:
+  - interactive touch wall
+  - gesture-based interaction
+  - mobile app
+summary: >
+  Gallery One, an interactive gallery in the Cleveland Museum of Art's Ames
+  Family Atrium, opened to the public January 21, 2013, with media design by
+  Local Projects, exhibit design by Gallagher & Associates, and architecture
+  by Rafael Vinoly Architects.
+description: ""
+sources:
+  - https://www.clevelandart.org/articles/gallery-one
+  - https://www.dandad.org/awards/professional/2013/digital-design/19622/gallery-one/
+  - https://localprojects.com/work/interactive-installations/please-touch-the-art/
+  - https://www.dezeen.com/2009/07/15/cleveland-museum-of-art-east-wing-by-rafael-vinoly-architects/

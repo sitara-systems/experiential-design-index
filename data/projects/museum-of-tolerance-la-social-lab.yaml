@@ -1,0 +1,43 @@
+id: museum-of-tolerance-la-social-lab
+name: The Claudia and Nelson Peltz Social Lab
+venue: museum-of-tolerance-la
+project_type: new-exhibition
+year_completed: 2021
+credits:
+  - firm: unified-field
+    role: exhibit-design
+  - firm: unified-field
+    role: media-design
+  - firm: yazdani-studio-of-cannondesign
+    role: architecture
+    note: "No firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: "No firm record yet"
+  - firm: hlb-lighting-design
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: sierra-construction
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - interactive touchscreens
+  - POV projection mapping
+  - rear-projection displays
+  - four-sided projection glass cube
+summary: >
+  The Claudia and Nelson Peltz Social Lab, a 10,000-square-foot interactive
+  exhibition on social responsibility, opened at the Museum of Tolerance in
+  Los Angeles in August 2021; exhibit and media design by Unified Field,
+  with architecture by Yazdani Studio of CannonDesign and AV integration by
+  Electrosonic.
+description: >
+  Sixteen sequential media-driven experiences guide visitors through themes
+  of bias, empathy, and civic participation, including a POV projection
+  exercise, a "We The People" interactive history wall, collaborative Forum
+  activity tables, and Empathy Vending Machines.
+sources:
+  - https://segd.org/projects/social-lab-at-the-museum-of-tolerance/
+  - https://www.electrosonic.com/projects/the-claudia-nelson-peltz-social-lab-museum-of-tolerance
+  - https://hlblighting.com/project/museum-of-tolerance-social-lab/
+  - https://www.unifiedfield.com/projects/motla

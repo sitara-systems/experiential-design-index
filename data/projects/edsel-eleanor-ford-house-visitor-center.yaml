@@ -1,0 +1,35 @@
+id: edsel-eleanor-ford-house-visitor-center
+name: Edsel & Eleanor Ford House Visitor Center
+venue: edsel-eleanor-ford-house
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: smithgroup
+    role: architecture
+    note: "No firm record yet"
+  - firm: luci-creative
+    role: exhibit-design
+    note: "Interpretive planning & exhibition design; no firm record yet"
+  - firm: rlmg
+    role: media-design
+    note: "Digital interactive design: touchscreen scrapbook, touchtable design visualizer, projection-mapped estate model, vehicle media presentation"
+  - firm: ravenswood-studio
+    role: fabrication
+    note: "No firm record yet"
+  - firm: creative-technology
+    role: av-integration
+    note: "No firm record yet"
+technologies:
+  - projection mapping
+  - touchtable interactive
+  - interactive digital scrapbook
+summary: >
+  The Edsel & Eleanor Ford House Visitor Center, a 6,500-square-foot new
+  visitor center at the historic Ford House estate in Grosse Pointe Shores,
+  Michigan, opened May 26, 2021; architecture by SmithGroup, interpretive
+  planning and exhibition design by Luci Creative, and digital interactive
+  design by RLMG.
+description: ""
+sources:
+  - https://www.rlmg.com/work/ford-house-visitor-center
+  - https://segd.org/resources/edsel-and-eleanor-ford-house-visitor-center/

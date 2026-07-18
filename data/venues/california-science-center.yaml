@@ -1,0 +1,9 @@
+id: california-science-center
+name: California Science Center
+venue_type: science-center
+location:
+  city: Los Angeles
+  state: CA
+website: https://californiasciencecenter.org
+sources:
+  - https://californiasciencecenter.org/exhibits/dogs-a-science-tail

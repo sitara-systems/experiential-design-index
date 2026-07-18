@@ -1,0 +1,39 @@
+id: louisiana-civil-rights-museum-inaugural-experience
+name: The Inaugural Experience
+venue: louisiana-civil-rights-museum
+project_type: temporary-exhibition
+year_completed: 2023
+credits:
+  - firm: local-projects
+    role: exhibit-design
+  - firm: local-projects
+    role: media-design
+    note: "Media and software development, including the projection-mapped, motion-tracking 'Dream Cube'"
+  - firm: solomon-group
+    role: fabrication
+    note: "Exhibit producer: scenic environment and artifact mount fabrication, graphics production and installation (no firm record yet)"
+  - firm: solomon-group
+    role: av-integration
+    note: "AV systems integration and interactive technology (no firm record yet)"
+  - firm: the-artery
+    role: content-production
+    note: "Media production and spatial-tracking (ZED stereo camera) implementation for the Dream Cube (no firm record yet)"
+  - firm: antfood
+    role: content-production
+    note: "Original music, sound design, and audio treatment for the Dream Cube (no firm record yet)"
+technologies:
+  - projection mapping
+  - motion tracking
+  - oral histories
+summary: >
+  The Inaugural Experience, a 5,000-square-foot exhibition and the first
+  public phase of the Louisiana Civil Rights Museum, opened October 2023 at
+  the Ernest N. Morial Convention Center in New Orleans; exhibit and media
+  design by Local Projects, with fabrication and AV integration by Solomon
+  Group.
+description: ""
+sources:
+  - https://louisianastatemuseum.org/museum/louisiana-civil-rights-museum
+  - https://www.localprojects.com/work/institutional-hospital-university-college/sharing-louisianas-unique-place-in-civil-rights-history/
+  - https://solomongroup.com/projects/louisiana-civil-rights-museum
+  - https://www.nola.com/news/business/civil-rights-museum-inaugural-experience-space-unveiled-at-convention-center/article_3d26f67a-5b9e-11ee-82dd-e3671bba84fc.html

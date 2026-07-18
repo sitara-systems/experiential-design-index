@@ -1,0 +1,35 @@
+id: wing-luke-museum-honoring-our-journey
+name: Honoring Our Journey
+venue: wing-luke-museum
+project_type: new-exhibition
+year_completed: 2008
+credits:
+  - firm: belle-and-wissell
+    role: media-design
+    note: "Memory Wall interactive display, shoe-projection entry animation, and Reflection Area water/audio installation"
+  - firm: belle-and-wissell
+    role: exhibit-design
+  - firm: olson-kundig
+    role: architecture
+    note: "Museum building renovation architect (East Kong Yick Building); no firm record yet"
+  - firm: turner-exhibits
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - rear-projection displays
+  - Maya 3D animation
+  - custom interactive software
+  - integrated audio
+  - water projection
+summary: >
+  Honoring Our Journey, the core immigration-history gallery at the Wing
+  Luke Museum of the Asian Pacific American Experience in Seattle's East
+  Kong Yick Building, opened May 31, 2008, with a Memory Wall, a
+  shoe-projection entry installation, and a Reflection Area designed by
+  Belle & Wissell.
+description: ""
+sources:
+  - https://bwco.info/work/memory-wall/
+  - https://www.historylink.org/File/8686
+  - https://www.seattletimes.com/seattle-news/expanded-wing-luke-asian-museums-treasures-are-its-stories/
+  - https://www.wingluke.org/exhibit-honoring-our-journey

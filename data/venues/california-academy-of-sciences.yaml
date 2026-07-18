@@ -1,0 +1,9 @@
+id: california-academy-of-sciences
+name: California Academy of Sciences
+venue_type: science-center
+location:
+  city: San Francisco
+  state: CA
+website: https://www.calacademy.org
+sources:
+  - https://www.calacademy.org/exhibits/color-of-life

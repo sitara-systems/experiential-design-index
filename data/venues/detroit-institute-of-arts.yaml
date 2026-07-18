@@ -1,0 +1,10 @@
+id: detroit-institute-of-arts
+name: Detroit Institute of Arts
+venue_type: art-museum
+location:
+  city: Detroit
+  state: MI
+website: https://www.dia.org
+sources:
+  - https://www.dbusiness.com/daily-news/detroit-institute-of-arts-debuts-expanded-asian-art-gallery-on-sunday/
+  - https://wdet.org/2018/09/14/the-detroit-institute-of-arts-is-growing-its-asian-portfolio/

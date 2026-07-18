@@ -1,0 +1,10 @@
+id: museum-of-the-american-revolution
+name: Museum of the American Revolution
+venue_type: history-museum
+location:
+  city: Philadelphia
+  state: PA
+website: https://www.amrevmuseum.org
+sources:
+  - https://www.amrevmuseum.org
+  - https://en.wikipedia.org/wiki/Museum_of_the_American_Revolution

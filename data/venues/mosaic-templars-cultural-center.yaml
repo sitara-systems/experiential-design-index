@@ -1,0 +1,11 @@
+id: mosaic-templars-cultural-center
+name: Mosaic Templars Cultural Center
+venue_type: history-museum
+location:
+  city: Little Rock
+  state: AR
+operator: Arkansas Department of Parks, Heritage and Tourism
+website: https://www.arkansasheritage.com/mosaic-templars-cultural-center
+sources:
+  - https://www.arkansasheritage.com/mosaic-templars-cultural-center/about/history
+  - https://www.arkansasonline.com/news/2023/nov/28/mosaic-templars-cultural-center-celebrates-15-years-marks-140-years-of-mosaic-templars-of-america/

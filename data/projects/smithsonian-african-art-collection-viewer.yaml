@@ -1,0 +1,27 @@
+id: smithsonian-african-art-collection-viewer
+name: Interactive Collection Viewer
+venue: smithsonian-national-museum-of-african-art
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: ideum
+    role: exhibit-design
+  - firm: ideum
+    role: media-design
+technologies:
+  - multitouch table
+  - dynamic map interface
+summary: >
+  The Interactive Collection Viewer, a touch-table exhibit letting visitors
+  browse more than 200 items from the Smithsonian National Museum of
+  African Art's collection, opened in the museum's renovated entrance
+  pavilion in Washington, D.C. in October 2019, designed and built by Ideum
+  with the museum's curators.
+description: >
+  The exhibit runs on two custom Ideum Platform multitouch tables arranged
+  into four exploration zones: three let visitors browse artworks by
+  country of origin on an animated map of Africa, and a fourth provides
+  historical, cultural, and geographical context for the continent.
+sources:
+  - https://ideum.com/portfolio/smithsonian-african-art
+  - https://ideum.com/news/ideum-art-museum-exhibits

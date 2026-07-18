@@ -1,0 +1,35 @@
+id: greenwood-rising-exhibition
+name: "Greenwood Rising: Black Wall Street History Center"
+venue: greenwood-rising-black-wall-street-history-center
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: selser-schaefer-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: local-projects
+    role: exhibit-design
+    note: "Experience design and museum curation for the 1921 Tulsa Race Massacre Centennial Commission"
+  - firm: local-projects
+    role: media-design
+    note: "Immersive journey using projection mapping, holography, and environmental media"
+  - firm: loyal-kaspar
+    role: content-production
+    note: "Media producer (no firm record yet)"
+  - firm: 1220-fabrication
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - projection mapping
+  - holography
+summary: >
+  Greenwood Rising: Black Wall Street History Center, an 11,000-square-foot
+  museum in Tulsa's Greenwood district built to mark the centennial of the
+  1921 Tulsa Race Massacre, opened to the public in August 2021; architecture
+  by Selser Schaefer Architects, with experience and media design by Local
+  Projects.
+description: ""
+sources:
+  - https://www.greenwoodrising.org/
+  - https://localprojects.com/work/museums-attractions/greenwood-rising/
+  - https://www.aia.org/aia-architect/article/greenwood-risings-story-resilience

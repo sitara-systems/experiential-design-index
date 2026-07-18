@@ -1,0 +1,11 @@
+id: museum-of-tolerance-la
+name: Museum of Tolerance
+venue_type: history-museum
+location:
+  city: Los Angeles
+  state: CA
+operator: Simon Wiesenthal Center
+website: https://www.museumoftolerance.com
+sources:
+  - https://www.museumoftolerance.com/motj/experience/social-lab.html
+  - https://segd.org/projects/social-lab-at-the-museum-of-tolerance/

@@ -1,0 +1,11 @@
+id: smithsonian-national-museum-of-natural-history
+name: Smithsonian National Museum of Natural History
+venue_type: natural-history-museum
+location:
+  city: Washington
+  state: DC
+operator: Smithsonian Institution
+website: https://naturalhistory.si.edu
+sources:
+  - https://naturalhistory.si.edu/exhibits/sant-ocean-hall
+  - https://www.si.edu/newsdesk/releases/new-sant-ocean-hall-opens-sept-27-smithsonian-s-national-museum-natural-history

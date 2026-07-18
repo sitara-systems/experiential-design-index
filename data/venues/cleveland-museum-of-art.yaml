@@ -1,0 +1,9 @@
+id: cleveland-museum-of-art
+name: Cleveland Museum of Art
+venue_type: art-museum
+location:
+  city: Cleveland
+  state: OH
+website: https://www.clevelandart.org
+sources:
+  - https://www.clevelandart.org/home

@@ -1,0 +1,27 @@
+id: california-academy-of-sciences-color-of-life
+name: Color of Life
+venue: california-academy-of-sciences
+project_type: new-exhibition
+year_completed: 2014
+credits:
+  - firm: tellart
+    role: exhibit-design
+    note: "Designed the exhibition's centerpiece interactive installations, including the Color Visualizer, in partnership with the Academy's in-house Exhibits Studio"
+  - firm: tellart
+    role: media-design
+    note: "Custom interactive hardware and an augmented-reality experience revealing ultraviolet light patterns invisible to humans"
+technologies:
+  - augmented reality
+  - custom LED display surface
+  - interactive string-plucking interface
+summary: >
+  Color of Life is a permanent exhibition at the California Academy of
+  Sciences in San Francisco exploring how plants and animals use color, for
+  which Tellart designed the centerpiece interactive installations,
+  including the Color Visualizer, opening in summer 2014.
+description: ""
+sources:
+  - https://www.tellart.com/projects/how-nature-uses-color/
+  - https://www.swiftwingstudio.com/color-of-life-exhibition
+  - http://dasivdesign.com/color-of-life/
+  - https://www.calacademy.org/exhibits/color-of-life

@@ -1,0 +1,9 @@
+id: national-wwii-museum
+name: The National WWII Museum
+venue_type: history-museum
+location:
+  city: New Orleans
+  state: LA
+website: https://www.nationalww2museum.org
+sources:
+  - https://www.nationalww2museum.org/media/press-releases/national-wwii-museum-unveil-new-interactive-oral-history-experience-voices

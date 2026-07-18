@@ -1,0 +1,39 @@
+id: dueling-dinosaurs
+name: Dueling Dinosaurs
+venue: north-carolina-museum-of-natural-sciences
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: ideum
+    role: fabrication
+    note: CNC-fabricated the physical fossil-block reproduction from the museum's 3D scan data
+  - firm: ideum
+    role: media-design
+    note: Built the Fossil Block Theater projection mapping, the Appearance Interactive, and the CT Scanning holographic interactive
+  - firm: urvogel-studios
+    role: content-production
+    note: 3D paleoartists; provided dinosaur movement animation and skeletal surface "skins". Closest vocabulary fit — no dedicated 3D-paleoart/animation role exists; flagged as a possible vocab gap rather than adding one.
+technologies:
+  - CNC fabrication
+  - projection mapping
+  - 3D scanning
+  - holographic display
+  - Unity
+summary: >
+  Dueling Dinosaurs, a permanent exhibition around a fossilized Tyrannosaurus
+  and Triceratops pair, opened April 27, 2024, at the North Carolina Museum
+  of Natural Sciences in Raleigh, featuring three interactive experiences
+  fabricated and built by Ideum with dinosaur animation from Urvogel
+  Studios.
+description: >
+  Ideum's Exhibit Fabrication team CNC-milled a scaled, four-panel foam
+  reproduction of the museum's 3D scan of the Dueling Dinosaurs fossil pair
+  for the Fossil Block Theater, which uses projection mapping to depict
+  burial scenarios. A separate Appearance Interactive lets visitors design a
+  Triceratops using paleontological methods, and a CT Scanning Interactive
+  uses a 32" Looking Glass holographic display to let visitors explore a
+  Thescelosaurus skull's inner-ear anatomy.
+sources:
+  - https://www.dncr.nc.gov/news/press-releases/2024/02/20/nc-museum-natural-sciences-unveil-dueling-dinosaurs-experience-april-27
+  - https://ideum.com/portfolio/dueling-dinosaurs-exhibition
+  - https://blooloop.com/museum/news/ideum-creates-3d-displays-dueling-dinosaurs/

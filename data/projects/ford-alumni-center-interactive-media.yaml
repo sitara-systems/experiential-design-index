@@ -1,0 +1,36 @@
+id: ford-alumni-center-interactive-media
+name: Ford Alumni Center Interactive Media
+venue: ford-alumni-center
+project_type: new-building
+year_completed: 2011
+credits:
+  - firm: second-story
+    role: media-design
+    note: >
+      Nine "Oregon Cascades" media towers, an interactive "Alumni Table,"
+      and a donor-recognition "Entry Wall"
+  - firm: opsis-architecture
+    role: architecture
+    note: Interior architect
+  - firm: tva-architects
+    role: architecture
+    note: Exterior architect
+  - firm: lexington
+    role: fabrication
+technologies:
+  - LED signage
+  - touchscreens
+  - database-driven media
+summary: >
+  Ford Alumni Center Interactive Media, a suite of media installations
+  including nine "Oregon Cascades" towers and an interactive alumni-recognition
+  table, opened with the University of Oregon's Ford Alumni Center in Eugene
+  on June 10, 2011; Second Story designed the interactive media program for a
+  building whose exterior and interior architecture were designed by TVA
+  Architects and Opsis Architecture respectively.
+description: ""
+sources:
+  - https://pages.uoregon.edu/digital/uonews-archive/archive/news-release/2011/6/uo-opens-new-front-door-campus.html
+  - https://www.commarts.com/exhibit/university-of-oregon-ford-alumni-center-interactives
+  - https://tvaarchitects.com/project/ford-alumni-center/
+  - https://opsisarch.com/project/uo-ford-alumni-center/

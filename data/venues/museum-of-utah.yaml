@@ -1,0 +1,11 @@
+id: museum-of-utah
+name: Museum of Utah
+venue_type: history-museum
+location:
+  city: Salt Lake City
+  state: UT
+operator: Utah Historical Society
+website: https://history.utah.gov/museum
+sources:
+  - https://history.utah.gov/museum/
+  - https://www.deseret.com/utah/2026/06/24/museum-of-utah-grand-opening/

@@ -1,0 +1,27 @@
+id: detroit-institute-of-arts-asian-galleries
+name: Asian Art Made Interactive
+venue: detroit-institute-of-arts
+project_type: new-exhibition
+year_completed: 2018
+credits:
+  - firm: tellart
+    role: exhibit-design
+  - firm: tellart
+    role: media-design
+    note: "Japanese Tea Table, 19-foot digital handscroll, and Indian sound station interactives across the reopened Asian galleries"
+  - firm: tellart
+    role: fabrication
+technologies:
+  - 3D-printed controller objects
+  - rotary encoder hardware
+  - touch-sensitive digital table surface
+  - interactive audio station
+summary: >
+  Asian Art Made Interactive comprises three interactive installations
+  designed by Tellart for the Detroit Institute of Arts' reopened Asian art
+  galleries in Detroit, Michigan, which debuted November 4, 2018.
+description: ""
+sources:
+  - https://www.tellart.com/projects/asian-art-made-interactive/
+  - https://www.dbusiness.com/daily-news/detroit-institute-of-arts-debuts-expanded-asian-art-gallery-on-sunday/
+  - https://wdet.org/2018/09/14/the-detroit-institute-of-arts-is-growing-its-asian-portfolio/

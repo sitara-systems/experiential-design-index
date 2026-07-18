@@ -1,0 +1,11 @@
+id: north-carolina-museum-of-natural-sciences
+name: North Carolina Museum of Natural Sciences
+venue_type: natural-history-museum
+location:
+  city: Raleigh
+  state: NC
+operator: North Carolina Department of Natural and Cultural Resources
+website: https://naturalsciences.org
+sources:
+  - https://www.dncr.nc.gov/news/press-releases/2024/02/20/nc-museum-natural-sciences-unveil-dueling-dinosaurs-experience-april-27
+  - https://www.naturalsciences.org/exhibits/permanent-exhibits/dueling-dinosaurs

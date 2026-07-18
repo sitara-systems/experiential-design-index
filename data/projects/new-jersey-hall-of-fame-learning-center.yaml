@@ -1,0 +1,43 @@
+id: new-jersey-hall-of-fame-learning-center
+name: New Jersey Hall of Fame Entertainment and Learning Center
+venue: new-jersey-hall-of-fame
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: c-and-g-partners
+    role: exhibit-design
+    note: "(no firm record yet)"
+  - firm: gensler
+    role: architecture
+    note: "(no firm record yet)"
+  - firm: electrosonic
+    role: av-integration
+    note: "(no firm record yet)"
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "(no firm record yet)"
+  - firm: available-light
+    role: lighting-design
+    note: "(no firm record yet)"
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: "(no firm record yet)"
+  - firm: northern-light-productions
+    role: content-production
+    note: "Virtual reality and 180-degree film production"
+technologies:
+  - virtual reality
+  - LED displays
+  - simulator ride system
+summary: >
+  The New Jersey Hall of Fame Entertainment and Learning Center, a
+  10,000-square-foot experience at the American Dream complex in East
+  Rutherford, opened to the public in June 2024; designed by C&G Partners
+  with architecture by Gensler, AV integration by Electrosonic, fabrication
+  by Kubik Maltbie, and virtual reality and 180-degree film production by
+  Northern Light Productions.
+description: ""
+sources:
+  - https://www.cgpartnersllc.com/projects/the-new-jersey-hall-of-fame-entertainment-and-learning-center/
+  - https://www.electrosonic.com/projects/new-jersey-hall-of-fame
+  - https://www.prnewswire.com/news-releases/unveiling-of-new-jersey-hall-of-fame-at-american-dream-as-americas-first-entertainment-and-learning-center-302174441.html

@@ -1,0 +1,31 @@
+id: sfmoma-gallery-218
+name: Painting and Sculpture Interpretive Gallery
+venue: sfmoma
+project_type: new-exhibition
+year_completed: 2016
+credits:
+  - firm: belle-and-wissell
+    role: media-design
+    note: "Wall and Table interactive experiences, including Eyes-Free audio accessibility mode"
+  - firm: second-story
+    role: media-design
+    note: "Interactive and environmental design; no firm record yet"
+  - firm: bbi-technologies
+    role: av-integration
+    note: "A/V hardware integrator; no firm record yet"
+technologies:
+  - interactive touchscreens
+  - digital table displays
+  - audio-based accessibility mode
+  - museum collection API integration
+summary: >
+  The Painting and Sculpture Interpretive Gallery, a permanent interactive
+  gallery in Gallery 218 at the San Francisco Museum of Modern Art, opened in
+  May 2016 as part of SFMOMA's expansion; Belle & Wissell and Second Story
+  designed the Wall and Table interactive experiences, later adding an
+  Eyes-Free audio accessibility mode.
+description: ""
+sources:
+  - https://www.sfmoma.org/press/release/new-sfmoma-announces-transformed-digital-strategy/
+  - https://bwco.info/work/gallery218/
+  - https://bwco.info/2020/09/belle-wissell-helps-sfmoma-go-eyes-free/

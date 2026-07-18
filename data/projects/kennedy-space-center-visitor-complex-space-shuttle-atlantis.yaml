@@ -1,0 +1,50 @@
+id: kennedy-space-center-visitor-complex-space-shuttle-atlantis
+name: Space Shuttle Atlantis
+venue: kennedy-space-center-visitor-complex
+project_type: new-building
+year_completed: 2013
+credits:
+  - firm: pgav-destinations
+    role: architecture
+    note: "No firm record yet"
+  - firm: pgav-destinations
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: fisher-marantz-stone
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: "No firm record yet"
+  - firm: unified-field
+    role: media-design
+    note: >
+      Credited by Unified Field for a subset of interactive programs
+      (multi-user media walls, AR viewers, simulators) within the larger
+      exhibit; PGAV Destinations' and Electrosonic's own project pages
+      describe comprehensive design/AV credit for the interactive stations
+      and do not name Unified Field. Scope not independently resolved
+      between sources — see index notes.
+technologies:
+  - augmented reality viewers
+  - large-scale multi-user media walls
+  - simulators (robotic arm, orbiter docking, VAB crane, EVA)
+  - projection and video mapping
+summary: >
+  Space Shuttle Atlantis, a 90,000-square-foot, $100 million exhibit
+  building housing the retired orbiter Atlantis, opened at the Kennedy
+  Space Center Visitor Complex near Cape Canaveral, Florida, on June 29,
+  2013; architecture and exhibit design by PGAV Destinations, lighting
+  design by Fisher Marantz Stone, and AV integration by Electrosonic, with
+  Unified Field credited for a set of the exhibit's interactive media
+  programs.
+description: >
+  The exhibit displays the orbiter Atlantis suspended and tilted 43.21
+  degrees alongside more than 60 interactive stations telling the 30-year
+  story of the Space Shuttle and International Space Station programs.
+sources:
+  - https://spacenews.com/kennedy-space-center-visitor-complex-welcomes-space-shuttle-atlantis-as-centerpiece-of-100-million-exhibit/
+  - https://pgavdestinations.com/project/space-shuttle-atlantis-kennedy-space-center/
+  - https://www.fmsp.com/projects/kennedy-space-center-visitor-complex-space-shuttle-atlantis/
+  - https://www.electrosonic.com/projects/space-shuttle-atlantis-at-kennedy-space-center-visitor-complex
+  - https://www.unifiedfield.com/projects/kennedy-space-center

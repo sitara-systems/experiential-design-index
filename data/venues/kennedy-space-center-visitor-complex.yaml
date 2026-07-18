@@ -1,0 +1,11 @@
+id: kennedy-space-center-visitor-complex
+name: Kennedy Space Center Visitor Complex
+venue_type: visitor-center
+location:
+  city: Merritt Island
+  state: FL
+operator: Delaware North Parks & Resorts / NASA
+website: https://www.kennedyspacecenter.com
+sources:
+  - https://www.kennedyspacecenter.com/explore-attractions/space-shuttle-atlantis/
+  - https://pgavdestinations.com/project/space-shuttle-atlantis-kennedy-space-center/

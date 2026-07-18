@@ -1,0 +1,11 @@
+id: greenwood-rising-black-wall-street-history-center
+name: "Greenwood Rising: Black Wall Street History Center"
+venue_type: history-museum
+location:
+  city: Tulsa
+  state: OK
+operator: 1921 Tulsa Race Massacre Centennial Commission
+website: https://www.greenwoodrising.org
+sources:
+  - https://www.greenwoodrising.org/
+  - https://www.aia.org/aia-architect/article/greenwood-risings-story-resilience

@@ -1,0 +1,9 @@
+id: edsel-eleanor-ford-house
+name: Edsel & Eleanor Ford House
+venue_type: history-museum
+location:
+  city: Grosse Pointe Shores
+  state: MI
+website: https://fordhouse.org
+sources:
+  - https://fordhouse.org/the-estate/visitor-center/

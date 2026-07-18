@@ -1,0 +1,10 @@
+id: nypl-schwarzman-building
+name: New York Public Library, Stephen A. Schwarzman Building
+venue_type: library-archive
+location:
+  city: New York
+  state: NY
+operator: The New York Public Library
+website: https://www.nypl.org/locations/schwarzman
+sources:
+  - https://www.nypl.org/locations/schwarzman

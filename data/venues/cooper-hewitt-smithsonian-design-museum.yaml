@@ -1,0 +1,11 @@
+id: cooper-hewitt-smithsonian-design-museum
+name: Cooper Hewitt, Smithsonian Design Museum
+venue_type: design-museum
+location:
+  city: New York
+  state: NY
+operator: Smithsonian Institution
+website: https://www.cooperhewitt.org
+sources:
+  - https://www.si.edu/newsdesk/releases/cooper-hewitt-announces-selection-diller-scofidio-renfro-exhibition-designer-and-local-proj
+  - https://www.cooperhewitt.org/new-experience/

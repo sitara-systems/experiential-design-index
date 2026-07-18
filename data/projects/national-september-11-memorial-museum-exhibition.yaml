@@ -1,0 +1,45 @@
+id: national-september-11-memorial-museum-exhibition
+name: National September 11 Memorial Museum
+venue: national-september-11-memorial-museum
+project_type: new-building
+year_completed: 2014
+credits:
+  - firm: davis-brody-bond
+    role: architecture
+    note: "Design architect for the underground Memorial Museum (no firm record yet)"
+  - firm: thinc-design
+    role: exhibit-design
+    note: "Lead exhibition designer for the Memorial Museum, with Local Projects (no firm record yet)"
+  - firm: layman-design
+    role: exhibit-design
+    note: "Historical exhibition design, brought on 2010 (no firm record yet)"
+  - firm: local-projects
+    role: media-design
+    note: "Oral history platform built from first-person accounts of survivors, first responders, and witnesses"
+  - firm: c-and-g-partners
+    role: graphics-wayfinding
+    note: "Wayfinding signage and environmental graphics for the site (no firm record yet)"
+  - firm: electrosonic
+    role: av-integration
+    note: "AV and interactive technology systems, ~1,000 AV devices, 64 projectors (no firm record yet)"
+  - firm: design-and-production-incorporated
+    role: fabrication
+    note: "Exhibit fabrication and installation: artifact cases, platforms, flooring, wall finishes, lighting hardware (no firm record yet)"
+technologies:
+  - oral history platform
+  - touchscreen interactives
+  - projection
+summary: >
+  The National September 11 Memorial Museum, an underground history museum
+  at the World Trade Center site in New York City, was dedicated May 15,
+  2014 and opened to the public May 21, 2014; architecture by Davis Brody
+  Bond, exhibition design by Thinc Design and Layman Design, media design by
+  Local Projects, and AV integration by Electrosonic.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum
+  - https://www.thincdesign.com/project/911-memorial-and-museum
+  - https://localprojects.com/work/interactive-installations/a-museum-of-collective-memory/
+  - https://www.davisbrodybond.com/national-september-11-memorial-museum
+  - https://www.electrosonic.com/projects/national-september-11-memorial-and-museum
+  - https://www.lizkidera.com/layman-design

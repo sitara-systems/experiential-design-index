@@ -1,0 +1,10 @@
+id: space-needle
+name: Space Needle
+venue_type: themed-attraction
+location:
+  city: Seattle
+  state: WA
+website: https://www.spaceneedle.com
+sources:
+  - https://segd.org/projects/skypad-interactive-wall/
+  - https://bwco.info/work/skypad/

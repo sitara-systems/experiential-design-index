@@ -1,0 +1,11 @@
+id: national-archives-building
+name: National Archives Building
+venue_type: library-archive
+location:
+  city: Washington
+  state: DC
+operator: National Archives and Records Administration
+website: https://www.archives.gov
+sources:
+  - https://www.archives.gov/press/press-releases/2005-2
+  - https://www.archives.gov/press/press-kits/public-vaults.html

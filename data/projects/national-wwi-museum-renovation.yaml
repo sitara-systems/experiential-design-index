@@ -1,0 +1,56 @@
+id: national-wwi-museum-renovation
+name: National WWI Museum and Memorial Renovation and Expansion
+venue: national-wwi-museum-and-memorial
+project_type: major-renovation
+year_completed: 2006
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: asai-architects
+    role: architecture
+    note: "Renovation architect"
+  - firm: group-one-architects
+    role: architecture
+    note: "Exhibit hall architect"
+  - firm: donna-lawrence-productions
+    role: content-production
+    note: "Linear media and video production"
+  - firm: second-story
+    role: media-design
+    note: "Interactive touchscreen displays"
+  - firm: potion-design
+    role: media-design
+    note: "Interactive table engineering"
+  - firm: electrosonic
+    role: av-integration
+  - firm: technical-artistry
+    role: lighting-design
+  - firm: explus
+    role: fabrication
+    note: "Millwork, cases, furniture, graphics"
+  - firm: taylor-studios
+    role: fabrication
+    note: "Scenic fabrication, figures"
+  - firm: sanders-museum-services
+    role: fabrication
+    note: "Collection mounting"
+  - firm: meyvaert-museum-glass
+    role: fabrication
+    note: "Glass structures"
+  - firm: folia-industries
+    role: fabrication
+    note: "Large-scale graphics"
+technologies:
+  - interactive touchscreen tables
+  - projected and linear video media
+summary: >
+  The National WWI Museum and Memorial in Kansas City, Missouri, reopened in
+  December 2006 after a major renovation and 80,000-square-foot expansion,
+  with exhibition design by Ralph Appelbaum Associates, architecture by ASAI
+  Architects and Group One Architects, and interactive media including
+  touchscreen displays by Second Story Interactive Studios and an interactive
+  table engineered by Potion Inc.
+description: ""
+sources:
+  - https://segd.org/projects/content-national-world-war-i-museum/
+  - https://en.wikipedia.org/wiki/National_World_War_I_Museum_and_Memorial

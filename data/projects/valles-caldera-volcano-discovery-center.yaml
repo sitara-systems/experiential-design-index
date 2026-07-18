@@ -1,0 +1,37 @@
+id: valles-caldera-volcano-discovery-center
+name: Volcano Discovery Center Interactive Projection Map
+venue: valles-caldera-national-preserve
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: ideum
+    role: exhibit-design
+  - firm: ideum
+    role: media-design
+  - firm: ideum
+    role: fabrication
+  - firm: ideum
+    role: av-integration
+technologies:
+  - projection mapping
+  - CNC-milled relief model
+  - multitouch display
+  - surround sound
+summary: >
+  The Volcano Discovery Center at Valles Caldera National Preserve near
+  Jemez Springs, New Mexico, opened July 25, 2025, with a 12-foot
+  CNC-milled topographic relief map as a projection-mapping centerpiece,
+  designed, fabricated, and built by Ideum in collaboration with the
+  National Park Service and area tribes and pueblos.
+description: >
+  A 4K, 13,000-lumen projector animates sequences across the milled and
+  scenically painted relief map, paired with synchronized RGB wall lighting
+  and a 6.1 surround-sound system. Four 34" touchscreen stations around the
+  map's perimeter let visitors control content across four themes (cultural
+  history, geology, ecology, and scientific discovery); a separate touch
+  display at the preserve's Welcome Station provides orientation
+  information.
+sources:
+  - https://blooloop.com/museum/news/ideum-valles-caldera-national-preserve/
+  - https://ideum.com/portfolio/valles-caldera-interactive-projection-map-table
+  - https://ideum.com/news/opening-valles-caldera-exhibit

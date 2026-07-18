@@ -1,0 +1,10 @@
+id: wing-luke-museum
+name: Wing Luke Museum of the Asian Pacific American Experience
+venue_type: history-museum
+location:
+  city: Seattle
+  state: WA
+website: https://www.wingluke.org
+sources:
+  - https://www.historylink.org/File/8686
+  - https://www.wingluke.org/exhibit-honoring-our-journey

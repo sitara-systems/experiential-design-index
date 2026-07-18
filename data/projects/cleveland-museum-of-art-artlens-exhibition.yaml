@@ -1,0 +1,30 @@
+id: cleveland-museum-of-art-artlens-exhibition
+name: ARTLENS Exhibition
+venue: cleveland-museum-of-art
+project_type: new-exhibition
+year_completed: 2017
+credits:
+  - firm: potion-design
+    role: media-design
+    note: "All media design and interaction design for sixteen motion- and gaze-tracking games across six projection walls"
+  - firm: local-projects
+    role: media-design
+    note: "ARTLENS App and Beacon development"
+  - firm: dome-collective
+    role: media-design
+    note: "Beacon design (credited as \"Dome Collaborative\" in some CMA materials; same studio, see data/firms/dome-collective.yaml aka)"
+technologies:
+  - motion tracking
+  - facial and gaze tracking
+  - projection mapping
+summary: >
+  The ARTLENS Exhibition, a touchscreen-free reimagining of the Cleveland
+  Museum of Art's technology gallery in Cleveland, Ohio, opened June 25,
+  2017, with sixteen interactive games using motion- and gaze-tracking across
+  six projection walls, designed by Potion in collaboration with Local
+  Projects and Dome Collaborative.
+description: ""
+sources:
+  - https://www.clevelandart.org/about/press/cleveland-museum-art-introduces-artlens-gallery-touchscreen-free-approach-integrating
+  - https://www.clevelandart.org/digital-innovations/digital-innovation-collaborators
+  - https://www.commarts.com/project/26012/artlens-exhibition

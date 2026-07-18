@@ -1,0 +1,33 @@
+id: montana-heritage-center-homeland-gallery
+name: Dennis Washington Homeland Gallery
+venue: montana-heritage-center
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: cushing-terrell
+    role: architecture
+    note: "No firm record yet"
+  - firm: main-street-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: "AV integration and system architecture; no firm record yet"
+  - firm: rlmg
+    role: media-design
+    note: "Dynamic interactive and media content across the Homeland Gallery, including a synchronized-projection mineshaft experience"
+technologies:
+  - synchronized projection mapping
+  - LED displays
+  - motion platform
+  - spatial audio
+summary: >
+  The Montana Heritage Center, a new state history museum in Helena,
+  Montana anchored by the 16,000-square-foot Dennis Washington Homeland
+  Gallery, opened December 2, 2025; architecture by Cushing Terrell, exhibit
+  design by Main Street Design, AV integration by Electrosonic, and media
+  design by RLMG.
+description: ""
+sources:
+  - https://blooloop.com/electrosonic-rlmg-montana-heritage-center/
+  - https://www.distinctlymontana.com/decade-making-montana-heritage-center-opens-december-2

@@ -1,0 +1,32 @@
+id: potion-design
+name: Potion Design
+aka:
+  - Potion
+website: https://www.potiondesign.com/about-us/
+hq:
+  city: Brooklyn
+  state: NY
+other_offices: []
+founded: 2005
+roles:
+  - media-design
+status: inactive
+status_basis: >
+  Acquired by Hyperquake, announced May 2, 2024; per Hyperquake's own account
+  of the merger, "the Potion brand name is no longer used independently" and
+  its work is now folded into Hyperquake's Experiences team. No independent
+  Potion-branded activity found after the acquisition.
+status_verified: 2026-07-18
+# successor: hyperquake  # Hyperquake has no firm record yet in this index (out of scope for this batch); add this field once one exists.
+summary: >
+  Potion Design was a New York interactive design and media studio founded in
+  2005 by MIT Media Lab alumni Jared Schiffman and Phillip Tiongson,
+  producing interactive exhibits, kiosks, and apps for museums including the
+  Cleveland Museum of Art, the Rubin Museum, the National WWI Museum and
+  Memorial, and the New York Public Library. In May 2024 it was acquired by
+  the experience-design agency Hyperquake and its brand was absorbed into
+  Hyperquake's operations.
+sources:
+  - https://en.wikipedia.org/wiki/Potion_Design
+  - https://www.hyperquake.com/potion-merger
+  - https://www.prnewswire.com/news-releases/independent-creative-strategy-branding-and-experience-design-agency-hyperquake-acquires-award-winning-design-and-technology-studio-potion-302134733.html

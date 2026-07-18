@@ -1,0 +1,9 @@
+id: sfmoma
+name: San Francisco Museum of Modern Art
+venue_type: art-museum
+location:
+  city: San Francisco
+  state: CA
+website: https://www.sfmoma.org
+sources:
+  - https://www.sfmoma.org/press/release/new-sfmoma-announces-transformed-digital-strategy/
