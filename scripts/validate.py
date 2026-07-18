@@ -115,6 +115,29 @@ def check_url(val, rel, field, findings):
         findings.append(Finding("warning", rel, field, f"'{val}' does not look like a URL"))
 
 
+def check_place(rec, rel, field, findings):
+    """Validate an hq/location mapping. city always required; state required
+    for US places (country absent or 'US'), optional otherwise (non-US places
+    use country instead — e.g. {city: Amsterdam, country: NL})."""
+    place = rec.get(field)
+    if not place or not isinstance(place, dict) or not place.get("city"):
+        findings.append(Finding("error", rel, field, f"{field}.city is required"))
+        return
+    country = str(place.get("country", "US")).upper()
+    if country == "US" and not place.get("state"):
+        findings.append(Finding("error", rel, field, f"{field}.state is required for US places (or set country for non-US)"))
+
+
+# Folded YAML scalars silently join wrapped lines; a line broken after a
+# hyphen produces artifacts like "12-years-in-the- making" in public text.
+ARTIFACT_RE = re.compile(r"[A-Za-z]- [a-z]")
+
+
+def check_text_artifacts(val, rel, field, findings):
+    if val and ARTIFACT_RE.search(str(val)):
+        findings.append(Finding("warning", rel, field, "contains 'x- y' pattern — likely a folded-scalar line-wrap artifact; rejoin the hyphenated word"))
+
+
 def check_year(val, rel, field, findings):
     if val is None:
         return
@@ -130,9 +153,7 @@ def check_year(val, rel, field, findings):
 def validate_firms(firms, vocab, findings):
     for fid, (rec, rel) in firms.items():
         require(rec, rel, "name", findings)
-        hq = rec.get("hq")
-        if not hq or not isinstance(hq, dict) or not hq.get("city") or not hq.get("state"):
-            findings.append(Finding("error", rel, "hq", "hq.city and hq.state are required"))
+        check_place(rec, rel, "hq", findings)
         for office in rec.get("other_offices") or []:
             if not isinstance(office, dict) or not office.get("city"):
                 findings.append(Finding("warning", rel, "other_offices", f"malformed entry: {office}"))
@@ -158,7 +179,8 @@ def validate_firms(firms, vocab, findings):
         successor = rec.get("successor")
         if successor and successor not in firms:
             findings.append(Finding("error", rel, "successor", f"successor firm '{successor}' not found in data/firms/"))
-        require(rec, rel, "summary", findings)
+        summary = require(rec, rel, "summary", findings)
+        check_text_artifacts(summary, rel, "summary", findings)
         sources = rec.get("sources") or []
         if not sources:
             findings.append(Finding("error", rel, "sources", "at least one source is required"))
@@ -208,7 +230,9 @@ def validate_projects(projects, firms, venues, vocab, findings):
                 findings.append(Finding("error", rel, "credits", "credit missing 'role'"))
             elif crole not in vocab["roles"]:
                 findings.append(Finding("error", rel, "credits", f"'{crole}' is not in vocabularies.yaml roles"))
-        require(rec, rel, "summary", findings)
+        summary = require(rec, rel, "summary", findings)
+        check_text_artifacts(summary, rel, "summary", findings)
+        check_text_artifacts(rec.get("description"), rel, "description", findings)
         sources = rec.get("sources") or []
         if not sources:
             findings.append(Finding("error", rel, "sources", "at least one source is required"))
@@ -222,9 +246,7 @@ def validate_venues(venues, vocab, findings):
         vtype = require(rec, rel, "venue_type", findings)
         if vtype and vtype not in vocab["venue_types"]:
             findings.append(Finding("error", rel, "venue_type", f"'{vtype}' is not a valid venue_type"))
-        loc = rec.get("location")
-        if not loc or not isinstance(loc, dict) or not loc.get("city") or not loc.get("state"):
-            findings.append(Finding("error", rel, "location", "location.city and location.state are required"))
+        check_place(rec, rel, "location", findings)
         check_url(rec.get("website"), rel, "website", findings)
 
 

@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}Venues — The Experiential Design Index{% endblock %}
+{% block meta_description %}All venues in The Experiential Design Index, alphabetically.{% endblock %}
+{% block jsonld %}
+<script type="application/ld+json">{{ jsonld | safe }}</script>
+{% endblock %}
+{% block content %}
+<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; Venues</div>
+<h1>Venues</h1>
+<p class="subtitle">{{ venues|length }} venues, alphabetically.</p>
+<table class="list">
+  <thead><tr><th>Name</th><th>Type</th><th>Location</th><th>Projects</th></tr></thead>
+  <tbody>
+  {% for v in venues %}
+    <tr>
+      <td><a href="{{ base }}/venues/{{ v.id }}.html">{{ v.name }}</a></td>
+      <td>{{ v.venue_type_label }}</td>
+      <td>{{ v.location.city }}, {{ v.location.state }}</td>
+      <td>{{ v.project_count }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

@@ -4,6 +4,8 @@ venue: moonshot-museum
 project_type: new-exhibition
 year_completed: 2022
 credits:
+  - firm: luci-creative
+    role: exhibit-design
   - firm: rlmg
     role: media-design
     note: "Linked interactive stations across themed environments on lunar exploration"
@@ -11,15 +13,15 @@ credits:
     role: fabrication
   - firm: ravenswood-studio
     role: fabrication
-    note: "No firm record yet"
 technologies:
   - interactive stations
   - UX software
 summary: >
   Moonshot Museum, a space-exploration museum on the campus of Astrobotic in
-  Pittsburgh, Pennsylvania, opened in 2022; RLMG designed the interactive
-  media across the museum's themed stations, with fabrication by Solomon
-  Group and Ravenswood Studio.
+  Pittsburgh, Pennsylvania, opened in 2022; Luci Creative led exhibit design,
+  RLMG designed the interactive media across the museum's themed stations,
+  with fabrication by Solomon Group and Ravenswood Studio.
 description: ""
 sources:
   - https://www.rlmg.com/work/moonshot-museum
+  - https://www.lucicreative.com/project/moonshot-museum

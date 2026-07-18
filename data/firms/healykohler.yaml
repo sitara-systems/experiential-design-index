@@ -1,0 +1,39 @@
+# Firm record — HealyKohler Design
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: healykohler
+name: HealyKohler Design
+website: https://www.healykohler.com
+hq:
+  city: Washington
+  state: DC
+founded: 2008
+roles:
+  - master-planning
+  - exhibit-design
+  - interpretive-planning
+  - media-design
+  - graphics-wayfinding
+status: active
+status_basis: >
+  Exhibit, graphic, and media design credited on the International Tennis
+  Hall of Fame & Museum renovation, which reopened May 14, 2025; the National
+  Medal of Honor Leadership & Education Center at Patriots Point (Mount
+  Pleasant, SC) publicly announced for a Memorial Day 2026 opening with
+  HealyKohler named as exhibit designer; active project portfolio maintained
+  on healykohler.com as of this check.
+status_verified: 2026-07-18
+summary: >
+  HealyKohler Design is a Washington, DC-based museum planning and exhibition
+  design studio founded in 2008 by Terence Healy and Susan Kohler, providing
+  interpretive master planning, exhibition design, media design, and
+  environmental graphics for museums, visitor centers, halls of fame, and
+  historic sites across the United States.
+sources:
+  - https://www.healykohler.com/
+  - https://www.healykohler.com/studio/
+  - https://www.healykohler.com/work/
+  - https://www.healykohler.com/project/international-tennis-hall-of-fame-museum/
+  - https://www.healykohler.com/project/beyond-the-battle-museum/
+  - https://www.healykohler.com/project/national-medal-of-honor-leadership-education-center/
+  - https://www.linkedin.com/company/healy-kohler-design

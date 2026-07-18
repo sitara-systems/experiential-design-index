@@ -36,6 +36,18 @@ destinations (museums, science centers, attractions) and in institutional
 settings — academic, healthcare, corporate, and civic spaces with
 public-facing experiential installations. A venue does not need to be a
 standalone public destination for its projects to be part of the record.
+**Employee-only corporate workplace interiors are out of scope**: an office
+its own staff experiences is not a public-facing designed experience. The
+line is audience, not client industry — a company's briefing center,
+experience center, or lobby installation that receives visitors is in
+scope; its internal workplace is not.
+
+**What "US-based" means:** a firm's operating reality governs, not its legal
+registration. A firm whose verifiable current operations (staff, projects,
+published presence) run from the United States is US-based; a firm operating
+from abroad is not, even if a US legal entity persists. Where the public
+record leaves a firm's US presence genuinely uncertain, the firm's activity
+status says so (see below) rather than the index guessing.
 
 **Project-type scope: no advertising.** The index does not cover
 advertising campaigns, ad-agency work, or one-off marketing/brand

@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block title %}{{ venue.name }} — The Experiential Design Index{% endblock %}
+{% block meta_description %}{{ venue.name }} — {{ venue.venue_type_label }} in {{ venue.location.city }}, {{ venue.location.state }}. Projects and credited firms in The Experiential Design Index.{% endblock %}
+{% block jsonld %}
+<script type="application/ld+json">{{ jsonld | safe }}</script>
+{% endblock %}
+{% block content %}
+<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; <a href="{{ base }}/venues/index.html">Venues</a> &gt; {{ venue.name }}</div>
+<h1>{{ venue.name }}</h1>
+
+<table class="facts">
+  <tr><th>Type</th><td>{{ venue.venue_type_label }}</td></tr>
+  <tr><th>Location</th><td>{{ venue.location.city }}, {{ venue.location.state }}</td></tr>
+  {% if venue.operator %}<tr><th>Operator</th><td>{{ venue.operator }}</td></tr>{% endif %}
+  {% if venue.website %}<tr><th>Website</th><td><a href="{{ venue.website }}">{{ venue.website }}</a></td></tr>{% endif %}
+</table>
+
+<h2>Projects ({{ venue.projects|length }})</h2>
+{% if venue.projects %}
+<table class="list">
+  <thead><tr><th>Project</th><th>Type</th><th>Year</th></tr></thead>
+  <tbody>
+  {% for p in venue.projects %}
+    <tr>
+      <td><a href="{{ base }}/projects/{{ p.id }}.html">{{ p.name }}</a></td>
+      <td>{{ p.project_type_label }}</td>
+      <td>{{ p.year_display }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p>No projects on record yet.</p>
+{% endif %}
+
+{% if venue.sources %}
+<h2>Sources</h2>
+<ul class="sources">
+  {% for s in venue.sources %}<li><a href="{{ s }}">{{ s }}</a></li>{% endfor %}
+</ul>
+{% endif %}
+{% endblock %}

@@ -11,7 +11,6 @@ credits:
     role: fabrication
   - firm: the-prd-group
     role: exhibit-design
-    note: "No firm record yet"
 technologies:
   - motion sensing
   - facial mapping

@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}{{ firm.name }} — The Experiential Design Index{% endblock %}
+{% block meta_description %}{{ firm.summary | truncate(155) }}{% endblock %}
+{% block jsonld %}
+<script type="application/ld+json">{{ jsonld | safe }}</script>
+{% endblock %}
+{% block content %}
+<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; <a href="{{ base }}/firms/index.html">Firms</a> &gt; {{ firm.name }}</div>
+<h1>{{ firm.name }}</h1>
+{% if firm.aka %}<p class="subtitle">Also known as: {{ firm.aka | join(', ') }}</p>{% endif %}
+
+<span class="status-pill status-{{ firm.status }}">{{ firm.status_label }}</span>
+<p class="status-note">{{ firm.status_basis }} (verified {{ firm.status_verified }}){% if firm.successor %} &mdash; succeeded by <a href="{{ base }}/firms/{{ firm.successor }}.html">{{ firm.successor_name }}</a>{% endif %}</p>
+
+<p class="summary">{{ firm.summary }}</p>
+
+<table class="facts">
+  <tr><th>Headquarters</th><td>{{ firm.hq.city }}, {{ firm.hq.state }}</td></tr>
+  {% if firm.other_offices %}<tr><th>Other offices</th><td>{% for o in firm.other_offices %}{{ o.city }}{% if o.state %}, {{ o.state }}{% endif %}{% if not loop.last %}; {% endif %}{% endfor %}</td></tr>{% endif %}
+  {% if firm.founded %}<tr><th>Founded</th><td>{{ firm.founded }}</td></tr>{% endif %}
+  <tr><th>Roles</th><td>{{ firm.role_labels | join(', ') }}</td></tr>
+  {% if firm.website %}<tr><th>Website</th><td><a href="{{ firm.website }}">{{ firm.website }}</a></td></tr>{% endif %}
+</table>
+
+<h2>Projects ({{ firm.projects|length }})</h2>
+{% if firm.projects %}
+<table class="list">
+  <thead><tr><th>Project</th><th>Venue</th><th>Role</th><th>Year</th></tr></thead>
+  <tbody>
+  {% for p in firm.projects %}
+    <tr>
+      <td><a href="{{ base }}/projects/{{ p.id }}.html">{{ p.name }}</a></td>
+      <td>{% if p.venue_exists %}<a href="{{ base }}/venues/{{ p.venue }}.html">{{ p.venue_name }}</a>{% else %}{{ p.venue_name }}{% endif %}</td>
+      <td>{{ p.role_labels | join(', ') }}</td>
+      <td>{{ p.year_display }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p>No projects on record yet.</p>
+{% endif %}
+
+<h2>Sources</h2>
+<ul class="sources">
+  {% for s in firm.sources %}<li><a href="{{ s }}">{{ s }}</a></li>{% endfor %}
+</ul>
+{% endblock %}

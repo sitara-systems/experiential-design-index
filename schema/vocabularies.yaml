@@ -37,6 +37,13 @@ roles:
   - id: technical-consulting
     label: Technical Consulting / Owner's Representation
     note: Technology master planning, owner's-side technical oversight
+  - id: landscape-architecture
+    label: Landscape Architecture
+    note: Landscape and site design for experiential projects
+# Intentionally NOT roles (editorial decision 2026-07-18, do not re-flag):
+# general contracting/construction engineering and photography. Both appear
+# in project credit lists but are outside the experiential delivery stack
+# this index documents — leave those credits out of records.
 
 # Project type — a proxy for scope and scale, from ground-up construction
 # down to a single installation.

@@ -15,6 +15,14 @@ credits:
       Half-scale interactive football field capturing visitor touchdown
       dances on a Jumbotron, and a reactive concessions beverage cart with
       LED-animated exterior, in collaboration with sponsor Coca-Cola
+  - firm: cortina-productions
+    role: content-production
+    note: "Media production, per BBI Engineering's own project page"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      AV systems design and installation, incl. the interactive "College
+      Gameday" virtual-commentator exhibit
 technologies:
   - motion capture
   - LED animation
@@ -24,9 +32,11 @@ summary: >
   Atlanta, opened August 2014; architecture and interiors were by
   tvsdesign, exhibit design was by Gallagher & Associates, and Second Story
   designed a half-scale interactive football field and a reactive
-  concessions cart with sponsor Coca-Cola.
+  concessions cart with sponsor Coca-Cola. AV integration was by BBI
+  Engineering.
 description: ""
 sources:
   - https://www.archdaily.com/796711/college-football-hall-of-fame-tvsdesign
   - https://en.wikipedia.org/wiki/College_Football_Hall_of_Fame
   - https://2s-archive.rzrfs.com/work/cfhf
+  - https://bbinet.com/works/college-football-hall-of-fame/

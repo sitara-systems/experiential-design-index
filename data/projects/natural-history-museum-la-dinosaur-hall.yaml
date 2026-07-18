@@ -6,13 +6,12 @@ year_completed: 2011
 credits:
   - firm: evidence-design
     role: exhibit-design
-    note: "No firm record yet"
   - firm: unified-field
     role: media-design
     note: Interactive media programs
   - firm: lexington
     role: fabrication
-    note: "Lexington Design & Fabrication; no firm record yet"
+    note: "Lexington Design & Fabrication"
   - firm: electrosonic
     role: av-integration
 technologies:

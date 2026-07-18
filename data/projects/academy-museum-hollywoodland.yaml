@@ -12,10 +12,8 @@ credits:
     note: "No firm record yet"
   - firm: bbi-engineering
     role: av-integration
-    note: "No firm record yet"
   - firm: cinnabar
     role: fabrication
-    note: "No firm record yet"
 technologies:
   - projection mapping
   - four-projector cyclorama

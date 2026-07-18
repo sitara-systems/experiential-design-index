@@ -9,7 +9,9 @@ credits:
     note: "Seven exhibit video montages and an exclusive Oprah Winfrey interview"
   - firm: healykohler
     role: exhibit-design
-    note: "No firm record yet"
+  - firm: capitol-museum-services
+    role: fabrication
+    note: "4,300 sq ft special exhibit with custom casework, artifact mounts, and AV integration, per CMS's own portfolio"
 technologies:
   - video montage
   - interactive interview kiosk
@@ -17,7 +19,9 @@ summary: >
   Watching Oprah, a special exhibition on Oprah Winfrey's cultural impact at
   the National Museum of African American History and Culture in
   Washington, DC, opened in 2018; RLMG produced the exhibit videos and an
-  exclusive interview, with exhibit design by HealyKohler.
+  exclusive interview, with exhibit design by HealyKohler and fabrication
+  by Capitol Museum Services.
 description: ""
 sources:
   - https://www.rlmg.com/work/watching-oprah
+  - https://capitolmuseumservices.com/portfolio/museums/

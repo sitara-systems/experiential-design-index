@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}The Experiential Design Index — who built what in experiential design{% endblock %}
+{% block jsonld %}
+<script type="application/ld+json">{{ jsonld | safe }}</script>
+{% endblock %}
+{% block content %}
+<h1>The Experiential Design Index</h1>
+<p class="subtitle">The public record of who built what in experiential design.</p>
+
+<p>The Experiential Design Index catalogs the firms and projects behind museums,
+science centers, visitor centers, brand experience centers, executive briefing
+centers, and other designed experiences &mdash; and credits the full delivery
+stack on every project: architecture, exhibit design, media design and
+software, AV integration, fabrication, and more.</p>
+
+<div class="counts">
+  <div class="count"><span class="n">{{ firm_count }}</span><span class="label">firms</span></div>
+  <div class="count"><span class="n">{{ project_count }}</span><span class="label">projects</span></div>
+  <div class="count"><span class="n">{{ venue_count }}</span><span class="label">venues</span></div>
+</div>
+
+<h2>Browse</h2>
+<table class="facts">
+  <tr><td><a href="{{ base }}/firms/index.html">Firms</a></td><td>Studios, integrators, and consultants working across the delivery stack.</td></tr>
+  <tr><td><a href="{{ base }}/projects/index.html">Projects</a></td><td>Individual exhibitions, installations, and buildings, with full credits.</td></tr>
+  <tr><td><a href="{{ base }}/venues/index.html">Venues</a></td><td>The museums, centers, and attractions where the work lives.</td></tr>
+</table>
+
+<h2>About the data</h2>
+<p>Every firm, project, and venue record traces to public, independently
+checkable sources. Inclusion bar: a firm needs at least three documented
+projects in the space. Firm activity status is evidence-based and dated.
+Data is licensed <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a>.
+See the <a href="{{ base }}/about.html">About page</a> for the full editorial policy.</p>
+{% endblock %}

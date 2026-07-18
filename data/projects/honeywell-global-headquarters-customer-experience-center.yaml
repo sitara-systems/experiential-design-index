@@ -6,10 +6,9 @@ year_completed: 2021
 credits:
   - firm: hok
     role: architecture
-    note: "No firm record yet"
   - firm: hok
     role: exhibit-design
-    note: "Design of the 23rd-floor Customer Experience Center and Immersion Room; no firm record yet"
+    note: "Design of the 23rd-floor Customer Experience Center and Immersion Room"
 technologies:
   - four-wall immersive AV room
   - interactive product displays

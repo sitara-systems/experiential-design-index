@@ -13,10 +13,10 @@ credits:
     note: "No firm record yet."
   - firm: hadley-exhibits
     role: fabrication
-    note: "No firm record yet."
+    note: "."
   - firm: diversified
     role: av-integration
-    note: "No firm record yet."
+    note: "."
 technologies:
   - interactive media
   - touchable object stations

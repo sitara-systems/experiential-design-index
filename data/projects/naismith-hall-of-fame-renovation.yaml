@@ -6,16 +6,15 @@ year_completed: 2020
 credits:
   - firm: cambridgeseven
     role: architecture
-    note: "Master planner and architect; no firm record yet"
+    note: "Master planner and architect"
   - firm: northern-light-productions
     role: media-design
-    note: "Media content development, original production, project management; lead media partner; no firm record yet"
+    note: "Media content development, original production, project management; lead media partner"
   - firm: rlmg
     role: media-design
     note: "Interactive stations design: Hall of Honor 400+ inductee interactive, trivia and touchscreen games"
   - firm: mystic-scenic
     role: fabrication
-    note: "No firm record yet"
 technologies:
   - interactive touchscreens
   - LED video wall

@@ -9,13 +9,11 @@ credits:
     note: "no firm record yet"
   - firm: ia-interior-architects
     role: architecture
-    note: "no firm record yet"
   - firm: studio-o-plus-a
     role: architecture
     note: "no firm record yet"
   - firm: avi-spl
     role: av-integration
-    note: "no firm record yet"
 technologies:
   - touch-responsive displays
   - interactive video wall

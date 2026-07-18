@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}{{ project.name }} — {{ project.venue_name }} — The Experiential Design Index{% endblock %}
+{% block meta_description %}{{ project.summary | truncate(155) }}{% endblock %}
+{% block jsonld %}
+<script type="application/ld+json">{{ jsonld | safe }}</script>
+{% endblock %}
+{% block content %}
+<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; <a href="{{ base }}/projects/index.html">Projects</a> &gt; {{ project.name }}</div>
+<h1>{{ project.name }} &mdash; {{ project.venue_name }}</h1>
+
+<p class="summary">{{ project.summary }}</p>
+
+<table class="facts">
+  <tr><th>Venue</th><td>{% if project.venue_exists %}<a href="{{ base }}/venues/{{ project.venue }}.html">{{ project.venue_name }}</a>{% else %}{{ project.venue_name }}{% endif %}</td></tr>
+  <tr><th>Project type</th><td>{{ project.project_type_label }}</td></tr>
+  <tr><th>Status</th><td>{{ project.status_label }}</td></tr>
+  <tr><th>{{ project.year_label }}</th><td>{{ project.year_display }}</td></tr>
+  {% if project.technologies %}<tr><th>Technologies</th><td class="tech">{{ project.technologies | join(', ') }}</td></tr>{% endif %}
+</table>
+
+<h2>Credits</h2>
+<table class="list">
+  <thead><tr><th>Firm</th><th>Role</th><th>Note</th></tr></thead>
+  <tbody>
+  {% for c in project.credits %}
+    <tr>
+      <td>{% if c.firm_exists %}<a href="{{ base }}/firms/{{ c.firm }}.html">{{ c.firm_name }}</a>{% else %}<span class="unlinked">{{ c.firm_name }} (unlinked &mdash; no firm record yet)</span>{% endif %}</td>
+      <td>{{ c.role_label }}</td>
+      <td>{{ c.note or '' }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+{% if project.description %}
+<h2>Description</h2>
+<p>{{ project.description }}</p>
+{% endif %}
+
+<h2>Sources</h2>
+<ul class="sources">
+  {% for s in project.sources %}<li><a href="{{ s }}">{{ s }}</a></li>{% endfor %}
+</ul>
+{% endblock %}

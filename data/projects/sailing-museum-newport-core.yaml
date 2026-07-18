@@ -9,13 +9,11 @@ credits:
     note: "Richard Lewis Media Group"
   - firm: hadley-exhibits
     role: fabrication
-    note: "No firm record yet"
   - firm: electrosonic
     role: av-integration
     note: 16 exhibit installations across video walls, projection, and interactive systems
   - firm: healykohler
     role: exhibit-design
-    note: "No firm record yet"
 technologies:
   - dome projection
   - haptic technology

@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block title %}About — The Experiential Design Index{% endblock %}
+{% block jsonld %}
+<script type="application/ld+json">{{ jsonld | safe }}</script>
+{% endblock %}
+{% block content %}
+<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; About</div>
+<h1>About The Experiential Design Index</h1>
+
+<p>The industry's work is documented today only in scattered portfolios,
+award pages, and press articles. The Experiential Design Index makes it a
+single, structured, openly licensed record of who built what &mdash;
+crediting the full delivery stack on every project: architecture, exhibit
+design, media design and software, AV integration, fabrication, and more.</p>
+
+<p>The Experiential Design Index is published and maintained by
+<a href="https://sitara.systems">Sitara Systems</a>, a spatial interaction
+design and software studio. Sitara Systems is itself listed in the index
+under the same inclusion criteria, sourcing standards, and activity-status
+methodology as every other firm.</p>
+
+<h2>What gets a firm included</h2>
+<p>A firm is included when it has at least <strong>three projects</strong> in
+the experiential design space verifiable from public sources, and when the
+firm and its credits can be verified from public sources &mdash; a firm
+portfolio, institutional announcement, award record, or press coverage.
+Facts that cannot be sourced are not published. There is no fee, no
+submission requirement, and no relationship prerequisite for inclusion.</p>
+<p><strong>Current geographic scope:</strong> firms headquartered in the
+United States. Non-US firms credited on US projects appear in credits and
+receive their own records as coverage expands.</p>
+
+<h2>Activity status</h2>
+<p>Every firm record carries an evidence-based activity status &mdash;
+active, activity unclear, or inactive &mdash; with the basis and a
+verification date stated on the record. Inactive firms are not removed;
+their credits remain part of the historical record, but status is displayed
+prominently so a reader is never misled by a portfolio from a studio that no
+longer exists.</p>
+
+<h2>Corrections</h2>
+<p>Every factual claim carries a source on the record. Corrections from
+credited firms and institutions are prioritized. Corrections that change
+credits are noted in the record's git history, which serves as the public
+changelog.</p>
+
+<h2>License</h2>
+<p>The data and written content of The Experiential Design Index are
+licensed under the <strong>Creative Commons Attribution 4.0 International
+(CC BY 4.0)</strong> license &mdash; use it, build on it, cite it, with
+attribution to The Experiential Design Index. Full license text:
+<a href="https://creativecommons.org/licenses/by/4.0/legalcode">creativecommons.org/licenses/by/4.0/legalcode</a>.
+Open-data exports (JSON and CSV) are available at
+<a href="{{ base }}/data/">/data/</a>.</p>
+{% endblock %}

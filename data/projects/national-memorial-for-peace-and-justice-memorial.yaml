@@ -6,7 +6,6 @@ year_completed: 2018
 credits:
   - firm: mass-design-group
     role: architecture
-    note: "no firm record yet"
   - firm: small-stuff
     role: exhibit-design
     note: "no firm record yet"
@@ -15,7 +14,7 @@ credits:
     note: "no firm record yet"
   - firm: design-communications-ltd
     role: fabrication
-    note: "architectural and interpretive fabrication; no firm record yet"
+    note: "architectural and interpretive fabrication"
 technologies:
   - environmental graphic design
   - corten steel monuments

@@ -1,0 +1,39 @@
+# Firm record — South Side Design & Building
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+# Note: the similarly-named southsidedesignbuild.com (Fort Worth, TX) is an
+# unrelated residential remodeling company — do not conflate.
+
+id: southside-design-build
+name: South Side Design & Building
+aka:
+  - Southside Design & Build
+  - Southside Design + Build
+website: https://www.southsidedb.com
+hq:
+  city: Brooklyn
+  state: NY
+other_offices: []
+founded: 2000
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Credited as exhibition fabricator on "Tough Stuff: Women in the American
+  Glass Studio" at Corning Museum of Glass, opened May 16, 2026, per the
+  firm's own project portfolio; portfolio and site actively maintained as of
+  this check.
+status_verified: 2026-07-18
+summary: >
+  South Side Design & Building is a Brooklyn, New York-based exhibit
+  fabrication company, operating since 2000 out of a fabrication facility
+  in Greenpoint, building casework, display systems, and exhibition
+  installations for museums and cultural institutions primarily in the
+  New York area.
+sources:
+  - https://www.southsidedb.com/about
+  - https://www.southsidedb.com/
+  - https://www.southsidedb.com/portfolio-1
+  - https://gmdconline.org/gmdc_tenants/south-side-design-a-buliding/
+  - https://isometricstudio.com/germ-city-exhibition
+  - https://isometricstudio.com/a-dark-a-light-a-bright
+  - https://www.visitmanitoga.org/russel-mary-wright-design-gallery

@@ -7,15 +7,27 @@ credits:
   - firm: electrosonic
     role: av-integration
     note: Blue-sky technology concepts, AV and control system design, and system integration
+  - firm: float4
+    role: media-design
+    note: Designed, produced and delivered eight interactive media exhibits (Pre-Show, Immersive Elevators, Virtual Viewers, Explore Boston touch screens, Boston 365 projection-mapped model, Theatre Posters, Finale Kiosks, ViewPrint microsite)
+  - firm: frankndesign
+    role: fabrication
+    note: "Four bronze tactile models of key Boston landmarks for low-vision guests; no firm record yet"
 technologies:
   - projection mapping
   - virtual itinerary interactives
+  - LED touch screens
+  - 360-degree virtual viewers
+  - tactile bronze models
 summary: >
   View Boston, a 59,000 sq ft observation deck atop the Prudential Tower in
   Boston, opened June 15, 2023; Electrosonic provided technology concepting,
-  AV and control system design, and systems integration for the multi-floor
-  experience.
+  AV and control system design, and systems integration, with Float4
+  designing and producing eight accessible interactive media exhibits across
+  the multi-floor experience.
 description: ""
 sources:
   - https://www.prudentialcenter.com/2023/06/20/view-boston-is-now-open/
   - https://www.electrosonic.com/projects/view-boston
+  - https://www.float4.com/en/projects/view-boston-observatory/
+  - https://www.commarts.com/content/files/competitions/2025%20IA%20Shortlist.pdf

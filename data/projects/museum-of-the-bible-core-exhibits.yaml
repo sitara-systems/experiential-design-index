@@ -10,16 +10,22 @@ credits:
   - firm: c-and-g-partners
     role: exhibit-design
     note: "Designed Bible Now, the reactive media gallery on the Floor 2 'Impact of the Bible' exhibit; content developed in consultation with scholarly advisors led by Gordon Campbell, Ph.D. and Byron R. Johnson, Ph.D."
+  - firm: the-prd-group
+    role: exhibit-design
+    note: "Directed a team of a dozen creative firms in developing 100,000 sq ft of exhibitions across the museum, including three galleries of artifacts from the Vatican Library and the Israel Antiquities Authority"
+  - firm: design-and-production-incorporated
+    role: fabrication
 technologies:
   - interactive touchscreens
   - 360-degree panoramic projection
   - handheld personalized tour devices
 summary: >
   The Museum of the Bible, a 430,000 sq ft museum in Washington, DC, opened
-  November 17, 2017; Electrosonic designed, built, and integrated AV systems
-  for more than 40 exhibits throughout the building, including the Bible Now
-  reactive media gallery designed by C&G Partners on the Floor 2 "Impact of
-  the Bible" exhibit.
+  November 17, 2017; The PRD Group directed exhibit design and content
+  development across the building, Electrosonic designed, built, and
+  integrated AV systems for more than 40 exhibits, C&G Partners designed the
+  Bible Now reactive media gallery on the Floor 2 "Impact of the Bible"
+  exhibit, and Design and Production Incorporated fabricated the exhibits.
 description: >
   Bible Now, part of the Floor 2 "Impact of the Bible" exhibit, is a
   360-degree, full-height, constantly-changing panorama of digital
@@ -32,3 +38,5 @@ sources:
   - https://www.electrosonic.com/projects/museum-of-the-bible
   - https://www.cgpartnersllc.com/projects/bible-now-reactive-media-space/
   - https://www.museumofthebible.org/press-releases/floor-2-impact-of-the-bible-bible-now
+  - https://theprdgroup.com/project/museum-of-the-bible/
+  - https://d-and-p.com/human-history

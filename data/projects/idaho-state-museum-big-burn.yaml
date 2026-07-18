@@ -12,10 +12,12 @@ credits:
     note: 46 multimedia exhibits including the "Big Burn" 4D wraparound recreation
   - firm: andrew-merriell
     role: exhibit-design
-    note: "Andrew Merriell & Associates; no firm record yet"
-  - firm: nassal
+  - firm: lexington
     role: fabrication
-    note: "Credited on RLMG's project page as \"Nassal/Lexington\"; no firm record yet"
+    note: >
+      Credited on RLMG's project page as "Nassal/Lexington"; nassal.com's own
+      project page for this renovation credits "Lexington" specifically for
+      exhibit fabrication and project coordination.
 technologies:
   - interactive maps
   - 4D projection
@@ -30,3 +32,4 @@ sources:
   - https://www.idahoednews.org/features/photos-newly-renovated-idaho-state-historical-museum-opens/
   - https://www.electrosonic.com/projects/idaho-state-museum
   - https://www.rlmg.com/work/idaho-state-historical-society
+  - https://www.nassal.com/projects/idaho-state-museum

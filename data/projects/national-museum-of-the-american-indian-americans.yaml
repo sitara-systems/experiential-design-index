@@ -6,7 +6,7 @@ year_completed: 2018
 credits:
   - firm: studio-joseph
     role: exhibit-design
-    note: "Principal Wendy Evans Joseph; 9,200 sq ft permanent exhibition. No firm record yet"
+    note: "Principal Wendy Evans Joseph; 9,200 sq ft permanent exhibition."
   - firm: studio-joseph
     role: architecture
   - firm: bluecadet
@@ -17,13 +17,11 @@ credits:
     note: "Graphic design; no firm record yet"
   - firm: capitol-museum-services
     role: fabrication
-    note: "no firm record yet"
   - firm: duggal
     role: fabrication
     note: "no firm record yet"
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
-    note: "no firm record yet"
 technologies:
   - interactive media
   - projection

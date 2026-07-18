@@ -9,10 +9,14 @@ credits:
     note: "28 interactive installations incl. 22-foot Christie MicroTile timeline display and motion-controlled floor map"
   - firm: andrew-merriell
     role: exhibit-design
-    note: "No firm record yet"
-  - firm: nassal
+  - firm: lexington
     role: fabrication
-    note: "Credited on RLMG's project page as \"Nassal/Lexington\"; no firm record yet"
+    note: >
+      Credited on RLMG's project page as "Nassal/Lexington"; this 2012
+      project predates Nassal's January 2017 acquisition of Lexington, so
+      the "Nassal/" portion of RLMG's credit likely reflects the combined
+      name at time of writing rather than the entity actually on-site in
+      2012 — attributed to Lexington on the strength of the named credit.
 technologies:
   - motion-controlled floor map
   - multi-tile video wall

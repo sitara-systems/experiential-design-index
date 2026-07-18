@@ -219,12 +219,31 @@ list.*
 
   **Paused here per instruction** — Tier 2 (crawling these 37 firms' own
   portfolios) has not started. Two housekeeping items before it does:
-  (1) re-verify `southside-design-build` and `design-and-production-incorporated`
+  (1) re-verify `southside-design-build` and ~~`design-and-production-incorporated`~~
   — reports claimed promotion but no file exists on disk, likely lost to
-  concurrent-write contention during the fan-out; (2) the validator's
-  US-state-only limitation will bite harder in Tier 2 as the crawl reaches
-  larger firms (Tellart, Gensler, NBBJ/ESI) with substantial non-US
-  portfolios.
+  concurrent-write contention during the fan-out. **`design-and-production-incorporated`
+  fixed 2026-07-18**: firm record created, its own portfolio crawled
+  (d-and-p.com — 7 category pages), 19 new projects/13 new venues added, 4
+  existing D&P-credited projects extended with the fabrication credit
+  D&P's own page corroborates (Grammy Museum LA Live, Johnson & Johnson
+  Our Story, World of Little League, Museum of the Bible), and all of
+  D&P's stale "no firm record yet" notes cleaned up. The crawl also
+  crossed the 3-project bar for four of D&P's exhibit-design partners
+  (Christopher Chadbourne & Associates, The Design Minds, Evidence Design,
+  The PRD Group), which were promoted to firm records in the same pass
+  per rule 8; Reich+Petch also crossed the bar but was correctly left
+  unlinked — its HQ is Toronto/New York, so rule 6 (US-firms-only for
+  records) excludes it. Excluded from this pass for insufficient/
+  conflicting public-source dates: National Museum of the United States
+  Navy (D&P names it but no sourceable date for D&P's scope of work), Las
+  Cruces Museum of Nature & Science (conflicting 2012/2014 relocation
+  dates), and "A Gift of Love" at the Saint John Paul II National Shrine
+  (no sourceable exhibit-opening date); Harley-Davidson's 100th
+  Anniversary Open Road Tour was excluded as a traveling brand promotion
+  with no fixed venue. southside-design-build remains unfixed;
+  (2) the validator's US-state-only limitation will bite harder in Tier 2
+  as the crawl reaches larger firms (Tellart, Gensler, NBBJ/ESI) with
+  substantial non-US portfolios.
 
 - **Award cross-reference sweep — done (2026-07-18).** Not a BFS tier —
   a second pass through three more award-archive sources (SEGD already

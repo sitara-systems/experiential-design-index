@@ -9,13 +9,10 @@ credits:
     note: "Interactive timeline and personalized inspiration-video station"
   - firm: bbi-engineering
     role: av-integration
-    note: "No firm record yet"
   - firm: cinnabar
     role: fabrication
-    note: "No firm record yet"
   - firm: west-office
     role: exhibit-design
-    note: "No firm record yet"
 technologies:
   - interactive timeline
   - video recording station

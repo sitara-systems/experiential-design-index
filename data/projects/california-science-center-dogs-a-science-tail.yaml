@@ -6,7 +6,6 @@ year_completed: 2019
 credits:
   - firm: evidence-design
     role: exhibit-design
-    note: "No firm record yet"
   - firm: unified-field
     role: media-design
   - firm: unified-field
@@ -17,7 +16,6 @@ credits:
     note: "No firm record yet"
   - firm: electrosonic
     role: av-integration
-    note: "No firm record yet"
 technologies:
   - digital interactives
   - green-screen film production

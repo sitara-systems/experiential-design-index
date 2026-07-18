@@ -15,10 +15,10 @@ credits:
     role: media-design
   - firm: solomon-group
     role: fabrication
-    note: "No firm record yet."
+    note: "."
   - firm: solomon-group
     role: av-integration
-    note: "No firm record yet."
+    note: "."
 technologies:
   - voice interaction
   - interactive projection

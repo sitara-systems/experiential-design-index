@@ -11,6 +11,8 @@ credits:
     role: exhibit-design
   - firm: gallagher-and-associates
     role: content-production
+  - firm: design-and-production-incorporated
+    role: fabrication
 technologies:
   - interactive timeline
   - 3D globe interface
@@ -18,14 +20,13 @@ summary: >
   Johnson & Johnson: Our Story at the Powerhouse, an interactive corporate
   heritage museum inside J&J's renovated and restored 1907 Powerhouse
   building at its New Brunswick, New Jersey headquarters, opened April 27,
-  2017, with building restoration by JacobsWyper Architects and exhibit
-  design by Gallagher & Associates.
-description: >
-  Design and Production, Incorporated (D&P) also lists this project on its
-  own portfolio (crediting G&A for exhibit design) but does not state D&P's
-  own role explicitly; that credit is omitted here rather than guessed.
+  2017, with building restoration by JacobsWyper Architects, exhibit design
+  by Gallagher & Associates, and fabrication by Design and Production
+  Incorporated.
+description: ""
 sources:
   - https://www.jnj.com/our-heritage/the-inside-story-of-the-powerhouse
   - https://www.prnewswire.com/news-releases/johnson--johnson-introduces-two-new-interactive-experiences-showcasing-more-than-130-years-of-healthcare-innovation-300448526.html
   - https://www.jacobswyper.com/projects/johnson-johnson-our-story-at-the-powerhouse
   - https://gallagherdesign.com/project/jandj/
+  - https://d-and-p.com/human-history

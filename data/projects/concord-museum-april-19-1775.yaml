@@ -9,13 +9,10 @@ credits:
     note: "6-minute animated map projection plus companion interactive-timeline website"
   - firm: amaze-design
     role: exhibit-design
-    note: "No firm record yet"
   - firm: mystic-scenic
     role: fabrication
-    note: "No firm record yet"
   - firm: new-england-technology-group
     role: av-integration
-    note: "No firm record yet"
 technologies:
   - projection mapping
   - interactive timeline website

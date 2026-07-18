@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}Projects — The Experiential Design Index{% endblock %}
+{% block meta_description %}All projects in The Experiential Design Index, alphabetically.{% endblock %}
+{% block jsonld %}
+<script type="application/ld+json">{{ jsonld | safe }}</script>
+{% endblock %}
+{% block content %}
+<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; Projects</div>
+<h1>Projects</h1>
+<p class="subtitle">{{ projects|length }} projects, alphabetically.</p>
+<table class="list">
+  <thead><tr><th>Name</th><th>Venue</th><th>Type</th><th>Year</th></tr></thead>
+  <tbody>
+  {% for p in projects %}
+    <tr>
+      <td><a href="{{ base }}/projects/{{ p.id }}.html">{{ p.name }}</a></td>
+      <td>{% if p.venue_exists %}<a href="{{ base }}/venues/{{ p.venue }}.html">{{ p.venue_name }}</a>{% else %}{{ p.venue_name }}{% endif %}</td>
+      <td>{{ p.project_type_label }}</td>
+      <td>{{ p.year_display }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

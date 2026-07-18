@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}Firms — The Experiential Design Index{% endblock %}
+{% block meta_description %}All firms in The Experiential Design Index, alphabetically.{% endblock %}
+{% block jsonld %}
+<script type="application/ld+json">{{ jsonld | safe }}</script>
+{% endblock %}
+{% block content %}
+<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; Firms</div>
+<h1>Firms</h1>
+<p class="subtitle">{{ firms|length }} firms, alphabetically.</p>
+<table class="list">
+  <thead><tr><th>Name</th><th>HQ</th><th>Roles</th><th>Status</th></tr></thead>
+  <tbody>
+  {% for f in firms %}
+    <tr>
+      <td><a href="{{ base }}/firms/{{ f.id }}.html">{{ f.name }}</a></td>
+      <td>{{ f.hq.city }}, {{ f.hq.state }}</td>
+      <td class="roles">{{ f.role_labels | join(', ') }}</td>
+      <td><span class="status-pill status-{{ f.status }}">{{ f.status_label }}</span></td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

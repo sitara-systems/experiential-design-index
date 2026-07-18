@@ -6,14 +6,21 @@ year_completed: 2019
 credits:
   - firm: northern-light-productions
     role: content-production
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+    note: "Per Capitol Museum Services' own portfolio (design partner on 4,000 sq ft permanent galleries plus 1,000 sq ft rotating exhibit area, incl. augmented reality interactive elements)"
+  - firm: capitol-museum-services
+    role: fabrication
 technologies:
   - three-screen film installation
   - archival imagery
+  - augmented reality
 summary: >
   The Cherokee National History Museum, created through the renovation of
   the historic Cherokee National Capitol building in Tahlequah, Oklahoma,
   opened to the public in August 2019, with media content by Northern
-  Light Productions.
+  Light Productions, exhibit design by Ralph Appelbaum Associates, and
+  fabrication by Capitol Museum Services.
 description: >
   Northern Light Productions produced an ambient soundscape narrating
   Cherokee origin stories, audio programs featuring first-person removal
@@ -24,3 +31,4 @@ description: >
 sources:
   - https://www.tahlequahdailypress.com/news/new-cherokee-national-history-museum-is-now-open/article_c96834f7-9cc6-5d5a-8d5b-7c82c3ea28db.html
   - https://nlprod.com/item/cherokee-national-history-museum/
+  - https://capitolmuseumservices.com/portfolio/museums/

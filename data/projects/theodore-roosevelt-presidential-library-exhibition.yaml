@@ -6,7 +6,9 @@ year_completed: 2026
 credits:
   - firm: snohetta
     role: architecture
-    note: "Design architect, landscape architect, and interior designer; no firm record yet"
+    note: "Design architect and interior designer; no firm record yet"
+  - firm: snohetta
+    role: landscape-architecture
   - firm: local-projects
     role: interpretive-planning
     note: "Interpretive master plan and core exhibition content"

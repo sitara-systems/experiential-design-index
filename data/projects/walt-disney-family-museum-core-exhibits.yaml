@@ -14,6 +14,12 @@ credits:
   - firm: page-and-turnbull
     role: architecture
     note: "Historic building renovation; no firm record yet"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      Presentation technology incl. the 150-seat lecture hall, group
+      learning center, and the "Video Ribbon" — 14 warped/edge-blended
+      projectors on sculpted fiberglass screens
 technologies:
   - touch interfaces
   - motion graphics
@@ -28,3 +34,4 @@ sources:
   - https://en.wikipedia.org/wiki/Walt_Disney_Family_Museum
   - https://www.archpaper.com/2009/09/the-house-the-mouse-built/
   - https://2s-archive.rzrfs.com/work/walt-disney-family-museum
+  - https://bbinet.com/works/walt-disney-family-museum/

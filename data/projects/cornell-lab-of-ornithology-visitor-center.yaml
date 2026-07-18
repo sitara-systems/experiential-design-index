@@ -15,10 +15,8 @@ credits:
     note: "no firm record yet"
   - firm: hadley-exhibits
     role: fabrication
-    note: "no firm record yet"
   - firm: diversified
     role: av-integration
-    note: "no firm record yet"
   - firm: phase-shift-consulting
     role: technical-consulting
     note: "AV consulting; no firm record yet"
@@ -27,7 +25,6 @@ credits:
     note: "no firm record yet"
   - firm: available-light
     role: lighting-design
-    note: "no firm record yet"
 technologies:
   - interactive kiosks
   - motion graphics

@@ -6,12 +6,10 @@ year_completed: 2022
 credits:
   - firm: luci-creative
     role: exhibit-design
-    note: "No firm record yet"
   - firm: rlmg
     role: media-design
   - firm: ravenswood-studio
     role: fabrication
-    note: "No firm record yet"
   - firm: electrosonic
     role: av-integration
 technologies:

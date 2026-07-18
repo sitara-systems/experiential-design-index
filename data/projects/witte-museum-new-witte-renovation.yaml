@@ -8,6 +8,15 @@ credits:
     role: exhibit-design
   - firm: gallagher-and-associates
     role: content-production
+  - firm: donna-lawrence-productions
+    role: content-production
+    note: "Media producer, per BBI Engineering's own project page"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      Blended projections, touchscreen kiosks, and a large-scale
+      ceiling-mounted LED display, completed under a compressed
+      construction-driven timeline
 technologies:
   - touchscreens
   - video animation
@@ -15,7 +24,9 @@ summary: >
   A $100 million, 174,000-square-foot renovation of the Witte Museum in
   San Antonio, Texas, including the Kittie West Nelson Ferguson People of
   the Pecos Gallery, opened March 4, 2017, with exhibit graphics, video
-  animation, and interactive design by Gallagher & Associates.
+  animation, and interactive design by Gallagher & Associates and AV
+  integration by BBI Engineering.
 description: ""
 sources:
   - https://gallagherdesign.com/project/witte/
+  - https://bbinet.com/works/the-witte-museum/

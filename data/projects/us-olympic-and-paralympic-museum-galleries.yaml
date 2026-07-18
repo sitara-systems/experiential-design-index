@@ -17,7 +17,7 @@ credits:
     note: "Media and interactive development; no firm record yet"
   - firm: creo-industrial-arts
     role: fabrication
-    note: "Exhibit fabrication and software engineering; no firm record yet"
+    note: "Exhibit fabrication and software engineering"
   - firm: diller-scofidio-renfro
     role: architecture
     note: "Design architect; no firm record yet"
@@ -26,13 +26,20 @@ credits:
     note: "Architect of record; no firm record yet"
   - firm: available-light
     role: lighting-design
-    note: "Lighting design for 20,000 sq ft of museum exhibits; no firm record yet"
+    note: "Lighting design for 20,000 sq ft of museum exhibits"
   - firm: tillotson-design-associates
     role: lighting-design
-    note: "Architectural lighting design; no firm record yet"
+    note: "Architectural lighting design"
   - firm: gallagher-and-associates
     role: technical-consulting
     note: "Owner's representation and operations management, per G&A's own project page (distinct from its exhibit-design credit above)"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      Multi-screen blended projections, LCD/LED video walls incl. a
+      multi-story non-rectangular LED wall, and motion-tracking interactives;
+      per BBI Engineering's own project page (distinct from Centre Screen's
+      AV design/production credit above)
 technologies:
   - RFID
   - interactive kiosks
@@ -62,3 +69,4 @@ sources:
   - https://www.tillotsondesign.com/museums/us-olympic-paralympic-museum
   - https://www.architecturalrecord.com/articles/14778-us-olympic-paralympic-museum-by-diller-scofidio-renfro
   - https://www.fastcompany.com/90667020/spaces-and-places-innovation-by-design-2021
+  - https://bbinet.com/works/us-olympic-and-paralympic-museum/

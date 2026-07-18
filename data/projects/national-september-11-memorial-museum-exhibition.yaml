@@ -24,7 +24,10 @@ credits:
     note: "AV and interactive technology systems, ~1,000 AV devices, 64 projectors"
   - firm: design-and-production-incorporated
     role: fabrication
-    note: "Exhibit fabrication and installation: artifact cases, platforms, flooring, wall finishes, lighting hardware (no firm record yet)"
+    note: "Exhibit fabrication and installation: artifact cases, platforms, flooring, wall finishes, lighting hardware"
+  - firm: hadley-exhibits
+    role: fabrication
+    note: "Fabricated a 12-ft-tall memorial wall mounting photo portraits of the nearly 3,000 victims in steel and acrylic, per Buffalo News"
 technologies:
   - oral history platform
   - touchscreen interactives
@@ -43,3 +46,4 @@ sources:
   - https://www.davisbrodybond.com/national-september-11-memorial-museum
   - https://www.electrosonic.com/projects/national-september-11-memorial-and-museum
   - https://www.lizkidera.com/layman-design
+  - https://buffalonews.com/news/9-11-museum-exhibits-more-than-just-a-job-for-local-firm/article_dcbfb1b1-8c10-560e-8673-7145657f14ad.html

@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}The Experiential Design Index{% endblock %}</title>
+<meta name="description" content="{% block meta_description %}The public record of who built what in experiential design — museums, science centers, brand experience centers, and the firms behind them.{% endblock %}">
+{% block jsonld %}{% endblock %}
+<style>
+  :root {
+    --bg: #ffffff;
+    --fg: #1a1a1a;
+    --muted: #5a5a5a;
+    --border: #dcdcdc;
+    --accent: #7a1f2b;
+    --accent-bg: #faf3f0;
+    --link: #1f4e8c;
+    --active: #1c6e3d;
+    --unclear: #8a6d00;
+    --inactive: #8a2f2f;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14161a;
+      --fg: #e7e7e7;
+      --muted: #a2a2a2;
+      --border: #3a3d42;
+      --accent: #d98d94;
+      --accent-bg: #24191b;
+      --link: #7fb0ff;
+      --active: #6fd39a;
+      --unclear: #e0c060;
+      --inactive: #e28a8a;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #14161a; --fg: #e7e7e7; --muted: #a2a2a2; --border: #3a3d42;
+    --accent: #d98d94; --accent-bg: #24191b; --link: #7fb0ff;
+    --active: #6fd39a; --unclear: #e0c060; --inactive: #e28a8a;
+  }
+  :root[data-theme="light"] {
+    --bg: #ffffff; --fg: #1a1a1a; --muted: #5a5a5a; --border: #dcdcdc;
+    --accent: #7a1f2b; --accent-bg: #faf3f0; --link: #1f4e8c;
+    --active: #1c6e3d; --unclear: #8a6d00; --inactive: #8a2f2f;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+  }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 0 1.25rem; }
+  header.site {
+    border-bottom: 1px solid var(--border);
+    padding: 1rem 0;
+  }
+  header.site .wrap { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: .5rem 1.5rem; }
+  header.site a.brand { font-weight: 700; font-size: 1.05rem; color: var(--fg); text-decoration: none; }
+  nav.site a { color: var(--fg); text-decoration: none; margin-left: 1.25rem; font-size: .95rem; }
+  nav.site a:first-child { margin-left: 0; }
+  nav.site a:hover { text-decoration: underline; }
+  main { padding: 2rem 0 3rem; }
+  h1 { font-size: 1.6rem; margin: 0 0 .25rem; }
+  h2 { font-size: 1.15rem; margin: 2rem 0 .5rem; border-bottom: 1px solid var(--border); padding-bottom: .25rem; }
+  a { color: var(--link); }
+  .subtitle { color: var(--muted); margin: 0 0 1.5rem; }
+  .breadcrumbs { font-size: .85rem; color: var(--muted); margin-bottom: 1rem; }
+  .breadcrumbs a { color: var(--muted); }
+  table { border-collapse: collapse; width: 100%; margin: .5rem 0 1.5rem; font-size: .95rem; }
+  table.facts td, table.facts th { text-align: left; padding: .35rem .6rem .35rem 0; vertical-align: top; }
+  table.facts th { color: var(--muted); font-weight: 600; width: 11rem; white-space: nowrap; }
+  table.list { width: 100%; }
+  table.list th, table.list td { text-align: left; padding: .45rem .6rem; border-bottom: 1px solid var(--border); }
+  table.list th { color: var(--muted); font-weight: 600; font-size: .85rem; text-transform: uppercase; letter-spacing: .03em; }
+  table.list tr:hover td { background: var(--accent-bg); }
+  .status-pill { display: inline-block; padding: .1rem .5rem; border-radius: .8rem; font-size: .78rem; font-weight: 600; border: 1px solid currentColor; }
+  .status-active { color: var(--active); }
+  .status-unclear { color: var(--unclear); }
+  .status-inactive { color: var(--inactive); }
+  .status-note { color: var(--muted); font-size: .88rem; margin: .25rem 0 1rem; }
+  .summary { font-size: 1.05rem; margin: .75rem 0 1.25rem; }
+  .roles, .tech { color: var(--muted); font-size: .9rem; }
+  .sources { font-size: .9rem; }
+  .sources li { margin-bottom: .25rem; word-break: break-word; }
+  .unlinked { color: var(--muted); font-style: italic; }
+  .counts { display: flex; gap: 2rem; margin: 1.5rem 0; flex-wrap: wrap; }
+  .counts .count { }
+  .counts .count .n { font-size: 2rem; font-weight: 700; display: block; }
+  .counts .count .label { color: var(--muted); font-size: .9rem; }
+  footer.site { border-top: 1px solid var(--border); padding: 1.5rem 0; color: var(--muted); font-size: .85rem; }
+  footer.site a { color: var(--muted); }
+  code { background: var(--accent-bg); padding: .1rem .3rem; border-radius: .25rem; font-size: .9em; }
+</style>
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <a class="brand" href="{{ base }}/index.html">The Experiential Design Index</a>
+    <nav class="site">
+      <a href="{{ base }}/firms/index.html">Firms</a>
+      <a href="{{ base }}/projects/index.html">Projects</a>
+      <a href="{{ base }}/venues/index.html">Venues</a>
+      <a href="{{ base }}/about.html">About</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+{% block content %}{% endblock %}
+</main>
+<footer class="site">
+  <div class="wrap">
+    <p>The Experiential Design Index is published and maintained by <a href="https://sitara.systems">Sitara Systems</a>. Data licensed <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a>. <a href="{{ base }}/about.html">About &amp; editorial policy</a>.</p>
+  </div>
+</footer>
+</body>
+</html>
