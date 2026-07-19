@@ -1,0 +1,8 @@
+id: caesars-superdome
+name: Caesars Superdome
+venue_type: sports-venue
+location:
+  city: New Orleans
+  state: LA
+sources:
+  - https://www.nola.com/

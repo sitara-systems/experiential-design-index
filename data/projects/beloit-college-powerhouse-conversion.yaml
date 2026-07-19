@@ -13,9 +13,11 @@ credits:
   - firm: dbhms
     role: lighting-design
     note: "Lighting consultant; no firm record yet"
-  - firm: 3st-span
+  - firm: span-studio
     role: graphics-wayfinding
-    note: "Signage and wayfinding consultant; no firm record yet"
+    note: >
+      Credited by Studio Gang as "3st/Span" (Span Studio was formerly
+      Thirst); designed while at Thirst, per Span Studio's own site
 technologies: []
 recognition:
   - award: "Fast Company Innovation by Design Awards — Winner, Spaces and Places"

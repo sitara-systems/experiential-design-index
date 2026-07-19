@@ -1,0 +1,30 @@
+id: calgary-central-library-core
+name: Calgary Central Library
+venue: calgary-central-library
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: snohetta
+    role: architecture
+  - firm: dialog
+    role: architecture
+    note: "Executive architect; no firm record yet"
+  - firm: dialog
+    role: landscape-architecture
+    note: "Executive landscape architect; no firm record yet"
+  - firm: entro
+    role: graphics-wayfinding
+technologies: []
+recognition:
+  - award: "SEGD Global Design Awards — Merit Award"
+    year: 2019
+    source: https://segd.org/
+summary: >
+  The Calgary Central Library, Calgary, AB, opened November 1, 2018;
+  architecture by Snøhetta with DIALOG as executive architect and
+  executive landscape architect, graphics and wayfinding by Entro.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Calgary_Central_Library
+  - https://www.archdaily.com/905263
+  - https://www.dezeen.com/

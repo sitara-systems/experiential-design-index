@@ -1,0 +1,8 @@
+id: writers-theatre
+name: Writers Theatre
+venue_type: cultural-center
+location:
+  city: Glencoe
+  state: IL
+sources:
+  - https://studiogang.com/

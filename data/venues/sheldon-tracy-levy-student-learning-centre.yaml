@@ -1,0 +1,10 @@
+id: sheldon-tracy-levy-student-learning-centre
+name: Sheldon & Tracy Levy Student Learning Centre
+venue_type: academic-institution
+location:
+  city: Toronto
+  state: ON
+  country: Canada
+operator: Toronto Metropolitan University
+sources:
+  - https://en.wikipedia.org/wiki/Toronto_Metropolitan_University

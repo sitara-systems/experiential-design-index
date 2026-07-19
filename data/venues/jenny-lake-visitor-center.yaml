@@ -1,0 +1,9 @@
+id: jenny-lake-visitor-center
+name: Jenny Lake Visitor Center
+venue_type: visitor-center
+location:
+  city: Moose
+  state: WY
+operator: National Park Service, Grand Teton National Park
+sources:
+  - https://www.usaspending.gov/

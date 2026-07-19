@@ -1,0 +1,26 @@
+id: national-museum-of-the-american-indian-building
+name: Main Building
+venue: national-museum-of-the-american-indian
+project_type: new-building
+year_completed: 2004
+credits:
+  - firm: smithgroup
+    role: architecture
+  - firm: jones-and-jones-architects-and-landscape-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: ennead-architects
+    role: architecture
+    note: "Designed as Polshek Partnership Architects, the firm's predecessor name at the time"
+technologies: []
+summary: >
+  The National Museum of the American Indian's main building on the
+  National Mall, Washington, DC, opened September 21, 2004; project
+  architecture by SmithGroup, Jones & Jones Architects and Landscape
+  Architects, and Ennead Architects (then Polshek Partnership
+  Architects), with design architect Douglas Cardinal. Distinct from
+  the venue's existing exhibit-level project records.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/National_Museum_of_the_American_Indian
+  - https://siarchives.si.edu/history/national-museum-american-indian

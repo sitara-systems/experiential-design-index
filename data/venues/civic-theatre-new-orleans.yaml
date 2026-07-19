@@ -1,0 +1,8 @@
+id: civic-theatre-new-orleans
+name: Civic Theatre
+venue_type: cultural-center
+location:
+  city: New Orleans
+  state: LA
+sources:
+  - https://en.wikipedia.org/wiki/Civic_Theatre_(New_Orleans)

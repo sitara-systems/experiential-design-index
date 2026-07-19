@@ -1,0 +1,8 @@
+id: inland-waterways-museum
+name: Inland Waterways Museum
+venue_type: history-museum
+location:
+  city: Paducah
+  state: KY
+sources:
+  - https://www.waterwaysjournal.net/

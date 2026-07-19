@@ -1,0 +1,23 @@
+id: writers-theatre-core
+name: Writers Theatre
+venue: writers-theatre
+project_type: new-building
+year_completed: 2016
+credits:
+  - firm: studio-gang
+    role: architecture
+  - firm: span-studio
+    role: graphics-wayfinding
+    note: "Designed while at Thirst"
+  - firm: poblocki-sign-company
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - digital signage
+summary: >
+  Writers Theatre in Glencoe, IL opened 2016; architecture by Studio
+  Gang, signage and environmental graphics by Span Studio (then
+  Thirst), fabrication by Poblocki Sign Company with Forms + Surfaces.
+description: ""
+sources:
+  - https://studiogang.com/

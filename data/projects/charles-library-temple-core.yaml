@@ -1,0 +1,25 @@
+id: charles-library-temple-core
+name: Charles Library
+venue: charles-library-temple
+project_type: new-building
+year_completed: 2019
+credits:
+  - firm: snohetta
+    role: architecture
+    note: "Design architect"
+  - firm: snohetta
+    role: landscape-architecture
+    note: "Design landscape architect"
+  - firm: stantec
+    role: architecture
+    note: "Architect of record"
+technologies: []
+summary: >
+  Charles Library at Temple University, Philadelphia, opened fall 2019;
+  design architecture and landscape architecture by Snøhetta, with
+  Stantec as architect of record.
+description: ""
+sources:
+  - https://www.dezeen.com/
+  - https://www.archdaily.com/
+  - https://www.archpaper.com/

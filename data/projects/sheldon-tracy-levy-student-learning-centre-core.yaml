@@ -1,0 +1,25 @@
+id: sheldon-tracy-levy-student-learning-centre-core
+name: Sheldon & Tracy Levy Student Learning Centre
+venue: sheldon-tracy-levy-student-learning-centre
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: snohetta
+    role: architecture
+  - firm: zeidler-architecture
+    role: architecture
+    note: "Architect of record; then Zeidler Partnership Architects; no firm record yet"
+  - firm: entro
+    role: graphics-wayfinding
+    note: "Single-sourced to Entro's own project page; not yet independently corroborated by a second source"
+technologies: []
+summary: >
+  The Sheldon & Tracy Levy Student Learning Centre (originally the
+  Ryerson University Student Learning Centre) in Toronto opened
+  September 1, 2015; architecture by Snøhetta with Zeidler Architecture
+  as architect of record.
+description: ""
+sources:
+  - https://www.archdaily.com/
+  - https://www.dezeen.com/
+  - https://en.wikipedia.org/wiki/Student_Learning_Centre_(Toronto_Metropolitan_University)

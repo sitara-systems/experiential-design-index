@@ -1,0 +1,22 @@
+id: jenny-lake-visitor-center-exhibits
+name: Visitor Center Exhibits
+venue: jenny-lake-visitor-center
+project_type: new-exhibition
+year_completed: 2019
+credits:
+  - firm: southern-custom-exhibits
+    role: fabrication
+technologies: []
+summary: >
+  Exhibit fabrication for the Jenny Lake Visitor Center at Grand Teton
+  National Park, part of the multi-phase Jenny Lake Renewal Project
+  (federal contracts spanning 2011-2020); fabrication by Southern
+  Custom Exhibits. Distinct from the venue's existing Craig Thomas
+  Discovery and Visitor Center record.
+description: >
+  Sourced to USASpending.gov federal contract records (award ids
+  INP11PD71492, INP17PD01628, 140P1119C0016); year_completed reflects
+  the primary task-order period rather than a confirmed public-opening
+  press date.
+sources:
+  - https://www.usaspending.gov/

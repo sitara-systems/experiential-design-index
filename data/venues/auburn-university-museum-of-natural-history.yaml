@@ -1,0 +1,9 @@
+id: auburn-university-museum-of-natural-history
+name: Auburn University Museum of Natural History
+venue_type: natural-history-museum
+location:
+  city: Auburn
+  state: AL
+operator: Auburn University
+sources:
+  - https://aumnh.auburn.edu/visit_the_museum/aumnh-exhibits/

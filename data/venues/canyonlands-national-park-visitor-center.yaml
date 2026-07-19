@@ -1,0 +1,9 @@
+id: canyonlands-national-park-visitor-center
+name: Canyonlands National Park Visitor Center
+venue_type: visitor-center
+location:
+  city: Moab
+  state: UT
+operator: National Park Service
+sources:
+  - https://www.usaspending.gov/

@@ -1,0 +1,22 @@
+id: civic-theatre-new-orleans-restoration
+name: Restoration
+venue: civic-theatre-new-orleans
+project_type: major-renovation
+year_completed: 2013
+credits:
+  - firm: eskew-dumez-ripple
+    role: architecture
+  - firm: solomon-group
+    role: av-integration
+    note: "Systems design/integration, show-control programming, loudspeaker system"
+technologies: []
+summary: >
+  A restoration of the historic 1906 Civic Theatre in New Orleans;
+  construction completed 2012, public reopening September 2013;
+  architecture by Eskew+Dumez+Ripple, AV systems design and integration
+  by Solomon Group.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Civic_Theatre_(New_Orleans)
+  - https://www.nola.com/
+  - https://livedesignonline.com/

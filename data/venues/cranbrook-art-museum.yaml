@@ -1,0 +1,9 @@
+id: cranbrook-art-museum
+name: Cranbrook Art Museum
+venue_type: art-museum
+location:
+  city: Bloomfield Hills
+  state: MI
+operator: Cranbrook Academy of Art
+sources:
+  - https://www.archdaily.com/195004

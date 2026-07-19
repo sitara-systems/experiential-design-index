@@ -1,0 +1,9 @@
+id: charles-library-temple
+name: Charles Library
+venue_type: academic-institution
+location:
+  city: Philadelphia
+  state: PA
+operator: Temple University
+sources:
+  - https://www.dezeen.com/
