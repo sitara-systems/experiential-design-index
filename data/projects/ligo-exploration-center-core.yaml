@@ -1,0 +1,20 @@
+id: ligo-exploration-center-core
+name: LIGO Exploration Center
+venue: ligo-exploration-center
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: terence-l-thornhill-architect
+    role: architecture
+technologies:
+  - interactive-installation
+summary: >
+  The LIGO Exploration Center (LExC), a 5,000 sq ft interactive public
+  exhibit hall on gravitational-wave science at LIGO Hanford
+  Observatory, Richland, WA, opened 2022, LEED Silver certified;
+  architecture by Terence L. Thornhill Architect, per Caltech LIGO
+  Lab's own site and independent coverage in the Tri-Cities Area
+  Journal of Business.
+description: ""
+sources:
+  - https://www.ligo.caltech.edu/

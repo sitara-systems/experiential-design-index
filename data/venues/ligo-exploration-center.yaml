@@ -1,0 +1,9 @@
+id: ligo-exploration-center
+name: LIGO Exploration Center
+venue_type: science-center
+location:
+  city: Richland
+  state: WA
+operator: Caltech LIGO Laboratory
+sources:
+  - https://www.ligo.caltech.edu/

@@ -1,0 +1,9 @@
+id: cowlitz-salmon-hatchery-visitor-center
+name: Cowlitz Salmon Hatchery Visitor and Interpretive Center
+venue_type: visitor-center
+location:
+  city: Salkum
+  state: WA
+operator: Tacoma Public Utilities
+sources:
+  - https://www.mytpu.org/

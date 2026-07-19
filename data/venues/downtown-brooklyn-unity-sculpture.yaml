@@ -1,0 +1,9 @@
+id: downtown-brooklyn-unity-sculpture
+name: "Unity (Hank Willis Thomas), Downtown Brooklyn"
+venue_type: public-space
+location:
+  city: Brooklyn
+  state: NY
+operator: NYC Department of Cultural Affairs
+sources:
+  - https://www.nyc.gov/site/dcla/about/pressrelease/PR-2019-11-12-Unity-Hank-Willis-Thomas-Percent-for-Art-DCLA.page

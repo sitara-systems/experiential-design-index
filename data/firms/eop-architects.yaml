@@ -9,11 +9,17 @@ hq:
   state: KY
 roles:
   - architecture
-status: active
+status: inactive
 status_basis: >
-  Co-architect with NBBJ on the Rupp Arena/Central Bank Center
-  renovation (Lexington, KY, opened 2022); active per its own site as
-  of verification date.
+  Acquired by/merged into Cincinnati-based Champlin Architecture in
+  December 2023, now operating as "Champlin | EOP" (champlinstudios.com)
+  — EOP Architects no longer operates independently. EOP's own former
+  domain (eopa.com) now fails SSL validation and resolves to unrelated
+  companies, consistent with a lapsed domain post-merger. Prior work
+  (co-architect with NBBJ on the Rupp Arena/Central Bank Center
+  renovation, Lexington KY, 2022; co-architect with Group 4 Architecture
+  on the Lexington Public Library Marksbury Family Branch, 2024) remains
+  part of the historical record.
 status_verified: 2026-07-19
 summary: >
   EOP Architects is a Lexington, Kentucky-based architecture firm.

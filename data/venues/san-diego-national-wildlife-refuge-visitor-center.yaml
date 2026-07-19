@@ -1,0 +1,9 @@
+id: san-diego-national-wildlife-refuge-visitor-center
+name: San Diego National Wildlife Refuge Visitor and Administrative Facility
+venue_type: visitor-center
+location:
+  city: Chula Vista
+  state: CA
+operator: US Fish and Wildlife Service
+sources:
+  - https://architizer.com/projects/san-diego-national-wildlife-refuge-complex/

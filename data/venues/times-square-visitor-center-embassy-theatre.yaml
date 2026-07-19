@@ -1,0 +1,8 @@
+id: times-square-visitor-center-embassy-theatre
+name: "Times Square Visitor Center (Embassy Theatre)"
+venue_type: visitor-center
+location:
+  city: New York
+  state: NY
+sources:
+  - https://architizer.com/projects/times-square-visitor-center/

@@ -1,0 +1,9 @@
+id: madison-museum-of-contemporary-art
+name: Madison Museum of Contemporary Art
+venue_type: art-museum
+location:
+  city: Madison
+  state: WI
+website: https://www.mmoca.org
+sources:
+  - https://www.mmoca.org/events/iconic/

@@ -1,0 +1,8 @@
+id: petersen-automotive-museum
+name: Petersen Automotive Museum
+venue_type: other
+location:
+  city: Los Angeles
+  state: CA
+sources:
+  - https://www.structuremag.org/article/the-petersen-automotive-museum-facade/

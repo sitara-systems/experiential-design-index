@@ -1,0 +1,20 @@
+id: calder-gardens-core
+name: Calder Gardens
+venue: calder-gardens
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: herzog-and-de-meuron
+    role: architecture
+    note: "Basel, Switzerland-headquartered; no firm record under North America scope"
+  - firm: metropolitan-acoustics
+    role: acoustics
+technologies: []
+summary: >
+  Calder Gardens, a museum dedicated to the work of Alexander Calder,
+  Philadelphia, PA, opened 2025; architecture by Herzog & de Meuron,
+  acoustics by Metropolitan Acoustics, per ArchDaily's independent
+  project credits page.
+description: ""
+sources:
+  - https://www.archdaily.com/1034362/calder-gardens-museum-herzog-and-de-meuron

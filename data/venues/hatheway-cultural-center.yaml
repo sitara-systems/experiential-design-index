@@ -1,0 +1,9 @@
+id: hatheway-cultural-center
+name: Hatheway Cultural Center
+venue_type: cultural-center
+location:
+  city: Godfrey
+  state: IL
+operator: Lewis and Clark Community College
+sources:
+  - https://contegracc.com/project-item/hatheway-hall-lewis-clark/

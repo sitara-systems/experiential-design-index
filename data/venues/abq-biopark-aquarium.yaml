@@ -1,0 +1,9 @@
+id: abq-biopark-aquarium
+name: ABQ BioPark Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Albuquerque
+  state: NM
+operator: City of Albuquerque
+sources:
+  - https://www.bradburystamm.com/project/detail/community/1/ABQ+Botanic+Gardens+%26+Aquarium

@@ -1,0 +1,8 @@
+id: calder-gardens
+name: Calder Gardens
+venue_type: art-museum
+location:
+  city: Philadelphia
+  state: PA
+sources:
+  - https://www.archdaily.com/1034362/calder-gardens-museum-herzog-and-de-meuron
