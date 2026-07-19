@@ -1,0 +1,10 @@
+id: classic-center
+name: The Classic Center
+venue_type: cultural-center
+location:
+  city: Athens
+  state: GA
+website: https://www.classiccenter.com
+sources:
+  - https://www.classiccenter.com/
+  - https://en.wikipedia.org/wiki/Classic_Center

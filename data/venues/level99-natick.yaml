@@ -1,0 +1,8 @@
+id: level99-natick
+name: Level99 (Natick)
+venue_type: themed-attraction
+location:
+  city: Natick
+  state: MA
+sources:
+  - https://www.inparkmagazine.com/level99-providence-adirondack/

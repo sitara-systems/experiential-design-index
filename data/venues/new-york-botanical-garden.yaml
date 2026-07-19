@@ -1,0 +1,9 @@
+id: new-york-botanical-garden
+name: New York Botanical Garden
+venue_type: botanical-garden
+location:
+  city: Bronx
+  state: NY
+website: https://www.nybg.org
+sources:
+  - https://www.nybg.org/

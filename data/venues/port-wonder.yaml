@@ -1,0 +1,10 @@
+id: port-wonder
+name: Port Wonder
+venue_type: childrens-museum
+location:
+  city: Lake Charles
+  state: LA
+website: https://portwonder.org
+sources:
+  - https://portwonder.org/
+  - https://www.visitlakecharles.org/articles/post/port-wonder-ribbon-cutting-marks-a-major-milestone-for-lake-charles-lakefront/

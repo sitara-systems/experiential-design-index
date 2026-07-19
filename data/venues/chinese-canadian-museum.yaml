@@ -1,0 +1,11 @@
+id: chinese-canadian-museum
+name: Chinese Canadian Museum
+venue_type: history-museum
+location:
+  city: Vancouver
+  state: BC
+  country: CA
+website: https://www.chinesecanadianmuseum.ca
+sources:
+  - https://www.chinesecanadianmuseum.ca/
+  - https://dailyhive.com/vancouver/chinese-canadian-museum-vancouver-chinatown-opening-2023

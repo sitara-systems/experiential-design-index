@@ -9,6 +9,9 @@ credits:
   - firm: potion-design
     role: media-design
     note: "Collaborating partner on the interactive digital experience"
+  - firm: art-guild-inc
+    role: fabrication
+    note: "Cabinetry, hardware, and installation"
 technologies:
   - real-time interactive animation
   - proximity sensing
@@ -25,3 +28,4 @@ description: >
 sources:
   - https://www.cgpartnersllc.com/projects/koi-pond/
   - https://www.mskcc.org/news-releases/new-era-care-david-koch-center-cancer-care-mskcc-open-january-2020
+  - https://www.artguildinc.com/2021/08/16/a-new-award-winning-museum-interactive-project-for-sloan-kettering-in-new-york/

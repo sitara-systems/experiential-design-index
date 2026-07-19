@@ -1,0 +1,9 @@
+id: fort-walsh-visitor-centre
+name: Fort Walsh National Historic Site Visitor Centre
+venue_type: visitor-center
+location:
+  city: Maple Creek
+  state: SK
+  country: CA
+sources:
+  - https://parks.canada.ca/lhn-nhs/sk/walsh

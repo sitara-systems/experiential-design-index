@@ -1,0 +1,9 @@
+id: chesterwood
+name: Chesterwood
+venue_type: other
+location:
+  city: Stockbridge
+  state: MA
+operator: National Trust for Historic Preservation
+sources:
+  - https://www.chesterwood.org/the-collection

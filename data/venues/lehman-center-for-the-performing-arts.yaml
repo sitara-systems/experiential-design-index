@@ -1,0 +1,9 @@
+id: lehman-center-for-the-performing-arts
+name: Lehman Center for the Performing Arts
+venue_type: cultural-center
+location:
+  city: Bronx
+  state: NY
+operator: Lehman College (CUNY)
+sources:
+  - https://www.lehman.cuny.edu/news/2019/Lehman-Center-for-the-Performing-Arts-Marks-40th-Season-with-154-Million-Renov.php

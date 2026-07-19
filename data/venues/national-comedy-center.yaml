@@ -1,0 +1,9 @@
+id: national-comedy-center
+name: National Comedy Center
+venue_type: history-museum
+location:
+  city: Jamestown
+  state: NY
+website: https://comedycenter.org
+sources:
+  - https://comedycenter.org

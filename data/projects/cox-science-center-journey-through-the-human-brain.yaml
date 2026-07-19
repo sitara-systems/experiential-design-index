@@ -1,0 +1,36 @@
+id: cox-science-center-journey-through-the-human-brain
+name: Journey Through the Human Brain
+venue: cox-science-center-and-aquarium
+project_type: new-exhibition
+year_completed: 2019
+credits:
+  - firm: anthony-lualdi-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: ideum
+    role: media-design
+    note: >
+      "Deep Dive into the Brain" projection-and-console interactive; Brain
+      Development Wall video wall
+  - firm: art-guild-inc
+    role: fabrication
+technologies:
+  - large-format projection
+  - custom interactive console
+  - video wall
+summary: >
+  Journey Through the Human Brain, a 2,500-square-foot permanent
+  exhibition on brain science, opened in 2019 at the Cox Science Center
+  and Aquarium (then South Florida Science Center and Aquarium) in West
+  Palm Beach, Florida, designed by Anthony Lualdi Design with interactive
+  media by Ideum and fabrication by Art Guild.
+description: >
+  Developed with Florida Atlantic University's Brain Institute, Max
+  Planck Florida Institute for Neuroscience, and Scripps Florida, the
+  exhibit includes 30 interactive stations exploring the brain from the
+  molecular to the whole-organ level, including a curved 14-foot
+  projection wall navigated via custom console and a six-display lifespan
+  video wall.
+sources:
+  - https://www.artguildinc.com/2019/03/27/art-guild-tackling-the-most-complex-structure-in-the-universe/
+  - https://ideum.com/news/brains-project-installed

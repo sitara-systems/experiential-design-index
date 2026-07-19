@@ -1,0 +1,9 @@
+id: nevada-state-capitol
+name: Nevada State Capitol
+venue_type: history-museum
+location:
+  city: Carson City
+  state: NV
+sources:
+  - https://www.carsonnvmuseum.org/nevada-state-capitol/
+  - https://visitcarsoncity.com/attractions/battle-born-hall/

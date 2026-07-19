@@ -1,0 +1,9 @@
+id: hispanic-society-museum-and-library
+name: Hispanic Society Museum & Library
+venue_type: art-museum
+location:
+  city: New York
+  state: NY
+website: https://hispanicsociety.org
+sources:
+  - https://hispanicsociety.org

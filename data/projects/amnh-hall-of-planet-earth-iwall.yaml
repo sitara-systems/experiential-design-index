@@ -1,0 +1,24 @@
+id: amnh-hall-of-planet-earth-iwall
+name: iWall Interactive Ice Core Exhibit
+venue: american-museum-of-natural-history
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: art-guild-inc
+    role: fabrication
+technologies:
+  - interactive sliding-track touchscreen
+summary: >
+  An interactive "iWall" installation in the David S. and Ruth L.
+  Gottesman Hall of Planet Earth at the American Museum of Natural
+  History in Manhattan, built and installed by Art Guild in 2019, lets
+  visitors explore roughly 110,000 years of climate data alongside a
+  physical model of the GISP2 Greenland ice core.
+description: >
+  A sliding touchscreen viewer moves along a track in front of a plastic
+  model of the GISP2 ice core, allowing visitors to browse climate-history
+  data corresponding to different depths of the 3,053-meter core (sections
+  of which are preserved at the National Ice Core Laboratory in Lakewood,
+  Colorado).
+sources:
+  - https://www.artguildinc.com/2019/10/15/art-guild-helps-visitors-explore-100000-years-of-climate-change/

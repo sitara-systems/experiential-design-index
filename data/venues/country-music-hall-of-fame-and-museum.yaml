@@ -1,0 +1,10 @@
+id: country-music-hall-of-fame-and-museum
+name: Country Music Hall of Fame and Museum
+venue_type: history-museum
+location:
+  city: Nashville
+  state: TN
+website: https://www.countrymusichalloffame.org
+sources:
+  - https://www.countrymusichalloffame.org/
+  - https://en.wikipedia.org/wiki/Country_Music_Hall_of_Fame_and_Museum

@@ -1,0 +1,10 @@
+id: discovery-centre-halifax
+name: Discovery Centre
+venue_type: science-center
+location:
+  city: Halifax
+  state: NS
+  country: CA
+sources:
+  - https://thediscoverycentre.ca/opening/
+  - https://en.wikipedia.org/wiki/Discovery_Centre

@@ -9,6 +9,13 @@ credits:
     note: "Media experience design and production and digital interactive design and development across an 11,000 sq ft renovation, including two narrative-video programs in the Military Gallery, touchable-hotspot interactive dioramas in the Voices of Alabama gallery, and the Mission Control immersive children's spaceflight experience"
   - firm: the-prd-group
     role: exhibit-design
+  - firm: 1220-fabrication
+    role: fabrication
+    note: >
+      Sourced from 1220 Exhibits' own portfolio, which names the client as
+      "Alabama Department of Archives and History" rather than "Museum of
+      Alabama" — same city and November 2025 date, moderate-high confidence
+      this is the same renovation.
 technologies:
   - touchscreen interactive
   - narrative video

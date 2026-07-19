@@ -1,0 +1,25 @@
+id: colorado-snowsports-museum-iwall
+name: iWall Olympic and Championship Skiing Exhibit
+venue: colorado-snowsports-museum
+project_type: installation
+year_completed: 2018
+credits:
+  - firm: condit
+    role: exhibit-design
+    note: "Content provider for the museum's broader $2.4M renovation; no firm record yet"
+  - firm: art-guild-inc
+    role: fabrication
+technologies:
+  - interactive sliding-track touchscreen
+summary: >
+  An interactive "iWall" exhibit chronicling Olympic, World Championship,
+  and World Cup skiing history opened in spring 2018 at the Colorado
+  Snowsports Museum & Hall of Fame in Vail, Colorado, as part of a $2.4
+  million museum renovation, with content by Condit and fabrication by
+  Art Guild.
+description: >
+  A touchscreen monitor moves along a track spanning content from 1920 to
+  the present, letting visitors explore decades of competitive skiing
+  history.
+sources:
+  - https://www.artguildinc.com/2018/06/13/iwall-exhibit-chronicles-the-history-of-olympic-and-championship-skiing/

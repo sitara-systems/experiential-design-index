@@ -1,0 +1,9 @@
+id: miami-childrens-museum
+name: Miami Children's Museum
+venue_type: childrens-museum
+location:
+  city: Miami
+  state: FL
+website: https://www.miamichildrensmuseum.org
+sources:
+  - https://www.miamichildrensmuseum.org/

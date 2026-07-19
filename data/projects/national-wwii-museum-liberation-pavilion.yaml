@@ -11,6 +11,8 @@ credits:
     role: lighting-design
   - firm: solomon-group
     role: av-integration
+  - firm: 1220-fabrication
+    role: fabrication
 technologies:
   - projection mapping
   - show control system

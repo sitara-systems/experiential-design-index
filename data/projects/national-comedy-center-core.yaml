@@ -1,0 +1,30 @@
+id: national-comedy-center-core
+name: National Comedy Center
+venue: national-comedy-center
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: jack-rouse-associates
+    role: exhibit-design
+  - firm: cortina-productions
+    role: media-design
+  - firm: electrosonic
+    role: av-integration
+  - firm: adirondack-studios
+    role: fabrication
+    note: >
+      Awarded a $2.9M contract for fabrication and installation of scenic
+      components across the center's exhibits (construction documentation,
+      scenic fabrication, graphics/signage, prop procurement, media/AV/
+      lighting integration).
+summary: >
+  The National Comedy Center, a 37,000-sq-ft, $50 million museum dedicated
+  to the art of comedy, opened August 1, 2018 in Jamestown, New York, with
+  exhibit design by Jack Rouse Associates (JRA), media design by Cortina
+  Productions, AV integration by Electrosonic, and fabrication by
+  Adirondack Studios.
+description: ""
+sources:
+  - https://esd.ny.gov/governor-cuomo-announces-new-york-company-awarded-contract-national-comedy-center-project
+  - https://www.cortinaproductions.com/projects/national-comedy-center/
+  - https://comedycenter.org/national-comedy-center-announces-grand-opening/

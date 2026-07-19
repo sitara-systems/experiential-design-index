@@ -1,0 +1,23 @@
+id: intrepid-sea-air-space-museum-regulus-iwall
+name: iWall for the Regulus 1 Cruise Missile
+venue: intrepid-sea-air-space-museum
+project_type: installation
+year_completed: 2018
+credits:
+  - firm: perfect-prototype
+    role: content-production
+    note: "No firm record yet"
+  - firm: art-guild-inc
+    role: fabrication
+technologies:
+  - interactive sliding-track touchscreen
+summary: >
+  An interactive "iWall" exhibit on the Regulus 1 cruise missile opened
+  June 2018 at the Intrepid Sea, Air & Space Museum in Manhattan, with
+  content by Perfect Prototype and fabrication by Art Guild.
+description: >
+  A touch-screen monitor slides along a track in front of a continuous
+  series of images, letting visitors explore the Regulus 1's history,
+  propulsion, and warhead through video and digital content.
+sources:
+  - https://www.artguildinc.com/2018/06/04/art-guild-iwall-showcases-new-exhibit-at-sea-air-and-space-museum/

@@ -12,6 +12,8 @@ credits:
       lobby.
   - firm: eos-lightmedia
     role: av-integration
+  - firm: aldrichpears-associates
+    role: exhibit-design
 technologies:
   - 270-degree projection
   - motion/vibration effects
@@ -29,3 +31,4 @@ description: >
   it.
 sources:
   - https://www.eoslightmedia.com/work/147
+  - https://aldrichpears.com/project/cape-breton-miners-museum/

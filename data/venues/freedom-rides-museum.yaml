@@ -1,0 +1,9 @@
+id: freedom-rides-museum
+name: Freedom Rides Museum
+venue_type: history-museum
+location:
+  city: Montgomery
+  state: AL
+sources:
+  - https://en.wikipedia.org/wiki/Freedom_Rides_Museum
+  - https://ahc.alabama.gov/properties/freedomrides/freedomrides.aspx

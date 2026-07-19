@@ -1,0 +1,10 @@
+id: nypl-macombs-bridge-branch
+name: New York Public Library, Macomb's Bridge Branch
+venue_type: library-archive
+location:
+  city: New York
+  state: NY
+operator: The New York Public Library
+sources:
+  - https://www.aiany.org/architecture/featured-projects/view/new-york-public-library-macombs-bridge-branch/
+  - https://mwarch.net/nypl-macombs/

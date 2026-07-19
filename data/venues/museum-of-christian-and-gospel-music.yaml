@@ -1,0 +1,9 @@
+id: museum-of-christian-and-gospel-music
+name: Museum of Christian & Gospel Music
+venue_type: history-museum
+location:
+  city: Nashville
+  state: TN
+sources:
+  - https://cgmmuseum.org/about/
+  - https://www.npr.org/2025/10/19/nx-s1-5570842/

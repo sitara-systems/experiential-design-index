@@ -1,0 +1,10 @@
+id: mcclung-museum
+name: McClung Museum of Natural History and Culture
+venue_type: natural-history-museum
+location:
+  city: Knoxville
+  state: TN
+operator: University of Tennessee
+website: https://mcclungmuseum.utk.edu
+sources:
+  - https://mcclungmuseum.utk.edu/

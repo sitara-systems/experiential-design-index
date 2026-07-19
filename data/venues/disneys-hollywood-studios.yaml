@@ -1,0 +1,10 @@
+id: disneys-hollywood-studios
+name: Disney's Hollywood Studios
+venue_type: themed-attraction
+location:
+  city: Lake Buena Vista
+  state: FL
+operator: Walt Disney World Resort
+website: https://disneyworld.disney.go.com/destinations/hollywood-studios/
+sources:
+  - https://disneyworld.disney.go.com/destinations/hollywood-studios/

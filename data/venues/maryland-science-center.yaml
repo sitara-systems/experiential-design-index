@@ -1,0 +1,9 @@
+id: maryland-science-center
+name: Maryland Science Center
+venue_type: science-center
+location:
+  city: Baltimore
+  state: MD
+website: https://www.mdsci.org
+sources:
+  - https://www.artguildinc.com/2021/12/03/you-the-inside-story-a-fun-new-exhibit-for-the-maryland-science-center/

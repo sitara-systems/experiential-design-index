@@ -1,0 +1,9 @@
+id: spring-mountains-visitor-gateway
+name: Spring Mountains Visitor Gateway
+venue_type: visitor-center
+location:
+  city: Mount Charleston
+  state: NV
+sources:
+  - https://www.fs.usda.gov/r04/humboldt-toiyabe/recreation/spring-mountains-visitor-gateway
+  - https://www.reviewjournal.com/local/local-las-vegas/50m-visitor-gateway-on-mount-charleston-opens-saturday-photos/

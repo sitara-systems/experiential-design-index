@@ -1,0 +1,21 @@
+id: chesterwood-collections-gallery
+name: Collections Gallery
+venue: chesterwood
+project_type: new-exhibition
+year_completed: 2018
+credits:
+  - firm: anita-jorgensen-lighting-design
+    role: lighting-design
+summary: >
+  The Collections Gallery, a new climate-controlled exhibition space at
+  Chesterwood — sculptor Daniel Chester French's home and studio in
+  Stockbridge, Massachusetts — opened in 2018 with funding from the Henry
+  Luce Foundation, exhibition design by Jeff Daly, and lighting design by
+  Anita Jorgensen Lighting Design.
+description: >
+  Exhibition designer Jeff Daly is credited as an individual, not a firm —
+  omitted from credits per schema (firm id required); named here in
+  summary only.
+sources:
+  - https://www.chesterwood.org/the-collection
+  - https://www.ajld.net/news.php

@@ -1,0 +1,9 @@
+id: universal-volcano-bay
+name: Universal's Volcano Bay
+venue_type: themed-attraction
+location:
+  city: Orlando
+  state: FL
+operator: Universal Orlando Resort
+sources:
+  - https://www.universalorlando.com/web/en/us/theme-parks/volcano-bay

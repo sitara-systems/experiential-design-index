@@ -1,0 +1,9 @@
+id: disneys-animal-kingdom
+name: Disney's Animal Kingdom
+venue_type: themed-attraction
+location:
+  city: Lake Buena Vista
+  state: FL
+operator: Walt Disney World Resort
+sources:
+  - https://disneyworld.disney.go.com/destinations/animal-kingdom/
