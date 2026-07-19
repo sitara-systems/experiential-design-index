@@ -4,7 +4,7 @@ venue_type: briefing-center
 location:
   city: Markham
   state: ON
-  country: Canada
+  country: CA
 operator: GE Digital Energy (GE Power)
 sources:
   - https://onediversified.com/case-study/immersive-visually-dynamic-client-experience-center
