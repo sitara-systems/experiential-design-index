@@ -44,8 +44,18 @@ this doc and any batch-specific instructions:
    conflicting credit → leave it out and log it, don't pick a side.
    Institutional sources outrank a firm's self-description when they
    conflict.
-3. **No Sitara Systems records** until the separate Proposal-Assets library
-   review gate clears (see the master `ExperientialIndex/CLAUDE.md`).
+3. **Sitara Systems self-inclusion is Nathan-gated, case by case.** The
+   Proposal-Assets library review gate (see the master
+   `ExperientialIndex/CLAUDE.md`) still blocks that specific source
+   wholesale. Separately, as of 2026-07-19, individual Sitara projects can
+   be added directly when Nathan points at a specific source (e.g. the
+   sitara-website case-study stubs) — but every hard rule on this page
+   still applies in full, including independent corroboration beyond
+   Sitara's own site and the North America venue-scope rule (this is what
+   held Tate Modern out of the first pass, despite being Sitara's
+   best-documented project — see `phase2-research-log.md` 2026-07-19).
+   Don't add a Sitara credit on Sitara's say-so alone, and don't relax any
+   rule because the firm is the index's own publisher.
 4. **No new `vocabularies.yaml` values** without a deliberate editorial
    decision — use the closest existing fit (or `other`) and log the gap.
 5. **No advertising work** — ad campaigns, commercials, brand activations
