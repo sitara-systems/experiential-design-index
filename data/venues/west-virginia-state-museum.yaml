@@ -6,6 +6,11 @@ location:
   state: WV
 operator: West Virginia Culture Center
 website: https://wvculture.org/explore/wv-state-museum/
+annual_attendance:
+  figure: 71305
+  year: 2019
+  source: https://www.wvlegislature.gov/committees/senate/documents/Budget-Bulletin-11-22-(Arts-culture-and-history).pdf
 sources:
   - https://en.wikipedia.org/wiki/West_Virginia_State_Museum
   - https://wvculture.org/explore/wv-state-museum/
+  - https://www.wvlegislature.gov/committees/senate/documents/Budget-Bulletin-11-22-(Arts-culture-and-history).pdf

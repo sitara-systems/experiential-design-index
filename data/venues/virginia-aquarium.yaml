@@ -5,5 +5,9 @@ location:
   city: Virginia Beach
   state: VA
 website: https://virginiaaquarium.com
+annual_attendance:
+  figure: 600000
+  year: 2026
+  source: https://virginiaaquarium.com/news-room/the-virginia-aquarium-marine-science-center-celebrates-40-years
 sources:
   - https://virginiaaquarium.com

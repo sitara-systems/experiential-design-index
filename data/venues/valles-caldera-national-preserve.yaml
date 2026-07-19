@@ -6,6 +6,10 @@ location:
   state: NM
 operator: National Park Service
 website: https://www.nps.gov/vall
+annual_attendance:
+  figure: 76000
+  year: 2023
+  source: https://www.nps.gov/vall/learn/news/2024-08.htm
 sources:
   - https://blooloop.com/museum/news/ideum-valles-caldera-national-preserve/
   - https://ideum.com/portfolio/valles-caldera-interactive-projection-map-table

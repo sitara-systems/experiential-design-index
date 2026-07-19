@@ -5,6 +5,10 @@ location:
   city: Colorado Springs
   state: CO
 website: https://usopm.org
+annual_attendance:
+  figure: 83582
+  year: 2024
+  source: https://gazette.com/2025/07/27/olympic-museum-struggles-to-meet-projected-attendance-grapples-with-falling-revenues-5-years-on-0e2c822b-93b6-44f9-b213-e6de911230dd/
 sources:
   - https://usopm.org
   - https://en.wikipedia.org/wiki/United_States_Olympic_%26_Paralympic_Museum

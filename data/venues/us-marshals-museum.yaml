@@ -5,5 +5,9 @@ location:
   city: Fort Smith
   state: AR
 website: https://www.marshalsmuseum.org
+annual_attendance:
+  figure: 47700
+  year: 2025
+  source: https://talkbusiness.net/2026/04/marshals-museum-visitor-numbers-up-more-than-5-in-2025/
 sources:
   - https://www.marshalsmuseum.org

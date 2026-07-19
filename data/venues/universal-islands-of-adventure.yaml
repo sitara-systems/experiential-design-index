@@ -6,5 +6,10 @@ location:
   state: FL
 operator: Universal Orlando Resort / NBCUniversal
 website: https://www.universalorlando.com/web/en/us/theme-parks/islands-of-adventure
+annual_attendance:
+  figure: 9450000
+  year: 2024
+  source: https://blogmickey.com/2025/10/2024-attendance-report-modest-gains-walt-disney-world-downturn-continues-universal-orlando/
 sources:
   - https://en.wikipedia.org/wiki/Hagrid's_Magical_Creatures_Motorbike_Adventure
+  - https://blogmickey.com/2025/10/2024-attendance-report-modest-gains-walt-disney-world-downturn-continues-universal-orlando/

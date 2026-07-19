@@ -5,5 +5,10 @@ location:
   city: Knoxville
   state: TN
 website: https://zooknoxville.org
+annual_attendance:
+  figure: 591131
+  year: 2023
+  source: https://www.wate.com/news/knox-county-news/zoo-knoxville-broke-attendance-record-in-2023-contributed-58m-to-local-economy/
 sources:
   - https://www.dimin.com/
+  - https://www.wate.com/news/knox-county-news/zoo-knoxville-broke-attendance-record-in-2023-contributed-58m-to-local-economy/

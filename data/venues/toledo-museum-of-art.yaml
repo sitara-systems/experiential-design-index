@@ -5,6 +5,11 @@ location:
   city: Toledo
   state: OH
 website: https://toledomuseum.org
+annual_attendance:
+  figure: 383685
+  year: 2019
+  source: https://www.toledomuseum.org/sites/default/files/tmoa19_009_p_annual_report_final_web.pdf
 sources:
   - https://toledomuseum.org
   - https://en.wikipedia.org/wiki/Toledo_Museum_of_Art
+  - https://www.toledomuseum.org/sites/default/files/tmoa19_009_p_annual_report_final_web.pdf

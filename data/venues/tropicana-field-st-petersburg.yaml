@@ -5,5 +5,10 @@ location:
   city: St. Petersburg
   state: FL
 operator: Tampa Bay Rays
+annual_attendance:
+  figure: 1440301
+  year: 2023
+  source: https://en.wikipedia.org/wiki/2023_Tampa_Bay_Rays_season
 sources:
   - https://www.theurbanconga.com/projects/play-with-the-rays
+  - https://en.wikipedia.org/wiki/2023_Tampa_Bay_Rays_season

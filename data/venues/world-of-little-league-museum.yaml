@@ -6,5 +6,10 @@ location:
   state: PA
 operator: Little League Baseball, Incorporated
 website: https://www.littleleague.org/play-little-league/world-of-little-league/
+annual_attendance:
+  figure: 25000
+  year: 2019
+  source: https://www.wric.com/news/thousands-visit-the-little-league-world-series-museum/
 sources:
   - https://www.littleleague.org/play-little-league/world-of-little-league/
+  - https://www.wric.com/news/thousands-visit-the-little-league-world-series-museum/

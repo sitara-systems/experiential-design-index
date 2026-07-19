@@ -5,5 +5,9 @@ location:
   city: New York
   state: NY
 website: https://www.thehighline.org
+annual_attendance:
+  figure: 7600000
+  year: 2015
+  source: https://www.landscapeperformance.org/case-study-briefs/high-line
 sources:
   - https://www.thehighline.org

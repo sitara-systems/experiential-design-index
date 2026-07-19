@@ -5,5 +5,9 @@ location:
   city: Richmond
   state: VA
 website: https://thevalentine.org
+annual_attendance:
+  figure: 25000
+  year: 2023
+  source: https://rvahub.com/2024/09/06/richmond-region-tourism-and-the-valentine-unveil-new-visitor-center/
 sources:
   - https://studiojoseph.com/work/sculpting-history

@@ -6,6 +6,10 @@ location:
   state: DC
 operator: White House Historical Association
 website: https://www.whitehousehistory.org/the-peoples-house
+annual_attendance:
+  figure: 273000
+  year: 2025
+  source: https://www.whitehousehistory.org/press-room/press-releases/the-white-house-historical-association-celebrates-one-year-anniversary-of-the-peoples-house-a-white-house-experience
 sources:
   - https://www.eoslightmedia.com/work/564
   - https://www.whitehousehistory.org/the-peoples-house

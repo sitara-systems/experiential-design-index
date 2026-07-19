@@ -6,6 +6,10 @@ location:
   state: CA
 operator: The Walt Disney Family Foundation
 website: https://www.waltdisney.org
+annual_attendance:
+  figure: 162678
+  year: 2024
+  source: https://www.guidestar.org/profile/46-4118590
 sources:
   - https://en.wikipedia.org/wiki/Walt_Disney_Family_Museum
   - https://www.archpaper.com/2009/09/the-house-the-mouse-built/

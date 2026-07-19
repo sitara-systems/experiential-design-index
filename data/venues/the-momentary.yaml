@@ -6,6 +6,10 @@ location:
   state: AR
 operator: Crystal Bridges Museum of American Art
 website: https://themomentary.org
+annual_attendance:
+  figure: 156000
+  year: 2023
+  source: https://www.arkansasbusiness.com/article/crystal-bridges-museum-record-attendance-2023-expansion/
 sources:
   - https://en.wikipedia.org/wiki/The_Momentary
   - https://themomentary.org/about/

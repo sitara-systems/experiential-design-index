@@ -6,6 +6,11 @@ location:
   state: NY
 operator: New York Yankees
 website: https://www.mlb.com/yankees/ballpark
+annual_attendance:
+  figure: 3309838
+  year: 2024
+  source: https://www.espn.com/mlb/attendance/_/year/2024
 sources:
   - https://en.wikipedia.org/wiki/Yankee_Stadium
   - https://designobserver.com/take-me-out-to-the-old-yankee-stadium/
+  - https://www.espn.com/mlb/attendance/_/year/2024

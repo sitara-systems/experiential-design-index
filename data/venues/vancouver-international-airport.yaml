@@ -7,5 +7,9 @@ location:
   country: CA
 operator: Vancouver Airport Authority
 website: https://www.yvr.ca
+annual_attendance:
+  figure: 26900000
+  year: 2025
+  source: https://news.yvr.ca/yvr-marks-record-breaking-year/
 sources:
   - https://www.eoslightmedia.com/work/36

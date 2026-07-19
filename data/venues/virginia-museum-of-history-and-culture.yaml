@@ -5,5 +5,9 @@ location:
   city: Richmond
   state: VA
 website: https://virginiahistory.org
+annual_attendance:
+  figure: 175000
+  year: 2024
+  source: https://www.townebank.com/about-towne/townetoday/summer-2025/richmond/virginia-museum-of-history-culture/
 sources:
   - https://virginiahistory.org

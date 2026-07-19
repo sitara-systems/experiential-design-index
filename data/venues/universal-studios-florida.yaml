@@ -6,5 +6,10 @@ location:
   state: FL
 operator: Universal Orlando Resort
 website: https://www.universalorlando.com
+annual_attendance:
+  figure: 9500000
+  year: 2024
+  source: https://blogmickey.com/2025/10/2024-attendance-report-modest-gains-walt-disney-world-downturn-continues-universal-orlando/
 sources:
   - https://www.universalorlando.com/web/en/us/things-to-do/shows/cinesational-symphonic-spectacular
+  - https://blogmickey.com/2025/10/2024-attendance-report-modest-gains-walt-disney-world-downturn-continues-universal-orlando/

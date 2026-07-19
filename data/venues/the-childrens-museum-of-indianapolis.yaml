@@ -5,5 +5,9 @@ location:
   city: Indianapolis
   state: IN
 website: https://www.childrensmuseum.org
+annual_attendance:
+  figure: 1205198
+  year: 2023
+  source: https://www.childrensmuseum.org/about/press-room/press-releases/popular-family-exhibits-contribute-record-breaking-attendance-children%E2%80%99s-museum-indianapolis
 sources:
   - https://www.dimin.com/

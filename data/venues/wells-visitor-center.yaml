@@ -6,6 +6,10 @@ location:
   state: IA
 operator: Wells Enterprises (Blue Bunny)
 website: https://ilovewells.com
+annual_attendance:
+  figure: 200000
+  year: 2025
+  source: https://www.ktiv.com/2025/02/24/wells-visitor-center-ice-cream-parlor-celebrates-major-milestone-le-mars/
 sources:
   - https://ilovewells.com/
   - https://www.iowapublicradio.org/ipr-news/2019-06-13/wells-blue-bunny-remodels-facility-hoping-to-bring-more-tourism-to-le-mars

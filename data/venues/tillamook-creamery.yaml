@@ -6,6 +6,11 @@ location:
   state: OR
 operator: Tillamook County Creamery Association
 website: https://www.tillamook.com/visit-us/creamery
+annual_attendance:
+  figure: 1300000
+  year: 2018
+  source: https://www.oregoncoastmagazine.com/2018/06/20/tillamook-creamery-opens-new-visitor-center/
 sources:
   - https://www.tillamook.com/visit-us/creamery
   - https://www.archpaper.com/2020/01/olson-kundig-celebrates-history-food-oregon-tillamook-creamery/
+  - https://www.oregoncoastmagazine.com/2018/06/20/tillamook-creamery-opens-new-visitor-center/
