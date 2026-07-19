@@ -16,7 +16,7 @@ credits:
     role: av-integration
     note: "Credited on SH Acoustics' own project page; no independent corroboration found for this specific project"
   - firm: sh-acoustics
-    role: technical-consulting
+    role: acoustics
     note: >
       Acoustic design and engineering including gallery sound optimization,
       sound-isolation construction separating galleries and theaters,
@@ -24,7 +24,7 @@ credits:
       calibration of all media programs, and guidance to ten media producers
       on optimized audio-track production.
   - firm: prime-access-consulting
-    role: technical-consulting
+    role: accessibility-consulting
     note: >
       Embedded inclusive design and accessibility across the new museum's
       exhibitions and digital platforms from the outset (September 2009 –

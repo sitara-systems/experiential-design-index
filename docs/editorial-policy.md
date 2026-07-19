@@ -69,6 +69,14 @@ sourcing bar as museum work, because those are still credited,
 documented, physical installations. The same firm's ad-campaign work for
 the same client is out of scope.
 
+**Project-type scope: built work only.** The index records projects that
+resulted in a built, installed experience. Master plans, feasibility
+studies, and strategy engagements that produced a plan without a built
+outcome are not recorded as projects — deliberately: they are often
+unpublished (against the sourcing standard) and the index's promise is
+who *built* what. The planning disciplines themselves remain fully
+represented through their credits on built projects.
+
 ## Activity status (active vs. inactive firms)
 
 Every firm record carries an evidence-based activity status — `active`,

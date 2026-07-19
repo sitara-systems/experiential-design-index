@@ -40,10 +40,21 @@ roles:
   - id: landscape-architecture
     label: Landscape Architecture
     note: Landscape and site design for experiential projects
-# Intentionally NOT roles (editorial decision 2026-07-18, do not re-flag):
-# general contracting/construction engineering and photography. Both appear
-# in project credit lists but are outside the experiential delivery stack
-# this index documents — leave those credits out of records.
+  - id: acoustics
+    label: Acoustic Consulting
+    note: Acoustic design and consulting for experiential spaces
+  - id: accessibility-consulting
+    label: Accessibility / Inclusive Design Consulting
+    note: ADA and inclusive-design consulting for exhibitions and venues
+# Intentionally NOT roles (editorial decisions 2026-07-18, do not re-flag):
+# general contracting/construction engineering, photography, and
+# product/equipment manufacturers (loudspeaker, display, projector makers —
+# a manufacturer whose product was used is not a delivery-stack credit).
+# All appear in project credit lists but are outside the experiential
+# delivery stack this index documents — leave those credits out of records.
+# "Museum consulting" as a distinct role: parked at the recurrence bar
+# (2026-07-18) — map to the closest existing role or omit; re-raise only
+# after 3 independent flags.
 
 # Project type — a proxy for scope and scale, from ground-up construction
 # down to a single installation.
@@ -122,6 +133,8 @@ venue_types:
     label: Sports Venue / Hall of Fame
   - id: themed-attraction
     label: Themed Attraction / Immersive Venue
+  - id: casino-resort
+    label: Casino / Resort
   - id: public-space
     label: Public Space / Placemaking
   - id: botanical-garden
