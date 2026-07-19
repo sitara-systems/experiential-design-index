@@ -1,0 +1,22 @@
+id: anchorage-museum-quonset
+name: "Quonset: Metal Living for a Modern Age"
+venue: anchorage-museum
+project_type: temporary-exhibition
+year_completed: 2005
+credits:
+  - firm: matter-architecture-practice
+    role: exhibit-design
+    note: "Project management and design"
+recognition:
+  - award: "Western Museums Association — Charles Redd Center Award for Exhibition Excellence"
+    year: 2006
+    source: https://www.quonsethuts.org/
+technologies: []
+summary: >
+  "Quonset: Metal Living for a Modern Age," an exhibition on Quonset
+  hut architecture, opened at the Anchorage Museum October 16, 2005
+  before traveling to other venues; exhibit design by Matter
+  Architecture Practice.
+description: ""
+sources:
+  - https://www.quonsethuts.org/

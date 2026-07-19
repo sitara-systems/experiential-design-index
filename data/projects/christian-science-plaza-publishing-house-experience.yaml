@@ -6,6 +6,11 @@ year_completed: 2021
 credits:
   - firm: luci-creative
     role: exhibit-design
+  - firm: sga
+    role: architecture
+    note: "No firm record yet"
+  - firm: creative-technology
+    role: av-integration
   - firm: winikur-productions
     role: media-design
     note: "A dozen linear and interactive media exhibits for the Welcome Hall and two adjacent galleries; no firm record yet"

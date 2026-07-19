@@ -1,0 +1,11 @@
+id: mccaw-hall
+name: Marion Oliver McCaw Hall
+venue_type: cultural-center
+location:
+  city: Seattle
+  state: WA
+description: >
+  Shared home of Seattle Opera and Pacific Northwest Ballet at Seattle
+  Center.
+sources:
+  - https://en.wikipedia.org/wiki/McCaw_Hall

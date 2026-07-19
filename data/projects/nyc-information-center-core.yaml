@@ -1,0 +1,19 @@
+id: nyc-information-center-core
+name: Official New York City Information Center
+venue: nyc-information-center
+project_type: new-exhibition
+year_completed: 2009
+credits:
+  - firm: wxy-architecture
+    role: architecture
+  - firm: local-projects
+    role: media-design
+technologies: []
+summary: >
+  The Official New York City Information Center at 810 Seventh Avenue,
+  opened January 21, 2009; architecture by WXY Architecture, media
+  design by Local Projects.
+description: ""
+sources:
+  - https://wxystudio.com/
+  - https://localprojects.com/

@@ -1,0 +1,9 @@
+id: mesa-water-education-center
+name: Mesa Water Education Center
+venue_type: visitor-center
+location:
+  city: Costa Mesa
+  state: CA
+operator: Mesa Water District
+sources:
+  - https://www.mesawater.org/community/mesa-water-education-center

@@ -1,0 +1,9 @@
+id: middlebury-virtue-field-house
+name: Virtue Field House
+venue_type: academic-institution
+location:
+  city: Middlebury
+  state: VT
+operator: Middlebury College
+sources:
+  - https://www.sasaki.com/

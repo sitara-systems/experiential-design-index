@@ -1,0 +1,8 @@
+id: anchorage-museum
+name: Anchorage Museum
+venue_type: art-museum
+location:
+  city: Anchorage
+  state: AK
+sources:
+  - https://www.quonsethuts.org/

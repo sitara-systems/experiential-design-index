@@ -13,6 +13,12 @@ credits:
   - firm: northern-light-productions
     role: content-production
     note: "Interactive and media content development"
+  - firm: creative-technology
+    role: av-integration
+    note: "Interactive technology; per the museum's own site, developed interactive/media content with Northern Light Productions, Unified Field, and Brave New Pictures"
+  - firm: brave-new-pictures
+    role: content-production
+    note: "Video production; no firm record yet"
 technologies:
   - virtual reality
   - CGI vehicle simulation

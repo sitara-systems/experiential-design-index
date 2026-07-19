@@ -1,0 +1,21 @@
+id: tobin-center-renovation
+name: Renovation
+venue: tobin-center-for-the-performing-arts
+project_type: major-renovation
+year_completed: 2014
+credits:
+  - firm: lmn-architects
+    role: architecture
+  - firm: marmon-mok-architecture
+    role: architecture
+    note: "Associate architect"
+technologies: []
+summary: >
+  A renovation of San Antonio's 1926 Municipal Auditorium into the
+  Tobin Center for the Performing Arts, opened 2014; architecture by
+  LMN Architects with Marmon Mok Architecture as associate architect.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Tobin_Center_for_the_Performing_Arts
+  - https://www.marmonmok.com/projects/tobin-center-for-the-performing-arts/
+  - https://www.sanantonioreport.org/

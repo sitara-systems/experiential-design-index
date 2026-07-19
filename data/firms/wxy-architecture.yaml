@@ -1,0 +1,22 @@
+# Firm record — WXY Architecture
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: wxy-architecture
+name: WXY Architecture
+aka: []
+hq:
+  city: New York
+  state: NY
+roles:
+  - architecture
+status: active
+status_basis: >
+  Architecture on the Official New York City Information Center (New
+  York, NY, opened 2009); active per its own site as of verification
+  date.
+status_verified: 2026-07-19
+summary: >
+  WXY Architecture is a New York City-based architecture and urban
+  design firm.
+sources:
+  - https://wxystudio.com/

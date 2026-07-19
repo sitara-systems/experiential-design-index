@@ -1,0 +1,21 @@
+id: mccaw-hall-renovation
+name: Renovation
+venue: mccaw-hall
+project_type: major-renovation
+year_completed: 2003
+credits:
+  - firm: lmn-architects
+    role: architecture
+  - firm: schuler-shook
+    role: technical-consulting
+    note: "Theatre planning: room planning, circulation, stage rigging and lighting specification"
+technologies: []
+summary: >
+  A renovation creating Marion Oliver McCaw Hall in Seattle, opened
+  2003; architecture by LMN Architects, theatre planning by Schuler
+  Shook.
+description: ""
+sources:
+  - https://www.historylink.org/File/4230
+  - https://en.wikipedia.org/wiki/McCaw_Hall
+  - https://www.schulershook.com/projects/marion-oliver-mccaw-hall

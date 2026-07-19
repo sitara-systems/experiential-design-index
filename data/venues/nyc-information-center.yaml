@@ -1,0 +1,8 @@
+id: nyc-information-center
+name: Official New York City Information Center
+venue_type: visitor-center
+location:
+  city: New York
+  state: NY
+sources:
+  - https://wxystudio.com/

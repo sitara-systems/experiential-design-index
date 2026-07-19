@@ -1,0 +1,9 @@
+id: diego-rivera-performing-arts-center
+name: Diego Rivera Performing Arts Center
+venue_type: cultural-center
+location:
+  city: San Francisco
+  state: CA
+operator: City College of San Francisco
+sources:
+  - https://sfyimby.com/

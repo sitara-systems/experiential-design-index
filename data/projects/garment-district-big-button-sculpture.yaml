@@ -1,0 +1,23 @@
+id: garment-district-big-button-sculpture
+name: Big Button Sculpture
+venue: garment-district-nyc
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: local-projects
+    role: exhibit-design
+  - firm: uap-urban-art-projects
+    role: fabrication
+    note: "Sculpture design development and fabrication team lead"
+  - firm: technical-artistry
+    role: lighting-design
+technologies: []
+summary: >
+  A large-scale sculpture of a button, marking New York's Garment
+  District at 7th Avenue and 39th Street, unveiled February 16, 2023;
+  fabrication by UAP, lighting design by Technical Artistry, concept by
+  Local Projects.
+description: ""
+sources:
+  - https://www.archpaper.com/
+  - https://www.uapcompany.com/

@@ -1,0 +1,26 @@
+id: benaroya-hall-original-building
+name: Benaroya Hall (original building)
+venue: benaroya-hall
+project_type: new-building
+year_completed: 1998
+credits:
+  - firm: lmn-architects
+    role: architecture
+  - firm: wpa
+    role: graphics-wayfinding
+    note: >
+      Independent sourcing confirms a WPA (Wesselman Pellecchia
+      Associates) "Benaroya Hall Construction Enclosure" project in
+      1998, per an SEGD award listing; this may be a distinct temporary
+      construction-fence graphics scope rather than permanent building
+      signage — ambiguity not resolved.
+technologies: []
+summary: >
+  The original Benaroya Hall building in Seattle, opened 1998;
+  architecture by LMN Architects. Distinct from the 2018 Octave 9
+  addition already recorded separately.
+description: ""
+sources:
+  - https://www.historylink.org/file/3531
+  - https://en.wikipedia.org/wiki/Benaroya_Hall
+  - https://segd.org/benaroya-hall-construction-enclosure

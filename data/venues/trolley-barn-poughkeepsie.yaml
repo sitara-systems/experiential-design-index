@@ -1,0 +1,11 @@
+id: trolley-barn-poughkeepsie
+name: Trolley Barn
+venue_type: cultural-center
+location:
+  city: Poughkeepsie
+  state: NY
+description: >
+  An adaptive reuse of an 1874 trolley barn into an arts, exhibition,
+  and event hub for The Art Effect.
+sources:
+  - https://hvmag.com/things-to-do/poughkeepsies-historic-trolley-barn-goes-from-horse-drawn-carriages-to-downtown-art-hub/

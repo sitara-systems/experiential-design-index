@@ -1,0 +1,22 @@
+# Firm record — Marmon Mok Architecture
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: marmon-mok-architecture
+name: Marmon Mok Architecture
+aka: []
+hq:
+  city: San Antonio
+  state: TX
+roles:
+  - architecture
+status: active
+status_basis: >
+  Associate architect on the Tobin Center for the Performing Arts (San
+  Antonio, TX, opened 2014); active per its own site as of verification
+  date.
+status_verified: 2026-07-19
+summary: >
+  Marmon Mok Architecture is a San Antonio, Texas-based architecture
+  firm.
+sources:
+  - https://www.marmonmok.com/projects/tobin-center-for-the-performing-arts/

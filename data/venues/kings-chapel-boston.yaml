@@ -1,0 +1,10 @@
+id: kings-chapel-boston
+name: King's Chapel
+venue_type: history-museum
+location:
+  city: Boston
+  state: MA
+description: >
+  A National Historic Landmark church.
+sources:
+  - https://memorial.kings-chapel.org/

@@ -1,0 +1,26 @@
+# Firm record — The Shalleck Collaborative
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: the-shalleck-collaborative
+name: The Shalleck Collaborative
+aka: []
+hq:
+  city: Berkeley
+  state: CA
+other_offices:
+  - city: Portland
+    state: OR
+roles:
+  - technical-consulting
+status: active
+status_basis: >
+  Theatre planning/AV consultant on the Vashon Center for the Arts
+  (Vashon Island, WA, opened 2016); active per its own site as of
+  verification date.
+status_verified: 2026-07-19
+summary: >
+  The Shalleck Collaborative is a theatre-planning and AV consulting
+  firm.
+sources:
+  - https://www.shalleck.com/post/2016/06/25/vashon-center-for-the-arts-opens-on-vashon-island
+  - https://www.shalleck.com/contact-3

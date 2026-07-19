@@ -1,0 +1,22 @@
+id: cooper-hewitt-face-values-ny
+name: "Face Values: Exploring Artificial Intelligence (New York)"
+venue: cooper-hewitt-smithsonian-design-museum
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: matter-architecture-practice
+    role: exhibit-design
+    note: "Synthetic three-dimensional reed garden backdrop"
+technologies:
+  - facial/gesture recognition
+  - AI-driven interactive art
+summary: >
+  "Face Values: Exploring Artificial Intelligence," an installation in
+  Cooper Hewitt's Process Lab, opened September 20, 2019 and ran
+  through May 17, 2020; physical design by Matter Architecture
+  Practice. A New York restaging of a piece first shown at the 2018
+  London Design Biennale (that showing is out of North America scope).
+description: ""
+sources:
+  - https://www.cooperhewitt.org/2019/09/05/cooper-hewitt-to-bring-its-award-winning-face-values-installation-to-new-york/
+  - https://engineering.nyu.edu/news/inside-cooper-hewitts-installation-london-design-biennale

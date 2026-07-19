@@ -1,0 +1,20 @@
+id: vashon-center-for-the-arts-core
+name: Vashon Center for the Arts
+venue: vashon-center-for-the-arts
+project_type: new-building
+year_completed: 2016
+credits:
+  - firm: lmn-architects
+    role: architecture
+  - firm: the-shalleck-collaborative
+    role: technical-consulting
+    note: "Theatre planning/AV"
+technologies: []
+summary: >
+  Vashon Center for the Arts on Vashon Island, Washington, opened June
+  2016; architecture by LMN Architects, theatre planning by The
+  Shalleck Collaborative.
+description: ""
+sources:
+  - https://www.djc.com/news/ae/12090568.html
+  - https://www.shalleck.com/post/2016/06/25/vashon-center-for-the-arts-opens-on-vashon-island

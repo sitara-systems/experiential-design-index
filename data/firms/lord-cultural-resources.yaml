@@ -13,6 +13,10 @@ other_offices:
     state: CA
   - city: Mumbai
     country: India
+  - city: Madrid
+    country: Spain
+  - city: Paris
+    country: France
 founded: 1981
 roles:
   - master-planning
@@ -23,8 +27,10 @@ status_basis: >
   exhibition (opened July 2025), the Royal Ontario Museum's Connection
   Stations (opened March 2025), and the Harry J. Enns Wetland Discovery
   Centre reopening at Oak Hammock Marsh (opened May 2025); active published
-  project portfolio and press activity through 2026.
-status_verified: 2026-07-18
+  project portfolio and press activity through 2026. Museum Studio (a
+  Chargeurs Group company) acquired a 51% majority stake, announced April
+  10, 2025; Gail Lord remains active, CEO is now Delphine de Canecaude.
+status_verified: 2026-07-19
 summary: >
   Lord Cultural Resources is a Toronto-based cultural planning consultancy
   founded in 1981 by Gail and Barry Lord, providing master planning and
@@ -35,3 +41,4 @@ sources:
   - https://www.lord.ca/who-we-are/about
   - https://www.lord.ca/contact
   - https://www.lord.ca/projects
+  - https://blooloop.com/museum/news/museum-studio-acquires-lord-cultural-resources/

@@ -1,0 +1,24 @@
+# Firm record — UAP (Urban Art Projects)
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: uap-urban-art-projects
+name: UAP (Urban Art Projects)
+aka: []
+hq:
+  city: Brooklyn
+  state: NY
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Fabrication lead on the Big Button Sculpture (New York, NY, unveiled
+  2023); active per its own site as of verification date. Note: US
+  operating presence via a New York studio; global HQ is Brisbane,
+  Australia.
+status_verified: 2026-07-19
+summary: >
+  UAP (Urban Art Projects) is a public-art design and fabrication
+  studio with a New York studio and global headquarters in Brisbane,
+  Australia.
+sources:
+  - https://www.uapcompany.com/

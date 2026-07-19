@@ -1,0 +1,8 @@
+id: oregon-zoo
+name: Oregon Zoo
+venue_type: aquarium-zoo
+location:
+  city: Portland
+  state: OR
+sources:
+  - https://clrdesign.com/project/primate-forest/

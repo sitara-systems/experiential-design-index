@@ -1,0 +1,25 @@
+# Firm record — CLR Design
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: clr-design
+name: CLR Design
+aka: []
+hq:
+  city: Philadelphia
+  state: PA
+other_offices:
+  - city: Dana Point
+    state: CA
+roles:
+  - exhibit-design
+status: active
+status_basis: >
+  Exhibit design on the Oregon Zoo's Primate Forest (Portland, OR,
+  opened 2021) and Woodland Park Zoo's Forest Trailhead (Seattle, WA,
+  opened 2026); active per its own site as of verification date.
+status_verified: 2026-07-19
+summary: >
+  CLR Design is a zoo and aquarium habitat design firm.
+sources:
+  - https://clrdesign.com/project/primate-forest/
+  - https://clrdesign.com/who-we-are

@@ -1,0 +1,21 @@
+# Firm record — Pelli Clarke & Partners
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: pelli-clarke-and-partners
+name: Pelli Clarke & Partners
+aka: []
+hq:
+  city: New Haven
+  state: CT
+roles:
+  - architecture
+status: active
+status_basis: >
+  Architecture on Dassai Blue Sake Brewery (Hyde Park, NY, opened 2023);
+  active per its own site as of verification date.
+status_verified: 2026-07-19
+summary: >
+  Pelli Clarke & Partners is a New Haven, Connecticut-based architecture
+  firm.
+sources:
+  - https://www.pcparch.com/

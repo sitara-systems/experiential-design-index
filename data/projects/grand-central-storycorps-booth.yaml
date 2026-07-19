@@ -1,0 +1,25 @@
+id: grand-central-storycorps-booth
+name: StoryCorps Story Booth
+venue: grand-central-terminal
+project_type: installation
+year_completed: 2003
+credits:
+  - firm: local-projects
+    role: interpretive-planning
+    note: "Lead interaction design; defined the interview process/rituals"
+  - firm: mesh-architectures
+    role: architecture
+    note: "With MASdesign; physical booth design; no firm record yet"
+technologies: []
+summary: >
+  The original StoryCorps Story Booth in Grand Central Terminal, opened
+  October 23, 2003 (moved to Foley Square July 2005); interaction design
+  by Local Projects, booth design by MASdesign + MESH Architectures.
+description: >
+  This original commission's interaction design later became the
+  template for StoryCorps' national booth rollout; recorded here as the
+  original bespoke build, not the subsequent replicated instances.
+sources:
+  - https://en.wikipedia.org/wiki/StoryCorps
+  - https://www.npr.org/
+  - https://storycorps.org/

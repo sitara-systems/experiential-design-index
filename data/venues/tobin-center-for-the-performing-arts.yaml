@@ -1,0 +1,10 @@
+id: tobin-center-for-the-performing-arts
+name: Tobin Center for the Performing Arts
+venue_type: cultural-center
+location:
+  city: San Antonio
+  state: TX
+description: >
+  A renovation of the 1926 Municipal Auditorium.
+sources:
+  - https://en.wikipedia.org/wiki/Tobin_Center_for_the_Performing_Arts

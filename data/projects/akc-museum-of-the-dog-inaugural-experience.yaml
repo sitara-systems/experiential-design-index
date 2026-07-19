@@ -8,6 +8,9 @@ credits:
     role: exhibit-design
   - firm: gensler
     role: interpretive-planning
+  - firm: lord-cultural-resources
+    role: master-planning
+    note: "Museum strategy, per SEGD's own project page"
 technologies:
   - touchscreen kiosks
   - rotating art display walls
