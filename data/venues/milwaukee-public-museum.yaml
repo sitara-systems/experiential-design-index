@@ -5,6 +5,10 @@ location:
   city: Milwaukee
   state: WI
 website: https://www.mpm.edu
+annual_attendance:
+  figure: 501887
+  year: 2024
+  source: https://en.wikipedia.org/wiki/Milwaukee_Public_Museum
 sources:
   - https://www.mpm.edu
   - https://www.thincdesign.com/project/nature-culture-museum-of-wisconsin

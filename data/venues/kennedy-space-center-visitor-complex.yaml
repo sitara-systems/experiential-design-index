@@ -6,6 +6,11 @@ location:
   state: FL
 operator: Delaware North Parks & Resorts / NASA
 website: https://www.kennedyspacecenter.com
+annual_attendance:
+  figure: 1700000
+  year: 2016
+  source: https://en.wikipedia.org/wiki/Kennedy_Space_Center_Visitor_Complex
 sources:
   - https://www.kennedyspacecenter.com/explore-attractions/space-shuttle-atlantis/
   - https://pgavdestinations.com/project/space-shuttle-atlantis-kennedy-space-center/
+  - https://en.wikipedia.org/wiki/Kennedy_Space_Center_Visitor_Complex

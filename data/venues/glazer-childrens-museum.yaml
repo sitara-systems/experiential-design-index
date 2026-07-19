@@ -5,5 +5,9 @@ location:
   city: Tampa
   state: FL
 website: https://glazermuseum.org
+annual_attendance:
+  figure: 248000
+  year: 2023
+  source: https://thatssotampa.com/glazer-childrens-museum-big-year/
 sources:
   - https://www.theurbanconga.com/projects/dream-it-be-it

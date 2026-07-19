@@ -6,5 +6,9 @@ location:
   state: MN
 operator: Minnesota State Agricultural Society
 website: https://www.mnstatefair.org
+annual_attendance:
+  figure: 1940869
+  year: 2025
+  source: https://www.mnstatefair.org/about/attendance
 sources:
   - https://www.mnstatefair.org

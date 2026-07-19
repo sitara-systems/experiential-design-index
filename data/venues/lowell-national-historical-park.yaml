@@ -9,5 +9,9 @@ location:
   state: MA
 operator: National Park Service
 website: https://www.nps.gov/lowe/
+annual_attendance:
+  figure: 520452
+  year: 2011
+  source: https://en.wikipedia.org/wiki/Lowell_National_Historical_Park
 sources:
   - https://www.nps.gov/lowe/

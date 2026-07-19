@@ -6,5 +6,9 @@ location:
   state: BC
   country: CA
 operator: City of Burnaby
+annual_attendance:
+  figure: 227600
+  year: 2024
+  source: https://www.burnabyvillagemuseum.ca/assets/Annual~Reports/2024-Annual-Report.pdf
 sources:
   - https://www.eoslightmedia.com/work/329

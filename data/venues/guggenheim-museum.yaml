@@ -5,5 +5,9 @@ location:
   city: New York
   state: NY
 website: https://www.guggenheim.org
+annual_attendance:
+  figure: 861000
+  year: 2023
+  source: https://www.theartnewspaper.com/2024/03/26/us-museums-blame-falling-visitor-numbers-for-staff-redundancies
 sources:
   - https://studiojoseph.com/work/wright-from-within-outward

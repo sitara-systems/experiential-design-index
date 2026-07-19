@@ -8,3 +8,8 @@ operator: Kansas City Aviation Department
 website: https://www.flykci.com
 sources:
   - https://dimin.com/work/kansas-city-international-airport
+  - https://kcairports.com/newsroom/news-releases/mci-airport-traffic-dec-2024
+annual_attendance:
+  figure: 12126500
+  year: 2024
+  source: https://kcairports.com/newsroom/news-releases/mci-airport-traffic-dec-2024

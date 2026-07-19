@@ -6,5 +6,9 @@ location:
   state: NY
 operator: National Archives and Records Administration
 website: https://www.fdrlibrary.org
+annual_attendance:
+  figure: 105426
+  year: 2023
+  source: https://www.archives.gov/presidential-libraries/about/frequently-asked-questions
 sources:
   - https://www.fdrlibrary.org/

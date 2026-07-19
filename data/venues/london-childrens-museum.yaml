@@ -6,6 +6,10 @@ location:
   state: "ON"
   country: CA
 website: https://www.londonchildrensmuseum.ca
+annual_attendance:
+  figure: 88000
+  year: 2021
+  source: https://www.1069thex.com/2021/10/12/london-childrens-museum-begins-moving-process-after-40-years-on-wharncliffe-rd-s/
 sources:
   - https://www.londonchildrensmuseum.ca/story/update-new-london-childrens-museum
   - https://en.wikipedia.org/wiki/London_Children%27s_Museum

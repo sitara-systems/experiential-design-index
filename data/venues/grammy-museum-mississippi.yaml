@@ -5,5 +5,9 @@ location:
   city: Cleveland
   state: MS
 website: https://www.grammymuseumms.org
+annual_attendance:
+  figure: 30000
+  year: 2025
+  source: https://www.todayinmississippi.com/story/grammy-museum-mississippi-turns-10/
 sources:
   - https://gallagherdesign.com/project/grammy-mississippi/

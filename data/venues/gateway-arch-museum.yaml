@@ -6,6 +6,10 @@ location:
   state: MO
 operator: Gateway Arch National Park (National Park Service)
 website: https://www.nps.gov/jeff
+annual_attendance:
+  figure: 2422836
+  year: 2023
+  source: https://www.nps.gov/jeff/learn/news/gateway-arch-national-park-sees-2-4-million-visitors-in-2023.htm
 sources:
   - https://www.nps.gov/jeff
   - https://bbinet.com/works/gateway-arch-national-park/

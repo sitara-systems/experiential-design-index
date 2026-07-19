@@ -5,5 +5,9 @@ location:
   city: Atlanta
   state: GA
 website: https://www.georgiaaquarium.org
+annual_attendance:
+  figure: 2900000
+  year: 2019
+  source: https://www.georgiaaquarium.org/wp-content/uploads/2020/05/2019-Annual-Report-Web.pdf
 sources:
   - https://www.livedesignonline.com/electrosonic-dives-into-at-t-dolphin-tales-live-entertainment-project-for-georgia-aquarium

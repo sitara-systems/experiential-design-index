@@ -5,6 +5,11 @@ location:
   city: Baltimore
   state: MD
 website: https://www.lewismuseum.org
+annual_attendance:
+  figure: 29648
+  year: 2025
+  source: https://foxbaltimore.com/news/local/struggling-baltimore-museum-costs-taxpayers-reginald-lewis-maryland-african-american-history
 sources:
   - https://www.lewismuseum.org
   - https://foxbaltimore.com/fox45-mornings/hometown-hotspot/hometown-hotspot-new-mural-kid-zone-at-reginald-f-lewis-museum
+  - https://foxbaltimore.com/news/local/struggling-baltimore-museum-costs-taxpayers-reginald-lewis-maryland-african-american-history

@@ -6,6 +6,10 @@ location:
   state: WI
 operator: Green Bay Packers (Lambeau Field)
 website: https://www.packers.com/lambeau-field/hall-of-fame
+annual_attendance:
+  figure: 136000
+  year: 2025
+  source: https://www.packershofandtours.com/explore/hall-of-fame/membership/hall-of-fame-news
 sources:
   - https://www.packers.com/lambeau-field/hall-of-fame
   - https://bbinet.com/works/green-bay-packers-hall-of-fame/

@@ -6,5 +6,9 @@ location:
   state: NY
 operator: Empire State Realty Trust
 website: https://www.esbnyc.com
+annual_attendance:
+  figure: 2600000
+  year: 2024
+  source: https://www.sec.gov/Archives/edgar/data/1541401/000154140125000003/esrt-20241231.htm
 sources:
   - https://www.esbnyc.com/press/empire-state-building-observatory-redevelopment-completed

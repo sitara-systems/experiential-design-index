@@ -5,5 +5,9 @@ location:
   city: Kennett Square
   state: PA
 website: https://longwoodgardens.org
+annual_attendance:
+  figure: 1600000
+  year: 2022
+  source: https://vista.today/2022/10/longwood-gardens-attendance-record/
 sources:
   - https://longwoodgardens.org

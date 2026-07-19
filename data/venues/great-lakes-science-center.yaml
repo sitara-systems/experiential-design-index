@@ -5,5 +5,9 @@ location:
   city: Cleveland
   state: OH
 website: https://www.greatscience.com
+annual_attendance:
+  figure: 302166
+  year: 2024
+  source: https://greatscience.com/
 sources:
   - https://www.greatscience.com

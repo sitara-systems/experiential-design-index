@@ -6,6 +6,10 @@ location:
   state: "ON"
   country: CA
 website: https://greatlakesmuseum.ca
+annual_attendance:
+  figure: 27000
+  year: 2024
+  source: https://www.cfrc.ca/news-events/news/2025/september/great-lakes-museum-named-ontario-s-top-small-museum-in-milestone-year
 sources:
   - https://greatlakesmuseum.ca
   - https://www.visitkingston.ca/stories/s-s-keewatin-visit-the-last-remaining-edwardian-era-passenger-liner-at-kingstons-great-lakes-museum/

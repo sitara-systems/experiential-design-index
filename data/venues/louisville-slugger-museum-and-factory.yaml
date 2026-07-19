@@ -6,5 +6,9 @@ location:
   state: KY
 operator: Hillerich & Bradsby Company
 website: https://www.sluggermuseum.com
+annual_attendance:
+  figure: 326595
+  year: 2017
+  source: https://en.wikipedia.org/wiki/Louisville_Slugger_Museum_%26_Factory
 sources:
   - https://en.wikipedia.org/wiki/Louisville_Slugger_Museum_%26_Factory

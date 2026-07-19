@@ -5,5 +5,9 @@ location:
   city: Louisville
   state: KY
 website: https://louisvillezoo.org
+annual_attendance:
+  figure: 945225
+  year: 2026
+  source: https://louisvillezoo.org/mayor-greenberg-and-the-louisville-zoo-celebrate-highest-attendance-in-57-year-history-media-release
 sources:
   - https://louisvillezoo.org/gorilla-forest/

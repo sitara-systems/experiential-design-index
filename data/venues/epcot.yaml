@@ -6,5 +6,9 @@ location:
   state: FL
 operator: Walt Disney World Resort
 website: https://disneyworld.disney.go.com/destinations/epcot/
+annual_attendance:
+  figure: 12130000
+  year: 2024
+  source: https://www.yahoo.com/news/articles/report-magic-kingdom-had-world-152300255.html
 sources:
   - https://disneyworld.disney.go.com/destinations/epcot/

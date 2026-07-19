@@ -7,5 +7,10 @@ location:
   country: CA
 operator: Tourisme Kamouraska
 website: https://www.tourismekamouraska.com/en/attractions/maison-du-kamouraska/
+annual_attendance:
+  figure: 38663
+  year: 2023
+  source: https://leplacoteux.com/un-ete-touristique-occupe-dans-kamouraska-lislet/
 sources:
   - https://www.tourismekamouraska.com/en/attractions/maison-du-kamouraska/
+  - https://leplacoteux.com/un-ete-touristique-occupe-dans-kamouraska-lislet/

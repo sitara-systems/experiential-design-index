@@ -5,5 +5,9 @@ location:
   city: St. Louis
   state: MO
 website: https://www.missouribotanicalgarden.org
+annual_attendance:
+  figure: 1100000
+  year: 2024
+  source: https://www.stlmosaicproject.org/post/st-louis-character-missouri-botanical-garden-s-new-leader-came-to-st-louis-for-the-plants
 sources:
   - https://www.missouribotanicalgarden.org/plan-your-visit/top-attractions/jack-c-taylor-visitor-center

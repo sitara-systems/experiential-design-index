@@ -6,6 +6,10 @@ location:
   state: PA
 operator: Gettysburg Foundation / National Park Service
 website: https://www.gettysburgfoundation.org
+annual_attendance:
+  figure: 742000
+  year: 2023
+  source: https://www.nps.gov/gett/learn/news/2023-economic-impact.htm
 sources:
   - https://en.wikipedia.org/wiki/Gettysburg_Museum_and_Visitor_Center
   - https://www.gallagherdesign.com/projects/gettysburg-national-military-park-and-visitor-center/

@@ -5,6 +5,11 @@ location:
   city: Louisville
   state: KY
 website: https://derbymuseum.org
+annual_attendance:
+  figure: 258382
+  year: 2024
+  source: https://www.thoroughbreddailynews.com/kentucky-derby-museum-earns-high-ranking-on-usa-today-list/
 sources:
   - https://en.wikipedia.org/wiki/Kentucky_Derby_Museum
   - https://www.derbymuseum.org/Media-And-Press/Article/265/Derby-Museum-renovation-gets-a-big-assist
+  - https://www.thoroughbreddailynews.com/kentucky-derby-museum-earns-high-ranking-on-usa-today-list/

@@ -5,6 +5,10 @@ location:
   city: Mobile
   state: AL
 website: https://nmmog.org
+annual_attendance:
+  figure: 23679
+  year: 2025
+  source: https://www.fox10tv.com/2025/12/24/mobiles-maritime-museum-once-projected-draw-300000-visitors-never-came-close/
 sources:
   - https://en.wikipedia.org/wiki/National_Maritime_Museum_of_the_Gulf_of_Mexico
   - https://nmmog.org

@@ -5,5 +5,9 @@ location:
   city: Chicago
   state: IL
 website: https://www.fieldmuseum.org
+annual_attendance:
+  figure: 1362000
+  year: 2024
+  source: https://www.tripinfo.com/tips/top-20-north-american-museums-by-attendance
 sources:
   - https://www.fieldmuseum.org

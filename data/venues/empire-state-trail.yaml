@@ -6,6 +6,10 @@ location:
   state: NY
 operator: New York State Parks, Recreation and Historic Preservation
 website: https://empiretrail.ny.gov
+annual_attendance:
+  figure: 9750000
+  year: 2026
+  source: https://www.ptny.org/new-study-finds-empire-state-trail-drives-1-87-billion/
 sources:
   - https://www.cgpartnersllc.com/projects/wayfinding-system-empire-state-trail/
   - https://en.wikipedia.org/wiki/Empire_State_Trail

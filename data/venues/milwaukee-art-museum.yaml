@@ -5,5 +5,9 @@ location:
   city: Milwaukee
   state: WI
 website: https://mam.org
+annual_attendance:
+  figure: 225780
+  year: 2024
+  source: https://en.wikipedia.org/wiki/Milwaukee_Art_Museum
 sources:
   - https://mam.org
