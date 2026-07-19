@@ -65,12 +65,20 @@ this doc and any batch-specific instructions:
 6. **North America-based firms (US or Canada)** get firm records; firms
    headquartered elsewhere appear unlinked in credits until coverage
    expands further (revised 2026-07-18 — previously US-only; see
-   `editorial-policy.md`). **Venue scope follows the same line**: US and
-   Canadian venues/projects are both in scope, other countries are not
-   yet. `scripts/validate.py`'s `check_place()` already supports non-US
-   places generically (`country` field, `state` optional off-US) — no
-   code change needed for Canadian records, just use `country: CA` and a
-   province instead of `state`.
+   `editorial-policy.md`). **Venue/project scope is now global, separate
+   from firm scope** (revised 2026-07-19): a North America-based firm's
+   international project is in scope and gets a full project + venue
+   record; only the *firm*-record eligibility test is North
+   America-only. A non-North-America venue is no longer, by itself, a
+   reason to exclude a project — check whether ANY credited firm is
+   plausibly North America-based (or just record it if the sourcing is
+   solid; the venue's country doesn't gate the project). `scripts/validate.py`'s
+   `check_place()` already supports non-US/non-NA places generically
+   (`country` field, `state`/`province` optional off-US) — no code
+   change needed, just use the right `country` code. **This reopens
+   previously-excluded international projects for North America-based
+   firms** — the corpus has not been systematically re-swept for these
+   yet (see the monthly-checklist track below for where this fits).
 7. **IDs are lowercase kebab-case, stable, and must match the filename.**
    Before creating a firm or venue record, check whether one already exists
    under a plausible id — the single most common failure mode in every

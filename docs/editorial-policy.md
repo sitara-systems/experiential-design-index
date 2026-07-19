@@ -65,9 +65,26 @@ test — it exists to exclude firms that don't meaningfully participate in
 the North American experiential-design industry, not to exclude
 Canadian firms, which count fully alongside US ones. Firms headquartered
 elsewhere and credited on North American projects appear in credits and
-receive records as coverage expands. **Venue scope follows the same
-line**: US and Canadian venues/projects are both in scope; other
-countries are not yet.
+receive records as coverage expands.
+
+**Venue/project scope is global — firm scope is not.** A North
+America-headquartered firm's international work is in scope and gets a
+project record regardless of where the venue is; the firm-eligibility
+test above governs only whether a firm *itself* gets a record, not where
+its projects are located. A project outside North America is recorded
+the same as any other, with the same sourcing bar, and credits any
+firm on it exactly as usual — a non-North-America collaborator firm on
+that project still doesn't get its own firm record (per the rule
+above), but appears unlinked in the credits like any other
+not-yet-recorded firm. (Revised 2026-07-19 — previously venue scope
+mirrored firm scope, i.e. non-North-America venues were excluded
+entirely; that was overly restrictive once North America-based firms'
+international work started coming up for review. Retroactively
+reopens previously-excluded international projects for North
+America-based firms; the corpus has not yet been re-swept for these,
+since the original exclusion applied inconsistently depending on
+whether a given batch happened to hit an international project — see
+`phase2-research-log.md` for what's been resolved so far.)
 
 **Venue scope:** the index covers designed experiences in public cultural
 destinations (museums, science centers, attractions) and in institutional
