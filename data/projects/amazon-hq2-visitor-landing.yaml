@@ -15,6 +15,12 @@ credits:
     role: fabrication
   - firm: bbi-engineering
     role: av-integration
+  - firm: strangelife
+    role: content-production
+    note: "Film production/direction/editing; no firm record yet"
+  - firm: studio-pacifica
+    role: accessibility-consulting
+    note: "No firm record yet"
 technologies:
   - interactive screens
   - data visualization

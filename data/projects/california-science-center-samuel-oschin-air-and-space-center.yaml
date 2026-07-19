@@ -16,6 +16,12 @@ credits:
   - firm: electrosonic
     role: av-integration
     note: "Sourced only from Evidence Design's own page, not independently corroborated"
+  - firm: roto
+    role: fabrication
+    note: "~36,500 sq ft of the Aviation and Space galleries"
+  - firm: bluecadet
+    role: media-design
+    note: "Scoped to the 747 Experience / Korean Air Aviation Gallery specifically, not the full center"
 technologies: []
 summary: >
   A 200,000 sq ft addition to the California Science Center in Los

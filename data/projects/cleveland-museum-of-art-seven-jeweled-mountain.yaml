@@ -1,0 +1,26 @@
+id: cleveland-museum-of-art-seven-jeweled-mountain
+name: "Into the Seven Jeweled Mountain: An Immersive Experience"
+venue: cleveland-museum-of-art
+project_type: temporary-exhibition
+year_completed: 2024
+credits:
+  - firm: zenith-systems
+    role: av-integration
+  - firm: technology-research-institute-for-culture-and-heritage
+    role: content-production
+    note: "South Korean institute (TRIC); likely non-US, no firm record created pending North America scope confirmation"
+technologies:
+  - immersive-environment
+  - projection mapping
+summary: >
+  "Into the Seven Jeweled Mountain: An Immersive Experience," a
+  large-scale 3-wall projection installation in the Arlene M. and
+  Arthur S. Holden Gallery at the Cleveland Museum of Art, on view
+  March 15–September 29, 2024; AV integration by Zenith Systems,
+  content by South Korea's Technology Research Institute for Culture
+  & Heritage, per the museum's own site and independent press.
+description: ""
+sources:
+  - https://www.clevelandart.org/exhibitions/seven-jeweled-mountain-immersive-experience
+  - https://www.clevelandart.org/digital-innovations/digital-innovation-collaborators
+  - https://www.axios.com/local/cleveland/2024/03/28/seven-jeweled-mountain-cleveland-art-museum

@@ -12,16 +12,19 @@ other_offices: []
 roles:
   - exhibit-design
   - interpretive-planning
-status: inactive
+status: unclear
 status_basis: >
-  Firm's own portfolio (hosted on Cargo Collective, a platform typically
-  used once a primary business site lapses) shows no projects dated later
-  than 2012-2013; no evidence of public activity found in the trailing 5+
-  years as of this check (credited projects in this dataset: Children's
-  Discovery Museum of Normal AgMazing, 2006; North Bridge Visitor Center,
-  2012; Slusser Aviation Learning Center, 2011; Salem Maritime National
-  Historic Site, 2011).
-status_verified: 2026-07-18
+  Firm's own primary site (wondercabinet.com) is dead, and its Cargo
+  Collective fallback portfolio shows no projects dated later than
+  2012-2013. However, two of this dataset's own existing credits —
+  independently sourced via Proun Design's own site, not Wondercabinet's
+  — show continued work through 2021 (Cape Lookout National Seashore
+  Beaufort Visitor Center, opened April 2021 per NPS; Tellus Science
+  Museum's "My Big Backyard," 2021), directly contradicting a prior,
+  narrower basis that only weighed 4 of the firm's 8 corpus credits. No
+  activity signal of any kind found for 2022-2026 despite that. Portfolio
+  screen re-verified 2026-07-19.
+status_verified: 2026-07-19
 summary: >
   Wondercabinet Interpretive Design, Inc. was a Lexington, Massachusetts
   exhibit planning and design firm working on children's museums, history

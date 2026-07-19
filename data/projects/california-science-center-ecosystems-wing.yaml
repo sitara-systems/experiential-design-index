@@ -1,0 +1,24 @@
+id: california-science-center-ecosystems-wing
+name: "Ecosystems"
+venue: california-science-center
+project_type: major-renovation
+year_completed: 2010
+credits:
+  - firm: zgf-architects
+    role: architecture
+    note: "Joint venture with EHDD Architecture, per EHDD's own independent project page"
+  - firm: ehdd-architecture
+    role: architecture
+    note: "Joint venture with ZGF Architects; no firm record yet"
+technologies:
+  - immersive-environment
+summary: >
+  "Ecosystems," a 140,000 sq ft wing addition to the California
+  Science Center, Los Angeles, opened March 25, 2010, with 11
+  immersive environments including a 188,000-gallon kelp forest tank
+  and a polar ice wall; architecture by a ZGF Architects/EHDD
+  Architecture joint venture, per EHDD's own independent project page.
+description: ""
+sources:
+  - https://ehdd.com/project/ecosystems-wing/
+  - https://en.wikipedia.org/wiki/California_Science_Center

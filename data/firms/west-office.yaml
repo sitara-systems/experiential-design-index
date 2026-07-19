@@ -15,13 +15,13 @@ roles:
 status: active
 status_basis: >
   Portfolio site (woed.com) lists an active, current studio with a maintained
-  projects page and staff; most recently sourced completed project is Gold
-  Mountain: Chinese Californian Stories at The California Museum, Sacramento
-  (opened January 2020), with the SMUD Museum of Science and Curiosity
-  (Nature Detectives, Water Challenge galleries) opened 2021/2022. No
-  evidence of closure; studio has operated continuously since 1985 per its
-  own history page.
-status_verified: 2026-07-18
+  projects page and staff; woed.com's current "Featured Projects" carousel
+  leads with Space Race at the Cosmosphere (completed September 2025,
+  already in this dataset), postdating the prior anchor projects (Gold
+  Mountain, The California Museum, opened January 2020; SMUD Museum of
+  Science and Curiosity, 2021/2022). No evidence of closure; studio has
+  operated continuously since 1985 per its own history page.
+status_verified: 2026-07-19
 summary: >
   West Office (West Office Exhibition Design) is an Oakland, California-based
   exhibit design and museum planning studio founded in 1985, working across

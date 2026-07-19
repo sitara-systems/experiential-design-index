@@ -1,0 +1,25 @@
+id: cleveland-museum-of-art-pintoricchio-magnified
+name: "Pintoricchio Magnified: An Immersive Conservation Experience"
+venue: cleveland-museum-of-art
+project_type: temporary-exhibition
+year_completed: 2025
+credits:
+  - firm: zenith-systems
+    role: av-integration
+  - firm: scalar-studio
+    role: media-design
+    note: "No firm record yet"
+technologies:
+  - immersive-environment
+summary: >
+  "Pintoricchio Magnified: An Immersive Conservation Experience," a
+  visitor-proximity-tracked 10x10 ft dvLED wall installation at the
+  Cleveland Museum of Art, opened August 10, 2025, running through
+  August 23, 2026; AV integration by Zenith Systems, media design by
+  Scalar Studio, per independent AV trade press and the museum's own
+  site.
+description: ""
+sources:
+  - https://www.clevelandart.org/articles/pintoricchio-magnified
+  - https://www.digitalsignagetoday.com/resources/transforming-the-conservation-experience-at-the-cleveland-museum-of-art/
+  - https://www.avnetwork.com/installations/up-close-and-immersive

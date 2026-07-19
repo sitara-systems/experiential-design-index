@@ -5,6 +5,9 @@ project_type: new-building
 year_completed: 1996
 status: completed
 credits:
+  - firm: moore-andersson-architects
+    role: architecture
+    note: "Charles Moore and Arthur Andersson; no firm record yet"
   - firm: west-office
     role: exhibit-design
 technologies:

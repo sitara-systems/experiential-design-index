@@ -13,6 +13,9 @@ credits:
   - firm: dome-collective
     role: media-design
     note: "Beacon design (credited as \"Dome Collaborative\" in some CMA materials; same studio, see data/firms/dome-collective.yaml aka)"
+  - firm: zenith-systems
+    role: av-integration
+    note: "Per CMA's own collaborators page (2017 exhibition launch)"
 technologies:
   - motion tracking
   - facial and gaze tracking

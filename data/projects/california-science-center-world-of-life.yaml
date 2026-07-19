@@ -5,6 +5,9 @@ project_type: new-exhibition
 year_completed: 1998
 status: completed
 credits:
+  - firm: zgf-architects
+    role: architecture
+    note: "Building architecture (per Wikipedia, citing the firm's former name, Zimmer Gunsul Frasca Partnership); distinct from West Office's exhibit-design role"
   - firm: west-office
     role: exhibit-design
 technologies:

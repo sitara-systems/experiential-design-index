@@ -6,6 +6,9 @@ year_completed: 2007
 credits:
   - firm: west-office
     role: exhibit-design
+  - firm: tate-snyder-kimsey-architects
+    role: architecture
+    note: "Architect of the Origen Museum building specifically, per LGA Architecture's own project page; no firm record yet"
   - firm: bbi-engineering
     role: av-integration
     note: >

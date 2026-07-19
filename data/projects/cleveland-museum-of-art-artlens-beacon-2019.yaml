@@ -7,6 +7,9 @@ credits:
   - firm: dome-collective
     role: media-design
     note: "Beacon component update as part of the June 2019 ARTLENS Exhibition reinstallation, adding visitor-generated content"
+  - firm: zenith-systems
+    role: av-integration
+    note: "Per CMA's own collaborators page; CMA's source describes the broader June 2019 gallery-wide reinstallation, not solely the Beacon — this record's scope may be narrower than the credit's actual scope"
 technologies:
   - digital signage
   - visitor-generated content display
