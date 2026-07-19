@@ -1,0 +1,18 @@
+id: vancouver-international-airport-gate-c-led-wall
+name: "Gate C LED Installation"
+venue: vancouver-international-airport
+project_type: installation
+year_completed: 2018
+credits:
+  - firm: float4
+    role: media-design
+technologies:
+  - interactive-installation
+summary: >
+  An interactive LED wall installation at Gate C, Vancouver
+  International Airport (YVR), installed March 2018; media design by
+  FLOAT4, per display vendor NanoLumens' own independent press
+  release.
+description: ""
+sources:
+  - https://www.nanolumens.com/press-releases/nanolumens-and-float4-make-waiting-in-line-fun-with-interactive-installation-at-vancouver-international-airport/

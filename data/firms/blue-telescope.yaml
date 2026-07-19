@@ -1,0 +1,26 @@
+id: blue-telescope
+name: Blue Telescope
+aka: []
+hq:
+  city: New York
+  state: NY
+other_offices:
+  - city: Orlando
+    state: FL
+roles:
+  - exhibit-design
+  - media-design
+status: active
+status_basis: >
+  Delivered "Gateway: The Deep Space Launch Complex" at Kennedy Space
+  Center Visitor Complex (opened June 2022) and AR/VR interactives for
+  the Sloan Museum of Discovery's History Gallery (2022); active
+  current portfolio at bluetelescope.com.
+status_verified: 2026-07-19
+summary: >
+  Blue Telescope is a New York-based interactive exhibit and media
+  design studio (20+ years) working across museums, themed attractions,
+  and corporate briefing centers.
+sources:
+  - https://www.bluetelescope.com
+  - https://blooloop.com/museum/news/blue-telescope-kennedy-space-center/

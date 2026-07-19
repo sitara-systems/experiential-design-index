@@ -1,0 +1,9 @@
+id: teradata-executive-briefing-center
+name: Teradata Executive Briefing Center
+venue_type: briefing-center
+location:
+  city: San Diego
+  state: CA
+operator: Teradata
+sources:
+  - https://www.hyperquake.com

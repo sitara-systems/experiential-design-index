@@ -1,0 +1,9 @@
+id: hp-palo-alto-customer-welcome-center
+name: HP Palo Alto Customer Welcome Center
+venue_type: briefing-center
+location:
+  city: Palo Alto
+  state: CA
+operator: HP Inc.
+sources:
+  - https://www.hp.com/us-en/hp-information/cwc.html

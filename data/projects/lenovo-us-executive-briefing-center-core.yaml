@@ -1,0 +1,24 @@
+id: lenovo-us-executive-briefing-center-core
+name: Lenovo U.S. Executive Briefing Center
+venue: lenovo-us-executive-briefing-center
+project_type: new-exhibition
+year_completed: 2026
+credits:
+  - firm: event-strategy-group
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: fivestone-studios
+    role: media-design
+    note: "LED-wall CMS, animation library, AI-powered photobooths"
+technologies:
+  - artificial-intelligence
+  - interactive-installation
+summary: >
+  Lenovo's U.S. Executive Briefing Center, Raleigh, NC, reopened June
+  2026; experiential design by Event Strategy Group, immersive media
+  content by Fivestone Studios, per independent trade press (Grit
+  Daily News, invidis).
+description: ""
+sources:
+  - https://gritdaily.com/esg-fivestone-studios-lenovo-us-executive-briefing-center/
+  - https://invidis.com

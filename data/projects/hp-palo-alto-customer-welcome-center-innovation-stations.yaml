@@ -1,0 +1,22 @@
+id: hp-palo-alto-customer-welcome-center-innovation-stations
+name: "Innovation Stations"
+venue: hp-palo-alto-customer-welcome-center
+project_type: new-exhibition
+year_completed: 2023
+credits:
+  - firm: blue-telescope
+    role: media-design
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Per Kubik's own independent project page"
+technologies:
+  - interactive-installation
+summary: >
+  "Innovation Stations," interactive digital tabletops at HP's
+  reopened historic Palo Alto Customer Welcome Center, reopened 2023;
+  media design by Blue Telescope, fabrication by kubik maltbie, per
+  kubik maltbie's own independent project page and HP's own site.
+description: ""
+sources:
+  - https://thinkubik.com/project/hp-palo-alto-cwc/
+  - https://www.hp.com/us-en/hp-information/cwc.html

@@ -1,0 +1,9 @@
+id: lenovo-us-executive-briefing-center
+name: Lenovo U.S. Executive Briefing Center
+venue_type: briefing-center
+location:
+  city: Raleigh
+  state: NC
+operator: Lenovo
+sources:
+  - https://gritdaily.com/esg-fivestone-studios-lenovo-us-executive-briefing-center/

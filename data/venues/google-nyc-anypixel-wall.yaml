@@ -1,0 +1,9 @@
+id: google-nyc-anypixel-wall
+name: "Google NYC — AnyPixel Wall"
+venue_type: corporate-museum
+location:
+  city: New York
+  state: NY
+operator: Google
+sources:
+  - https://segd.org/projects/anypixeljs/

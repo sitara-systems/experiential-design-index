@@ -1,0 +1,19 @@
+id: google-nyc-anypixel-wall-core
+name: "AnyPixel Wall"
+venue: google-nyc-anypixel-wall
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: deeplocal
+    role: media-design
+    note: "5,880-arcade-button interactive wall; no firm record yet — firm's other candidate credits (LinkedIn London Experience Center, out of scope; Google Cloud Space Silicon Valley, no sourceable completion year) didn't clear the bar"
+technologies:
+  - interactive-installation
+summary: >
+  "AnyPixel," a 5,880-arcade-button interactive wall at Google's NYC
+  office (111 8th Ave), installed 2016; design by Deeplocal, per
+  Communication Arts and SEGD's independent coverage.
+description: ""
+sources:
+  - https://www.commarts.com/project/29216/anypixel
+  - https://segd.org/projects/anypixeljs/

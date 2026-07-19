@@ -1,0 +1,18 @@
+id: desjardins-space-core
+name: Desjardins Space
+venue: desjardins-space
+project_type: new-exhibition
+year_completed: 2014
+credits:
+  - firm: float4
+    role: media-design
+    note: "Interactive wall and multi-touch history wall; refreshed 2020"
+technologies:
+  - interactive-installation
+summary: >
+  Desjardins Space, a brand experience centre in Montreal, QC, opened
+  2014 (refreshed 2020); interactive wall and multi-touch history wall
+  by FLOAT4, per independent trade press (DailyDOOH).
+description: ""
+sources:
+  - https://www.dailydooh.com/archives/102851

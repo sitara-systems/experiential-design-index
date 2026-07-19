@@ -1,0 +1,10 @@
+id: desjardins-space
+name: Desjardins Space
+venue_type: brand-experience-center
+location:
+  city: Montreal
+  state: QC
+  country: CA
+operator: Desjardins Group
+sources:
+  - https://float4.com/en/projects/desjardins/

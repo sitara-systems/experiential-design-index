@@ -1,0 +1,23 @@
+id: float4
+name: FLOAT4
+aka: []
+hq:
+  city: Montreal
+  state: QC
+country: CA
+roles:
+  - media-design
+  - interpretive-planning
+status: active
+status_basis: >
+  Delivered interactive media for the Statue of Liberty Museum (2019)
+  and the Desjardins Space brand experience centre (Montreal, refreshed
+  2020); active current portfolio at float4.com.
+status_verified: 2026-07-19
+summary: >
+  FLOAT4 is a Montreal, Quebec-based multidisciplinary digital/
+  interactive studio (founded 2008), using its proprietary RealMotion
+  platform for museum, airport, and brand-experience installations.
+sources:
+  - https://float4.com
+  - https://float4.com/en/projects/the-statue-of-liberty-museum/
