@@ -10,6 +10,19 @@ credits:
   - firm: tait
     role: media-design
     note: "Interactive touchscreens and media-based storytelling elements"
+  - firm: cortina-productions
+    role: media-design
+    note: >
+      Cortina Productions' own page credits itself with media-design on
+      this exhibition, separately from TAIT/Thinkwell's design credit
+      (which also claims media-design) — possible mis-attribution or
+      shared scope between the two vendors, not resolved. Both credits
+      kept.
+  - firm: kubik-maltbie
+    role: fabrication
+  - firm: solotech-inc
+    role: av-integration
+    note: "No firm record yet"
 technologies:
   - interactive touchscreen
 summary: >

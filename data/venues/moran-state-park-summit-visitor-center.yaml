@@ -1,0 +1,9 @@
+id: moran-state-park-summit-visitor-center
+name: Moran State Park Summit Visitor Center
+venue_type: visitor-center
+location:
+  city: Eastsound
+  state: WA
+operator: Washington State Parks
+sources:
+  - https://parks.wa.gov

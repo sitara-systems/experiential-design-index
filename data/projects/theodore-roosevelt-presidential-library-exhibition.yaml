@@ -20,6 +20,24 @@ credits:
     note: "Fabricated over 40 artifact cases across the library, including the Narrative Gallery and the Roosevelt Museum of Natural History Room"
   - firm: electrosonic
     role: av-integration
+  - firm: cortina-productions
+    role: media-design
+  - firm: future-of-storytelling
+    role: content-production
+    note: "No firm record yet"
+  - firm: redglass-pictures
+    role: content-production
+    note: "No firm record yet"
+  - firm: rlmg
+    role: media-design
+  - firm: dimensional-innovations
+    role: fabrication
+    note: >
+      Cortina Productions' own page credits Dimensional Innovations as
+      fabricator; Split Rock Studios' own page separately claims
+      fabrication of over 40 artifact cases. Likely two fabricators on
+      different scopes — both credits kept, not resolved in favor of
+      either.
 technologies:
   - immersive galleries
 summary: >

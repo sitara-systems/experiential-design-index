@@ -1,0 +1,9 @@
+id: lemay-americas-car-museum
+name: "LeMay - America's Car Museum"
+venue_type: history-museum
+location:
+  city: Tacoma
+  state: WA
+website: https://www.lemaymuseum.org
+sources:
+  - https://www.lemaymuseum.org

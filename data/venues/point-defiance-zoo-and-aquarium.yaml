@@ -1,0 +1,9 @@
+id: point-defiance-zoo-and-aquarium
+name: Point Defiance Zoo & Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Tacoma
+  state: WA
+website: https://www.pdza.org
+sources:
+  - https://www.pdza.org

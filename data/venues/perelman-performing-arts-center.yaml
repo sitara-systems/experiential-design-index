@@ -1,0 +1,11 @@
+id: perelman-performing-arts-center
+name: Perelman Performing Arts Center (PAC NYC)
+venue_type: cultural-center
+location:
+  city: New York
+  state: NY
+operator: Perelman Performing Arts Center (PAC NYC) / World Trade Center Performing Arts Center Inc.
+website: https://pacnyc.org
+sources:
+  - https://en.wikipedia.org/wiki/Perelman_Performing_Arts_Center
+  - https://pacnyc.org/about/

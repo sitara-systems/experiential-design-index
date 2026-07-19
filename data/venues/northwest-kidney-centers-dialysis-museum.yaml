@@ -1,0 +1,9 @@
+id: northwest-kidney-centers-dialysis-museum
+name: Northwest Kidney Centers Dialysis Museum
+venue_type: history-museum
+location:
+  city: Burien
+  state: WA
+operator: Northwest Kidney Centers
+sources:
+  - https://www.nwkidney.org

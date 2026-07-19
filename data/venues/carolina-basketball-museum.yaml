@@ -1,0 +1,9 @@
+id: carolina-basketball-museum
+name: Carolina Basketball Museum
+venue_type: sports-venue
+location:
+  city: Chapel Hill
+  state: NC
+operator: University of North Carolina at Chapel Hill
+sources:
+  - https://goheels.com

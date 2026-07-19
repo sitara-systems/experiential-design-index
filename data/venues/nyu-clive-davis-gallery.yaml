@@ -1,0 +1,9 @@
+id: nyu-clive-davis-gallery
+name: Clive Davis Gallery (NYU Tisch)
+venue_type: other
+location:
+  city: Brooklyn
+  state: NY
+operator: NYU Tisch School of the Arts — Clive Davis Institute of Recorded Music
+sources:
+  - https://tisch.nyu.edu/clivedavisgallery

@@ -1,0 +1,9 @@
+id: cwu-health-sciences-building
+name: Central Washington University Health Sciences Building
+venue_type: academic-institution
+location:
+  city: Ellensburg
+  state: WA
+operator: Central Washington University
+sources:
+  - https://www.cwu.edu

@@ -1,0 +1,9 @@
+id: husky-stadium
+name: Husky Stadium
+venue_type: sports-venue
+location:
+  city: Seattle
+  state: WA
+operator: University of Washington
+sources:
+  - https://gohuskies.com

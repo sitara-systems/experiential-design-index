@@ -1,0 +1,9 @@
+id: ice-age-fossils-state-park
+name: Ice Age Fossils State Park
+venue_type: natural-history-museum
+location:
+  city: North Las Vegas
+  state: NV
+operator: Nevada Division of State Parks
+sources:
+  - https://parks.nv.gov

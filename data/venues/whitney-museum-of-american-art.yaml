@@ -1,0 +1,10 @@
+id: whitney-museum-of-american-art
+name: Whitney Museum of American Art
+venue_type: art-museum
+location:
+  city: New York
+  state: NY
+website: https://whitney.org
+sources:
+  - https://whitney.org/
+  - https://segd.org/projects/whitney-museum-american-art-wayfinding/

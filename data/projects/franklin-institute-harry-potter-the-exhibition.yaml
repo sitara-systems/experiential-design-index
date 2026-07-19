@@ -1,0 +1,27 @@
+id: franklin-institute-harry-potter-the-exhibition
+name: "Harry Potter: The Exhibition"
+venue: the-franklin-institute
+project_type: traveling-exhibition
+year_completed: 2022
+credits:
+  - firm: mad-systems
+    role: av-integration
+  - firm: imagine-exhibitions
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: id3-group
+    role: fabrication
+    note: "No firm record yet"
+  - firm: neopangea
+    role: media-design
+    note: "No firm record yet"
+technologies: []
+summary: >
+  "Harry Potter: The Exhibition," a touring exhibition of costumes,
+  artifacts, and sets from the Harry Potter and Fantastic Beasts films,
+  made its world premiere at The Franklin Institute in Philadelphia,
+  Pennsylvania on February 18, 2022.
+description: ""
+sources:
+  - https://www.madsystems.com
+  - https://www.fi.edu

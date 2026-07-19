@@ -10,6 +10,8 @@ credits:
     role: media-design
   - firm: electrosonic
     role: av-integration
+  - firm: explus
+    role: fabrication
 technologies:
   - projection mapping
   - transparent OLED monitors

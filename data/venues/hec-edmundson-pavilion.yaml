@@ -1,0 +1,9 @@
+id: hec-edmundson-pavilion
+name: Alaska Airlines Arena at Hec Edmundson Pavilion
+venue_type: sports-venue
+location:
+  city: Seattle
+  state: WA
+operator: University of Washington
+sources:
+  - https://gohuskies.com

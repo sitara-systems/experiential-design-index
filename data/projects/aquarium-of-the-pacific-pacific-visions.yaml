@@ -1,0 +1,33 @@
+id: aquarium-of-the-pacific-pacific-visions
+name: Pacific Visions
+venue: aquarium-of-the-pacific
+project_type: new-building
+year_completed: 2019
+credits:
+  - firm: ehdd
+    role: architecture
+  - firm: ehdd
+    role: exhibit-design
+  - firm: bowman-change
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: edwards-technologies
+    role: av-integration
+    note: "No firm record yet"
+  - firm: k2-design-and-fabrication
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - immersive theater
+  - interactive exhibits
+summary: >
+  Pacific Visions, a $53 million, 29,000-square-foot wing of the Aquarium
+  of the Pacific in Long Beach, California, opened May 24, 2019, with
+  architecture and exhibit design by EHDD.
+description: >
+  The wing includes an immersive theater experience exploring
+  human-driven environmental change and a series of interactive gallery
+  exhibits on climate, food, and energy choices.
+sources:
+  - https://www.ehdd.com/work/aquarium-of-the-pacific-pacific-visions/
+  - https://www.aquariumofpacific.org/pacificvisions

@@ -1,0 +1,8 @@
+id: hamilton-the-exhibition-pavilion-chicago
+name: "Hamilton: The Exhibition Pavilion (Chicago)"
+venue_type: themed-attraction
+location:
+  city: Chicago
+  state: IL
+sources:
+  - https://hamiltonexhibition.com

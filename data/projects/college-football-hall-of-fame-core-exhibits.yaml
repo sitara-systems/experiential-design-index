@@ -23,6 +23,16 @@ credits:
     note: >
       AV systems design and installation, incl. the interactive "College
       Gameday" virtual-commentator exhibit
+  - firm: pacific-studio
+    role: fabrication
+  - firm: available-light
+    role: lighting-design
+  - firm: creo-industrial-arts
+    role: fabrication
+recognition:
+  - award: "AAM MUSE Award — Bronze"
+    year: 2015
+    source: https://www.cortinaproductions.com/projects/college-football-hall-of-fame/
 technologies:
   - motion capture
   - LED animation

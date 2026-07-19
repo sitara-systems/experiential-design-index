@@ -25,6 +25,9 @@ credits:
   - firm: building-four-fabrication
     role: fabrication
     note: "Cyclorama diorama fabrication"
+  - firm: dca-architects
+    role: exhibit-design
+    note: "Cyclorama diorama design; no firm record yet"
 technologies:
   - projection mapping
   - diorama

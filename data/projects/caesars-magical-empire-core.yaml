@@ -1,0 +1,19 @@
+id: caesars-magical-empire-core
+name: Caesars Magical Empire
+venue: caesars-magical-empire
+project_type: new-building
+year_completed: 1996
+credits:
+  - firm: creo-industrial-arts
+    role: fabrication
+  - firm: landmark-entertainment
+    role: exhibit-design
+    note: "No firm record yet"
+technologies: []
+summary: >
+  Caesars Magical Empire, a themed dining-and-magic attraction adjacent
+  to Caesars Palace in Las Vegas, Nevada, opened in 1996 and closed in
+  2002, with fabrication by Creo Industrial Arts.
+description: ""
+sources:
+  - https://www.creoia.com

@@ -1,0 +1,10 @@
+id: the-hermitage
+name: The Hermitage
+venue_type: history-museum
+location:
+  city: Hermitage
+  state: TN
+operator: The Andrew Jackson Foundation
+website: https://thehermitage.com
+sources:
+  - https://thehermitage.com

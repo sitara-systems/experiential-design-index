@@ -1,0 +1,9 @@
+id: nez-perce-national-historical-park-visitor-center
+name: Nez Perce National Historical Park Visitor Center
+venue_type: visitor-center
+location:
+  city: Lapwai
+  state: ID
+operator: National Park Service
+sources:
+  - https://www.nps.gov/nepe

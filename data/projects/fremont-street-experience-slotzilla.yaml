@@ -1,0 +1,23 @@
+id: fremont-street-experience-slotzilla
+name: Slotzilla
+venue: fremont-street-experience
+project_type: new-building
+year_completed: 2014
+credits:
+  - firm: creo-industrial-arts
+    role: fabrication
+  - firm: contour-entertainment
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: creative-pull-design
+    role: exhibit-design
+    note: "No firm record yet"
+technologies: []
+summary: >
+  Slotzilla, a zipline attraction built into a giant slot-machine
+  structure at the Fremont Street Experience in Las Vegas, Nevada, opened
+  in 2014, with fabrication by Creo Industrial Arts.
+description: ""
+sources:
+  - https://vegasexperience.com
+  - https://www.creoia.com

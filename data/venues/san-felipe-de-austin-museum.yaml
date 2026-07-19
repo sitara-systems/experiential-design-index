@@ -1,0 +1,9 @@
+id: san-felipe-de-austin-museum
+name: San Felipe de Austin State Historic Site Museum
+venue_type: history-museum
+location:
+  city: San Felipe
+  state: TX
+operator: Texas Historical Commission
+sources:
+  - https://www.visitsanfelipedeaustin.com

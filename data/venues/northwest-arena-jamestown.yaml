@@ -1,0 +1,8 @@
+id: northwest-arena-jamestown
+name: Northwest Arena
+venue_type: themed-attraction
+location:
+  city: Jamestown
+  state: NY
+sources:
+  - https://www.post-journal.com

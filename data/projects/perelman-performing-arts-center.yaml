@@ -1,0 +1,36 @@
+id: perelman-performing-arts-center
+name: Perelman Performing Arts Center (PAC NYC)
+venue: perelman-performing-arts-center
+project_type: new-building
+year_completed: 2023
+credits:
+  - firm: davis-brody-bond
+    role: architecture
+    note: "Executive architect; REX (Joshua Ramus) was design architect"
+  - firm: rex
+    role: architecture
+    note: "Design architect; no firm record yet"
+  - firm: rockwell-group
+    role: exhibit-design
+    note: >
+      Interior design of the lobby and restaurant, David Rockwell;
+      mapped to exhibit-design per existing Rockwell Group role
+      precedent.
+  - firm: tillotson-design-associates
+    role: lighting-design
+summary: >
+  The Perelman Performing Arts Center (PAC NYC), a three-theater
+  performing arts venue wrapped in translucent marble at the World
+  Trade Center site in Lower Manhattan, New York City, opened
+  September 13, 2023, designed by REX (Joshua Ramus) as design
+  architect with Davis Brody Bond as executive architect, interior
+  design by Rockwell Group, and lighting design by Tillotson Design
+  Associates.
+description: >
+  The 129,000-sq-ft cube houses three flexible venues (50-950 seats,
+  60+ configurations) for theater, dance, music, opera, and film.
+sources:
+  - https://en.wikipedia.org/wiki/Perelman_Performing_Arts_Center
+  - https://www.aiany.org/architecture/featured-projects/view/perelman-performing-arts-center/
+  - https://www.archdaily.com/1018429/perelman-performing-arts-center-rex-architecture
+  - https://rex-ny.com/project/perelman-wtc/

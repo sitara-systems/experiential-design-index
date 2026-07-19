@@ -14,6 +14,13 @@ credits:
       Four themed galleries and a learning lab, including 11 Testimony
       Stations with large-format touchscreens and AR-enabled survivor
       story experiences
+  - firm: cortina-productions
+    role: media-design
+  - firm: kubik-maltbie
+    role: fabrication
+  - firm: global-exhibit-tech
+    role: av-integration
+    note: "No firm record yet"
 technologies:
   - touchscreen displays
   - augmented reality

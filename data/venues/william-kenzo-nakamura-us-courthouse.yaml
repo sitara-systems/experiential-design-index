@@ -1,0 +1,9 @@
+id: william-kenzo-nakamura-us-courthouse
+name: William Kenzo Nakamura United States Courthouse
+venue_type: public-space
+location:
+  city: Seattle
+  state: WA
+operator: General Services Administration
+sources:
+  - https://en.wikipedia.org/wiki/William_Kenzo_Nakamura_United_States_Courthouse

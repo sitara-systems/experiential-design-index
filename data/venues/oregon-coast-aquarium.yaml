@@ -1,0 +1,10 @@
+id: oregon-coast-aquarium
+name: Oregon Coast Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Newport
+  state: OR
+website: https://aquarium.org
+sources:
+  - https://aquarium.org
+  - https://www.newportnewstimes.com/news/oregon-coast-aquarium-unveils-new-attractions/article_4b13b6ba-f353-11ec-855c-f7acfe96e560.html

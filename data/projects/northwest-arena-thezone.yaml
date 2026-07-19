@@ -1,0 +1,21 @@
+id: northwest-arena-thezone
+name: TheZone
+venue: northwest-arena-jamestown
+project_type: installation
+year_completed: 2026
+credits:
+  - firm: rws-global
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: boss-display
+    role: fabrication
+  - firm: electrosonic
+    role: av-integration
+technologies: []
+summary: >
+  TheZone, a 6,200-square-foot indoor play space at Northwest Arena in
+  Jamestown, New York, across from the National Comedy Center, opened
+  July 10, 2026.
+description: ""
+sources:
+  - https://www.post-journal.com

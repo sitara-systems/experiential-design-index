@@ -14,6 +14,8 @@ credits:
   - firm: art-processors
     role: media-design
     note: "Immersive, location-aware audio guide; no firm record yet"
+  - firm: creo-industrial-arts
+    role: fabrication
 technologies:
   - interactive recording-studio remix installation
   - location-aware audio guide

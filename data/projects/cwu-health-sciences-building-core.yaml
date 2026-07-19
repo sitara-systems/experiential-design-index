@@ -1,0 +1,20 @@
+id: cwu-health-sciences-building-core
+name: Health Sciences Building
+venue: cwu-health-sciences-building
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: bh-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: creo-industrial-arts
+    role: fabrication
+technologies: []
+summary: >
+  The Health Sciences Building at Central Washington University in
+  Ellensburg, Washington, opened in 2022, with fabrication by Creo
+  Industrial Arts.
+description: ""
+sources:
+  - https://www.cwu.edu
+  - https://www.creoia.com

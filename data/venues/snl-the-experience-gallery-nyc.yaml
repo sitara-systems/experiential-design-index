@@ -1,0 +1,8 @@
+id: snl-the-experience-gallery-nyc
+name: "Saturday Night Live: The Experience Gallery (5th Avenue, NYC)"
+venue_type: themed-attraction
+location:
+  city: New York
+  state: NY
+sources:
+  - https://www.cortinaproductions.com/projects/saturday-night-live-the-experience/

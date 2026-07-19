@@ -6,6 +6,9 @@ year_completed: 2014
 credits:
   - firm: c-and-g-partners
     role: graphics-wayfinding
+  - firm: design-communications-ltd
+    role: fabrication
+    note: "Fabricated the interior, exterior, banner, and donor graphics C&G Partners designed."
 technologies:
   - environmental graphics
   - donor recognition signage

@@ -1,0 +1,22 @@
+id: museum-of-discovery-and-science-everglades-theater
+name: Everglades Theater
+venue: museum-of-discovery-and-science-fort-lauderdale
+project_type: new-exhibition
+year_completed: 2026
+credits:
+  - firm: cambridgeseven
+    role: exhibit-design
+  - firm: 1220-fabrication
+    role: fabrication
+  - firm: 1220-fabrication
+    role: av-integration
+technologies: []
+summary: >
+  The Everglades Theater, a new immersive theater exhibit at the Museum
+  of Discovery and Science in Fort Lauderdale, Florida, opened June 18,
+  2026, with exhibit design by CambridgeSeven and fabrication/AV
+  integration by 1220 Exhibits.
+description: ""
+sources:
+  - https://www.cambridgeseven.com
+  - https://mods.org

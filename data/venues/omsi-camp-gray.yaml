@@ -1,0 +1,11 @@
+id: omsi-camp-gray
+name: OMSI Coastal Discovery Center at Camp Gray
+venue_type: science-center
+location:
+  city: Newport
+  state: OR
+operator: Oregon Museum of Science and Industry (OMSI)
+website: https://omsi.edu/camp-gray/
+sources:
+  - https://omsi.edu/camp-gray/
+  - https://portlandtribune.com/2016/03/10/omsi-opens-20-acre-coastal-camp-center/

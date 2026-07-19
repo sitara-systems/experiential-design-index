@@ -1,0 +1,9 @@
+id: kansas-city-royals-hall-of-fame-museum
+name: Kansas City Royals Hall of Fame Museum
+venue_type: sports-venue
+location:
+  city: Kansas City
+  state: MO
+operator: Kansas City Royals
+sources:
+  - https://www.mlb.com/royals

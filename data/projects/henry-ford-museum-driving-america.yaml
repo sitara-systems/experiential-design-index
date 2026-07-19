@@ -6,6 +6,10 @@ year_completed: 2012
 credits:
   - firm: west-office
     role: exhibit-design
+  - firm: cortina-productions
+    role: media-design
+  - firm: design-and-production-incorporated
+    role: av-integration
 technologies: []
 summary: >
   Driving America, a permanent automotive exhibition at The Henry Ford

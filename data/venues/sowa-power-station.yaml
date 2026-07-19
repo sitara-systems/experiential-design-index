@@ -1,0 +1,8 @@
+id: sowa-power-station
+name: SoWa Power Station
+venue_type: themed-attraction
+location:
+  city: Boston
+  state: MA
+sources:
+  - https://www.beyondkingtut.com

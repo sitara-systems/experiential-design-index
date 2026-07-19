@@ -1,0 +1,8 @@
+id: caesars-magical-empire
+name: Caesars Magical Empire
+venue_type: themed-attraction
+location:
+  city: Las Vegas
+  state: NV
+sources:
+  - https://www.creoia.com

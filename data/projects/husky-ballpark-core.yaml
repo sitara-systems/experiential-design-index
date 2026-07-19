@@ -1,0 +1,18 @@
+id: husky-ballpark-core
+name: Husky Ballpark
+venue: husky-ballpark
+project_type: new-building
+year_completed: 2014
+credits:
+  - firm: srg-partnership
+    role: architecture
+    note: "No firm record yet"
+  - firm: creo-industrial-arts
+    role: fabrication
+technologies: []
+summary: >
+  Husky Ballpark, a new baseball stadium at the University of Washington
+  in Seattle, opened in 2014, with fabrication by Creo Industrial Arts.
+description: ""
+sources:
+  - https://www.creoia.com

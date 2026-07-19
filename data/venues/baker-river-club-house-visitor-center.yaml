@@ -1,0 +1,9 @@
+id: baker-river-club-house-visitor-center
+name: Baker River Club House / Lower Baker Dam Visitor Center
+venue_type: visitor-center
+location:
+  city: Concrete
+  state: WA
+operator: Puget Sound Energy
+sources:
+  - https://www.pse.com

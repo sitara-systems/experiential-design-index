@@ -8,6 +8,10 @@ credits:
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
+  - firm: design-and-production-incorporated
+    role: av-integration
+  - firm: cortina-productions
+    role: media-design
 technologies:
   - interactive video
   - touch table

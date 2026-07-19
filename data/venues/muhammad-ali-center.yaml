@@ -1,0 +1,9 @@
+id: muhammad-ali-center
+name: Muhammad Ali Center
+venue_type: history-museum
+location:
+  city: Louisville
+  state: KY
+website: https://alicenter.org
+sources:
+  - https://alicenter.org

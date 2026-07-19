@@ -1,0 +1,26 @@
+id: gwinnett-environmental-and-heritage-center-core
+name: Gwinnett Environmental & Heritage Center Core Exhibits
+venue: gwinnett-environmental-and-heritage-center
+project_type: new-building
+year_completed: 2006
+credits:
+  - firm: van-sickle-and-rolleri
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: exhibit-concepts
+    role: fabrication
+    note: "No firm record yet"
+  - firm: mad-systems
+    role: av-integration
+recognition:
+  - award: "AAM MUSE Award"
+    year: 2006
+    source: https://www.madsystems.com
+technologies: []
+summary: >
+  The Gwinnett Environmental & Heritage Center, a Gwinnett County, Georgia
+  nature and heritage facility in Buford, opened in 2006 with AV
+  integration by MAD Systems.
+description: ""
+sources:
+  - https://www.madsystems.com

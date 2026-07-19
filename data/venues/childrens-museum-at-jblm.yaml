@@ -1,0 +1,9 @@
+id: childrens-museum-at-jblm
+name: Children's Museum at JBLM
+venue_type: childrens-museum
+location:
+  city: Joint Base Lewis-McChord
+  state: WA
+operator: Children's Museum of Tacoma
+sources:
+  - https://www.playtacoma.org

@@ -11,6 +11,8 @@ credits:
   - firm: wpa
     role: graphics-wayfinding
     note: "Environmental graphic design; no firm record yet"
+  - firm: creo-industrial-arts
+    role: fabrication
 summary: >
   A digital wayfinding, event-signage, and donor-recognition system for
   PACCAR Hall and Dempsey Hall at the University of Washington's Foster

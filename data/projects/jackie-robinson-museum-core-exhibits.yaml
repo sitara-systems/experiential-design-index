@@ -1,0 +1,24 @@
+id: jackie-robinson-museum-core-exhibits
+name: Jackie Robinson Museum Core Exhibits
+venue: jackie-robinson-museum
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: hadley-exhibits
+    role: fabrication
+  - firm: electrosonic
+    role: av-integration
+technologies: []
+summary: >
+  The Jackie Robinson Museum, a new museum in Lower Manhattan, New York
+  City honoring Jackie Robinson's life and legacy, opened to the public
+  July 26, 2022, with exhibit design by Ralph Appelbaum Associates,
+  fabrication by Hadley Exhibits, and AV integration by Electrosonic.
+description: >
+  Distinct from the museum's separately recorded Ebbets Field model
+  installation; this record covers the museum's core exhibition program.
+sources:
+  - https://www.electrosonic.com/projects/jackie-robinson-museum
+  - https://www.jackierobinsonmuseum.org

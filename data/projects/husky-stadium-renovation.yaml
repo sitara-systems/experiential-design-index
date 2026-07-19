@@ -1,0 +1,18 @@
+id: husky-stadium-renovation
+name: Husky Stadium Renovation
+venue: husky-stadium
+project_type: major-renovation
+year_completed: 2013
+credits:
+  - firm: creo-industrial-arts
+    role: fabrication
+  - firm: olive-design
+    role: graphics-wayfinding
+    note: "No firm record yet"
+technologies: []
+summary: >
+  A renovation of Husky Stadium at the University of Washington in
+  Seattle, completed in 2013, with fabrication by Creo Industrial Arts.
+description: ""
+sources:
+  - https://www.creoia.com

@@ -19,6 +19,11 @@ credits:
   - firm: northern-light-productions
     role: content-production
     note: "Virtual reality and 180-degree film production"
+  - firm: cortina-productions
+    role: media-design
+  - firm: cruz-dann-productions
+    role: content-production
+    note: "No firm record yet"
 technologies:
   - virtual reality
   - LED displays

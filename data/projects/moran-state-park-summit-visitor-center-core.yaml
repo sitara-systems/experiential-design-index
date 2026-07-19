@@ -1,0 +1,20 @@
+id: moran-state-park-summit-visitor-center-core
+name: Moran State Park Summit Visitor Center Exhibits
+venue: moran-state-park-summit-visitor-center
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: edx-exhibits
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: creo-industrial-arts
+    role: fabrication
+technologies: []
+summary: >
+  The Summit Visitor Center atop Mount Constitution in Moran State Park
+  on Orcas Island, Washington, opened in 2021, with fabrication by Creo
+  Industrial Arts.
+description: ""
+sources:
+  - https://parks.wa.gov
+  - https://www.creoia.com

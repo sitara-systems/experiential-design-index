@@ -1,0 +1,24 @@
+id: hamilton-the-exhibition
+name: "Hamilton: The Exhibition"
+venue: hamilton-the-exhibition-pavilion-chicago
+project_type: traveling-exhibition
+year_completed: 2019
+credits:
+  - firm: ngx-interactive
+    role: media-design
+    note: "No firm record yet"
+  - firm: david-korins-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: design-electronics
+    role: av-integration
+    note: "No firm record yet"
+technologies:
+  - interactive exhibits
+summary: >
+  "Hamilton: The Exhibition," a touring exhibition on the American
+  Revolution and the making of the musical "Hamilton," made its world
+  premiere in a custom-built pavilion in Chicago, Illinois in April 2019.
+description: ""
+sources:
+  - https://hamiltonexhibition.com

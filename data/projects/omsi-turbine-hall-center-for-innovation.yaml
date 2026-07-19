@@ -1,0 +1,36 @@
+id: omsi-turbine-hall-center-for-innovation
+name: Turbine Hall Center for Innovation Renovation
+venue: omsi
+project_type: major-renovation
+year_completed: 2019
+credits:
+  - firm: dangermond-keane-architecture
+    role: architecture
+  - firm: felt-hat
+    role: media-design
+    note: >
+      Interactive, sensor-triggered staircase experience (light, form,
+      and ambient sound responsive to visitor movement); no firm record
+      yet.
+technologies:
+  - motion-sensor interactive staircase
+summary: >
+  OMSI's Turbine Hall — a 1920s former PGE power station on the
+  National Register of Historic Places — was renovated into the
+  STEAM-focused "Center for Innovation," including a sensor-triggered
+  interactive staircase experience, reopening at the Oregon Museum of
+  Science and Industry in Portland, Oregon in 2019, designed by
+  Dangermond Keane Architecture (now Bearing Architecture) in
+  partnership with Felt Hat.
+description: >
+  Distinct from the already-recorded omsi-epicenter, omsi-soundstack,
+  and omsi-the-greg-chaille-curium project records — those are
+  individual exhibits placed inside this renovated hall, sourced
+  separately, and none of their own project pages credit this firm, so
+  no credits were added to them.
+sources:
+  - https://bearingarchitecture.com/portfolio/omsi-turbine-hall-2/
+  - https://felthat.com/work/omsi-turbine-hall-master-plan/
+  - https://www.walshconstruction.com/project/omsi-turbine-hall/
+  - https://autodesk.blogs.com/between_the_lines/2019/11/innovation-stations-open-at-omsi.html
+  - https://eastpdxnews.com/neighborhood-news/omsi-celebrates-75-years-with-turbine-hall-makeover/

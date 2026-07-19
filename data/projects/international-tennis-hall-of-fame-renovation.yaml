@@ -10,6 +10,19 @@ credits:
     role: graphics-wayfinding
   - firm: healykohler
     role: media-design
+  - firm: cortina-productions
+    role: media-design
+    note: >
+      Overlapping vendor claim: Cortina Productions' own project page
+      credits itself with media-design and 1220 Exhibits with
+      av-integration/fabrication for this renovation, while HealyKohler's
+      own page claims the full exhibit-design/graphics/media scope.
+      Both firms' self-reported credits are recorded pending
+      clarification; not resolved in favor of either.
+  - firm: 1220-fabrication
+    role: av-integration
+  - firm: 1220-fabrication
+    role: fabrication
 technologies:
   - hologram
   - interactive projection

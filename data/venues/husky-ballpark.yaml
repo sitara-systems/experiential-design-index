@@ -1,0 +1,9 @@
+id: husky-ballpark
+name: Husky Ballpark
+venue_type: sports-venue
+location:
+  city: Seattle
+  state: WA
+operator: University of Washington
+sources:
+  - https://gohuskies.com

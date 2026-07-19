@@ -1,0 +1,9 @@
+id: aquarium-of-the-pacific
+name: Aquarium of the Pacific
+venue_type: aquarium-zoo
+location:
+  city: Long Beach
+  state: CA
+website: https://www.aquariumofpacific.org
+sources:
+  - https://www.aquariumofpacific.org

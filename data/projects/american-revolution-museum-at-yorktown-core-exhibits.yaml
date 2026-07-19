@@ -8,6 +8,11 @@ credits:
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
+  - firm: cortina-productions
+    role: media-design
+  - firm: whitlock
+    role: av-integration
+    note: "No firm record yet"
 technologies: []
 summary: >
   The American Revolution Museum at Yorktown, a new building replacing the

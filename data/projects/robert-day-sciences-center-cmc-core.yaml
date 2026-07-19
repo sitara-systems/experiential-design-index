@@ -1,0 +1,23 @@
+id: robert-day-sciences-center-cmc-core
+name: Robert Day Sciences Center
+venue: robert-day-sciences-center-cmc
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: big-bjarke-ingels-group
+    role: architecture
+    note: "No firm record yet"
+  - firm: ghd-partners
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: creo-industrial-arts
+    role: fabrication
+technologies: []
+summary: >
+  The Robert Day Sciences Center at Claremont McKenna College in
+  Claremont, California, designed by Bjarke Ingels Group (BIG), opened in
+  2025, with fabrication by Creo Industrial Arts.
+description: ""
+sources:
+  - https://www.cmc.edu
+  - https://www.creoia.com

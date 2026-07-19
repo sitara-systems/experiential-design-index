@@ -1,0 +1,20 @@
+id: muhammad-ali-center-core
+name: Muhammad Ali Center
+venue: muhammad-ali-center
+project_type: new-building
+year_completed: 2005
+credits:
+  - firm: formations
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: lee-h-skolnick-architecture-and-design-partnership
+    role: architecture
+    note: "No firm record yet"
+technologies: []
+summary: >
+  The Muhammad Ali Center, a museum and cultural center in Louisville,
+  Kentucky honoring boxer and humanitarian Muhammad Ali, opened November
+  19, 2005.
+description: ""
+sources:
+  - https://alicenter.org

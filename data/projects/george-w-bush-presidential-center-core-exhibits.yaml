@@ -8,6 +8,13 @@ credits:
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
+  - firm: design-and-production-incorporated
+    role: av-integration
+  - firm: cortina-productions
+    role: media-design
+  - firm: robert-a-m-stern-architects
+    role: architecture
+    note: "No firm record yet"
 technologies: []
 summary: >
   The George W. Bush Presidential Center, a new building on the Southern

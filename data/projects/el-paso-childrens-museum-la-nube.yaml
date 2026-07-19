@@ -17,7 +17,17 @@ credits:
     note: >
       Reconciles Available Light's own "La Nube STEAM Discovery Center"
       listing with this record — same 2024 building, not a separate
-      project.
+      project. Cortina Productions' own page names EOS Lightmedia as
+      lighting designer instead — both firms' self-reported lighting
+      credits conflict; Available Light's credit is kept as previously
+      reconciled and EOS Lightmedia is not added.
+  - firm: cortina-productions
+    role: media-design
+  - firm: bbi-engineering
+    role: av-integration
+  - firm: creative-machines
+    role: fabrication
+    note: "Interactive fabrication; no firm record yet"
 technologies: []
 summary: >
   La Nube, a light-filled STEAM discovery center for the El Paso Children's

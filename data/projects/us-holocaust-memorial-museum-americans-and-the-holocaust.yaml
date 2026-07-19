@@ -8,6 +8,10 @@ credits:
     role: content-production
   - firm: solomon-group
     role: av-integration
+  - firm: howard-plus-revis-design
+    role: exhibit-design
+  - firm: hadley-exhibits
+    role: fabrication
 technologies:
   - AV systems
 summary: >

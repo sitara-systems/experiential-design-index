@@ -1,0 +1,10 @@
+id: centre-bell
+name: Centre Bell
+venue_type: sports-venue
+location:
+  city: Montreal
+  state: QC
+  country: CA
+operator: Montreal Canadiens
+sources:
+  - https://www.centrebell.ca

@@ -1,0 +1,8 @@
+id: angel-of-the-winds-arena
+name: Angel of the Winds Arena
+venue_type: sports-venue
+location:
+  city: Everett
+  state: WA
+sources:
+  - https://www.angelofthewindsarena.com

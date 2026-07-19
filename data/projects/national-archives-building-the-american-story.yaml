@@ -9,6 +9,19 @@ credits:
   - firm: cortina-productions
     role: media-design
     note: "Collaborating designer of immersive environments"
+  - firm: carolynne-harris-consulting
+    role: master-planning
+    note: "Museum planning; no firm record yet"
+  - firm: phase-shift
+    role: technical-consulting
+    note: "AV systems design; no firm record yet"
+  - firm: design-and-production-incorporated
+    role: fabrication
+  - firm: design-and-production-incorporated
+    role: av-integration
+  - firm: deque-systems
+    role: accessibility-consulting
+    note: "No firm record yet"
 technologies:
   - AI-personalized interactive stations
   - touchscreen digital display cases

@@ -1,0 +1,9 @@
+id: robert-day-sciences-center-cmc
+name: Robert Day Sciences Center
+venue_type: academic-institution
+location:
+  city: Claremont
+  state: CA
+operator: Claremont McKenna College
+sources:
+  - https://www.cmc.edu

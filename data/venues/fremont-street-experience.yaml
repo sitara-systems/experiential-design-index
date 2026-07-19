@@ -1,0 +1,9 @@
+id: fremont-street-experience
+name: Fremont Street Experience
+venue_type: themed-attraction
+location:
+  city: Las Vegas
+  state: NV
+website: https://vegasexperience.com
+sources:
+  - https://vegasexperience.com
