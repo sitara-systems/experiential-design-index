@@ -1,0 +1,35 @@
+# Firm record — EHDD
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: ehdd
+name: EHDD
+aka:
+  - Esherick Homsey Dodge and Davis
+  - EHDD Architecture
+website: https://ehdd.com
+hq:
+  city: San Francisco
+  state: CA
+other_offices:
+  - city: Seattle
+    state: WA
+  - city: Los Angeles
+    state: CA
+founded: 1946
+roles:
+  - architecture
+status: active
+status_basis: >
+  Completed KQED Headquarters Renovation (2021) and Berkeley Art Museum and
+  Pacific Film Archive (2016); active firm website with current staff/office
+  listings as of this check.
+status_verified: 2026-07-19
+summary: >
+  EHDD is a San Francisco-based architecture firm founded in 1946 by Joseph
+  Esherick, known for museum, aquarium, and science-center work and for its
+  focus on sustainable and net-zero-energy design. It is a repeat architect
+  of record on science museum and aquarium expansions across the West Coast.
+sources:
+  - https://ehdd.com/
+  - https://ehdd.com/philosophy/history/
+  - https://en.wikipedia.org/wiki/EHDD

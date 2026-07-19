@@ -1,0 +1,34 @@
+# Firm record — Howard+Revis Design
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: howard-plus-revis-design
+name: Howard+Revis Design
+aka:
+  - Howard-Revis Design Services, Inc.
+  - Howard+Revis Design Services
+website: https://www.howardrevis.com
+hq:
+  city: Washington
+  state: DC
+other_offices: []
+roles:
+  - exhibit-design
+  - interpretive-planning
+status: active
+status_basis: >
+  Selected as exhibit design firm for the future Jim Crow Museum project
+  (announced 2021); active project portfolio maintained on howardrevis.com
+  as of this check, including recent work such as "Girlhood (It's
+  Complicated)."
+status_verified: 2026-07-19
+summary: >
+  Howard+Revis Design is a Washington, DC-based interpretive planning and
+  exhibit design studio led by principals Jeff Howard and Tracy Revis,
+  producing content-driven exhibits for museums, visitor centers, memorials,
+  and heritage sites, including the National Civil Rights Museum renovation
+  and the Lucy Burns Museum.
+sources:
+  - https://www.howardrevis.com/
+  - https://www.ferris.edu/news/archive/2021/july/jimcrowmuseum.htm
+  - https://workhousearts.org/lucy-burns-museum/
+  - https://memphismagazine.com/features/the-national-civil-rights-museum-celebrates-a-remarkable-renovation/

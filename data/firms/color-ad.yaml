@@ -1,0 +1,30 @@
+# Firm record — Color-Ad
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: color-ad
+name: Color-Ad, Inc.
+aka:
+  - Color-Ad
+website: https://color-ad.com
+hq:
+  city: Manassas
+  state: VA
+founded: 1962
+roles:
+  - fabrication
+  - graphics-wayfinding
+status: active
+status_basis: >
+  Completed "Annapolis: An American Story" at the Museum of Historic
+  Annapolis (2022); active firm website with a current portfolio and news
+  posts (2020 award announcement) as of this check.
+status_verified: 2026-07-19
+summary: >
+  Color-Ad, Inc. is a Manassas, Virginia-based signage and exhibit
+  fabrication company founded in 1962 by David Velke, now family-run
+  across three generations. It fabricates exhibits and graphics for
+  visitor centers, aquariums, and history museums across the US.
+sources:
+  - https://color-ad.com/
+  - https://color-ad.com/index.php/about-us-2/
+  - https://color-ad.com/index.php/2020/11/19/color-ad-projects-place-1st-2nd-and-3rd/

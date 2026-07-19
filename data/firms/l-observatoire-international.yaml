@@ -1,0 +1,31 @@
+id: l-observatoire-international
+name: L'Observatoire International
+website: https://lobsintl.com
+hq:
+  city: New York
+  state: NY
+other_offices:
+  - city: Paris
+    country: FR
+  - city: Seoul
+    country: KR
+  - city: London
+    country: GB
+founded: 1993
+roles:
+  - lighting-design
+status: active
+status_basis: >
+  Credited on the Frick Collection renovation and enhancement (2025); 2026
+  award recognitions on its own site for Printemps NYC and the Frick
+  Collection restoration.
+status_verified: 2026-07-19
+summary: >
+  L'Observatoire International is a New York-based architectural lighting
+  design firm founded in 1993 by Hervé Descottes, working across
+  architecture, landscape, urban, and fine-art projects with satellite
+  studios in Paris, Seoul, and London.
+sources:
+  - https://lobsintl.com/
+  - https://lobsintl.com/about/
+  - https://en.wikipedia.org/wiki/L'Observatoire_International

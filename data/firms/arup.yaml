@@ -1,0 +1,43 @@
+# Firm record — Arup
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: arup
+name: Arup
+aka:
+  - Arup Group
+  - Ove Arup & Partners
+website: https://www.arup.com/en-us/
+hq:
+  city: New York
+  state: NY
+other_offices:
+  - city: London
+    country: GB
+    note: Global headquarters
+  - city: San Francisco
+    state: CA
+  - city: Los Angeles
+    state: CA
+founded: 1946
+roles:
+  - technical-consulting
+  - acoustics
+  - lighting-design
+status: active
+status_basis: >
+  Credited on the Metropolitan Museum of Art's Michael C. Rockefeller Wing
+  reopening (2025); active North American practice across dozens of offices
+  (first US office opened 1985 in San Francisco; New York is the leading
+  multidisciplinary Americas office).
+status_verified: 2026-07-19
+summary: >
+  Arup is a global engineering and technical-consulting firm founded in
+  London in 1946 by Sir Ove Arup, with a substantial North American
+  presence (New York, San Francisco, Los Angeles, and other offices)
+  dating to 1985. In the experiential-design space it is typically
+  credited for acoustics, theatrical/AV technical consulting, and
+  lighting engineering on museum and cultural-venue projects.
+sources:
+  - https://www.arup.com/en-us/
+  - https://en.wikipedia.org/wiki/Arup_Group
+  - https://www.arup.com/en-us/contact-us/offices/

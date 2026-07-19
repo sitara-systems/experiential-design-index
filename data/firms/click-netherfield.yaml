@@ -1,0 +1,44 @@
+# Firm record — Click Netherfield
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: click-netherfield
+name: Click Netherfield
+aka:
+  - Click Netherfield Ltd
+  - CNI
+website: https://www.clicknetherfield.com
+hq:
+  city: Voorhees
+  state: NJ
+  note: >
+    US operating office (Click Netherfield Inc / "CNI"); global HQ is
+    Livingston, Scotland (see other_offices).
+other_offices:
+  - city: Livingston
+    country: GB
+    note: Global headquarters
+  - city: Markham
+    state: ON
+    country: CA
+    note: North American distributor office
+founded: 1980
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Credited on the Princeton University Art Museum reopening (2025) and the
+  Allison and Roberto Mignone Halls of Gems and Minerals at AMNH (2021);
+  active company website and dedicated US (Voorhees, NJ) and Canadian
+  (Markham, ON) offices as of this check.
+status_verified: 2026-07-19
+summary: >
+  Click Netherfield is a museum display-case manufacturer headquartered in
+  Livingston, Scotland, with a dedicated North American operating office in
+  Voorhees, New Jersey and a Canadian distributor office near Toronto. It
+  is a repeat display-case fabricator for major North American museums,
+  including the American Museum of Natural History and Princeton University
+  Art Museum.
+sources:
+  - https://www.clicknetherfield.com/about-us/
+  - https://www.clicknetherfield.com/contact-us/
+  - https://www.royalwarrant.org/company/click-netherfield-limited

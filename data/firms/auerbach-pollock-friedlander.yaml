@@ -1,0 +1,47 @@
+# Firm record — Apeiro Design (formerly Auerbach Pollock Friedlander)
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+# id kept as auerbach-pollock-friedlander to match existing project credits
+# (all sourced under the firm's pre-2023 name); current trade name is Apeiro
+# Design per the July 2023 rebrand.
+
+id: auerbach-pollock-friedlander
+name: Apeiro Design
+aka:
+  - Auerbach Pollock Friedlander
+  - Auerbach Glasow
+  - Auerbach + Associates
+website: https://apeirodesign.com
+hq:
+  city: San Francisco
+  state: CA
+other_offices:
+  - city: New York
+    state: NY
+  - city: Minneapolis
+    state: MN
+  - city: Washington
+    state: DC
+founded: 1972
+roles:
+  - technical-consulting
+status: active
+status_basis: >
+  Auerbach Pollock Friedlander and sister firm Auerbach Glasow rebranded
+  as Apeiro Design in July 2023, marking the practice's 50th anniversary;
+  per the firm's own site (apeirodesign.com) it remains active with 30+
+  staff across four offices as of this check. Theatre-consulting credits in
+  this index (SFJAZZ Center, Mondavi Center, Zankel Hall, Writers Theatre)
+  predate the rebrand and were delivered under the Auerbach Pollock
+  Friedlander name.
+status_verified: 2026-07-19
+summary: >
+  Apeiro Design — founded in 1972 in San Francisco as Auerbach + Associates
+  and long operating as Auerbach Pollock Friedlander — is a theatre planning
+  and audiovisual/technical consulting firm serving performing arts centers,
+  concert halls, and cultural venues nationally, rebranded to its current
+  name in 2023 after 50 years of practice.
+sources:
+  - https://apeirodesign.com/about/
+  - https://www.auditoria-magazine.com/news/design/auerbach-pollock-friedlander-and-auerbach-glasow-rebrand-to-apeiro-design.html
+  - https://www.livedesignonline.com/sfjazz-opens-auerbach-pollock-friedlander-theatre-consultants
+  - https://bbinet.com/works/the-robert-and-margrit-mondavi-center-for-the-performing-arts/

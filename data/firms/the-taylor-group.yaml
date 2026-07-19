@@ -1,0 +1,52 @@
+# Firm record — The Taylor Group
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+# Note: distinct from Taylor Studios (Rantoul, IL — data/firms/taylor-studios.yaml)
+# and from The Taylor Group Canada (data referenced as the-taylor-group-canada,
+# no firm record yet), a separate design-build entity credited on the Canada
+# Science and Technology Museum's Artifact Alley.
+
+id: the-taylor-group
+name: The Taylor Group
+aka:
+  - Taylor Manufacturing Industries
+  - Taylor Inc.
+website: https://www.taylorinc.com
+hq:
+  city: Franklin
+  state: MA
+other_offices:
+  - city: Cleveland
+    state: OH
+  - city: Las Vegas
+    state: NV
+  - city: Orlando
+    state: FL
+  - city: Toronto
+    state: ON
+    country: CA
+founded: 1931
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Fabrication credited on The National WWII Museum's Road to Victory master
+  plan, which reached its capstone opening (Liberation Pavilion) in 2023;
+  firm's own site (taylorinc.com) describes "90+ years of exhibit
+  fabrication," 200+ staff across five North American locations, and lists
+  current agency-partner and Fortune 500 client programs as of this check.
+status_verified: 2026-07-19
+summary: >
+  The Taylor Group (Taylor Manufacturing Industries Inc.) is an exhibit
+  fabrication and event-production company headquartered in Franklin,
+  Massachusetts, operating since 1931 with roughly 700,000 sq ft of
+  manufacturing across five North American locations, producing museum
+  exhibits, trade show environments, and branded activations for Fortune 500
+  clients and cultural institutions.
+sources:
+  - https://www.taylorinc.com/
+  - https://www.taylorinc.com/abouttaylor
+  - https://www.taylorinc.com/contactus
+  - https://www.eoslightmedia.com/work/60
+  - https://www.cambridgeseven.com/project/san-francisco-49ers-museum/
+  - https://www.architecturalrecord.com/articles/17821-national-wwii-museum-in-new-orleans-after-20-years-completes-final-phase
+  - https://www.availablelight.com/work/national-world-war-ii-museum-us-freedom-pavilion

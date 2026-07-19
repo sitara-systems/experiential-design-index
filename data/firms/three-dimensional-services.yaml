@@ -1,0 +1,37 @@
+id: three-dimensional-services
+name: Three Dimensional Services
+aka:
+  - 3DS
+website: https://3dservices.com
+hq:
+  city: Delta
+  state: BC
+  country: CA
+other_offices:
+  - city: Toronto
+    state: ON
+    country: CA
+  - city: Grand Rapids
+    state: MI
+founded: 1980
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Two Columbia River Maritime Museum exhibitions fabricated and installed in
+  2024 ("ntsayka ilíi ukuk — This is Our Place" and "Cedar and Sea"); active
+  project portfolio pages current as of 2026 including the Squamish Lil'wat
+  Cultural Centre and Chinatown Storytelling Centre.
+status_verified: 2026-07-19
+summary: >
+  Three Dimensional Services (3DS) is a museum and exhibit fabrication firm
+  headquartered in Delta, British Columbia, founded in 1980, with additional
+  offices in Toronto, Ontario and Grand Rapids, Michigan. It builds exhibit
+  casework, interactive science-center displays, and interpretive
+  environments for museums, cultural centers, and visitor attractions across
+  North America.
+sources:
+  - https://3dservices.com
+  - https://3dservices.com/projects/exhibits/
+  - https://3dservices.com/portfolio/squamish-lilwat-cultural-centre/
+  - https://3dservices.com/portfolio/chinatown-storytelling-centre/

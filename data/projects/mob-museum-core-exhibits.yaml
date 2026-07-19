@@ -13,14 +13,11 @@ credits:
     role: fabrication
   - firm: northern-light-productions
     role: content-production
-  - firm: avi-spl
-    role: av-integration
   - firm: snibbe-interactive
     role: media-design
     note: "No firm record yet"
-  - firm: boston-productions
+  - firm: boston-productions-inc
     role: content-production
-    note: "No firm record yet"
 technologies:
   - digital interactives
 summary: >
@@ -28,7 +25,7 @@ summary: >
   in Las Vegas opened its core exhibits February 14, 2012; architecture
   by Westlake Reed Leskosky, exhibit design by Gallagher & Associates,
   fabrication by Pacific Studio, with media and AV by Snibbe Interactive,
-  Northern Light Productions, Boston Productions, and AVI-SPL. Distinct
+  Northern Light Productions, and Boston Productions. Distinct
   from the 2018 first-floor renovation already recorded at this venue.
 description: ""
 sources:

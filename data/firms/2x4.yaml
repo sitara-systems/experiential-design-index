@@ -1,0 +1,25 @@
+id: 2x4
+name: 2x4
+website: https://2x4.org
+hq:
+  city: New York
+  state: NY
+other_offices:
+  - city: Beijing
+    country: CN
+founded: 1994
+roles:
+  - graphics-wayfinding
+status: active
+status_basis: >
+  Credited on the Princeton University Art Museum's new building (2025);
+  active current client roster and team pages on its own site.
+status_verified: 2026-07-19
+summary: >
+  2x4 is a New York-based graphic design and brand strategy studio founded
+  in 1994 by Michael Rock, Susan Sellers, and Georgianna Stout, working on
+  identity, environmental graphics, and wayfinding for cultural and
+  commercial clients, with a satellite studio in Beijing.
+sources:
+  - https://2x4.org/
+  - https://2x4.org/about/

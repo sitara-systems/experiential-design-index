@@ -1,0 +1,27 @@
+id: stimulant
+name: Stimulant
+aka: []
+website: https://www.stimulant.com
+hq:
+  city: San Francisco
+  state: CA
+other_offices: []
+founded: 2007
+roles:
+  - media-design
+status: active
+status_basis: >
+  Media design on the Intel XR Fab Tour (2023) and earlier interactive work
+  at Reunion Tower's GeO-Deck/Halo (2013) and One Liberty Observation Deck
+  (2015); active studio site as of 2026 citing clients including Google,
+  Adobe, Amazon, Microsoft, National Geographic, and the Smithsonian NMAAHC.
+status_verified: 2026-07-19
+summary: >
+  Stimulant is a San Francisco interactive-experience design studio founded
+  in 2007, working at the intersection of experience design, technology, and
+  architecture. It designs interactive exhibits, AR/MR/VR experiences, and
+  custom software for museums, observation decks, and brand visitor centers.
+sources:
+  - https://www.stimulant.com/about
+  - https://www.stimulant.com/work/intel-fab-xr-virtual-tour
+  - https://sfdesignweek.org/stimulant-this-san-francisco-based-experiential-studio-brings-dreams-to-life-through-digital-interactions/

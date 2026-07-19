@@ -1,0 +1,31 @@
+# Firm record — Volume Inc.
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: volume-inc
+name: Volume Inc.
+aka:
+  - Volume
+  - Volume Design Inc.
+website: https://volumesf.com
+hq:
+  city: San Francisco
+  state: CA
+founded: 2000
+roles:
+  - graphics-wayfinding
+  - exhibit-design
+status: active
+status_basis: >
+  Credited on the Brooklyn Basin Township Commons environmental graphics
+  project (2020); active firm website with a current work archive as of
+  this check.
+status_verified: 2026-07-19
+summary: >
+  Volume Inc. is a San Francisco-based graphic design studio founded in
+  2000 by Adam Brodsley and Eric Heiman, specializing in place-based
+  identities, environmental graphics, and exhibit graphic programs for
+  science museums and mixed-use developments.
+sources:
+  - https://volumesf.com/
+  - https://volumesf.com/about/
+  - https://www.commarts.com/features/volume-inc

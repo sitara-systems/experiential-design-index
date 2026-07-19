@@ -6,9 +6,9 @@ year_completed: 2024
 credits:
   - firm: split-rock-studios
     role: exhibit-design
-  - firm: boston-productions
+  - firm: boston-productions-inc
     role: media-design
-    note: "no firm record yet; projection-mapped media, 3D animation, and AR interactives"
+    note: "Projection-mapped media, 3D animation, and AR interactives"
   - firm: bowen-technovation
     role: av-integration
 technologies:

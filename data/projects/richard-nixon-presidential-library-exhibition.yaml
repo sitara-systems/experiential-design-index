@@ -20,9 +20,8 @@ credits:
       kept.
   - firm: kubik-maltbie
     role: fabrication
-  - firm: solotech-inc
+  - firm: solotech
     role: av-integration
-    note: "No firm record yet"
 technologies:
   - interactive touchscreen
 summary: >

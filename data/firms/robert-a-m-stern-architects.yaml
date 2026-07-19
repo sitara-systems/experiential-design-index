@@ -1,0 +1,37 @@
+# Firm record — Robert A.M. Stern Architects
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: robert-a-m-stern-architects
+name: Robert A.M. Stern Architects
+aka:
+  - RAMSA
+website: https://www.ramsa.com
+hq:
+  city: New York
+  state: NY
+other_offices: []
+founded: 1969
+roles:
+  - architecture
+status: active
+status_basis: >
+  Architect of record on the Museum of the American Revolution (opened
+  2017, Philadelphia) and the George W. Bush Presidential Center (opened
+  2013, Dallas); per ENR's own 2025 obituary coverage, RAMSA ranks No. 285
+  on ENR's Top 500 Design Firms list with about 300 employees and $82.7M in
+  2024 design revenue. Founder Robert A.M. Stern died November 27, 2025; the
+  firm issued a statement affirming it remains "committed to carrying forth
+  his ideals" and continues practicing under his name.
+status_verified: 2026-07-19
+summary: >
+  Robert A.M. Stern Architects (RAMSA) is a New York-based architecture firm
+  founded in 1969 by Robert A.M. Stern, known for classically-inflected
+  institutional and residential work including university buildings,
+  presidential libraries, and museums such as the Museum of the American
+  Revolution and the George W. Bush Presidential Center.
+sources:
+  - https://www.ramsa.com/about-us
+  - https://www.enr.com/articles/62098-obituary-robert-am-stern-86-multi-faceted-nyc-architect-firm-leader-and-academic
+  - https://www.ramsa.com/projects/project/museum-american-revolution
+  - https://www.architecturalrecord.com/articles/12811-museum-of-the-american-revolution-by-robert-am-stern-architects
+  - https://theprdgroup.com/project/george-w-bush-presidential-center/

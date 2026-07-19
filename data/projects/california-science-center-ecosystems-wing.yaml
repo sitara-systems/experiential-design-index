@@ -7,9 +7,9 @@ credits:
   - firm: zgf-architects
     role: architecture
     note: "Joint venture with EHDD Architecture, per EHDD's own independent project page"
-  - firm: ehdd-architecture
+  - firm: ehdd
     role: architecture
-    note: "Joint venture with ZGF Architects; no firm record yet"
+    note: "Joint venture with ZGF Architects"
 technologies:
   - immersive-environment
 summary: >

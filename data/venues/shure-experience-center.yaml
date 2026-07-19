@@ -1,9 +1,0 @@
-id: shure-experience-center
-name: Shure Experience Center
-venue_type: briefing-center
-location:
-  city: Chicago
-  state: IL
-operator: Shure Incorporated
-sources:
-  - https://avispl.com/resources/case-studies/shure-experience-center/

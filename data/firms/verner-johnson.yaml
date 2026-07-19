@@ -1,0 +1,37 @@
+# Firm record — Verner Johnson
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: verner-johnson
+name: Verner Johnson
+aka:
+  - Verner Johnson, Inc.
+  - E. Verner Johnson & Associates
+  - E. Verner Johnson Architect, Inc.
+website: https://vernerjohnson.com
+hq:
+  city: Boston
+  state: MA
+other_offices: []
+founded: 1965
+roles:
+  - architecture
+status: active
+status_basis: >
+  Architect of record on the Cosmosphere's Space Race renovation (Hutchinson,
+  KS), completed September 2025 as part of a 105,000 sq ft expansion; firm
+  site (vernerjohnson.com) maintains an active museum-architecture portfolio
+  as of this check. Founder E. Verner Johnson died in 2017; the firm
+  continues practicing under the Verner Johnson name.
+status_verified: 2026-07-19
+summary: >
+  Verner Johnson is a Boston-based architecture firm founded in 1965 by
+  E. Verner Johnson, specializing exclusively in museum planning, design,
+  and architecture; it describes itself as the only US architecture firm
+  focused solely on museums, with roughly 200 museum projects to date
+  including work for the Smithsonian Institution and the Louvre.
+sources:
+  - https://vernerjohnson.com
+  - https://vernerjohnson.com/portfolio/kansas-cosmosphere-and-space-center/
+  - http://www.collectspace.com/news/news-092625a-cosmosphere-hall-of-space-renovations-complete.html
+  - https://www.currentobituary.com/obit/205166
+  - https://sah-archipedia.org/Architects/E-Verner-Johnson

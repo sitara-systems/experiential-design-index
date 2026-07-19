@@ -1,0 +1,36 @@
+id: hargreaves-associates
+name: Hargreaves Jones
+aka:
+  - Hargreaves Associates
+  - Hargreaves, Allen, Sinkosky & Loomis
+website: https://www.hargreaves.com
+hq:
+  city: New York
+  state: NY
+other_offices:
+  - city: San Francisco
+    state: CA
+  - city: Cambridge
+    state: MA
+founded: 1983
+roles:
+  - landscape-architecture
+status: active
+status_basis: >
+  Landscape architect of record on the William J. Clinton Presidential
+  Center (2004), the Berkeley Art Museum and Pacific Film Archive (2016),
+  and NYU Langone's Kimmel Pavilion (2018). Firm's own site (as
+  "Hargreaves Jones," the current trading name since Mary Margaret Jones
+  became President/CEO) is live and current as of 2026 with three active
+  offices.
+status_verified: 2026-07-19
+summary: >
+  Hargreaves Jones (founded 1983 by George Hargreaves as Hargreaves
+  Associates) is a landscape architecture and urban design practice with
+  offices in New York, San Francisco, and Cambridge, MA, known for
+  large-scale waterfront, campus, and urban-park transformations
+  including Chattanooga's 21st Century Waterfront and London's 2012
+  Olympic Park.
+sources:
+  - https://www.hargreaves.com/profile/
+  - https://en.wikipedia.org/wiki/George_Hargreaves

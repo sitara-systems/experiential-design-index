@@ -1,0 +1,38 @@
+# Firm record — Lightswitch
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: lightswitch
+name: Lightswitch
+aka:
+  - Lightswitch Studio
+website: https://lightswitch.net
+hq:
+  city: Chicago
+  state: IL
+other_offices:
+  - city: San Francisco
+    state: CA
+  - city: Los Angeles
+    state: CA
+  - city: New York
+    state: NY
+  - city: Orlando
+    state: FL
+founded: 1993
+roles:
+  - lighting-design
+status: active
+status_basis: >
+  Completed lighting design for the Hamilton Family Aquarium at the
+  California Academy of Sciences (2024); active firm website listing six
+  current offices as of this check.
+status_verified: 2026-07-19
+summary: >
+  Lightswitch is a Chicago-based lighting, media, and visual design studio
+  founded in 1993 by Norm Schwab and John Featherstone, with additional
+  studios across the US. It is a repeat lighting designer for science
+  museums, aquariums, and theaters.
+sources:
+  - https://lightswitch.net/
+  - https://www.lightswitch.net/contact/location/chicago
+  - https://www.livedesignonline.com/business-people-news/designer-roundtable-lightswitch-at-25-part-one

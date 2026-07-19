@@ -1,0 +1,37 @@
+# Firm record — GGN
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: ggn
+name: GGN
+aka:
+  - Gustafson Guthrie Nichol
+  - Gustafson Guthrie Nichol Ltd
+website: https://www.ggnltd.com
+hq:
+  city: Seattle
+  state: WA
+other_offices: []
+founded: 1999
+roles:
+  - landscape-architecture
+status: active
+status_basis: >
+  Landscape architecture credited on Founders Hall at the University of
+  Washington (2022) and the South Lake Union Urban Meadow interpretive
+  installation (2022); firm site (ggnltd.com) maintains an active project
+  portfolio and lists the 2017 ASLA National Landscape Architecture Firm
+  Award among its recognitions as of this check.
+status_verified: 2026-07-19
+summary: >
+  GGN (Gustafson Guthrie Nichol) is a Seattle-based landscape architecture
+  firm founded in 1999 by Kathryn Gustafson, Jennifer Guthrie, and Shannon
+  Nichol, designing high-use public landscapes in complex urban and
+  institutional settings, including the Bill & Melinda Gates Foundation
+  campus and the National Museum of African American History and Culture
+  grounds.
+sources:
+  - https://www.ggnltd.com
+  - https://www.ggnltd.com/info
+  - https://www.asla.org/AwardRecipient.aspx?id=50921
+  - https://olsonkundig.com/projects/burke-museum-of-natural-history-and-culture/
+  - https://studiomatthews.com/project/founders-hall/

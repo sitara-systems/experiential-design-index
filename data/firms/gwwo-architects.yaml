@@ -1,0 +1,33 @@
+# Firm record — GWWO Architects
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: gwwo-architects
+name: GWWO Architects
+aka:
+  - GWWO Inc./Architects
+  - Grieves Worrall Wright & O'Hatnick
+website: https://www.gwwoinc.com
+hq:
+  city: Baltimore
+  state: MD
+other_offices:
+  - city: West Hartford
+    state: CT
+founded: 1990
+roles:
+  - architecture
+status: active
+status_basis: >
+  Completed the National World War I Memorial and Pershing Park in
+  Washington, DC (2024) and the Manassas Museum renovation and expansion
+  (2023); active firm website with current office listings as of this
+  check.
+status_verified: 2026-07-19
+summary: >
+  GWWO Architects is a Baltimore, Maryland-based architecture firm formed
+  in 1990 through the merger of two Baltimore firms (Grieves Associates and
+  Worrall & Associates), specializing in cultural and educational
+  architecture including museums, visitor centers, and memorials.
+sources:
+  - https://www.gwwoinc.com/about
+  - https://www.gwwoinc.com/contact

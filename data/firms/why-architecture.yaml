@@ -1,0 +1,39 @@
+# Firm record — WHY Architecture
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+# Note: distinct from "WHY Architecture Workshop" (id why-architecture-workshop,
+# no firm record yet), credited separately on the Academy Museum's
+# "Hollywoodland" temporary exhibition.
+
+id: why-architecture
+name: WHY Architecture
+aka:
+  - wHY
+  - WHY
+website: https://why-site.com
+hq:
+  city: New York
+  state: NY
+other_offices:
+  - city: Los Angeles
+    state: CA
+founded: 2003
+roles:
+  - architecture
+status: active
+status_basis: >
+  Design architect on the Metropolitan Museum of Art's Michael C.
+  Rockefeller Wing, reopened May 31, 2025; also named lead on the Getty
+  Center's announced campus modernization (Welcome Hall renovation and
+  wayfinding), targeted to reopen ahead of the 2028 Summer Olympics.
+status_verified: 2026-07-19
+summary: >
+  WHY Architecture (wHY) is a New York and Los Angeles-based architecture
+  and design studio founded in 2003 by Kulapat Yantrasast, known for museum
+  and cultural work including the Academy Museum of Motion Pictures and the
+  Metropolitan Museum of Art's Michael C. Rockefeller Wing.
+sources:
+  - https://why-site.com/why/
+  - https://en.wikipedia.org/wiki/Kulapat_Yantrasast
+  - https://www.metmuseum.org/press-releases/mcrw-opening-english-2025
+  - https://www.beyerblinderbelle.com/work/view/the-metropolitan-museum-of-art/michael-c-rockefeller-wing/
+  - https://en.wikipedia.org/wiki/Academy_Museum_of_Motion_Pictures
