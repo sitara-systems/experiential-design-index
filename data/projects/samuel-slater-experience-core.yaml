@@ -1,0 +1,27 @@
+id: samuel-slater-experience-core
+name: Samuel Slater Experience
+venue: samuel-slater-experience
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: dmdg2
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: boston-productions
+    role: media-design
+    note: "No firm record yet"
+  - firm: bowen-technovation
+    role: av-integration
+technologies:
+  - interactive kiosk
+  - immersive projection
+summary: >
+  The Samuel Slater Experience, a museum on the life of "the Father of
+  the American Industrial Revolution," opened March 4, 2022 in Webster,
+  Massachusetts; exhibit design by dmdg2, media production by Boston
+  Productions, AV integration by Bowen Technovation.
+description: ""
+sources:
+  - https://whatsupnewp.com/2022/01/samuel-slater-experience-announces-grand-opening-march-4/
+  - https://www.bowentechnovation.com/projects/samuel-slater-experience/
+  - https://bostonproductions.com/portfolio/slater/

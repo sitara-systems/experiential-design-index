@@ -1,0 +1,27 @@
+id: gillette-stadium-player-tunnel-experience
+name: Player Tunnel Experience
+venue: gillette-stadium
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: dimensional-innovations
+    role: lighting-design
+    note: "Design, installation, and integration of the tunnel lighting system"
+  - firm: dimensional-innovations
+    role: graphics-wayfinding
+    note: "Double-sided interchangeable banner graphics for shared Patriots/Revolution use"
+technologies:
+  - programmable LED lighting
+summary: >
+  Dimensional Innovations designed and installed a 130-foot player tunnel
+  lighting experience at Gillette Stadium in Foxborough, Massachusetts,
+  completed fall 2023, featuring a Traxon e:cue-controlled system of 180
+  lights in six rows symbolizing the New England Patriots' six
+  championships, with interchangeable banners for the stadium's two
+  tenant teams.
+description: ""
+sources:
+  - https://dimin.com/work/gillette-stadium-player-tunnel-experience
+  - https://na.traxon-ecue.com/project/gillette-stadium/
+  - https://www.patriots.com/news/gillette-stadium-offers-update-on-stadium-renovations-new-fan-experiences-for-20
+  - https://www.thestadiumbusiness.com/2023/07/12/gillette-stadium-lifts-lid-on-250m-renovation-project/

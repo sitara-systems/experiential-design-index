@@ -1,0 +1,9 @@
+id: tulsa-aero-bus-rapid-transit
+name: Tulsa AERO Bus Rapid Transit — Peoria Avenue Stations
+venue_type: public-space
+location:
+  city: Tulsa
+  state: OK
+operator: Tulsa Transit / Metropolitan Tulsa Transit Authority
+sources:
+  - https://tulsaworld.com/news/local/government-and-politics/tulsa-s-bus-rapid-transit-service-along-peoria-avenue-begins/article_4894ffea-15c6-5904-9c86-bdf7569ff770.html

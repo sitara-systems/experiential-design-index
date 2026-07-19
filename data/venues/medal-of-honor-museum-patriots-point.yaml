@@ -1,0 +1,9 @@
+id: medal-of-honor-museum-patriots-point
+name: Medal of Honor Museum at Patriots Point
+venue_type: history-museum
+location:
+  city: Mount Pleasant
+  state: SC
+operator: Patriots Point Naval & Maritime Museum
+sources:
+  - https://www.patriotspoint.org

@@ -1,0 +1,9 @@
+id: durham-bulls-athletic-park
+name: Durham Bulls Athletic Park
+venue_type: sports-venue
+location:
+  city: Durham
+  state: NC
+operator: Durham Bulls (Tampa Bay Rays Triple-A affiliate)
+sources:
+  - https://www.milb.com/durham

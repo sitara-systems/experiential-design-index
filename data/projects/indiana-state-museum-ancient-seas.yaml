@@ -10,8 +10,7 @@ credits:
     role: media-design
     note: "no firm record yet; projection-mapped media, 3D animation, and AR interactives"
   - firm: bowen-technovation
-    role: fabrication
-    note: "no firm record yet"
+    role: av-integration
 technologies:
   - projection mapping
   - augmented reality

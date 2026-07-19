@@ -1,0 +1,29 @@
+id: larry-bird-museum-core
+name: Larry Bird Museum
+venue: larry-bird-museum
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: hilferty-and-associates
+    role: exhibit-design
+  - firm: boston-productions
+    role: media-design
+    note: "No firm record yet"
+  - firm: ravenswood-studio
+    role: fabrication
+  - firm: bowen-technovation
+    role: av-integration
+technologies:
+  - LED video wall
+  - interactive touchscreen
+summary: >
+  The Larry Bird Museum, celebrating the basketball legend's legacy
+  through artifacts and video interviews, opened May 30, 2024 in Terre
+  Haute, Indiana; exhibit design by Hilferty & Associates, media
+  production by Boston Productions, fabrication by Ravenswood Studio, AV
+  integration by Bowen Technovation.
+description: ""
+sources:
+  - https://www.nba.com/news/larry-bird-museum-officially-opens-in-terre-haute-indiana
+  - https://www.bowentechnovation.com/larry-bird-museum/
+  - https://bostonproductions.com/portfolio/larry-bird/

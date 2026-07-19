@@ -1,0 +1,41 @@
+id: medal-of-honor-museum-patriots-point-renovation
+name: Medal of Honor Museum at Patriots Point Renovation
+venue: medal-of-honor-museum-patriots-point
+project_type: major-renovation
+year_completed: 2024
+credits:
+  - firm: m-catton-and-co
+    role: exhibit-design
+  - firm: wide-awake-films
+    role: content-production
+    note: "No firm record yet"
+  - firm: nanonation
+    role: content-production
+    note: "No firm record yet"
+  - firm: interactive-knowledge
+    role: content-production
+    note: "No firm record yet"
+  - firm: sleet-custom-cabinets
+    role: fabrication
+    note: "No firm record yet"
+  - firm: bowen-technovation
+    role: av-integration
+    note: "Role inferred from Bowen's consistent AV-integration pattern on comparable projects"
+technologies:
+  - video wall
+  - interactive kiosk
+summary: >
+  The Medal of Honor Museum at Patriots Point, located aboard the USS
+  Yorktown in Mount Pleasant, South Carolina, reopened May 25, 2024
+  following a $3.5 million, 25,000 sq ft renovation; exhibit design by
+  M. Catton & Co., media production by Wide Awake Films, Nanonation, and
+  Interactive Knowledge, fabrication by Sleet Custom Cabinets, AV
+  integration by Bowen Technovation.
+description: >
+  Distinct from the separately recorded National Medal of Honor Museum
+  (Arlington, TX) and Charles H. Coolidge National Medal of Honor
+  Heritage Center (Chattanooga, TN).
+sources:
+  - https://www.patriotspoint.org/news/medal-honor-museum-patriots-point-set-re-open-new-visitor-experiences-after-35-million
+  - https://www.cmohs.org/news-events/press-releases/medal-of-honor-museum-at-patriots-point-set-to-re-open-after-renovation/
+  - https://www.bowentechnovation.com/projects/medal-of-honor-museum-patriots-point/

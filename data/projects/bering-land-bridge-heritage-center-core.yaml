@@ -1,0 +1,33 @@
+id: bering-land-bridge-heritage-center-core
+name: Bering Land Bridge Heritage Center
+venue: bering-land-bridge-heritage-center
+project_type: major-renovation
+year_completed: 2025
+credits:
+  - firm: tessellate
+    role: exhibit-design
+  - firm: farthest-north-films
+    role: content-production
+    note: "No firm record yet"
+  - firm: split-rock-studios
+    role: fabrication
+  - firm: bowen-technovation
+    role: av-integration
+    note: >
+      Credits for this project are sourced only from Bowen Technovation's
+      own portfolio page; NPS and independent press coverage do not name
+      design firms.
+technologies:
+  - interactive language displays
+summary: >
+  The Bering Land Bridge Heritage Center, a renovated National Park
+  Service visitor/heritage center for Bering Land Bridge National
+  Preserve, opened September 5-6, 2025 in Nome, Alaska, developed with
+  the Sitnasuak Native Corporation and a Tribal Workgroup; exhibit design
+  by Tessellate, media by Farthest North Films, fabrication by Split Rock
+  Studios, AV integration by Bowen Technovation.
+description: ""
+sources:
+  - https://www.nps.gov/bela/learn/news/grand-opening.htm
+  - https://knom.org/2025/09/10/ribbon-cutting-in-nome-marks-opening-of-bering-land-bridge-heritage-center/
+  - https://www.bowentechnovation.com/projects/bering-land-bridge-heritage-center/

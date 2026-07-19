@@ -1,0 +1,9 @@
+id: gillette-stadium
+name: Gillette Stadium
+venue_type: sports-venue
+location:
+  city: Foxborough
+  state: MA
+operator: New England Patriots / New England Revolution
+sources:
+  - https://www.patriots.com

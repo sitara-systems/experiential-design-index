@@ -1,0 +1,9 @@
+id: childrens-mercy-kansas-city
+name: Children's Mercy Kansas City
+venue_type: healthcare-institution
+location:
+  city: Kansas City
+  state: MO
+website: https://www.childrensmercy.org
+sources:
+  - https://www.childrensmercy.org

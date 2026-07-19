@@ -1,0 +1,8 @@
+id: larry-bird-museum
+name: Larry Bird Museum
+venue_type: sports-venue
+location:
+  city: Terre Haute
+  state: IN
+sources:
+  - https://www.nba.com/news/larry-bird-museum-officially-opens-in-terre-haute-indiana

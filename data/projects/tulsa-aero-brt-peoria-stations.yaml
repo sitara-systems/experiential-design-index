@@ -1,0 +1,26 @@
+id: tulsa-aero-brt-peoria-stations
+name: Peoria Avenue BRT Stations
+venue: tulsa-aero-bus-rapid-transit
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: dimensional-innovations
+    role: fabrication
+  - firm: hntb
+    role: architecture
+    note: "No firm record yet"
+  - firm: cyntergy
+    role: architecture
+    note: "No firm record yet"
+technologies:
+  - real-time arrival signage
+summary: >
+  Dimensional Innovations partnered with HNTB and Cyntergy to design,
+  engineer, and fabricate "Constrained" and "Standard" bus rapid transit
+  stations for Tulsa's AERO Bus Rapid Transit system along the Peoria
+  Avenue corridor, which opened November 17, 2019.
+description: ""
+sources:
+  - https://dimin.com/work/tulsa-transit
+  - https://tulsaworld.com/news/local/government-and-politics/tulsa-s-bus-rapid-transit-service-along-peoria-avenue-begins/article_4894ffea-15c6-5904-9c86-bdf7569ff770.html
+  - https://www.cyntergy.com/work/tulsas-aero-bus-rapid-transit/

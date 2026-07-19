@@ -10,6 +10,10 @@ credits:
   - firm: luci-creative
     role: exhibit-design
     note: "Co-designer with Monadnock Media on the immersive theater experience (\"Monadnock + Luci\"); role attribution beyond exhibit design not sourced"
+  - firm: bowen-technovation
+    role: av-integration
+  - firm: ravenswood-studio
+    role: fabrication
 technologies:
   - immersive theater
 summary: >

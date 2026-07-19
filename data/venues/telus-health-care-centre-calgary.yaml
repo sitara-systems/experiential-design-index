@@ -1,0 +1,10 @@
+id: telus-health-care-centre-calgary
+name: TELUS Health Care Centre — Calgary
+venue_type: healthcare-institution
+location:
+  city: Calgary
+  state: AB
+  country: CA
+operator: TELUS Health
+sources:
+  - https://www.telus.com/en/health/care-centres/locations/calgary

@@ -1,0 +1,9 @@
+id: national-museum-of-the-pacific-war
+name: National Museum of the Pacific War
+venue_type: history-museum
+location:
+  city: Fredericksburg
+  state: TX
+website: https://www.pacificwarmuseum.org
+sources:
+  - https://www.pacificwarmuseum.org

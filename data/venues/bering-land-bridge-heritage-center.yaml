@@ -1,0 +1,9 @@
+id: bering-land-bridge-heritage-center
+name: Bering Land Bridge Heritage Center
+venue_type: visitor-center
+location:
+  city: Nome
+  state: AK
+operator: National Park Service / Sitnasuak Native Corporation
+sources:
+  - https://www.nps.gov/bela/learn/news/grand-opening.htm
