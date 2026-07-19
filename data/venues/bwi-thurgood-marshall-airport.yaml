@@ -1,0 +1,9 @@
+id: bwi-thurgood-marshall-airport
+name: Baltimore/Washington International Thurgood Marshall Airport
+venue_type: other
+location:
+  city: Linthicum
+  state: MD
+operator: Maryland Aviation Administration
+sources:
+  - https://ashton-design.com/work/bwi-seasons-of-flight

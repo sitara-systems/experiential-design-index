@@ -12,6 +12,14 @@ credits:
     role: lighting-design
   - firm: solomon-group
     role: av-integration
+  - firm: available-light
+    role: lighting-design
+    note: >
+      Available Light's own portfolio also claims lighting design on this
+      project, alongside Solomon Group's existing lighting-design credit —
+      the first case in this dataset of two firms claiming the same role
+      on the same project with no scope-distinguishing source; both
+      credits kept pending clarification.
 technologies:
   - show control system
   - scenic environments

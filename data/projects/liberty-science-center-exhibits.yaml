@@ -1,0 +1,21 @@
+id: liberty-science-center-exhibits
+name: Liberty Science Center Exhibits
+venue: liberty-science-center
+project_type: major-renovation
+year_completed: 2007
+credits:
+  - firm: ewingcole
+    role: architecture
+  - firm: liberty-science-center
+    role: exhibit-design
+    note: "In-house exhibit design"
+  - firm: available-light
+    role: lighting-design
+summary: >
+  A 22-month, $109M expansion and renovation of Liberty Science Center in
+  Jersey City, NJ, to ~300,000 sq ft, reopened July 19, 2007, with
+  architecture by EwingCole, in-house exhibit design, and lighting by
+  Available Light.
+description: ""
+sources:
+  - https://www.availablelight.com/work/liberty-science-center-exhibits

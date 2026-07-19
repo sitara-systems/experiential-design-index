@@ -1,0 +1,24 @@
+id: lucile-packard-childrens-hospital-video-ribbon
+name: Animated Video Ribbon
+venue: lucile-packard-childrens-hospital
+project_type: installation
+year_completed: 2017
+credits:
+  - firm: kate-keating-associates
+    role: media-design
+    note: "No firm record yet"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      Custom camera-tracking/animation software plus AV hardware for a
+      motion-reactive video ribbon.
+summary: >
+  A motion-reactive animated video ribbon installation at Lucile Packard
+  Children's Hospital Stanford in Palo Alto, California, opened in 2017,
+  designed by Kate Keating Associates with tracking software and AV
+  integration by BBI Engineering.
+description: >
+  BBI's own page spells the hospital "Lucille" (two L's); the hospital's
+  official name uses "Lucile" — the correct spelling is used here.
+sources:
+  - https://bbinet.com/works/lucille-packard-childrens-hospital/

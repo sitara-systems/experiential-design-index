@@ -1,0 +1,9 @@
+id: jhu-mason-hall-visitor-center
+name: JHU Mason Hall Visitor Center
+venue_type: visitor-center
+location:
+  city: Baltimore
+  state: MD
+operator: Johns Hopkins University
+sources:
+  - https://ashton-design.com/work/jhu-mason-hall-visitors-center

@@ -1,0 +1,20 @@
+id: white-house-visitor-center-exhibits
+name: White House Visitor Center Exhibits
+venue: white-house-visitor-center
+project_type: major-renovation
+year_completed: 2014
+credits:
+  - firm: smithgroup
+    role: architecture
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: available-light
+    role: lighting-design
+summary: >
+  The White House Visitor Center reopened September 13, 2014 after a
+  $12.6M NPS renovation, with architecture by SmithGroup, exhibit design
+  by Gallagher & Associates, and lighting by Available Light.
+description: ""
+sources:
+  - https://www.availablelight.com/work/white-house-visitors-center-architecture
+  - https://www.npr.org/2014/09/13/347945287/revamped-visitor-center-gives-public-a-peek-into-the-white-house

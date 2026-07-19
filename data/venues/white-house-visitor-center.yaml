@@ -1,0 +1,10 @@
+id: white-house-visitor-center
+name: White House Visitor Center
+venue_type: visitor-center
+location:
+  city: Washington
+  state: DC
+operator: National Park Service
+sources:
+  - https://www.doi.gov/employees/news/nps-white-house-visitor-center-reopens-after-12-6-million-revitalization
+  - https://www.nps.gov/whho/planyourvisit/white-house-visitor-center.htm

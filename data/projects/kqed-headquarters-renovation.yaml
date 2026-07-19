@@ -1,0 +1,25 @@
+id: kqed-headquarters-renovation
+name: KQED Headquarters Renovation
+venue: kqed-headquarters
+project_type: major-renovation
+year_completed: 2021
+credits:
+  - firm: ehdd
+    role: architecture
+    note: "No firm record yet"
+  - firm: interstice-architects
+    role: architecture
+    note: "Public lobby/streetscape; no firm record yet"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      Conference-room AV, lobby LED wall, paging/signage, and AV for "The
+      Commons" live-events theatre.
+summary: >
+  KQED's San Francisco headquarters reopened in winter 2021 after a $91M
+  renovation designed by EHDD with Interstice Architects, including a new
+  public lobby and event theatre with AV systems by BBI Engineering.
+description: ""
+sources:
+  - https://bbinet.com/works/kqed/
+  - https://www.archpaper.com/2019/09/renovation-kqed-headquarters-san-francisco/

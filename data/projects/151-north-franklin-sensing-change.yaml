@@ -10,6 +10,9 @@ credits:
   - firm: av-c
     role: media-design
     note: "Software environment for weather-driven generative visuals"
+  - firm: uplight
+    role: lighting-design
+    note: "No firm record yet"
 technologies:
   - LED display
   - generative software

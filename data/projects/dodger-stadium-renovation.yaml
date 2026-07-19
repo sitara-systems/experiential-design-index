@@ -1,0 +1,16 @@
+id: dodger-stadium-renovation
+name: Dodger Stadium Renovation
+venue: dodger-stadium
+project_type: major-renovation
+year_completed: 2013
+credits:
+  - firm: ashton-design
+    role: graphics-wayfinding
+summary: >
+  Ashton Design's 2013 renovation of Dodger Stadium in Los Angeles
+  restored the ballpark's historic hexagonal-chevron visual identity
+  through comprehensive wayfinding, murals, and team-history displays,
+  in collaboration with Janet Marie Smith.
+description: ""
+sources:
+  - https://ashton-design.com/work/dodger-stadium

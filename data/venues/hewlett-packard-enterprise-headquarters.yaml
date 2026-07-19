@@ -1,0 +1,8 @@
+id: hewlett-packard-enterprise-headquarters
+name: Hewlett Packard Enterprise Headquarters
+venue_type: briefing-center
+location:
+  city: Palo Alto
+  state: CA
+sources:
+  - https://bbinet.com/works/hewlett-packard-enterprise/

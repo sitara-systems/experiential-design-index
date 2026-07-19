@@ -14,6 +14,9 @@ credits:
   - firm: cooper-robertson
     role: architecture
     note: "No firm record yet"
+  - firm: available-light
+    role: lighting-design
+    note: "Multi-media cyclorama show lighting"
 technologies:
   - interactive touch-screen maps
   - motion graphics

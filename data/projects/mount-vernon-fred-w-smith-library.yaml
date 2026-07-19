@@ -6,6 +6,12 @@ year_completed: 2013
 credits:
   - firm: ayers-saint-gross
     role: architecture
+  - firm: ayers-saint-gross
+    role: landscape-architecture
+    note: >
+      Per the firm's own project page (Services: Architecture, Graphic
+      Design, Landscape Architecture) — tree preservation, stormwater
+      management, sediment control.
 technologies: []
 summary: >
   The Fred W. Smith National Library for the Study of George Washington, a

@@ -1,0 +1,25 @@
+id: exploratorium-kanbar-forum
+name: Kanbar Forum
+venue: exploratorium
+project_type: installation
+year_completed: 2014
+credits:
+  - firm: ehdd
+    role: architecture
+    note: "Pier 15 building; no firm record yet"
+  - firm: the-shalleck-collaborative
+    role: technical-consulting
+    note: "No firm record yet"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      200-seat lecture/demo space AV incl. 75-speaker Meyer Constellation
+      acoustic system.
+summary: >
+  The Kanbar Forum, a 200-seat lecture and demonstration space within the
+  Exploratorium's Pier 15 building, opened as part of the museum's 2013
+  waterfront relocation (BBI dates its Forum-specific scope to 2014),
+  designed by EHDD with AV integration by BBI Engineering.
+description: ""
+sources:
+  - https://bbinet.com/works/exploratorium-kanbar-forum/

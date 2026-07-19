@@ -1,0 +1,24 @@
+id: hpe-executive-briefing-center-video-wall
+name: Executive Briefing Center Video Wall
+venue: hewlett-packard-enterprise-headquarters
+project_type: installation
+year_completed: 2015
+credits:
+  - firm: gensler
+    role: architecture
+  - firm: i4d
+    role: technical-consulting
+    note: "No firm record yet"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      38-monitor lobby video wall + web CMS; 2017 phase added EBC
+      auditorium video wall, badging system, and touchscreen kiosks.
+summary: >
+  The Executive Briefing Center at Hewlett Packard Enterprise's Palo
+  Alto, California headquarters received a 38-monitor lobby video wall in
+  2015, expanded in 2017, with architecture by Gensler and AV integration
+  by BBI Engineering.
+description: ""
+sources:
+  - https://bbinet.com/works/hewlett-packard-enterprise/

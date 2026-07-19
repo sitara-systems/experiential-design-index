@@ -1,0 +1,11 @@
+id: exploratorium
+name: Exploratorium
+venue_type: science-center
+location:
+  city: San Francisco
+  state: CA
+operator: Exploratorium
+website: https://www.exploratorium.edu
+sources:
+  - https://bbinet.com/works/exploratorium-kanbar-forum/
+  - https://ehdd.com/project/the-exploratorium-at-pier-15/

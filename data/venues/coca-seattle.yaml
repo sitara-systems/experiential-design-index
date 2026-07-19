@@ -1,0 +1,8 @@
+id: coca-seattle
+name: Center on Contemporary Art (COCA)
+venue_type: cultural-center
+location:
+  city: Seattle
+  state: WA
+sources:
+  - https://bwco.info/work/afterwords/

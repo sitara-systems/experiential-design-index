@@ -1,0 +1,30 @@
+id: sfjazz-center-av-systems
+name: SFJAZZ Center (Miner Auditorium & Building AV Systems)
+venue: sfjazz-center
+project_type: new-building
+year_completed: 2013
+credits:
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      Full building AV incl. Miner Auditorium performance/recording
+      systems, deployable projection screen, Joe Henderson Lab,
+      backstage/admin paging.
+  - firm: mark-cavagnero-associates
+    role: architecture
+    note: "No firm record yet"
+  - firm: auerbach-pollock-friedlander
+    role: technical-consulting
+    note: "Theatrical consultant; no firm record yet"
+  - firm: sia-acoustics
+    role: acoustics
+    note: "Sam Berkow; no firm record yet"
+summary: >
+  SFJAZZ Center, the first free-standing US building purpose-built for
+  jazz performance and education, opened in San Francisco's Hayes Valley
+  in January 2013, designed by Mark Cavagnero Associates with AV systems
+  integration by BBI Engineering.
+description: ""
+sources:
+  - https://bbinet.com/works/sf-jazz-center/
+  - https://en.wikipedia.org/wiki/SFJAZZ_Center

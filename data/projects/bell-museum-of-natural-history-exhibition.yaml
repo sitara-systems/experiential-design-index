@@ -15,6 +15,8 @@ credits:
   - firm: archetype
     role: fabrication
     note: Signage fabrication; no firm record yet
+  - firm: available-light
+    role: lighting-design
 technologies:
   - interactive dioramas
 summary: >

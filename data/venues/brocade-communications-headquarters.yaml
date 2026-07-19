@@ -1,0 +1,8 @@
+id: brocade-communications-headquarters
+name: Brocade Communications Systems Headquarters
+venue_type: briefing-center
+location:
+  city: San Jose
+  state: CA
+sources:
+  - https://bbinet.com/works/brocade-communication-systems/

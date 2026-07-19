@@ -30,6 +30,11 @@ credits:
   - firm: eos-lightmedia
     role: av-integration
     note: "Hardware procurement, commissioning, and system integration."
+  - firm: available-light
+    role: lighting-design
+    note: >
+      Two-tier design/integration split with Eos Lightmedia's own
+      lighting-integration credit, per Available Light's own project page.
 technologies:
   - interactive kiosks
 summary: >

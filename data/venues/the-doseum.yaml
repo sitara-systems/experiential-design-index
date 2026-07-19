@@ -1,0 +1,8 @@
+id: the-doseum
+name: "The DoSeum: San Antonio's Museum for Kids"
+venue_type: childrens-museum
+location:
+  city: San Antonio
+  state: TX
+sources:
+  - https://sanantonioreport.org/doseum-celebrates-10-years-san-antonio-expansion/

@@ -1,0 +1,9 @@
+id: joseph-meyerhoff-symphony-hall
+name: Joseph Meyerhoff Symphony Hall
+venue_type: cultural-center
+location:
+  city: Baltimore
+  state: MD
+operator: Baltimore Symphony Orchestra
+sources:
+  - https://ashton-design.com/work/bso

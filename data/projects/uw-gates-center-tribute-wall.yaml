@@ -1,0 +1,29 @@
+id: uw-gates-center-tribute-wall
+name: The Tribute Wall
+venue: uw-gates-center
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: belle-and-wissell
+    role: media-design
+    note: >
+      Design and media experience development; touch-sensor-driven
+      generative visuals revealing 100+ curated PNW computing-history
+      stories.
+  - firm: lmn-architects
+    role: architecture
+  - firm: nathan-thomas-stantec
+    role: technical-consulting
+    note: "AV systems design; no firm record yet"
+  - firm: whitlock
+    role: av-integration
+    note: "No firm record yet"
+summary: >
+  The Tribute Wall, an interactive media installation at the University
+  of Washington's Bill & Melinda Gates Center for Computer Science &
+  Engineering in Seattle, opened in 2019, designed by Belle & Wissell
+  with architecture by LMN Architects.
+description: ""
+sources:
+  - https://bwco.info/work/tribute-wall/
+  - https://bwco.info/2019/04/03/bill-gates/

@@ -1,0 +1,10 @@
+id: woodland-park-zoo
+name: Woodland Park Zoo
+venue_type: aquarium-zoo
+location:
+  city: Seattle
+  state: WA
+website: https://www.zoo.org
+sources:
+  - https://bwco.info/work/conservation-field-house/
+  - https://blog.zoo.org/2015/04/building-banyan-wilds.html

@@ -10,6 +10,13 @@ credits:
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
+  - firm: available-light
+    role: lighting-design
+    note: >
+      FLAGGED: Available Light's own project page credits itself only as
+      "Photographer," not "Lighting Design" — the only AL page that
+      breaks this pattern. Included per strong pattern-inference from
+      every other AL project page; recommend a direct re-check.
 technologies: []
 summary: >
   The National Museum of the United States Army, a new building at Fort

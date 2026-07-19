@@ -1,0 +1,21 @@
+id: the-doseum-exhibits
+name: The DoSeum Exhibits
+venue: the-doseum
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: argyle-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: kubik-maltbie
+    role: fabrication
+  - firm: available-light
+    role: lighting-design
+summary: >
+  The DoSeum, a new $47M children's museum in San Antonio, TX, opened
+  June 6, 2015, with exhibit design by Argyle Design, fabrication by
+  Kubik Maltbie, and lighting by Available Light.
+description: ""
+sources:
+  - https://www.availablelight.com/work/doseum-san-antonios-museum-kids-exhibit
+  - https://kubikmaltbie.com/project/the+doseum/

@@ -1,0 +1,21 @@
+id: art-institute-of-chicago-journeymaker
+name: "JourneyMaker: Personalized Art Museum Adventure"
+venue: art-institute-of-chicago
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: belle-and-wissell
+    role: media-design
+  - firm: belle-and-wissell
+    role: exhibit-design
+    note: "Touch-table interactive, environmental graphics, companion web app, furniture design"
+  - firm: leviathan
+    role: content-production
+    note: "Documentation videography/motion design; no firm record yet"
+summary: >
+  JourneyMaker, a personalized touch-table and web tour-builder in the
+  Ryan Learning Center at the Art Institute of Chicago, opened in 2016,
+  designed by Belle & Wissell.
+description: ""
+sources:
+  - https://bwco.info/work/journeymaker/

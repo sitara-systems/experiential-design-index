@@ -1,0 +1,10 @@
+id: madhouse-team-store
+name: Madhouse Team Store
+venue_type: retail-flagship
+location:
+  city: Chicago
+  state: IL
+operator: United Center Joint Venture (Chicago Bulls / Chicago Blackhawks)
+sources:
+  - https://www.nhl.com/blackhawks/news/united-center-joint-venture-debuts-madhouse-team-store-290009650
+  - https://www.unitedcenter.com/madhouse-team-store/

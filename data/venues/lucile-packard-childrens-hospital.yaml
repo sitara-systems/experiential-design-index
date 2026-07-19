@@ -1,0 +1,8 @@
+id: lucile-packard-childrens-hospital
+name: Lucile Packard Children's Hospital Stanford
+venue_type: healthcare-institution
+location:
+  city: Palo Alto
+  state: CA
+sources:
+  - https://bbinet.com/works/lucille-packard-childrens-hospital/

@@ -1,0 +1,10 @@
+id: odysea-aquarium
+name: OdySea Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Scottsdale
+  state: AZ
+website: https://www.odyseaaquarium.com
+sources:
+  - https://www.odyseaaquarium.com/
+  - https://avispl.com/resources/case-studies/odysea-aquarium-case-study/

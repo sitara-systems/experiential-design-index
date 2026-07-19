@@ -1,0 +1,9 @@
+id: microsoft-envisioning-center
+name: Microsoft Envisioning Center
+venue_type: briefing-center
+location:
+  city: Redmond
+  state: WA
+operator: Microsoft
+sources:
+  - https://bwco.info/work/interactivestoryworld/

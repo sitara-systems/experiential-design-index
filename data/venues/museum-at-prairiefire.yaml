@@ -1,0 +1,8 @@
+id: museum-at-prairiefire
+name: Museum at Prairiefire
+venue_type: natural-history-museum
+location:
+  city: Overland Park
+  state: KS
+sources:
+  - https://en.wikipedia.org/wiki/Museum_at_Prairiefire

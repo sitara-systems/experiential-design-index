@@ -1,0 +1,21 @@
+id: american-conservatory-theatre-geary-restoration
+name: Geary Theater Restoration
+venue: american-conservatory-theatre
+project_type: major-renovation
+year_completed: 1996
+credits:
+  - firm: theatre-projects-consulting
+    role: technical-consulting
+    note: "No firm record yet"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      Sound/comms/stage-manager control system as part of
+      post-Loma-Prieta-earthquake restoration.
+summary: >
+  The Geary Theater, home of the American Conservatory Theater in San
+  Francisco, reopened in 1996 after an earthquake-damage restoration,
+  with AV/sound systems by BBI Engineering.
+description: ""
+sources:
+  - https://bbinet.com/works/american-conservatory-theatre/

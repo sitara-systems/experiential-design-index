@@ -1,0 +1,9 @@
+id: franklin-park-dc
+name: Franklin Park
+venue_type: public-space
+location:
+  city: Washington
+  state: DC
+operator: DC Department of General Services / National Park Service
+sources:
+  - https://ashton-design.com/work/franklin-park

@@ -21,6 +21,11 @@ credits:
   - firm: sh-acoustics
     role: acoustics
     note: "Acoustic design services to create superior sound quality and control in both the theaters and permanent exhibit spaces."
+  - firm: available-light
+    role: lighting-design
+    note: >
+      Lower confidence — Available Light's own project page 404s on the
+      rebuilt site; sourced via a secondary trade-press piece only.
 technologies:
   - touchscreen interactives
   - projection

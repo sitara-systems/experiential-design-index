@@ -1,0 +1,9 @@
+id: dodger-stadium
+name: Dodger Stadium
+venue_type: sports-venue
+location:
+  city: Los Angeles
+  state: CA
+operator: Los Angeles Dodgers
+sources:
+  - https://ashton-design.com/work/dodger-stadium

@@ -6,10 +6,29 @@ year_completed: 2018
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+  - firm: belle-and-wissell
+    role: media-design
+    note: >
+      Generative visual engine design and engineering for the performance
+      space, plus the Octave 9 Multiplex streetscape signage system.
+      bwco.info dates its own scope to 2019, vs. this record's 2018
+      (Studio Matthews) — likely two build phases, not resolved.
+  - firm: lmn-architects
+    role: architecture
+  - firm: diversified
+    role: av-integration
+  - firm: schuler-shook
+    role: lighting-design
+  - firm: jaffe-holden
+    role: acoustics
+    note: "No firm record yet"
 summary: >
   Studio Matthews designed signage and identity elements for Octave 9, an
   experimental performance space at Benaroya Hall, home of the Seattle
-  Symphony.
+  Symphony; Belle & Wissell designed the generative visual engine, with
+  architecture by LMN Architects, AV integration by Diversified, and
+  lighting design by Schuler Shook.
 description: ""
 sources:
   - https://studiomatthews.com/project/octave-9/
+  - https://bwco.info/work/octave9/

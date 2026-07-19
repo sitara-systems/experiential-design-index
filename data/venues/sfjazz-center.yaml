@@ -1,0 +1,11 @@
+id: sfjazz-center
+name: SFJAZZ Center
+venue_type: cultural-center
+location:
+  city: San Francisco
+  state: CA
+operator: SFJAZZ
+website: https://www.sfjazz.org
+sources:
+  - https://bbinet.com/works/sf-jazz-center/
+  - https://en.wikipedia.org/wiki/SFJAZZ_Center

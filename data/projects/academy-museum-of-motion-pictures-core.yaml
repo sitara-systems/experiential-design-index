@@ -10,6 +10,8 @@ credits:
   - firm: electrosonic
     role: av-integration
     note: Primary AV integrator across four exhibition floors, 75+ installations
+  - firm: available-light
+    role: lighting-design
 technologies:
   - projection mapping
   - LED walls

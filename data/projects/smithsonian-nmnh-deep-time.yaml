@@ -19,6 +19,8 @@ credits:
   - firm: rlmg
     role: media-design
     note: "AV and multimedia software design; 22 media pieces including the Evolution Through Deep Time interactive"
+  - firm: available-light
+    role: lighting-design
 technologies:
   - interactive touchtables
   - projection

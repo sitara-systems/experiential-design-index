@@ -1,0 +1,9 @@
+id: oriole-park-at-camden-yards
+name: Oriole Park at Camden Yards
+venue_type: sports-venue
+location:
+  city: Baltimore
+  state: MD
+operator: Baltimore Orioles
+sources:
+  - https://segd.org/projects/content-camden-yards/

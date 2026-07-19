@@ -1,0 +1,28 @@
+id: mondavi-center-av-systems
+name: Mondavi Center for the Performing Arts AV Systems
+venue: mondavi-center-for-the-performing-arts
+project_type: new-building
+year_completed: 2002
+credits:
+  - firm: boora-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: auerbach-pollock-friedlander
+    role: technical-consulting
+    note: "No firm record yet"
+  - firm: mckay-conant-hoover
+    role: acoustics
+    note: "No firm record yet"
+  - firm: bbi-engineering
+    role: av-integration
+summary: >
+  The Robert and Margrit Mondavi Center for the Performing Arts, UC
+  Davis's main performing-arts complex, opened October 3, 2002, designed
+  by Boora Architects with AV systems by BBI Engineering.
+description: >
+  BBI's own page states 2003; Wikipedia, UC Davis's own announcement, and
+  Boora's own project page all independently agree the building opened
+  October 3, 2002 — used here as the better-corroborated date.
+sources:
+  - https://bbinet.com/works/the-robert-and-margrit-mondavi-center-for-the-performing-arts/
+  - https://en.wikipedia.org/wiki/Mondavi_Center

@@ -1,0 +1,11 @@
+id: arte-museum-las-vegas
+name: ARTE MUSEUM Las Vegas
+venue_type: themed-attraction
+location:
+  city: Las Vegas
+  state: NV
+operator: d'strict
+website: https://lasvegas.artemuseum.com
+sources:
+  - https://lasvegas.artemuseum.com/
+  - https://lasvegasmagazine.com/entertainment/2025/feb/17/arte-museum-las-vegas-63-citycenter-attractions/

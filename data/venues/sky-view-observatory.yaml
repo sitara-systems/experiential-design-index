@@ -1,0 +1,10 @@
+id: sky-view-observatory
+name: Sky View Observatory
+venue_type: themed-attraction
+location:
+  city: Seattle
+  state: WA
+operator: Columbia Center
+sources:
+  - https://skyviewobservatory.com/
+  - https://seattlemag.com/news-and-features/renovated-sky-view-observatory-seattle-takes-experience-new-heights

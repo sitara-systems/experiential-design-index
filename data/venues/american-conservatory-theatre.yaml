@@ -1,0 +1,9 @@
+id: american-conservatory-theatre
+name: American Conservatory Theater (Geary Theater)
+venue_type: cultural-center
+location:
+  city: San Francisco
+  state: CA
+operator: American Conservatory Theater
+sources:
+  - https://bbinet.com/works/american-conservatory-theatre/

@@ -1,0 +1,9 @@
+id: museum-of-flight
+name: Museum of Flight
+venue_type: history-museum
+location:
+  city: Seattle
+  state: WA
+website: https://www.museumofflight.org
+sources:
+  - https://bwco.info/work/mission-database-and-vr-space-tour/

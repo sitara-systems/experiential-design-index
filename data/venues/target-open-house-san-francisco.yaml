@@ -1,0 +1,9 @@
+id: target-open-house-san-francisco
+name: Target Open House
+venue_type: retail-flagship
+location:
+  city: San Francisco
+  state: CA
+operator: Target Corporation
+sources:
+  - https://bbinet.com/works/target-open-house/

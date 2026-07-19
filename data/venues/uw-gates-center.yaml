@@ -1,0 +1,10 @@
+id: uw-gates-center
+name: Bill & Melinda Gates Center for Computer Science & Engineering
+venue_type: academic-institution
+location:
+  city: Seattle
+  state: WA
+operator: University of Washington, Paul G. Allen School of Computer Science & Engineering
+sources:
+  - https://bwco.info/work/tribute-wall/
+  - https://bwco.info/2019/04/03/bill-gates/

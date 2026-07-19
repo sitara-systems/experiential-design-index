@@ -1,0 +1,11 @@
+id: kqed-headquarters
+name: KQED Headquarters
+venue_type: cultural-center
+location:
+  city: San Francisco
+  state: CA
+operator: KQED Inc.
+website: https://www.kqed.org
+sources:
+  - https://bbinet.com/works/kqed/
+  - https://www.archpaper.com/2019/09/renovation-kqed-headquarters-san-francisco/

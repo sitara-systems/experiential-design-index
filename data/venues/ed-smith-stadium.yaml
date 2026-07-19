@@ -1,0 +1,9 @@
+id: ed-smith-stadium
+name: Ed Smith Stadium
+venue_type: sports-venue
+location:
+  city: Sarasota
+  state: FL
+operator: Baltimore Orioles
+sources:
+  - https://ashton-design.com/work/ed-smith-stadium

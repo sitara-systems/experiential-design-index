@@ -1,0 +1,9 @@
+id: t-mobile-tech-experience-bellevue
+name: "T-Mobile 5G & Me Tech Experience"
+venue_type: brand-experience-center
+location:
+  city: Bellevue
+  state: WA
+operator: T-Mobile
+sources:
+  - https://bwco.info/work/t-mobile-memory-wall/

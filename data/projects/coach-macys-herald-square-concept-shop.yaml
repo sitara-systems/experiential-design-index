@@ -10,6 +10,12 @@ credits:
   - firm: oma
     role: architecture
     note: "no firm record yet"
+  - firm: slanted-studios
+    role: content-production
+    note: >
+      "Slanted Studios produced some of our favorite content for the piece"
+      per AV&C's own project page; exact scope of contribution unspecified.
+      No firm record yet.
 technologies:
   - interactive display surfaces
 summary: >

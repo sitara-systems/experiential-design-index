@@ -1,0 +1,21 @@
+id: target-open-house-san-francisco-installation
+name: Target Open House
+venue: target-open-house-san-francisco
+project_type: installation
+year_completed: 2015
+credits:
+  - firm: local-projects
+    role: exhibit-design
+    note: "Exhibit design and media production"
+  - firm: bbi-engineering
+    role: av-integration
+    note: >
+      30-ft 12-projector screen and 12 interactive tables for a 7/8-scale
+      acrylic Victorian-house IoT showcase.
+summary: >
+  Target Open House, Target's showcase retail concept store for
+  internet-of-things products in San Francisco, opened in 2015, designed
+  by Local Projects with AV integration by BBI Engineering.
+description: ""
+sources:
+  - https://bbinet.com/works/target-open-house/

@@ -1,0 +1,8 @@
+id: liberty-science-center
+name: Liberty Science Center
+venue_type: science-center
+location:
+  city: Jersey City
+  state: NJ
+sources:
+  - https://en.wikipedia.org/wiki/Liberty_Science_Center

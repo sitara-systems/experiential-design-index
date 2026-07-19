@@ -1,0 +1,28 @@
+id: microsoft-envisioning-center-interactive-storyworld
+name: "Microsoft Envisioning Center: Interactive Storyworld"
+venue: microsoft-envisioning-center
+project_type: installation
+year_completed: 2013
+credits:
+  - firm: belle-and-wissell
+    role: media-design
+  - firm: belle-and-wissell
+    role: content-production
+  - firm: olson-kundig
+    role: architecture
+  - firm: nbbj
+    role: exhibit-design
+    note: "Interior design"
+  - firm: general-assembly
+    role: media-design
+    note: "Product design; no firm record yet"
+summary: >
+  Interactive Storyworld, an AR-and-projection interactive storytelling
+  installation exploring future family interaction, opened at Microsoft's
+  invite-only Envisioning Center on its Redmond, WA campus in 2013,
+  designed by Belle & Wissell.
+description: >
+  Access is invite/escort-only, consistent with the corpus's established
+  Toyota/Microsoft-briefing-center precedent for staying in scope.
+sources:
+  - https://bwco.info/work/interactivestoryworld/

@@ -1,0 +1,8 @@
+id: bob-hope-uso-lax
+name: Bob Hope USO (LAX)
+venue_type: visitor-center
+location:
+  city: Los Angeles
+  state: CA
+sources:
+  - https://bwco.info/work/bob_hope_uso/

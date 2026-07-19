@@ -8,6 +8,14 @@ credits:
     role: exhibit-design
   - firm: gallagher-and-associates
     role: content-production
+  - firm: available-light
+    role: lighting-design
+  - firm: dale-partners
+    role: architecture
+    note: "No firm record yet"
+  - firm: mode-systems
+    role: av-integration
+    note: "No firm record yet"
 technologies:
   - interactive media
 summary: >

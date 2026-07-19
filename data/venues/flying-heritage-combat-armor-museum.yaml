@@ -1,0 +1,8 @@
+id: flying-heritage-combat-armor-museum
+name: Flying Heritage & Combat Armor Museum
+venue_type: history-museum
+location:
+  city: Everett
+  state: WA
+sources:
+  - https://bwco.info/work/whywar/

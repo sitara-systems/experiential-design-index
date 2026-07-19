@@ -1,0 +1,23 @@
+id: museum-of-science-and-industry-chicago-u-505
+name: U-505 Submarine Exhibit
+venue: museum-of-science-and-industry-chicago
+project_type: new-exhibition
+year_completed: 2005
+credits:
+  - firm: christopher-chadbourne-and-associates
+    role: exhibit-design
+  - firm: available-light
+    role: lighting-design
+summary: >
+  The U-505 Submarine exhibit, a new 27,000 sq ft underground pavilion
+  built to house the restored WWII German submarine at the Museum of
+  Science and Industry, Chicago, reopened June 5, 2005, exhibit design by
+  Christopher Chadbourne & Associates and lighting by Available Light.
+description: >
+  This museum was renamed the Griffin Museum of Science and Industry in
+  late 2024; a separate venue record (griffin-museum-of-science-and-
+  industry) also exists in this dataset for the same institution and
+  should eventually be merged into one canonical id.
+sources:
+  - https://www.availablelight.com/work/u-505
+  - https://www.msichicago.org/explore/whats-here/exhibits/u-505-submarine/exhibit/restoration-relocation/relocating-the-u-505

@@ -1,0 +1,10 @@
+id: mariners-museum
+name: The Mariners' Museum and Park
+venue_type: history-museum
+location:
+  city: Newport News
+  state: VA
+website: https://www.marinersmuseum.org
+sources:
+  - https://www.marinersmuseum.org/
+  - https://en.wikipedia.org/wiki/Mariners'_Museum_and_Park

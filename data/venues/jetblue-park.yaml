@@ -1,0 +1,9 @@
+id: jetblue-park
+name: jetBlue Park
+venue_type: sports-venue
+location:
+  city: Fort Myers
+  state: FL
+operator: Boston Red Sox
+sources:
+  - https://ashton-design.com/work/jetblue-park

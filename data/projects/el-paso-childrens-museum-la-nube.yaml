@@ -9,9 +9,15 @@ credits:
   - firm: exigo-architecture
     role: architecture
     note: "Local associate architect; no firm record yet"
-  - firm: gyroscope
+  - firm: gyroscope-inc
     role: exhibit-design
     note: "No firm record yet"
+  - firm: available-light
+    role: lighting-design
+    note: >
+      Reconciles Available Light's own "La Nube STEAM Discovery Center"
+      listing with this record — same 2024 building, not a separate
+      project.
 technologies: []
 summary: >
   La Nube, a light-filled STEAM discovery center for the El Paso Children's

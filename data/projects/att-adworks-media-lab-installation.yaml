@@ -8,6 +8,13 @@ credits:
     role: media-design
   - firm: av-c
     role: av-integration
+  - firm: esi-design
+    role: media-design
+    note: >
+      Experience design lead; AV&C joined ESI in designing the systems and
+      interactive software, then integrated the technology during
+      implementation alongside additional collaborators The Mill and MC2
+      (no firm records yet).
 technologies:
   - cross-screen media demo systems
   - addressable-TV targeting demo
