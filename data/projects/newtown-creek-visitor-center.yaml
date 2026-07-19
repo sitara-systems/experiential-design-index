@@ -1,0 +1,32 @@
+id: newtown-creek-visitor-center
+name: Visitor Center and Nature Walk
+venue: newtown-creek-wastewater-treatment-plant
+project_type: new-building
+year_completed: 2010
+credits:
+  - firm: ennead-architects
+    role: architecture
+    note: "Lead architect and master planner for the plant renovation"
+  - firm: l-observatoire-international
+    role: lighting-design
+    note: "Blue lighting of the digester eggs, white walkway lighting"
+technologies:
+  - illuminated digester eggs
+summary: >
+  Ennead served as lead architect and master planner for NYC DEP's
+  renovation of the Newtown Creek Wastewater Treatment Plant in
+  Brooklyn, transforming utilitarian infrastructure into a civic
+  landmark; the Visitor Center opened 2010, with hands-on interpretive
+  exhibits on the city's water cycle and lighting design by
+  L'Observatoire International for the plant's iconic blue-lit digester
+  eggs.
+description: >
+  As part of NYC's Percent for Art program, the project also
+  incorporated a water sculpture by artist Vito Acconci inside the
+  Visitor Center and a separate sculptural Nature Walk by artist George
+  Trakas (opened 2007) — individual artist commissions, not firm
+  credits under this index's schema.
+sources:
+  - https://ennead.com/work/newtown/
+  - https://en.wikipedia.org/wiki/Newtown_Creek_Wastewater_Treatment_Plant
+  - https://www.designboom.com/architecture/ennead-architects-vito-acconci-george-trakas-newtown-creek/

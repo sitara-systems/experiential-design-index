@@ -1,0 +1,25 @@
+id: brookfield-place-luminaries
+name: Luminaries at Brookfield Place
+venue: brookfield-place-manhattan
+project_type: installation
+year_completed: 2015
+credits:
+  - firm: rockwell-group
+    role: exhibit-design
+  - firm: kubik-maltbie
+    role: fabrication
+  - firm: eos-lightmedia
+    role: lighting-design
+  - firm: eos-lightmedia
+    role: media-design
+    note: "Interactive software"
+technologies:
+  - interactive lighting
+summary: >
+  "Luminaries," an interactive light installation at Brookfield Place
+  in New York, opened 2015; exhibit design by Rockwell Group,
+  fabrication by Kubik Maltbie, lighting and interactive media by Eos
+  Lightmedia.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/9

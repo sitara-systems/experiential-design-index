@@ -1,0 +1,8 @@
+id: soulcycle-hudson-yards
+name: SoulCycle Hudson Yards
+venue_type: retail-flagship
+location:
+  city: New York
+  state: NY
+sources:
+  - https://www.eoslightmedia.com/work/46

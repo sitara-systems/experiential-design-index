@@ -1,0 +1,22 @@
+id: delacorte-theater-revitalization
+name: Delacorte Theater Revitalization
+venue: delacorte-theater
+project_type: major-renovation
+year_completed: 2025
+credits:
+  - firm: ennead-architects
+    role: architecture
+  - firm: fisher-dachs-associates
+    role: technical-consulting
+    note: "Theater consultant; no firm record yet"
+technologies: []
+summary: >
+  An $85M revitalization of The Public Theater's open-air
+  Shakespeare-in-the-Park venue in Central Park, New York, its first
+  major upgrade since 1999, reopened in 2025; architecture by Ennead,
+  featuring a new wood-slat facade and accessibility overhaul.
+description: ""
+sources:
+  - https://www.archpaper.com/2025/11/ennead-architects-delacorte-theater/
+  - https://www.fisherdachs.com/portfolio/delacorte-theater/
+  - https://ennead.com/work/the-public-theater-delacorte/

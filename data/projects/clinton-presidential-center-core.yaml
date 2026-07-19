@@ -1,0 +1,46 @@
+id: clinton-presidential-center-core
+name: William J. Clinton Presidential Center
+venue: william-j-clinton-presidential-center
+project_type: new-building
+year_completed: 2004
+credits:
+  - firm: ennead-architects
+    role: architecture
+    note: "As Polshek Partnership, LLP; design architect"
+  - firm: hargreaves-associates
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+    note: "16 policy-based multimedia alcoves, Oval Office/Cabinet Room replicas"
+  - firm: donna-lawrence-productions
+    role: content-production
+  - firm: cortina-productions
+    role: content-production
+  - firm: technical-artistry
+    role: lighting-design
+    note: "Case lighting"
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Credited as \"Maltbie Associates,\" the firm's pre-merger name; 80+ custom showcases, engineering, exhibit fabrication, installation"
+  - firm: art-guild-inc
+    role: fabrication
+    note: "Reconstruction"
+  - firm: cerami-and-associates
+    role: acoustics
+    note: "No firm record yet"
+technologies:
+  - interactive timeline
+  - multimedia alcoves
+summary: >
+  Ennead (as Polshek Partnership) designed the William J. Clinton
+  Presidential Center in Little Rock, Arkansas, a cantilevered
+  glass-and-metal presidential library and museum along the Arkansas
+  River, completed 2004. Ralph Appelbaum Associates designed the
+  media-rich permanent exhibition.
+description: ""
+sources:
+  - https://ennead.com/work/clinton/
+  - https://raai.com/project/william-j-clinton-presidential-library-and-museum/
+  - https://kubikmaltbie.com/project/william-j-clinton-presidential-center/
+  - https://en.wikipedia.org/wiki/Clinton_Presidential_Center

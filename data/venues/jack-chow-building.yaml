@@ -1,0 +1,9 @@
+id: jack-chow-building
+name: Jack Chow Building
+venue_type: other
+location:
+  city: Vancouver
+  state: BC
+  country: CA
+sources:
+  - https://www.eoslightmedia.com/work/28

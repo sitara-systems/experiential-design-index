@@ -1,0 +1,22 @@
+id: soulcycle-las-vegas-core
+name: SoulCycle Las Vegas
+venue: soulcycle-las-vegas
+project_type: new-exhibition
+year_completed: 2018
+credits:
+  - firm: callisonrtkl
+    role: architecture
+    note: "No firm record yet"
+  - firm: eos-lightmedia
+    role: lighting-design
+  - firm: eos-lightmedia
+    role: av-integration
+  - firm: eos-lightmedia
+    role: media-design
+technologies: []
+summary: >
+  SoulCycle's Las Vegas studio at Wynn Plaza, designed by CallisonRTKL
+  with lighting/AV/media by Eos Lightmedia, opened 2018.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/47

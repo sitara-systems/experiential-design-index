@@ -1,0 +1,9 @@
+id: steelhouse-omaha
+name: Steelhouse Omaha
+venue_type: cultural-center
+location:
+  city: Omaha
+  state: NE
+operator: Omaha Performing Arts
+sources:
+  - https://en.wikipedia.org/wiki/Steelhouse_Omaha

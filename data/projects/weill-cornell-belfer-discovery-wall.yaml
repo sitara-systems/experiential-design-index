@@ -1,0 +1,23 @@
+id: weill-cornell-belfer-discovery-wall
+name: Discovery Wall
+venue: weill-cornell-belfer-research-building
+project_type: installation
+year_completed: 2014
+credits:
+  - firm: ennead-architects
+    role: architecture
+  - firm: squint-opera
+    role: media-design
+    note: "2,800-screen public digital art wall at street level; no firm record yet"
+technologies:
+  - LED display wall
+summary: >
+  The Discovery Wall, a 2,800-screen public digital art installation
+  visible to passersby at street level, opened 2014 at Weill Cornell
+  Medicine's Belfer Research Building in New York; building architecture
+  by Ennead, media design by Squint/Opera.
+description: ""
+sources:
+  - https://www.squintopera.com/insights/the-making-of-the-weill-cornell-medicine-wall/
+  - https://www.archdaily.com/480963
+  - https://www.codaworx.com/project/wcmc-discovery-wall-weill-cornell-medical-college

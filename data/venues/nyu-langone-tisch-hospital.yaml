@@ -1,0 +1,9 @@
+id: nyu-langone-tisch-hospital
+name: Tisch Hospital
+venue_type: healthcare-institution
+location:
+  city: New York
+  state: NY
+operator: NYU Langone Health
+sources:
+  - https://ennead.com/work/nyulh-tisch/

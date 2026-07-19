@@ -1,0 +1,9 @@
+id: bc-place
+name: BC Place
+venue_type: sports-venue
+location:
+  city: Vancouver
+  state: BC
+  country: CA
+sources:
+  - https://www.eoslightmedia.com/work/8

@@ -1,0 +1,8 @@
+id: 303-east-wacker-chicago
+name: 303 East Wacker
+venue_type: other
+location:
+  city: Chicago
+  state: IL
+sources:
+  - https://www.eoslightmedia.com/work/168

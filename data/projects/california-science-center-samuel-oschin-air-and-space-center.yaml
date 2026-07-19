@@ -1,0 +1,30 @@
+id: california-science-center-samuel-oschin-air-and-space-center
+name: Samuel Oschin Air and Space Center
+venue: california-science-center
+project_type: new-building
+status: announced
+year_expected: 2026
+credits:
+  - firm: zgf-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: evidence-design
+    role: exhibit-design
+  - firm: focus-lighting
+    role: lighting-design
+    note: "No firm record yet — sourced only from Evidence Design's own page, not independently corroborated"
+  - firm: electrosonic
+    role: av-integration
+    note: "Sourced only from Evidence Design's own page, not independently corroborated"
+technologies: []
+summary: >
+  A 200,000 sq ft addition to the California Science Center in Los
+  Angeles housing Space Shuttle Endeavour in full vertical stack,
+  architecture by ZGF Architects and exhibit design by Evidence Design;
+  building construction completed April 2026, targeted to open November
+  13, 2026.
+description: ""
+sources:
+  - https://www.prnewswire.com/news-releases/california-science-center-reaches-major-milestone-for-the-future-samuel-oschin-air-and-space-center-with-the-completion-of-building-construction-302740656.html
+  - https://www.evidencedesign.com/details/samuel-oschin-air-and-space-center/
+  - https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center

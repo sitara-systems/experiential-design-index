@@ -1,0 +1,23 @@
+id: soulcycle-hudson-yards-core
+name: SoulCycle Hudson Yards
+venue: soulcycle-hudson-yards
+project_type: new-exhibition
+year_completed: 2019
+credits:
+  - firm: eos-lightmedia
+    role: lighting-design
+  - firm: eos-lightmedia
+    role: av-integration
+  - firm: eos-lightmedia
+    role: media-design
+recognition:
+  - award: "Live Design Awards — Installation Award"
+    year: 2020
+    source: https://www.eoslightmedia.com/work/46
+technologies: []
+summary: >
+  SoulCycle's Hudson Yards studio in New York, with lighting, AV, and
+  media design entirely by Eos Lightmedia, opened 2019.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/46

@@ -1,0 +1,9 @@
+id: bmo-centre-calgary
+name: BMO Centre
+venue_type: other
+location:
+  city: Calgary
+  state: AB
+  country: CA
+sources:
+  - https://www.eoslightmedia.com/work/328

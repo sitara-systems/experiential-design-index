@@ -1,0 +1,9 @@
+id: soulcycle-las-vegas
+name: SoulCycle Las Vegas
+venue_type: retail-flagship
+location:
+  city: Las Vegas
+  state: NV
+operator: Wynn Plaza
+sources:
+  - https://www.eoslightmedia.com/work/47

@@ -1,0 +1,32 @@
+id: honickman-center-core
+name: Honickman Center
+venue: honickman-center-jefferson-health
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: ennead-architects
+    role: architecture
+    note: "Public floors"
+  - firm: stantec
+    role: architecture
+    note: "Clinical floors/interiors"
+  - firm: ags
+    role: graphics-wayfinding
+    note: "Signage, wayfinding, donor recognition; no firm record yet"
+  - firm: lasvit
+    role: lighting-design
+    note: "Chestnut Street art-glass gallery installation; no firm record yet"
+technologies:
+  - projection-mapped immersive art
+summary: >
+  Jefferson Health's Honickman Center, a 612,000 sq ft, $762M
+  multispecialty outpatient facility in Philadelphia co-designed with
+  patients, opened April 2024; public floors by Ennead, clinical floors
+  by Stantec. Nine waiting rooms feature bespoke projection-mapped
+  immersive artworks developed with Thomas Jefferson University's
+  immersive-arts-for-health research center.
+description: ""
+sources:
+  - https://www.ennead.com/work/jefferson-health-specialty-care
+  - https://www.jefferson.edu/news/2024/04/how-the-university-helped-bring-immersive-art-and-neurodiverse-friendly-seating-to-the-honickman-center.html
+  - https://healthcaredesignmagazine.com/projects/jefferson-healths-honickman-center-elevates-philadelphia-skyline-with-a-fabric-inspired-facade/65930/

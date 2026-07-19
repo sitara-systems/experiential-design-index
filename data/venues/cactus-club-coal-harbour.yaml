@@ -1,0 +1,9 @@
+id: cactus-club-coal-harbour
+name: Cactus Club Coal Harbour
+venue_type: other
+location:
+  city: Vancouver
+  state: BC
+  country: CA
+sources:
+  - https://www.eoslightmedia.com/work/14

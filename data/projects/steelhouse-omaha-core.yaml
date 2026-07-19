@@ -1,0 +1,32 @@
+id: steelhouse-omaha-core
+name: Steelhouse Omaha
+venue: steelhouse-omaha
+project_type: new-building
+year_completed: 2023
+credits:
+  - firm: ennead-architects
+    role: architecture
+    note: "Design architect"
+  - firm: holland-basham-architects
+    role: architecture
+    note: "Architect of record; no firm record yet"
+  - firm: fisher-dachs-associates
+    role: technical-consulting
+    note: "Theater/performance planning consultant; no firm record yet"
+  - firm: threshold-acoustics
+    role: acoustics
+    note: "No firm record yet"
+  - firm: threshold-acoustics
+    role: av-integration
+    note: "No firm record yet"
+technologies: []
+summary: >
+  Steelhouse Omaha, a 1,500-3,000-capacity live music venue in downtown
+  Omaha, part of Omaha Performing Arts' Holland Campus, opened May 12,
+  2023; designed by Ennead with local architect-of-record Holland
+  Basham Architects.
+description: ""
+sources:
+  - https://www.archpaper.com/2023/06/omaha-welcomes-an-ennead-architects-designed-music-venue/
+  - https://www.fisherdachs.com/portfolio/steelhouse-omaha/
+  - https://en.wikipedia.org/wiki/Steelhouse_Omaha

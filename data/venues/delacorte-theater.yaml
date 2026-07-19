@@ -1,0 +1,9 @@
+id: delacorte-theater
+name: Delacorte Theater
+venue_type: cultural-center
+location:
+  city: New York
+  state: NY
+operator: The Public Theater
+sources:
+  - https://www.archpaper.com/2025/11/ennead-architects-delacorte-theater/

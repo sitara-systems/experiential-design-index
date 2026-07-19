@@ -1,0 +1,25 @@
+id: bmo-centre-calgary-expansion
+name: BMO Centre Expansion
+venue: bmo-centre-calgary
+project_type: major-renovation
+year_completed: 2024
+credits:
+  - firm: populous
+    role: architecture
+  - firm: stantec
+    role: architecture
+    note: "No firm record yet"
+  - firm: eos-lightmedia
+    role: lighting-design
+recognition:
+  - award: "IES International Award of Excellence"
+    year: 2024
+    source: https://www.eoslightmedia.com/work/328
+technologies: []
+summary: >
+  An expansion doubling Calgary's BMO Centre convention facility to
+  over 1 million square feet, completed 2024; architecture by Populous
+  and Stantec, lighting design by Eos Lightmedia.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/328

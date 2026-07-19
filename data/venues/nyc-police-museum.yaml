@@ -1,0 +1,8 @@
+id: nyc-police-museum
+name: New York City Police Museum
+venue_type: history-museum
+location:
+  city: New York
+  state: NY
+sources:
+  - https://www.evidencedesign.com/details/policing-a-changed-city/

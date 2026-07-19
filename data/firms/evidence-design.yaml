@@ -6,6 +6,7 @@ hq:
   city: Brooklyn
   state: NY
 other_offices: []
+founded: 2000
 roles:
   - exhibit-design
   - graphics-wayfinding
@@ -13,8 +14,11 @@ status: active
 status_basis: >
   Active studio website with current portfolio; credited exhibit designer
   on the Smithsonian's "Genome: Unlocking Life's Code" (2013) and other
-  museum exhibitions.
-status_verified: 2026-07-18
+  museum exhibitions; current major project the Samuel Oschin Air and
+  Space Center at the California Science Center (targeted Nov 2026
+  opening; building construction completed April 2026), plus the 2023
+  Lillian & Albert Small Capital Jewish Museum.
+status_verified: 2026-07-19
 summary: >
   Evidence Design is a Brooklyn, New York-based studio of architects,
   industrial designers, graphic designers, and content specialists
@@ -23,3 +27,4 @@ summary: >
 sources:
   - https://www.evidencedesign.com/
   - https://www.evidencedesign.com/about/
+  - https://www.evidencedesign.com/work/

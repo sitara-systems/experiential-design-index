@@ -1,0 +1,9 @@
+id: nyu-langone-kimmel-pavilion
+name: Helen L. and Martin S. Kimmel Pavilion
+venue_type: healthcare-institution
+location:
+  city: New York
+  state: NY
+operator: NYU Langone Health
+sources:
+  - https://ennead.com/work/nyulh-kimmel/

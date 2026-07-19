@@ -1,0 +1,25 @@
+id: jack-chow-building-lighting
+name: Jack Chow Building Lighting
+venue: jack-chow-building
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: worlds-famous-building-corp
+    role: architecture
+    note: "Rod Chow; no firm record yet"
+  - firm: eos-lightmedia
+    role: lighting-design
+recognition:
+  - award: "Live Design Awards — Excellence in Architainment"
+    year: 2016
+    source: https://www.eoslightmedia.com/work/28
+  - award: "IESBC Award of Merit"
+    year: 2017
+    source: https://www.eoslightmedia.com/work/28
+technologies: []
+summary: >
+  Lighting and controls for the Jack Chow Building, a Vancouver
+  Chinatown landmark, completed 2016, by Eos Lightmedia.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/28

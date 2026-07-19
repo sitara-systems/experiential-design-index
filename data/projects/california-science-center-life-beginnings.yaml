@@ -1,0 +1,33 @@
+id: california-science-center-life-beginnings
+name: "Life! Beginnings"
+venue: california-science-center
+project_type: new-exhibition
+year_completed: 2021
+credits:
+  - firm: evidence-design
+    role: exhibit-design
+  - firm: ideum
+    role: media-design
+  - firm: ravenswood-studio
+    role: fabrication
+  - firm: bbi-engineering
+    role: av-integration
+  - firm: cortina-productions
+    role: media-design
+    note: "Additional experiences"
+technologies:
+  - motion-sensing gesture interactive
+  - digital-mechanical hybrid
+technology_tags:
+  - interactive-installation
+summary: >
+  "Life! Beginnings," an exhibition on the biology of birth and early
+  development at the California Science Center in Los Angeles, opened
+  June 2021; exhibit design by Evidence Design, interactive media by
+  Ideum, fabrication by Ravenswood Studio, AV integration by BBI
+  Engineering, with additional experiences by Cortina Productions.
+description: ""
+sources:
+  - https://ideum.com/portfolio/life-beginnings-exhibit-california-science
+  - https://www.evidencedesign.com/details/life-beginnings/
+  - https://californiasciencecenter.org/exhibits/life-beginnings

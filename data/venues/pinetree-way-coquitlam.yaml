@@ -1,0 +1,10 @@
+id: pinetree-way-coquitlam
+name: Pinetree Way
+venue_type: public-space
+location:
+  city: Coquitlam
+  state: BC
+  country: CA
+operator: City of Coquitlam
+sources:
+  - https://www.eoslightmedia.com/work/40

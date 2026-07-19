@@ -1,0 +1,10 @@
+id: calgary-parks-plus15-walkway
+name: Calgary Parks +15 Walkway
+venue_type: public-space
+location:
+  city: Calgary
+  state: AB
+  country: CA
+operator: City of Calgary
+sources:
+  - https://www.eoslightmedia.com/work/92

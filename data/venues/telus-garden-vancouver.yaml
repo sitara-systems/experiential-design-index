@@ -1,0 +1,9 @@
+id: telus-garden-vancouver
+name: Telus Garden
+venue_type: public-space
+location:
+  city: Vancouver
+  state: BC
+  country: CA
+sources:
+  - https://www.eoslightmedia.com/work/52

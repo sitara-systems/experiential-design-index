@@ -1,0 +1,20 @@
+id: bc-place-lighting
+name: BC Place Lighting
+venue: bc-place
+project_type: installation
+year_completed: 2011
+credits:
+  - firm: c-m-kling
+    role: lighting-design
+    note: "David Ghatan / C.M. Kling; primary lighting designer; no firm record yet"
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: "Controls infrastructure and programming under C.M. Kling's direction"
+technologies: []
+summary: >
+  Lighting for BC Place stadium in Vancouver, British Columbia,
+  completed 2011, with primary lighting design by C.M. Kling and
+  controls/programming by Eos Lightmedia.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/8

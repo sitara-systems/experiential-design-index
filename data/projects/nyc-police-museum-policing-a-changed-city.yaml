@@ -1,0 +1,26 @@
+id: nyc-police-museum-policing-a-changed-city
+name: "Policing a Changed City"
+venue: nyc-police-museum
+project_type: new-exhibition
+year_completed: 2007
+credits:
+  - firm: evidence-design
+    role: exhibit-design
+  - firm: unified-field
+    role: media-design
+    note: "Interactive displays / RTCC interface"
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Credited as \"Maltbie Associates,\" the firm's pre-merger name"
+technologies:
+  - interactive displays
+summary: >
+  "Policing a Changed City," an exhibition at the New York City Police
+  Museum in New York, opened in 2007; exhibit design by Evidence
+  Design, interactive media by Unified Field, fabrication by Maltbie
+  Associates (now Kubik Maltbie).
+description: >
+  The New York City Police Museum permanently closed in 2019; this
+  record is kept for historical completeness.
+sources:
+  - https://www.evidencedesign.com/details/policing-a-changed-city/

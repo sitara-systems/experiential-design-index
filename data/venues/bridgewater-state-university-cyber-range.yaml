@@ -1,0 +1,9 @@
+id: bridgewater-state-university-cyber-range
+name: BSU Cyber Range
+venue_type: academic-institution
+location:
+  city: Bridgewater
+  state: MA
+operator: Bridgewater State University
+sources:
+  - https://www.eoslightmedia.com/work/403

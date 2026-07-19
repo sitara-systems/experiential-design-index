@@ -1,0 +1,9 @@
+id: newtown-creek-wastewater-treatment-plant
+name: Newtown Creek Wastewater Treatment Plant
+venue_type: visitor-center
+location:
+  city: Brooklyn
+  state: NY
+operator: NYC Department of Environmental Protection
+sources:
+  - https://ennead.com/work/newtown/

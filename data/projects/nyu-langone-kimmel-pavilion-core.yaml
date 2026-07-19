@@ -1,0 +1,23 @@
+id: nyu-langone-kimmel-pavilion-core
+name: Kimmel Pavilion
+venue: nyu-langone-kimmel-pavilion
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: ennead-architects
+    role: architecture
+  - firm: nbbj
+    role: architecture
+    note: "Associate architect"
+  - firm: hargreaves-associates
+    role: landscape-architecture
+    note: "Rooftop terrace/gardens; no firm record yet"
+technologies: []
+summary: >
+  The Helen L. and Martin S. Kimmel Pavilion, a new inpatient building
+  at NYU Langone Health in New York, opened 2018; architecture by
+  Ennead with NBBJ, landscape architecture by Hargreaves Associates.
+description: ""
+sources:
+  - https://ennead.com/work/nyulh-kimmel/
+  - https://hargreaves.com/work/nyu-langone-health-kimmel-pavilion/
