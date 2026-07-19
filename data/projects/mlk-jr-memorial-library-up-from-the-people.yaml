@@ -15,6 +15,9 @@ credits:
   - firm: workhorse
     role: graphics-wayfinding
     note: "No firm record yet. Graphic design."
+  - firm: colloqate
+    role: interpretive-planning
+    note: "Content development; no firm record yet"
 technologies:
   - film and video
   - interactive media

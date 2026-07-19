@@ -1,0 +1,30 @@
+id: nab-headquarters-hall-of-fame-lobby
+name: Hall of Fame Lobby Displays
+venue: nab-headquarters
+project_type: new-building
+year_completed: 2020
+credits:
+  - firm: hok
+    role: architecture
+    note: "Base building architect"
+  - firm: hickok-cole
+    role: architecture
+    note: "Interior architect/designer of record; no firm record yet"
+  - firm: diversified
+    role: av-integration
+  - firm: bluecadet
+    role: media-design
+technologies:
+  - video wall
+  - LED display
+  - touchscreen
+summary: >
+  NAB's new headquarters at 1 M Street SE in Washington, DC's Navy Yard,
+  designed by HOK (base building) with Hickok Cole (interior), opened
+  April 2020 with a lobby video wall and Hall of Fame touchscreen exhibit
+  by Bluecadet and AV integration by Diversified.
+description: ""
+sources:
+  - https://www.bluecadet.com/work/national-association-broadcasters
+  - https://hickokcole.com/project/national-association-of-broadcasters-headquarters/
+  - https://www.radioworld.com/columns-and-views/from-the-editor/check-out-nabs-beautiful-new-headquarters

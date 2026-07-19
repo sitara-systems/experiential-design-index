@@ -1,0 +1,9 @@
+id: nab-headquarters
+name: National Association of Broadcasters Headquarters
+venue_type: briefing-center
+location:
+  city: Washington
+  state: DC
+operator: National Association of Broadcasters
+sources:
+  - https://www.bluecadet.com/work/national-association-broadcasters

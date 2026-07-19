@@ -30,6 +30,12 @@ credits:
     note: "Embedded casework. No firm record yet"
   - firm: tillotson-design-associates
     role: lighting-design
+  - firm: james-corner-field-operations
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: harvey-marshall-berling-associates
+    role: av-integration
+    note: "AV/IT consultant; no firm record yet"
 technologies:
   - digital signage
   - film
