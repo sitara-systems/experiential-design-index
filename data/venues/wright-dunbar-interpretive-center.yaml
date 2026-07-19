@@ -1,0 +1,11 @@
+id: wright-dunbar-interpretive-center
+name: Wright-Dunbar Interpretive Center
+venue_type: visitor-center
+location:
+  city: Dayton
+  state: OH
+operator: National Park Service (Dayton Aviation Heritage National Historical Park)
+website: https://www.nps.gov/places/wdic.htm
+sources:
+  - https://en.wikipedia.org/wiki/Dayton_Aviation_Heritage_National_Historical_Park
+  - https://www.nps.gov/places/wdic.htm

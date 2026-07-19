@@ -1,0 +1,10 @@
+id: tampa-bay-history-center
+name: Tampa Bay History Center
+venue_type: history-museum
+location:
+  city: Tampa
+  state: FL
+website: https://www.tampabayhistorycenter.org
+sources:
+  - https://en.wikipedia.org/wiki/Tampa_Bay_History_Center
+  - https://tourtampabayarchitecture.com/page_11-html/

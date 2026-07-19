@@ -1,0 +1,9 @@
+id: roundhouse-aquarium
+name: Roundhouse Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Manhattan Beach
+  state: CA
+website: https://www.roundhouseaquarium.org
+sources:
+  - https://www.cambridgeseven.com/project/roundhouse-aquarium/

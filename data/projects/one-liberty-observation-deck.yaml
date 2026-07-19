@@ -1,0 +1,35 @@
+id: one-liberty-observation-deck
+name: One Liberty Observation Deck
+venue: one-liberty-observation-deck-venue
+project_type: new-exhibition
+year_completed: 2015
+credits:
+  - firm: brc-imagination-arts
+    role: exhibit-design
+    note: "Design"
+  - firm: provost-studio
+    role: exhibit-design
+    note: "Design development; wall-sized murals; no firm record yet"
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "Fabrication, installation, project management"
+  - firm: fleming-museum-consulting
+    role: interpretive-planning
+    note: >
+      Content; no firm record yet — possibly the same principal as
+      "Bethany Fleming," credited as an individual Exhibit Development
+      Curator on the 360 Chicago project.
+  - firm: stimulant
+    role: media-design
+    note: "Interactive development; no firm record yet"
+  - firm: creative-technology
+    role: av-integration
+    note: "Media hardware"
+summary: >
+  One Liberty Observation Deck, an 883-foot-high attraction at One
+  Liberty Place in Philadelphia honoring Benjamin Franklin, opened in
+  late 2015; design by BRC Imagination Arts with Provost Studio,
+  fabrication/installation by Chicago Scenic Studios.
+description: ""
+sources:
+  - https://www.chicagoscenic.com/projects/one-liberty-observation-deck

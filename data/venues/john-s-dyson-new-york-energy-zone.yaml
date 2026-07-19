@@ -1,0 +1,11 @@
+id: john-s-dyson-new-york-energy-zone
+name: John S. Dyson New York Energy Zone
+venue_type: science-center
+location:
+  city: Utica
+  state: NY
+operator: New York Power Authority
+website: https://www.nypa.gov/communities/visitors-centers/ny-energy-zone
+sources:
+  - https://www.nypa.gov/news/press-releases/2021/20210702-full-schedule-energy-zone
+  - https://www.romesentinel.com/news/city/utica/john-s-dyson-new-york-energy-zone-an-immersive-experience-for-all-ages/article_efc1f6d2-67c0-554a-920d-b62c3d4bd712.html

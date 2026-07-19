@@ -1,0 +1,9 @@
+id: greensboro-science-center
+name: Greensboro Science Center
+venue_type: science-center
+location:
+  city: Greensboro
+  state: NC
+website: https://www.greensboroscience.org
+sources:
+  - https://en.wikipedia.org/wiki/Greensboro_Science_Center

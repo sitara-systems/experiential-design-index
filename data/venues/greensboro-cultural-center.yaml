@@ -1,0 +1,9 @@
+id: greensboro-cultural-center
+name: Greensboro Cultural Center
+venue_type: cultural-center
+location:
+  city: Greensboro
+  state: NC
+website: https://www.greensboro-nc.gov/residents/explore/greensboro-cultural-center
+sources:
+  - https://www.greensboro-nc.gov/residents/explore/greensboro-cultural-center

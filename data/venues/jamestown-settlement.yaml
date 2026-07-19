@@ -1,0 +1,10 @@
+id: jamestown-settlement
+name: Jamestown Settlement
+venue_type: history-museum
+location:
+  city: Williamsburg
+  state: VA
+operator: Jamestown-Yorktown Foundation
+website: https://www.jyfmuseums.org/jamestown-settlement
+sources:
+  - https://www.jyfmuseums.org/

@@ -1,0 +1,28 @@
+id: 360-chicago
+name: 360 Chicago
+venue: 360-chicago-observatory
+project_type: new-exhibition
+year_completed: 2015
+credits:
+  - firm: provost-studio
+    role: exhibit-design
+    note: "Design; no firm record yet"
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "Fabrication, installation, project management"
+  - firm: silver-oaks
+    role: media-design
+    note: >
+      Media development; no firm record yet — likely the same entity as
+      "Silver Oaks Communication," already an unlinked credit elsewhere
+      in this dataset.
+summary: >
+  360 Chicago, an interactive storytelling attraction transforming
+  4,000+ sq ft of the John Hancock Center's observation level into a
+  Chicago-history experience, opened June 2015; design by Provost
+  Studio, fabrication/installation by Chicago Scenic Studios.
+description: >
+  Bethany Fleming is credited as an individual "Exhibit Development
+  Curator" — not a firm, omitted from credits.
+sources:
+  - https://www.chicagoscenic.com/projects/360-chicago

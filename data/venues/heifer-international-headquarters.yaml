@@ -1,0 +1,10 @@
+id: heifer-international-headquarters
+name: Heifer International Headquarters (Heifer Village)
+venue_type: visitor-center
+location:
+  city: Little Rock
+  state: AR
+website: https://www.heifer.org
+sources:
+  - https://www.heifer.org/about-us
+  - https://encyclopediaofarkansas.net/entries/heifer-international-2353/

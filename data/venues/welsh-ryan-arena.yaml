@@ -1,0 +1,9 @@
+id: welsh-ryan-arena
+name: Welsh-Ryan Arena
+venue_type: sports-venue
+location:
+  city: Evanston
+  state: IL
+operator: Northwestern University
+sources:
+  - https://www.chicagoscenic.com/projects/northwestern-universitys-welsh-ryan-arena

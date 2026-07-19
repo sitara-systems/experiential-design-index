@@ -1,0 +1,11 @@
+id: tom-ridge-environmental-center
+name: Tom Ridge Environmental Center
+venue_type: visitor-center
+location:
+  city: Erie
+  state: PA
+operator: Pennsylvania Bureau of State Parks (Presque Isle State Park)
+website: https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/presque-isle-state-park/trec
+sources:
+  - https://en.wikipedia.org/wiki/Tom_Ridge_Environmental_Center
+  - https://www.wrtdesign.com/projects/tom-ridge-environmental-center

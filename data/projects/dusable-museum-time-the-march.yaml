@@ -9,6 +9,21 @@ credits:
     note: "Project management, fabrication, and installation; transformed a 2,800 sq ft space into soundproof rooms, custom furniture, and check-in desk"
   - firm: local-projects
     role: exhibit-design
+  - firm: mad-systems
+    role: av-integration
+    note: "Sound Production, per Chicago Scenic Studios' own project page"
+  - firm: digital-domain
+    role: media-design
+    note: "Visual effects and VR management; no firm record yet"
+  - firm: ryot-media-studio
+    role: media-design
+    note: "No firm record yet"
+  - firm: valis-studio
+    role: content-production
+    note: "VR creative content; no firm record yet"
+  - firm: prographics
+    role: graphics-wayfinding
+    note: "Graphics production; no firm record yet"
 technologies:
   - virtual reality
   - immersive media rooms

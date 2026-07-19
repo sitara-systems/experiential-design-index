@@ -1,0 +1,11 @@
+id: us-cavalry-museum
+name: U.S. Cavalry Museum
+venue_type: history-museum
+location:
+  city: Fort Riley
+  state: KS
+operator: U.S. Army / Center of Military History
+website: https://home.army.mil/riley/about/museums
+sources:
+  - https://en.wikipedia.org/wiki/U.S._Cavalry_Museum
+  - https://www.dvidshub.net/news/447241/community-celebrates-reopening-fort-rileys-us-cavalry-museum

@@ -1,0 +1,9 @@
+id: wbur-cityspace
+name: WBUR CitySpace
+venue_type: cultural-center
+location:
+  city: Boston
+  state: MA
+website: https://www.wbur.org/cityspace
+sources:
+  - https://www.wbur.org/inside/2019/01/22/wbur-celebrates-the-opening-of-bostons-new-home-for-public-conversation-cityspace

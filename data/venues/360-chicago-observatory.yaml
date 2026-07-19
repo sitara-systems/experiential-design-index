@@ -1,0 +1,8 @@
+id: 360-chicago-observatory
+name: 360 Chicago (John Hancock Center)
+venue_type: themed-attraction
+location:
+  city: Chicago
+  state: IL
+sources:
+  - https://www.chicagoscenic.com/projects/360-chicago

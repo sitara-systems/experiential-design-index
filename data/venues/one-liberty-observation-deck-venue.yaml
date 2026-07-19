@@ -1,0 +1,8 @@
+id: one-liberty-observation-deck-venue
+name: One Liberty Observation Deck
+venue_type: themed-attraction
+location:
+  city: Philadelphia
+  state: PA
+sources:
+  - https://www.chicagoscenic.com/projects/one-liberty-observation-deck

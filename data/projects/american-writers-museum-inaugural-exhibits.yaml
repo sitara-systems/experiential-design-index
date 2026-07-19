@@ -16,6 +16,12 @@ credits:
   - firm: silver-oaks-communication
     role: media-design
     note: "no firm record yet"
+  - firm: creative-technology
+    role: av-integration
+    note: "Audio Visual Interactive, per Chicago Scenic Studios' own project page"
+  - firm: protolight
+    role: media-design
+    note: "Interactive Programming; no firm record yet"
 technologies:
   - projection mapping
   - multi-user touch-table

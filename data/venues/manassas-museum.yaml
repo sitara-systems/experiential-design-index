@@ -1,0 +1,11 @@
+id: manassas-museum
+name: Manassas Museum
+venue_type: history-museum
+location:
+  city: Manassas
+  state: VA
+operator: City of Manassas
+website: https://www.manassasva.gov/things_to_do/manassas_museum/index.php
+sources:
+  - https://historicmanassas.org/the-manassas-museum-renovation-preserving-history-for-the-future/
+  - https://www.gwwoinc.com/projects/manassas-museum

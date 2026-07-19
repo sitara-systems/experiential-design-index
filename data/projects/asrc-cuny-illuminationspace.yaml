@@ -17,6 +17,17 @@ credits:
     role: exhibit-design
   - firm: available-light
     role: lighting-design
+  - firm: unified-field
+    role: media-design
+    note: "Interactive design, per Chicago Scenic Studios' own project page"
+  - firm: dimensional-worldwide
+    role: av-integration
+    note: "No firm record yet"
+  - firm: 4-wall
+    role: lighting-design
+    note: >
+      No firm record yet; possibly "4Wall Entertainment," a lighting
+      equipment company — unconfirmed.
 technologies:
   - interactive projection wall
   - touchscreen games

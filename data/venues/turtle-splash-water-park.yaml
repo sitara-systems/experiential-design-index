@@ -1,0 +1,9 @@
+id: turtle-splash-water-park
+name: Turtle Splash Water Park
+venue_type: public-space
+location:
+  city: West Chicago
+  state: IL
+operator: West Chicago Park District
+sources:
+  - https://www.chicagoscenic.com/projects/turtle-splash-water-park

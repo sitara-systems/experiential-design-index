@@ -1,0 +1,21 @@
+id: wbur-cityspace-design
+name: WBUR CitySpace
+venue: wbur-cityspace
+project_type: new-building
+year_completed: 2019
+credits:
+  - firm: cambridgeseven
+    role: architecture
+  - firm: acentech
+    role: acoustics
+    note: "No firm record yet — acoustical design/engineering"
+summary: >
+  WBUR CitySpace, a 7,500 sq ft, 240-seat public multimedia performance
+  and event venue on Boston University's campus in Boston, Massachusetts,
+  opened January 2019; architecture by CambridgeSeven, acoustical design
+  by Acentech.
+description: ""
+sources:
+  - https://www.cambridgeseven.com/project/wbur-cityspace/
+  - https://www.wbur.org/inside/2019/01/22/wbur-celebrates-the-opening-of-bostons-new-home-for-public-conversation-cityspace
+  - https://bostonrealestatetimes.com/cambridgeseven-principal-timothy-mansfield-on-design-innovation-and-integration-of-technology-at-wbur-cityspace/

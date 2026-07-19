@@ -1,0 +1,10 @@
+id: the-sports-museum-td-garden
+name: The Sports Museum at TD Garden
+venue_type: sports-venue
+location:
+  city: Boston
+  state: MA
+website: https://www.sportsmuseum.org
+sources:
+  - https://www.sportsmuseum.org/heritagehall/
+  - https://www.tdgarden.com/venue-info/heritage-hall
