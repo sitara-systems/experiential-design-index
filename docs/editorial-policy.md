@@ -27,6 +27,38 @@ is no "trust us" tier of inclusion.
 There is no fee, no submission requirement, and no relationship prerequisite
 for inclusion. Firms are added because their work belongs in the record.
 
+**Dataset inclusion vs. directory display — two different bars.** The
+three-project bar above governs the **dataset**: whether a firm gets a
+record, appears on project credits, and is included in the open-data
+export. It is intentionally low, because the dataset's job is to be a
+complete and continuously-improving record — a firm at 2 projects today
+may be at 3 next month, and the corpus should already be tracking it
+rather than re-researching it from scratch later.
+
+The **public firm directory** (the browsable list/index pages on the
+site) applies a separate, higher bar: **eight projects**. Below that, a
+firm's record still exists, is fully sourced, still appears on every
+project page it's credited on, and still ships in the open-data export —
+it simply isn't surfaced in the directory's browse/list views yet. The
+reasoning: at 3 projects, "included in the space" and "happened to do it
+once or twice" are hard to tell apart, and a directory meant to help
+designers and museums discover real practice partners (not just the
+five firms already top-of-mind) stops being useful if it lists everyone
+who's ever touched the space. Eight is not a permanent ceiling — it's
+revisited as the dataset matures; a firm crossing 8 moves into the
+directory automatically on the next data update, no manual promotion
+step required. (Decided 2026-07-19, after the initial per-firm
+completeness screen showed the 3-project floor was admitting a long
+tail of firms with genuinely incidental, one-off experiential work.)
+
+This split does not change the **ranked-lists** minimum-depth rule
+below (8 firms per role before a role gets a ranked list) — that
+threshold governs whether a *role* has enough eligible firms for a
+statistically meaningful ranking, a different question from whether an
+individual *firm* is directory-worthy. The two currently share the same
+number by coincidence, not by design; they may diverge as the dataset
+grows.
+
 **Current geographic scope:** firms headquartered in **North America** (the
 United States or Canada). This is a participation test, not a residency
 test — it exists to exclude firms that don't meaningfully participate in
