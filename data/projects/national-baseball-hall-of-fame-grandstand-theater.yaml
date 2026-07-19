@@ -1,0 +1,27 @@
+id: national-baseball-hall-of-fame-grandstand-theater
+name: Grandstand Theater
+venue: national-baseball-hall-of-fame-and-museum
+project_type: new-exhibition
+year_completed: 2018
+credits:
+  - firm: populous
+    role: exhibit-design
+  - firm: arup
+    role: technical-consulting
+    note: "AV systems design; no firm record yet"
+  - firm: usis-audiovisual-systems
+    role: av-integration
+    note: "No firm record yet"
+technologies:
+  - immersive theater
+summary: >
+  The Grandstand Theater at the National Baseball Hall of Fame and
+  Museum in Cooperstown, NY reopened May 25, 2018 as an immersive
+  theater experience; design by Populous, AV systems design by Arup,
+  AV integration by USIS AudioVisual Systems. Distinct from the venue's
+  other existing exhibit projects.
+description: ""
+sources:
+  - https://www.avixa.org/
+  - https://www.dolby.com/
+  - https://www.mlb.com/

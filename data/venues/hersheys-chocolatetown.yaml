@@ -1,0 +1,8 @@
+id: hersheys-chocolatetown
+name: Hershey's Chocolatetown
+venue_type: brand-experience-center
+location:
+  city: Hershey
+  state: PA
+sources:
+  - https://blooloop.com/theme-park/in-depth/hersheys-chocolatetown/

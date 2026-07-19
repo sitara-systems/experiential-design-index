@@ -1,0 +1,9 @@
+id: cincinnati-museum-center
+name: Cincinnati Museum Center
+venue_type: history-museum
+location:
+  city: Cincinnati
+  state: OH
+website: https://www.cincymuseum.org
+sources:
+  - https://www.cincymuseum.org/press/neil-armstrong-gallery/

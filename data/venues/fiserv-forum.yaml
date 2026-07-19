@@ -1,0 +1,8 @@
+id: fiserv-forum
+name: Fiserv Forum
+venue_type: sports-venue
+location:
+  city: Milwaukee
+  state: WI
+sources:
+  - https://www.eua.com/

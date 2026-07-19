@@ -1,0 +1,8 @@
+id: rutgers-university-visitor-center
+name: Rutgers University Visitor Center
+venue_type: academic-institution
+location:
+  city: New Brunswick
+  state: NJ
+sources:
+  - https://news.rutgers.edu/

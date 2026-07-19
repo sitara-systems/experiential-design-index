@@ -1,0 +1,8 @@
+id: gainbridge-fieldhouse
+name: Gainbridge Fieldhouse
+venue_type: sports-venue
+location:
+  city: Indianapolis
+  state: IN
+sources:
+  - https://www.rlr.biz/

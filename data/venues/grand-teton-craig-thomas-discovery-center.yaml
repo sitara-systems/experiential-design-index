@@ -1,0 +1,9 @@
+id: grand-teton-craig-thomas-discovery-center
+name: Craig Thomas Discovery and Visitor Center
+venue_type: visitor-center
+location:
+  city: Moose
+  state: WY
+operator: National Park Service, Grand Teton National Park
+sources:
+  - https://www.architecturalrecord.com/

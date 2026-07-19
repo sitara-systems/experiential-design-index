@@ -1,0 +1,19 @@
+id: american-folk-art-museum-core
+name: American Folk Art Museum
+venue: american-folk-art-museum
+project_type: new-building
+year_completed: 2001
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: tod-williams-billie-tsien-architects
+    role: architecture
+technologies: []
+summary: >
+  The American Folk Art Museum's former West 53rd Street building in
+  New York opened 2001; exhibit design by Ralph Appelbaum Associates,
+  architecture by Tod Williams Billie Tsien Architects.
+description: ""
+sources:
+  - https://www.fredbernstein.com/
+  - https://en.wikipedia.org/wiki/American_Folk_Art_Museum

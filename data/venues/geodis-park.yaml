@@ -1,0 +1,8 @@
+id: geodis-park
+name: GEODIS Park
+venue_type: sports-venue
+location:
+  city: Nashville
+  state: TN
+sources:
+  - https://www.dezeen.com/

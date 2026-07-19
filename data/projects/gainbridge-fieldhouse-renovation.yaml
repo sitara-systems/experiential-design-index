@@ -1,0 +1,21 @@
+id: gainbridge-fieldhouse-renovation
+name: "Fieldhouse of the Future Renovation"
+venue: gainbridge-fieldhouse
+project_type: major-renovation
+year_completed: 2022
+credits:
+  - firm: populous
+    role: architecture
+    note: "Lead"
+  - firm: rlr
+    role: graphics-wayfinding
+    note: "Wayfinding and branded-environments design; no firm record yet"
+technologies: []
+summary: >
+  A $362M renovation of Gainbridge Fieldhouse ("Fieldhouse of the
+  Future"), home of the Indiana Pacers and Fever, completed late 2022;
+  led by Populous with wayfinding and branded-environments design by
+  RLR.
+description: ""
+sources:
+  - https://www.rlr.biz/

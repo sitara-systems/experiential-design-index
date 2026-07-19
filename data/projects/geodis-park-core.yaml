@@ -1,0 +1,21 @@
+id: geodis-park-core
+name: GEODIS Park
+venue: geodis-park
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: populous
+    role: architecture
+    note: "Design architect"
+  - firm: hastings
+    role: architecture
+    note: "Co-architect; no firm record yet"
+technologies: []
+summary: >
+  GEODIS Park in Nashville, TN, the largest soccer-specific stadium in
+  the United States, opened 2022; architecture by Populous with
+  Nashville-based co-architect Hastings.
+description: ""
+sources:
+  - https://www.dezeen.com/
+  - https://www.archpaper.com/

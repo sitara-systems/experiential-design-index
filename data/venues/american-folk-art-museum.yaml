@@ -1,0 +1,8 @@
+id: american-folk-art-museum
+name: American Folk Art Museum
+venue_type: art-museum
+location:
+  city: New York
+  state: NY
+sources:
+  - https://en.wikipedia.org/wiki/American_Folk_Art_Museum

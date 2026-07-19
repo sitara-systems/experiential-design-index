@@ -1,0 +1,8 @@
+id: grandfather-mountain
+name: Grandfather Mountain
+venue_type: visitor-center
+location:
+  city: Linville
+  state: NC
+sources:
+  - https://www.ourstate.com/

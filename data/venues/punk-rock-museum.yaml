@@ -1,0 +1,8 @@
+id: punk-rock-museum
+name: The Punk Rock Museum
+venue_type: history-museum
+location:
+  city: Las Vegas
+  state: NV
+sources:
+  - https://blooloop.com/

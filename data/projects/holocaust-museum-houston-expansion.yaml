@@ -1,0 +1,22 @@
+id: holocaust-museum-houston-expansion
+name: Expansion
+venue: holocaust-museum-houston
+project_type: major-renovation
+year_completed: 2019
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: mucasey-and-associates
+    role: architecture
+    note: "Design architect; no firm record yet"
+  - firm: pgal
+    role: architecture
+    note: "Architect of record; no firm record yet"
+technologies: []
+summary: >
+  An expansion of Holocaust Museum Houston opened 2019; exhibit design
+  by Ralph Appelbaum Associates, design architecture by Mucasey &
+  Associates, architect of record PGAL.
+description: ""
+sources:
+  - https://www.forbes.com/

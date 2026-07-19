@@ -1,0 +1,8 @@
+id: citi-field
+name: Citi Field
+venue_type: sports-venue
+location:
+  city: Queens
+  state: NY
+sources:
+  - https://en.wikipedia.org/wiki/Citi_Field

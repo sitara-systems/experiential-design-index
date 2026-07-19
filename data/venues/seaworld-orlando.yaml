@@ -1,0 +1,8 @@
+id: seaworld-orlando
+name: SeaWorld Orlando
+venue_type: themed-attraction
+location:
+  city: Orlando
+  state: FL
+sources:
+  - https://en.wikipedia.org/wiki/SeaWorld_Orlando

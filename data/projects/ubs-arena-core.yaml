@@ -1,0 +1,27 @@
+id: ubs-arena-core
+name: UBS Arena
+venue: ubs-arena
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: populous
+    role: architecture
+    note: "Architect of record; layout, wayfinding, and most interiors"
+  - firm: jrdv-urban-architecture
+    role: architecture
+    note: "Exterior design; no firm record yet"
+  - firm: goodrich
+    role: interpretive-planning
+    note: "Interior design of specific spaces; no firm record yet"
+technologies: []
+summary: >
+  UBS Arena in Elmont, NY, home of the New York Islanders, opened
+  November 20, 2021; Populous served as architect of record for the
+  layout, wayfinding, and most interiors, with JRDV Urban Architecture
+  designing the exterior and Goodrich designing specific interior
+  spaces.
+description: ""
+sources:
+  - https://www.archpaper.com/
+  - https://www.citybiz.co/
+  - https://www.goodrich.nyc/

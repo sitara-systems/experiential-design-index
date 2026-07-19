@@ -1,0 +1,29 @@
+id: nypl-schwarzman-lunch-hour-nyc
+name: Lunch Hour NYC
+venue: nypl-schwarzman-building
+project_type: temporary-exhibition
+year_completed: 2012
+credits:
+  - firm: pure-and-applied
+    role: exhibit-design
+  - firm: bedwick-and-jones
+    role: fabrication
+    note: "No firm record yet"
+  - firm: spaeth-design-studio
+    role: fabrication
+    note: "No firm record yet"
+  - firm: t-e-black-studio
+    role: fabrication
+    note: "No firm record yet"
+technologies: []
+summary: >
+  Lunch Hour NYC, a temporary exhibition at the New York Public
+  Library's Stephen A. Schwarzman Building, opened June 22, 2012 and
+  ran through February 17, 2013, featuring custom display elements
+  (benches, a refurbished Automat machine, a repurposed street lamp);
+  design by Pure+Applied, production by Bedwick & Jones, Spaeth Design
+  Studio, and T.E. Black Studio.
+description: ""
+sources:
+  - https://www.chiukeat.com/
+  - https://www.nypl.org/

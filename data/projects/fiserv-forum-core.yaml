@@ -1,0 +1,20 @@
+id: fiserv-forum-core
+name: Fiserv Forum
+venue: fiserv-forum
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: populous
+    role: architecture
+    note: "Lead designer"
+  - firm: eua
+    role: interpretive-planning
+    note: "Interior design; no firm record yet"
+technologies: []
+summary: >
+  Fiserv Forum, home of the Milwaukee Bucks and anchor of the Deer
+  District, opened 2018; lead design by Populous with interior design
+  by EUA.
+description: ""
+sources:
+  - https://www.eua.com/

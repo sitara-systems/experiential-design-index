@@ -1,0 +1,20 @@
+id: indiana-state-museum-core
+name: Indiana State Museum
+venue: indiana-state-museum
+project_type: new-building
+year_completed: 2002
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: ratio-architects
+    role: architecture
+    note: "No firm record yet"
+technologies: []
+summary: >
+  The Indiana State Museum's current White River State Park building
+  in Indianapolis opened 2002; exhibit design by Ralph Appelbaum
+  Associates, architecture by RATIO Architects.
+description: ""
+sources:
+  - https://indyencyclopedia.org/
+  - https://en.wikipedia.org/wiki/Indiana_State_Museum
