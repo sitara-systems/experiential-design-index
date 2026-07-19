@@ -1,0 +1,22 @@
+# Firm record — Zehren & Associates
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: zehren-and-associates
+name: Zehren & Associates
+aka: []
+hq:
+  city: Avon
+  state: CO
+roles:
+  - architecture
+status: active
+status_basis: >
+  Architect of record on the Walking Mountains Science Center (Avon,
+  CO, completed 2011); active per its own site as of verification
+  date.
+status_verified: 2026-07-19
+summary: >
+  Zehren & Associates is an Avon, Colorado-based resort and
+  mountain-town architecture firm.
+sources:
+  - https://www.zehren.com/

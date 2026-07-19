@@ -1,0 +1,25 @@
+id: motorsports-hall-of-fame-of-america-core
+name: Motorsports Hall of Fame of America
+venue: motorsports-hall-of-fame-of-america
+project_type: new-building
+year_completed: 2017
+credits:
+  - firm: nassal
+    role: fabrication
+  - firm: jack-rouse-associates
+    role: exhibit-design
+  - firm: electrosonic
+    role: av-integration
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: "Credited as Abernathy Lighting Design, an Eos Lightmedia studio"
+technologies: []
+summary: >
+  The Motorsports Hall of Fame of America relocated to a new facility at
+  Daytona International Speedway, Daytona Beach, Florida, opening 2017;
+  fabrication by Nassal, exhibit design by Jack Rouse Associates, AV
+  integration by Electrosonic, and lighting design by Abernathy Lighting
+  Design (an Eos Lightmedia studio).
+description: ""
+sources:
+  - https://blooloop.com/

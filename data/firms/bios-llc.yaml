@@ -1,0 +1,22 @@
+# Firm record — BIOS LLC
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: bios-llc
+name: BIOS LLC
+aka: []
+hq:
+  city: Bainbridge Island
+  state: WA
+roles:
+  - exhibit-design
+status: active
+status_basis: >
+  Aquarium/habitat design on the Seattle Aquarium's Pier 59/60
+  renovation and expansion (opened 2007); active per independent
+  sourcing as of verification date.
+status_verified: 2026-07-19
+summary: >
+  BIOS LLC is an aquarium and habitat design consultancy.
+sources:
+  - https://www.archpaper.com/
+  - http://www.bios-design.com/

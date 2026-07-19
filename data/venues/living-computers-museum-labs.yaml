@@ -1,0 +1,8 @@
+id: living-computers-museum-labs
+name: "Living Computers: Museum + Labs"
+venue_type: science-center
+location:
+  city: Seattle
+  state: WA
+sources:
+  - https://segd.org/projects/living-computers-museum-labs/

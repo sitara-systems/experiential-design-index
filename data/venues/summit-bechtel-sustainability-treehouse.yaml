@@ -1,0 +1,12 @@
+id: summit-bechtel-sustainability-treehouse
+name: Sustainability Treehouse
+venue_type: visitor-center
+location:
+  city: Glen Jean
+  state: WV
+operator: Boy Scouts of America, Summit Bechtel Reserve
+description: >
+  A distinct building from the nearby, already-recorded Scott Visitor
+  Center on the same reserve.
+sources:
+  - https://segd.org/

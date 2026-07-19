@@ -1,0 +1,26 @@
+id: living-computers-museum-labs-renovation
+name: Renovation
+venue: living-computers-museum-labs
+project_type: major-renovation
+year_completed: 2017
+credits:
+  - firm: nbbj
+    role: interpretive-planning
+    note: "Lead experience design"
+  - firm: curious-beast
+    role: exhibit-design
+  - firm: tiscareno-associates
+    role: architecture
+    note: "Interior architecture; no firm record yet"
+  - firm: unified-field
+    role: technical-consulting
+    note: "Consultant"
+technologies: []
+summary: >
+  A 7,500 sq ft renovation of Living Computers: Museum + Labs in
+  Seattle, completed 2016-2017; lead experience design by NBBJ, exhibit
+  design by Curious Beast, interior architecture by Tiscareno
+  Associates.
+description: ""
+sources:
+  - https://segd.org/projects/living-computers-museum-labs/

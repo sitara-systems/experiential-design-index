@@ -1,0 +1,18 @@
+id: lincoln-financial-field-core
+name: Lincoln Financial Field
+venue: lincoln-financial-field
+project_type: new-building
+year_completed: 2003
+credits:
+  - firm: nbbj
+    role: architecture
+  - firm: agoos-lovera-architects
+    role: architecture
+    note: "Collaborating architect; no firm record yet"
+technologies: []
+summary: >
+  Lincoln Financial Field in Philadelphia opened August 3, 2003;
+  architecture by NBBJ with Agoos Lovera Architects.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Lincoln_Financial_Field

@@ -8,20 +8,25 @@ hq:
   city: Orlando
   state: FL
 other_offices:
-  - city: Los Angeles
+  - city: Glendale
     state: CA
 founded: 1984
 roles:
   - fabrication
 status: active
 status_basis: >
-  Own project pages actively maintained (Heart of Africa at Columbus Zoo,
-  Zoo Miami Mission Everglades, Permian Basin Petroleum Museum) and
-  continued operation as a themed-construction/fabrication contractor for
-  major theme park and museum clients (Disney, Universal) as of this check;
-  acquired by general contractor PCL in May 2023, which did not end
-  independent operations under the Nassal name.
-status_verified: 2026-07-18
+  Multiple recent zoo/aquarium openings independently confirmed: Australia
+  and the Lorikeets exhibit at ABQ BioPark (Jul 2024), Dolphin Oasis at
+  Gulfarium (Mar 2024), Explorers Cove at Georgia Aquarium (Aug 2024), and
+  the Orlando Wetlands Visitor Center (Apr 2025); continued operation as a
+  themed-construction/fabrication contractor for major theme park and
+  museum clients (Disney, Universal) as of this check; acquired by general
+  contractor PCL in May 2023, which did not end independent operations
+  under the Nassal name. Note: the firm's own site's stated project years
+  were independently found unreliable on multiple checked projects during
+  the 2026-07-19 portfolio screen — status here rests on independently
+  sourced openings, not Nassal's own dates.
+status_verified: 2026-07-19
 summary: >
   The Nassal Company is an Orlando, Florida-based themed-environment
   fabricator specializing in rockwork, scenic painting, architectural

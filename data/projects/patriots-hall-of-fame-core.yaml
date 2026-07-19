@@ -8,12 +8,24 @@ credits:
     role: architecture
   - firm: cambridgeseven
     role: exhibit-design
+  - firm: mystic-scenic
+    role: fabrication
+    note: >
+      Independently corroborated via the International Sports
+      Heritage Association's member directory listing for Mystic;
+      exact date of Mystic's specific scope not independently pinned
+      down (the venue also had a 2017 renovation)
+recognition:
+  - award: "AAM MUSE Award — Gold"
+    year: 2009
+    source: https://www.cambridgeseven.com/project/the-hall-at-patriot-place/
 technologies: []
 summary: >
   The Patriots Hall of Fame at Patriot Place in Foxborough, Massachusetts,
   opened to the public September 22, 2008; architecture and exhibit design
-  by CambridgeSeven.
+  by CambridgeSeven, fabrication by Mystic Scenic Studios.
 description: ""
 sources:
   - https://www.cambridgeseven.com/project/the-hall-at-patriot-place/
   - https://www.patriotshalloffame.com/about/about-the-hall/
+  - https://sportsheritage.org/member/mystic-scenic-studios-inc/

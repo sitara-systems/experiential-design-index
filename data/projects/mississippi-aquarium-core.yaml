@@ -10,6 +10,9 @@ credits:
     role: fabrication
   - firm: solomon-group
     role: graphics-wayfinding
+  - firm: nassal
+    role: fabrication
+    note: "Entrance sails and habitat rockwork"
 technologies:
   - interactive projection
 summary: >
@@ -19,3 +22,4 @@ summary: >
 description: ""
 sources:
   - https://solomongroup.com/projects/the-mississippi-aquarium
+  - https://www.constructionequipmentguide.com/

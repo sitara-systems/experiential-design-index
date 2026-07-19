@@ -1,9 +1,11 @@
 id: lexington-visitor-center-exhibits
 name: Lexington Visitor Center Exhibits
 venue: lexington-visitor-center
-project_type: new-exhibition
+project_type: new-building
 year_completed: 2020
 credits:
+  - firm: mills-whitaker-architects
+    role: architecture
   - firm: proun-design
     role: graphics-wayfinding
     note: "Exhibit graphics"
@@ -23,3 +25,5 @@ description: >
   the battle scene.
 sources:
   - https://www.proundesign.com/cultural-history-1/lexington-visitor-center
+  - https://millswhitaker.com/
+  - https://www.lexingtonma.gov/393/Visitors-Center

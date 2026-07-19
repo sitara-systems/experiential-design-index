@@ -1,0 +1,10 @@
+id: rupp-arena
+name: Rupp Arena (Central Bank Center)
+venue_type: sports-venue
+location:
+  city: Lexington
+  state: KY
+description: >
+  A combined arena and convention-center complex.
+sources:
+  - https://www.eoparch.com/

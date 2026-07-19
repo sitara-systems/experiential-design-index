@@ -1,0 +1,20 @@
+id: woodland-park-zoo-zoomazium
+name: Zoomazium
+venue: woodland-park-zoo
+project_type: new-exhibition
+year_completed: 2006
+credits:
+  - firm: mithun
+    role: architecture
+  - firm: aldrichpears-associates
+    role: exhibit-design
+  - firm: dillon-works
+    role: fabrication
+technologies: []
+summary: >
+  Zoomazium, an indoor nature-play exhibit at Woodland Park Zoo in
+  Seattle, opened 2006; architecture by Mithun, exhibit design by
+  AldrichPears Associates, fabrication by Dillon Works.
+description: ""
+sources:
+  - https://www.spokesman.com/

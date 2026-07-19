@@ -1,0 +1,9 @@
+id: wanapum-heritage-center
+name: Wanapum Heritage Center
+venue_type: history-museum
+location:
+  city: Mattawa
+  state: WA
+operator: Wanapum Band
+sources:
+  - https://www.aiawc.org/

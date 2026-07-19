@@ -1,0 +1,22 @@
+# Firm record — Curious Beast
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: curious-beast
+name: Curious Beast
+aka: []
+hq:
+  city: Seattle
+  state: WA
+roles:
+  - exhibit-design
+status: active
+status_basis: >
+  Exhibit design on Living Computers: Museum + Labs (Seattle, WA,
+  renovation completed 2016-2017), per SEGD's own independent project
+  page.
+status_verified: 2026-07-19
+summary: >
+  Curious Beast is an exhibit design studio.
+sources:
+  - https://segd.org/projects/living-computers-museum-labs/
+  - https://www.curiousbeast.org/

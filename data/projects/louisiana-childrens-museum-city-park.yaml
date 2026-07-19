@@ -4,12 +4,32 @@ venue: louisiana-childrens-museum
 project_type: new-building
 year_completed: 2019
 credits:
+  - firm: mithun
+    role: architecture
+    note: "Lead architect"
+  - firm: mithun
+    role: landscape-architecture
+  - firm: waggonner-and-ball-architects
+    role: architecture
+    note: "Local/collaborating architect; no firm record yet"
+  - firm: gyroscope-inc
+    role: exhibit-design
+    note: >
+      Museum planning and exhibit/graphic design, per Gyroscope's own
+      site; scope overlaps with Studio Matthews' credit below, kept as
+      parallel claims rather than resolved
   - firm: studio-matthews
     role: graphics-wayfinding
   - firm: studio-matthews
     role: interpretive-planning
   - firm: solomon-group
     role: fabrication
+  - firm: kubik-maltbie
+    role: fabrication
+    note: >
+      Joined post-Schematic Design in 2019, per kubik maltbie's own
+      project page; scope overlaps with Solomon Group's credit above,
+      kept as parallel claims rather than resolved
 technologies:
   - environmental graphics
   - donor recognition wall
@@ -26,3 +46,5 @@ description: ""
 sources:
   - https://segd.org/projects/louisiana-childrens-museum/
   - https://studiomatthews.com/project/louisiana-childrens-museum-louisiana-childrens-museumbranding/
+  - https://www.wbae.com/
+  - https://kubikmaltbie.com/

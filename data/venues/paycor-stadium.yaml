@@ -1,0 +1,10 @@
+id: paycor-stadium
+name: Paycor Stadium
+venue_type: sports-venue
+location:
+  city: Cincinnati
+  state: OH
+description: >
+  Opened as Paul Brown Stadium in 2000; renamed Paycor Stadium in 2022.
+sources:
+  - https://en.wikipedia.org/wiki/Paycor_Stadium

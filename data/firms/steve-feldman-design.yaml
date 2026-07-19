@@ -1,0 +1,26 @@
+# Firm record — Steve Feldman Design
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: steve-feldman-design
+name: Steve Feldman Design
+aka: []
+website: http://www.stevefeldmandesign.com
+hq:
+  city: Bethesda
+  state: MD
+founded: 1988
+roles:
+  - exhibit-design
+status: active
+status_basis: >
+  Exhibit design credited on 3 existing corpus projects (Malek West
+  Point Visitors Center, Museum of the American Revolution's "Cost of
+  Revolution," National Mounted Warrior Museum Phase 1); active per its
+  own site as of verification date.
+status_verified: 2026-07-19
+summary: >
+  Steve Feldman Design is a Bethesda, Maryland-based museum exhibit
+  planning and design firm founded in 1988.
+sources:
+  - http://www.stevefeldmandesign.com/the-firm
+  - http://www.stevefeldmandesign.com/contact

@@ -1,0 +1,21 @@
+# Firm record — Dillon Works
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: dillon-works
+name: Dillon Works
+aka: []
+hq:
+  city: Mukilteo
+  state: WA
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Fabrication on Woodland Park Zoo's Zoomazium (Seattle, WA, opened
+  2006); active per its own site as of verification date.
+status_verified: 2026-07-19
+summary: >
+  Dillon Works is a Mukilteo, Washington-based themed-environment
+  fabrication studio.
+sources:
+  - https://www.dillonworks.com/

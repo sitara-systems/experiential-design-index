@@ -1,0 +1,19 @@
+id: suquamish-museum-core
+name: Suquamish Museum
+venue: suquamish-museum
+project_type: new-building
+year_completed: 2012
+credits:
+  - firm: mithun
+    role: architecture
+  - firm: mithun
+    role: landscape-architecture
+technologies: []
+summary: >
+  The Suquamish Museum on the Port Madison Indian Reservation in
+  Suquamish, Washington, opened 2012; architecture and landscape
+  architecture by Mithun.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Suquamish_Museum
+  - https://www.seattlemag.com/

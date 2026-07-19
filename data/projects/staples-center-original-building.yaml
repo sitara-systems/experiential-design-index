@@ -1,0 +1,17 @@
+id: staples-center-original-building
+name: Staples Center (original building)
+venue: crypto-com-arena
+project_type: new-building
+year_completed: 1999
+credits:
+  - firm: nbbj
+    role: architecture
+    note: "Dan Meis, Ron Turner"
+technologies: []
+summary: >
+  Staples Center (now Crypto.com Arena) in Los Angeles opened 1999;
+  architecture by NBBJ.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Crypto.com_Arena
+  - https://www.archpaper.com/

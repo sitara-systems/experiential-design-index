@@ -1,0 +1,8 @@
+id: national-nordic-museum
+name: National Nordic Museum
+venue_type: history-museum
+location:
+  city: Seattle
+  state: WA
+sources:
+  - https://raai.com/project/national-nordic-museum/

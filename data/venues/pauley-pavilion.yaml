@@ -1,0 +1,9 @@
+id: pauley-pavilion
+name: Pauley Pavilion
+venue_type: sports-venue
+location:
+  city: Los Angeles
+  state: CA
+operator: UCLA
+sources:
+  - https://en.wikipedia.org/wiki/Pauley_Pavilion

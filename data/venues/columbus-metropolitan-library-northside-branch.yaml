@@ -1,0 +1,8 @@
+id: columbus-metropolitan-library-northside-branch
+name: Columbus Metropolitan Library, Northside Branch
+venue_type: library-archive
+location:
+  city: Columbus
+  state: OH
+sources:
+  - https://www.archdaily.com/

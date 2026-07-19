@@ -1,0 +1,9 @@
+id: suquamish-museum
+name: Suquamish Museum
+venue_type: history-museum
+location:
+  city: Suquamish
+  state: WA
+operator: Suquamish Tribe
+sources:
+  - https://en.wikipedia.org/wiki/Suquamish_Museum

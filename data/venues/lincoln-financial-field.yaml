@@ -1,0 +1,8 @@
+id: lincoln-financial-field
+name: Lincoln Financial Field
+venue_type: sports-venue
+location:
+  city: Philadelphia
+  state: PA
+sources:
+  - https://en.wikipedia.org/wiki/Lincoln_Financial_Field

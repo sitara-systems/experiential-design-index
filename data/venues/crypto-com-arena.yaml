@@ -1,0 +1,10 @@
+id: crypto-com-arena
+name: Crypto.com Arena
+venue_type: sports-venue
+location:
+  city: Los Angeles
+  state: CA
+description: >
+  Opened as Staples Center in 1999; renamed Crypto.com Arena in 2021.
+sources:
+  - https://en.wikipedia.org/wiki/Crypto.com_Arena

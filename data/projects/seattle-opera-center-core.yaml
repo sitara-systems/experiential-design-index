@@ -1,0 +1,15 @@
+id: seattle-opera-center-core
+name: Seattle Opera at the Center
+venue: seattle-opera-center
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: nbbj
+    role: architecture
+technologies: []
+summary: >
+  Seattle Opera at the Center, a 105,000 sq ft LEED Silver building at
+  Seattle Center, opened 2018; architecture by NBBJ.
+description: ""
+sources:
+  - https://pcad.lib.washington.edu/

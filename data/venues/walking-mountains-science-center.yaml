@@ -1,0 +1,8 @@
+id: walking-mountains-science-center
+name: Walking Mountains Science Center
+venue_type: science-center
+location:
+  city: Avon
+  state: CO
+sources:
+  - https://www.zehren.com/
