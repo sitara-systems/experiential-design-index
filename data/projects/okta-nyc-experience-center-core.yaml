@@ -1,0 +1,22 @@
+id: okta-nyc-experience-center-core
+name: Okta New York Experience Center
+venue: okta-new-york-experience-center
+project_type: new-exhibition
+year_completed: 2022
+credits:
+  - firm: hush
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: electrosonic
+    role: av-integration
+technologies:
+  - LED display
+summary: >
+  Okta opened a public-facing brand experience center in Manhattan in
+  November 2022, designed by HUSH with AV/immersive-technology
+  integration by Electrosonic.
+description: ""
+sources:
+  - https://www.electrosonic.com/projects/oktas-new-york-experience-center
+  - https://www.heyhush.com/work/14-building-okta-s-brand-awareness-on-broadway
+  - https://snadisplays.com/projects/okta-experience-center/

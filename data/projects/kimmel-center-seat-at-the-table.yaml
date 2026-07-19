@@ -20,6 +20,9 @@ credits:
   - firm: bad-idea-factory
     role: media-design
     note: "Software development for interactive screens; no firm record yet"
+  - firm: talbott-exhibits-and-planning
+    role: interpretive-planning
+    note: "Curators/project managers; no firm record yet"
 technologies:
   - interactive touchscreens
   - custom furniture / environmental graphics

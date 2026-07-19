@@ -1,0 +1,9 @@
+id: finneran-pavilion-villanova
+name: "Finneran Pavilion (\"The Pavilion\")"
+venue_type: sports-venue
+location:
+  city: Villanova
+  state: PA
+operator: Villanova University
+sources:
+  - https://villanova.com/sports/2018/10/8/finneran-pavilion

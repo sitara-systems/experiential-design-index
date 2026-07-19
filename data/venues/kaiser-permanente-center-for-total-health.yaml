@@ -1,0 +1,9 @@
+id: kaiser-permanente-center-for-total-health
+name: Kaiser Permanente Center for Total Health
+venue_type: briefing-center
+location:
+  city: Washington
+  state: DC
+operator: Kaiser Permanente
+sources:
+  - https://www.prnewswire.com/news-releases/kaiser-permanente-opens-center-for-total-health-in-washington-dc-119223594.html

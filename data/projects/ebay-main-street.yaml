@@ -1,0 +1,21 @@
+id: ebay-main-street
+name: "Main Street"
+venue: ebay-san-jose-headquarters
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: esi-design
+    role: media-design
+    note: "20,000 sq ft interactive hub/welcome center; 15-ft touchscreen data wall"
+technologies:
+  - multi-touch data wall
+  - generative data visualization
+summary: >
+  eBay's "Main Street," a 20,000-square-foot interactive welcome hub and
+  showcase space at its San Jose, California headquarters, opened
+  December 2016, designed by ESI Design.
+description: ""
+sources:
+  - https://esi.nbbj.com/work/ebay-main-street
+  - https://www.dexigner.com/news/29518
+  - https://www.bdcnetwork.com/building-sector-reports/office-buildings/news/55160590/ebays-san-jose-headquarters-has-a-new-interactive-hub-and-welcome-center-named-main-street

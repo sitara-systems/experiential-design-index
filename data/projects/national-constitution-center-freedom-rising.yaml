@@ -1,0 +1,39 @@
+id: national-constitution-center-freedom-rising
+name: "Freedom Rising and Core Exhibits"
+venue: national-constitution-center
+project_type: new-building
+year_completed: 2003
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: donna-lawrence-productions
+    role: content-production
+    note: >
+      "Freedom Rising," a 350-seat theater-in-the-round with live talent
+      and 360-degree video projection.
+  - firm: electrosonic
+    role: av-integration
+  - firm: fisher-marantz-stone
+    role: lighting-design
+  - firm: technical-artistry
+    role: lighting-design
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Credited as \"Maltbie Associates,\" the firm's pre-merger name"
+technologies:
+  - 360-degree video projection
+recognition:
+  - award: "TEA Thea Award"
+    year: 2003
+    source: https://dlproductions.com/projects/national-constitution-center/
+summary: >
+  The National Constitution Center, a new museum on the U.S.
+  Constitution, opened July 4, 2003 in Philadelphia, Pennsylvania, with
+  exhibit design by Ralph Appelbaum Associates and the "Freedom Rising"
+  theater-in-the-round production by Donna Lawrence Productions.
+description: ""
+sources:
+  - https://raai.com/project/national-constitution-center/
+  - https://dlproductions.com/projects/national-constitution-center/
+  - https://whyy.org/articles/freedom-rising-at-constitution-center-celebrates-its-50000th-show/
+  - https://constitutioncenter.org/experience/exhibitions/main-exhibition/freedom-rising

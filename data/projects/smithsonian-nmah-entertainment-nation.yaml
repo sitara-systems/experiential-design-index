@@ -8,6 +8,9 @@ credits:
     role: exhibit-design
   - firm: available-light
     role: lighting-design
+  - firm: ewingcole
+    role: architecture
+    note: "Infrastructure/engineering scope for the flexible \"black box\" gallery (modular power/data systems)"
 technologies: []
 summary: >
   Entertainment Nation/Nación del espectáculo, a permanent exhibition in

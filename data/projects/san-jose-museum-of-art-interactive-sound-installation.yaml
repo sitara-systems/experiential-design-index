@@ -7,6 +7,9 @@ credits:
   - firm: dome-collective
     role: media-design
     note: "Interactive sound experience using RFID technology, built as a companion piece to artist Rina Banerjee's exhibition"
+  - firm: superbright
+    role: media-design
+    note: "Software development; no firm record yet"
 technologies:
   - RFID
   - interactive audio

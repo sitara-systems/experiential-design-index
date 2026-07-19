@@ -1,0 +1,25 @@
+id: flint-hills-discovery-center-core
+name: "Tallgrass Prairie: Tides of Time"
+venue: flint-hills-discovery-center
+project_type: new-building
+year_completed: 2012
+credits:
+  - firm: donna-lawrence-productions
+    role: content-production
+    note: "180-degree immersive theater film with 4D effects"
+  - firm: hilferty-and-associates
+    role: exhibit-design
+  - firm: split-rock-studios
+    role: fabrication
+technologies:
+  - 4D immersive theater
+summary: >
+  The Flint Hills Discovery Center, a science and discovery center on
+  the Flint Hills tallgrass prairie ecosystem, opened April 14, 2012 in
+  Manhattan, Kansas, with a 180-degree immersive theater film by Donna
+  Lawrence Productions, exhibit design by Hilferty & Associates, and
+  fabrication by Split Rock Studios.
+description: ""
+sources:
+  - https://www.flinthillsdiscovery.org/3452/History
+  - https://dlproductions.com/projects/flint-hills-discover-center/

@@ -1,0 +1,9 @@
+id: science-history-institute
+name: Science History Institute
+venue_type: history-museum
+location:
+  city: Philadelphia
+  state: PA
+website: https://www.sciencehistory.org
+sources:
+  - https://www.sciencehistory.org

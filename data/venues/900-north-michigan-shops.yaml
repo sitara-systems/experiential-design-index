@@ -1,0 +1,9 @@
+id: 900-north-michigan-shops
+name: 900 North Michigan Shops
+venue_type: retail-flagship
+location:
+  city: Chicago
+  state: IL
+operator: JMB Realty Corporation
+sources:
+  - https://esi.nbbj.com/work/900-north-michigan-shops

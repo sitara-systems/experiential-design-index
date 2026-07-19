@@ -1,0 +1,9 @@
+id: warnermedia-headquarters-hudson-yards
+name: WarnerMedia Headquarters
+venue_type: briefing-center
+location:
+  city: New York
+  state: NY
+operator: WarnerMedia
+sources:
+  - https://esi.nbbj.com/work/warnermedia-headquarters

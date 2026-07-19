@@ -19,6 +19,11 @@ credits:
   - firm: true-edge-archive
     role: content-production
     note: "3D art and animation; no firm record yet"
+  - firm: prime-access-consulting
+    role: accessibility-consulting
+  - firm: the-farm-51
+    role: content-production
+    note: "Director of photography and 3D models; no firm record yet"
 technologies:
   - mixed reality
   - HoloLens

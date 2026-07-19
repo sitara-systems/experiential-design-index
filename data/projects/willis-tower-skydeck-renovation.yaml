@@ -17,6 +17,12 @@ credits:
   - firm: palazzo-lighting-design
     role: lighting-design
     note: "no firm record yet"
+  - firm: squint-opera
+    role: content-production
+    note: >
+      CGI fly-through video, a six-screen animated data map ("Unseen
+      Chicago"), and motion-graphic storytelling ("The Making of the
+      Ledge"); no firm record yet
 technologies:
   - LED walls
   - multi-projector mapping

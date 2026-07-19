@@ -1,0 +1,24 @@
+id: ksc-apollo-saturn-v-firing-room-theater
+name: Apollo/Saturn V Center Firing Room Theater Renovation
+venue: kennedy-space-center-visitor-complex
+project_type: exhibition-refresh
+year_completed: 2011
+credits:
+  - firm: electrosonic
+    role: av-integration
+    note: >
+      Show control and AV system replacement — new media controllers,
+      projectors, playback systems, captioning, and "butt-shaker" bench
+      effects for the Apollo 8 launch-countdown simulation.
+technologies:
+  - show control system
+  - multi-projector display
+  - haptic seating
+summary: >
+  Electrosonic modernized the Firing Room Theater at Kennedy Space
+  Center Visitor Complex's Apollo/Saturn V Center in Merritt Island,
+  Florida, replacing legacy show-control and AV systems for the venue's
+  Apollo 8 launch-countdown simulation, completed December 2011.
+description: ""
+sources:
+  - https://www.inparkmagazine.com/electrosonic-updates-apollosaturn-v-centers-firing-room-theater-with-21st-century-technology/

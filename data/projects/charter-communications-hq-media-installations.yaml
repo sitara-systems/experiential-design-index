@@ -1,0 +1,30 @@
+id: charter-communications-hq-media-installations
+name: Charter Communications Headquarters Media Installations
+venue: charter-communications-headquarters-stamford
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: esi-design
+    role: media-design
+    note: >
+      Interactive lobby network-data display, exterior light-responsive
+      fountain, auditorium media wrap, generative soundscape.
+  - firm: hlw
+    role: architecture
+    note: "No firm record yet"
+  - firm: hlw
+    role: lighting-design
+    note: "Via its in-house Spark studio; no firm record yet"
+technologies:
+  - responsive lobby installation
+  - generative soundscape
+summary: >
+  ESI Design delivered three interactive media installations (exterior
+  fountain, lobby network display, auditorium media) at Charter
+  Communications' 900,000 sq ft Stamford, Connecticut headquarters,
+  opened June 2022, with architecture and lighting by HLW.
+description: ""
+sources:
+  - https://esi.nbbj.com/work/charter-communications
+  - https://corporate.charter.com/newsroom/charter-officially-opens-corporate-headquarters-in-stamford-ct
+  - https://www.hlw.com/project/charter-communications-headquarters/

@@ -10,6 +10,16 @@ credits:
     role: fabrication
   - firm: cortina-productions
     role: media-design
+  - firm: ewingcole
+    role: architecture
+    note: >
+      Recommended per the shell-architect-credited-per-exhibition
+      convention (Deep Time, Native New York, Entertainment Nation) —
+      EwingCole is independently confirmed as architect of NMAH's West
+      Exhibition Wing, whose first floor opened the same date (July 1,
+      2015) as this exhibition, but the pairing is inferred from
+      date/venue correlation rather than an explicit named credit on
+      either side's own materials.
 technologies: []
 summary: >
   American Enterprise, an 8,000-square-foot permanent exhibition on the

@@ -1,0 +1,24 @@
+id: nmah-places-of-invention
+name: "Places of Invention (Lemelson Hall)"
+venue: smithsonian-national-museum-of-american-history
+project_type: new-exhibition
+year_completed: 2015
+credits:
+  - firm: roto
+    role: exhibit-design
+  - firm: roto
+    role: fabrication
+technologies: []
+recognition:
+  - award: "Dibner Award"
+    year: 2015
+    source: https://roto.com/museums/places-of-invention
+summary: >
+  "Places of Invention," a permanent exhibition on American innovation
+  in the Jerome and Dorothy Lemelson Hall of Invention and Innovation at
+  the Smithsonian's National Museum of American History in Washington,
+  DC, opened July 1, 2015, with exhibit design and fabrication by Roto.
+description: ""
+sources:
+  - https://roto.com/museums/places-of-invention
+  - https://americanhistory.si.edu/exhibitions/places-invention

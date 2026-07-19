@@ -1,0 +1,28 @@
+id: science-history-institute-object-explorer
+name: Object Explorer
+venue: science-history-institute
+project_type: exhibition-refresh
+year_completed: 2021
+credits:
+  - firm: electrosonic
+    role: av-integration
+    note: "Two-story, 8-display media wall"
+  - firm: electrosonic
+    role: media-design
+    note: "Interactive table with 3D-object-recognition"
+  - firm: potion-design
+    role: media-design
+    note: "Co-developer of the Object Explorer"
+technologies:
+  - object recognition
+  - media wall
+summary: >
+  The Object Explorer, a two-story media wall and object-recognition
+  interactive table, opened as part of the Science History Institute's
+  refreshed permanent exhibition on July 1, 2021 in Philadelphia,
+  Pennsylvania; developed by Electrosonic and Potion Design.
+description: ""
+sources:
+  - https://www.electrosonic.com/projects/science-history-institute
+  - https://www.sciencehistory.org/museum/object-explorer
+  - https://www.sciencehistory.org/about/press/science-history-institutes-museum-to-reopen-july-1/

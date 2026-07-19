@@ -1,0 +1,27 @@
+id: amnh-hall-of-biodiversity
+name: Hall of Biodiversity
+venue: american-museum-of-natural-history
+project_type: new-exhibition
+year_completed: 1998
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: donna-lawrence-productions
+    role: content-production
+    note: "One of several credited AV-presentation production companies"
+  - firm: technical-artistry
+    role: lighting-design
+  - firm: electrosonic
+    role: av-integration
+technologies:
+  - AV presentation systems
+summary: >
+  The Hall of Biodiversity, a permanent exhibition on global biodiversity
+  and conservation at the American Museum of Natural History in New
+  York, opened May 30, 1998, with exhibit design by Ralph Appelbaum
+  Associates and AV production by Donna Lawrence Productions among other
+  credited production companies.
+description: ""
+sources:
+  - https://raai.com/project/hall-of-biodiversity-american-museum-of-natural-history/
+  - https://segd.org/projects/hall-biodiversity/

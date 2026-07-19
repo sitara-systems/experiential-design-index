@@ -1,0 +1,22 @@
+id: johnson-controls-openblue-innovation-center-core
+name: OpenBlue Innovation Center
+venue: johnson-controls-openblue-innovation-center
+project_type: new-exhibition
+year_completed: 2023
+credits:
+  - firm: electrosonic
+    role: av-integration
+    note: "Technology design consulting, system integration, AV/control systems, media walls, immersive technologies"
+technologies:
+  - media wall
+  - immersive technology
+summary: >
+  Johnson Controls opened a 1,800-square-foot OpenBlue Innovation Center
+  inside its renovated North American headquarters in Glendale,
+  Wisconsin, in October 2023, with AV/systems integration by
+  Electrosonic.
+description: ""
+sources:
+  - https://www.electrosonic.com/projects/johnson-controls-openblue-innovation-center-milwaukee
+  - https://www.johnsoncontrols.com/media-center/news/press-releases/2023/10/31/johnson-controls-north-american-headquarters-showcases-collaboration-productivity-and-sustainability
+  - https://blooloop.com/technology/news/electrosonic-johnson-controls-smart-buildings/

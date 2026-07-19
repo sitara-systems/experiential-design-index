@@ -1,0 +1,23 @@
+id: kaiser-permanente-total-health-core
+name: Center for Total Health
+venue: kaiser-permanente-center-for-total-health
+project_type: new-exhibition
+year_completed: 2011
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: electrosonic
+    role: av-integration
+    note: "AV design, engineering, specialty audio, interactive technologies, fabrication and installation"
+technologies:
+  - interactive multitouch wall
+summary: >
+  Kaiser Permanente opened a 12,000-square-foot public-facing health
+  education center in Washington, DC in 2011, designed by Ralph
+  Appelbaum Associates with AV integration by Electrosonic, centered on
+  an 80x9-foot interactive multitouch discovery wall.
+description: ""
+sources:
+  - https://www.prnewswire.com/news-releases/kaiser-permanente-opens-center-for-total-health-in-washington-dc-119223594.html
+  - https://raai.com/project/kaiser-permanente-center-for-total-health/
+  - https://www.electrosonic.com/projects/kaiser-permanente-center-for-total-health

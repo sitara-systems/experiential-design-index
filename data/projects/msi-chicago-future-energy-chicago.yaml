@@ -1,0 +1,31 @@
+id: msi-chicago-future-energy-chicago
+name: Future Energy Chicago
+venue: museum-of-science-and-industry-chicago
+project_type: new-exhibition
+year_completed: 2013
+credits:
+  - firm: evidence-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: donna-lawrence-productions
+    role: content-production
+    note: "Signature film"
+  - firm: potion-design
+    role: media-design
+    note: "Interactive production"
+  - firm: electrosonic
+    role: av-integration
+  - firm: sh-acoustics
+    role: acoustics
+technologies:
+  - motion-sensing interactive
+summary: >
+  Future Energy Chicago, an exhibition on energy consumption and
+  conservation at the Museum of Science and Industry in Chicago, opened
+  September 2013, with exhibit design by Evidence Design, a signature
+  film by Donna Lawrence Productions, and interactive production by
+  Potion Design.
+description: ""
+sources:
+  - https://www.evidencedesign.com/details/future-energy-chicago/
+  - https://dlproductions.com/projects/museum-of-science-and-industry/

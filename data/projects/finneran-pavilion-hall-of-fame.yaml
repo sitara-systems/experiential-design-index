@@ -1,0 +1,25 @@
+id: finneran-pavilion-hall-of-fame
+name: Hall of Fame
+venue: finneran-pavilion-villanova
+project_type: new-exhibition
+year_completed: 2018
+credits:
+  - firm: ewingcole
+    role: architecture
+  - firm: steel-city-displays
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - touchscreen displays
+  - LED edge-lit glass
+summary: >
+  A Hall of Fame gallery within Villanova University's Finneran Pavilion
+  ("The Pavilion") in Villanova, Pennsylvania, opened 2018, with
+  architecture by EwingCole and fabrication — including a trophy case,
+  touchscreen displays naming 450 Hall of Fame inductees, and edge-lit
+  glass pylons — by Steel City Displays.
+description: ""
+sources:
+  - https://www.ewingcole.com/project/finneran-pavilion/
+  - https://www.steelcitydisplays.com/villanova-university-finneran-pavilion-project
+  - https://villanova.com/sports/2018/10/8/finneran-pavilion

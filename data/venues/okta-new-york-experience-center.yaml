@@ -1,0 +1,9 @@
+id: okta-new-york-experience-center
+name: Okta New York Experience Center
+venue_type: brand-experience-center
+location:
+  city: New York
+  state: NY
+operator: Okta
+sources:
+  - https://www.electrosonic.com/projects/oktas-new-york-experience-center

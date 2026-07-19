@@ -1,0 +1,9 @@
+id: charter-communications-headquarters-stamford
+name: Charter Communications Headquarters
+venue_type: briefing-center
+location:
+  city: Stamford
+  state: CT
+operator: Charter Communications
+sources:
+  - https://corporate.charter.com/newsroom/charter-officially-opens-corporate-headquarters-in-stamford-ct

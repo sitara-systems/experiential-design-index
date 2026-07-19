@@ -1,0 +1,8 @@
+id: surf-ballroom
+name: Surf Ballroom
+venue_type: history-museum
+location:
+  city: Clear Lake
+  state: IA
+sources:
+  - https://www.triviuminteractive.com/project/surf-ballroom-music-experience-center

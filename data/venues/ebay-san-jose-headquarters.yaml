@@ -1,0 +1,9 @@
+id: ebay-san-jose-headquarters
+name: eBay San Jose Headquarters
+venue_type: briefing-center
+location:
+  city: San Jose
+  state: CA
+operator: eBay
+sources:
+  - https://esi.nbbj.com/work/ebay-main-street

@@ -35,6 +35,11 @@ credits:
   - firm: hunt-design
     role: graphics-wayfinding
     note: "no firm record yet"
+  - firm: adirondack-studios
+    role: fabrication
+  - firm: visual-terrain
+    role: lighting-design
+    note: "Second lighting-design firm alongside Eos Lightmedia; no firm record yet"
 technologies:
   - projection mapping
   - media server show control

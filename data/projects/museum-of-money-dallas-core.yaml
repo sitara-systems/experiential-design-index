@@ -1,0 +1,31 @@
+id: museum-of-money-dallas-core
+name: MoMoney Core Exhibits
+venue: museum-of-money-dallas
+project_type: new-exhibition
+year_completed: 2026
+credits:
+  - firm: luci-creative
+    role: exhibit-design
+  - firm: fivestone-studios
+    role: media-design
+    note: "6 Unity-engine interactive experiences; no firm record yet"
+  - firm: ravenswood-studio
+    role: fabrication
+  - firm: electrosonic
+    role: av-integration
+technologies:
+  - real-time graphics
+  - interactive kiosk
+  - motion tracking
+summary: >
+  MoMoney (Museum of Money), a 28-exhibit interactive museum on the
+  history and mechanics of money, opened February 20, 2026 at 501 Elm
+  Street in downtown Dallas, Texas; exhibit design led by Luci Creative
+  with Fivestone Studios (interactive media) and Ravenswood Studio
+  (fabrication), AV integration by Electrosonic.
+description: ""
+sources:
+  - https://dallasinnovates.com/momoney-rolls-in-museum-of-money-to-open-in-downtown-dallas/
+  - https://www.electrosonic.com/projects/museum-of-money
+  - https://www.livedesignonline.com/news/fivestone-studios-luci-and-partners-deliver-next-generation-interactive-experiences-new-museum
+  - https://museumofmoney.com/about

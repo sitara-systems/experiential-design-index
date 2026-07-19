@@ -35,8 +35,26 @@ credits:
       Design development, procurement, fabrication, and installation of all
       37,249 sq ft of exhibit lighting components (including track heads),
       guided by Available Light's lighting design vision.
+  - firm: dome-collective
+    role: media-design
+    note: >
+      Interactive and linear media design across the exhibition (The
+      Courage Within immersive 360-degree film, Moments of
+      Action/Honor interactive landscapes, Huey Helicopter Audio
+      Spotlights, Medal Design Interactive, 360 Biography
+      Interactives), per Dome's own project page.
+  - firm: redglass-pictures
+    role: content-production
+    note: "Media lead; no firm record yet"
+  - firm: oddleg
+    role: media-design
+    note: "Software development; no firm record yet"
+  - firm: true-edge-archive
+    role: content-production
+    note: "Photogrammetry and 3D modeling"
 technologies:
   - interactive kiosks
+  - immersive theater
 summary: >
   The National Medal of Honor Museum, a new purpose-built museum honoring
   Medal of Honor recipients, opened March 22, 2025 in Arlington, Texas, with

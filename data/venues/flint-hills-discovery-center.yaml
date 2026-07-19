@@ -1,0 +1,8 @@
+id: flint-hills-discovery-center
+name: Flint Hills Discovery Center
+venue_type: science-center
+location:
+  city: Manhattan
+  state: KS
+sources:
+  - https://www.flinthillsdiscovery.org/3452/History

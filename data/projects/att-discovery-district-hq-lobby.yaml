@@ -1,0 +1,29 @@
+id: att-discovery-district-hq-lobby
+name: AT&T Headquarters Lobby
+venue: att-discovery-district
+project_type: installation
+year_completed: 2021
+credits:
+  - firm: gensler
+    role: architecture
+  - firm: electrosonic
+    role: av-integration
+    note: "Complete audio, video, control systems and ICT systems"
+  - firm: core-creative-labs
+    role: content-production
+    note: "No firm record yet"
+technologies:
+  - LED columns
+  - video wall
+summary: >
+  A distinct LED-column-and-video-wall installation in the lobby of
+  AT&T's Dallas headquarters, part of the AT&T Discovery District
+  complex, opened 2021, designed by Gensler with AV/ICT integration by
+  Electrosonic and content by Core Creative Labs.
+description: >
+  Distinct from the venue's separately recorded Globe sculpture and
+  Media Wall & LED Trellis installations.
+sources:
+  - https://www.electrosonic.com/projects/hq-lobby-at-att-discovery-district
+  - https://snadisplays.com/projects/att-discovery-district-headquarters-lobby/
+  - https://magazine.texasarchitects.org/2021/07/01/dallas-att-discovery-district-mixes-media-and-walkable-urbanism/

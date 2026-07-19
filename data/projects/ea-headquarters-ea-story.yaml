@@ -10,6 +10,12 @@ credits:
   - firm: aimee-stevland-design
     role: content-production
     note: "Design, illustration, and restoration of 20,000+ historical game-cover images for the interactive wall; exterior wall tribute illustration; no firm record yet"
+  - firm: dce
+    role: fabrication
+    note: "No firm record yet"
+  - firm: aces2spades
+    role: av-integration
+    note: "No firm record yet"
 technologies:
   - projection mapping
   - interactive touch wall

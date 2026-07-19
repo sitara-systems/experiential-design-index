@@ -1,0 +1,9 @@
+id: eaton-experience-center-cleveland
+name: Eaton Experience Center
+venue_type: brand-experience-center
+location:
+  city: Cleveland
+  state: OH
+operator: Eaton Corporation
+sources:
+  - https://segd.org/projects/eaton-experience-center/

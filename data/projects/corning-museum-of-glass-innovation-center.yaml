@@ -1,0 +1,24 @@
+id: corning-museum-of-glass-innovation-center
+name: Innovation Center
+venue: corning-museum-of-glass
+project_type: major-renovation
+year_completed: 2001
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: donna-lawrence-productions
+    role: content-production
+    note: >
+      Attraction film, interactive/gallery features, 12-monitor video
+      sculpture, optical-fiber video.
+technologies:
+  - video sculpture
+summary: >
+  The Innovation Center, a renovation and expansion of the Corning
+  Museum of Glass in Corning, New York, opened in 2001, with exhibit
+  design by Ralph Appelbaum Associates and content production by Donna
+  Lawrence Productions.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Corning_Museum_of_Glass
+  - https://dlproductions.com/projects/corning-museum-of-glass-2/

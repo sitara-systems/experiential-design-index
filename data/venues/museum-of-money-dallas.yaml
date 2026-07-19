@@ -1,0 +1,9 @@
+id: museum-of-money-dallas
+name: MoMoney (Museum of Money)
+venue_type: history-museum
+location:
+  city: Dallas
+  state: TX
+website: https://museumofmoney.com
+sources:
+  - https://museumofmoney.com/about

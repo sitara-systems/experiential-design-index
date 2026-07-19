@@ -7,6 +7,9 @@ credits:
   - firm: moment-factory
     role: media-design
     note: "Content and control systems for a 104-foot, 6K media wall and a two-story, ~5,800-linear-foot LED trellis; distinct from The Globe sculpture at the same venue"
+  - firm: electrosonic
+    role: av-integration
+    note: "Audio, video, control systems, and ICT systems"
 technologies:
   - large-format media wall
   - LED trellis
