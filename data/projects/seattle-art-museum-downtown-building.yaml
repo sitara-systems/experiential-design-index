@@ -1,0 +1,22 @@
+id: seattle-art-museum-downtown-building
+name: Seattle Art Museum (downtown building)
+venue: seattle-art-museum
+project_type: new-building
+year_completed: 1991
+credits:
+  - firm: venturi-scott-brown
+    role: architecture
+    note: "Design architect; no firm record yet"
+  - firm: olson-kundig
+    role: architecture
+    note: "Associate architect of record (then Olson Sundberg Architects)"
+technologies: []
+summary: >
+  The Seattle Art Museum's downtown building opened December 5, 1991;
+  design architecture by Venturi, Scott Brown and Associates, with Olson
+  Kundig (then Olson Sundberg Architects) as associate architect of
+  record.
+description: ""
+sources:
+  - https://www.historylink.org/
+  - https://sah-archipedia.org/

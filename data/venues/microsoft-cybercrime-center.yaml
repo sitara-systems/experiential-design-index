@@ -1,0 +1,8 @@
+id: microsoft-cybercrime-center
+name: Microsoft Cybercrime Center
+venue_type: briefing-center
+location:
+  city: Redmond
+  state: WA
+sources:
+  - https://news.microsoft.com/

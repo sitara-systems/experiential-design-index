@@ -1,0 +1,8 @@
+id: leach-botanical-garden
+name: Leach Botanical Garden
+venue_type: botanical-garden
+location:
+  city: Portland
+  state: OR
+sources:
+  - https://www.portland.gov/parks/leach-botanical-garden

@@ -7,22 +7,28 @@ hq:
 other_offices: []
 roles:
   - fabrication
-status: unclear
+status: active
 status_basis: >
-  Credited as fabricator on four Studio Matthews projects, but all dated
-  2014-2020 (Bezos Center for Innovation, Fred Hutch Visitor Center,
-  Design with the 90%, Gates Foundation 20th Anniversary) — no evidence of
-  activity in the trailing 3-year window. The company's own domain
-  (pacificstudio.com) currently resolves to a parked for-sale listing
-  rather than an active company site, though third-party business
-  directories (BBB, Yelp) still list a Seattle address without indicating
-  closure.
-status_verified: 2026-07-18
+  A full portfolio screen (2026-07-19) found the corpus already carried
+  15 Pacific Studio credits, not the 4 in the prior basis, including a
+  fabrication credit on the Agua Caliente Cultural Museum/Plaza (Palm
+  Springs, CA), independently dated to November 2023 via both SEGD's own
+  project page and RLMG's own project page — inside the 3-year active
+  window. Conflicting signals exist: the company's own domain
+  (pacificstudio.com) resolves to a parked for-sale listing, and
+  unverified search summaries suggest a Crunchbase "permanently closed"
+  tag and a Glassdoor review titled "the Company is now closed" (neither
+  independently confirmed with a date). On balance, kept `active` on the
+  dated, independently-sourced 2023 credit, but the closure signals are
+  real enough to revisit if a future check finds nothing more recent.
+status_verified: 2026-07-19
 summary: >
-  Pacific Studio was a Seattle-based design and fabrication company
+  Pacific Studio is a Seattle-based design and fabrication company
   producing museum-quality exhibits, casework, and interactives for
   museums and visitor centers.
 sources:
   - https://studiomatthews.com/project/bezos-center-for-innovation/
   - https://studiomatthews.com/project/fred-hutch-visitor-center/
   - https://www.bbb.org/us/wa/seattle/profile/design-contractor/pacific-studio-inc-1296-22460487
+  - https://segd.org/projects/agua-caliente-cultural-plaza/
+  - https://rlmg.com/work/agua-caliente-cultural-museum

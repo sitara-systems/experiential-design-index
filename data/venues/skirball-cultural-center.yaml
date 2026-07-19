@@ -1,0 +1,9 @@
+id: skirball-cultural-center
+name: Skirball Cultural Center
+venue_type: cultural-center
+location:
+  city: Los Angeles
+  state: CA
+website: https://www.skirball.org
+sources:
+  - https://www.skirball.org/

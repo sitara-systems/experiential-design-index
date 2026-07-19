@@ -8,11 +8,16 @@ credits:
     role: graphics-wayfinding
   - firm: lmn-architects
     role: architecture
+  - firm: northwest-sign-and-design
+    role: fabrication
+  - firm: ggn
+    role: landscape-architecture
+    note: "No firm record yet"
 summary: >
   Studio Matthews designed the sign system for Founders Hall, a new
   sustainable building at the University of Washington, with architecture
-  by LMN Architects.
-description: >
-  Landscape architecture by GGN; fabrication by NW Signs.
+  by LMN Architects, landscape architecture by GGN, and fabrication by
+  Northwest Sign & Design.
+description: ""
 sources:
   - https://studiomatthews.com/project/founders-hall/

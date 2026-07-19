@@ -1,0 +1,17 @@
+id: microsoft-cybercrime-center-core
+name: Microsoft Cybercrime Center
+venue: microsoft-cybercrime-center
+project_type: new-building
+year_completed: 2013
+credits:
+  - firm: olson-kundig
+    role: architecture
+technologies: []
+summary: >
+  The Microsoft Cybercrime Center at Microsoft's Redmond, WA campus
+  opened November 14, 2013; architecture and interior architecture by
+  Olson Kundig.
+description: ""
+sources:
+  - https://news.microsoft.com/
+  - https://www.welivesecurity.com/

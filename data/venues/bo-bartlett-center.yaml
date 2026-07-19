@@ -1,0 +1,9 @@
+id: bo-bartlett-center
+name: The Bo Bartlett Center
+venue_type: design-museum
+location:
+  city: Columbus
+  state: GA
+operator: Columbus State University
+sources:
+  - https://bobartlettcenter.org/

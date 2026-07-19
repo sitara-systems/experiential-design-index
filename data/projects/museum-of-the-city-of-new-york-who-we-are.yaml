@@ -8,6 +8,13 @@ credits:
     role: exhibit-design
   - firm: parz-designs
     role: fabrication
+  - firm: pentagram
+    role: media-design
+    note: >
+      "What Counts," a commissioned interactive installation (projection
+      + iPad survey, led by partner Giorgia Lupi) within the overall
+      exhibition designed by Isometric Studio, not the exhibition as a
+      whole
 technologies:
   - data visualization
   - interactive touchscreens

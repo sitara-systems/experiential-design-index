@@ -1,0 +1,37 @@
+id: mob-museum-core-exhibits
+name: Core Exhibits
+venue: mob-museum
+project_type: new-exhibition
+year_completed: 2012
+credits:
+  - firm: westlake-reed-leskosky
+    role: architecture
+    note: "No firm record yet"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: pacific-studio
+    role: fabrication
+  - firm: northern-light-productions
+    role: content-production
+  - firm: avi-spl
+    role: av-integration
+  - firm: snibbe-interactive
+    role: media-design
+    note: "No firm record yet"
+  - firm: boston-productions
+    role: content-production
+    note: "No firm record yet"
+technologies:
+  - digital interactives
+summary: >
+  The Mob Museum (National Museum of Organized Crime and Law Enforcement)
+  in Las Vegas opened its core exhibits February 14, 2012; architecture
+  by Westlake Reed Leskosky, exhibit design by Gallagher & Associates,
+  fabrication by Pacific Studio, with media and AV by Snibbe Interactive,
+  Northern Light Productions, Boston Productions, and AVI-SPL. Distinct
+  from the 2018 first-floor renovation already recorded at this venue.
+description: ""
+sources:
+  - https://themobmuseum.org/design-team/
+  - https://www.azbigmedia.com/
+  - https://en.wikipedia.org/wiki/Mob_Museum
