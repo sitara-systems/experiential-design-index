@@ -10,7 +10,6 @@ credits:
     role: architecture
   - firm: technomedia
     role: av-integration
-    note: "no firm record yet"
 technologies:
   - digital wayfinding
   - real-time social/event feeds
