@@ -11,6 +11,13 @@ Cross-references use these IDs. Enum fields draw from
 [`vocabularies.yaml`](vocabularies.yaml). Blank templates with field-by-field
 comments live in each `data/` subfolder (`_template.yaml`).
 
+**Editor-facing fields.** Any key beginning with `_` (conventionally
+`_comments`, a string or list) is an internal note for maintainers and
+research sessions — context, caveats, to-dos about the record. Underscore
+fields are never rendered on the site and are stripped from the open-data
+exports at build time. Use `_comments` instead of embedding editorial
+bookkeeping in public-facing fields like credit `note`s.
+
 ## Firm
 
 | Field | Type | Req | Notes |

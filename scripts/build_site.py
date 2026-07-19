@@ -538,16 +538,19 @@ Sitemap: {sitemap}
         return list(records_dict.values())
 
     def strip_derived(rec, kind):
-        """Return a plain-data copy without the display-only fields enrich_* added."""
+        """Return a plain-data copy without the display-only fields enrich_*
+        added, and without editor-facing fields: any key starting with '_'
+        (e.g. _comments — internal notes for maintainers/LLM sessions) never
+        ships in the open-data export."""
         derived_keys = {
             "firms": {"role_labels", "status_label", "successor_name", "projects"},
             "projects": {"venue_exists", "venue_name", "project_type_label", "status_label", "year_display", "year_label", "role_labels"},
             "venues": {"venue_type_label", "projects", "project_count"},
         }[kind]
-        out = {k: v for k, v in rec.items() if k not in derived_keys}
+        out = {k: v for k, v in rec.items() if k not in derived_keys and not k.startswith("_")}
         if kind == "projects":
             out["credits"] = [
-                {k: v for k, v in c.items() if k not in {"firm_exists", "firm_name", "role_label"}}
+                {k: v for k, v in c.items() if k not in {"firm_exists", "firm_name", "role_label"} and not k.startswith("_")}
                 for c in (rec.get("credits") or []) if isinstance(c, dict)
             ]
         return out
