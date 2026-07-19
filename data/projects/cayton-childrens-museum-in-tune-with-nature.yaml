@@ -6,6 +6,7 @@ year_completed: 2019
 credits:
   - firm: officeuntitled
     role: architecture
+    note: "No firm record yet"
   - firm: ideum
     role: media-design
 technologies: []

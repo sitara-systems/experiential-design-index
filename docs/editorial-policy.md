@@ -88,6 +88,23 @@ or Canadian legal entity persists. Where the public record leaves a firm's
 North American presence genuinely uncertain, the firm's activity status
 says so (see below) rather than the index guessing.
 
+**Project-type scope: corporate-experiential work must be permanent or
+semi-permanent.** Within the corporate-experiential segment (executive
+briefing centers, customer experience centers, brand experience
+centers), the index covers built, fixed installations a company
+maintains as standing infrastructure — not trade-show booths, pop-up
+activations, or conference/event installations, even when a firm's own
+site presents them alongside its permanent work. The test is the same
+one already applied to advertising below: does the installation persist
+as part of a venue, or does it exist only for the duration of an event.
+A firm whose corporate-segment portfolio is mostly trade-show/event work
+should be screened accordingly — only its fixed-installation credits
+belong in the index. (Decided 2026-07-19, prompted by reviewing
+AVI-SPL's credits, where only the firm's XTG/Experience Technology
+Group division does this kind of fixed-installation work; its broader
+enterprise AV/UC integration business is out of scope regardless of
+client prominence.)
+
 **Project-type scope: no advertising.** The index does not cover
 advertising campaigns, ad-agency work, or one-off marketing/brand
 activations (TV/digital commercials, social campaigns, marketing stunts).

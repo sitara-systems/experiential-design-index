@@ -8,6 +8,7 @@ credits:
     role: exhibit-design
   - firm: exhibit-3-fabrications
     role: fabrication
+    note: "No firm record yet"
   - firm: robin-imaging
     role: fabrication
     note: "Printing; no firm record yet"
