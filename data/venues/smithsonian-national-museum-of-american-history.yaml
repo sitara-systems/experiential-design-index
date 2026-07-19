@@ -6,5 +6,9 @@ location:
   state: DC
 operator: Smithsonian Institution
 website: https://americanhistory.si.edu
+annual_attendance:
+  figure: 2100000
+  year: 2023
+  source: https://www.si.edu/newsdesk/about/stats
 sources:
   - https://www.pew.org/en/about/news-room/press-releases-and-statements/2008/11/20/original-starspangled-banner-debuts-in-new-stateoftheart-gallery-at-the-national-museum-of-american-history

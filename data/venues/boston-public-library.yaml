@@ -5,5 +5,9 @@ location:
   city: Boston
   state: MA
 website: https://www.bpl.org
+annual_attendance:
+  figure: 3200000
+  year: 2025
+  source: https://www.bpl.org/news/boston-public-library-wraps-up-2025/
 sources:
   - https://www.bpl.org

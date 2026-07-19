@@ -6,6 +6,10 @@ location:
   state: MO
 operator: Liberty Memorial Association
 website: https://www.theworldwar.org
+annual_attendance:
+  figure: 1000000
+  year: 2024
+  source: https://www.guidestar.org/profile/43-6052673
 sources:
   - https://www.theworldwar.org/
   - https://en.wikipedia.org/wiki/National_World_War_I_Museum_and_Memorial

@@ -5,5 +5,9 @@ location:
   city: Baltimore
   state: MD
 website: https://aqua.org
+annual_attendance:
+  figure: 1100000
+  year: 2025
+  source: https://aqua.org/about/reports-and-financials/mission-impact
 sources:
   - https://aqua.org/contact-us/newsroom/press-releases/2024-08-08-national-aquarium-unveils-harbor-wetland-exhibit-recalling-chesapeake-bay-habitat-to-inner-harbor

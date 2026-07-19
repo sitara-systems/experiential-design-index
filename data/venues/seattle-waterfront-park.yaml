@@ -6,6 +6,10 @@ location:
   state: WA
 operator: City of Seattle, Office of the Waterfront and Civic Projects
 website: https://waterfrontpark.org
+annual_attendance:
+  figure: 9000000
+  year: 2025
+  source: https://www.seattlecenter.com/about/community-impact
 sources:
   - https://studiomatthews.com/project/waterfront-park/
   - https://studiomatthews.com/project/pier-62-waterfront-park/

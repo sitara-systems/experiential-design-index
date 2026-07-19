@@ -5,5 +5,9 @@ location:
   city: Chicago
   state: IL
 website: https://www.msichicago.org
+annual_attendance:
+  figure: 1476000
+  year: 2024
+  source: https://www.teaconnect.org/tea-global-experience-indextm
 sources:
   - https://studiomatthews.com/project/take-flight/

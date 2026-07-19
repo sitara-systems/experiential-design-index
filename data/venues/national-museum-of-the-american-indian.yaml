@@ -6,6 +6,10 @@ location:
   state: DC
 operator: Smithsonian Institution
 website: https://americanindian.si.edu
+annual_attendance:
+  figure: 704074
+  year: 2023
+  source: https://www.si.edu/newsdesk/about/stats
 sources:
   - https://americanindian.si.edu
   - https://www.si.edu/newsdesk/factsheets/americans

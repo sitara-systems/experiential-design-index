@@ -6,5 +6,9 @@ location:
   state: DC
 operator: Library of Congress
 website: https://www.loc.gov
+annual_attendance:
+  figure: 883757
+  year: 2024
+  source: https://www.loc.gov/static/portals/about/reports-and-budgets/documents/annual-reports/annual-report-2024.pdf
 sources:
   - https://www.loc.gov/loc/lcib/0806/jefferson.html

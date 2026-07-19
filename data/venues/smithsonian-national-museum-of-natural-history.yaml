@@ -6,6 +6,10 @@ location:
   state: DC
 operator: Smithsonian Institution
 website: https://naturalhistory.si.edu
+annual_attendance:
+  figure: 4400000
+  year: 2023
+  source: https://aecom.com/wp-content/uploads/documents/reports/AECOM-Theme-Index-2023.pdf
 sources:
   - https://naturalhistory.si.edu/exhibits/sant-ocean-hall
   - https://www.si.edu/newsdesk/releases/new-sant-ocean-hall-opens-sept-27-smithsonian-s-national-museum-natural-history

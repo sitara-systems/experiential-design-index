@@ -5,5 +5,9 @@ location:
   city: Cleveland
   state: OH
 website: https://www.clevelandart.org
+annual_attendance:
+  figure: 800000
+  year: 2025
+  source: https://www.ideastream.org/arts-culture/2026-06-12/cleveland-museum-of-art-hits-80-of-600-million-goal-for-its-future
 sources:
   - https://www.clevelandart.org/home
