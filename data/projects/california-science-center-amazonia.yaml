@@ -1,0 +1,28 @@
+id: california-science-center-amazonia
+name: "Amazônia: Photography by Sebastião Salgado"
+venue: california-science-center
+project_type: traveling-exhibition
+year_completed: 2022
+credits:
+  - firm: cinnabar
+    role: exhibit-design
+    note: "Client per Eos Lightmedia's own project page"
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: >
+      Redesigned and integrated lighting for the North American debut of
+      this touring photography exhibition, lighting more than 200
+      large-scale suspended photographs under the artist's direction.
+  - firm: eos-lightmedia
+    role: av-integration
+    note: "Integrated an immersive soundscape accompanying the photography and video."
+technologies:
+  - immersive soundscape
+summary: >
+  "Amazônia: Photography by Sebastião Salgado," a 13,000 sq ft touring
+  exhibition, opened at the California Science Center in Los Angeles on
+  October 21, 2022 for its North American debut, produced by Cinnabar with
+  lighting and audiovisual design and integration by Eos Lightmedia.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/392

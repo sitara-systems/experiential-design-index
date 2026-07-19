@@ -1,0 +1,10 @@
+id: museum-of-the-rockies
+name: Museum of the Rockies
+venue_type: natural-history-museum
+location:
+  city: Bozeman
+  state: MT
+operator: Montana State University
+website: https://museumoftherockies.org
+sources:
+  - https://museumoftherockies.org/exhibitions/cretaceous-crossroads

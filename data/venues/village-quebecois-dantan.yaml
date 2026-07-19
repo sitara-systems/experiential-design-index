@@ -1,0 +1,11 @@
+id: village-quebecois-dantan
+name: Village Québécois d'Antan
+venue_type: history-museum
+location:
+  city: Drummondville
+  province: QC
+  country: CA
+website: https://villagequebecois.com
+sources:
+  - https://villagequebecois.com/en/about-village-quebecois-dantan/the-history-of-the-village-quebecois-dantan/
+  - https://en.wikipedia.org/wiki/Village_Qu%C3%A9b%C3%A9cois_d%27Antan

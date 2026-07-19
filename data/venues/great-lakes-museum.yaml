@@ -1,0 +1,11 @@
+id: great-lakes-museum
+name: Great Lakes Museum
+venue_type: history-museum
+location:
+  city: Kingston
+  state: ON
+  country: CA
+website: https://greatlakesmuseum.ca
+sources:
+  - https://greatlakesmuseum.ca
+  - https://www.visitkingston.ca/stories/s-s-keewatin-visit-the-last-remaining-edwardian-era-passenger-liner-at-kingstons-great-lakes-museum/

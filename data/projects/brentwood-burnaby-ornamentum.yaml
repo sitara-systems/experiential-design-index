@@ -1,0 +1,29 @@
+id: brentwood-burnaby-ornamentum
+name: Ornamentum
+venue: brentwood-town-centre-burnaby
+project_type: installation
+year_completed: 2021
+credits:
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: >
+      Provided commissioning, programming, and custom software for the
+      artwork's lighting, including a custom web controller and
+      interconnected motion sensors for pedestrian interaction, per Eos
+      Lightmedia's own project page.
+technologies:
+  - motion sensors
+  - custom web lighting controller
+summary: >
+  Ornamentum, a 6-meter-tall stainless-steel and aluminum public sculpture
+  by artist James Nizam sited north of Brentwood Town Centre in Burnaby,
+  British Columbia, Canada, was completed in 2021 as a City of Burnaby
+  public art commission, with lighting commissioning, programming, and
+  custom software by Eos Lightmedia.
+description: >
+  The sculpture, a large-scale polished stainless-steel balustrade formed
+  into an undulating trefoil knot, is inspired by the wrought-iron
+  ornamentation of Brentwood's older residential architecture.
+sources:
+  - https://collections.burnabyartgallery.ca/detail/publicart161
+  - https://www.eoslightmedia.com/work/93

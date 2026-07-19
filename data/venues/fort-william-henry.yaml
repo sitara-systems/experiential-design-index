@@ -1,0 +1,10 @@
+id: fort-william-henry
+name: Fort William Henry
+venue_type: history-museum
+location:
+  city: Lake George
+  state: NY
+website: https://www.fwhmuseum.com
+sources:
+  - https://www.lakegeorge.com/winter/winters-dream/
+  - https://poststar.com/news/local/lake-george-village-winters-dream-opens-for-sneak-peek/article_e4da8268-95d9-11ee-9e5e-db238331da9f.html

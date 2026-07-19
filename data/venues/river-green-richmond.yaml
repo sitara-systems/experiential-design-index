@@ -1,0 +1,9 @@
+id: river-green-richmond
+name: River Green
+venue_type: public-space
+location:
+  city: Richmond
+  province: BC
+  country: CA
+sources:
+  - https://www.eoslightmedia.com/work/253

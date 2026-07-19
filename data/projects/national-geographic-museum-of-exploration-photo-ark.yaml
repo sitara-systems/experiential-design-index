@@ -1,0 +1,29 @@
+id: national-geographic-museum-of-exploration-photo-ark
+name: "Photo Ark: Animals of Earth"
+venue: national-geographic-museum-of-exploration
+project_type: traveling-exhibition
+year_completed: 2026
+credits:
+  - firm: moment-factory
+    role: media-design
+    note: >
+      Creative and technical direction (narrative, scenography, lighting,
+      music, sound design) for a six-zone immersive exhibition reimagining
+      photographer Joel Sartore's Photo Ark collection — wall-to-wall photo
+      projections, a video cube, interactive conservation stations, and an
+      interactive floor.
+  - firm: neopangea
+    role: media-design
+    note: "Interactive-stations development; below the 3-project firm-record bar."
+technologies:
+  - projection
+  - interactive floor projection
+summary: >
+  Photo Ark: Animals of Earth, a touring immersive exhibition designed by
+  Moment Factory reimagining Joel Sartore's National Geographic Photo Ark
+  project, debuted at the National Geographic Museum of Exploration in
+  Washington, DC, in 2026.
+description: ""
+sources:
+  - https://momentfactory.com/products/photo-ark-animals-of-earth
+  - https://moe.nationalgeographic.org/en/about/inside-moe/press-release/museum-of-exploration-opening-date-announcement

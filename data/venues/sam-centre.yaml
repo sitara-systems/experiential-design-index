@@ -1,0 +1,10 @@
+id: sam-centre
+name: Sam Centre
+venue_type: themed-attraction
+location:
+  city: Calgary
+  state: AB
+  country: CA
+operator: Calgary Stampede Foundation
+sources:
+  - https://www.eoslightmedia.com/work/579

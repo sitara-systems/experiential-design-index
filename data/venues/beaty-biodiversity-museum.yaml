@@ -1,0 +1,11 @@
+id: beaty-biodiversity-museum
+name: Beaty Biodiversity Museum
+venue_type: natural-history-museum
+location:
+  city: Vancouver
+  province: BC
+  country: CA
+operator: University of British Columbia
+website: https://beatymuseum.ubc.ca
+sources:
+  - https://www.eoslightmedia.com/work/7

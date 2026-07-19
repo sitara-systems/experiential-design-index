@@ -1,0 +1,10 @@
+id: vancouver-aquarium
+name: Vancouver Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Vancouver
+  state: BC
+  country: CA
+website: https://www.vanaqua.org
+sources:
+  - https://www.eoslightmedia.com/work/55

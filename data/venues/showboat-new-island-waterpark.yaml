@@ -1,0 +1,9 @@
+id: showboat-new-island-waterpark
+name: New Island Waterpark at Showboat Atlantic City
+venue_type: themed-attraction
+location:
+  city: Atlantic City
+  state: NJ
+operator: Showboat Hotel Atlantic City
+sources:
+  - https://www.eoslightmedia.com/work/409

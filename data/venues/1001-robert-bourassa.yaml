@@ -1,0 +1,10 @@
+id: 1001-robert-bourassa
+name: 1001 Robert-Bourassa
+venue_type: public-space
+location:
+  city: Montréal
+  province: QC
+  country: CA
+operator: Allied Properties REIT
+sources:
+  - https://momentfactory.com/products/1001-robert-bourassa

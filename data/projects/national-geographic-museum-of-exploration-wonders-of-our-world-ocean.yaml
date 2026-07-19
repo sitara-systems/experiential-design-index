@@ -1,0 +1,27 @@
+id: national-geographic-museum-of-exploration-wonders-of-our-world-ocean
+name: "Wonders of Our World: Ocean"
+venue: national-geographic-museum-of-exploration
+project_type: new-exhibition
+year_completed: 2026
+credits:
+  - firm: moment-factory
+    role: media-design
+    note: >
+      Design and production of a 17-minute outdoor nighttime show: 360-degree
+      immersive video projections, dynamic architectural lighting,
+      spatialized sound, and interactive floor projections (smart-glass
+      technology), combining National Geographic Explorer footage with
+      custom visual effects.
+technologies:
+  - projection mapping
+  - architectural lighting
+  - interactive floor projection
+  - spatialized audio
+summary: >
+  Wonders of Our World: Ocean, an outdoor nighttime immersive show produced
+  by Moment Factory, opened as part of the National Geographic Museum of
+  Exploration in Washington, DC, June 26, 2026.
+description: ""
+sources:
+  - https://momentfactory.com/products/wonders-of-our-world-ocean-national-geographic-museum-of-exploration
+  - https://moe.nationalgeographic.org/en/about/inside-moe/press-release/museum-of-exploration-opening-date-announcement

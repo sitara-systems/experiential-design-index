@@ -1,0 +1,10 @@
+id: westbrook-welcome-centre
+name: Westbrook Welcome Centre
+venue_type: academic-institution
+location:
+  city: Vancouver
+  state: BC
+  country: CA
+operator: University of British Columbia
+sources:
+  - https://www.eoslightmedia.com/work/71

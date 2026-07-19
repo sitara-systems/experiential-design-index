@@ -1,0 +1,10 @@
+id: royal-tyrrell-museum
+name: Royal Tyrrell Museum of Palaeontology
+venue_type: natural-history-museum
+location:
+  city: Drumheller
+  province: AB
+  country: CA
+website: https://tyrrellmuseum.com
+sources:
+  - https://designrp.com/projects/royal-tyrrell-museum-learning-lounge-new-text/

@@ -1,0 +1,34 @@
+id: pearl-harbor-visitor-center
+name: USS Arizona Memorial Visitor Center (World War II Valor in the Pacific National Monument)
+venue: pearl-harbor-national-memorial-visitor-center
+project_type: new-building
+year_completed: 2010
+credits:
+  - firm: portico-group
+    role: architecture
+    note: Design architect for the new visitor center complex (Portico Group, now part of MIG).
+  - firm: mason-hawaii
+    role: architecture
+    note: Architect of record; provided consulting services and construction administration, per the firm's own project page.
+  - firm: aldrichpears-associates
+    role: exhibit-design
+    note: "Named as the client relationship for Eos Lightmedia's exhibit lighting scope, per Eos Lightmedia's own project page."
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: Provided exhibit lighting design for the new visitor center complex.
+technologies: []
+summary: >
+  The USS Arizona Memorial Visitor Center, part of the World War II Valor in
+  the Pacific National Monument (now Pearl Harbor National Memorial) in
+  Honolulu, Hawaii, was dedicated December 7, 2010; Portico Group served as
+  design architect with MASON as architect of record, and Eos Lightmedia
+  provided exhibit lighting design.
+description: >
+  The 17-acre replacement visitor center complex includes approximately
+  17,750 sq ft of building space plus renovation of two existing theaters,
+  with a ticket office, exhibit space, and site improvements, accommodating
+  roughly 1.5 million visitors annually.
+sources:
+  - https://www.eoslightmedia.com/work/100
+  - https://masonarch.com/arizona-memorial-visitor-center/
+  - https://pearlharbor.org/blog/pearl-harbor-visitors-center-history-renovations-and-now/

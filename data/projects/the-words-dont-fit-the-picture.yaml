@@ -1,0 +1,27 @@
+id: the-words-dont-fit-the-picture
+name: The Words Don't Fit The Picture
+venue: vancouver-public-library-central
+project_type: installation
+year_completed: 2010
+credits:
+  - firm: eos-lightmedia
+    role: fabrication
+    note: >
+      Collaborated with artist Ron Terada to develop the concept, then
+      provided design detailing, prototype mock-ups, fabrication, and
+      programming for the piece, commissioned by the City of Vancouver's
+      Olympic & Paralympic Art Program.
+  - firm: eos-lightmedia
+    role: lighting-design
+technologies:
+  - LED signage (1,280 nodes)
+summary: >
+  The Words Don't Fit The Picture is an 18-foot-tall LED text-based public
+  artwork by artist Ron Terada, installed in the plaza of the Vancouver
+  Public Library's Central Branch in Vancouver, BC for the 2010 Winter
+  Olympics; Eos Lightmedia developed, fabricated, and programmed the
+  installation with the artist, commissioned by the City of Vancouver's
+  Olympic & Paralympic Art Program.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/94

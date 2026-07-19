@@ -1,0 +1,10 @@
+id: museum-of-surrey
+name: Museum of Surrey
+venue_type: history-museum
+location:
+  city: Surrey
+  province: BC
+  country: CA
+website: https://museumofsurrey.ca
+sources:
+  - https://designrp.com/projects/museum-of-surrey-td-explore-zone/

@@ -1,0 +1,33 @@
+id: first-americans-museum-family-discovery-center
+name: Family Discovery Center
+venue: first-americans-museum
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: cinnabar
+    role: exhibit-design
+    note: "Client per Eos Lightmedia's own project page"
+  - firm: storyline-studio
+    role: media-design
+    note: >
+      Eos Lightmedia developed the full audiovisual, lighting, and
+      show-control systems in close collaboration with Storyline Studio; no
+      firm record yet
+  - firm: eos-lightmedia
+    role: av-integration
+    note: >
+      Full-scope procurement and integration of all audiovisual and lighting
+      equipment for a 4,000 sq ft immersive gallery ("The Grove") featuring a
+      30-40 ft tree canopy, mural, and children's play structures.
+  - firm: eos-lightmedia
+    role: lighting-design
+technologies:
+  - immersive projection
+summary: >
+  The Family Discovery Center, a 4,000 sq ft immersive gallery at the First
+  Americans Museum in Oklahoma City, opened in 2025, with Cinnabar and
+  Storyline Studio developing the experience and Eos Lightmedia providing
+  audiovisual and lighting design, procurement, and integration.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/622

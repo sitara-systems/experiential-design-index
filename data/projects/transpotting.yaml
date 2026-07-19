@@ -1,0 +1,23 @@
+id: transpotting
+name: TRANSPOtting
+venue: ottawa-transitway-sound-wall
+project_type: installation
+year_completed: 2012
+credits:
+  - firm: eos-lightmedia
+    role: lighting-design
+technologies:
+  - real-time data-driven LED lighting
+summary: >
+  TRANSPOtting is a public-art light installation in Ottawa, ON, completed
+  in 2012 for the City of Ottawa, comprising 80 LED panels embedded in a
+  198-linear-metre transitway sound wall that pulse in real time based on
+  OC Transpo bus schedule data; Eos Lightmedia supplied, designed, and
+  programmed the lighting.
+description: >
+  As the first bus of the day leaves the terminal, the wall begins to pulse
+  with a different color per bus route; brightness builds and recedes with
+  the number of buses in transit throughout the day, acting as a live heat
+  map of citywide bus movement for waiting passengers.
+sources:
+  - https://www.eoslightmedia.com/work/231

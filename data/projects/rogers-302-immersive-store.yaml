@@ -1,0 +1,30 @@
+id: rogers-302-immersive-store
+name: Rogers 302
+venue: rogers-302
+project_type: new-building
+year_completed: 2019
+credits:
+  - firm: eos-lightmedia
+    role: av-integration
+    note: >
+      Supplied and integrated technology for the store's interactive
+      zones, event/exhibit spaces, and the Rogers 5G Music Hall, working
+      with CallisonRTKL; continues to provide operational and warranty
+      support.
+  - firm: eos-lightmedia
+    role: lighting-design
+technologies:
+  - 5G interactive zones
+  - in-store event technology
+summary: >
+  Rogers 302, a 9,000-square-foot immersive flagship store and Canada's
+  first 5G-ready retail location, opened in downtown Toronto, Ontario in
+  2019, designed with CallisonRTKL and audiovisual/lighting integration by
+  Eos Lightmedia.
+description: >
+  The space combines a hands-on technology showroom with an in-store cafe,
+  dedicated business/event space for Rogers for Business clients, and the
+  Rogers 5G Music Hall, a technology-enabled space for experiencing 5G
+  through music.
+sources:
+  - https://www.eoslightmedia.com/work/42

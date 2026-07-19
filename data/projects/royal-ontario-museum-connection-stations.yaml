@@ -1,0 +1,30 @@
+id: royal-ontario-museum-connection-stations
+name: Connection Stations
+venue: royal-ontario-museum
+project_type: installation
+year_completed: 2025
+credits:
+  - firm: lord-cultural-resources
+    role: interpretive-planning
+    note: "Lead consultant: creative visioning workshops, interpretive plan, object selection, and content development"
+  - firm: kubik-maltbie
+    role: exhibit-design
+  - firm: ngx
+    role: media-design
+    note: "Multimedia/technology production partner; no firm record yet"
+technologies:
+  - interactive kiosks
+  - multimedia gamified experience
+summary: >
+  Connection Stations, five interactive installations distributed through
+  the Royal Ontario Museum in Toronto, Ontario, opened March 7, 2025;
+  interpretive planning and content development by Lord Cultural Resources,
+  with exhibit design by kubik maltbie and multimedia production by NGX.
+description: >
+  Two of the five stations feature a multimedia gamified experience;
+  visitors reflect on museum objects to build understanding of how others
+  may experience the world, in service of cultivating social cohesion and
+  recognizing bias.
+sources:
+  - https://www.lord.ca/projects/project-experience/royal-ontario-museum-connection-stations
+  - https://www.rom.on.ca/whats-on/exhibitions/connection-stations

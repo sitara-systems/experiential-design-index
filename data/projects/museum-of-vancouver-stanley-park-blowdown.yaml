@@ -1,0 +1,32 @@
+id: museum-of-vancouver-stanley-park-blowdown
+name: Stanley Park Blow Down (The Unnatural History of Stanley Park)
+venue: museum-of-vancouver
+project_type: temporary-exhibition
+year_completed: 2008
+credits:
+  - firm: eos-lightmedia
+    role: exhibit-design
+    note: Designed, programmed, and installed an interactive telescope-navigation exhibit and a motion-triggered interactive audio "Blow Down" gallery.
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: Theatrical luminaires, gobos, and color filters accenting the Blow Down gallery's audio experience.
+technologies:
+  - interactive telescope navigation
+  - motion-sensor triggered audio
+  - gobo projection
+summary: >
+  Stanley Park Blow Down, part of the Museum of Vancouver's "The Unnatural
+  History of Stanley Park" exhibition (September 2008-February 2009),
+  featured an interactive telescope-navigation display of park imagery and a
+  motion-triggered audio memorial gallery responding to the 2006 Stanley
+  Park windstorm; Eos Lightmedia designed and installed both interactive
+  elements.
+description: >
+  Two modified coin-operated telescopes served as an optical "mouse" letting
+  visitors browse floating public-submitted images and video of Stanley
+  Park; a separate "Blow Down" gallery used motion sensors to trigger an
+  interactive audio experience memorializing the windstorm that felled 40%
+  of the park's trees.
+sources:
+  - https://www.eoslightmedia.com/work/78
+  - https://museumofvancouver.ca/the-unnatural-history-of-stanley-park

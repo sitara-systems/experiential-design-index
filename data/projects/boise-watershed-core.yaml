@@ -9,7 +9,13 @@ credits:
     note: "Interactive exhibits including Sustainable Boise, Snow Theater, and Pledge Wall"
   - firm: phaseshift
     role: exhibit-design
-    note: "No firm record yet"
+    note: "no firm record yet"
+  - firm: reich-petch
+    role: interpretive-planning
+    note: "Led the interpretive planning process for the 6,500 sq. ft. exhibit suite, including the six core themes and multi-step visitor journey."
+  - firm: reich-petch
+    role: exhibit-design
+    note: "Credited on the firm's own portfolio alongside Phaseshift's exhibit-design credit; scope split between the two firms is not independently documented."
 technologies:
   - motion sensing
   - interactive projection
@@ -17,8 +23,10 @@ technologies:
 summary: >
   The Boise WaterShed, an interactive exhibit suite on climate change and
   Idaho's water supply at the City of Boise's WaterShed education center,
-  opened in 2025; RLMG designed the interactive media with exhibit design
-  by Phaseshift.
+  opened in 2025; Reich+Petch led interpretive planning and exhibit design,
+  RLMG designed the interactive media, and Phaseshift also holds an
+  exhibit-design credit.
 description: ""
 sources:
   - https://www.rlmg.com/work/watershed
+  - https://designrp.com/projects/boise-watershed-exhibits/

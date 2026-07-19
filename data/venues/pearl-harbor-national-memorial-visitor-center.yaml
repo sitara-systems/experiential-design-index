@@ -1,0 +1,11 @@
+id: pearl-harbor-national-memorial-visitor-center
+name: Pearl Harbor National Memorial Visitor Center
+venue_type: visitor-center
+location:
+  city: Honolulu
+  state: HI
+operator: National Park Service
+website: https://www.nps.gov/perl/
+sources:
+  - https://www.nps.gov/perl/
+  - https://pearlharbor.org/blog/pearl-harbor-visitors-center-history-renovations-and-now/

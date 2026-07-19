@@ -1,0 +1,10 @@
+id: art-windsor-essex
+name: Art Windsor-Essex
+venue_type: art-museum
+location:
+  city: Windsor
+  province: ON
+  country: CA
+website: https://artwindsoressex.ca
+sources:
+  - https://artwindsoressex.ca

@@ -1,0 +1,27 @@
+id: lowell-observatory-dark-sky-planetarium
+name: Dark Sky Planetarium
+venue: lowell-observatory
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: kei-space-design
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: eos-lightmedia
+    role: av-integration
+    note: >
+      Audiovisual systems, control programming, and interactive software for
+      the Atrium, Astro Gallery, Children's Gallery, and Presentation Area,
+      in collaboration with Kei Space Design.
+  - firm: eos-lightmedia
+    role: lighting-design
+technologies:
+  - interactive software
+summary: >
+  The Dark Sky Planetarium, an 8,000 sq ft exhibit space at Lowell
+  Observatory in Flagstaff, Arizona, opened in 2024, designed in
+  collaboration between Kei Space Design and Eos Lightmedia, which delivered
+  audiovisual, lighting, and interactive-software systems.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/154

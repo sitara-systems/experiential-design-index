@@ -1,0 +1,11 @@
+id: museum-of-vancouver
+name: Museum of Vancouver
+venue_type: history-museum
+location:
+  city: Vancouver
+  state: BC
+  country: CA
+website: https://museumofvancouver.ca
+sources:
+  - https://museumofvancouver.ca
+  - https://en.wikipedia.org/wiki/Museum_of_Vancouver

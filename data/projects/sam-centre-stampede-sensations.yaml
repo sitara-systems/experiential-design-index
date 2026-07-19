@@ -1,0 +1,25 @@
+id: sam-centre-stampede-sensations
+name: "Stampede Sensations"
+venue: sam-centre
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: eos-lightmedia
+    role: av-integration
+    note: >
+      Comprehensive audiovisual solution for a 270-degree immersive 4D
+      cinema (QSC audio, Panasonic projection, Dayton Bass Shaker 4D
+      effects, custom haptic floor, Cisco networking) within the 20,000 sq
+      ft Sam Centre; no other outside design firm named.
+technologies:
+  - 4D cinema
+  - haptic floor
+  - edge-matched projection
+summary: >
+  "Stampede Sensations," a 270-degree immersive 4D cinema experience at the
+  Calgary Stampede Foundation's Sam Centre in Calgary, Alberta, opened in
+  2024, with the full audiovisual and show-control system designed and
+  integrated by Eos Lightmedia.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/579

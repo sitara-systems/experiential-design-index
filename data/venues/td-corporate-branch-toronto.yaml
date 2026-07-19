@@ -1,0 +1,10 @@
+id: td-corporate-branch-toronto
+name: TD Corporate Branch (Toronto-Dominion Centre)
+venue_type: brand-experience-center
+location:
+  city: Toronto
+  province: ON
+  country: CA
+operator: TD Bank Group
+sources:
+  - https://designrp.com/projects/td-brand-experience/

@@ -1,0 +1,11 @@
+id: toronto-holocaust-museum
+name: Toronto Holocaust Museum
+venue_type: history-museum
+location:
+  city: Toronto
+  province: ON
+  country: CA
+operator: UJA Federation of Greater Toronto
+website: https://torontoholocaustmuseum.org
+sources:
+  - https://torontoholocaustmuseum.org

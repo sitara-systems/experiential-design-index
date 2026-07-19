@@ -1,0 +1,28 @@
+id: burnaby-art-walk-cloud-scatters-light
+name: A Cloud Scatters Light
+venue: burnaby-art-walk
+project_type: installation
+year_completed: 2015
+credits:
+  - firm: eos-lightmedia
+    role: media-design
+    note: >
+      Created the custom control software (reads live weather data, tracks
+      passersby via embedded cameras) and designed/supplied the 3,000-pixel
+      LED lighting system.
+  - firm: eos-lightmedia
+    role: lighting-design
+technologies:
+  - interactive LED lighting
+  - computer vision tracking
+summary: >
+  A Cloud Scatters Light, a site-specific interactive light artwork on
+  Burnaby, British Columbia's Art Walk, was completed in 2015 with lighting
+  design, media design, and custom control software by Eos Lightmedia,
+  commissioned by Polygon Real Estate.
+description: >
+  A 4-by-30-foot steel artwork of 3,000 individually controllable LED pixels
+  renders digital "clouds" that form and grow as passersby linger, shaped in
+  color by live local weather data pulled from an internet weather service.
+sources:
+  - https://www.eoslightmedia.com/work/31

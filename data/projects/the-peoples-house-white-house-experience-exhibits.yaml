@@ -1,0 +1,31 @@
+id: the-peoples-house-white-house-experience-exhibits
+name: The People's House - A White House Experience
+venue: the-peoples-house-a-white-house-experience
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: gensler
+    role: architecture
+  - firm: design-and-production-incorporated
+    role: fabrication
+    note: "Exhibit fabricator; brought Eos Lightmedia onto the project for exhibit lighting scope"
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: >
+      Lighting integration team (base-building scope via electrical
+      contractor CES, exhibit scope via Design & Production) providing
+      lighting controls equipment and system integration for the 20,000 sq
+      ft visitor experience; base-building/exhibit lighting design intent set
+      by Abernathy Lighting Design, an Eos Lightmedia studio, brought on by
+      Gensler.
+technologies: []
+summary: >
+  The People's House - A White House Experience, a 20,000 sq ft visitor
+  experience in Washington, DC produced by the White House Historical
+  Association, opened in 2024, with architecture by Gensler, exhibit
+  fabrication by Design and Production Incorporated, and lighting design and
+  integration by Eos Lightmedia (Abernathy Lighting Design).
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/564
+  - https://www.whitehousehistory.org/the-peoples-house

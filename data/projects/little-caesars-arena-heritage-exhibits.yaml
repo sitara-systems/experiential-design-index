@@ -8,13 +8,23 @@ credits:
     role: exhibit-design
   - firm: cortina-productions
     role: media-design
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: >
+      Contracted by CambridgeSeven to design lighting for the Team Store,
+      Heritage Hall event space, and Red Wings/Pistons heritage exhibits in
+      the main and upper concourses, plus two satellite team stores; also
+      worked directly for HOK, the arena architect, to light public-art
+      pieces in the stadium concourse.
 technologies:
   - augmented reality
 summary: >
   Heritage exhibits and a team store woven through the concession arcade of
   Little Caesars Arena in Detroit, tracing Red Wings and Pistons history,
-  opened with the arena September 5, 2017; exhibit design by CambridgeSeven.
+  opened with the arena September 5, 2017; exhibit design by CambridgeSeven,
+  lighting design by Eos Lightmedia.
 description: ""
 sources:
   - https://www.cambridgeseven.com/project/detroit-red-wings-detroit-pistons-heritage-exhibits-and-team-store/
   - https://www.cortinaproductions.com/little-caesars-arena/
+  - https://www.eoslightmedia.com/work/20

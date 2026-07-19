@@ -1,0 +1,10 @@
+id: royal-ontario-museum
+name: Royal Ontario Museum
+venue_type: natural-history-museum
+location:
+  city: Toronto
+  province: ON
+  country: CA
+website: https://www.rom.on.ca
+sources:
+  - https://www.rom.on.ca/whats-on/exhibitions/connection-stations

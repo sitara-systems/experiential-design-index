@@ -1,0 +1,37 @@
+id: lord-cultural-resources
+name: Lord Cultural Resources
+aka: []
+website: https://www.lord.ca
+hq:
+  city: Toronto
+  province: ON
+  country: CA
+other_offices:
+  - city: New York
+    state: NY
+  - city: Culver City
+    state: CA
+  - city: Mumbai
+    country: India
+founded: 1981
+roles:
+  - master-planning
+  - interpretive-planning
+status: active
+status_basis: >
+  Interpretive planning credit on Museum of the Rockies' Cretaceous Crossroads
+  exhibition (opened July 2025), the Royal Ontario Museum's Connection
+  Stations (opened March 2025), and the Harry J. Enns Wetland Discovery
+  Centre reopening at Oak Hammock Marsh (opened May 2025); active published
+  project portfolio and press activity through 2026.
+status_verified: 2026-07-18
+summary: >
+  Lord Cultural Resources is a Toronto-based cultural planning consultancy
+  founded in 1981 by Gail and Barry Lord, providing master planning and
+  interpretive planning services to museums, cultural districts, science
+  centres, and visitor attractions, with additional offices in New York,
+  Culver City CA, and Mumbai.
+sources:
+  - https://www.lord.ca/who-we-are/about
+  - https://www.lord.ca/contact
+  - https://www.lord.ca/projects

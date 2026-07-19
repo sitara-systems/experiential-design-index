@@ -1,0 +1,10 @@
+id: joseph-brant-museum
+name: Joseph Brant Museum
+venue_type: history-museum
+location:
+  city: Burlington
+  province: ON
+  country: CA
+website: https://josephbrantmuseum.com
+sources:
+  - https://designrp.com/projects/joseph-brant-museum/

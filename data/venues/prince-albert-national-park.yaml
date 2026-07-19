@@ -1,0 +1,11 @@
+id: prince-albert-national-park
+name: Prince Albert National Park
+venue_type: public-space
+location:
+  city: Waskesiu Lake
+  province: SK
+  country: CA
+operator: Parks Canada
+website: https://parks.canada.ca/pn-np/sk/princealbert
+sources:
+  - https://designrp.com/projects/prince-albert-national-park-beach-house/

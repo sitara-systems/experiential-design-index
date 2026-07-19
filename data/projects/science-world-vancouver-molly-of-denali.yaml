@@ -1,0 +1,26 @@
+id: science-world-vancouver-molly-of-denali
+name: Animation Adventure with Molly of Denali
+venue: science-world-vancouver
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: moment-factory
+    role: media-design
+    note: >
+      Content and software design/integration for a multi-room immersive
+      exhibition in the Creative Technology Gallery — interactive
+      storytelling, hands-on kiosks, and a 360-degree immersive environment
+      across three rooms (Dream, Build, Play), developed with Indigenous
+      cultural advisors.
+technologies:
+  - interactive kiosks
+  - projection
+summary: >
+  Animation Adventure with Molly of Denali, an interactive exhibition in
+  Science World's Creative Technology Gallery designed by Moment Factory
+  using content from GBH and Atomic Cartoons' animated series, opened in
+  Vancouver, British Columbia, in 2025.
+description: ""
+sources:
+  - https://momentfactory.com/products/animation-adventure-with-molly-of-denali
+  - https://www.scienceworld.ca

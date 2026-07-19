@@ -1,0 +1,10 @@
+id: broad-institute
+name: Broad Institute of MIT and Harvard
+venue_type: academic-institution
+location:
+  city: Cambridge
+  state: MA
+website: https://www.broadinstitute.org
+sources:
+  - https://www.broadinstitute.org
+  - https://www.eoslightmedia.com/work/150

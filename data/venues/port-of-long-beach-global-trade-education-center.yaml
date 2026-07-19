@@ -1,0 +1,9 @@
+id: port-of-long-beach-global-trade-education-center
+name: Congressman Alan Lowenthal Global Trade & Education Center
+venue_type: visitor-center
+location:
+  city: Long Beach
+  state: CA
+operator: Port of Long Beach
+sources:
+  - https://studio-111.com/project/port-of-long-beach-experience-center/

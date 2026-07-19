@@ -1,0 +1,12 @@
+id: canada-sports-hall-of-fame
+name: Canada's Sports Hall of Fame
+venue_type: sports-venue
+location:
+  city: Calgary
+  province: AB
+  country: CA
+operator: WinSport / Canada Olympic Park
+website: https://www.sportshall.ca
+sources:
+  - https://www.eoslightmedia.com/work/60
+  - https://www.winsport.ca/meetings-and-conferences/event-spaces/canadas-sports-hall-of-fame/

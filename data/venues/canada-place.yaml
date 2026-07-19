@@ -1,0 +1,10 @@
+id: canada-place
+name: Canada Place
+venue_type: public-space
+location:
+  city: Vancouver
+  state: BC
+  country: CA
+operator: Port of Vancouver
+sources:
+  - https://www.eoslightmedia.com/work/16

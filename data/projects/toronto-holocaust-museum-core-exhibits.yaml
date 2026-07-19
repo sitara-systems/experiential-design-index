@@ -1,0 +1,29 @@
+id: toronto-holocaust-museum-core-exhibits
+name: Toronto Holocaust Museum core exhibits
+venue: toronto-holocaust-museum
+project_type: major-renovation
+year_completed: 2023
+credits:
+  - firm: reich-petch
+    role: master-planning
+  - firm: reich-petch
+    role: architecture
+  - firm: reich-petch
+    role: exhibit-design
+    note: >
+      Four themed galleries and a learning lab, including 11 Testimony
+      Stations with large-format touchscreens and AR-enabled survivor
+      story experiences
+technologies:
+  - touchscreen displays
+  - augmented reality
+summary: >
+  The Toronto Holocaust Museum, a nearly 10,000-square-foot museum at the
+  Prosserman Jewish Community Centre on UJA Federation's Sherman Campus in
+  Toronto, Ontario, opened June 8, 2023; master planning, architectural
+  design, and exhibit design by Reich+Petch.
+description: ""
+sources:
+  - https://designrp.com/projects/toronto-holocaust-museum/
+  - https://www.canadianarchitect.com/toronto-holocaust-museum-by-reichpetch-opens/
+  - https://torontoholocaustmuseum.org/wp-content/uploads/2023/04/Toronto-Holocaust-Museum-FACT-SHEET-1.pdf

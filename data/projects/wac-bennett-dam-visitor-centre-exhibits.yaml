@@ -1,0 +1,32 @@
+id: wac-bennett-dam-visitor-centre-exhibits
+name: W.A.C. Bennett Dam Visitor Centre Exhibits
+venue: wac-bennett-dam-visitor-centre
+project_type: new-exhibition
+year_completed: 2015
+credits:
+  - firm: w3-design-group
+    role: exhibit-design
+    note: "Client of record for Eos Lightmedia's scope, per Eos Lightmedia's own project page (no firm record yet)."
+  - firm: eos-lightmedia
+    role: av-integration
+    note: >
+      Designed and supplied lighting and AV systems for fifteen exhibits and
+      two theatres, including a pedal-powered light-up interactive, a
+      miniature light-up electrical grid, an interactive "dollhouse," and
+      software for video-based interactives.
+  - firm: eos-lightmedia
+    role: lighting-design
+technologies:
+  - interactive AV exhibits
+  - pedal-powered generator interactive
+summary: >
+  The W.A.C. Bennett Dam Visitor Centre in Hudson's Hope, British Columbia,
+  operated by BC Hydro, opened its current interactive exhibits in 2015 with
+  AV integration and lighting design by Eos Lightmedia.
+description: >
+  Fifteen interactive exhibits and two theatres tell the story of
+  hydroelectricity in British Columbia, including a walk-through penstock
+  section, a scale-model turbine visitors can power by hand, and a staged
+  power-outage effect during a feature-film screening.
+sources:
+  - https://www.eoslightmedia.com/work/58

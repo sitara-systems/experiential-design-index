@@ -1,0 +1,26 @@
+id: museum-of-science-boston-dall-e
+name: DALL-E
+venue: museum-of-science-boston
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: moment-factory
+    role: media-design
+    note: >
+      Design and development of an interactive "black box" gallery space
+      using projection mapping and Lidar motion tracking, letting visitors
+      explore generative AI through personalized image creation. Third
+      Moment Factory collaboration with the museum, following Arctic
+      Adventure (2020) and Innovation: Earth.
+technologies:
+  - projection mapping
+  - motion tracking
+  - generative AI
+summary: >
+  DALL-E, an interactive AI-art installation in the Museum of Science,
+  Boston's programmable Immersive Gallery, opened in 2023, designed by
+  Moment Factory.
+description: ""
+sources:
+  - https://momentfactory.com/products/dall-e
+  - https://www.mos.org

@@ -1,0 +1,26 @@
+id: national-geographic-museum-of-exploration-geoverse
+name: Geoverse
+venue: national-geographic-museum-of-exploration
+project_type: new-exhibition
+year_completed: 2026
+credits:
+  - firm: moment-factory
+    role: media-design
+    note: >
+      Creative and technical design of the Geoverse gallery: a 270-degree
+      wraparound-projection room with interactive floor and spatialized
+      audio, housing two experiences ("Geography in Action" and "A Day in
+      the Desert") plus accessibility features (modular seating, closed
+      captioning, ASL guide options).
+technologies:
+  - projection mapping
+  - interactive floor projection
+  - spatialized audio
+summary: >
+  Geoverse, an immersive 270-degree projection gallery designed by Moment
+  Factory, opened as part of the National Geographic Museum of Exploration
+  in Washington, DC, June 26, 2026.
+description: ""
+sources:
+  - https://momentfactory.com/products/geoverse-national-geographic-museum-of-exploration
+  - https://moe.nationalgeographic.org/en/about/inside-moe/press-release/museum-of-exploration-opening-date-announcement

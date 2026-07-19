@@ -1,0 +1,31 @@
+id: casa-lethbridge-mirrored-earth
+name: Mirrored Earth
+venue: casa-community-arts-centre-lethbridge
+project_type: installation
+year_completed: 2013
+credits:
+  - firm: eos-lightmedia
+    role: fabrication
+    note: >
+      Fabricated the mirror-mounting brackets (3D-printed prototypes,
+      shop-fabricated final units) and built the motor, camera, and control
+      software system that tracks passersby, working with artists Metz &
+      Chew.
+technologies:
+  - motion-tracking interactive art
+  - custom motorized mirror array
+summary: >
+  Mirrored Earth, an interactive artwork of approximately 600 motorized wall
+  mirrors in the foyer of Casa Community Arts Centre in Lethbridge, Alberta,
+  was completed in 2013 by artists Metz & Chew with technical build and
+  fabrication by Eos Lightmedia; the piece is on long-term loan from the
+  Alberta Foundation for the Arts.
+description: >
+  Sensors track passersby and trigger scattered mirrors to turn and follow
+  their movement, evoking the region's coulee landscape and referencing "the
+  glimmer of sun on water" and "a flutter of rising birds," per the artists'
+  statement.
+sources:
+  - https://www.eoslightmedia.com/work/104
+  - https://www.metzchew.com/mirrored-earth
+  - https://casalethbridge.ca/about/

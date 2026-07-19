@@ -1,0 +1,10 @@
+id: fort-mcmurray-heritage-village
+name: Fort McMurray Heritage Village
+venue_type: history-museum
+location:
+  city: Fort McMurray
+  state: AB
+  country: CA
+operator: Fort McMurray Historical Society
+sources:
+  - https://www.eoslightmedia.com/work/23

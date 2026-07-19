@@ -1,0 +1,10 @@
+id: telus-spark
+name: TELUS Spark
+venue_type: science-center
+location:
+  city: Calgary
+  province: AB
+  country: CA
+website: https://www.sparkscience.ca
+sources:
+  - https://www.eoslightmedia.com/work/108

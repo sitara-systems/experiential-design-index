@@ -1,0 +1,10 @@
+id: aga-khan-museum
+name: Aga Khan Museum
+venue_type: art-museum
+location:
+  city: Toronto
+  province: ON
+  country: CA
+website: https://agakhanmuseum.org
+sources:
+  - https://designrp.com/projects/aga-khan-museum-the-moon/

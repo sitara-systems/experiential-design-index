@@ -1,0 +1,11 @@
+id: london-childrens-museum
+name: London Children's Museum
+venue_type: childrens-museum
+location:
+  city: London
+  state: ON
+  country: CA
+website: https://www.londonchildrensmuseum.ca
+sources:
+  - https://www.londonchildrensmuseum.ca/story/update-new-london-childrens-museum
+  - https://en.wikipedia.org/wiki/London_Children%27s_Museum

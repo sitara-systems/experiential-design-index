@@ -1,0 +1,10 @@
+id: larry-berg-flight-path-park
+name: Larry Berg Flight Path Park
+venue_type: public-space
+location:
+  city: Vancouver
+  state: BC
+  country: CA
+operator: Vancouver Airport Authority
+sources:
+  - https://www.eoslightmedia.com/work/66

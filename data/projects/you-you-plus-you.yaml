@@ -1,0 +1,27 @@
+id: you-you-plus-you
+name: YOU YOU + YOU
+venue: united-way-winnipeg
+project_type: installation
+year_completed: 2010
+credits:
+  - firm: eos-lightmedia
+    role: fabrication
+    note: >
+      Collaborated with artists Nancy Chew and Jacqueline Metz on the
+      concept, then provided design detailing, prototype mock-ups,
+      fabrication, and programming for the interactive light/sound
+      installation.
+  - firm: eos-lightmedia
+    role: media-design
+technologies:
+  - touch-triggered interactive light and sound
+summary: >
+  YOU YOU + YOU is an interactive public-art installation by artists Nancy
+  Chew and Jacqueline Metz on a four-story wall at United Way Winnipeg's
+  building in Winnipeg, MB, completed in 2010, in which touch-triggered
+  hand prints each play a musical note and light a corresponding point on
+  an illuminated Braille "YOU" graphic; Eos Lightmedia developed, fabricated,
+  and programmed the piece with the artists.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/294

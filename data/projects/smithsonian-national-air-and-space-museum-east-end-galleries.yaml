@@ -1,0 +1,35 @@
+id: smithsonian-national-air-and-space-museum-east-end-galleries
+name: East End Galleries
+venue: smithsonian-national-air-and-space-museum
+project_type: major-renovation
+status: announced
+year_expected: 2026
+credits:
+  - firm: reich-petch
+    role: exhibit-design
+    note: >
+      Design development, detailing, and technical documentation across 10
+      galleries; coordinated AV, graphics, mechanical interactives,
+      accessibility, lighting, and MEP; produced fundraising renderings
+  - firm: design-and-production-incorporated
+    role: fabrication
+    note: "Design-build project lead"
+  - firm: institute-for-human-centered-design
+    role: technical-consulting
+    note: >
+      Accessibility consultant; no clean role in the vocabulary for
+      accessibility consulting specifically, mapped to closest fit; no
+      firm record yet
+technologies: []
+summary: >
+  The East End Galleries, a renovation of 10 galleries at the Smithsonian's
+  National Air and Space Museum in Washington, DC, is in progress as part
+  of the museum's roughly $1 billion, multi-phase transformation (begun
+  2018) with remaining galleries expected to reopen in fall 2026; exhibit
+  design by Reich+Petch, with Design and Production Incorporated as
+  design-build project lead.
+description: ""
+sources:
+  - https://designrp.com/projects/national-air-and-space-museum-east-end-galleries/
+  - https://airandspace.si.edu/about/major-projects/transformation
+  - https://www.si.edu/newsdesk/releases/national-air-and-space-museum-celebrates-50-years-opening-five-new-galleries

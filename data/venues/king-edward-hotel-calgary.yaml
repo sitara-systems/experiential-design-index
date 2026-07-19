@@ -1,0 +1,10 @@
+id: king-edward-hotel-calgary
+name: King Edward Hotel (King Eddy)
+venue_type: public-space
+location:
+  city: Calgary
+  state: AB
+  country: CA
+sources:
+  - https://en.wikipedia.org/wiki/King_Edward_Hotel_(Calgary)
+  - https://www.eoslightmedia.com/work/70

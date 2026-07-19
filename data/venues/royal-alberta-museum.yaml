@@ -1,0 +1,11 @@
+id: royal-alberta-museum
+name: Royal Alberta Museum
+venue_type: natural-history-museum
+location:
+  city: Edmonton
+  state: AB
+  country: CA
+website: https://royalalbertamuseum.ca
+sources:
+  - https://www.eoslightmedia.com/work/41
+  - https://en.wikipedia.org/wiki/Royal_Alberta_Museum

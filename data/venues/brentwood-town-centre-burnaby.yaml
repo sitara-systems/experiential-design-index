@@ -1,0 +1,10 @@
+id: brentwood-town-centre-burnaby
+name: Brentwood Town Centre (public art site)
+venue_type: public-space
+location:
+  city: Burnaby
+  state: BC
+  country: CA
+sources:
+  - https://collections.burnabyartgallery.ca/detail/publicart161
+  - https://www.eoslightmedia.com/work/93

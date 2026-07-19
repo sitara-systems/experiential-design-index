@@ -1,0 +1,23 @@
+id: vancouver-aquarium-amazon-storm
+name: Amazon Storm
+venue: vancouver-aquarium
+project_type: installation
+year_completed: 2011
+credits:
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: Also provided the audiovisual system for the effect.
+  - firm: eos-lightmedia
+    role: av-integration
+technologies:
+  - programmable effects lighting
+  - ambient surround audio
+summary: >
+  Amazon Storm is a recurring hourly storm effect Eos Lightmedia created for
+  the Graham Amazon Gallery at the Vancouver Aquarium in Vancouver, BC,
+  completed in 2011, combining rolling thunder audio, lightning-effect
+  lighting, and simulated rain culminating at the gallery's live caiman
+  exhibit.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/287

@@ -1,0 +1,10 @@
+id: vancouver-public-library-central
+name: Vancouver Public Library (Central Branch) plaza
+venue_type: public-space
+location:
+  city: Vancouver
+  province: BC
+  country: CA
+operator: Vancouver Public Library
+sources:
+  - https://www.eoslightmedia.com/work/94

@@ -1,0 +1,9 @@
+id: t-mobile-park
+name: T-Mobile Park
+venue_type: sports-venue
+location:
+  city: Seattle
+  state: WA
+operator: Seattle Mariners
+sources:
+  - https://www.eoslightmedia.com/work/21

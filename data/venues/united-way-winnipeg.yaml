@@ -1,0 +1,10 @@
+id: united-way-winnipeg
+name: United Way Winnipeg
+venue_type: public-space
+location:
+  city: Winnipeg
+  province: MB
+  country: CA
+operator: United Way Winnipeg
+sources:
+  - https://www.eoslightmedia.com/work/294

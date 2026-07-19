@@ -1,0 +1,11 @@
+id: richmond-olympic-experience
+name: Richmond Olympic Experience
+venue_type: themed-attraction
+location:
+  city: Richmond
+  state: BC
+  country: CA
+operator: Richmond Olympic Oval
+website: https://richmondoval.ca/
+sources:
+  - https://richmondoval.ca/

@@ -1,0 +1,34 @@
+id: britannia-mine-museum-boom
+name: "BOOM! at Britannia Mine Museum"
+venue: britannia-mine-museum
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: vista-collaborative-arts
+    role: exhibit-design
+    note: "Show designer and producer of the live-action, multi-sensory special-effects show staged inside the historic Mill No. 3 building; no firm record yet"
+  - firm: dynamic-attractions
+    role: fabrication
+    note: "Port Coquitlam, BC-based attraction-systems contributor to the show's motion/ride elements; no firm record yet"
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: "Designed, supplied, installed, and programmed the lighting and special-effects elements"
+technologies:
+  - special effects
+  - motion effects
+summary: >
+  BOOM! is a live-action, multi-sensory special-effects show inside the
+  historic Mill No. 3 building at Britannia Mine Museum in Britannia Beach,
+  British Columbia, which opened in 2019; Vista Collaborative Arts designed
+  and produced the show, with lighting and special-effects design,
+  installation, and programming by Eos Lightmedia.
+description: >
+  The show dramatizes the 1920s heyday of the Britannia copper mine's Mill
+  No. 3, once one of the largest copper mills in the world, using lighting,
+  special effects, and a moving ore-skip finale to recreate the historic
+  mill's operation for visitors.
+sources:
+  - https://www.eoslightmedia.com/work/11
+  - https://www.britanniaminemuseum.ca/blogs/press-room/britannia-mine-museum-unveils-new-immersive-mill-show-concept
+  - https://www.livedesignonline.com/excellence-installation-awards/boom-immersive-show-at-britannia-mine-museum
+  - https://www.britanniaminemuseum.ca/blogs/latest-news/boom-wins-a-tea-award

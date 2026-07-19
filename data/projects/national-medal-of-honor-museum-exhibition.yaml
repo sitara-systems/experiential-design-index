@@ -21,6 +21,20 @@ credits:
       Schuler Shook's own project page; this is the only project record for
       the venue, so the credit is attached here rather than as a separate
       sub-project
+  - firm: available-light
+    role: lighting-design
+    note: >
+      Set the lighting design vision for the museum's exhibit lighting, per
+      Eos Lightmedia's own project page.
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Client for exhibit lighting scope per Eos Lightmedia's own project page"
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: >
+      Design development, procurement, fabrication, and installation of all
+      37,249 sq ft of exhibit lighting components (including track heads),
+      guided by Available Light's lighting design vision.
 technologies:
   - interactive kiosks
 summary: >
@@ -34,3 +48,4 @@ sources:
   - https://www.architecturalrecord.com/articles/17450-rafael-vinoly-architectss-national-medal-of-honor-museum-opens-in-arlington-texas
   - https://gallagherdesign.com/project/national-medal-of-honor-museum/
   - https://schulershook.com/projects/national-medal-of-honor-museum-col-neel-e-kearby-theater
+  - https://www.eoslightmedia.com/work/573

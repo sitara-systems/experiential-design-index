@@ -1,0 +1,12 @@
+id: fort-york-national-historic-site
+name: Fort York National Historic Site
+venue_type: history-museum
+location:
+  city: Toronto
+  province: ON
+  country: CA
+operator: City of Toronto
+website: https://fortyork.ca
+sources:
+  - https://designrp.com/projects/fort-york-visitor-centre/
+  - https://www.canadianarchitect.com/fort-york-visitor-centre-opens-to-the-public-this-weekend/

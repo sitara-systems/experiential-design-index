@@ -1,0 +1,27 @@
+id: museum-of-discovery-and-science-everglades-airboat-adventure
+name: Everglades Airboat Adventure
+venue: museum-of-discovery-and-science-fort-lauderdale
+project_type: new-exhibition
+year_completed: 2011
+credits:
+  - firm: 1220-fabrication
+    role: fabrication
+    note: "Engaged Eos Lightmedia for the exhibit's lighting scope, per Eos Lightmedia's own project page; also credited as exhibit designer on this project."
+  - firm: 1220-fabrication
+    role: exhibit-design
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: >
+      Commissioning, equipment supply, installation, systems integration,
+      fixture focus, and lighting/control programming for the immersive
+      exhibit.
+technologies:
+  - immersive scenic environment
+summary: >
+  Everglades Airboat Adventure is a 2,000 sq ft immersive exhibit at the
+  Museum of Discovery and Science in Fort Lauderdale, FL, completed in
+  2011; 1220 Exhibits designed and fabricated the exhibit and Eos Lightmedia
+  supplied and integrated its lighting and control systems.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/304

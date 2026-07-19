@@ -1,0 +1,10 @@
+id: manitoba-museum
+name: The Manitoba Museum
+venue_type: natural-history-museum
+location:
+  city: Winnipeg
+  state: MB
+  country: CA
+website: https://manitobamuseum.ca
+sources:
+  - https://www.eoslightmedia.com/work/53

@@ -1,0 +1,10 @@
+id: rogers-302
+name: Rogers 302
+venue_type: brand-experience-center
+location:
+  city: Toronto
+  state: ON
+  country: CA
+operator: Rogers Communications
+sources:
+  - https://www.eoslightmedia.com/work/42

@@ -1,0 +1,11 @@
+id: university-of-british-columbia
+name: University of British Columbia (Vancouver campus)
+venue_type: academic-institution
+location:
+  city: Vancouver
+  state: BC
+  country: CA
+operator: University of British Columbia
+website: https://www.ubc.ca
+sources:
+  - https://www.eoslightmedia.com/work/76

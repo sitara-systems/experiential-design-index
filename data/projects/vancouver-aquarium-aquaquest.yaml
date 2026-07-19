@@ -1,0 +1,33 @@
+id: vancouver-aquarium-aquaquest
+name: AquaQuest - The Marilyn Blusson Learning Centre
+venue: vancouver-aquarium
+project_type: new-building
+year_completed: 2006
+credits:
+  - firm: stantec
+    role: architecture
+    note: Building architect, per independent sourcing (Greenroofs.com, Green Building Audio Tours).
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: >
+      Designed minimalist exhibit lighting for the tanks and AV screens,
+      LED graphic-panel and ceiling accents, effects projectors, and
+      programmable theatrical lighting for the 170-seat Ocean Theatre.
+technologies:
+  - LED accent lighting
+  - programmable theatrical lighting
+summary: >
+  AquaQuest - The Marilyn Blusson Learning Centre, a 52,000 sq ft building at
+  the Vancouver Aquarium in Vancouver, BC, opened in November 2006 and became
+  the first aquarium in the world to achieve LEED Gold certification;
+  Stantec Architecture designed the building and Eos Lightmedia designed the
+  exhibit and theatre lighting.
+description: >
+  The building includes a 170-seat Ocean Theatre and exhibit galleries; Eos
+  Lightmedia's lighting design used energy-efficient LED technology to
+  illuminate graphic panels and create accent effects while minimizing
+  reflections on the aquarium tanks and AV screens.
+sources:
+  - https://www.eoslightmedia.com/work/296
+  - http://www.greenroofs.com/projects/aquaquest-the-marilyn-blusson-learning-centre-vancouver-aquarium/
+  - https://greenbuildingaudiotours.com/buildings/aquaquest_the_mary_blusson_learning_centre

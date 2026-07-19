@@ -1,0 +1,10 @@
+id: science-world-vancouver
+name: Science World
+venue_type: science-center
+location:
+  city: Vancouver
+  province: BC
+  country: CA
+website: https://www.scienceworld.ca
+sources:
+  - https://www.scienceworld.ca

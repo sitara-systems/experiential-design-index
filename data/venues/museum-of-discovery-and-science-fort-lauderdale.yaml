@@ -1,0 +1,9 @@
+id: museum-of-discovery-and-science-fort-lauderdale
+name: Museum of Discovery and Science
+venue_type: science-center
+location:
+  city: Fort Lauderdale
+  state: FL
+website: https://www.mods.org
+sources:
+  - https://www.eoslightmedia.com/work/304

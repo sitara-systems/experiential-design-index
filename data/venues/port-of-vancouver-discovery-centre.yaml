@@ -1,0 +1,10 @@
+id: port-of-vancouver-discovery-centre
+name: Port of Vancouver Discovery Centre
+venue_type: visitor-center
+location:
+  city: Vancouver
+  state: BC
+  country: CA
+operator: Vancouver Fraser Port Authority
+sources:
+  - https://www.eoslightmedia.com/work/38

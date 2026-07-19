@@ -1,0 +1,11 @@
+id: canada-science-and-technology-museum
+name: Canada Science and Technology Museum
+venue_type: science-center
+location:
+  city: Ottawa
+  province: ON
+  country: CA
+operator: Ingenium
+website: https://ingeniumcanada.org/scitech
+sources:
+  - https://designrp.com/projects/cstm-artifact-alley/

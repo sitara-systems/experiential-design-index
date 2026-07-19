@@ -1,0 +1,37 @@
+id: false-creek-neighbourhood-energy-utility-stacks
+name: The Stacks
+venue: false-creek-neighbourhood-energy-utility
+project_type: installation
+year_completed: 2009
+credits:
+  - firm: pechet-and-robb
+    role: architecture
+    note: "Artist/architect team who conceived and designed the five sculptural emission-vent stacks (\"the Stacks\"); vocab gap: no dedicated public-art role exists, architecture is the closest fit."
+  - firm: cdm-lighting-design-group
+    role: lighting-design
+    note: "Lighting supplier collaborator (CDM2 Lightworks), per Eos Lightmedia's own project page; reconciled to the existing 'cdm-lighting-design-group' firm id used elsewhere in this dataset (World of Coca-Cola)."
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: >
+      Provided custom electronic control components, design detailing, and
+      programming of the energy-monitoring interface driving the stacks'
+      programmable LED lighting.
+technologies:
+  - programmable LED lighting
+  - energy-monitoring control interface
+summary: >
+  The Stacks, five sculptural emission-vent flues topped with programmable
+  LED "fingernail" light fixtures, was completed in 2009 at the Southeast
+  False Creek Neighbourhood Energy Utility in Vancouver, BC; Pechet and Robb
+  designed the sculptural treatment and Eos Lightmedia, working with lighting
+  supplier CDM2 Lightworks, provided the controls and programming.
+description: >
+  The Neighbourhood Energy Utility is Vancouver's first sewage
+  heat-recovery district energy system; the five 22-metre stacks were
+  reimagined by Pechet and Robb as a sculptural "hand," each flue topped by
+  an LED fixture programmed to change color in response to the facility's
+  green-energy output.
+sources:
+  - https://www.eoslightmedia.com/work/48
+  - http://www.pechetandrobb.ca/cec.html
+  - https://franclarchitecture.com/work/false-creek-neighbourhood-energy-utility-centre

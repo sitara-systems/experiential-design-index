@@ -1,0 +1,10 @@
+id: assiniboine-park-zoo
+name: Assiniboine Park Zoo
+venue_type: aquarium-zoo
+location:
+  city: Winnipeg
+  province: MB
+  country: CA
+website: https://www.assiniboinepark.ca/zoo
+sources:
+  - https://www.eoslightmedia.com/work/88

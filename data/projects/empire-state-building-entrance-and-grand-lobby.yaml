@@ -10,6 +10,20 @@ credits:
       Technology integrator for the new observatory entrance at 20 West
       34th Street and grand lobby, including LED displays, large-format
       LCD screens, and projection systems with automatic failover/backup
+  - firm: kubik-maltbie
+    role: fabrication
+    note: >
+      Fabricated the celestial entry ceiling, two-story architectural
+      building model and curved model backdrop, digital wayfinding, and
+      lightboxes as part of "The Project Dream" reimagining of the
+      Empire State Building visitor experience.
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: >
+      Supplied and integrated lighting for the reconfigured entry level,
+      working with Kubik Maltbie on "The Project Dream," including the
+      celestial entry ceiling, exhibit cases, and the architectural
+      building model, per Eos Lightmedia's own project page.
 technologies:
   - LED displays
   - large-format LCD
@@ -23,3 +37,5 @@ description: ""
 sources:
   - https://www.prnewswire.com/news-releases/empire-state-building-unveils-new-observatory-entrance-300701050.html
   - https://onediversified.com/case-study/seamless-technology-integration
+  - https://kubikmaltbie.com/project/empire-state-building-the-project-dream/
+  - https://www.eoslightmedia.com/work/201

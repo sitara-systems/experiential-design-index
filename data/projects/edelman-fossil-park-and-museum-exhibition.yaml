@@ -17,6 +17,19 @@ credits:
     role: interpretive-planning
   - firm: gallagher-and-associates
     role: graphics-wayfinding
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Client per Eos Lightmedia's own project page"
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: >
+      Complete lighting integration (specialty track systems, fixtures,
+      programming, commissioning, installation) plus centralized control
+      software, spanning base building and exhibit casework, per Eos
+      Lightmedia's own project page.
+  - firm: eos-lightmedia
+    role: av-integration
+    note: "Hardware procurement, commissioning, and system integration."
 technologies:
   - interactive kiosks
 summary: >
@@ -30,3 +43,4 @@ sources:
   - https://today.rowan.edu/news/2025/03/ribbon-cutting-opens-jean-ric-edelman-fossil-park-museum-of-rowan-university.html
   - https://www.archpaper.com/2025/03/edelman-fossil-park-museum-of-rowan-university/
   - https://gallagherdesign.com/project/jean-ric-edelman-fossil-park-museum-at-rowan-university/
+  - https://www.eoslightmedia.com/work/412

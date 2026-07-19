@@ -1,0 +1,11 @@
+id: delaware-museum-of-nature-and-science
+name: Delaware Museum of Nature & Science
+venue_type: natural-history-museum
+location:
+  city: Wilmington
+  state: DE
+operator: Delaware Nature Society
+website: https://www.delmnh.org
+sources:
+  - https://en.wikipedia.org/wiki/Delaware_Museum_of_Nature_%26_Science
+  - https://www.visitwilmingtonde.com/blog/stories/post/whats-new-inside-greater-wilmingtons-delaware-museum-of-nature-and-science/

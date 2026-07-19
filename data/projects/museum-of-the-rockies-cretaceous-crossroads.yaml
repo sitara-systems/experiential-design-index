@@ -1,0 +1,39 @@
+id: museum-of-the-rockies-cretaceous-crossroads
+name: Cretaceous Crossroads
+venue: museum-of-the-rockies
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: bluewater-studio
+    role: exhibit-design
+    note: "Design-build lead: project planning, interpretive planning, content development, exhibit/graphic design, media & technology, lighting design, mount making; no firm record yet"
+  - firm: bluewater-studio
+    role: fabrication
+    note: "Fabrication and installation; no firm record yet"
+  - firm: lord-cultural-resources
+    role: interpretive-planning
+  - firm: weatherstonbruer-associates
+    role: exhibit-design
+    note: "Gallery designer; no firm record yet"
+technologies:
+  - AV interactives
+  - augmented reality
+  - microscope stations
+summary: >
+  Cretaceous Crossroads, a 2,300-square-foot permanent paleontology
+  exhibition at the Museum of the Rockies in Bozeman, Montana, opened
+  July 2, 2025, the museum's first new primary paleontology exhibition in
+  over a decade; interpretive planning by Lord Cultural Resources, with
+  Bluewater Studio leading design-build (exhibit design, media, and
+  fabrication) alongside gallery designer WeatherstonBruer Associates.
+description: >
+  The exhibition explores three Montana geologic formations (Two Medicine,
+  Judith River, and Bearpaw) spanning roughly 72 to 82 million years ago,
+  using real fossil material, 3D prints, casts, murals, an augmented
+  reality piece, and discovery drawers, featuring specimens including a
+  mounted Maiasaura and a 30-foot Daspletosaurus horneri.
+sources:
+  - https://www.lord.ca/projects/project-experience/museum-of-the-rockies
+  - https://www.montana.edu/news/24641/museum-of-the-rockies-debuts-new-paleontology-exhibition-cretaceous-crossroads
+  - https://bluewater.studio/museum-of-the-rockies/
+  - https://museumoftherockies.org/exhibitions/cretaceous-crossroads

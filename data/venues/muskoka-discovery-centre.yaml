@@ -1,0 +1,10 @@
+id: muskoka-discovery-centre
+name: Muskoka Discovery Centre
+venue_type: history-museum
+location:
+  city: Gravenhurst
+  province: ON
+  country: CA
+website: https://muskokadiscoverycentre.com
+sources:
+  - https://designrp.com/projects/muskoka-discovery-centre-watershed-wonders/

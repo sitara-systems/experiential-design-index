@@ -1,0 +1,10 @@
+id: dynamic-earth
+name: Dynamic Earth
+venue_type: science-center
+location:
+  city: Sudbury
+  state: ON
+  country: CA
+operator: Science North
+sources:
+  - https://www.eoslightmedia.com/work/50

@@ -1,0 +1,37 @@
+id: edge-hudson-yards-immersive-experience
+name: Edge Immersive Experience
+venue: edge-hudson-yards
+project_type: installation
+year_completed: 2026
+credits:
+  - firm: moment-factory
+    role: media-design
+    note: >
+      One of three studios (with Journey and SOFTLab) commissioned by Hudson
+      Yards Experiences to design and install next-generation immersive
+      exhibits spanning Edge's indoor footprint from 4th-floor entry to the
+      100th-floor sky deck — light, color, and motion installations
+      including Pulse, Kaleidoscope, Infinite City, and Crystal Cave,
+      replacing the venue's original 2020 "Journey to Edge" entry sequence.
+  - firm: softlab
+    role: media-design
+    note: "New York City design studio; no firm record yet (below the 3-project bar)."
+  - firm: journey-agency
+    role: exhibit-design
+    note: >
+      "Multidimensional agency Journey"; no exact firm-name/identity
+      confirmation beyond press coverage, no firm record yet (below the
+      3-project bar).
+technologies:
+  - projection mapping
+  - interactive lighting
+  - kinetic installation
+summary: >
+  A multi-sensory reimagining of the indoor observation-deck experience at
+  Edge at Hudson Yards, designed by Journey, Moment Factory, and SOFTLab for
+  operator Hudson Yards Experiences, opened in New York City in 2026.
+description: ""
+sources:
+  - https://momentfactory.com/products/edge-nyc-hudson-yards
+  - https://www.edgenyc.com/news/edge-hudson-yards-immersive-experience-summer-2026/
+  - https://patch.com/new-york/new-york-city/edge-hudson-yards-debuts-new-immersive-installations-see-photos

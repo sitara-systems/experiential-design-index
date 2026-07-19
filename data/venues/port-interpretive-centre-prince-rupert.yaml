@@ -1,0 +1,11 @@
+id: port-interpretive-centre-prince-rupert
+name: Port Interpretive Centre (Prince Rupert)
+venue_type: visitor-center
+location:
+  city: Prince Rupert
+  province: BC
+  country: CA
+operator: Prince Rupert Port Authority
+sources:
+  - https://www.eoslightmedia.com/work/39
+  - https://www.rupertport.com/innovative-new-look-coming-to-port-interpretive-centre/

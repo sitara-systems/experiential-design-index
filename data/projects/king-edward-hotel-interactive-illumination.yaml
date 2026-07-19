@@ -1,0 +1,32 @@
+id: king-edward-hotel-interactive-illumination
+name: King Eddy Interactive Illumination
+venue: king-edward-hotel-calgary
+project_type: installation
+year_completed: 2008
+credits:
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: Automated lighting fixtures programmed to illuminate the building exterior in dynamic colors and patterns.
+  - firm: eos-lightmedia
+    role: media-design
+    note: Custom software allowing passersby to digitally "paint" on the hotel facade via a touchscreen kiosk.
+  - firm: eos-lightmedia
+    role: av-integration
+    note: Touchscreen interface, projection, and video-scaling systems for the interactive facade.
+technologies:
+  - interactive touchscreen
+  - projection
+  - video scaling
+summary: >
+  King Eddy Interactive Illumination, a temporary interactive light
+  installation on the exterior of the vacant, historic King Edward Hotel in
+  Calgary, Alberta, was completed in 2008 as part of the city's Rivers
+  District revitalization launch; Eos Lightmedia designed the lighting,
+  custom touchscreen software, and AV systems.
+description: >
+  Passersby could digitally "paint" on the closed hotel's exterior via a
+  42-inch touchscreen mapped to the building's architecture, while automated
+  lighting fixtures illuminated the sides of the building in dynamic colors
+  and patterns.
+sources:
+  - https://www.eoslightmedia.com/work/70

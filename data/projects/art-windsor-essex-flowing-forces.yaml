@@ -1,0 +1,27 @@
+id: art-windsor-essex-flowing-forces
+name: Flowing Forces
+venue: art-windsor-essex
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: moment-factory
+    role: media-design
+    note: >
+      Multimedia gallery installation combining projection mapping,
+      AI-assisted content, mobile-device interactivity, and reactive audio,
+      letting visitors use personal phones to reveal thematic connections
+      between the collection's Canadian paintings. Second collaboration
+      between Moment Factory and the gallery, following an earlier project,
+      "Against the Current" (not independently sourced; not recorded).
+technologies:
+  - projection mapping
+  - mobile interactivity
+  - AI-assisted content
+summary: >
+  Flowing Forces, a multimedia installation reinterpreting the permanent
+  collection through mobile-based interactivity, designed by Moment
+  Factory, opened at Art Windsor-Essex in Windsor, Ontario, in 2023.
+description: ""
+sources:
+  - https://momentfactory.com/products/flowing-forces
+  - https://artwindsoressex.ca

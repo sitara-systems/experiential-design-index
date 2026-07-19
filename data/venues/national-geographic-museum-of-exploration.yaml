@@ -1,0 +1,11 @@
+id: national-geographic-museum-of-exploration
+name: National Geographic Museum of Exploration
+venue_type: science-center
+location:
+  city: Washington
+  state: DC
+operator: National Geographic Society
+website: https://moe.nationalgeographic.org
+sources:
+  - https://moe.nationalgeographic.org/en/about/inside-moe/press-release/museum-of-exploration-opening-date-announcement
+  - https://blooloop.com/national-geographic-museum-of-exploration/

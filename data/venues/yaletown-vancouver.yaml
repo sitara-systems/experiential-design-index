@@ -1,0 +1,10 @@
+id: yaletown-vancouver
+name: Yaletown (Opus Hotel facade)
+venue_type: public-space
+location:
+  city: Vancouver
+  province: BC
+  country: CA
+operator: Yaletown Business Improvement Association
+sources:
+  - https://www.eoslightmedia.com/work/96

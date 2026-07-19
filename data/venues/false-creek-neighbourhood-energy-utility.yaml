@@ -1,0 +1,12 @@
+id: false-creek-neighbourhood-energy-utility
+name: Southeast False Creek Neighbourhood Energy Utility (The Stacks)
+venue_type: public-space
+location:
+  city: Vancouver
+  state: BC
+  country: CA
+operator: City of Vancouver
+sources:
+  - http://www.pechetandrobb.ca/cec.html
+  - https://franclarchitecture.com/work/false-creek-neighbourhood-energy-utility-centre
+  - https://vancouver.ca/home-property-development/southeast-false-creek-neighbourhood-energy-utility.aspx

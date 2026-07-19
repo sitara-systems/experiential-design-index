@@ -27,9 +27,15 @@ is no "trust us" tier of inclusion.
 There is no fee, no submission requirement, and no relationship prerequisite
 for inclusion. Firms are added because their work belongs in the record.
 
-**Current geographic scope:** firms headquartered in the United States.
-Non-US firms credited on US projects appear in credits and receive records as
-coverage expands.
+**Current geographic scope:** firms headquartered in **North America** (the
+United States or Canada). This is a participation test, not a residency
+test — it exists to exclude firms that don't meaningfully participate in
+the North American experiential-design industry, not to exclude
+Canadian firms, which count fully alongside US ones. Firms headquartered
+elsewhere and credited on North American projects appear in credits and
+receive records as coverage expands. **Venue scope follows the same
+line**: US and Canadian venues/projects are both in scope; other
+countries are not yet.
 
 **Venue scope:** the index covers designed experiences in public cultural
 destinations (museums, science centers, attractions) and in institutional
@@ -42,12 +48,13 @@ line is audience, not client industry — a company's briefing center,
 experience center, or lobby installation that receives visitors is in
 scope; its internal workplace is not.
 
-**What "US-based" means:** a firm's operating reality governs, not its legal
-registration. A firm whose verifiable current operations (staff, projects,
-published presence) run from the United States is US-based; a firm operating
-from abroad is not, even if a US legal entity persists. Where the public
-record leaves a firm's US presence genuinely uncertain, the firm's activity
-status says so (see below) rather than the index guessing.
+**What "North America-based" means:** a firm's operating reality governs, not
+its legal registration. A firm whose verifiable current operations (staff,
+projects, published presence) run from the United States or Canada is
+North America-based; a firm operating from elsewhere is not, even if a US
+or Canadian legal entity persists. Where the public record leaves a firm's
+North American presence genuinely uncertain, the firm's activity status
+says so (see below) rather than the index guessing.
 
 **Project-type scope: no advertising.** The index does not cover
 advertising campaigns, ad-agency work, or one-off marketing/brand

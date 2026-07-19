@@ -1,0 +1,10 @@
+id: riding-mountain-national-park-visitor-centre
+name: Riding Mountain National Park Visitor Centre
+venue_type: visitor-center
+location:
+  city: Onanole
+  state: MB
+  country: CA
+operator: Parks Canada
+sources:
+  - https://www.eoslightmedia.com/work/259

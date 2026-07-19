@@ -1,0 +1,11 @@
+id: britannia-mine-museum
+name: Britannia Mine Museum
+venue_type: history-museum
+location:
+  city: Britannia Beach
+  state: BC
+  country: CA
+website: https://britanniaminemuseum.ca
+sources:
+  - https://www.eoslightmedia.com/work/11
+  - https://www.britanniaminemuseum.ca/blogs/press-room/britannia-mine-museum-unveils-new-immersive-mill-show-concept

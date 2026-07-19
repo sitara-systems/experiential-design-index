@@ -1,0 +1,30 @@
+id: patriots-hall-of-fame-super-bowl-experience
+name: New England Patriots Super Bowl Experience
+venue: patriots-hall-of-fame
+project_type: new-exhibition
+year_completed: 2015
+credits:
+  - firm: cambridgeseven
+    role: exhibit-design
+    note: "Exhibit designer; contracted Eos Lightmedia for the gallery's lighting scope, per Eos Lightmedia's own project page."
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: >
+      Lighting design, coordination, programming, and commissioning for the
+      new gallery.
+technologies:
+  - augmented reality
+  - video wall
+summary: >
+  The New England Patriots Super Bowl Experience, a permanent gallery at the
+  Patriots Hall of Fame in Foxborough, Massachusetts, opened in 2015
+  following the team's fourth Super Bowl win, with exhibit design by
+  CambridgeSeven and lighting design by Eos Lightmedia.
+description: >
+  The gallery features a 16'x9' video wall of Super Bowl moments, four Super
+  Bowl pods with artifacts and interactive stations, an augmented-reality
+  station recreating the Malcolm Butler interception from Super Bowl XLIX,
+  and the team's four Vince Lombardi trophies displayed free of glass cases.
+sources:
+  - https://www.eoslightmedia.com/work/34
+  - https://www.cambridgeseven.com/project/the-hall-at-patriot-place/

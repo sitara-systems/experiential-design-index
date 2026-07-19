@@ -1,0 +1,9 @@
+id: burnaby-art-walk
+name: Burnaby Art Walk
+venue_type: public-space
+location:
+  city: Burnaby
+  state: BC
+  country: CA
+sources:
+  - https://www.eoslightmedia.com/work/31

@@ -1,0 +1,11 @@
+id: vancouver-international-airport
+name: Vancouver International Airport (YVR)
+venue_type: public-space
+location:
+  city: Richmond
+  state: BC
+  country: CA
+operator: Vancouver Airport Authority
+website: https://www.yvr.ca
+sources:
+  - https://www.eoslightmedia.com/work/36

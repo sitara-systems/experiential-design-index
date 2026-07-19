@@ -1,0 +1,10 @@
+id: lowell-observatory
+name: Lowell Observatory
+venue_type: science-center
+location:
+  city: Flagstaff
+  state: AZ
+website: https://lowell.edu
+sources:
+  - https://www.eoslightmedia.com/work/154
+  - https://lowell.edu

@@ -52,11 +52,15 @@ this doc and any batch-specific instructions:
    with no built physical space are out of scope. See `editorial-policy.md`
    § "Project-type scope: no advertising." A firm's brand-experience-center
    *building* is in scope; its ad campaign for the same client is not.
-6. **US-based firms only** get firm records for now (non-US firms appear
-   unlinked in credits). Non-US venues currently can't be recorded at all —
-   `scripts/validate.py` hard-requires a US `state` on every venue; this is
-   a known gap (see Batch 1's flag log) to fix before the tiered crawl hits
-   firms with substantial international portfolios.
+6. **North America-based firms (US or Canada)** get firm records; firms
+   headquartered elsewhere appear unlinked in credits until coverage
+   expands further (revised 2026-07-18 — previously US-only; see
+   `editorial-policy.md`). **Venue scope follows the same line**: US and
+   Canadian venues/projects are both in scope, other countries are not
+   yet. `scripts/validate.py`'s `check_place()` already supports non-US
+   places generically (`country` field, `state` optional off-US) — no
+   code change needed for Canadian records, just use `country: CA` and a
+   province instead of `state`.
 7. **IDs are lowercase kebab-case, stable, and must match the filename.**
    Before creating a firm or venue record, check whether one already exists
    under a plausible id — the single most common failure mode in every
@@ -456,6 +460,62 @@ list.*
   projects), the next session should treat this as a genuine pause point —
   confirm scope/scale intent with Nathan before launching Tier 4, per the
   methodology's own "pause between tiers" rationale.
+
+- **North America scope expansion (2026-07-18).** Nathan changed the
+  geographic scope rule: "US-based firms only" → **North America (US +
+  Canada)**, for both firm eligibility and venue/project scope ("I mostly
+  mean to exclude firms that don't meaningfully participate in the US
+  industry, but Canadian firms definitely count"). Updated `editorial-policy.md`
+  and hard rule 6 above accordingly. Immediately promoted the 4 firms this
+  unblocked — all previously excluded as non-US despite sitting at ≥3
+  US-project credits: **EOS Lightmedia** (Vancouver, BC — lighting
+  design), **Moment Factory** (Montréal, QC — media/immersive design),
+  **Reich+Petch** (Toronto, ON + New York, NY — architecture/exhibit
+  design), **Lord Cultural Resources** (Toronto, ON — museum planning
+  consultancy). Each got a full firm record and a portfolio crawl that,
+  for the first time, included Canadian venues rather than excluding
+  them. Schema/validator needed no changes — `check_place()` already
+  supported non-US places generically (`country` field, province instead
+  of `state`); Canadian venue records just needed to actually use that
+  path.
+
+  **Result: dataset grew from 112/1160/882 to 116/1267/974**
+  (firms/projects/venues). EOS Lightmedia's crawl was the largest of the
+  four — its own site is a React SPA with no server-side rendering, which
+  defeated ordinary WebFetch; the agent located the underlying JSON API
+  (`eos-backend-qdkcn.ondigitalocean.app/api/project/<id>`) via the site's
+  JS bundle and pulled all project records reliably from there instead
+  (worth remembering as a technique for other JS-heavy portfolio sites).
+  Reich+Petch's crawl added 22 new Canadian/US projects — designrp.com
+  has a sparser in-page collaborator-credit convention than most firm
+  portfolio sites, so most of those projects carry only the Reich+Petch
+  credit itself, with a few (Massey Hall, YouthLink Calgary,
+  NCAR-Wyoming Supercomputing Center) naming a fuller delivery stack.
+  Several leads across both crawls were correctly excluded on scope
+  grounds rather than force-added: a Deloitte Montréal office wayfinding
+  program and a Metro Vancouver government office (employee-only
+  corporate/civic interiors), the Canadian Fossil Discovery Centre (a
+  master-plan/feasibility deliverable, not yet built), multiple
+  real-estate-developer sales/presentation centres (River Green, Station
+  Square, Three Sisters, River District — all advertising-adjacent, no
+  lasting public installation), and several private commercial-office
+  lobby art pieces with no standalone public identity. `validate.py`: 0
+  errors; no firm-id near-duplicates (one near-miss caught and resolved
+  inline — `CDM2 Lightworks` correctly reconciled to the existing
+  `cdm-lighting-design-group` id, same Vancouver firm, rather than
+  minted as a duplicate). One orchestrating-session fix: a
+  Richmond Olympic Experience credit (Richmond, BC — W3 Design Group +
+  Eos Lightmedia, 2015) was fully researched by one sub-batch but never
+  written to disk (a sequencing oversight the sub-agent flagged in its
+  own report); added directly from that research.
+
+  **New Tier 4 candidates**: `aldrichpears-associates` (Vancouver,
+  Canadian — surfaced repeatedly across the EOS Lightmedia crawl),
+  `holman-exhibits`, `jack-rouse-associates`, `storyline-studio` now sit
+  at ≥3 credits, joining the 16 already-identified Tier 4 candidates from
+  the Tier 3 close-out entry above (that list's 4 "non-US, stays
+  unlinked" firms are now fully resolved — all 4 have records as of this
+  entry).
 
 ## Updating an existing record (not just adding new ones)
 

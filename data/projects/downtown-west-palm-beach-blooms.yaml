@@ -1,0 +1,30 @@
+id: downtown-west-palm-beach-blooms
+name: Blooms
+venue: downtown-west-palm-beach-public-art
+project_type: installation
+year_completed: 2021
+credits:
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: >
+      Designed the lighting integration (cable pathing, mounting details,
+      custom reflectors, photometric renders) and provided commissioning,
+      programming, and custom software, incl. a web controller and
+      pedestrian-interaction motion sensors, per Eos Lightmedia's own
+      project page.
+technologies:
+  - motion sensors
+  - custom web lighting controller
+summary: >
+  Blooms, six large-scale stainless-steel dandelion sculptures over 15 feet
+  tall with integrated, motion-responsive lighting, was installed in
+  downtown West Palm Beach, Florida in 2021, with lighting design,
+  programming, and controls by Eos Lightmedia; the sculptures themselves
+  were fabricated by DSIV Studios.
+description: >
+  Each sculpture is fabricated from marine-grade stainless steel and
+  integrates industrial-rated lighting emanating from the center of the
+  bloom out through hundreds of cylindrical florets; the installation won a
+  2022 LIT Design Award (Light Art Project).
+sources:
+  - https://www.eoslightmedia.com/work/120

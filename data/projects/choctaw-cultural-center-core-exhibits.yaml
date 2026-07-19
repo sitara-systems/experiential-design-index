@@ -10,6 +10,12 @@ credits:
   - firm: design-division
     role: exhibit-design
     note: "no firm record yet"
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Fabricated the Luksi (Turtle) Children's Activity Center, a 60,000 sq ft component of the cultural center, completed 2019 per Eos Lightmedia's own project page (distinct completion date from the venue's 2021 overall opening)"
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: "Supplied and integrated specialty lighting (angled graphic panel lighting, modular LED systems, flexible track lighting) for the Luksi Children's Activity Center, contracted by Kubik Maltbie"
 technologies:
   - projection mapping
   - AR/VR interactive
@@ -29,3 +35,4 @@ sources:
   - https://monadnock.org/project/choctaw-cultural-center
   - https://www.nbcdfw.com/entertainment/the-scene/choctaw-cultural-center-to-celebrate-chahta-people-open-july-23/2647567/
   - https://tribalbusinessnews.com/sections/tourism/13521-with-new-75m-cultural-center-choctaw-nation-blends-tribal-services-with-cultural-tourism
+  - https://www.eoslightmedia.com/work/276

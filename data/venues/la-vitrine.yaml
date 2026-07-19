@@ -1,0 +1,11 @@
+id: la-vitrine
+name: La Vitrine culturelle
+venue_type: cultural-center
+location:
+  city: Montréal
+  province: QC
+  country: CA
+operator: Quartier des Spectacles Partnership
+website: https://www.lavitrine.com
+sources:
+  - https://momentfactory.com/products/media-facade-la-vitrine

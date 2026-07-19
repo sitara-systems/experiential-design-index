@@ -1,0 +1,10 @@
+id: storyeum
+name: Storyeum
+venue_type: themed-attraction
+location:
+  city: Vancouver
+  state: BC
+  country: CA
+sources:
+  - https://en.wikipedia.org/wiki/Storyeum
+  - https://www.cbc.ca/news/canada/british-columbia/vancouver-tourist-attraction-closes-down-1.580280

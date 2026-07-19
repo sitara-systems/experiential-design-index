@@ -1,0 +1,31 @@
+id: ubc-start-an-evolution
+name: Start an Evolution
+venue: university-of-british-columbia
+project_type: installation
+year_completed: 2015
+credits:
+  - firm: cdm2-lightworks
+    role: lighting-design
+    note: "Client of record for Eos Lightmedia's scope, per Eos Lightmedia's own project page; role on the project not independently corroborated (no firm record yet)."
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: >
+      Supplied and integrated the interactive lighting installation: twenty
+      motion-triggered triangular acrylic light pillars at a campus pathway
+      intersection, commissioned by UBC's donor engagement office for its
+      "Start an Evolution" fundraising campaign.
+technologies:
+  - motion-sensor interactive lighting
+summary: >
+  Start an Evolution, a public interactive light installation of twenty
+  motion-triggered triangular pillars at a pathway intersection on the
+  University of British Columbia's Vancouver campus, was completed in 2015
+  with lighting supply and integration by Eos Lightmedia for UBC's donor
+  engagement office.
+description: >
+  Visitor movement triggers motion detectors that shoot a ripple of light
+  through each acrylic pillar and its neighbors, evoking the ripple effect
+  central to UBC's "Start an Evolution" fundraising campaign; the light
+  palette combines UBC's brand blue with the campaign's magenta.
+sources:
+  - https://www.eoslightmedia.com/work/76

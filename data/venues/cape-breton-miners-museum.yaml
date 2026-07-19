@@ -1,0 +1,9 @@
+id: cape-breton-miners-museum
+name: Cape Breton Miners Museum
+venue_type: history-museum
+location:
+  city: Glace Bay
+  state: NS
+  country: CA
+sources:
+  - https://www.eoslightmedia.com/work/147

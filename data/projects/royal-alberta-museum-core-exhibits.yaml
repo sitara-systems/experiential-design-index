@@ -1,0 +1,37 @@
+id: royal-alberta-museum-core-exhibits
+name: Royal Alberta Museum Core Exhibits
+venue: royal-alberta-museum
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+    note: "Designed the Human History and Natural History galleries and the main foyer exhibits"
+  - firm: lee-h-skolnick-architecture-design-partnership
+    role: exhibit-design
+    note: "Designed the Children's Gallery and Bug Gallery; no firm record yet"
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Design-build for 3 of 7 featured galleries; principal fabricator for 2 more, incl. base-build fit-out, showcases, and lighting"
+  - firm: cortina-productions
+    role: media-design
+  - firm: electrosonic
+    role: av-integration
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: "Provided overhead and internal case lighting"
+technologies: []
+summary: >
+  The new Royal Alberta Museum building in Edmonton, Alberta opened in
+  2018 with 82,000 sq ft of exhibition space; Ralph Appelbaum Associates
+  designed the Human History and Natural History galleries and foyer, Lee
+  H. Skolnick Architecture + Design Partnership designed the Children's and
+  Bug Galleries, Kubik Maltbie fabricated most galleries, and Eos
+  Lightmedia provided exhibit lighting.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/41
+  - https://royalalbertamuseum.ca/about/new-museum/architecture-and-design
+  - https://kubikmaltbie.com/project/royal-alberta-museum/
+  - https://www.cortinaproductions.com/royal-alberta-museum/
+  - https://en.wikipedia.org/wiki/Royal_Alberta_Museum

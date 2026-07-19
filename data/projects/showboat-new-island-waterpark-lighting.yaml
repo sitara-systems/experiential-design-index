@@ -1,0 +1,25 @@
+id: showboat-new-island-waterpark-lighting
+name: New Island Waterpark Lighting
+venue: showboat-new-island-waterpark
+project_type: new-building
+year_completed: 2023
+credits:
+  - firm: exp
+    role: lighting-design
+    note: "Crafted the lighting scheme per Eos Lightmedia's own project page; no firm record yet"
+  - firm: eos-lightmedia
+    role: av-integration
+    note: >
+      Systems integrator for EXP's lighting scheme, providing controls,
+      cabling, commissioning, and programmed lighting shows for the 120,000
+      sq ft indoor waterpark.
+technologies:
+  - programmable lighting shows
+summary: >
+  The New Island Waterpark at the Showboat Resort in Atlantic City, New
+  Jersey, a 120,000 sq ft indoor waterpark billed as the world's largest
+  indoor beachfront waterpark, opened in 2023, with a lighting scheme
+  designed by EXP and integrated by Eos Lightmedia.
+description: ""
+sources:
+  - https://www.eoslightmedia.com/work/409

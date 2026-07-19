@@ -1,0 +1,11 @@
+id: casa-community-arts-centre-lethbridge
+name: Casa Community Arts Centre
+venue_type: cultural-center
+location:
+  city: Lethbridge
+  state: AB
+  country: CA
+website: https://casalethbridge.ca
+sources:
+  - https://www.metzchew.com/mirrored-earth
+  - https://casalethbridge.ca/about/

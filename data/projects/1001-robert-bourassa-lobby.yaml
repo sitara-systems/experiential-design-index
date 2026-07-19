@@ -1,0 +1,28 @@
+id: 1001-robert-bourassa-lobby
+name: 1001 Robert-Bourassa Lobby
+venue: 1001-robert-bourassa
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: gensler
+    role: architecture
+    note: "Architect for the lobby renovation."
+  - firm: moment-factory
+    role: media-design
+    note: >
+      Creative and technical design of an "immersive multimedia ecosystem"
+      for the office tower's public lobby — biophilic multimedia design,
+      architectural lighting, digital art, projection mapping, spatialized
+      audio, and an integrated server system letting tenants program
+      content for events.
+technologies:
+  - projection mapping
+  - architectural lighting
+  - spatialized audio
+summary: >
+  A biophilic multimedia lobby installation designed by Moment Factory,
+  with architecture by Gensler, opened at the 1001 Robert-Bourassa office
+  tower in Montréal, Québec, in 2023.
+description: ""
+sources:
+  - https://momentfactory.com/products/1001-robert-bourassa
