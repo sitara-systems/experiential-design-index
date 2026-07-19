@@ -45,6 +45,7 @@ the firm record.
 | `status` | enum | | `completed` (default) / `announced` / `in-progress` |
 | `credits` | list | ✔ | Each: `firm` (firm id), `role` (role id), optional `note` |
 | `technologies` | list | | Free-text but consistent (e.g. "projection mapping", "RFID") |
+| `technology_tags` | list of technology_tag ids | | Controlled differentiator tags (see vocabularies.yaml `technology_tags` — definitions + evidence bar). Only when the project's cited sources support the tag. |
 | `recognition` | list | | Juried awards won by this project. Each: `award` (e.g. "SEGD Global Design Awards — Honor Award"), `year`, `source` (url). Juried/curated programs only — no pay-to-enter "badge" schemes. |
 | `summary` | string | ✔ | Opening sentence must answer "who built what, where, when" self-contained |
 | `description` | string | | Longer prose |

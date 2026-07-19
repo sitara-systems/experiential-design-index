@@ -80,6 +80,47 @@ project_types:
     label: Installation
     note: Single standalone experience, media piece, or interactive
 
+# Technology tags — a small, controlled vocabulary of genuine capability
+# DIFFERENTIATORS (editorial decision 2026-07-18). Commodity capabilities —
+# UI/UX, film/video, content production, standard touchscreen interactives —
+# are deliberately untagged and should never be proposed as tags. A tag
+# applies to a project ONLY when the project's cited public sources support
+# it (physical form and function as documented — never a firm's general
+# capability claims, never "immersive"/"interactive" as marketing language).
+# Projects carry tags in the optional `technology_tags` field; the free-text
+# `technologies` field remains for description.
+technology_tags:
+  - id: immersive-environment
+    label: Immersive Environment
+    note: >
+      Room-scale enclosing media — projection-mapped rooms, LED volumes,
+      domes, 360° audiovisual spaces. Tag on documented physical form (the
+      media surrounds the visitor), never on "immersive" as an adjective.
+  - id: interactive-installation
+    label: Interactive Installation
+    note: >
+      Installation-scale pieces whose behavior is driven by visitor input
+      through sensing — gesture, body tracking, tangible objects, physical
+      mechanisms. Excludes touchscreen/kiosk UI and passive media walls.
+  - id: artificial-intelligence
+    label: AI / Machine Learning
+    note: >
+      AI/ML drives the visitor-facing experience — generative content,
+      computer-vision-driven response, conversational agents in the space.
+      Use of AI tools in the design or production process does not qualify.
+  - id: robotics
+    label: Robotics & Kinetic Systems
+    note: >
+      Robotic or motion-controlled physical elements — robot arms, kinetic
+      sculpture, motorized scenic, custom animatronics.
+  - id: real-time
+    label: Real-Time Graphics
+    note: >
+      Content rendered live at runtime (game engines and generative systems
+      — e.g. Unreal, Unity, Notch, TouchDesigner, custom engines) rather
+      than pre-rendered playback. Requires engine/tooling evidence in
+      sources.
+
 # Firm activity status — evidence-based, always dated (see editorial policy).
 firm_statuses:
   - id: active

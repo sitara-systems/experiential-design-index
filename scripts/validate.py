@@ -63,6 +63,7 @@ def load_vocab():
         "project_types": {e["id"] for e in raw.get("project_types", [])},
         "firm_statuses": {e["id"] for e in raw.get("firm_statuses", [])},
         "venue_types": {e["id"] for e in raw.get("venue_types", [])},
+        "technology_tags": {e["id"] for e in raw.get("technology_tags", [])},
     }
 
 
@@ -230,6 +231,9 @@ def validate_projects(projects, firms, venues, vocab, findings):
                 findings.append(Finding("error", rel, "credits", "credit missing 'role'"))
             elif crole not in vocab["roles"]:
                 findings.append(Finding("error", rel, "credits", f"'{crole}' is not in vocabularies.yaml roles"))
+        for t in rec.get("technology_tags") or []:
+            if t not in vocab["technology_tags"]:
+                findings.append(Finding("error", rel, "technology_tags", f"'{t}' is not in vocabularies.yaml technology_tags"))
         for award in rec.get("recognition") or []:
             if not isinstance(award, dict) or not award.get("award") or not award.get("year") or not award.get("source"):
                 findings.append(Finding("error", rel, "recognition", f"each recognition entry needs award, year, source: {award}"))

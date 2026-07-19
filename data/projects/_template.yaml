@@ -24,6 +24,9 @@ credits:
 technologies:
   - projection mapping
   - real-time 3D
+# technology_tags:                  # controlled differentiator tags, only
+#   - immersive-environment        # when the project's cited sources
+#   - real-time                    # support them (see vocabularies.yaml)
 # recognition:                      # juried awards only, omit if none
 #   - award: "SEGD Global Design Awards — Honor Award"
 #     year: 2025
