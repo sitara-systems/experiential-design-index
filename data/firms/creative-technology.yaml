@@ -1,0 +1,46 @@
+# Firm record — Creative Technology
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: creative-technology
+name: Creative Technology
+aka:
+  - CT
+  - Creative Technology Group
+  - CT Group
+website: https://ct-group.com/us/
+hq:
+  city: Chicago
+  state: IL
+other_offices:
+  - city: Crawley
+    country: GB
+    note: Global headquarters
+founded: 1986
+roles:
+  - av-integration
+status: active
+status_basis: >
+  Ongoing AV equipment and integration news through 2026 (e.g. Analog Way
+  Aquilon RS6 deployments for GitHub Universe 2025 and Amazon AEPS 2025,
+  reported April 2026) and a continuously updated news page at
+  ct-group.com/us/; the credited Chicago-area museum work (Chicago
+  Architecture Center 2018, Edsel & Eleanor Ford House Visitor Center 2021,
+  Museum of Science and Industry Pioneer Zephyr media wall 2021) was
+  installed by its Chicago branch under project lead Michael Fuller.
+status_verified: 2026-07-18
+summary: >
+  Creative Technology (CT), founded in 1986 in Crawley, England and now
+  part of NEP Group, is a global audiovisual production and systems
+  integration company operating from 30+ offices worldwide, including a
+  Chicago office that performs AV integration and installation work for
+  Chicago-area and Midwest museum and cultural-venue exhibits. Distinct
+  from the unrelated Singapore-founded electronics company also named
+  Creative Technology (maker of Sound Blaster audio hardware).
+sources:
+  - https://ct-group.com/us/
+  - https://ct-group.com/us/about/
+  - https://en.wikipedia.org/wiki/Creative_Technology
+  - https://www.ravepubs.com/av-stumpfl-and-creative-technology-group-assist-chicago-museum-exhibition-installation/
+  - https://www.linkedin.com/in/michael-fuller-4794a29/
+  - https://www.choosechicago.com/listing/creative-technology-chicago/
+  - https://www.livedesignonline.com/news/creative-technology-group-ct-adds-analog-way-aquilon-rs6-live-event-production

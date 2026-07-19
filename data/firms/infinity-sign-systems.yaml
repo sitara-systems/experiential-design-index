@@ -1,0 +1,34 @@
+# Firm record — Infinity Sign Systems
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: infinity-sign-systems
+name: Infinity Sign Systems
+aka: []
+website: https://infinitysignsystems.com/
+hq:
+  city: Kansas City
+  state: MO
+founded: 2006
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Actively updated company website and social channels (Facebook,
+  Instagram, LinkedIn) as of 2026; credited as a 2025-2026 project partner
+  on Dimensional Innovations' Atlas9 (Kansas City, KS) alongside Swell
+  Spark, Perspective Architecture + Design, and Homefield, per Atlas9's own
+  project-team page.
+status_verified: 2026-07-18
+summary: >
+  Infinity Sign Systems is an employee-owned, full-service sign design,
+  fabrication, and installation company based in Kansas City, Missouri,
+  founded in 2006. It works across design, permitting, fabrication,
+  installation, and maintenance of exterior and interior signage, and has
+  partnered on several Kansas-area experiential projects with Dimensional
+  Innovations, including Atlas9, the Iola Theatre marquee restoration, and
+  Tap Ins at the Greenhouse.
+sources:
+  - https://infinitysignsystems.com/
+  - https://infinitysignsystems.com/about/
+  - https://www.atlas9.com/project-team
+  - https://dimin.com/work/atlas9
