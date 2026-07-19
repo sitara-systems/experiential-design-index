@@ -1,0 +1,9 @@
+id: the-discovery-reno
+name: "The Discovery (Terry Lee Wells Nevada Discovery Museum)"
+venue_type: science-center
+location:
+  city: Reno
+  state: NV
+website: https://nvdm.org
+sources:
+  - https://nvdm.org/celebrating-one-year-inside/

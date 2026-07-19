@@ -1,0 +1,25 @@
+id: cmhr-actions-count
+name: "Actions Count"
+venue: canadian-museum-for-human-rights
+project_type: new-exhibition
+year_completed: 2014
+credits:
+  - firm: upswell
+    role: media-design
+technologies:
+  - interactive-installation
+recognition:
+  - award: "AAM MUSE Awards"
+    year: 2015
+    note: "Bronze"
+    source: https://humanrights.ca/news/museum-wins-top-international-awards-innovation
+summary: >
+  "Actions Count," a gesture-controlled interactive game projected onto
+  a custom angled table, part of a dedicated gallery within the
+  Canadian Museum for Human Rights' 2014 core opening exhibition,
+  Winnipeg; developed in partnership with Upswell, per the museum's
+  own award announcement. Distinct from Canadian Journeys, a separate
+  gallery within the same 2014 core build.
+description: ""
+sources:
+  - https://humanrights.ca/news/museum-wins-top-international-awards-innovation

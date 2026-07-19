@@ -1,0 +1,30 @@
+id: lowell-observatory-astronomy-discovery-center
+name: Astronomy Discovery Center
+venue: lowell-observatory
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: kei-space-design
+    role: exhibit-design
+    note: "Lead exhibition designer; no firm record yet"
+  - firm: trivium-interactive
+    role: media-design
+    note: "Role inferred by pattern; individual role split not specified by the source"
+  - firm: eos-lightmedia
+    role: lighting-design
+  - firm: bbi-engineering
+    role: av-integration
+    note: "Credited as BBI Net"
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "Credited as Chicago Scenic Solutions"
+technologies: []
+summary: >
+  The Astronomy Discovery Center at Lowell Observatory, Flagstaff, AZ,
+  opened November 16, 2024; exhibition design led by Kei Space Design
+  with Trivium Interactive, lighting by Eos Lightmedia, AV by BBI
+  Engineering, fabrication by Chicago Scenic Studios, architecture by
+  JWA Architects.
+description: ""
+sources:
+  - https://keispace.com/projects/lowell/

@@ -1,0 +1,9 @@
+id: david-rubenstein-atrium
+name: David Rubenstein Atrium
+venue_type: cultural-center
+location:
+  city: New York
+  state: NY
+operator: Lincoln Center
+sources:
+  - https://www.archilovers.com/

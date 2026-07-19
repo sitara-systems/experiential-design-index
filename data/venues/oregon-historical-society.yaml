@@ -1,0 +1,8 @@
+id: oregon-historical-society
+name: Oregon Historical Society
+venue_type: history-museum
+location:
+  city: Portland
+  state: OR
+sources:
+  - https://www.ohs.org/

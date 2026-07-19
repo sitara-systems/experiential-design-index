@@ -1,0 +1,20 @@
+id: ss-united-states-museum-core
+name: SS United States Museum and Visitor Experience
+venue: ss-united-states-museum
+project_type: new-building
+status: announced
+year_expected: 2027
+credits:
+  - firm: thinc-design
+    role: exhibit-design
+  - firm: lmn-architects
+    role: architecture
+technologies: []
+summary: >
+  The SS United States Museum and Visitor Experience, a planned
+  land-based museum in Okaloosa County, FL accompanying the ship's
+  reefing as an artificial reef (~April 2026); museum planning and
+  exhibit design by Thinc Design, architecture by LMN Architects.
+description: ""
+sources:
+  - https://www.myokaloosa.com/

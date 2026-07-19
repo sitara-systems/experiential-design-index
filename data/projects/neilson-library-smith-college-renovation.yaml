@@ -1,0 +1,24 @@
+id: neilson-library-smith-college-renovation
+name: Building Renovation
+venue: neilson-library-smith-college
+project_type: major-renovation
+year_completed: 2021
+credits:
+  - firm: maya-lin-studio
+    role: architecture
+    note: "Design architect; no firm record yet"
+  - firm: shepley-bulfinch
+    role: architecture
+    note: "Architect of record; no firm record yet"
+  - firm: tillotson-design-associates
+    role: lighting-design
+technologies: []
+summary: >
+  A renovation of Neilson Library at Smith College, Northampton, MA,
+  led by design architect Maya Lin Studio with Shepley Bulfinch as
+  architect of record, completed 2021; lighting design by Tillotson
+  Design Associates. Distinct from the venue's existing "An Evolution"
+  installation record.
+description: ""
+sources:
+  - https://litawards.com/

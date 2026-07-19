@@ -1,0 +1,24 @@
+id: rice-university-brockman-hall-for-opera-core
+name: Brockman Hall for Opera
+venue: rice-university-brockman-hall-for-opera
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: allan-greenberg-architect
+    role: architecture
+    note: "No firm record yet"
+  - firm: tillotson-design-associates
+    role: lighting-design
+  - firm: threshold-acoustics
+    role: acoustics
+    note: "No firm record yet"
+technologies: []
+summary: >
+  Brockman Hall for Opera at Rice University's Music & Performing Arts
+  Center, Houston, opened 2022; architecture by Allan Greenberg
+  Architect, lighting design by Tillotson Design Associates, acoustics
+  by Threshold Acoustics.
+description: ""
+sources:
+  - https://news.rice.edu/
+  - https://music.rice.edu/

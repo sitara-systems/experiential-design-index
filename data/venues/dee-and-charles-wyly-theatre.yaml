@@ -1,0 +1,9 @@
+id: dee-and-charles-wyly-theatre
+name: Dee and Charles Wyly Theatre
+venue_type: cultural-center
+location:
+  city: Dallas
+  state: TX
+operator: AT&T Performing Arts Center
+sources:
+  - https://iald.org/

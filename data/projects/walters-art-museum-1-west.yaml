@@ -1,0 +1,21 @@
+id: walters-art-museum-1-west
+name: "1 West"
+venue: walters-art-museum
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: trivium-interactive
+    role: media-design
+    note: "Digital app"
+  - firm: r-and-a-m-design-studio
+    role: interpretive-planning
+    note: "Interior design; no firm record yet"
+technologies:
+  - mobile app
+summary: >
+  1 West, a new Mount Vernon Place event and gallery space at the
+  Walters Art Museum, Baltimore, opened June 16, 2018; digital app by
+  Trivium Interactive, interior design by R+A+M Design Studio.
+description: ""
+sources:
+  - https://thewalters.org/news/the-walters-art-museum-opens-1-west-mount-vernon-place/

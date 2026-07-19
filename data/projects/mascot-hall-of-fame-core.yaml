@@ -19,6 +19,9 @@ credits:
   - firm: prographics
     role: graphics-wayfinding
     note: "No firm record yet"
+  - firm: trivium-interactive
+    role: av-integration
+    note: "Per Chicago Scenic Studios' own project page, lumped with Electrosonic and Northern Light Productions as \"A/V & Media\" vendors without a finer role split"
 technologies:
   - interactive kiosks
   - sensor-controlled games

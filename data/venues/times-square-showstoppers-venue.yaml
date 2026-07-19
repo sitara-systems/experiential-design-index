@@ -1,0 +1,8 @@
+id: times-square-showstoppers-venue
+name: Times Square (Showstoppers exhibition site)
+venue_type: public-space
+location:
+  city: New York
+  state: NY
+sources:
+  - https://deadline.com/

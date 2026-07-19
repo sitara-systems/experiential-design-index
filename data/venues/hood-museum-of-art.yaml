@@ -1,0 +1,9 @@
+id: hood-museum-of-art
+name: Hood Museum of Art
+venue_type: art-museum
+location:
+  city: Hanover
+  state: NH
+operator: Dartmouth College
+sources:
+  - https://www.architecturalrecord.com/

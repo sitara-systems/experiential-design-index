@@ -1,0 +1,9 @@
+id: ss-united-states-museum
+name: SS United States Museum and Visitor Experience
+venue_type: history-museum
+location:
+  city: Destin-Fort Walton Beach
+  state: FL
+operator: Okaloosa County
+sources:
+  - https://www.myokaloosa.com/

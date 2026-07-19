@@ -1,0 +1,8 @@
+id: walters-art-museum
+name: The Walters Art Museum
+venue_type: art-museum
+location:
+  city: Baltimore
+  state: MD
+sources:
+  - https://thewalters.org/

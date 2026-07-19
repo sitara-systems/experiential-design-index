@@ -8,12 +8,20 @@ credits:
     role: exhibit-design
   - firm: available-light
     role: lighting-design
+  - firm: videobred
+    role: content-production
+    note: "Media production, phases 1 & 2, with Donna Lawrence Productions; per The PRD Group's own project page"
+  - firm: donna-lawrence-productions
+    role: content-production
+    note: "Media production, phases 1 & 2, with Videobred; per The PRD Group's own project page"
 summary: >
   Alabama Voices, the cornerstone permanent gallery of the redesigned
   Museum of Alabama in Montgomery, opened February 2014, exhibit design
-  by The PRD Group and lighting by Available Light. Distinct from the
-  2025 galleries renovation already recorded.
+  by The PRD Group, lighting by Available Light, media production by
+  Videobred and Donna Lawrence Productions. Distinct from the 2025
+  galleries renovation already recorded.
 description: ""
 sources:
   - https://www.availablelight.com/work/alabama-voices-at-the-museum-of-alabama-exhibits
   - https://encyclopediaofalabama.org/article/alabama-department-of-archives-and-history-adah/
+  - https://theprdgroup.com/project/alabama-voices

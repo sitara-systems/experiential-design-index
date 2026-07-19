@@ -1,0 +1,9 @@
+id: rice-university-brockman-hall-for-opera
+name: Brockman Hall for Opera
+venue_type: academic-institution
+location:
+  city: Houston
+  state: TX
+operator: Rice University
+sources:
+  - https://news.rice.edu/

@@ -1,0 +1,8 @@
+id: phoenix-art-museum
+name: Phoenix Art Museum
+venue_type: art-museum
+location:
+  city: Phoenix
+  state: AZ
+sources:
+  - https://en.wikipedia.org/wiki/Phoenix_Art_Museum

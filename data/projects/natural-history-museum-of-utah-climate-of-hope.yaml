@@ -1,0 +1,25 @@
+id: natural-history-museum-of-utah-climate-of-hope
+name: "Climate of Hope"
+venue: natural-history-museum-of-utah
+project_type: new-exhibition
+year_completed: 2023
+credits:
+  - firm: trivium-interactive
+    role: exhibit-design
+    note: >
+      Moderate-confidence sourcing: independent press covers the
+      exhibit's November 2023 opening but does not name Trivium by
+      firm; the closest independent-of-Trivium signal is a 2025 "MUSE
+      Creative Awards" citation, a commercial award program distinct
+      from AAM's juried MUSE Awards and weighted lower accordingly
+technologies:
+  - interactive installation
+summary: >
+  "Climate of Hope," an exhibit on renewable energy and air quality at
+  the Natural History Museum of Utah, Salt Lake City, opened November
+  2023; design attributed to Trivium Interactive (five interactives
+  including an aspen-mural room).
+description: ""
+sources:
+  - https://www.axios.com/local/salt-lake-city/
+  - https://www.sltrib.com/

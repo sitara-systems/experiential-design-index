@@ -1,0 +1,8 @@
+id: san-francisco-zoo
+name: San Francisco Zoo
+venue_type: aquarium-zoo
+location:
+  city: San Francisco
+  state: CA
+sources:
+  - https://www.nbcbayarea.com/

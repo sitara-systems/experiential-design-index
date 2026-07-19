@@ -1,0 +1,28 @@
+id: new-york-hall-of-science-cityworks
+name: CityWorks
+venue: new-york-hall-of-science
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: science-museum-of-minnesota
+    role: exhibit-design
+    note: "Lead; also fabrication; no firm record yet"
+  - firm: trivium-interactive
+    role: media-design
+    note: "Physiodigital \"build your neighborhood\" block interactive"
+  - firm: betanyc
+    role: technical-consulting
+    note: "No firm record yet"
+  - firm: showfab
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - interactive blocks
+summary: >
+  CityWorks, an exhibit exploring what makes cities work at the New
+  York Hall of Science, Queens, opened May 3, 2025; led by the Science
+  Museum of Minnesota with Trivium Interactive, BetaNYC, and ShowFab
+  named as contributors, per NYSCI's own press release.
+description: ""
+sources:
+  - https://nysci.org/press-releases/new-exhibit-at-new-york-hall-of-science-explores-what-makes-cities-work

@@ -16,6 +16,8 @@ credits:
     note: "Immersive, location-aware audio guide; no firm record yet"
   - firm: creo-industrial-arts
     role: fabrication
+  - firm: tillotson-design-associates
+    role: lighting-design
 technologies:
   - interactive recording-studio remix installation
   - location-aware audio guide
