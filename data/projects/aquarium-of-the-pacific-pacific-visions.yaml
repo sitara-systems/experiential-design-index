@@ -6,8 +6,10 @@ year_completed: 2019
 credits:
   - firm: ehdd
     role: architecture
+    note: "No firm record yet"
   - firm: ehdd
     role: exhibit-design
+    note: "No firm record yet"
   - firm: bowman-change
     role: exhibit-design
     note: "No firm record yet"
