@@ -1,0 +1,10 @@
+id: att-adworks-media-lab
+name: AT&T AdWorks Media Lab
+venue_type: briefing-center
+location:
+  city: New York
+  state: NY
+operator: AT&T AdWorks
+sources:
+  - https://www.av-controls.com/att-adworks-lab/
+  - https://about.att.com/story/att_adworks_unveils_new_state_of_the_art_media_lab.html

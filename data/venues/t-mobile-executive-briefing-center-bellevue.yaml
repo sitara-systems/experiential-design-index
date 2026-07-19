@@ -1,0 +1,12 @@
+id: t-mobile-executive-briefing-center-bellevue
+name: T-Mobile Executive Briefing Center
+venue_type: briefing-center
+location:
+  city: Bellevue
+  state: WA
+operator: T-Mobile
+website: https://www.t-mobile.com/business/enterprise/executive-briefing-centers
+sources:
+  - https://www.t-mobile.com/news/network/t-mobile-unveils-new-cyber-defense-briefing-centers
+  - https://www.storytellingcompany.com/work/t-mobile-hq-executive-briefing-center
+  - https://www.gacep.com/recognizedprograms

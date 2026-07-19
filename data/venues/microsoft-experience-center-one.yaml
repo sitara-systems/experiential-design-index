@@ -1,0 +1,10 @@
+id: microsoft-experience-center-one
+name: Microsoft Experience Center One
+venue_type: briefing-center
+location:
+  city: Redmond
+  state: WA
+operator: Microsoft
+sources:
+  - https://www.geekwire.com/2025/inside-microsofts-new-experience-center-one-what-we-learned-at-the-edge-of-the-ai-frontier/
+  - https://wrnsstudio.com/projects/microsoft-redmond/

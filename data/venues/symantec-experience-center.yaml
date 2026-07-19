@@ -1,0 +1,10 @@
+id: symantec-experience-center
+name: Symantec Experience Center
+venue_type: briefing-center
+location:
+  city: Mountain View
+  state: CA
+operator: Symantec (now Gen Digital)
+sources:
+  - https://www.gensler.com/projects/symantec-experience-center
+  - https://officesnapshots.com/2019/12/02/symantec-experience-center-mountain-view/

@@ -1,0 +1,25 @@
+id: brookfield-place-digital-wayfinding
+name: Brookfield Place Digital Wayfinding
+venue: brookfield-place-manhattan
+project_type: installation
+year_completed: 2014
+credits:
+  - firm: local-projects
+    role: media-design
+  - firm: gensler
+    role: architecture
+  - firm: technomedia
+    role: av-integration
+    note: "no firm record yet"
+technologies:
+  - digital wayfinding
+  - real-time social/event feeds
+summary: >
+  A digital wayfinding and media system at Brookfield Place, the retail and
+  office complex across from One World Trade Center in downtown Manhattan,
+  opened in 2014 with design by Local Projects and Gensler, turning the
+  complex into a community-facing hub with real-time social feeds and event
+  calendars.
+description: ""
+sources:
+  - https://localprojects.com/work/corporate-experience/retail-made-personal/

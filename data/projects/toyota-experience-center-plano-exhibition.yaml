@@ -1,0 +1,30 @@
+id: toyota-experience-center-plano-exhibition
+name: Toyota Experience Center
+venue: toyota-experience-center-plano
+project_type: new-exhibition
+year_completed: 2019
+credits:
+  - firm: jack-rouse-associates
+    role: exhibit-design
+    note: "Experience design, exhibit planning, and project management; no firm record yet"
+  - firm: corgan
+    role: architecture
+    note: "No firm record yet"
+  - firm: group-delphi
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - interactive kiosks
+summary: >
+  The Toyota Experience Center, a 44,000 sq ft visitor and briefing facility
+  at Toyota Motor North America's Plano, Texas headquarters, opened in
+  August 2019, designed by Jack Rouse Associates (JRA) with architecture by
+  Corgan and fabrication by Group Delphi.
+description: >
+  The center hosts guided visits for customers, dealers, media, and other
+  business guests (access is by appointment/escort rather than open walk-in
+  public admission) through galleries covering Toyota's history, current
+  operations, and mobility-company positioning.
+sources:
+  - https://blooloop.com/museum/news/jra-toyota-experience-centre/
+  - https://dallasinnovates.com/first-look-take-a-photo-tour-of-the-toyota-experience-center/

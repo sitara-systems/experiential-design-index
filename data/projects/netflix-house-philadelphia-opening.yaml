@@ -1,0 +1,22 @@
+id: netflix-house-philadelphia-opening
+name: Netflix House Philadelphia
+venue: netflix-house-philadelphia
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: gensler
+    role: architecture
+  - firm: jt-magen
+    role: fabrication
+    note: "General contractor; no firm record yet"
+technologies:
+  - immersive fan experiences
+summary: >
+  Netflix House Philadelphia, a 100,000+ sq ft permanent entertainment
+  destination with immersive fan experiences, restaurant, retail, and live
+  stages, opened November 12, 2025 in a converted former Lord & Taylor
+  department store at the King of Prussia mall, designed by Gensler.
+description: ""
+sources:
+  - https://www.gensler.com/projects/netflix-house
+  - https://ir.netflix.net/investor-news-and-events/financial-releases/press-release-details/2025/NETFLIX-HOUSE-PHILADELPHIA-IS-NOW-OPEN--WELCOME-TO-OUR-HOME/default.aspx

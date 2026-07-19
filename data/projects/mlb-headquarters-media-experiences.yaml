@@ -1,0 +1,24 @@
+id: mlb-headquarters-media-experiences
+name: MLB Headquarters Media Experiences
+venue: mlb-headquarters
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: esi-design
+    role: media-design
+    note: "Seven interactive/real-time media experiences including a concourse projection-mapped highlights reel and a 5th-floor photobooth"
+  - firm: studios-architecture
+    role: architecture
+    note: "no firm record yet"
+technologies:
+  - projection mapping
+  - real-time media
+summary: >
+  Major League Baseball's headquarters in the Time & Life Building in New
+  York, redesigned by STUDIOS Architecture and opened in late 2019, includes
+  seven interactive and real-time media experiences designed by ESI Design
+  and themed around gameplay, serving both employees and visitors.
+description: ""
+sources:
+  - https://esi.nbbj.com/work/mlb-headquarters
+  - https://interiordesign.net/projects/studios-architectures-major-league-baseball-headquarters-in-midtown-forges-a-new-era-for-the-sport/

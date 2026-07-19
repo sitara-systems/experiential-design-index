@@ -1,0 +1,23 @@
+id: microsoft-experience-center-one-building
+name: Experience Center One
+venue: microsoft-experience-center-one
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: wrns-studio
+    role: architecture
+    note: "No firm record yet"
+technologies:
+  - AI-driven interactive demos
+summary: >
+  Experience Center One, a four-story briefing center, conference hall, and
+  technology-demonstration building on Microsoft's revamped East Campus in
+  Redmond, Washington, opened in 2025 with architecture by WRNS Studio.
+description: >
+  The building is described as a public-facing destination for global
+  visitors but operates on an invitation-only basis, hosting business
+  clients and dignitaries on guided tours through AI-themed demonstration
+  rooms; it succeeds Microsoft's prior Redmond visitor center.
+sources:
+  - https://www.geekwire.com/2025/inside-microsofts-new-experience-center-one-what-we-learned-at-the-edge-of-the-ai-frontier/
+  - https://wrnsstudio.com/projects/microsoft-redmond/

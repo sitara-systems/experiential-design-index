@@ -1,0 +1,25 @@
+id: bms-kinetic-chandelier
+name: Bristol Myers Squibb Kinetic Chandelier
+venue: bristol-myers-squibb-cambridge-crossing
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: rockwell-group
+    role: exhibit-design
+    note: "Artistic design and interior architecture, as LAB at Rockwell Group"
+  - firm: tait
+    role: fabrication
+    note: "Design, engineering, fabrication, and automation, incl. a new Kinesys 'Sculptor Winch' developed for the project"
+technologies:
+  - kinetic sculpture
+  - motion automation
+summary: >
+  A kinetic chandelier centerpiece for the lobby of Bristol Myers Squibb's
+  Cambridge Crossing innovation-hub building in Cambridge, Massachusetts,
+  completed in 2024, designed by LAB at Rockwell Group and
+  engineered/fabricated by TAIT; the sculpture moves in response to
+  patient-story soundwaves.
+description: ""
+sources:
+  - https://www.taittowers.com/work/bristol-myers-squibb-kinetic-chandelier
+  - https://www.avinteractive.com/features/av-awards-2024-retail-project-of-the-year-bristol-myers-squibb-cambridge-crossing-laboratory-lab-at-rockwell-group-03-12-2024/

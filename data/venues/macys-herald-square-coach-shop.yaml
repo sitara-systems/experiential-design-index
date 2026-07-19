@@ -1,0 +1,10 @@
+id: macys-herald-square-coach-shop
+name: Coach Concept Shop at Macy's Herald Square
+venue_type: retail-flagship
+location:
+  city: New York
+  state: NY
+operator: Coach
+sources:
+  - https://www.av-controls.com/coach-herald-square-gallery/
+  - https://www.oma.com/projects/coach-macy-herald-square

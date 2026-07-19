@@ -1,0 +1,19 @@
+id: shure-experience-center-installation
+name: Shure Experience Center
+venue: shure-experience-center
+project_type: installation
+year_completed: 2018
+credits:
+  - firm: avi-spl
+    role: av-integration
+technologies:
+  - AV demonstration systems
+summary: >
+  The Shure Experience Center, a demonstration facility at Shure's Chicago
+  City Center offices, opened in early 2018 with AV systems integration by
+  AVI-SPL across four working spaces (huddle room, conference room,
+  boardroom, training area) where customers, architects, and consultants
+  evaluate Shure's professional audio and collaboration products.
+description: ""
+sources:
+  - https://avispl.com/resources/case-studies/shure-experience-center/

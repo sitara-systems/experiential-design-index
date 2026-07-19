@@ -1,0 +1,10 @@
+id: toyota-experience-center-plano
+name: Toyota Experience Center
+venue_type: briefing-center
+location:
+  city: Plano
+  state: TX
+operator: Toyota Motor North America
+sources:
+  - https://blooloop.com/museum/news/jra-toyota-experience-centre/
+  - https://dallasinnovates.com/first-look-take-a-photo-tour-of-the-toyota-experience-center/

@@ -1,0 +1,9 @@
+id: brookfield-place-manhattan
+name: Brookfield Place
+venue_type: public-space
+location:
+  city: New York
+  state: NY
+operator: Brookfield Properties
+sources:
+  - https://localprojects.com/work/corporate-experience/retail-made-personal/

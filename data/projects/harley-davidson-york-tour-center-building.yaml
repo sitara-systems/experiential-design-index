@@ -1,0 +1,28 @@
+id: harley-davidson-york-tour-center-building
+name: Harley-Davidson York Tour Center
+venue: harley-davidson-york-tour-center
+project_type: new-building
+year_completed: 2002
+credits:
+  - firm: tkwa
+    role: architecture
+    note: "no firm record yet (Kubala Washatko Architects)"
+  - firm: jeremy-hoffman-design
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Fabrication and installation"
+technologies:
+  - factory-tour exhibits
+summary: >
+  A 70,000 sq ft public factory-tour facility at Harley-Davidson's Vehicle
+  Operations assembly plant in York, Pennsylvania, opened in 2002 with
+  architecture by Kubala Washatko Architects (TKWA), exhibit design by
+  Jeremy Hoffman Design, and fabrication/installation by kubik maltbie,
+  including an entry lobby, exhibit space, theater, Kids Corner, and retail
+  store; distinct from the Harley-Davidson Museum in Milwaukee.
+description: ""
+sources:
+  - https://tkwa.com/harley-davidson-york-tour-center/
+  - https://kubikmaltbie.com/project/harley-davidsons-york-tour-center/

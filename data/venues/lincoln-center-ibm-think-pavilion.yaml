@@ -1,0 +1,10 @@
+id: lincoln-center-ibm-think-pavilion
+name: IBM THINK Exhibit Pavilion at Lincoln Center
+venue_type: brand-experience-center
+location:
+  city: New York
+  state: NY
+operator: IBM
+sources:
+  - https://www.av-controls.com/ibm-think/
+  - https://www.engadget.com/2011-09-30-ibms-think-exhibit-invades-nyc-aims-to-inspire-video.html

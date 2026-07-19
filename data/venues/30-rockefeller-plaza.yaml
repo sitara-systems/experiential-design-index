@@ -1,0 +1,10 @@
+id: 30-rockefeller-plaza
+name: 30 Rockefeller Plaza
+venue_type: public-space
+location:
+  city: New York
+  state: NY
+operator: NBCUniversal
+sources:
+  - https://onediversified.com/case-study/lobby-digital-displays
+  - https://www.avinteractive.com/news/displays/photo-ready-vanguard-led-backdrop-30-rockefeller-plaza-05-06-2019/

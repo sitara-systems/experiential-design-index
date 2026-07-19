@@ -1,0 +1,10 @@
+id: chicago-bears-halas-hall
+name: Halas Hall
+venue_type: sports-venue
+location:
+  city: Lake Forest
+  state: IL
+operator: Chicago Bears
+sources:
+  - https://www.cortinaproductions.com/portfolio/chicago-bears-headquarters/
+  - http://www.peterhydedesign.com/projects/chicago-bears-halas-hall-experience/

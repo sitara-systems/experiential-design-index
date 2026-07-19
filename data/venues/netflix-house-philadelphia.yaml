@@ -1,0 +1,10 @@
+id: netflix-house-philadelphia
+name: Netflix House Philadelphia
+venue_type: themed-attraction
+location:
+  city: King of Prussia
+  state: PA
+operator: Netflix
+sources:
+  - https://www.gensler.com/projects/netflix-house
+  - https://ir.netflix.net/investor-news-and-events/financial-releases/press-release-details/2025/NETFLIX-HOUSE-PHILADELPHIA-IS-NOW-OPEN--WELCOME-TO-OUR-HOME/default.aspx

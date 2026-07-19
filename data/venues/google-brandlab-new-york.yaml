@@ -1,0 +1,9 @@
+id: google-brandlab-new-york
+name: Google BrandLab New York
+venue_type: briefing-center
+location:
+  city: New York
+  state: NY
+operator: Google
+sources:
+  - https://www.taittowers.com/work/google-brandlab-new-york

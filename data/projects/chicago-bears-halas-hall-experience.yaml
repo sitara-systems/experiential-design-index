@@ -1,0 +1,29 @@
+id: chicago-bears-halas-hall-experience
+name: Halas Hall Experience
+venue: chicago-bears-halas-hall
+project_type: major-renovation
+year_completed: 2013
+credits:
+  - firm: peter-hyde-design
+    role: exhibit-design
+  - firm: cortina-productions
+    role: media-design
+    note: "Five-screen video wall and interactives: player database, historical timeline, trivia, video highlights"
+  - firm: chicago-scenic-studios
+    role: fabrication
+  - firm: avi-systems
+    role: av-integration
+    note: "no firm record yet; distinct from AVI-SPL"
+technologies:
+  - video wall
+  - touchscreen interactives
+summary: >
+  A ~70,000 sq ft renovation of Halas Hall, the Chicago Bears' headquarters
+  and practice facility in Lake Forest, Illinois, opened public and
+  fan-facing lobby and event-space areas in 2013 with exhibit design by
+  Peter Hyde Design, interactive media by Cortina Productions, fabrication
+  by Chicago Scenic Studios, and AV systems by AVI Systems.
+description: ""
+sources:
+  - https://www.cortinaproductions.com/portfolio/chicago-bears-headquarters/
+  - http://www.peterhydedesign.com/projects/chicago-bears-halas-hall-experience/

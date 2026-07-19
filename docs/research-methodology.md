@@ -517,6 +517,53 @@ list.*
   unlinked" firms are now fully resolved — all 4 have records as of this
   entry).
 
+- **Phase 2 Batch 5 — corporate-experiential half (2026-07-18).** First
+  dedicated pass at brand experience centers, executive briefing centers,
+  and corporate museums — a segment prior batches barely touched, since
+  they filtered for museum/cultural keywords. Three parallel agents, each
+  a different discovery method: (1) **GACEP** (gacep.com, the corporate
+  briefing-center trade association) — turned out to be a lead-generation
+  source only, not a credits archive: it names award-recognized centers
+  and corporate clients but never design/build firms, so every credit
+  still had to be independently sourced via press or the firm's own
+  portfolio; (2) **general press sweep** — searched trade press
+  (Interior Design, Contract, ExhibitCity News) for well-known corporate
+  visitor/briefing centers by name; (3) **existing-firm gap-fill** — the
+  most productive angle: revisited ~15 firms already in `data/firms/`
+  (AV&C, Local Projects, Diversified, ESI Design, Gensler, kubik maltbie,
+  TAIT, Moment Factory, and others) specifically for corporate-client
+  case studies their earlier museum-focused crawl had skipped.
+
+  **Result: dataset grew from 116/1267/974 to 117/1299/1000**
+  (firms/projects/venues) — 33 new projects, 1 firm promoted (ZGF
+  Architects, crossed the bar via the Illumina Executive Briefing
+  Center). Confirms the "revisit existing firms for a different angle"
+  technique is worth reusing — it out-produced both the new-source sweep
+  (GACEP: 3 projects) and the cold press search (6 firms: 8 projects)
+  combined, at roughly the same effort.
+
+  Access-model note codified: several corporate centers (Toyota
+  Experience Center Plano, Microsoft Experience Center One) are
+  invite/escort-only rather than public walk-in, but receive real
+  outside visitors (customers, dealers, press) — recorded in scope per
+  editorial policy's "audience, not client industry" line, matching the
+  precedent already set by the Toyota Mississippi Experience Center.
+
+  Several strong leads were dropped for missing/unsourceable completion
+  years rather than guessed (both Federal Reserve Bank money museums,
+  Comcast Living Lab, EY-Nottingham Spirk, ABB Houston, Timken,
+  ConocoPhillips, Victoria's Secret Vancouver, several GACEP-listed
+  centers) — flagged as follow-up candidates if a dated source surfaces
+  later. `validate.py`: 0 errors, no firm-id near-duplicates (two
+  venue/project id collisions self-caught and fixed inline by the
+  agents, matching the established `-building`/`-exhibition` suffix
+  convention).
+
+  **New Tier 4 candidates**: `group-delphi` and `jack-rouse-associates`
+  (the latter now credited across multiple batches — Tier 3, corporate,
+  and this batch) join the growing candidate list; still recommending a
+  pause before running a full Tier 4 or Tier 5.
+
 ## Updating an existing record (not just adding new ones)
 
 This methodology also covers maintenance, not only initial seeding:

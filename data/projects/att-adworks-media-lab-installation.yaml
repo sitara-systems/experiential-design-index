@@ -1,0 +1,23 @@
+id: att-adworks-media-lab-installation
+name: AT&T AdWorks Media Lab
+venue: att-adworks-media-lab
+project_type: installation
+year_completed: 2017
+credits:
+  - firm: av-c
+    role: media-design
+  - firm: av-c
+    role: av-integration
+technologies:
+  - cross-screen media demo systems
+  - addressable-TV targeting demo
+summary: >
+  The AT&T AdWorks Media Lab, a 3,000 sq ft client-facing "sales experience
+  lab" on the 5th floor of 1 Rockefeller Plaza in New York, opened in 2017
+  with AV systems by AV&C so AT&T could demo cross-screen and addressable-TV
+  advertising targeting to visiting advertisers and partners.
+description: ""
+sources:
+  - https://www.av-controls.com/att-adworks-lab/
+  - https://www.mediapost.com/publications/article/299790/atts-adworks-unveils-media-lab-touts-cross-scre.html
+  - https://about.att.com/story/att_adworks_unveils_new_state_of_the_art_media_lab.html

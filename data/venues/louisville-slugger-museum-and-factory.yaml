@@ -1,0 +1,10 @@
+id: louisville-slugger-museum-and-factory
+name: Louisville Slugger Museum & Factory
+venue_type: corporate-museum
+location:
+  city: Louisville
+  state: KY
+operator: Hillerich & Bradsby Company
+website: https://www.sluggermuseum.com
+sources:
+  - https://en.wikipedia.org/wiki/Louisville_Slugger_Museum_%26_Factory

@@ -1,0 +1,24 @@
+id: ibm-watson-experience-center-cooper-square-immersion-room
+name: IBM Watson Experience Center
+venue: ibm-watson-experience-center-cooper-square
+project_type: new-exhibition
+year_completed: 2016
+credits:
+  - firm: local-projects
+    role: exhibit-design
+  - firm: local-projects
+    role: media-design
+    note: "The Immersion Room: a 300-degree, 45-display curved theater"
+technologies:
+  - curved multi-display theater
+  - real-time data visualization
+summary: >
+  IBM's Watson Experience Center, a 10,000 sq ft client-facing briefing
+  center at Cooper Square in New York, opened in 2016 with exhibit and media
+  design by Local Projects, centered on the Immersion Room, a 300-degree,
+  45-display curved theater visualizing Watson's live data processing for
+  visiting clients and partners.
+description: ""
+sources:
+  - https://localprojects.com/work/corporate-experience/ibm-watson-experience-centers/
+  - https://betterfutureawards.com/NYC16/project.asp?ID=13864

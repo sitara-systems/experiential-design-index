@@ -1,0 +1,25 @@
+id: ibm-100-think-exhibit
+name: "IBM:100 THINK Exhibit"
+venue: lincoln-center-ibm-think-pavilion
+project_type: temporary-exhibition
+year_completed: 2011
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: av-c
+    role: media-design
+    note: "Digital/media components of the exhibit"
+technologies:
+  - real-time data visualization
+  - LED wall
+summary: >
+  IBM:100 THINK, a temporary exhibition marking IBM's 100th anniversary at
+  Lincoln Center in New York, ran September 23 to October 23, 2011, with a
+  123-foot exterior real-time-data LED wall and a 3,000 sq ft interior of
+  20 media columns; exhibit design by Ralph Appelbaum Associates, digital
+  media by AV&C.
+description: ""
+sources:
+  - https://www.av-controls.com/ibm-think/
+  - https://raai.com/project/ibm-think-exhibit/
+  - https://www.engadget.com/2011-09-30-ibms-think-exhibit-invades-nyc-aims-to-inspire-video.html

@@ -1,0 +1,27 @@
+id: cadillac-house-av-media-systems
+name: Cadillac House AV & Media Systems
+venue: cadillac-house
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: av-c
+    role: media-design
+    note: "Generative media software driving an 18-column display system"
+  - firm: av-c
+    role: av-integration
+  - firm: gensler
+    role: architecture
+    note: "Designed the 12,000 sq ft brand space"
+technologies:
+  - generative media
+  - digital signage
+summary: >
+  Cadillac House, a 12,000 sq ft brand and culture space in Manhattan's SoHo
+  designed by Gensler, opened June 2, 2016 with a permanent AV and media
+  system by AV&C: an 18-column display system running daily-refreshed
+  generative, on-brand animations.
+description: ""
+sources:
+  - https://www.av-controls.com/cadillac-house/
+  - https://www.gensler.com/projects/cadillac-house
+  - https://www.harlemworldmagazine.com/cadillac-house-opened-in-nyc-with-kelly-rowland-and-more/

@@ -1,0 +1,11 @@
+id: ge-digital-energy-canadian-hq
+name: GE Digital Energy Canadian Headquarters
+venue_type: briefing-center
+location:
+  city: Markham
+  state: ON
+  country: Canada
+operator: GE Digital Energy (GE Power)
+sources:
+  - https://onediversified.com/case-study/immersive-visually-dynamic-client-experience-center
+  - https://www.ravepubs.com/ge-digital-video-wall/

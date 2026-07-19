@@ -1,0 +1,18 @@
+id: jetblue-bluehouse-jfk
+name: JetBlue BlueHouse
+venue: jfk-terminal-5
+project_type: installation
+year_completed: 2025
+credits:
+  - firm: gensler
+    role: architecture
+technologies:
+  - guest lounge design
+summary: >
+  JetBlue BlueHouse, JetBlue's first airport lounge, a two-floor, ~9,000 sq
+  ft Art Deco space at JFK Terminal 5, opened December 18, 2025 designed by
+  Gensler for premium passengers.
+description: ""
+sources:
+  - https://news.jetblue.com/latest-news/press-release-details/2025/JetBlue-Opens-BlueHouse-Its-New-Premium-Lounge-at-JFK-Airport/default.aspx
+  - https://www.gensler.com/projects

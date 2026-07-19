@@ -1,0 +1,11 @@
+id: jack-daniels-distillery
+name: Jack Daniel's Distillery
+venue_type: brand-experience-center
+location:
+  city: Lynchburg
+  state: TN
+operator: Brown-Forman
+website: https://www.jackdaniels.com/en-us/visit-us
+sources:
+  - https://www.fredminnick.com/2025/06/30/jack-daniels-distillery-visitor-center-celebrates-25-years/
+  - https://sah-archipedia.org/buildings/TN-01-127-0047

@@ -1,0 +1,11 @@
+id: walmart-visitor-center-bentonville
+name: Walmart Visitor Center
+venue_type: corporate-museum
+location:
+  city: Bentonville
+  state: AR
+operator: Walmart
+sources:
+  - https://kubikmaltbie.com/project/walmart-visitor-center/
+  - https://thinkubik.com/news/walmart-visitor-center-renovated-and-expanded/
+  - https://raai.com/project/the-walmart-museum/

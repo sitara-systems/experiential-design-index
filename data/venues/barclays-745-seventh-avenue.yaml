@@ -1,0 +1,10 @@
+id: barclays-745-seventh-avenue
+name: Barclays U.S. Headquarters (745 Seventh Avenue)
+venue_type: brand-experience-center
+location:
+  city: New York
+  state: NY
+operator: Barclays
+sources:
+  - https://esi.nbbj.com/work/barclays-hq-media-experience
+  - https://www.sixteen-nine.net/2019/05/03/from-oldest-to-newest-barclays-refreshes-massive-led-facade-in-ny-times-square/
