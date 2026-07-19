@@ -1,0 +1,27 @@
+id: high-line-the-spur
+name: "The Spur"
+venue: the-high-line
+project_type: major-renovation
+year_completed: 2019
+credits:
+  - firm: james-corner-field-operations
+    role: landscape-architecture
+    note: "Project lead; no firm record yet"
+  - firm: diller-scofidio-renfro
+    role: architecture
+  - firm: pentagram
+    role: graphics-wayfinding
+  - firm: l-observatoire-international
+    role: lighting-design
+technologies: []
+summary: >
+  The Spur, the High Line's final segment in New York, opened June 2019,
+  adding an open-air programming plaza, restrooms, and "the Plinth," a
+  dedicated site for rotating monumental public-art commissions;
+  landscape architecture by James Corner Field Operations with
+  architecture by Diller Scofidio + Renfro.
+description: ""
+sources:
+  - https://www.thehighline.org/design/spur/
+  - https://www.designboom.com/architecture/spur-high-line-final-segment-new-york-diller-scofidio-james-corner-07-10-2019/
+  - https://www.smithsonianmag.com/smart-news/high-lines-art-centric-final-section-officially-open-180972369/

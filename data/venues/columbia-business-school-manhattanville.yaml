@@ -1,0 +1,9 @@
+id: columbia-business-school-manhattanville
+name: Columbia Business School
+venue_type: academic-institution
+location:
+  city: New York
+  state: NY
+operator: Columbia University
+sources:
+  - https://dsrny.com/project/columbia-business-school

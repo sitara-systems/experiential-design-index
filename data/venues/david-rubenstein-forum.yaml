@@ -1,0 +1,9 @@
+id: david-rubenstein-forum
+name: David Rubenstein Forum
+venue_type: academic-institution
+location:
+  city: Chicago
+  state: IL
+operator: University of Chicago
+sources:
+  - https://dsrny.com/project/rubenstein-chicago

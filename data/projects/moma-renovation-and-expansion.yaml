@@ -1,0 +1,42 @@
+id: moma-renovation-and-expansion
+name: Renovation and Expansion
+venue: museum-of-modern-art
+project_type: major-renovation
+year_completed: 2019
+credits:
+  - firm: diller-scofidio-renfro
+    role: architecture
+  - firm: gensler
+    role: architecture
+  - firm: gensler
+    role: graphics-wayfinding
+  - firm: tillotson-design-associates
+    role: lighting-design
+    note: "Public spaces"
+  - firm: renfro-design-group
+    role: lighting-design
+    note: "Gallery spaces; no firm record yet"
+  - firm: fisher-dachs-associates
+    role: technical-consulting
+    note: "Theater planning; no firm record yet"
+  - firm: boyce-nemec-designs
+    role: av-integration
+    note: "Theater AV; no firm record yet"
+  - firm: cerami-associates
+    role: acoustics
+    note: "No firm record yet"
+  - firm: cerami-associates
+    role: av-integration
+    note: "No firm record yet"
+technologies: []
+summary: >
+  A $450M renovation and expansion of the Museum of Modern Art in New
+  York, increasing its gallery footprint by roughly one-third with new
+  street-level free galleries and a reworked public circulation spine,
+  reopened October 21, 2019; architecture by Diller Scofidio + Renfro
+  with Gensler.
+description: ""
+sources:
+  - https://dsrny.com/project/the-museum-of-modern-art
+  - https://www.archpaper.com/2019/10/moma-reopens/
+  - https://press.moma.org/news/museum-renovation-and-expansion-project/

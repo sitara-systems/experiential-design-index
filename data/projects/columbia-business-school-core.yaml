@@ -1,0 +1,37 @@
+id: columbia-business-school-core
+name: Kravis Hall and David Geffen Hall
+venue: columbia-business-school-manhattanville
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: diller-scofidio-renfro
+    role: architecture
+  - firm: fxcollaborative
+    role: architecture
+    note: "No firm record yet"
+  - firm: pentagram
+    role: graphics-wayfinding
+  - firm: cerami-associates
+    role: acoustics
+    note: "No firm record yet"
+  - firm: cerami-associates
+    role: av-integration
+    note: "No firm record yet"
+  - firm: jaffe-holden
+    role: acoustics
+    note: "No firm record yet"
+  - firm: jaffe-holden
+    role: av-integration
+    note: "No firm record yet"
+  - firm: tillotson-design-associates
+    role: lighting-design
+technologies: []
+summary: >
+  Two connected buildings (Henry R. Kravis Hall and David Geffen Hall)
+  totaling ~492,000 sq ft for Columbia Business School's Manhattanville
+  campus in New York, opened 2022, with architecture by Diller Scofidio
+  + Renfro and FXCollaborative.
+description: ""
+sources:
+  - https://dsrny.com/project/columbia-business-school
+  - https://www.dezeen.com/2022/02/28/diller-scofidio-renfro-columbia-university-business-school-kravis-geffen-hall/

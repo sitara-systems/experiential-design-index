@@ -1,0 +1,9 @@
+id: pier-57
+name: Pier 57
+venue_type: public-space
+location:
+  city: New York
+  state: NY
+operator: Hudson River Park Trust
+sources:
+  - https://dsrny.com/project/google-pier-57

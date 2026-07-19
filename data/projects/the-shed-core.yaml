@@ -1,0 +1,39 @@
+id: the-shed-core
+name: The Shed
+venue: the-shed
+project_type: new-building
+year_completed: 2019
+credits:
+  - firm: diller-scofidio-renfro
+    role: architecture
+  - firm: rockwell-group
+    role: architecture
+  - firm: fisher-dachs-associates
+    role: technical-consulting
+    note: "Theater planning/design; no firm record yet"
+  - firm: akustiks
+    role: acoustics
+    note: "No firm record yet"
+  - firm: akustiks
+    role: av-integration
+    note: "No firm record yet"
+  - firm: tillotson-design-associates
+    role: lighting-design
+  - firm: other-means
+    role: graphics-wayfinding
+    note: "No firm record yet"
+  - firm: hardesty-and-hanover
+    role: technical-consulting
+    note: "Kinetic systems consultant for the telescoping shell; no firm record yet"
+technologies:
+  - deployable telescoping structure
+summary: >
+  The Shed, an eight-level, 200,000 sq ft cultural venue at Hudson Yards
+  in New York, opened April 5, 2019, combining a fixed base building with
+  a 120-foot deployable telescoping outer shell; architecture by Diller
+  Scofidio + Renfro with Rockwell Group.
+description: ""
+sources:
+  - https://dsrny.com/project/the-shed
+  - https://www.architecturalrecord.com/articles/14044-the-shed-by-diller-scofidio-renfro-with-rockwell-group
+  - https://www.dezeen.com/2019/04/04/the-shed-diller-scofidio-renfro-rockwell-group-art-gallery-hudson-yards/

@@ -1,0 +1,34 @@
+id: sarofim-hall-core
+name: Sarofim Hall
+venue: sarofim-hall-rice
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: diller-scofidio-renfro
+    role: architecture
+  - firm: jackson-and-ryan
+    role: architecture
+    note: "Executive architect; no firm record yet"
+  - firm: ojb
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: threshold-acoustics
+    role: acoustics
+    note: "No firm record yet"
+  - firm: threshold-acoustics
+    role: av-integration
+    note: "No firm record yet"
+  - firm: threshold-acoustics
+    role: technical-consulting
+    note: "Theater consultant; no firm record yet"
+technologies: []
+summary: >
+  Sarofim Hall, a 94,000 sq ft home for Rice University's Department of
+  Art in Houston, opened September 11, 2025, consolidating scattered
+  visual-arts programs and including the 215-seat Rice Cinema;
+  architecture by Diller Scofidio + Renfro with Jackson & Ryan.
+description: ""
+sources:
+  - https://news.rice.edu/news/2025/rice-opens-sarofim-hall-transformative-new-home-visual-arts
+  - https://news.rice.edu/news/2025/rice-celebrate-grand-opening-susan-and-fayez-sarofim-hall-sept-11
+  - https://dsrny.com/project/sarofim-hall

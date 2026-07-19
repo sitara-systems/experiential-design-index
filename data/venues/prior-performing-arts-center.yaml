@@ -1,0 +1,9 @@
+id: prior-performing-arts-center
+name: Prior Performing Arts Center
+venue_type: academic-institution
+location:
+  city: Worcester
+  state: MA
+operator: College of the Holy Cross
+sources:
+  - https://dsrny.com/project/college-of-the-holy-cross

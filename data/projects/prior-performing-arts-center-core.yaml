@@ -1,0 +1,37 @@
+id: prior-performing-arts-center-core
+name: Prior Performing Arts Center
+venue: prior-performing-arts-center
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: diller-scofidio-renfro
+    role: architecture
+  - firm: perry-dean-rogers
+    role: architecture
+    note: "Executive architect; no firm record yet"
+  - firm: fisher-dachs-associates
+    role: technical-consulting
+    note: "Theater planning; no firm record yet"
+  - firm: jaffe-holden
+    role: acoustics
+    note: "No firm record yet"
+  - firm: jaffe-holden
+    role: av-integration
+    note: "No firm record yet"
+  - firm: altieri-sebor-wieber
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: olin
+    role: landscape-architecture
+    note: "No firm record yet"
+technologies: []
+summary: >
+  An 84,000 sq ft, $110M performing-arts complex at the College of the
+  Holy Cross in Worcester, Massachusetts, opened September 2022, with a
+  400-seat main theater and 200-seat experimental stage organized around
+  a central "Beehive" connective space; architecture by Diller Scofidio +
+  Renfro with Perry Dean Rogers.
+description: ""
+sources:
+  - https://dsrny.com/project/college-of-the-holy-cross
+  - https://magazine.holycross.edu/stories/prior-performing-arts-center-college-holy-cross-new-facility-designed-diller-scofidio

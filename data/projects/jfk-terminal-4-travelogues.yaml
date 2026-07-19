@@ -1,0 +1,23 @@
+id: jfk-terminal-4-travelogues
+name: Travelogues
+venue: jfk-terminal-4
+project_type: installation
+year_completed: 2001
+credits:
+  - firm: diller-scofidio-renfro
+    role: media-design
+  - firm: diller-scofidio-renfro
+    role: content-production
+technologies:
+  - lenticular screen
+  - motion-triggered animation
+summary: >
+  Travelogues, a permanent public-art commission for two "sterile
+  corridor" passages linking arrival gates to passport control at JFK
+  International Airport's Terminal 4 in Queens, New York, opened in
+  2001; Diller Scofidio + Renfro designed 33 backlit lenticular screens
+  spanning 1,800 linear feet, displaying motion-triggered animated
+  sequences built from X-ray images of travelers' suitcases.
+description: ""
+sources:
+  - https://dsrny.com/project/travelogues

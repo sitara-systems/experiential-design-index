@@ -1,0 +1,9 @@
+id: the-shed
+name: The Shed
+venue_type: cultural-center
+location:
+  city: New York
+  state: NY
+operator: Hudson Yards
+sources:
+  - https://dsrny.com/project/the-shed

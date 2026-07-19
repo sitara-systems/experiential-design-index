@@ -1,0 +1,9 @@
+id: jfk-terminal-4
+name: JFK International Airport, Terminal 4
+venue_type: public-space
+location:
+  city: Queens
+  state: NY
+operator: Port Authority of New York and New Jersey
+sources:
+  - https://dsrny.com/project/travelogues
