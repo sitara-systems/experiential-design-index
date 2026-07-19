@@ -1,0 +1,10 @@
+id: childrens-hunger-fund
+name: Children's Hunger Fund
+venue_type: other
+location:
+  city: Sylmar
+  state: CA
+operator: Children's Hunger Fund
+website: https://childrenshungerfund.org
+sources:
+  - https://childrenshungerfund.org/poverty-encounter/

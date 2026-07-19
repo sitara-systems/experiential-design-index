@@ -1,0 +1,9 @@
+id: hatch-escapes-los-angeles
+name: Hatch Escapes
+venue_type: themed-attraction
+location:
+  city: Los Angeles
+  state: CA
+website: https://www.hatchescapes.com
+sources:
+  - https://www.hatchescapes.com/the-ladder

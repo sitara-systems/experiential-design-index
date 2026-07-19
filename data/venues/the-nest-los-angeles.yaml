@@ -1,0 +1,11 @@
+id: the-nest-los-angeles
+name: The Nest
+venue_type: themed-attraction
+location:
+  city: Los Angeles
+  state: CA
+operator: Scout Expedition Co.
+website: https://www.thenestshow.com
+sources:
+  - https://www.thenestshow.com/home-1
+  - https://roomescapeartist.com/2019/10/21/scout-expedition-co-the-nest-2019-reaction/

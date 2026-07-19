@@ -1,0 +1,10 @@
+id: particle-ink-las-vegas-warehouse
+name: Particle Ink Warehouse (Las Vegas Arts District)
+venue_type: themed-attraction
+location:
+  city: Las Vegas
+  state: NV
+operator: Kaleidoco
+sources:
+  - https://lasvegasweekly.com/ae/2022/apr/14/show-particle-ink-speed-of-dark-redraws-reality/
+  - https://neon.reviewjournal.com/entertainment/mind-bending-immersive-experience-particle-ink-opens-at-luxor-3037185/

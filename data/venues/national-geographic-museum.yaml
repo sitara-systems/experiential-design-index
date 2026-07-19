@@ -1,0 +1,10 @@
+id: national-geographic-museum
+name: National Geographic Museum
+venue_type: science-center
+location:
+  city: Washington
+  state: DC
+operator: National Geographic Society
+sources:
+  - https://www.washingtonpost.com/goingoutguide/museums/dont-miss-these-five-displays-at-the-national-geographics-jane-goodall-exhibition/2019/12/04/4d76fd26-1396-11ea-9cd7-a1becbc82f5e_story.html
+  - https://www.washingtonfamily.com/becoming-jane-goodall-national-geographic-museum/

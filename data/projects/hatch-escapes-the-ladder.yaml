@@ -1,0 +1,28 @@
+id: hatch-escapes-the-ladder
+name: The Ladder
+venue: hatch-escapes-los-angeles
+project_type: installation
+year_completed: 2025
+credits:
+  - firm: hatch-escapes
+    role: media-design
+    note: "Built entirely in-house by Hatch Escapes' resident team (script, tech, pre-viz, filmed media, sound, props, puzzles); no firm record yet"
+  - firm: hatch-escapes
+    role: fabrication
+    note: "In-house set and prop construction across 8 sets; no firm record yet"
+technologies:
+  - branching narrative game logic
+  - filmed media
+  - custom interactive props
+summary: >
+  The Ladder, a branching-narrative escape room about a life spent climbing
+  the corporate ladder, opened in 2025 at Hatch Escapes in Los Angeles,
+  California, designed and built entirely in-house by Hatch Escapes with a
+  90-minute runtime, 5 playable characters, 8 sets, and multiple endings.
+description: >
+  Winner of the 2025 Thea Award for Outstanding Achievement, Attraction
+  (Limited Budget), from the Themed Entertainment Association.
+sources:
+  - https://www.teaconnect.org/news/31st-annual-thea-award-winners-announced-themed-entertainment-association
+  - https://www.hatchescapes.com/the-ladder
+  - https://mssv.net/2025/07/06/the-ladder-a-hilariously-absurd-surprisingly-replayable-escape-room/

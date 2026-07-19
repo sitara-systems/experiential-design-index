@@ -1,0 +1,37 @@
+id: national-wwii-museum-freedom-theater
+name: The Priddy Family Foundation Freedom Theater
+venue: national-wwii-museum
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: the-hettema-group
+    role: exhibit-design
+    note: "Design and delivery of the theater experience, combining narrative, architecture, multimedia, and interactivity; billed as THG Creative; no firm record yet"
+  - firm: the-hettema-group
+    role: media-design
+    note: "No firm record yet"
+  - firm: medici-media
+    role: media-design
+    note: "Collaborating content partner, credited as Mousetrappe at the time; second dataset credit (see national-wwii-museum-expressions-of-america); no firm record yet"
+technologies:
+  - rotating turntable seating
+  - moving LED screens
+  - show control system
+summary: >
+  The Priddy Family Foundation Freedom Theater, a 30-minute immersive
+  theatrical experience on a rotating turntable on the third floor of the
+  National WWII Museum's Liberation Pavilion in New Orleans, Louisiana,
+  opened in 2023, designed and produced by The Hettema Group in
+  collaboration with Mousetrappe (now Medici Media).
+description: >
+  Winner of the 2025 Thea Award for Outstanding Achievement, Museum
+  Attraction, from the Themed Entertainment Association. Distinct from the
+  broader Liberation Pavilion exhibit build (see
+  national-wwii-museum-liberation-pavilion.yaml, credited to Solomon Group)
+  — this record covers the dedicated third-floor theater experience within
+  it.
+sources:
+  - https://www.teaconnect.org/news/31st-annual-thea-award-winners-announced-themed-entertainment-association
+  - https://blooloop.com/museum/news/thg-creative-freedom-theater/
+  - https://www.inparkmagazine.com/thg-freedom-theater-wwii-museum/
+  - https://www.nationalww2museum.org/visit/museum-campus-guide/liberation-pavilion/third-floor

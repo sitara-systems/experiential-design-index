@@ -1,0 +1,41 @@
+id: jump-by-limitless-flight-experience
+name: JUMP by Limitless Flight
+venue: jump-by-limitless-flight
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: tait
+    role: media-design
+    note: >
+      Primary development partner for the wingsuit flight simulation
+      system: custom rig, wing suit, and VR helmet; Unreal Engine-driven
+      3D landscapes and motion-control integration; two custom winches and
+      four lifting axes per trolley; the "TAIT Navigator Automation
+      Platform" managing transitions between physical rigging and virtual
+      content.
+  - firm: tait
+    role: fabrication
+    note: Design, engineering, and fabrication of the custom flight rig and suspension system.
+technologies:
+  - Unreal Engine real-time 3D
+  - motion capture / body tracking
+  - custom wind and suspension rig
+  - custom VR headset
+summary: >
+  JUMP by Limitless Flight, a location-based hyperreal wingsuit-flight
+  simulator combining a physical suspension rig with real-time VR
+  landscapes, opened in Bluffdale, Utah in May 2022, developed by TAIT
+  in partnership with Limitless Flight; it won the 2022 (29th Annual) Thea
+  Award for Outstanding Achievement in Connected Immersion.
+description: >
+  Flyers wear a real wingsuit and a custom VR helmet while suspended on a
+  TAIT-engineered rig with dual winches and four lifting axes per
+  trolley, steering in real time through an Unreal Engine-rendered 3D
+  recreation of Notch Peak, Utah, via body-tracked motion control. TAIT's
+  "Navigator Automation Platform" synchronizes the physical rig with the
+  virtual environment.
+sources:
+  - https://www.taittowers.com/work/limitless-flight-jump
+  - https://www.utahbusiness.com/press-releases/2022/05/19/first-hyperreality-simulation-in-bluffdale-opens-with-jump/
+  - https://www.utahbusiness.com/press-releases/2022/12/20/jump-by-limitless-award/
+  - https://www.teaconnect.org/recipients/29th-annual-thea-award-recipients

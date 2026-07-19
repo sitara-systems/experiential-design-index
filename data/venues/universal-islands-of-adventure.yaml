@@ -1,0 +1,10 @@
+id: universal-islands-of-adventure
+name: Universal's Islands of Adventure
+venue_type: themed-attraction
+location:
+  city: Orlando
+  state: FL
+operator: Universal Orlando Resort / NBCUniversal
+website: https://www.universalorlando.com/web/en/us/theme-parks/islands-of-adventure
+sources:
+  - https://en.wikipedia.org/wiki/Hagrid's_Magical_Creatures_Motorbike_Adventure

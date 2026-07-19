@@ -1,0 +1,9 @@
+id: treasure-hunt-monterey
+name: "Treasure Hunt: The Ride"
+venue_type: themed-attraction
+location:
+  city: Monterey
+  state: CA
+website: https://treasurehuntride.com
+sources:
+  - https://treasurehuntride.com/

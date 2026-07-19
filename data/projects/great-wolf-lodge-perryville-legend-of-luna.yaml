@@ -1,0 +1,37 @@
+id: great-wolf-lodge-perryville-legend-of-luna
+name: "The Legend of Luna: A Great Wolf Story"
+venue: great-wolf-lodge-perryville
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: brc-imagination-arts
+    role: media-design
+    note: "Created and developed the immersive lobby show; no firm record yet"
+  - firm: nyxdesign
+    role: lighting-design
+    note: "Lighting design for the lodge lobby and consultation on the generative media system; no firm record yet"
+  - firm: clearwing-systems-integration
+    role: av-integration
+    note: "Technical design and systems integration; no firm record yet"
+  - firm: techmdinc
+    role: content-production
+    note: "Audio, video, and show programming, in collaboration with BRC Imagination Arts; no firm record yet"
+technologies:
+  - generative media system
+  - automated lighting
+  - haze/atmospheric effects
+summary: >
+  The Legend of Luna, an immersive lobby show at Great Wolf Lodge Perryville
+  in Perryville, Maryland, debuted in November 2024, created by BRC
+  Imagination Arts with lighting and media design by NYXdesign, systems
+  integration by Clearwing Systems Integration, and audio/video/show
+  programming by TechMDinc.
+description: >
+  Winner of the 2025 Thea Award for Outstanding Achievement, Immersive
+  Show/Hotel Lobby Transformation (Limited Budget), from the Themed
+  Entertainment Association.
+sources:
+  - https://www.teaconnect.org/news/31st-annual-thea-award-winners-announced-themed-entertainment-association
+  - https://plsn.com/featured/great-wolf-lodge-debuts-the-legend-of-luna-immersive-attraction-supported-by-ayrton-lighting-fixtures-and-mdg-hazer/
+  - https://www.brcweb.com/project/the-legend-of-luna-at-great-wolf-lodge-perryville/
+  - https://www.earsupdesign.com/legend-of-luna-at-great-wolf-lodge

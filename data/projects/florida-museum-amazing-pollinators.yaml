@@ -1,0 +1,34 @@
+id: florida-museum-amazing-pollinators
+name: Amazing Pollinators
+venue: florida-museum
+project_type: traveling-exhibition
+year_completed: 2020
+credits:
+  - firm: minotaur-mazes
+    role: exhibit-design
+    note: >
+      Designed and fabricated the traveling maze exhibition; no firm record
+      yet (fewer than 3 credited projects in the dataset)
+technologies:
+  - interactive maze environment
+  - tactile and visual interactives
+summary: >
+  Amazing Pollinators, a game-based traveling maze exhibition on pollinator
+  conservation, opened January 25, 2020, at the Florida Museum of Natural
+  History in Gainesville, Florida, developed by Minotaur Mazes in
+  collaboration with the Florida Museum and the Xerces Society for
+  Invertebrate Conservation.
+description: >
+  The bilingual (English/Spanish) exhibition combines a maze centerpiece of
+  interactive flowers across nine environments with 48 survival missions
+  covering eight pollinator groups (bats, bees, beetles, birds, butterflies,
+  moths, flies, and wasps). It won a Thea Award for Outstanding Achievement
+  (Touring Exhibition, Limited Budget) from the Themed Entertainment
+  Association at the 27th Annual Thea Awards (2021), and has since traveled
+  to venues including the Peggy Notebaert Nature Museum, Minnetrista,
+  Waterloo Region Museum, and Grand Rapids Public Museum.
+sources:
+  - https://www.floridamuseum.ufl.edu/pressroom/2019/12/05/amazing-pollinators-exhibit-opens/
+  - https://www.minotaurmazes.com/amazing-pollinators/
+  - https://www.alphagraphicsseattle.com/minotaur-mazes-wins-prestigious-thea-award-for-amazing-pollinators-exhibit/
+  - https://www.teaconnect.org/recipients/27th-annual-thea-award-recipients

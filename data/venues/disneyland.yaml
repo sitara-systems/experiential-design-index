@@ -1,0 +1,10 @@
+id: disneyland
+name: Disneyland Park
+venue_type: themed-attraction
+location:
+  city: Anaheim
+  state: CA
+operator: Disneyland Resort / The Walt Disney Company
+website: https://disneyland.disney.go.com
+sources:
+  - https://en.wikipedia.org/wiki/Star_Wars:_Galaxy%27s_Edge

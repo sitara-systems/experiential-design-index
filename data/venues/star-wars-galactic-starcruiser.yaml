@@ -1,0 +1,9 @@
+id: star-wars-galactic-starcruiser
+name: Star Wars - Galactic Starcruiser
+venue_type: themed-attraction
+location:
+  city: Bay Lake
+  state: FL
+operator: Walt Disney World Resort
+sources:
+  - https://en.wikipedia.org/wiki/Star_Wars:_Galactic_Starcruiser
