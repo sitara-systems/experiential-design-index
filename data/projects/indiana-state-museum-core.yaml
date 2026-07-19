@@ -9,6 +9,19 @@ credits:
   - firm: ratio-architects
     role: architecture
     note: "No firm record yet"
+  - firm: technical-artistry
+    role: lighting-design
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Credited as Maltbie Associates, a Kubik company"
+  - firm: cortina-productions
+    role: media-design
+    note: "Interactive media"
+  - firm: electrosonic
+    role: av-integration
+  - firm: jaffe-holden
+    role: acoustics
+    note: "No firm record yet"
 technologies: []
 summary: >
   The Indiana State Museum's current White River State Park building

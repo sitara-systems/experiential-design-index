@@ -1,0 +1,29 @@
+id: st-louis-union-station-grand-hall-experience
+name: Grand Hall Experience
+venue: st-louis-union-station-grand-hall
+project_type: installation
+year_completed: 2014
+credits:
+  - firm: technomedia
+    role: media-design
+    note: "Creative direction, scripting, sound system and soundtrack design"
+  - firm: jack-rouse-associates
+    role: technical-consulting
+    note: "Recommended Technomedia for the project"
+technologies:
+  - projection
+  - sound design
+recognition:
+  - award: "TEA Thea Award — Outstanding Achievement, Live Show, Limited Budget"
+    year: 2015
+    source: https://www.teaconnect.org/
+summary: >
+  The Grand Hall Experience, a projection and sound show in the 1894
+  headhouse of St. Louis Union Station, opened 2014; media design by
+  Technomedia at Jack Rouse Associates' recommendation. Distinct from
+  the separately-built St. Louis Aquarium in a different building
+  within the same historic complex.
+description: ""
+sources:
+  - https://www.teaconnect.org/
+  - https://www.inparkmagazine.com/

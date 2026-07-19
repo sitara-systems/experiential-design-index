@@ -6,7 +6,10 @@ year_completed: 2026
 credits:
   - firm: tellart
     role: media-design
-    note: "Experience design and media production; sound design by Studio Øraya"
+    note: "Experience design and media production"
+  - firm: studio-oraya
+    role: media-design
+    note: "Sound design; Amsterdam-based, no firm record (below North America scope)"
 technologies:
   - floor and ceiling projection
   - generative particle systems

@@ -1,0 +1,9 @@
+id: temple-square-visitors-center
+name: Temple Square Visitors' Center
+venue_type: history-museum
+location:
+  city: Salt Lake City
+  state: UT
+operator: The Church of Jesus Christ of Latter-day Saints
+sources:
+  - https://blooloop.com/

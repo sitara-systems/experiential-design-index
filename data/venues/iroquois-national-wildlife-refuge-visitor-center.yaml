@@ -1,0 +1,9 @@
+id: iroquois-national-wildlife-refuge-visitor-center
+name: Iroquois National Wildlife Refuge Visitor Contact Station
+venue_type: visitor-center
+location:
+  city: Basom
+  state: NY
+operator: U.S. Fish and Wildlife Service
+sources:
+  - https://www.color-ad.com/

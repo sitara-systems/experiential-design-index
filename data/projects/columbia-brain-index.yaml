@@ -6,6 +6,9 @@ year_completed: 2016
 credits:
   - firm: av-c
     role: media-design
+  - firm: technomedia
+    role: av-integration
+    note: "Project lead; independently corroborated via AV&C's own site"
 technologies:
   - data visualization
   - interactive display wall
@@ -18,3 +21,4 @@ description: ""
 sources:
   - https://c4sr.columbia.edu/news/brain-index-opens-new-jerome-l-greene-science-center
   - https://www.av-controls.com/synapse
+  - https://www.gotechnomedia.com/

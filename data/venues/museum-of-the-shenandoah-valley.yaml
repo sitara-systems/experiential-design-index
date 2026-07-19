@@ -1,0 +1,8 @@
+id: museum-of-the-shenandoah-valley
+name: Museum of the Shenandoah Valley
+venue_type: history-museum
+location:
+  city: Winchester
+  state: VA
+sources:
+  - https://www.themsv.org/

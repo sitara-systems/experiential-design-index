@@ -1,0 +1,8 @@
+id: museum-of-historic-annapolis
+name: Museum of Historic Annapolis
+venue_type: history-museum
+location:
+  city: Annapolis
+  state: MD
+sources:
+  - https://whatsupmag.com/

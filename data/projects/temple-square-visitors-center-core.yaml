@@ -1,0 +1,41 @@
+id: temple-square-visitors-center-core
+name: Temple Square Visitors' Center
+venue: temple-square-visitors-center
+project_type: new-building
+year_completed: 2026
+credits:
+  - firm: the-hettema-group
+    role: exhibit-design
+    note: "Led creative design and full production from concept through opening"
+  - firm: donna-lawrence-productions
+    role: content-production
+    note: >
+      Independent source (blooloop) names this firm as a collaborator
+      across "design, media, fabrication, and technology" without
+      specifying individual roles; role inferred by pattern, not
+      explicitly sourced
+  - firm: cortina-productions
+    role: media-design
+    note: "Role inferred by pattern from a collective collaborator credit; see note on Donna Lawrence Productions above"
+  - firm: midwest-studios
+    role: fabrication
+    note: "No firm record yet; role inferred by pattern, see note above"
+  - firm: electrosonic
+    role: av-integration
+    note: "Role inferred by pattern, see note above"
+  - firm: 4wall-entertainment
+    role: av-integration
+    note: "No firm record yet; role inferred by pattern, see note above"
+technologies: []
+summary: >
+  The Temple Square Visitors' Center in Salt Lake City opened May 18,
+  2026; creative design and production led by The Hettema Group, with
+  Donna Lawrence Productions, Cortina Productions, Midwest Studios,
+  Electrosonic, and 4Wall named as collaborators across design, media,
+  fabrication, and technology (individual roles not broken out by the
+  independent source).
+description: ""
+sources:
+  - https://blooloop.com/
+  - https://www.forbes.com/
+  - https://www.prnewswire.com/

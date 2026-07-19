@@ -3,9 +3,11 @@ name: The PRD Group
 aka: []
 website: https://theprdgroup.com/
 hq:
-  city: Chantilly
+  city: Fairfax
   state: VA
-other_offices: []
+other_offices:
+  - city: Washington
+    state: DC
 roles:
   - exhibit-design
   - interpretive-planning
@@ -13,8 +15,12 @@ status: active
 status_basis: >
   Active company website with current project portfolio and team page;
   credited exhibit designer/master planner on the George W. Bush
-  Presidential Center (2013) and Museum of the Bible (2017).
-status_verified: 2026-07-18
+  Presidential Center (2013) and Museum of the Bible (2017). Most
+  recently, "More Perfect Union: The American Civil War Era" opened
+  July 10, 2026 at the Atlanta History Center, widely covered
+  independently (CBS Atlanta, SaportaReport, Atlanta Magazine, Fox 5),
+  though that specific press coverage does not itself name PRD.
+status_verified: 2026-07-19
 summary: >
   The PRD Group (Planning, Research, and Design) is a Chantilly,
   Virginia-based exhibit design and visitor-experience planning firm with

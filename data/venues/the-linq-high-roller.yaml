@@ -1,0 +1,9 @@
+id: the-linq-high-roller
+name: High Roller, The LINQ
+venue_type: themed-attraction
+location:
+  city: Las Vegas
+  state: NV
+operator: Caesars Entertainment
+sources:
+  - https://en.wikipedia.org/wiki/High_Roller_(Ferris_wheel)

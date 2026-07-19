@@ -1,0 +1,9 @@
+id: antietam-national-battlefield-visitor-center
+name: Antietam National Battlefield Visitor Center
+venue_type: visitor-center
+location:
+  city: Sharpsburg
+  state: MD
+operator: National Park Service
+sources:
+  - https://www.dcnewsnow.com/

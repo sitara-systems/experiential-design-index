@@ -1,0 +1,9 @@
+id: legoland-florida
+name: LEGOLAND Florida
+venue_type: themed-attraction
+location:
+  city: Winter Haven
+  state: FL
+operator: Merlin Entertainments
+sources:
+  - https://www.prnewswire.com/

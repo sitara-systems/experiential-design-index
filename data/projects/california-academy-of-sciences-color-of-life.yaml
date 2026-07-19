@@ -10,6 +10,9 @@ credits:
   - firm: tellart
     role: media-design
     note: "Custom interactive hardware and an augmented-reality experience revealing ultraviolet light patterns invisible to humans"
+  - firm: group-delphi
+    role: fabrication
+    note: "Casework and AV systems integration"
 technologies:
   - augmented reality
   - custom LED display surface

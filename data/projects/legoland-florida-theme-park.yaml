@@ -1,0 +1,17 @@
+id: legoland-florida-theme-park
+name: Theme Park
+venue: legoland-florida
+project_type: new-building
+year_completed: 2011
+credits:
+  - firm: technomedia
+    role: av-integration
+    note: "AV media content and systems design, including the Fun Town Theater"
+technologies: []
+summary: >
+  LEGOLAND Florida theme park, Winter Haven, FL, opened October 2011;
+  AV media content and systems design by Technomedia.
+description: ""
+sources:
+  - https://www.prnewswire.com/
+  - https://www.inparkmagazine.com/

@@ -1,0 +1,21 @@
+id: the-linq-high-roller-core
+name: High Roller
+venue: the-linq-high-roller
+project_type: new-building
+year_completed: 2014
+credits:
+  - firm: the-hettema-group
+    role: architecture
+    note: "Venue consultant and architect"
+  - firm: arup
+    role: technical-consulting
+    note: "Prime design consultant; structural, geotechnical, MEP, and fire-life-safety engineering; no firm record yet"
+technologies: []
+summary: >
+  High Roller, a 550-foot observation wheel at The LINQ, Las Vegas,
+  opened 2014; venue consulting and architecture by The Hettema Group,
+  prime design/engineering by Arup, for Caesars Entertainment.
+description: ""
+sources:
+  - https://www.prnewswire.com/
+  - https://en.wikipedia.org/wiki/High_Roller_(Ferris_wheel)

@@ -12,6 +12,16 @@ credits:
   - firm: kubik-maltbie
     role: fabrication
     note: "Credited as Maltbie (a Kubik company)"
+  - firm: electrosonic
+    role: av-integration
+  - firm: unified-field
+    role: media-design
+    note: "Interactive media"
+  - firm: technical-artistry
+    role: lighting-design
+  - firm: jaffe-holden
+    role: acoustics
+    note: "No firm record yet"
 technologies: []
 summary: >
   The NASCAR Hall of Fame in Charlotte, North Carolina, opened May 11,

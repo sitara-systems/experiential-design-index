@@ -9,15 +9,26 @@ credits:
   - firm: electrosonic
     role: av-integration
     note: Projection onto historic stone walls, interactive tablets, and concealed audio
+  - firm: the-prd-group
+    role: exhibit-design
+    note: >
+      Independently corroborated via Electrosonic's and Trivium's own
+      project pages, which both also name PRD; scope overlap with the
+      Trivium exhibit-design credit above kept as parallel claims
+      rather than resolved
+  - firm: available-light
+    role: lighting-design
+  - firm: explus
+    role: fabrication
 technologies:
   - projection
   - interactive tablets
 summary: >
   The Lockkeeper's House, the oldest building on Washington, DC's National
   Mall, reopened as a small interpretive exhibit space in 2018 after
-  relocation and restoration; Trivium Interactive designed the visitor
-  experience and Electrosonic implemented the AV systems within the
-  350-square-foot historic structure.
+  relocation and restoration; exhibit design by Trivium Interactive and
+  The PRD Group, AV integration by Electrosonic, lighting by Available
+  Light, fabrication by Explus.
 description: ""
 sources:
   - https://www.smithsonianmag.com/smart-news/oldest-building-on-the-national-mall-opens-to-the-public-lockkeepers-house-180979977/
