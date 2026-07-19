@@ -1,0 +1,10 @@
+id: dilworth-park
+name: Dilworth Park
+venue_type: public-space
+location:
+  city: Philadelphia
+  state: PA
+description: >
+  A transit plaza and civic space at Philadelphia City Hall.
+sources:
+  - https://theolinstudio.com/dilworth-park/

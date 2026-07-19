@@ -1,0 +1,8 @@
+id: childrens-museum-of-atlanta
+name: Children's Museum of Atlanta
+venue_type: childrens-museum
+location:
+  city: Atlanta
+  state: GA
+sources:
+  - https://en.wikipedia.org/wiki/Children%27s_Museum_of_Atlanta

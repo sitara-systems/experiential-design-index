@@ -1,0 +1,21 @@
+id: dilworth-park-core
+name: Dilworth Park
+venue: dilworth-park
+project_type: major-renovation
+year_completed: 2014
+credits:
+  - firm: kieran-timberlake
+    role: architecture
+    note: "Transit pavilions, structural glass entries"
+  - firm: olin
+    role: landscape-architecture
+technologies: []
+summary: >
+  A redesign of Dilworth Park, the transit plaza at Philadelphia City
+  Hall, completed 2014; architecture by KieranTimberlake, landscape
+  architecture by OLIN.
+description: ""
+sources:
+  - https://theolinstudio.com/dilworth-park/
+  - https://en.wikipedia.org/wiki/Dilworth_Park
+  - https://kierantimberlake.com/work/dilworth-park/

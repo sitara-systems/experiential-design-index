@@ -1,0 +1,9 @@
+id: suzanne-roberts-theatre
+name: Suzanne Roberts Theatre
+venue_type: cultural-center
+location:
+  city: Philadelphia
+  state: PA
+operator: Philadelphia Theatre Company
+sources:
+  - https://en.wikipedia.org/wiki/Suzanne_Roberts_Theatre

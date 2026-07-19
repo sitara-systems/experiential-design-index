@@ -4,6 +4,13 @@ venue: view-boston
 project_type: new-building
 year_completed: 2023
 credits:
+  - firm: jack-rouse-associates
+    role: exhibit-design
+    note: >
+      Master planning, writing and content development, experience
+      planning and design, graphic design, art direction,
+      vendor/supplier procurement, fabrication supervision, and
+      on-site project management as creative and design lead
   - firm: electrosonic
     role: av-integration
     note: Blue-sky technology concepts, AV and control system design, and system integration
@@ -13,6 +20,12 @@ credits:
   - firm: frankndesign
     role: fabrication
     note: "Four bronze tactile models of key Boston landmarks for low-vision guests; no firm record yet"
+  - firm: eos-lightmedia
+    role: lighting-design
+    note: "Credited as Abernathy Lighting Design, an Eos Lightmedia studio; attraction lighting designer"
+  - firm: lightborne
+    role: content-production
+    note: "Concepted and animated 12 shows; no firm record yet"
 technologies:
   - projection mapping
   - virtual itinerary interactives

@@ -1,0 +1,26 @@
+id: suzanne-roberts-theatre-core
+name: Suzanne Roberts Theatre
+venue: suzanne-roberts-theatre
+project_type: new-building
+year_completed: 2007
+credits:
+  - firm: kieran-timberlake
+    role: architecture
+    note: "Design architect"
+  - firm: bower-lewis-thrower
+    role: architecture
+    note: "Architect of record; no firm record yet"
+  - firm: a-zahner-company
+    role: fabrication
+    note: "Sculptural stainless-steel marquee/signage system"
+technologies: []
+summary: >
+  The Suzanne Roberts Theatre, home of the Philadelphia Theatre Company,
+  opened 2007; design architecture by KieranTimberlake with Bower Lewis
+  Thrower as architect of record, marquee fabrication by A. Zahner
+  Company.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Suzanne_Roberts_Theatre
+  - https://azahner.com/projects/suzanne-roberts-theatre/
+  - https://kierantimberlake.com/work/suzanne-roberts-theatre/

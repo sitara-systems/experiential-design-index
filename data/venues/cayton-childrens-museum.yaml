@@ -1,0 +1,8 @@
+id: cayton-childrens-museum
+name: Cayton Children's Museum
+venue_type: childrens-museum
+location:
+  city: Santa Monica
+  state: CA
+sources:
+  - https://www.archpaper.com/

@@ -1,0 +1,9 @@
+id: valle-de-oro-nwr-visitor-center
+name: Valle de Oro National Wildlife Refuge Visitor Center
+venue_type: visitor-center
+location:
+  city: Albuquerque
+  state: NM
+operator: U.S. Fish and Wildlife Service
+sources:
+  - https://www.fws.gov/

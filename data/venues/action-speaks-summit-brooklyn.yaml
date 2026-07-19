@@ -1,0 +1,11 @@
+id: action-speaks-summit-brooklyn
+name: Action Speaks Summit Venue
+venue_type: other
+location:
+  city: Brooklyn
+  state: NY
+description: >
+  A temporary venue for IKEA/Ingka Group's Action Speaks Summit during
+  New York Climate Week; exact address not independently confirmed.
+sources:
+  - https://www.ingka.com/action-speaks-summit/

@@ -1,0 +1,8 @@
+id: las-vegas-natural-history-museum
+name: Las Vegas Natural History Museum
+venue_type: natural-history-museum
+location:
+  city: Las Vegas
+  state: NV
+sources:
+  - https://www.lvnhm.org/

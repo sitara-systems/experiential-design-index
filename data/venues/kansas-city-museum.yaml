@@ -1,0 +1,10 @@
+id: kansas-city-museum
+name: Kansas City Museum
+venue_type: history-museum
+location:
+  city: Kansas City
+  state: MO
+description: >
+  Housed in Corinthian Hall, the historic 1910 R.A. Long mansion.
+sources:
+  - https://inkansascity.com/

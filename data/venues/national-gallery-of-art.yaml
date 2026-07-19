@@ -1,0 +1,8 @@
+id: national-gallery-of-art
+name: National Gallery of Art
+venue_type: art-museum
+location:
+  city: Washington
+  state: DC
+sources:
+  - https://www.nga.gov/

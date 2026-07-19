@@ -1,0 +1,9 @@
+id: art-gallery-of-ontario
+name: Art Gallery of Ontario
+venue_type: art-museum
+location:
+  city: Toronto
+  state: ON
+country: CA
+sources:
+  - https://ago.ca/

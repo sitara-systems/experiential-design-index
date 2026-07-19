@@ -1,0 +1,8 @@
+id: kings-island
+name: Kings Island
+venue_type: themed-attraction
+location:
+  city: Mason
+  state: OH
+sources:
+  - https://www.visitkingsisland.com/

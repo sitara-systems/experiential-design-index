@@ -1,0 +1,23 @@
+# Firm record — Van H. Gilbert Architects
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: van-h-gilbert-architects
+name: Van H. Gilbert Architects
+aka:
+  - VGHA
+hq:
+  city: Albuquerque
+  state: NM
+roles:
+  - architecture
+status: active
+status_basis: >
+  Architect on Penguin Chill at the ABQ BioPark Zoo (Albuquerque, NM,
+  opened 2019); active per multiple independent sources as of
+  verification date.
+status_verified: 2026-07-19
+summary: >
+  Van H. Gilbert Architects (VGHA) is an Albuquerque, New Mexico-based
+  architecture firm.
+sources:
+  - https://www.cabq.gov/

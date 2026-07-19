@@ -1,0 +1,20 @@
+id: aga-khan-museum-core
+name: Aga Khan Museum
+venue: aga-khan-museum
+project_type: new-building
+year_completed: 2014
+credits:
+  - firm: studio-adrien-gardere
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Showcase fabrication"
+technologies: []
+summary: >
+  The Aga Khan Museum in Toronto, Ontario, opened September 18, 2014;
+  exhibit design by Studio Adrien Gardère, showcase fabrication by
+  kubik maltbie.
+description: ""
+sources:
+  - https://www.click-netherfield.com/

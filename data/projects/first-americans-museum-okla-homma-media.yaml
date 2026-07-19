@@ -6,6 +6,12 @@ year_completed: 2021
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+  - firm: click-netherfield
+    role: fabrication
+    note: "Casework; no firm record yet"
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Prime exhibit fabricator"
   - firm: batwin-and-robin
     role: content-production
     note: >

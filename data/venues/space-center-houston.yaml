@@ -1,0 +1,8 @@
+id: space-center-houston
+name: Space Center Houston
+venue_type: science-center
+location:
+  city: Houston
+  state: TX
+sources:
+  - https://spacecenter.org/

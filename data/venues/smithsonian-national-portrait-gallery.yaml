@@ -1,0 +1,8 @@
+id: smithsonian-national-portrait-gallery
+name: Smithsonian National Portrait Gallery
+venue_type: art-museum
+location:
+  city: Washington
+  state: DC
+sources:
+  - https://npg.si.edu/

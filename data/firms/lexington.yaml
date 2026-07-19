@@ -13,12 +13,23 @@ roles:
   - fabrication
 status: active
 status_basis: >
-  Credited fabrication on The National WWII Museum's Road to Victory master
-  plan (capstone Liberation Pavilion opened 2023); Idaho State Museum
-  renovation (2018) and Harrah's Cherokee Casino rotunda (2012) both
-  independently credit "Lexington" by name on nassal.com's own project pages
-  as of this check.
-status_verified: 2026-07-18
+  REVISED 2026-07-19: the prior basis's "Liberation Pavilion opened 2023"
+  claim is likely misattributed — no independent source ties Lexington
+  specifically to that 2023 capstone pavilion of The National WWII
+  Museum's multi-phase master plan (1220 Exhibits is independently
+  documented as that pavilion's fabricator); Lexington's own credit on
+  the master-plan project more plausibly belongs to an earlier phase.
+  The most recent independently-verifiable dated Lexington-specific work
+  is Idaho State Museum (2018), outside the standard 3-year window. Kept
+  as `active` on the strength of Nassal's own current corporate
+  materials (the sibling `nassal` firm record explicitly tracks Lexington
+  as a current related brand) plus still-live third-party listings
+  (LinkedIn, Facebook), though Lexington's brand presence has visibly
+  receded on Nassal's current primary site (no longer named on the
+  current homepage or About page, unlike 2018-era materials) — a genuine
+  open question worth re-checking next cycle rather than a confirmed
+  closure.
+status_verified: 2026-07-19
 summary: >
   Lexington is a Los Angeles-based themed-environment design/build fabricator
   with 30+ years of experience serving museums, casinos, hospitality, retail,

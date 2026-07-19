@@ -1,0 +1,8 @@
+id: james-a-michener-art-museum
+name: James A. Michener Art Museum
+venue_type: art-museum
+location:
+  city: Doylestown
+  state: PA
+sources:
+  - https://kierantimberlake.com/work/edgar-n-putman-event-pavilion/

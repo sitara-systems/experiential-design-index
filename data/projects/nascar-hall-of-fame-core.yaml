@@ -1,0 +1,23 @@
+id: nascar-hall-of-fame-core
+name: NASCAR Hall of Fame
+venue: nascar-hall-of-fame
+project_type: new-building
+year_completed: 2010
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: pei-cobb-freed-and-partners
+    role: architecture
+    note: "No firm record yet"
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Credited as Maltbie (a Kubik company)"
+technologies: []
+summary: >
+  The NASCAR Hall of Fame in Charlotte, North Carolina, opened May 11,
+  2010; architecture by Pei Cobb Freed & Partners with Tobin Starr +
+  Partners, exhibit design by Ralph Appelbaum Associates, fabrication
+  by kubik maltbie.
+description: ""
+sources:
+  - https://www.eventdesignmagazine.com/

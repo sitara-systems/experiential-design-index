@@ -1,0 +1,24 @@
+id: ago-thomson-galleries
+name: Thomson Galleries
+venue: art-gallery-of-ontario
+project_type: new-exhibition
+year_completed: 2008
+credits:
+  - firm: gehry-partners
+    role: architecture
+    note: "Part of the Transformation AGO expansion"
+  - firm: click-netherfield
+    role: fabrication
+    note: "Casework; no firm record yet"
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Casework"
+technologies: []
+summary: >
+  The Thomson Galleries, part of the "Transformation AGO" expansion of
+  the Art Gallery of Ontario in Toronto designed by Gehry Partners,
+  opened November 14, 2008; casework by Click Netherfield and kubik
+  maltbie.
+description: ""
+sources:
+  - https://www.click-netherfield.com/

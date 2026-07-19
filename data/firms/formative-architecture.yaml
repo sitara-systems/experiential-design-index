@@ -1,0 +1,22 @@
+# Firm record — Formative Architecture
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: formative-architecture
+name: Formative Architecture
+aka: []
+hq:
+  city: Albuquerque
+  state: NM
+roles:
+  - architecture
+status: active
+status_basis: >
+  Architect on the Valle de Oro National Wildlife Refuge Visitor Center
+  (Albuquerque, NM, opened 2022); active per its own site as of
+  verification date.
+status_verified: 2026-07-19
+summary: >
+  Formative Architecture is an Albuquerque, New Mexico-based
+  architecture firm.
+sources:
+  - https://www.fws.gov/

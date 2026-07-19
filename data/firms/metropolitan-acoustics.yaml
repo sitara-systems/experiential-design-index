@@ -1,0 +1,23 @@
+# Firm record — Metropolitan Acoustics
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: metropolitan-acoustics
+name: Metropolitan Acoustics
+aka: []
+hq:
+  city: Philadelphia
+  state: PA
+roles:
+  - acoustics
+  - av-integration
+status: active
+status_basis: >
+  Acoustics and AV consultant on the Edgar N. Putman Event Pavilion at
+  the James A. Michener Art Museum (Doylestown, PA, opened 2012); active
+  per its own site as of verification date.
+status_verified: 2026-07-19
+summary: >
+  Metropolitan Acoustics is a Philadelphia-area acoustics and AV
+  consulting firm.
+sources:
+  - https://metro-acoustics.com/projects/edgar-n-putman-pavilion-at-michener-art-museum/
