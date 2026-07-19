@@ -24,6 +24,10 @@ credits:
 technologies:
   - projection mapping
   - real-time 3D
+# recognition:                      # juried awards only, omit if none
+#   - award: "SEGD Global Design Awards — Honor Award"
+#     year: 2025
+#     source: https://segd.org/awards/...
 summary: >
   Discovery Hall, a 10,000 sq ft permanent exhibition at the Example Museum in
   Denver, opened in 2024; it was designed by Example Firm with architecture by

@@ -45,6 +45,7 @@ the firm record.
 | `status` | enum | | `completed` (default) / `announced` / `in-progress` |
 | `credits` | list | ✔ | Each: `firm` (firm id), `role` (role id), optional `note` |
 | `technologies` | list | | Free-text but consistent (e.g. "projection mapping", "RFID") |
+| `recognition` | list | | Juried awards won by this project. Each: `award` (e.g. "SEGD Global Design Awards — Honor Award"), `year`, `source` (url). Juried/curated programs only — no pay-to-enter "badge" schemes. |
 | `summary` | string | ✔ | Opening sentence must answer "who built what, where, when" self-contained |
 | `description` | string | | Longer prose |
 | `sources` | list of urls | ✔ | |
@@ -63,4 +64,5 @@ temporarily (rendered unlinked) but is a to-do.
 | `location` | object | ✔ | `city`, `state`; `country` defaults to US |
 | `operator` | string | | Owning institution/brand if distinct from name |
 | `website` | url | | |
+| `annual_attendance` | object | | Most recent publicly reported annual visitorship: `figure` (integer), `year` (reporting year), `source` (url — institutional report, AAM, TEA/AECOM Museum Index, etc.). Record only published figures; never estimate. |
 | `sources` | list of urls | | |

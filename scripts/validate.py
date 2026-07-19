@@ -230,6 +230,12 @@ def validate_projects(projects, firms, venues, vocab, findings):
                 findings.append(Finding("error", rel, "credits", "credit missing 'role'"))
             elif crole not in vocab["roles"]:
                 findings.append(Finding("error", rel, "credits", f"'{crole}' is not in vocabularies.yaml roles"))
+        for award in rec.get("recognition") or []:
+            if not isinstance(award, dict) or not award.get("award") or not award.get("year") or not award.get("source"):
+                findings.append(Finding("error", rel, "recognition", f"each recognition entry needs award, year, source: {award}"))
+                continue
+            check_year(award.get("year"), rel, "recognition.year", findings)
+            check_url(award.get("source"), rel, "recognition.source", findings)
         summary = require(rec, rel, "summary", findings)
         check_text_artifacts(summary, rel, "summary", findings)
         check_text_artifacts(rec.get("description"), rel, "description", findings)
@@ -247,6 +253,15 @@ def validate_venues(venues, vocab, findings):
         if vtype and vtype not in vocab["venue_types"]:
             findings.append(Finding("error", rel, "venue_type", f"'{vtype}' is not a valid venue_type"))
         check_place(rec, rel, "location", findings)
+        att = rec.get("annual_attendance")
+        if att is not None:
+            if not isinstance(att, dict) or not att.get("figure") or not att.get("year") or not att.get("source"):
+                findings.append(Finding("error", rel, "annual_attendance", "needs figure, year, and source (a published figure — never an estimate)"))
+            else:
+                if not isinstance(att.get("figure"), int) or att["figure"] <= 0:
+                    findings.append(Finding("error", rel, "annual_attendance", f"figure '{att.get('figure')}' must be a positive integer"))
+                check_year(att.get("year"), rel, "annual_attendance.year", findings)
+                check_url(att.get("source"), rel, "annual_attendance.source", findings)
         check_url(rec.get("website"), rel, "website", findings)
 
 

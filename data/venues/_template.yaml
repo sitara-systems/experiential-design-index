@@ -9,4 +9,8 @@ location:
   state: CO
 # operator: Example Foundation   # if distinct from the venue name
 website: https://example-museum.org
+# annual_attendance:              # only if publicly reported — never estimate
+#   figure: 1200000
+#   year: 2025
+#   source: https://example-museum.org/annual-report-2025
 sources: []
