@@ -1,0 +1,9 @@
+id: canadian-museum-of-nature
+name: Canadian Museum of Nature
+venue_type: natural-history-museum
+location:
+  city: Ottawa
+  state: "ON"
+  country: CA
+sources:
+  - https://nature.ca/

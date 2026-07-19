@@ -1,0 +1,36 @@
+id: massey-hall-exhibits
+name: Massey Hall Exhibits
+venue: massey-hall
+project_type: major-renovation
+year_completed: 2022
+credits:
+  - firm: kpmb-architects
+    role: architecture
+    note: "Lead architect; no firm record yet"
+  - firm: gbca-architects
+    role: architecture
+    note: "Heritage consultant; no firm record yet"
+  - firm: reich-petch
+    role: exhibit-design
+  - firm: holman-exhibits
+    role: fabrication
+    note: "No firm record yet"
+  - firm: charcoalblue
+    role: technical-consulting
+    note: "Theatre/venue-design consulting; no firm record yet"
+technologies: []
+recognition:
+  - award: "Heritage Toronto Built Heritage Award"
+    year: 2022
+    note: "Nomination"
+    source: https://www.heritagetoronto.org/
+summary: >
+  Exhibits within the restored/expanded Massey Hall, Toronto, completed
+  2022; architecture by KPMB Architects with heritage consultant GBCA
+  Architects, exhibit design by Reich+Petch, fabrication by Holman
+  Exhibits, per Heritage Toronto's award nomination page and
+  blooloop's independent coverage.
+description: ""
+sources:
+  - https://www.heritagetoronto.org/
+  - https://blooloop.com/

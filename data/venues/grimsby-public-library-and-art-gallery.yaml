@@ -1,0 +1,9 @@
+id: grimsby-public-library-and-art-gallery
+name: Grimsby Public Library and Art Gallery
+venue_type: library-archive
+location:
+  city: Grimsby
+  state: "ON"
+  country: CA
+sources:
+  - https://www.grimsby.ca/

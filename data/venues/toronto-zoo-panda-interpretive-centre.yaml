@@ -1,0 +1,9 @@
+id: toronto-zoo-panda-interpretive-centre
+name: Toronto Zoo Panda Interpretive Centre
+venue_type: aquarium-zoo
+location:
+  city: Toronto
+  state: "ON"
+  country: CA
+sources:
+  - https://www.insidetoronto.com/

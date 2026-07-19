@@ -1,0 +1,19 @@
+id: royal-ontario-museum-toy-soldiers
+name: Toy Soldiers Gallery
+venue: royal-ontario-museum
+project_type: new-exhibition
+year_completed: 2019
+credits:
+  - firm: reich-petch
+    role: exhibit-design
+  - firm: ngx-interactive
+    role: media-design
+    note: "No firm record yet"
+technologies: []
+summary: >
+  The Toy Soldiers gallery at the Royal Ontario Museum, Toronto, opened
+  ~2019; exhibit design by Reich+Petch, interactive media by NGX
+  Interactive, per NGX Interactive's own independent project page.
+description: ""
+sources:
+  - https://www.ngxinteractive.com/

@@ -1,0 +1,9 @@
+id: ontario-science-centre-teluscape
+name: "Ontario Science Centre — TELUSCAPE Exploration Plaza"
+venue_type: science-center
+location:
+  city: Toronto
+  state: "ON"
+  country: CA
+sources:
+  - https://savesciencecentre.com/

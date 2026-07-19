@@ -1,0 +1,9 @@
+id: philip-j-currie-dinosaur-museum
+name: Philip J. Currie Dinosaur Museum
+venue_type: natural-history-museum
+location:
+  city: Wembley
+  state: AB
+  country: CA
+sources:
+  - https://www.cbc.ca/

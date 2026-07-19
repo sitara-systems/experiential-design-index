@@ -1,0 +1,20 @@
+id: grimsby-public-library-and-art-gallery-core
+name: Grimsby Public Library and Art Gallery
+venue: grimsby-public-library-and-art-gallery
+project_type: new-building
+year_completed: 2004
+credits:
+  - firm: reich-petch
+    role: architecture
+  - firm: shore-tilbe-irwin-and-partners
+    role: architecture
+    note: "Joint venture, lead per \"commissioned to\" phrasing; no firm record yet"
+technologies: []
+summary: >
+  The Grimsby Public Library and Art Gallery, Grimsby, ON, opened 2004;
+  architecture by a Reich+Petch/Shore Tilbe Irwin and Partners joint
+  venture, per the library's own site and the Town of Grimsby's own
+  site.
+description: ""
+sources:
+  - https://www.grimsby.ca/

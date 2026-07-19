@@ -4,11 +4,25 @@ venue: national-museum-of-the-american-indian
 project_type: temporary-exhibition
 year_completed: 2014
 credits:
-  - firm: r-and-p-design
+  - firm: reich-petch
     role: exhibit-design
-    note: "Design-build process in partnership with Hadley Exhibits; no firm record yet"
+    note: "Design-build process in partnership with Hadley Exhibits"
   - firm: hadley-exhibits
     role: fabrication
+  - firm: available-light
+    role: lighting-design
+  - firm: sh-acoustics
+    role: acoustics
+  - firm: electrosonic
+    role: av-integration
+  - firm: ewingcole
+    role: architecture
+  - firm: the-protection-engineering-group
+    role: technical-consulting
+    note: "No firm record yet"
+  - firm: people-places-design-and-research
+    role: interpretive-planning
+    note: "No firm record yet"
 technologies:
   - object cases
   - projected media
@@ -28,3 +42,4 @@ sources:
   - https://www.designrp.com/projects/smithsonians-treaties-exhibition/
   - https://americanindian.si.edu/nationtonation/
   - https://blog.nmai.si.edu/main/2014/09/a-new-chapter.html
+  - https://www.canadianinteriors.com/

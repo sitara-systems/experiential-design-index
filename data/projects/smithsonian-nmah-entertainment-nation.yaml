@@ -11,6 +11,12 @@ credits:
   - firm: ewingcole
     role: architecture
     note: "Infrastructure/engineering scope for the flexible \"black box\" gallery (modular power/data systems)"
+  - firm: unified-field
+    role: media-design
+    note: "Per RGD.ca (rendered as \"United Field\" in that source, likely a typo)"
+  - firm: big-show
+    role: av-integration
+    note: "Media hardware integration; no firm record yet"
 technologies: []
 summary: >
   Entertainment Nation/Nación del espectáculo, a permanent exhibition in
@@ -20,3 +26,4 @@ summary: >
 description: ""
 sources:
   - https://designrp.com/projects/smithsonian-institution-entertainment-nation/
+  - https://www.rgd.ca/

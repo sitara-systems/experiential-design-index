@@ -1,0 +1,9 @@
+id: massey-hall
+name: Massey Hall
+venue_type: cultural-center
+location:
+  city: Toronto
+  state: "ON"
+  country: CA
+sources:
+  - https://www.heritagetoronto.org/

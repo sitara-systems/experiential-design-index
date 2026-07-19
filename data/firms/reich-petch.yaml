@@ -7,7 +7,7 @@ aka:
 website: https://designrp.com
 hq:
   city: Toronto
-  state: ON
+  state: "ON"
   country: CA
 other_offices:
   - city: New York
@@ -22,10 +22,14 @@ roles:
 status: active
 status_basis: >
   Actively updated project portfolio at designrp.com (60+ projects listed);
-  Toronto Holocaust Museum and Canadian Museum for Gender and Sexual
-  Diversity credited as recent/in-process work; ongoing LinkedIn company
-  page activity.
-status_verified: 2026-07-18
+  Massey Hall Exhibits (2022), TD Brand Experience (2024), and the NCC
+  River House Riverkeeper Learning Lab (2025) confirm current activity;
+  ongoing LinkedIn company page activity. (The Canadian Museum for Gender
+  and Sexual Diversity, previously cited here, was only ever a 2018
+  conceptual/feasibility masterplan; the sponsoring organization dissolved
+  in bankruptcy October 2024 and the museum was never built — removed as
+  status evidence.)
+status_verified: 2026-07-19
 summary: >
   Reich+Petch (also operating as R&P Design; formerly Reich & Petch Design
   International) is a multidisciplinary architecture and exhibit-design
