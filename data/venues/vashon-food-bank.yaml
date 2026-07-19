@@ -1,0 +1,8 @@
+id: vashon-food-bank
+name: Vashon Food Bank
+venue_type: other
+location:
+  city: Vashon
+  state: WA
+sources:
+  - https://grahambaba.com/vashon-food-bank

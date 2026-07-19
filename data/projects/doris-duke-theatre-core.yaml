@@ -1,0 +1,20 @@
+id: doris-duke-theatre-core
+name: Doris Duke Theatre
+venue: jacobs-pillow-doris-duke-theatre
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: marvel
+    role: architecture
+    note: "No firm record yet"
+  - firm: fisher-marantz-stone
+    role: lighting-design
+technologies: []
+summary: >
+  The Doris Duke Theatre at Jacob's Pillow in Becket, Massachusetts,
+  rebuilt after a 2020 fire, opened July 9, 2025; lighting design by
+  Fisher Marantz Stone.
+description: ""
+sources:
+  - https://www.fmsp.com/projects/doris-duke-theatre-at-jacobs-pillow/
+  - https://www.bostonglobe.com/2025/05/16/arts/jacobs-pillow-new-theater-doris-duke/

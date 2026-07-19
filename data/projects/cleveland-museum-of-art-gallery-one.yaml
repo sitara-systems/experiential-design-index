@@ -12,6 +12,8 @@ credits:
   - firm: local-projects
     role: media-design
     note: "All media design; collaborated with museum staff on concept development, including the interactive Collection Wall and ArtLens app"
+  - firm: explus
+    role: fabrication
 technologies:
   - interactive touch wall
   - gesture-based interaction

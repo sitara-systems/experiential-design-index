@@ -1,0 +1,24 @@
+id: seattle-center-armory-renovation
+name: The Armory Renovation (Phase 1)
+venue: seattle-center-armory
+project_type: major-renovation
+year_completed: 2012
+credits:
+  - firm: graham-baba-architects
+    role: architecture
+    note: "Phase 1"
+  - firm: studio-matthews
+    role: graphics-wayfinding
+    note: "Branding, interpretation, and wayfinding"
+technologies: []
+summary: >
+  A renovation and rebranding of Seattle Center's Armory building into a
+  food-hall/civic gathering space, opened 2012; architecture by Graham
+  Baba Architects, branding and wayfinding by Studio Matthews.
+description: >
+  A distinct Phase 2 refresh occurred in 2021 under a different
+  architect; this record covers Phase 1 only.
+sources:
+  - https://grahambaba.com/the-armory
+  - https://studiomatthews.com/project/seattle-center-armory/
+  - https://www.seattlemet.com/eat-and-drink/2012/07/slide-show-inside-seattle-center-armory-july-2012

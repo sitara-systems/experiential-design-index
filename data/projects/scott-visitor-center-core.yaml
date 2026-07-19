@@ -1,0 +1,36 @@
+id: scott-visitor-center-core
+name: Scott Visitor Center
+venue: scott-visitor-center-summit-bechtel
+project_type: new-building
+year_completed: 2014
+credits:
+  - firm: bnim
+    role: architecture
+    note: "Architect of record; no firm record yet"
+  - firm: lake-flato-architects
+    role: architecture
+    note: "Co-architect; no firm record yet"
+  - firm: volume-inc
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: studio-terpeluk
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: group-delphi
+    role: fabrication
+    note: "Credited as \"Delphi Productions\" (pre-2009 firm name) on SEGD's award page"
+recognition:
+  - award: "SEGD Global Design Awards — Merit Award"
+    year: 2017
+    source: https://segd.org/boy-scout-scott-visitor-center
+technologies: []
+summary: >
+  The Scott Visitor Center at the Boy Scouts of America's Summit Bechtel
+  Reserve in Glen Jean, West Virginia, opened 2014; architecture by BNIM
+  with Lake|Flato Architects, exhibit design by Volume Inc. and Studio
+  Terpeluk, fabrication by Group Delphi (credited as Delphi Productions).
+description: ""
+sources:
+  - https://segd.org/boy-scout-scott-visitor-center
+  - https://www.bnim.com/project/scott-visitor-center-summit-bechtel-scout-reserve
+  - https://volumesf.com/work/boy-scout-visitor-center/

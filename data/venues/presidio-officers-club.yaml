@@ -1,0 +1,8 @@
+id: presidio-officers-club
+name: Presidio Officers' Club
+venue_type: cultural-center
+location:
+  city: San Francisco
+  state: CA
+sources:
+  - https://raai.com/project/presidio-officers-club/

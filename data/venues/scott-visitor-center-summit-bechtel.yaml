@@ -1,0 +1,8 @@
+id: scott-visitor-center-summit-bechtel
+name: Scott Visitor Center, Summit Bechtel Reserve
+venue_type: visitor-center
+location:
+  city: Glen Jean
+  state: WV
+sources:
+  - https://segd.org/boy-scout-scott-visitor-center

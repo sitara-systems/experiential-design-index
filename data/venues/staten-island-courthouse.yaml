@@ -1,0 +1,8 @@
+id: staten-island-courthouse
+name: Staten Island Courthouse
+venue_type: other
+location:
+  city: Staten Island
+  state: NY
+sources:
+  - https://ennead.com/work/staten-island-courthouse/

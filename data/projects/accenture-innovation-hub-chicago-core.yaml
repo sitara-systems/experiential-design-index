@@ -1,0 +1,21 @@
+id: accenture-innovation-hub-chicago-core
+name: Accenture Innovation Hub
+venue: accenture-tower-innovation-hub
+project_type: major-renovation
+year_completed: 2023
+credits:
+  - firm: gensler
+    role: architecture
+  - firm: gensler
+    role: exhibit-design
+    note: "Digital experience design, experience strategy, interior design, software development"
+technologies: []
+summary: >
+  A multi-floor Innovation Hub within Accenture's Chicago headquarters
+  tower, used by both employees and visiting clients for briefings and
+  demos, completed 2023; architecture and experience design by Gensler.
+description: ""
+sources:
+  - https://dxd.gensler.com/case-studies/accenture-innovation-gallery
+  - https://www.gensler.com/projects/accenture-chicago-headquarters
+  - https://design-milk.com/gensler-redefines-the-workplace-with-a-multi-floor-vertical-city/

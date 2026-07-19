@@ -1,0 +1,8 @@
+id: chicago-public-library-chinatown-branch
+name: Chicago Public Library, Chinatown Branch
+venue_type: library-archive
+location:
+  city: Chicago
+  state: IL
+sources:
+  - https://www.fmsp.com/projects/chicago-public-library-chinatown-branch/

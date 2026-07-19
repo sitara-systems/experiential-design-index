@@ -1,0 +1,23 @@
+id: pittsburgh-airport-terminal-modernization
+name: Terminal Modernization Program
+venue: pittsburgh-international-airport
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: fisher-marantz-stone
+    role: lighting-design
+  - firm: studio-fractal
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: obj-landscape-architecture
+    role: landscape-architecture
+    note: "No firm record yet"
+technologies: []
+summary: >
+  A new terminal building at Pittsburgh International Airport opened
+  November 18, 2025, with lighting design by Fisher Marantz Stone and
+  Studio Fractal.
+description: ""
+sources:
+  - https://www.fmsp.com/projects/pittsburgh-international-airport/
+  - https://www.wesa.fm/development-transportation/2025-11-10/pittsburgh-international-airport-new-terminal-opens

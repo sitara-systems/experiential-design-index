@@ -1,0 +1,24 @@
+id: brooklyn-museum-sackler-center-core
+name: Elizabeth A. Sackler Center for Feminist Art
+venue: brooklyn-museum-sackler-center
+project_type: major-renovation
+year_completed: 2007
+credits:
+  - firm: ennead-architects
+    role: architecture
+  - firm: leni-schwendinger-light-projects
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: poulin-morris
+    role: graphics-wayfinding
+  - firm: shen-milsom-and-wilke
+    role: av-integration
+    note: "No firm record yet"
+technologies: []
+summary: >
+  The Elizabeth A. Sackler Center for Feminist Art, a permanent center
+  within the Brooklyn Museum housing Judy Chicago's "The Dinner Party,"
+  opened 2007; architecture by Ennead Architects.
+description: ""
+sources:
+  - https://ennead.com/work/sackler/

@@ -10,12 +10,22 @@ credits:
     role: fabrication
   - firm: electrosonic
     role: av-integration
+  - firm: gensler
+    role: architecture
+    note: "Gensler DXD also collaborated on the Ebbets Field model concept and video wall design"
+  - firm: ideum
+    role: fabrication
+    note: "Exhibit fabrication and AV design/build for the Ebbets Field model and other interactives"
+  - firm: cortina-productions
+    role: media-design
+    note: "8 media exhibits, intro film, interactive pledge wall, scoreboard content"
 technologies: []
 summary: >
   The Jackie Robinson Museum, a new museum in Lower Manhattan, New York
   City honoring Jackie Robinson's life and legacy, opened to the public
-  July 26, 2022, with exhibit design by Ralph Appelbaum Associates,
-  fabrication by Hadley Exhibits, and AV integration by Electrosonic.
+  July 26, 2022; architecture by Gensler, exhibit design by Ralph
+  Appelbaum Associates, fabrication by Hadley Exhibits and Ideum, media
+  design by Cortina Productions, and AV integration by Electrosonic.
 description: >
   Distinct from the museum's separately recorded Ebbets Field model
   installation; this record covers the museum's core exhibition program.

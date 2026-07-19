@@ -1,0 +1,28 @@
+id: eisenhower-memorial-core
+name: Dwight D. Eisenhower Memorial
+venue: dwight-d-eisenhower-memorial
+project_type: new-building
+year_completed: 2020
+credits:
+  - firm: gehry-partners
+    role: architecture
+  - firm: tomas-osinski-fabritec-structures
+    role: fabrication
+    note: >
+      Designed and fabricated the 450-foot stainless-steel mesh tapestry
+      depicting Pointe du Hoc, using custom-programmed CNC equipment;
+      no firm record yet.
+technologies: []
+summary: >
+  The Dwight D. Eisenhower Memorial, a four-acre National Mall park in
+  Washington, DC designed by Frank Gehry of Gehry Partners, opened
+  September 2020, with a 450-foot stainless-steel tapestry depicting
+  the cliffs of Normandy designed and fabricated by Tomas Osinski
+  FabriTec Structures.
+description: >
+  Distinct from the unrelated Dwight D. Eisenhower Presidential Library
+  and Museum in Abilene, KS.
+sources:
+  - https://en.wikipedia.org/wiki/Dwight_D._Eisenhower_Memorial
+  - https://www.archpaper.com
+  - https://www.tomasosinski.com

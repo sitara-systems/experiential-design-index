@@ -1,0 +1,9 @@
+id: dwight-d-eisenhower-memorial
+name: Dwight D. Eisenhower Memorial
+venue_type: public-space
+location:
+  city: Washington
+  state: DC
+operator: National Park Service
+sources:
+  - https://en.wikipedia.org/wiki/Dwight_D._Eisenhower_Memorial

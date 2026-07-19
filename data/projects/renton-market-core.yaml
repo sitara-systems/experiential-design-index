@@ -1,0 +1,30 @@
+id: renton-market-core
+name: Renton Market
+venue: renton-market
+project_type: new-building
+year_completed: 2026
+credits:
+  - firm: graham-baba-architects
+    role: architecture
+  - firm: studio-matthews
+    role: graphics-wayfinding
+    note: "Branding and environmental graphics"
+  - firm: hewitt
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: sparklab
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: tenor-engineering
+    role: acoustics
+    note: "No firm record yet"
+technologies: []
+summary: >
+  Renton Market, an adaptive reuse of a former event center into a
+  year-round market in Renton, Washington, opened June 2026;
+  architecture by Graham Baba Architects, branding and environmental
+  graphics by Studio Matthews.
+description: ""
+sources:
+  - https://grahambaba.com/renton-market
+  - https://hoodline.com/2026/03/renton-pavilion-gets-10-million-glow-up-as-year-round-market-nears-takeoff/

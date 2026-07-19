@@ -1,0 +1,22 @@
+id: chicago-library-chinatown-branch-core
+name: Chicago Public Library, Chinatown Branch
+venue: chicago-public-library-chinatown-branch
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: skidmore-owings-and-merrill
+    role: architecture
+  - firm: wight-and-company
+    role: architecture
+    note: "Architect of record; no firm record yet"
+  - firm: fisher-marantz-stone
+    role: lighting-design
+    note: "LED atrium lighting, mural highlighting"
+technologies: []
+summary: >
+  The Chicago Public Library's Chinatown Branch, opened 2015;
+  architecture by Skidmore, Owings & Merrill with Wight & Company,
+  lighting design by Fisher Marantz Stone.
+description: ""
+sources:
+  - https://www.fmsp.com/projects/chicago-public-library-chinatown-branch/

@@ -1,0 +1,8 @@
+id: accenture-tower-innovation-hub
+name: Accenture Innovation Hub
+venue_type: briefing-center
+location:
+  city: Chicago
+  state: IL
+sources:
+  - https://dxd.gensler.com/case-studies/accenture-innovation-gallery

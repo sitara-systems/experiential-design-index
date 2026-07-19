@@ -1,0 +1,8 @@
+id: denver-museum-of-nature-and-science
+name: Denver Museum of Nature and Science
+venue_type: natural-history-museum
+location:
+  city: Denver
+  state: CO
+sources:
+  - https://en.wikipedia.org/wiki/Denver_Museum_of_Nature_and_Science

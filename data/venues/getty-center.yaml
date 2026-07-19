@@ -1,0 +1,9 @@
+id: getty-center
+name: Getty Center
+venue_type: art-museum
+location:
+  city: Los Angeles
+  state: CA
+operator: J. Paul Getty Trust
+sources:
+  - https://www.getty.edu

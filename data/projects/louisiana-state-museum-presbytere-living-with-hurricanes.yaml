@@ -8,6 +8,17 @@ credits:
     role: av-integration
   - firm: solomon-group
     role: lighting-design
+  - firm: explus
+    role: fabrication
+  - firm: marks-and-spaces
+    role: exhibit-design
+    note: "Design lead 2006-2011; no firm record yet"
+  - firm: experience-design
+    role: exhibit-design
+    note: "Boston-based, worked with Marks + Spaces; no firm record yet"
+  - firm: a-more-perfect-union
+    role: content-production
+    note: "Credited as Media Partner; no firm record yet"
 technologies:
   - show control system
   - LED video screens

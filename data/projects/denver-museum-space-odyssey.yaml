@@ -1,0 +1,25 @@
+id: denver-museum-space-odyssey
+name: Space Odyssey
+venue: denver-museum-of-nature-and-science
+project_type: new-exhibition
+year_completed: 2003
+credits:
+  - firm: pfeiffer-partners
+    role: architecture
+    note: "No firm record yet"
+  - firm: gyroscope-inc
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: group-delphi
+    role: fabrication
+technologies: []
+summary: >
+  Space Odyssey, a permanent space-science exhibition at the Denver
+  Museum of Nature and Science, opened 2003; architecture by Pfeiffer
+  (now part of Perkins Eastman), exhibit design by Gyroscope Inc.,
+  fabrication by Group Delphi.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Denver_Museum_of_Nature_and_Science
+  - https://www.perkinseastman.com/projects/denver-museum-of-nature-and-science-space-odyssey/
+  - https://web.archive.org/web/20210623001640/https://museums.groupdelphi.com/portfolio/denver/

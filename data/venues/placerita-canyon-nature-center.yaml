@@ -1,0 +1,8 @@
+id: placerita-canyon-nature-center
+name: Placerita Canyon Nature Center
+venue_type: visitor-center
+location:
+  city: Santa Clarita
+  state: CA
+sources:
+  - https://scvnews.com/placerita-nature-center-hosts-grand-re-opening/

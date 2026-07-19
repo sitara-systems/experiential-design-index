@@ -1,0 +1,25 @@
+id: vashon-food-bank-core
+name: Vashon Food Bank
+venue: vashon-food-bank
+project_type: new-building
+year_completed: 2026
+credits:
+  - firm: graham-baba-architects
+    role: architecture
+  - firm: niteo
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: hewitt
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: tenor-engineering
+    role: acoustics
+    note: "No firm record yet"
+technologies: []
+summary: >
+  A new building for the Vashon Food Bank on Vashon Island, Washington,
+  opened March 2026; architecture by Graham Baba Architects.
+description: ""
+sources:
+  - https://grahambaba.com/vashon-food-bank
+  - https://www.vashonbeachcomber.com/2026/03/18/a-new-home-for-the-vashon-food-bank/

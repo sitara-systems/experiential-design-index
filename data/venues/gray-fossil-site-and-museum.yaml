@@ -1,0 +1,9 @@
+id: gray-fossil-site-and-museum
+name: Gray Fossil Site & Museum
+venue_type: natural-history-museum
+location:
+  city: Gray
+  state: TN
+operator: East Tennessee State University
+sources:
+  - https://www.etsu.edu/naturalhistorymuseum/

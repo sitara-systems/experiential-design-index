@@ -1,0 +1,8 @@
+id: indianapolis-museum-of-art
+name: Indianapolis Museum of Art (Newfields)
+venue_type: art-museum
+location:
+  city: Indianapolis
+  state: IN
+sources:
+  - https://www.fmsp.com/projects/indianapolis-museum-of-art/

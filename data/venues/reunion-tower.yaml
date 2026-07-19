@@ -1,0 +1,8 @@
+id: reunion-tower
+name: Reunion Tower
+venue_type: themed-attraction
+location:
+  city: Dallas
+  state: TX
+sources:
+  - https://www.gensler.com/projects/reunion-tower-observation-deck-and-cafe

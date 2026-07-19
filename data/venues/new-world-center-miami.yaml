@@ -1,0 +1,9 @@
+id: new-world-center-miami
+name: New World Center
+venue_type: cultural-center
+location:
+  city: Miami Beach
+  state: FL
+operator: New World Symphony
+sources:
+  - https://en.wikipedia.org/wiki/New_World_Center_(Miami_Beach)

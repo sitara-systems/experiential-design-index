@@ -1,0 +1,8 @@
+id: renton-market
+name: Renton Market
+venue_type: public-space
+location:
+  city: Renton
+  state: WA
+sources:
+  - https://grahambaba.com/renton-market

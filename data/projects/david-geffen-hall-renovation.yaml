@@ -1,0 +1,26 @@
+id: david-geffen-hall-renovation
+name: David Geffen Hall Renovation
+venue: david-geffen-hall
+project_type: major-renovation
+year_completed: 2022
+credits:
+  - firm: tod-williams-billie-tsien-architects
+    role: architecture
+    note: "Public spaces"
+  - firm: diamond-schmitt-architects
+    role: architecture
+    note: "Concert hall; no firm record yet"
+  - firm: fisher-marantz-stone
+    role: lighting-design
+technologies: []
+summary: >
+  A renovation of David Geffen Hall at Lincoln Center in New York,
+  completed 2022, with architecture by Tod Williams Billie Tsien
+  Architects (public spaces) and Diamond Schmitt Architects (concert
+  hall), lighting design by Fisher Marantz Stone.
+description: >
+  Distinct from the venue's separately recorded digital-signage/
+  experience layer (ESI Design/AV&C).
+sources:
+  - https://www.fmsp.com/projects/david-geffen-hall/
+  - https://www.architecturalrecord.com/articles/15955-diamond-schmitt-and-tod-williams-billie-tsien-architects-reimagine-david-geffen-hall

@@ -1,0 +1,8 @@
+id: barnes-foundation
+name: The Barnes Foundation
+venue_type: art-museum
+location:
+  city: Philadelphia
+  state: PA
+sources:
+  - https://www.fmsp.com/projects/the-barnes-foundation/

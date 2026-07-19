@@ -1,0 +1,8 @@
+id: pacific-science-center
+name: Pacific Science Center
+venue_type: science-center
+location:
+  city: Seattle
+  state: WA
+sources:
+  - https://www.pacificsciencecenter.org/

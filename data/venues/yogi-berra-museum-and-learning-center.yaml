@@ -1,0 +1,8 @@
+id: yogi-berra-museum-and-learning-center
+name: Yogi Berra Museum & Learning Center
+venue_type: sports-venue
+location:
+  city: Little Falls
+  state: NJ
+sources:
+  - https://www.yogiberramuseum.org/

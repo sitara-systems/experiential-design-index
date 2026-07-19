@@ -12,6 +12,8 @@ credits:
   - firm: nca-architects
     role: architecture
     note: "No firm record yet"
+  - firm: explus
+    role: fabrication
 technologies:
   - interactives
   - touch installations

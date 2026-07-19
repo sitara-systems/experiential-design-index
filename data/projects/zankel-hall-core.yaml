@@ -1,0 +1,21 @@
+id: zankel-hall-core
+name: Judy and Arthur Zankel Hall
+venue: zankel-hall-carnegie-hall
+project_type: major-renovation
+year_completed: 2003
+credits:
+  - firm: ennead-architects
+    role: architecture
+  - firm: auerbach-pollock-friedlander
+    role: technical-consulting
+    note: "Theater consultant; no firm record yet"
+technologies: []
+summary: >
+  Judy and Arthur Zankel Hall, a 599-seat recital/performance space
+  built into Carnegie Hall's basement in New York, opened 2003;
+  architecture by Ennead Architects.
+description: >
+  Distinct from Carnegie Hall's older Weill Recital Hall restoration
+  (1986-87).
+sources:
+  - https://ennead.com/work/zankel/

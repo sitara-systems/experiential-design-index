@@ -1,0 +1,8 @@
+id: calpine-geothermal-visitor-center
+name: Calpine Geothermal Visitor Center
+venue_type: visitor-center
+location:
+  city: Middletown
+  state: CA
+sources:
+  - https://www.gyroscopeinc.com/calpine

@@ -1,0 +1,21 @@
+id: yale-university-art-gallery-renovation
+name: Renovation and Expansion
+venue: yale-university-art-gallery
+project_type: major-renovation
+year_completed: 2012
+credits:
+  - firm: ennead-architects
+    role: architecture
+  - firm: hefferan-partnership-lighting-design
+    role: lighting-design
+    note: "No firm record yet"
+technologies: []
+summary: >
+  A renovation and expansion of the Yale University Art Gallery in New
+  Haven, Connecticut, completed 2012 (phased since 2006); architecture
+  by Ennead Architects.
+description: ""
+sources:
+  - https://ennead.com/work/yale/
+  - https://www.architectmagazine.com
+  - https://artgallery.yale.edu

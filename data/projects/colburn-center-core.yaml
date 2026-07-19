@@ -1,0 +1,28 @@
+id: colburn-center-core
+name: Colburn Center
+venue: colburn-center-los-angeles
+project_type: new-building
+status: announced
+year_expected: 2027
+credits:
+  - firm: gehry-partners
+    role: architecture
+  - firm: nagata-acoustics
+    role: acoustics
+    note: "Yasuhisa Toyota credited as acoustician"
+  - firm: theatredna
+    role: technical-consulting
+    note: "Michael Ferguson credited as theatre consultant"
+technologies: []
+summary: >
+  The Colburn Center, a 100,000 sq ft expansion of the Colburn School's
+  downtown Los Angeles campus designed by Gehry Partners, broke ground
+  April 2024 and topped out July 2025; its centerpiece 1,000-seat Terri
+  and Jerry Kohl Hall has acoustic design by Nagata Acoustics and
+  theatre consulting by TheatreDNA, with completion expected 2027.
+description: ""
+sources:
+  - https://colburnschool.edu
+  - https://www.architecturalrecord.com
+  - https://www.violinist.com
+  - https://www.archdaily.com

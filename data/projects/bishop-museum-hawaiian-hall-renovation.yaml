@@ -1,0 +1,24 @@
+id: bishop-museum-hawaiian-hall-renovation
+name: Hawaiian Hall Renovation
+venue: bishop-museum
+project_type: major-renovation
+year_completed: 2009
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: group-delphi
+    role: fabrication
+  - firm: group-delphi
+    role: av-integration
+    note: "Large-screen projection integration"
+technologies:
+  - large-screen projection
+summary: >
+  A renovation of Hawaiian Hall at the Bernice Pauahi Bishop Museum in
+  Honolulu, reopened August 2009 after a 2005-2009 project; exhibit
+  design by Ralph Appelbaum Associates, fabrication and AV integration
+  by Group Delphi.
+description: ""
+sources:
+  - https://raai.com/project/hawaiian-hall-bernice-pauahi-bishop-museum/
+  - https://web.archive.org/web/20211021050723/https://museums.groupdelphi.com/portfolio/the-bernice-pauahi-bishop-museum/

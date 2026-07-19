@@ -1,0 +1,8 @@
+id: clark-art-institute
+name: The Clark Art Institute
+venue_type: art-museum
+location:
+  city: Williamstown
+  state: MA
+sources:
+  - https://www.fmsp.com/projects/the-clark-art-institute-stone-hill-center/

@@ -1,0 +1,8 @@
+id: lincoln-motor-car-heritage-museum
+name: Lincoln Motor Car Heritage Museum
+venue_type: history-museum
+location:
+  city: Hickory Corners
+  state: MI
+sources:
+  - https://lincolncarmuseum.org/

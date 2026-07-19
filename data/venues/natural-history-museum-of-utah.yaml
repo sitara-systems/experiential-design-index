@@ -1,0 +1,9 @@
+id: natural-history-museum-of-utah
+name: Natural History Museum of Utah (Rio Tinto Center)
+venue_type: natural-history-museum
+location:
+  city: Salt Lake City
+  state: UT
+operator: University of Utah
+sources:
+  - https://ennead.com/work/utah/

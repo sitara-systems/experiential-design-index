@@ -1,0 +1,40 @@
+id: new-world-center-core
+name: New World Center
+venue: new-world-center-miami
+project_type: new-building
+year_completed: 2011
+credits:
+  - firm: gehry-partners
+    role: architecture
+  - firm: nagata-acoustics
+    role: acoustics
+    note: "No firm record yet"
+  - firm: acoustic-dimensions
+    role: av-integration
+    note: "Sound & projection consultant for the WALLCAST outdoor system; no firm record yet"
+  - firm: sonitus
+    role: av-integration
+    note: "Co-credited sound & projection consultant; no firm record yet"
+  - firm: lam-partners
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: theatredna
+    role: technical-consulting
+    note: >
+      Theatre consulting; TheatreDNA's own page states this 2010 work was
+      performed by its principals "as individual effort while at a
+      previous firm" before TheatreDNA existed under that name.
+technologies:
+  - outdoor projection and simulcast (WALLCAST)
+summary: >
+  The New World Center, home of the New World Symphony in Miami Beach,
+  Florida, opened January 2011; architecture by Frank Gehry of Gehry
+  Partners, acoustical design by Nagata Acoustics, with a WALLCAST
+  outdoor projection/sound system enabling free public simulcast
+  viewing.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/New_World_Center_(Miami_Beach)
+  - https://www.nagata-i.com
+  - https://www.theatredna.com
+  - https://www.archdaily.com

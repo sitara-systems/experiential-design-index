@@ -1,0 +1,9 @@
+id: seattle-center-armory
+name: The Armory
+venue_type: public-space
+location:
+  city: Seattle
+  state: WA
+operator: Seattle Center
+sources:
+  - https://grahambaba.com/the-armory

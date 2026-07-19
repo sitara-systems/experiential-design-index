@@ -1,0 +1,29 @@
+id: reunion-tower-geo-deck-halo
+name: "GeO-Deck / The Halo"
+venue: reunion-tower
+project_type: major-renovation
+year_completed: 2013
+credits:
+  - firm: gensler
+    role: architecture
+  - firm: stimulant
+    role: media-design
+    note: "Interactive Halo display; no firm record yet"
+  - firm: group-delphi
+    role: fabrication
+  - firm: group-delphi
+    role: av-integration
+    note: "Motion-sensing, custom lighting/video sync software"
+technologies:
+  - interactive display
+  - motion sensing
+summary: >
+  A renovation of Reunion Tower's observation deck in Dallas, reopened
+  October 5, 2013, featuring the interactive "Halo" display; architecture
+  by Gensler, interactive media by Stimulant, fabrication and AV
+  integration by Group Delphi.
+description: ""
+sources:
+  - https://www.gensler.com/projects/reunion-tower-observation-deck-and-cafe
+  - https://www.stimulant.com/work/reunion-tower
+  - https://web.archive.org/web/20211021054423/https://museums.groupdelphi.com/portfolio/reunion-tower/

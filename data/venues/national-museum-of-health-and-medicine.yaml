@@ -1,0 +1,8 @@
+id: national-museum-of-health-and-medicine
+name: National Museum of Health and Medicine
+venue_type: history-museum
+location:
+  city: Silver Spring
+  state: MD
+sources:
+  - https://www.medicalmuseum.health.mil/

@@ -31,6 +31,9 @@ credits:
   - firm: eos-lightmedia
     role: lighting-design
     note: "Contracted to supply, install, and focus the majority of the exhibit lighting for the museum, per Eos Lightmedia's own project page."
+  - firm: fisher-marantz-stone
+    role: lighting-design
+    note: "Wayfinding through the museum, dramatic emphasis to artifact and architecture"
 technologies:
   - oral history platform
   - touchscreen interactives

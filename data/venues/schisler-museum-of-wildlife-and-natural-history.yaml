@@ -1,0 +1,9 @@
+id: schisler-museum-of-wildlife-and-natural-history
+name: Schisler Museum of Wildlife & Natural History
+venue_type: natural-history-museum
+location:
+  city: East Stroudsburg
+  state: PA
+operator: East Stroudsburg University
+sources:
+  - https://www.esu.edu/

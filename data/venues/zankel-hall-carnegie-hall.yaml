@@ -1,0 +1,9 @@
+id: zankel-hall-carnegie-hall
+name: Judy and Arthur Zankel Hall
+venue_type: cultural-center
+location:
+  city: New York
+  state: NY
+operator: Carnegie Hall
+sources:
+  - https://ennead.com/work/zankel/

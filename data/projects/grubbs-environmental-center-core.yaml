@@ -1,0 +1,23 @@
+id: grubbs-environmental-center-core
+name: Grubbs Environmental Center
+venue: grubbs-environmental-center
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: reich-petch
+    role: exhibit-design
+  - firm: explus
+    role: fabrication
+technologies: []
+summary: >
+  The Grubbs Environmental Center, an education center at the H.L. Mooney
+  Advanced Water Reclamation Facility in Woodbridge, Virginia (Prince
+  William County), opened October 2015 with public self-guided tours;
+  exhibit design by Reich+Petch, fabrication by Explus.
+description: >
+  Explus's own project page states this facility is in "Fairfax,
+  Virginia," which is incorrect; independent sourcing (Prince William
+  Water) confirms the Woodbridge, VA location used here.
+sources:
+  - https://www.explusinc.com/portfolio.html
+  - https://www.pwcsa.org/

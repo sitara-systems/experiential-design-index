@@ -1,0 +1,8 @@
+id: guam-museum
+name: Guam Museum
+venue_type: history-museum
+location:
+  city: Hagåtña
+  state: GU
+sources:
+  - https://www.guampedia.com/guam-museum/

@@ -1,0 +1,28 @@
+id: guam-museum-core-exhibits
+name: Guam Museum Core Exhibits
+venue: guam-museum
+project_type: new-building
+year_completed: 2016
+credits:
+  - firm: group-delphi
+    role: fabrication
+  - firm: group-delphi
+    role: av-integration
+  - firm: group-delphi
+    role: media-design
+    note: "180-degree curved-screen theater, custom content"
+technologies:
+  - curved-screen theater
+summary: >
+  The Guam Museum in Hagåtña, Guam, opened November 4, 2016; fabrication,
+  AV integration, and media production by Group Delphi.
+description: >
+  The building's architects were Andrew T. Laguaña and Enrico Cristobal
+  (individuals, not credited under the firms-only schema). Galaide Group
+  is sometimes cited as a design credit on Group Delphi's own materials,
+  but independent sourcing (Guampedia, postguam.com) indicates Galaide
+  Group was contracted to manage/operate the museum post-opening, not
+  design it; not credited here.
+sources:
+  - https://www.guampedia.com/guam-museum/
+  - https://web.archive.org/web/20210622235709/https://museums.groupdelphi.com/portfolio/guam-museum/

@@ -1,0 +1,24 @@
+id: moody-center-pixel-wall
+name: "Pixel Wall (Dell Wall)"
+venue: moody-center-austin
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: gensler
+    role: media-design
+    note: "Digital experience design, motion-tracking software"
+  - firm: design-communications-ltd
+    role: fabrication
+    note: "Engineered, fabricated, and prototyped the physical display-wall assembly"
+technologies:
+  - motion tracking
+summary: >
+  The Pixel Wall (Dell Wall), a concourse media installation at Moody
+  Center, the University of Texas at Austin's arena, opened with the
+  arena April 2022; digital experience design by Gensler, fabrication by
+  Design Communications Ltd.
+description: ""
+sources:
+  - https://dxd.gensler.com/case-studies/dell_moody_center
+  - https://snadisplays.com/projects/moody-center-dell-wall/
+  - https://news.utexas.edu/2022/04/19/multi-purpose-moody-center-opens/

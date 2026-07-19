@@ -1,0 +1,23 @@
+id: tk-elevator-iqc-core
+name: Innovation and Qualification Center
+venue: tk-elevator-innovation-and-qualification-center
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: gensler
+    role: architecture
+  - firm: gensler
+    role: exhibit-design
+    note: "Interior design, digital experience design, exhibit design, CMS development, content design/production, environmental graphics/wayfinding"
+technologies:
+  - LED mesh display
+summary: >
+  TK Elevator's North American headquarters and test tower (the tallest
+  elevator test tower in North America) at The Battery Atlanta, including
+  a public-facing showroom/experience center, opened February 9, 2022;
+  architecture and digital experience design by Gensler.
+description: ""
+sources:
+  - https://dxd.gensler.com/case-studies/tk-elevator
+  - https://www.tkelevator.com/us-en/company/news-archive/02-10-22-tke-opens-new-na-hq.html
+  - https://www.prnewswire.com/news-releases/tk-elevator-opens-new-north-american-headquarters-as-part-of-continued-investment-in-innovation-leadership-301479666.html

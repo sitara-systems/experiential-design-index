@@ -3,26 +3,39 @@
 
 id: group-delphi
 name: Group Delphi
-aka: []
+aka:
+  - Delphi Productions
 website: https://museums.groupdelphi.com
 hq:
   city: Alameda
   state: CA
+founded: 1989
 roles:
   - fabrication
-status: active
+  - av-integration
+  - media-design
+status: inactive
 status_basis: >
-  Live, actively maintained museum-exhibit portfolio site (museums.groupdelphi.com)
-  referencing ongoing work including the Perot Museum of Nature and Science.
-  Note: the firm's general/events-focused legacy domain (groupdelphi.com) is
-  dead/redirects elsewhere after Sparks acquired Group Delphi's separate
-  trade-show and events business in 2020; the museum-fabrication division
-  covered here continued operating independently under its own name.
-status_verified: 2026-07-18
+  REVERSAL of the 2026-07-18 "active" determination, based on new evidence:
+  museums.groupdelphi.com (the site that determination cited as evidence of
+  activity) is now dead (NXDOMAIN); the legacy groupdelphi.com domain
+  301-redirects to an unrelated third-party site, the signature of a lapsed
+  domain; the Wayback Machine has no real content capture since January
+  2022; an Indeed company-page review dated 2026-01-28 states "they're not
+  there anymore they closed"; and no confirmable completed project was
+  found after 2019 (Toyota Experience Center Plano). LinkedIn's company
+  page still reads as active but is self-maintained and weighted below the
+  above. Recommend an independent CA Secretary of State entity check
+  before treating this as fully final, but public evidence clears the
+  inactive bar. Operated 1989-2009 as Delphi Productions before merging
+  with Icon Exhibits.
+status_verified: 2026-07-19
 summary: >
-  Group Delphi is a museum exhibit fabrication company based in Alameda,
-  California, producing custom casework, interactives, and exhibit
-  components for science centers and museums.
+  Group Delphi (Delphi Productions until 2009) was a museum exhibit
+  fabrication, AV integration, and media-production company based in
+  Alameda, California, producing custom casework, interactives, and
+  exhibit components for science centers and museums.
 sources:
   - https://museums.groupdelphi.com/
   - https://www.prnewswire.com/news-releases/sparks-launches-multiphase-growth-plan-with-acquisition-of-group-delphis-trade-show-and-events-business-301191326.html
+  - https://web.archive.org/web/20220129000000*/museums.groupdelphi.com

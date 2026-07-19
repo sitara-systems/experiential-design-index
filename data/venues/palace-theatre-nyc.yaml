@@ -1,0 +1,9 @@
+id: palace-theatre-nyc
+name: Palace Theatre
+venue_type: cultural-center
+location:
+  city: New York
+  state: NY
+operator: TSX Broadway
+sources:
+  - https://www.fmsp.com/projects/palace-theatre/

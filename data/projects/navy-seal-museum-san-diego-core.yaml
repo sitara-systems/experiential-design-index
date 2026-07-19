@@ -1,0 +1,32 @@
+id: navy-seal-museum-san-diego-core
+name: Navy SEAL Museum San Diego
+venue: navy-seal-museum-san-diego
+project_type: major-renovation
+year_completed: 2025
+credits:
+  - firm: id-studios
+    role: architecture
+    note: "Architect of record / interior architecture; no firm record yet"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: exhibit-concepts
+    role: fabrication
+  - firm: bbi-engineering
+    role: av-integration
+  - firm: eos-lightmedia
+    role: lighting-design
+technologies:
+  - immersive theater
+  - virtual reality
+summary: >
+  Navy SEAL Museum San Diego, a 10,000 sq ft museum in an adaptively
+  reused former Museum of Contemporary Art San Diego building, opened
+  October 4, 2025; exhibit design by Gallagher & Associates, fabrication
+  by Exhibit Concepts, AV integration by BBI Engineering, lighting
+  design by Eos Lightmedia.
+description: ""
+sources:
+  - https://www.navysealmuseum.org/press-room/navy-seal-museum-san-diego-opens-to-the-public-october-4-2025
+  - https://exhibitconcepts.com/portfolio-navy-seal-museum-san-diego/
+  - https://idstudiosinc.com/navy-seal-museum-san-diego-on-architect/
+  - https://www.sdbj.com/tourism/museums/storied-service/

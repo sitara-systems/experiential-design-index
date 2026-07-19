@@ -1,0 +1,9 @@
+id: moody-center-austin
+name: Moody Center
+venue_type: sports-venue
+location:
+  city: Austin
+  state: TX
+operator: University of Texas at Austin
+sources:
+  - https://news.utexas.edu/2022/04/19/multi-purpose-moody-center-opens/

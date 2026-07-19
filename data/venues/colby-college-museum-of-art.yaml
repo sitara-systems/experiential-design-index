@@ -1,0 +1,9 @@
+id: colby-college-museum-of-art
+name: Colby College Museum of Art
+venue_type: art-museum
+location:
+  city: Waterville
+  state: ME
+operator: Colby College
+sources:
+  - https://www.fmsp.com/projects/colby-college-museum-of-art/

@@ -1,0 +1,9 @@
+id: yale-university-art-gallery
+name: Yale University Art Gallery
+venue_type: art-museum
+location:
+  city: New Haven
+  state: CT
+operator: Yale University
+sources:
+  - https://ennead.com/work/yale/

@@ -1,0 +1,9 @@
+id: brooklyn-museum-sackler-center
+name: Elizabeth A. Sackler Center for Feminist Art
+venue_type: art-museum
+location:
+  city: Brooklyn
+  state: NY
+operator: Brooklyn Museum
+sources:
+  - https://ennead.com/work/sackler/

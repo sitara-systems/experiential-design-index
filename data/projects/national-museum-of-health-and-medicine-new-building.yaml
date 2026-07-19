@@ -1,0 +1,22 @@
+id: national-museum-of-health-and-medicine-new-building
+name: New Building
+venue: national-museum-of-health-and-medicine
+project_type: new-building
+year_completed: 2012
+credits:
+  - firm: klingstubbins
+    role: architecture
+    note: "No firm record yet"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: explus
+    role: fabrication
+technologies: []
+summary: >
+  The National Museum of Health and Medicine's building in Silver Spring,
+  Maryland, opened 2012; architecture by KlingStubbins, exhibit design by
+  Gallagher & Associates, fabrication by Explus.
+description: ""
+sources:
+  - https://www.explusinc.com/portfolio.html
+  - https://www.medicalmuseum.health.mil/

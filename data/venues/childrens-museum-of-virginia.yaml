@@ -1,0 +1,8 @@
+id: childrens-museum-of-virginia
+name: Children's Museum of Virginia
+venue_type: childrens-museum
+location:
+  city: Portsmouth
+  state: VA
+sources:
+  - https://www.childrensmuseumva.org/

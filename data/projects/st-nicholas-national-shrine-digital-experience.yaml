@@ -1,0 +1,25 @@
+id: st-nicholas-national-shrine-digital-experience
+name: Digital Guided-Tour Experience
+venue: st-nicholas-national-shrine
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: gallagher-and-associates
+    role: media-design
+    note: "Mobile app content development and guided-tour experience design"
+  - firm: gallagher-and-associates
+    role: interpretive-planning
+technologies:
+  - mobile app
+summary: >
+  A digital guided-tour mobile app and content layer for Saint Nicholas
+  Greek Orthodox Church and National Shrine at the World Trade Center
+  campus in New York, developed by Gallagher & Associates, launched
+  2024.
+description: >
+  The shrine building itself (architecture by Santiago Calatrava,
+  dedicated 2022) is not part of this project's scope.
+sources:
+  - https://www.archpaper.com/2024/08/ga-digital-platform-greek-orthodox-church
+  - https://gallagherdesign.com/project/st-nicholas-national-shrine/
+  - https://downtownny.com/news/saint-nicholas-church-wtc/

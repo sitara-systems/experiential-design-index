@@ -1,0 +1,8 @@
+id: the-hershey-story-museum
+name: "The Hershey Story: The Museum on Chocolate Avenue"
+venue_type: corporate-museum
+location:
+  city: Hershey
+  state: PA
+sources:
+  - https://www.hersheystory.org/

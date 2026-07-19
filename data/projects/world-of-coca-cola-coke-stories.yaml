@@ -7,8 +7,6 @@ credits:
   - firm: korins-studio
     role: exhibit-design
     note: "Concept design, led by executive creative director David Korins; no firm record yet"
-  - firm: gensler
-    role: architecture
   - firm: cdm-lighting-design-group
     role: lighting-design
     note: "No firm record yet"
@@ -30,12 +28,15 @@ summary: >
   Coca-Cola Stories, an immersive exhibit tracing the brand's heritage
   through cinematic media and interactivity, opened April 11, 2025 at the
   World of Coca-Cola in Atlanta; concept design by Korins Studio, with
-  architecture by Gensler, AV integration by Electrosonic, and production
-  management by Solomon Group.
+  AV integration by Electrosonic and production management by Solomon
+  Group.
 description: >
   Credited team also includes CBRE and CA South in construction/project
   management roles not covered by the roles vocabulary; omitted per
-  editorial policy.
+  editorial policy. A Gensler architecture credit was previously listed
+  here but removed 2026-07-19: no independent source ties Gensler to this
+  specific gallery, and Gensler's own sourced Coca-Cola work is a separate,
+  unrelated HQ-campus engagement.
 sources:
   - https://solomongroup.com/projects/world-of-coca-cola-coke-stories
   - https://www.worldofcoca-cola.com/about-us/press-center/media-alert/introducing-new-coca-cola-stories-experience

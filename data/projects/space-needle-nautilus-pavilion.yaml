@@ -1,0 +1,20 @@
+id: space-needle-nautilus-pavilion
+name: Nautilus Pavilion
+venue: space-needle
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: storyline-studio
+    role: exhibit-design
+  - firm: group-delphi
+    role: fabrication
+    note: "13 custom lightboxes, ticketing/reception counter, 3D-printed scale models"
+technologies: []
+summary: >
+  The Nautilus Pavilion queuing and historical-storytelling area at the
+  Space Needle in Seattle, completed April 2016 (distinct from the
+  SkyPad and Century Project renovations); exhibit design by Storyline
+  Studio, fabrication by Group Delphi.
+description: ""
+sources:
+  - https://web.archive.org/web/20210622233550/https://museums.groupdelphi.com/portfolio/seattle-space-needle/

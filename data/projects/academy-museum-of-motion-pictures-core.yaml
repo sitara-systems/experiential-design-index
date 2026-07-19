@@ -12,6 +12,13 @@ credits:
     note: Primary AV integrator across four exhibition floors, 75+ installations
   - firm: available-light
     role: lighting-design
+  - firm: fisher-marantz-stone
+    role: lighting-design
+    note: >
+      Fisher Marantz Stone's own page independently claims lighting
+      design for the entire project and site; Available Light is also
+      independently credited. Overlapping vendor claim, not resolved —
+      both credits kept.
 technologies:
   - projection mapping
   - LED walls

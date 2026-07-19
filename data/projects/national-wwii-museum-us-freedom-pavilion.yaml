@@ -15,6 +15,9 @@ credits:
     role: media-design
   - firm: the-taylor-group
     role: fabrication
+  - firm: explus
+    role: fabrication
+    note: "Shared fabrication scope with The Taylor Group per Explus's own project page"
   - firm: solomon-group
     role: av-integration
 summary: >

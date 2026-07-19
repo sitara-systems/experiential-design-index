@@ -1,0 +1,8 @@
+id: studio-museum-in-harlem
+name: The Studio Museum in Harlem
+venue_type: art-museum
+location:
+  city: New York
+  state: NY
+sources:
+  - https://www.fmsp.com/projects/the-studio-museum-in-harlem/

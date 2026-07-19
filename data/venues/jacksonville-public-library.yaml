@@ -1,0 +1,8 @@
+id: jacksonville-public-library
+name: Jacksonville Main Library
+venue_type: library-archive
+location:
+  city: Jacksonville
+  state: FL
+sources:
+  - https://www.fmsp.com/projects/jacksonville-public-library/

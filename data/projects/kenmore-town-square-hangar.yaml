@@ -1,0 +1,28 @@
+id: kenmore-town-square-hangar
+name: The Hangar
+venue: kenmore-town-square
+project_type: new-building
+year_completed: 2017
+credits:
+  - firm: graham-baba-architects
+    role: architecture
+  - firm: hewitt
+    role: landscape-architecture
+    note: "Prime consultant; no firm record yet"
+  - firm: luma
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: arup
+    role: acoustics
+  - firm: jaymarc-av
+    role: av-integration
+    note: "No firm record yet"
+technologies: []
+summary: >
+  The Hangar, a public event pavilion at Kenmore Town Square in Kenmore,
+  Washington, opened August 2017; architecture by Graham Baba
+  Architects.
+description: ""
+sources:
+  - https://grahambaba.com/the-kenmore-hangar
+  - https://www.archdaily.com/900413/the-hangar-at-kenmore-town-square-graham-baba-architects

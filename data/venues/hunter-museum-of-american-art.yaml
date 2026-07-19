@@ -1,0 +1,8 @@
+id: hunter-museum-of-american-art
+name: Hunter Museum of American Art
+venue_type: art-museum
+location:
+  city: Chattanooga
+  state: TN
+sources:
+  - https://www.fmsp.com/projects/hunter-museum-of-american-art/

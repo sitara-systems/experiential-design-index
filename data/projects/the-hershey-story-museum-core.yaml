@@ -1,0 +1,27 @@
+id: the-hershey-story-museum-core
+name: The Hershey Story
+venue: the-hershey-story-museum
+project_type: new-building
+year_completed: 2009
+credits:
+  - firm: warehaus
+    role: architecture
+    note: "No firm record yet"
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: boston-productions-inc
+    role: content-production
+    note: "36 historic exhibit videos; no firm record yet"
+  - firm: explus
+    role: fabrication
+technologies:
+  - exhibit video
+summary: >
+  The Hershey Story: The Museum on Chocolate Avenue, in Hershey,
+  Pennsylvania, opened January 2009; architecture by Warehaus, exhibit
+  design by Gallagher & Associates, video content by Boston Productions
+  Inc., fabrication by Explus.
+description: ""
+sources:
+  - https://www.explusinc.com/portfolio.html
+  - https://www.hersheystory.org/

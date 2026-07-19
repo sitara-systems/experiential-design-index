@@ -1,0 +1,9 @@
+id: anderson-collection-stanford
+name: Anderson Collection at Stanford University
+venue_type: art-museum
+location:
+  city: Stanford
+  state: CA
+operator: Stanford University
+sources:
+  - https://ennead.com/work/anderson/

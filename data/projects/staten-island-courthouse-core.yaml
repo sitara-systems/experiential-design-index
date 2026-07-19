@@ -1,0 +1,18 @@
+id: staten-island-courthouse-core
+name: Staten Island Courthouse
+venue: staten-island-courthouse
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: ennead-architects
+    role: architecture
+  - firm: ricci-greene-associates
+    role: technical-consulting
+    note: "Courts planning consultant; no firm record yet"
+technologies: []
+summary: >
+  The Staten Island Courthouse in St. George, New York, opened 2015;
+  architecture by Ennead Architects.
+description: ""
+sources:
+  - https://ennead.com/work/staten-island-courthouse/

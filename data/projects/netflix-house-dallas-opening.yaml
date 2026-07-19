@@ -6,9 +6,6 @@ year_completed: 2025
 credits:
   - firm: gensler
     role: architecture
-  - firm: jt-magen
-    role: fabrication
-    note: "General contractor; no firm record yet"
 technologies:
   - immersive fan experiences
 summary: >
@@ -16,7 +13,11 @@ summary: >
   fan experiences, restaurant, retail, and live stages, opened December 11,
   2025 in a converted former Belk department store at Galleria Dallas,
   designed by Gensler.
-description: ""
+description: >
+  A JT Magen credit was previously listed here but removed 2026-07-19:
+  independent sourcing (JT Magen's own press release, MAREJournal)
+  confirms JT Magen served as construction manager/general contractor,
+  an explicitly excluded role type, not a design or fabrication credit.
 sources:
   - https://www.gensler.com/projects/netflix-house
   - https://ir.netflix.net/investor-news-and-events/financial-releases/press-release-details/2025/NETFLIX-HOUSE-PHILADELPHIA-IS-NOW-OPEN--WELCOME-TO-OUR-HOME/default.aspx

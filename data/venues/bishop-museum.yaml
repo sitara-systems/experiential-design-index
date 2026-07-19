@@ -1,0 +1,8 @@
+id: bishop-museum
+name: Bernice Pauahi Bishop Museum
+venue_type: natural-history-museum
+location:
+  city: Honolulu
+  state: HI
+sources:
+  - https://raai.com/project/hawaiian-hall-bernice-pauahi-bishop-museum/
