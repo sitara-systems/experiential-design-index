@@ -121,6 +121,62 @@ technology_tags:
       than pre-rendered playback. Requires engine/tooling evidence in
       sources.
 
+# Platforms — commercial products/software a project was built on, tracked
+# as PROJECT ATTRIBUTES (editorial decision 2026-07-19). This does NOT
+# change the standing rule that manufacturers are never delivery-stack
+# credits — a product used is an attribute, not a firm credit. Evidence
+# bar: a project's cited sources must name the product on THAT project;
+# manufacturer/vendor deployment case-study pages are valid public sources
+# (same precedent as firm portfolios — public even if self-authored).
+# Starter set (Nathan 2026-07-19 + same-category peers); extend via flag +
+# Nathan approval like all vocab.
+platforms:
+  - id: disguise
+    label: Disguise
+    note: Media server
+  - id: pixera
+    label: Pixera
+    note: Media server
+  - id: watchout
+    label: Watchout
+    note: Media server
+  - id: hippotizer
+    label: Hippotizer
+    note: Media server
+  - id: q-sys
+    label: Q-SYS
+    note: AV control / audio platform
+  - id: crestron
+    label: Crestron
+    note: AV control
+  - id: unreal-engine
+    label: Unreal Engine
+    note: Real-time engine
+  - id: unity
+    label: Unity
+    note: Real-time engine
+  - id: touchdesigner
+    label: TouchDesigner
+    note: Real-time creative framework
+  - id: notch
+    label: Notch
+    note: Real-time creative framework
+  - id: openframeworks
+    label: openFrameworks
+    note: Creative-coding framework
+  - id: cinder
+    label: Cinder
+    note: Creative-coding framework
+  - id: nanolumens
+    label: NanoLumens
+    note: LED display hardware
+  - id: barco
+    label: Barco
+    note: Projection / display hardware
+  - id: christie
+    label: Christie
+    note: Projection / display hardware
+
 # Firm activity status — evidence-based, always dated (see editorial policy).
 firm_statuses:
   - id: active

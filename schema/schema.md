@@ -46,6 +46,7 @@ the firm record.
 | `credits` | list | ✔ | Each: `firm` (firm id), `role` (role id), optional `note` |
 | `technologies` | list | | Free-text but consistent (e.g. "projection mapping", "RFID") |
 | `technology_tags` | list of technology_tag ids | | Controlled differentiator tags (see vocabularies.yaml `technology_tags` — definitions + evidence bar). Only when the project's cited sources support the tag. |
+| `platforms` | list of platform ids | | Commercial products/software the project was built on (see vocabularies.yaml `platforms`). Sources must name the product on this project; manufacturer deployment case studies count as sources. Not a credit — manufacturers are never credited firms. |
 | `recognition` | list | | Juried awards won by this project. Each: `award` (e.g. "SEGD Global Design Awards — Honor Award"), `year`, `source` (url). Juried/curated programs only — no pay-to-enter "badge" schemes. |
 | `summary` | string | ✔ | Opening sentence must answer "who built what, where, when" self-contained |
 | `description` | string | | Longer prose |
