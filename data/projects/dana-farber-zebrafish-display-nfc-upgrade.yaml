@@ -1,0 +1,25 @@
+id: dana-farber-zebrafish-display-nfc-upgrade
+name: Zebrafish Display — NFC Upgrade
+venue: dana-farber-cancer-institute
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: sitara-systems
+    role: media-design
+    note: "Interactive technology upgrade; original 2012 sculpture concept by Small Design Firm, not Sitara; no firm record yet"
+technologies:
+  - interactive-installation
+summary: >
+  An interactive-technology upgrade to the Dana-Farber Cancer
+  Institute's Zebrafish Display, Boston, MA, completed February 2022
+  with Shapeways — replacing custom capacitive-touch sensors on all
+  477 3D-printed zebrafish with passive NFC tags, each surfacing a
+  donor's personal message on a visitor's phone; technology by Sitara
+  Systems, per BusinessWire's independent press release and
+  independent trade coverage (SEGD, Yahoo Finance). The original
+  477-fish donor-wall sculpture was designed by Small Design Firm in
+  2012, distinct from Sitara's later technology work.
+description: ""
+sources:
+  - https://www.businesswire.com/news/home/20220224005075/en/Shapeways-and-Sitara-Update-Dana-Farber-3D-Printed-Zebrafish-Display-Adding-NFC-Tags
+  - https://segd.org/sitara-systems-refresh-hospitals-zebrafish-display-nfc-technology
