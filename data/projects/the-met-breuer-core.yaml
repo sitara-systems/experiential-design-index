@@ -1,0 +1,32 @@
+id: the-met-breuer-core
+name: The Met Breuer
+venue: the-met-breuer
+project_type: major-renovation
+year_completed: 2016
+credits:
+  - firm: beyer-blinder-belle
+    role: architecture
+    note: "Restoration architect"
+  - firm: vogt-landscape-architects
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: future-green-studio
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: sbld-studio
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: big-show
+    role: av-integration
+    note: "No firm record yet"
+technologies: []
+summary: >
+  The Met Breuer, the Metropolitan Museum of Art's satellite for modern
+  and contemporary art in Marcel Breuer's 1966 building at 945 Madison
+  Avenue, New York, opened March 18, 2016, with restoration architecture
+  by Beyer Blinder Belle.
+description: ""
+sources:
+  - https://www.beyerblinderbelle.com/work/view/the-metropolitan-museum-of-art/the-met-breuer/
+  - https://www.metmuseum.org/press-releases/the-met-breuer-inaugural-season-2016-news
+  - https://en.wikipedia.org/wiki/Met_Breuer

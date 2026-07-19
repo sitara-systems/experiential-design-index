@@ -1,0 +1,9 @@
+id: nypl-stavros-niarchos-foundation-library
+name: New York Public Library, Stavros Niarchos Foundation Library
+venue_type: library-archive
+location:
+  city: New York
+  state: NY
+operator: New York Public Library
+sources:
+  - https://www.nypl.org/blog/2023/10/13/history-site-stavros-niarchos-foundation-library

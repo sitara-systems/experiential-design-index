@@ -1,0 +1,23 @@
+id: la-mama-core
+name: La MaMa First Floor Theatre Renovation
+venue: la-mama-experimental-theatre-club
+project_type: major-renovation
+year_completed: 2023
+credits:
+  - firm: beyer-blinder-belle
+    role: architecture
+  - firm: charcoalblue
+    role: acoustics
+    note: "Theatre/venue design and acoustic consultancy; no clean vocab role fit"
+  - firm: cline-bettridge-bernstein-lighting-design
+    role: lighting-design
+technologies: []
+summary: >
+  La MaMa Experimental Theatre Club's original East Village home reopened
+  February 9, 2023 after a 5-year, $25 million renovation, with
+  architecture by Beyer Blinder Belle.
+description: ""
+sources:
+  - https://www.beyerblinderbelle.com/work/view/la-mama-experimental-theatre-club/
+  - https://newyorktheater.me/2023/02/10/la-mamas-first-home-reopens-5-years-and-25-million-later/
+  - https://pix11.com/news/local-news/manhattan/la-mama-theater-reopens-in-east-village-after-24m-renovation/

@@ -1,0 +1,8 @@
+id: rubell-museum-dc
+name: Rubell Museum DC
+venue_type: art-museum
+location:
+  city: Washington
+  state: DC
+sources:
+  - https://www.eastcityart.com/art-news/rubell-museum-dc-opens-to-public-on-saturday-october-29-2022/

@@ -1,0 +1,23 @@
+id: rubell-museum-dc-core
+name: Rubell Museum DC
+venue: rubell-museum-dc
+project_type: major-renovation
+year_completed: 2022
+credits:
+  - firm: beyer-blinder-belle
+    role: architecture
+  - firm: oehme-van-sweden
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: stroik-lighting-design
+    role: lighting-design
+    note: "No firm record yet"
+technologies: []
+summary: >
+  Rubell Museum DC, a contemporary art museum in an adaptively reused
+  historic 1906/1927 school building, opened October 29, 2022 in
+  Washington, DC, with architecture by Beyer Blinder Belle.
+description: ""
+sources:
+  - https://www.beyerblinderbelle.com/work/view/rubell-museum-dc-dedicated-page-for-museum-project/
+  - https://www.eastcityart.com/art-news/rubell-museum-dc-opens-to-public-on-saturday-october-29-2022/

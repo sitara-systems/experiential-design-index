@@ -6,7 +6,10 @@ year_completed: 2014
 credits:
   - firm: gluckman-mayner-architects
     role: architecture
-    note: Design architect for the museum's capital renovation; Beyer Blinder Belle served as executive architect (not yet a separate firm record)
+    note: Design architect for the museum's capital renovation
+  - firm: beyer-blinder-belle
+    role: architecture
+    note: "Executive architect for the museum's 2014 capital renovation."
   - firm: diller-scofidio-renfro
     role: exhibit-design
     note: Named "exhibition designer" for the 2014 reopening

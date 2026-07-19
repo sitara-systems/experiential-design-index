@@ -1,0 +1,27 @@
+id: brooklyn-navy-yard-bldg-92-core
+name: BLDG 92
+venue: brooklyn-navy-yard-bldg-92
+project_type: major-renovation
+year_completed: 2011
+credits:
+  - firm: beyer-blinder-belle
+    role: architecture
+  - firm: workshop-apd
+    role: architecture
+    note: "Collaborating architect; no firm record yet"
+  - firm: d-i-r-t-studio
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: tillett-lighting-design
+    role: lighting-design
+    note: "No firm record yet"
+technologies: []
+summary: >
+  BLDG 92, a visitor center and museum on the history of the Brooklyn
+  Navy Yard, combining an adaptive-reuse historic building with a new
+  24,000 sq ft addition, opened November 11, 2011 in Brooklyn, New York;
+  architecture by Beyer Blinder Belle with Workshop/APD.
+description: ""
+sources:
+  - https://www.beyerblinderbelle.com/work/view/bldg-92-brooklyn-navy-yard/
+  - https://www.brooklynnavyyard.org/exhibits/

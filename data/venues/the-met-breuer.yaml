@@ -1,0 +1,9 @@
+id: the-met-breuer
+name: The Met Breuer
+venue_type: art-museum
+location:
+  city: New York
+  state: NY
+operator: Metropolitan Museum of Art
+sources:
+  - https://en.wikipedia.org/wiki/Met_Breuer

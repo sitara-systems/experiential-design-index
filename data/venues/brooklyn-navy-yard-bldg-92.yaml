@@ -1,0 +1,9 @@
+id: brooklyn-navy-yard-bldg-92
+name: Brooklyn Navy Yard, BLDG 92
+venue_type: history-museum
+location:
+  city: Brooklyn
+  state: NY
+operator: Brooklyn Navy Yard Development Corporation
+sources:
+  - https://www.brooklynnavyyard.org/exhibits/

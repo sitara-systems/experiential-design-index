@@ -1,0 +1,9 @@
+id: 92ny-arnhold-center
+name: 92NY, The Arnhold Center
+venue_type: cultural-center
+location:
+  city: New York
+  state: NY
+operator: 92nd Street Y
+sources:
+  - https://www.beyerblinderbelle.com/stories/92ny_reopens_buttenwieser_hall_at_the_arnhold_center

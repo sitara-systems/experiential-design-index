@@ -7,6 +7,14 @@ credits:
   - firm: tait
     role: media-design
     note: "TAIT Show Control System powered by TAIT Navigator, synchronizing lighting, audio, and non-traditional entertainment technology including pumps and water-treatment systems for the fountain performances"
+  - firm: beyer-blinder-belle
+    role: architecture
+    note: "Lead architect for the Main Fountain Garden restoration."
+  - firm: west-8
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: l-observatoire-international
+    role: lighting-design
 technologies:
   - show control system
   - automated scheduling
