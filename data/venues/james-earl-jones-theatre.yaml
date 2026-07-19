@@ -1,0 +1,8 @@
+id: james-earl-jones-theatre
+name: James Earl Jones Theatre
+venue_type: cultural-center
+location:
+  city: New York
+  state: NY
+sources:
+  - https://en.wikipedia.org/wiki/James_Earl_Jones_Theatre

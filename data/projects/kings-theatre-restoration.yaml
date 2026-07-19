@@ -1,0 +1,23 @@
+id: kings-theatre-restoration
+name: Restoration
+venue: kings-theatre
+project_type: major-renovation
+year_completed: 2015
+credits:
+  - firm: evergreene-architectural-arts
+    role: fabrication
+    note: "Architectural restoration; no firm record yet"
+  - firm: akustiks
+    role: acoustics
+  - firm: schuler-shook
+    role: lighting-design
+    note: "Theatre planning"
+technologies: []
+summary: >
+  A restoration of the historic Kings Theatre in Brooklyn, NY reopened
+  in 2015; architectural restoration by EverGreene Architectural Arts,
+  acoustics by Akustiks, theatre planning and lighting design by
+  Schuler Shook.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Kings_Theatre_(Brooklyn)

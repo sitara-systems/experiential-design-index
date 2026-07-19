@@ -1,0 +1,30 @@
+id: griffin-msi-u-505-dive-trainer
+name: U-505 Dive Trainer
+venue: griffin-museum-of-science-and-industry
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: lvthn
+    role: exhibit-design
+    note: "Creative direction and production; no firm record yet"
+  - firm: luci-creative
+    role: exhibit-design
+  - firm: razmus-media
+    role: media-design
+    note: "Gameplay programming and 3D environment design; no firm record yet"
+  - firm: ravenswood-studio
+    role: fabrication
+    note: "Installation fabrication"
+technologies:
+  - interactive simulation
+summary: >
+  The U-505 Dive Trainer, an interactive submarine simulation
+  installation at the Griffin Museum of Science and Industry, Chicago;
+  design by LVTHN and Luci Creative, gameplay/3D environment design by
+  Razmus Media, fabrication by Ravenswood Studio. Year approximate,
+  sourced to independent coverage rather than a single dated
+  announcement. Distinct from the venue's existing U-505 Submarine
+  Exhibit record.
+description: ""
+sources:
+  - https://razmusmedia.com/case-studies/u-505-dive-trainer

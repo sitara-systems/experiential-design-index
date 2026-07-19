@@ -1,0 +1,8 @@
+id: kings-theatre
+name: Kings Theatre
+venue_type: cultural-center
+location:
+  city: Brooklyn
+  state: NY
+sources:
+  - https://en.wikipedia.org/wiki/Kings_Theatre_(Brooklyn)

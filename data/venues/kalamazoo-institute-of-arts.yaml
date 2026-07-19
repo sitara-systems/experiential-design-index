@@ -1,0 +1,8 @@
+id: kalamazoo-institute-of-arts
+name: Kalamazoo Institute of Arts
+venue_type: art-museum
+location:
+  city: Kalamazoo
+  state: MI
+sources:
+  - https://en.wikipedia.org/wiki/Kalamazoo_Institute_of_Arts

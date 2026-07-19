@@ -1,0 +1,8 @@
+id: nauticus
+name: Nauticus
+venue_type: science-center
+location:
+  city: Norfolk
+  state: VA
+sources:
+  - https://www.wparch.com

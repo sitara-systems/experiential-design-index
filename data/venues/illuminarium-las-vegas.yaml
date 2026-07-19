@@ -1,0 +1,9 @@
+id: illuminarium-las-vegas
+name: Illuminarium Las Vegas
+venue_type: themed-attraction
+location:
+  city: Las Vegas
+  state: NV
+operator: AREA15
+sources:
+  - https://en.wikipedia.org/wiki/Area15

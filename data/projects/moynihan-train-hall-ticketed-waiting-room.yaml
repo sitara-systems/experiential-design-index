@@ -1,0 +1,32 @@
+id: moynihan-train-hall-ticketed-waiting-room
+name: Ticketed Waiting Room
+venue: moynihan-train-hall
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: skidmore-owings-and-merrill
+    role: architecture
+    note: "Base building / primary architect"
+  - firm: rockwell-group
+    role: architecture
+    note: "Ticketed Waiting Room interior only"
+  - firm: domingo-gonzalez-associates
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: moment-factory
+    role: media-design
+    note: "LED-screen content design"
+technologies:
+  - LED screen
+summary: >
+  Moynihan Train Hall in New York opened January 1, 2021; base
+  architecture by Skidmore, Owings & Merrill, with Rockwell Group
+  designing the Ticketed Waiting Room interior specifically, lighting
+  design by Domingo Gonzalez Associates, LED-screen content by Moment
+  Factory. Distinct from the separate High Line Moynihan Connector
+  pedestrian bridge project already recorded elsewhere.
+description: ""
+sources:
+  - https://www.som.com/projects/moynihan-train-hall/
+  - https://interiordesign.net/projects/rockwell-group-earns-a-best-of-year-award-for-the-moynihan-train-hall-in-new-york/
+  - https://architizer.com/projects/moynihan-train-hall-ticketed-waiting-room/

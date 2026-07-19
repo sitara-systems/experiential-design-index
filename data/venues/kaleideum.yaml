@@ -1,0 +1,8 @@
+id: kaleideum
+name: Kaleideum
+venue_type: childrens-museum
+location:
+  city: Winston-Salem
+  state: NC
+sources:
+  - https://www.kaleideum.org

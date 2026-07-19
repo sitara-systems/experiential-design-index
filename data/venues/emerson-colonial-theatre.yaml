@@ -1,0 +1,9 @@
+id: emerson-colonial-theatre
+name: Emerson Colonial Theatre
+venue_type: cultural-center
+location:
+  city: Boston
+  state: MA
+operator: Emerson College
+sources:
+  - https://en.wikipedia.org/wiki/Colonial_Theatre_(Boston)

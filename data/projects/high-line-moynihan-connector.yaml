@@ -6,6 +6,9 @@ year_completed: 2023
 credits:
   - firm: skidmore-owings-and-merrill
     role: architecture
+  - firm: field-operations
+    role: landscape-architecture
+    note: "No firm record yet"
   - firm: tillotson-design-associates
     role: lighting-design
 technologies: []
@@ -23,9 +26,7 @@ description: >
   An honorable mention in the Urban Design category of Fast Company's 2024
   Innovation by Design Awards. A $50 million public-private partnership
   among Empire State Development, Brookfield Properties, and Friends of the
-  High Line. Landscape architecture by Field Operations is not captured as a
-  project credit — the vocabulary has no landscape-architecture role (logged
-  gap).
+  High Line.
 sources:
   - https://www.som.com/projects/high-line-moynihan-connector/
   - https://www.som.com/news/high-line-wins-two-awards/

@@ -6,13 +6,25 @@ year_completed: 2014
 credits:
   - firm: plus-and-greater-than
     role: exhibit-design
+  - firm: second-story
+    role: media-design
+    note: >
+      Credited via an independent regional-press source as designer of
+      science-based exhibit production/interactive media at the Science
+      Pyramid; scope overlaps with Plus And Greater Than's Topo Table
+      credit above, kept as parallel claims rather than resolved
+  - firm: burkettdesign
+    role: architecture
+    note: "Science Pyramid building architecture; no firm record yet"
 technologies:
   - interactive topographic table
 summary: >
   Learning to See, an exhibition centered on the Topo Table, an interactive
   topographic map of Colorado's geography and ecosystems, opened at Denver
-  Botanic Gardens in Denver, Colorado in 2014, designed by Plus And Greater
-  Than.
+  Botanic Gardens' Science Pyramid in Denver, Colorado in 2014; credited to
+  Plus And Greater Than and, via an independent source, Second Story;
+  building architecture by BurkettDesign.
 description: ""
 sources:
   - https://www.plusandgreaterthan.com/projects/building-stories-24d5z-gml9e-7h884-hhpxe
+  - https://www.westernartandarchitecture.com/

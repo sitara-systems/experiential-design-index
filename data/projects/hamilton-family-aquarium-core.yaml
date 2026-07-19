@@ -1,0 +1,24 @@
+id: hamilton-family-aquarium-core
+name: Hamilton Family Aquarium
+venue: hamilton-family-aquarium
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: dbvw-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: roto
+    role: exhibit-design
+  - firm: roto
+    role: fabrication
+  - firm: lightswitch
+    role: lighting-design
+    note: "No firm record yet"
+technologies: []
+summary: >
+  The Hamilton Family Aquarium, Save The Bay's new aquarium in Newport,
+  RI, opened March 28, 2024; architecture by DBVW Architects, exhibit
+  design and fabrication by Roto, lighting design by Lightswitch.
+description: ""
+sources:
+  - https://savebay.org/a-new-aquarium-a-new-experience/

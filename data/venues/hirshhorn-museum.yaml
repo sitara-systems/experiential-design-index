@@ -1,0 +1,8 @@
+id: hirshhorn-museum
+name: Hirshhorn Museum and Sculpture Garden
+venue_type: art-museum
+location:
+  city: Washington
+  state: DC
+sources:
+  - https://www.si.edu/

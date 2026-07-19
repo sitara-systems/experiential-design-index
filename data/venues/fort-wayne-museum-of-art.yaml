@@ -1,0 +1,8 @@
+id: fort-wayne-museum-of-art
+name: Fort Wayne Museum of Art
+venue_type: art-museum
+location:
+  city: Fort Wayne
+  state: IN
+sources:
+  - https://en.wikipedia.org/wiki/Fort_Wayne_Museum_of_Art

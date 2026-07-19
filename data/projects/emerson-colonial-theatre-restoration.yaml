@@ -1,0 +1,20 @@
+id: emerson-colonial-theatre-restoration
+name: Restoration
+venue: emerson-colonial-theatre
+project_type: major-renovation
+year_completed: 2018
+credits:
+  - firm: elkus-manfredi-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: schuler-shook
+    role: technical-consulting
+    note: "Theatre planning, rigging"
+technologies: []
+summary: >
+  A restoration of the Emerson Colonial Theatre in Boston reopened July
+  10, 2018; architecture by Elkus Manfredi Architects, theatre planning
+  and rigging by Schuler Shook.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Colonial_Theatre_(Boston)

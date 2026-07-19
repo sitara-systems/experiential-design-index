@@ -1,0 +1,9 @@
+id: powell-hall
+name: Powell Hall (Jack C. Taylor Music Center)
+venue_type: cultural-center
+location:
+  city: St. Louis
+  state: MO
+operator: St. Louis Symphony Orchestra
+sources:
+  - https://www.stlmag.com/

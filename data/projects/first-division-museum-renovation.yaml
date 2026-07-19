@@ -19,6 +19,9 @@ credits:
   - firm: brave-new-pictures
     role: content-production
     note: "Video production; no firm record yet"
+  - firm: ravenswood-studio
+    role: fabrication
+    note: "Fabrication on the permanent \"Duty First\" exhibit added in this renovation"
 technologies:
   - virtual reality
   - CGI vehicle simulation

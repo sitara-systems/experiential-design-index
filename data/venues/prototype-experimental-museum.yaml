@@ -1,0 +1,9 @@
+id: prototype-experimental-museum
+name: "Prototype: The Experimental Museum"
+venue_type: design-museum
+location:
+  city: Columbus
+  state: OH
+operator: Roto
+sources:
+  - https://blooloop.com/

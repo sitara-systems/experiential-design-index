@@ -1,0 +1,9 @@
+id: beinecke-rare-book-library
+name: Beinecke Rare Book and Manuscript Library
+venue_type: library-archive
+location:
+  city: New Haven
+  state: CT
+operator: Yale University
+sources:
+  - https://www.archdaily.com/

@@ -1,0 +1,9 @@
+id: hamilton-family-aquarium
+name: Hamilton Family Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Newport
+  state: RI
+operator: Save The Bay
+sources:
+  - https://savebay.org/a-new-aquarium-a-new-experience/

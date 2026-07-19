@@ -1,0 +1,21 @@
+id: james-earl-jones-theatre-annex
+name: Annex and Renovation (renamed from the Cort Theatre)
+venue: james-earl-jones-theatre
+project_type: major-renovation
+year_completed: 2022
+credits:
+  - firm: kostow-greenwood-architects
+    role: architecture
+    note: "Annex; no firm record yet"
+  - firm: schuler-shook
+    role: lighting-design
+technologies: []
+summary: >
+  A renovation and annex addition to the former Cort Theatre in New
+  York, renamed the James Earl Jones Theatre, completed 2022;
+  architecture by Kostow Greenwood Architects (annex), lighting design
+  by Schuler Shook.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/James_Earl_Jones_Theatre
+  - https://www.archello.com/

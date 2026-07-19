@@ -1,0 +1,25 @@
+id: illuminarium-las-vegas-core
+name: Illuminarium Las Vegas
+venue: illuminarium-las-vegas
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: rockwell-group
+    role: exhibit-design
+  - firm: electrosonic
+    role: av-integration
+    note: "Total system integration"
+  - firm: radical-media
+    role: content-production
+    note: "No firm record yet"
+technologies:
+  - immersive projection
+summary: >
+  Illuminarium Las Vegas, an immersive entertainment venue at AREA15,
+  opened January 2022; design by Rockwell Group, AV system integration
+  by Electrosonic, content creation by Radical Media. Distinct from the
+  already-recorded Illuminarium Atlanta venue.
+description: ""
+sources:
+  - https://plsn.com/articles/features/illuminarium/
+  - https://www.vegas24seven.com/illuminarium-experiential-entertainment-company-coming-to-area15-in-january-2022/

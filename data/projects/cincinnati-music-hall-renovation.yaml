@@ -1,0 +1,27 @@
+id: cincinnati-music-hall-renovation
+name: Renovation
+venue: cincinnati-music-hall
+project_type: major-renovation
+year_completed: 2017
+credits:
+  - firm: martinez-and-johnson-architecture
+    role: architecture
+    note: "No firm record yet"
+  - firm: perfido-weiskopf-wagstaff-and-goettel
+    role: architecture
+    note: "No firm record yet"
+  - firm: akustiks
+    role: acoustics
+  - firm: schuler-shook
+    role: lighting-design
+    note: "Theatre planning"
+technologies: []
+summary: >
+  A renovation of Cincinnati Music Hall, a National Historic Landmark
+  home to the Cincinnati Symphony, Opera, Pops, and Ballet, completed
+  2017; architecture by Martinez + Johnson Architecture with Perfido
+  Weiskopf Wagstaff + Goettel, acoustics by Akustiks, theatre planning
+  by Schuler Shook.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Music_Hall_(Cincinnati)

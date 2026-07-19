@@ -1,0 +1,8 @@
+id: sioux-city-art-center
+name: Sioux City Art Center
+venue_type: art-museum
+location:
+  city: Sioux City
+  state: IA
+sources:
+  - https://en.wikipedia.org/wiki/Sioux_City_Art_Center

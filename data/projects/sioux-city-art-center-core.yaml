@@ -1,0 +1,17 @@
+id: sioux-city-art-center-core
+name: Sioux City Art Center
+venue: sioux-city-art-center
+project_type: new-building
+year_completed: 1997
+credits:
+  - firm: skidmore-owings-and-merrill
+    role: architecture
+    note: "Joseph Gonzalez; moderate-confidence sourcing (search-synthesized Wikipedia text, direct fetch of the source page failed to extract — recommend re-verification)"
+technologies: []
+summary: >
+  The Sioux City Art Center in Sioux City, IA opened 1997; architecture
+  by Skidmore, Owings & Merrill (Joseph Gonzalez). Distinct from the
+  existing Sioux City Public Museum venue.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Sioux_City_Art_Center

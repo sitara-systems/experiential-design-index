@@ -1,0 +1,21 @@
+id: kaleideum-core
+name: Kaleideum
+venue: kaleideum
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: gensler
+    role: architecture
+  - firm: stitch-design-shop
+    role: architecture
+    note: "No firm record yet"
+  - firm: roto
+    role: exhibit-design
+technologies: []
+summary: >
+  Kaleideum, a children's museum in Winston-Salem, NC, opened early
+  2024; architecture by Gensler and Stitch Design Shop, exhibit design
+  by Roto, described as "the third part of the design team."
+description: ""
+sources:
+  - https://www.kaleideum.org

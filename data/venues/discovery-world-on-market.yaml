@@ -1,0 +1,8 @@
+id: discovery-world-on-market
+name: Discovery World on Market
+venue_type: childrens-museum
+location:
+  city: Parkersburg
+  state: WV
+sources:
+  - https://blooloop.com/

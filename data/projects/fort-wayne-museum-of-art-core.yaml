@@ -1,0 +1,16 @@
+id: fort-wayne-museum-of-art-core
+name: Fort Wayne Museum of Art
+venue: fort-wayne-museum-of-art
+project_type: new-building
+year_completed: 1984
+credits:
+  - firm: skidmore-owings-and-merrill
+    role: architecture
+    note: "Walter Netsch"
+technologies: []
+summary: >
+  The Fort Wayne Museum of Art's building opened 1984; architecture by
+  Skidmore, Owings & Merrill (Walter Netsch).
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Fort_Wayne_Museum_of_Art

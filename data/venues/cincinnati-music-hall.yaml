@@ -1,0 +1,8 @@
+id: cincinnati-music-hall
+name: Cincinnati Music Hall
+venue_type: cultural-center
+location:
+  city: Cincinnati
+  state: OH
+sources:
+  - https://en.wikipedia.org/wiki/Music_Hall_(Cincinnati)

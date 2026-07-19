@@ -1,0 +1,25 @@
+id: david-h-koch-theater-renovation
+name: Renovation
+venue: david-h-koch-theater
+project_type: major-renovation
+year_completed: 2009
+credits:
+  - firm: jcj-architecture
+    role: architecture
+    note: "No firm record yet"
+  - firm: jaffe-holden
+    role: acoustics
+    note: "No firm record yet"
+  - firm: schuler-shook
+    role: technical-consulting
+    note: "Feasibility study through construction administration"
+technologies: []
+summary: >
+  A renovation of Lincoln Center's David H. Koch Theater (formerly the
+  New York State Theater); sources place completion around 2008-2009
+  (2008 marks the venue's renaming, 2009 the completed renovation
+  work). Architecture by JCJ Architecture, acoustics by Jaffe Holden,
+  theatre planning by Schuler Shook.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/David_H._Koch_Theater

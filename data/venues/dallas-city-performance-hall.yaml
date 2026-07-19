@@ -1,0 +1,8 @@
+id: dallas-city-performance-hall
+name: Dallas City Performance Hall
+venue_type: cultural-center
+location:
+  city: Dallas
+  state: TX
+sources:
+  - https://www.som.com/

@@ -1,0 +1,22 @@
+id: robinson-center-little-rock-core
+name: Renovation
+venue: robinson-center-little-rock
+project_type: major-renovation
+year_completed: 2017
+credits:
+  - firm: ennead-architects
+    role: architecture
+  - firm: polk-stanley-wilcox-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: schuler-shook
+    role: technical-consulting
+    note: "Theatre planning"
+technologies: []
+summary: >
+  A renovation of the Robinson Center in Little Rock, AR completed
+  2017; architecture by Ennead Architects with Polk Stanley Wilcox
+  Architects, theatre planning by Schuler Shook.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Robinson_Center

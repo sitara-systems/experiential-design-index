@@ -1,0 +1,9 @@
+id: youthlink-calgary
+name: "YouthLink: Calgary Police Interpretive Centre"
+venue_type: history-museum
+location:
+  city: Calgary
+  state: AB
+  country: Canada
+sources:
+  - https://www.designrp.com/projects/youthlink-calgary/

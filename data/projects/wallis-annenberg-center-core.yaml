@@ -1,0 +1,24 @@
+id: wallis-annenberg-center-core
+name: Wallis Annenberg Center for the Performing Arts
+venue: wallis-annenberg-center
+project_type: new-building
+year_completed: 2013
+credits:
+  - firm: spf-architects
+    role: architecture
+    note: "Zoltan Pali; no firm record yet"
+  - firm: jaffe-holden
+    role: acoustics
+    note: "No firm record yet"
+  - firm: schuler-shook
+    role: technical-consulting
+    note: "Theatre consulting, seating/sightlines for two theatres"
+technologies: []
+summary: >
+  The Wallis Annenberg Center for the Performing Arts in Beverly Hills,
+  CA opened 2013; architecture by SPF:architects (Zoltan Pali),
+  acoustics by Jaffe Holden, theatre consulting by Schuler Shook.
+description: ""
+sources:
+  - https://www.archdaily.com/
+  - https://en.wikipedia.org/wiki/Wallis_Annenberg_Center_for_the_Performing_Arts

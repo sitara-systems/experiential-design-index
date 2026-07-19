@@ -1,0 +1,8 @@
+id: kentucky-science-center
+name: Kentucky Science Center
+venue_type: science-center
+location:
+  city: Louisville
+  state: KY
+sources:
+  - https://blooloop.com/

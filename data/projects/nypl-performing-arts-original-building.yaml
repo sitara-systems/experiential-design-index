@@ -1,0 +1,18 @@
+id: nypl-performing-arts-original-building
+name: Original Building
+venue: nypl-library-for-the-performing-arts
+project_type: new-building
+year_completed: 1965
+credits:
+  - firm: skidmore-owings-and-merrill
+    role: architecture
+    note: "Gordon Bunshaft"
+technologies: []
+summary: >
+  The New York Public Library for the Performing Arts at Lincoln
+  Center opened 1965; architecture by Skidmore, Owings & Merrill
+  (Gordon Bunshaft). Distinct from the venue's existing Harvey
+  Fierstein Theatre Lab record.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/New_York_Public_Library_for_the_Performing_Arts

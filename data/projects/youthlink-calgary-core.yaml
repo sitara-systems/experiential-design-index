@@ -1,0 +1,27 @@
+id: youthlink-calgary-core
+name: "YouthLink: Calgary Police Interpretive Centre"
+venue: youthlink-calgary
+project_type: new-exhibition
+year_completed: 2015
+credits:
+  - firm: reich-petch
+    role: exhibit-design
+  - firm: rlmg
+    role: media-design
+  - firm: gabriel-mackinnon-lighting-design
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: westwind-design-group
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - interactive media
+summary: >
+  YouthLink: Calgary Police Interpretive Centre, an interpretive centre
+  in Calgary, AB, opened 2015; exhibit design by Reich+Petch, media
+  design by RLMG, lighting design by Gabriel Mackinnon Lighting Design,
+  fabrication by Westwind Design Group.
+description: ""
+sources:
+  - https://www.designrp.com/projects/youthlink-calgary/
+  - https://gmld.ca/portfolio/youthlink/

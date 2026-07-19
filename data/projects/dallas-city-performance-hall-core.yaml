@@ -1,0 +1,21 @@
+id: dallas-city-performance-hall-core
+name: Dallas City Performance Hall
+venue: dallas-city-performance-hall
+project_type: new-building
+year_completed: 2012
+credits:
+  - firm: skidmore-owings-and-merrill
+    role: architecture
+    note: "Design architect"
+  - firm: corgan-associates
+    role: architecture
+    note: "Architect of record; no firm record yet"
+technologies: []
+summary: >
+  The Dallas City Performance Hall opened 2012; design architecture by
+  Skidmore, Owings & Merrill with Corgan Associates as architect of
+  record.
+description: ""
+sources:
+  - https://www.som.com/
+  - https://www.architecturalrecord.com/

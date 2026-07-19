@@ -1,0 +1,9 @@
+id: nypl-library-for-the-performing-arts
+name: New York Public Library for the Performing Arts
+venue_type: library-archive
+location:
+  city: New York
+  state: NY
+operator: Lincoln Center
+sources:
+  - https://www.nypl.org/about/locations/lpa/harvey-fierstein-theatre-lab

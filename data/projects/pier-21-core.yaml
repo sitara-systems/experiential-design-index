@@ -1,0 +1,32 @@
+id: pier-21-core
+name: Canadian Museum of Immigration at Pier 21
+venue: pier-21
+project_type: new-exhibition
+year_completed: 2015
+credits:
+  - firm: origin-studios
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: xyz-technologies
+    role: av-integration
+    note: "Interactive stations, lighting, staging/scenography; no firm record yet"
+  - firm: lord-cultural-resources
+    role: interpretive-planning
+    note: "Visioning and project management"
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Design-build and project management"
+technologies:
+  - interactive station
+summary: >
+  The Canadian Museum of Immigration at Pier 21 in Halifax, NS reopened
+  with a new exhibition 2015; exhibition and graphic design by Origin
+  Studios, interactive stations and staging by XYZ Technologies,
+  interpretive planning by Lord Cultural Resources, fabrication by
+  Kubik Maltbie.
+description: >
+  A media/content-design credit for RLMG was independently claimed only
+  by RLMG's own site; not independently corroborated by any other
+  source, so not recorded here per the sourcing rule.
+sources:
+  - https://www.canadianarchitect.com/

@@ -1,0 +1,9 @@
+id: pier-21
+name: Canadian Museum of Immigration at Pier 21
+venue_type: history-museum
+location:
+  city: Halifax
+  state: NS
+  country: Canada
+sources:
+  - https://www.canadianarchitect.com/
