@@ -1,0 +1,30 @@
+id: mcmurtry-building-core
+name: McMurtry Art and Art History Building
+venue: mcmurtry-art-and-art-history-building
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: diller-scofidio-renfro
+    role: architecture
+  - firm: boora-architects
+    role: architecture
+    note: "No firm record yet"
+  - firm: mayer-reed
+    role: graphics-wayfinding
+  - firm: rgd-acoustics
+    role: acoustics
+    note: "No firm record yet"
+  - firm: the-office-of-cheryl-barton
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: tillotson-design-associates
+    role: lighting-design
+technologies: []
+summary: >
+  The McMurtry Art and Art History Building at Stanford University in
+  Stanford, California, opened 2015; architecture by Diller Scofidio +
+  Renfro with BOORA Architects.
+description: ""
+sources:
+  - https://dsrny.com/project/mcmurtry-art-and-art-history-building
+  - https://arts.stanford.edu/mcmurtry-building

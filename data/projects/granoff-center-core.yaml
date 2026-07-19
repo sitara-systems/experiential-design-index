@@ -1,0 +1,30 @@
+id: granoff-center-core
+name: Perry and Marty Granoff Center for the Creative Arts
+venue: granoff-center-for-the-creative-arts
+project_type: new-building
+year_completed: 2011
+credits:
+  - firm: diller-scofidio-renfro
+    role: architecture
+  - firm: jaffe-holden
+    role: acoustics
+    note: "No firm record yet"
+  - firm: jaffe-holden
+    role: av-integration
+    note: "No firm record yet"
+  - firm: fisher-dachs-associates
+    role: technical-consulting
+    note: "No firm record yet"
+  - firm: tillotson-design-associates
+    role: lighting-design
+  - firm: pentagram
+    role: graphics-wayfinding
+technologies: []
+summary: >
+  The Perry and Marty Granoff Center for the Creative Arts at Brown
+  University in Providence, Rhode Island, opened 2011; architecture by
+  Diller Scofidio + Renfro.
+description: ""
+sources:
+  - https://dsrny.com/project/the-perry-and-marty-granoff-center-for-the-creative-arts
+  - https://arts.brown.edu/spaces/granoff-center

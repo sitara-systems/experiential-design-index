@@ -1,0 +1,32 @@
+id: lincoln-center-hypar-pavilion
+name: Hypar Pavilion and Lincoln Ristorante
+venue: lincoln-center-for-the-performing-arts
+project_type: new-building
+year_completed: 2010
+credits:
+  - firm: diller-scofidio-renfro
+    role: architecture
+  - firm: fxcollaborative
+    role: architecture
+    note: "No firm record yet"
+  - firm: mathews-nielsen-landscape-architects
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: tillotson-design-associates
+    role: lighting-design
+  - firm: 2x4
+    role: graphics-wayfinding
+    note: "No firm record yet"
+  - firm: jaffe-holden
+    role: acoustics
+    note: "No firm record yet"
+technologies: []
+summary: >
+  Hypar Pavilion and Lincoln Ristorante, a new restaurant building with a
+  green-roof public lawn (the Illumination Lawn) at Lincoln Center in New
+  York, opened 2010; architecture by Diller Scofidio + Renfro with
+  FXCollaborative.
+description: ""
+sources:
+  - https://dsrny.com/project/lincoln-center-hypar
+  - https://www.archdaily.com/94493

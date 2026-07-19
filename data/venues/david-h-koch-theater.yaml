@@ -1,0 +1,9 @@
+id: david-h-koch-theater
+name: David H. Koch Theater
+venue_type: cultural-center
+location:
+  city: New York
+  state: NY
+operator: New York City Ballet
+sources:
+  - https://dsrny.com/project/david-h-koch-theater

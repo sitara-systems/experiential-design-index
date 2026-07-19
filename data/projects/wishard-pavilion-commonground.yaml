@@ -1,0 +1,22 @@
+id: wishard-pavilion-commonground
+name: "The Commonground"
+venue: wishard-pavilion-eskenazi-health
+project_type: new-building
+year_completed: 2014
+credits:
+  - firm: diller-scofidio-renfro
+    role: architecture
+  - firm: hok
+    role: architecture
+  - firm: tillett-lighting-design-associates
+    role: lighting-design
+    note: "No firm record yet"
+technologies: []
+summary: >
+  "The Commonground," a public plaza at the entrance to Eskenazi Health's
+  Wishard Pavilion in Indianapolis, opened 2014; architecture by Diller
+  Scofidio + Renfro with HOK.
+description: ""
+sources:
+  - https://dsrny.com/project/wishard-pavilion
+  - https://www.tillettlighting.com/wishard-pavilion

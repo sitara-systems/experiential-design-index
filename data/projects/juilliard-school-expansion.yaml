@@ -1,0 +1,36 @@
+id: juilliard-school-expansion
+name: The Juilliard School Expansion
+venue: the-juilliard-school
+project_type: major-renovation
+year_completed: 2009
+credits:
+  - firm: diller-scofidio-renfro
+    role: architecture
+  - firm: fxcollaborative
+    role: architecture
+    note: "No firm record yet"
+  - firm: l-observatoire-international
+    role: lighting-design
+  - firm: jaffe-holden
+    role: acoustics
+    note: "No firm record yet"
+  - firm: fisher-dachs-associates
+    role: technical-consulting
+    note: "Theater consultant; no firm record yet"
+  - firm: 2x4
+    role: graphics-wayfinding
+    note: "No firm record yet"
+  - firm: van-deusen-and-associates
+    role: av-integration
+    note: "No firm record yet"
+technologies: []
+summary: >
+  A roughly 100,000 sq ft teaching and rehearsal-space expansion of The
+  Juilliard School in New York, physically interlocked with but
+  programmatically distinct from the adjacent Alice Tully Hall,
+  completed 2009; architecture by Diller Scofidio + Renfro with
+  FXCollaborative.
+description: ""
+sources:
+  - https://dsrny.com/project/the-juilliard-school
+  - https://www.architecturalrecord.com/articles/7656

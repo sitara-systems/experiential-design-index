@@ -1,0 +1,30 @@
+id: the-broad-core
+name: The Broad (including Broad Plaza)
+venue: the-broad
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: diller-scofidio-renfro
+    role: architecture
+  - firm: gensler
+    role: architecture
+  - firm: tillotson-design-associates
+    role: lighting-design
+  - firm: 2x4
+    role: graphics-wayfinding
+    note: "No firm record yet"
+  - firm: hood-design-studio
+    role: landscape-architecture
+    note: "No firm record yet"
+technologies: []
+summary: >
+  The Broad, a 115,000 sq ft contemporary art museum with a "veil and
+  vault" concept, opened September 2015 in Los Angeles, with architecture
+  by Diller Scofidio + Renfro and Gensler; includes the adjoining Broad
+  Plaza, landscaped by Hood Design Studio.
+description: ""
+sources:
+  - https://dsrny.com/project/the-broad
+  - https://www.archdaily.com/772778
+  - https://2x4.org/work/the-broad
+  - https://hooddesignstudio.com/broad

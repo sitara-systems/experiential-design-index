@@ -1,0 +1,9 @@
+id: bampfa
+name: Berkeley Art Museum and Pacific Film Archive
+venue_type: art-museum
+location:
+  city: Berkeley
+  state: CA
+operator: University of California, Berkeley
+sources:
+  - https://dsrny.com/project/berkeley-art-museum-and-pacific-film-archive

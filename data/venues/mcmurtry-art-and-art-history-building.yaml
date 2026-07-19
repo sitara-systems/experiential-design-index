@@ -1,0 +1,9 @@
+id: mcmurtry-art-and-art-history-building
+name: McMurtry Art and Art History Building
+venue_type: academic-institution
+location:
+  city: Stanford
+  state: CA
+operator: Stanford University
+sources:
+  - https://arts.stanford.edu/mcmurtry-building

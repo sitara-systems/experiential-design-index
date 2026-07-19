@@ -1,0 +1,9 @@
+id: alice-tully-hall
+name: Alice Tully Hall
+venue_type: cultural-center
+location:
+  city: New York
+  state: NY
+operator: Lincoln Center for the Performing Arts
+sources:
+  - https://dsrny.com/project/alice-tully-hall

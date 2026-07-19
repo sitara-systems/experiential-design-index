@@ -1,0 +1,8 @@
+id: the-broad
+name: The Broad
+venue_type: art-museum
+location:
+  city: Los Angeles
+  state: CA
+sources:
+  - https://dsrny.com/project/the-broad

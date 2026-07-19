@@ -1,0 +1,8 @@
+id: lincoln-center-for-the-performing-arts
+name: Lincoln Center for the Performing Arts
+venue_type: cultural-center
+location:
+  city: New York
+  state: NY
+sources:
+  - https://dsrny.com/project/lincoln-center-public-spaces

@@ -1,0 +1,38 @@
+id: bampfa-core
+name: Berkeley Art Museum and Pacific Film Archive
+venue: bampfa
+project_type: new-building
+year_completed: 2016
+credits:
+  - firm: diller-scofidio-renfro
+    role: architecture
+  - firm: ehdd
+    role: architecture
+    note: "No firm record yet"
+  - firm: hargreaves-associates
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: tillotson-design-associates
+    role: lighting-design
+  - firm: jaffe-holden
+    role: acoustics
+    note: "No firm record yet"
+  - firm: phd-a-design-office
+    role: graphics-wayfinding
+    note: "No firm record yet"
+  - firm: boyce-nemec-designs
+    role: av-integration
+    note: "No firm record yet"
+  - firm: fisher-dachs-associates
+    role: technical-consulting
+    note: "Theater consultant; no firm record yet"
+technologies: []
+summary: >
+  The Berkeley Art Museum and Pacific Film Archive (BAMPFA), an adaptive
+  reuse of a 1939 UC printing plant with a new steel "Cipher" addition,
+  opened January 2016 in Berkeley, California; architecture by Diller
+  Scofidio + Renfro with EHDD.
+description: ""
+sources:
+  - https://dsrny.com/project/berkeley-art-museum-and-pacific-film-archive
+  - https://www.archdaily.com/779090

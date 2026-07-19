@@ -1,0 +1,30 @@
+id: met-charles-james-beyond-fashion
+name: "Charles James: Beyond Fashion"
+venue: metropolitan-museum-of-art
+project_type: temporary-exhibition
+year_completed: 2014
+credits:
+  - firm: diller-scofidio-renfro
+    role: exhibit-design
+  - firm: big-show-consulting-and-management
+    role: fabrication
+    note: "No firm record yet"
+  - firm: parallel-development
+    role: fabrication
+    note: "No firm record yet"
+  - firm: bounding-box
+    role: content-production
+    note: "No firm record yet"
+  - firm: brooklyn-research
+    role: av-integration
+    note: "No firm record yet"
+technologies: []
+summary: >
+  "Charles James: Beyond Fashion," a temporary exhibition at the
+  Metropolitan Museum of Art in New York, opened 2014; exhibit design by
+  Diller Scofidio + Renfro.
+description: ""
+sources:
+  - https://dsrny.com/project/charles-james
+  - https://www.bigshowcm.com/portfolio/charles-james-museum-exhibit
+  - https://www.metmuseum.org/press-releases/charles-james-2013-exhibitions

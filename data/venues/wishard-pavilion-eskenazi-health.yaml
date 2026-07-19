@@ -1,0 +1,9 @@
+id: wishard-pavilion-eskenazi-health
+name: "Wishard Pavilion (\"The Commonground\")"
+venue_type: healthcare-institution
+location:
+  city: Indianapolis
+  state: IN
+operator: Eskenazi Health
+sources:
+  - https://dsrny.com/project/wishard-pavilion

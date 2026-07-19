@@ -1,0 +1,37 @@
+id: lincoln-center-public-spaces
+name: Lincoln Center Public Spaces / Infoscape
+venue: lincoln-center-for-the-performing-arts
+project_type: major-renovation
+year_completed: 2010
+credits:
+  - firm: diller-scofidio-renfro
+    role: architecture
+  - firm: fxcollaborative
+    role: architecture
+    note: "No firm record yet"
+  - firm: beyer-blinder-belle
+    role: architecture
+  - firm: mathews-nielsen-landscape-architects
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: tillotson-design-associates
+    role: lighting-design
+  - firm: scharff-weisberg
+    role: av-integration
+    note: "No firm record yet"
+  - firm: 2x4
+    role: graphics-wayfinding
+    note: "No firm record yet"
+  - firm: jaffe-holden
+    role: acoustics
+    note: "No firm record yet"
+technologies:
+  - digital wayfinding
+summary: >
+  A campus-wide plaza and fountain redesign plus the "Infoscape" smart
+  information system across Lincoln Center in New York, completed
+  2009-2010; architecture by Diller Scofidio + Renfro with FXCollaborative
+  and Beyer Blinder Belle.
+description: ""
+sources:
+  - https://dsrny.com/project/lincoln-center-public-spaces

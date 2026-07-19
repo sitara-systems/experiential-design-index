@@ -1,0 +1,8 @@
+id: the-juilliard-school
+name: The Juilliard School
+venue_type: academic-institution
+location:
+  city: New York
+  state: NY
+sources:
+  - https://dsrny.com/project/the-juilliard-school
