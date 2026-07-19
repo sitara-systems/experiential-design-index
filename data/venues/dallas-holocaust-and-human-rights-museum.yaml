@@ -5,6 +5,10 @@ location:
   city: Dallas
   state: TX
 website: https://www.dhhrm.org
+annual_attendance:
+  figure: 218000
+  year: 2023
+  source: https://www.dmagazine.com/philanthropy-nonprofits/2024/10/why-mary-pat-higgins-views-the-dallas-holocaust-and-human-rights-museums-mission-as-more-important-than-ever/
 sources:
   - https://www.dhhrm.org
   - https://bbinet.com/works/dallas-holocaust-human-rights-museum/

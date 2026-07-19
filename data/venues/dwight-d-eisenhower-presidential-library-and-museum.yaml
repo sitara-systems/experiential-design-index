@@ -5,5 +5,10 @@ location:
   city: Abilene
   state: KS
 website: https://www.eisenhowerlibrary.gov
+annual_attendance:
+  figure: 59418
+  year: 2023
+  source: https://www.archives.gov/presidential-libraries/about/frequently-asked-questions
 sources:
   - https://www.eoslightmedia.com/work/198
+  - https://www.archives.gov/presidential-libraries/about/frequently-asked-questions

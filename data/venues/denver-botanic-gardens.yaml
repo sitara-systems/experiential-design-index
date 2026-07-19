@@ -5,6 +5,10 @@ location:
   city: Denver
   state: CO
 website: https://www.botanicgardens.org
+annual_attendance:
+  figure: 1466317
+  year: 2024
+  source: https://www.botanicgardens.org/sites/default/files/file/2025-09/2024-AnnualReport.pdf
 sources:
   - https://www.botanicgardens.org/
   - https://www.plusandgreaterthan.com/projects/building-stories-24d5z-gml9e-7h884-hhpxe

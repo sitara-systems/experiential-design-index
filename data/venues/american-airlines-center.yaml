@@ -5,5 +5,9 @@ location:
   city: Dallas
   state: TX
 website: https://www.americanairlinescenter.com
+annual_attendance:
+  figure: 803174
+  year: 2025
+  source: https://www.espn.com/nba/attendance/_/year/2025/sort/homeTotal
 sources:
   - https://www.hksinc.com/what-we-do/projects/american-airlines-center/

@@ -5,5 +5,9 @@ location:
   city: Los Angeles
   state: CA
 website: https://californiasciencecenter.org
+annual_attendance:
+  figure: 1700000
+  year: 2023
+  source: https://aecom.com/wp-content/uploads/documents/reports/AECOM-Theme-Index-2023.pdf
 sources:
   - https://californiasciencecenter.org/exhibits/dogs-a-science-tail

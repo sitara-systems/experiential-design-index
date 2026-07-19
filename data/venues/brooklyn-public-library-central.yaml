@@ -6,6 +6,10 @@ location:
   state: NY
 operator: Brooklyn Public Library
 website: https://www.bklynlibrary.org
+annual_attendance:
+  figure: 1194494
+  year: 2014
+  source: https://nycfuture.org/data/nyc-libraries-by-the-numbers
 sources:
   - https://www.rocnation.com/news/the-book-of-hov-a-tribute-to-jay-z/
   - https://www.fastcompany.com/90933065/how-designers-transformed-the-brooklyn-public-library-into-a-sprawling-ode-to-jay-zs-life

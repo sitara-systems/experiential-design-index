@@ -5,6 +5,10 @@ location:
   city: Bentonville
   state: AR
 website: https://crystalbridges.org
+annual_attendance:
+  figure: 785000
+  year: 2023
+  source: https://www.theartnewspaper.com/2024/03/26/the-100-most-popular-art-museums-in-the-world-2023
 sources:
   - https://crystalbridges.org
   - https://en.wikipedia.org/wiki/Crystal_Bridges_Museum_of_American_Art

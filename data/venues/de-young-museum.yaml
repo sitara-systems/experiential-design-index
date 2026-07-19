@@ -6,5 +6,9 @@ location:
   state: CA
 operator: Fine Arts Museums of San Francisco
 website: https://deyoung.famsf.org
+annual_attendance:
+  figure: 999645
+  year: 2023
+  source: https://en.wikipedia.org/wiki/De_Young_Museum
 sources:
   - https://www.famsf.org/press-room/the-fine-arts-museums-of-san-francisco-partner-with-yves-behars-fuseproject-and-tellart-to-premiere-de-youngsters-studio-a-new-interactive-childrens-gallery-at-the-de-young-museum

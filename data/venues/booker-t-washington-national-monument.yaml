@@ -6,5 +6,9 @@ location:
   state: VA
 operator: National Park Service
 website: https://www.nps.gov/bowa/
+annual_attendance:
+  figure: 24200
+  year: 2024
+  source: https://www.nps.gov/bowa/learn/news/tourism-to-booker-t-washington-nm-contributes-$1-7-million-to-local-economy.htm
 sources:
   - https://www.nps.gov/bowa/

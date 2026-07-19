@@ -6,6 +6,10 @@ location:
   state: NC
 operator: University of North Carolina at Chapel Hill
 website: https://ackland.org
+annual_attendance:
+  figure: 46405
+  year: 2024
+  source: https://ackland.org/wp-content/uploads/sites/1075/2024/11/Annual-Report-for-Fiscal-Year-2024-V11.pdf
 sources:
   - https://ackland.org/
   - https://www.unc.edu/discover/playful-parc-pulls-passersby-to-the-ackland/

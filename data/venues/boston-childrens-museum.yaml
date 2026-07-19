@@ -5,5 +5,9 @@ location:
   city: Boston
   state: MA
 website: https://bostonchildrensmuseum.org
+annual_attendance:
+  figure: 418000
+  year: 2024
+  source: https://annualreports.bostonchildrensmuseum.org/financial-review/
 sources:
   - https://bostonchildrensmuseum.org

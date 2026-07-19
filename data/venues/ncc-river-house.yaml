@@ -3,7 +3,7 @@ name: NCC River House
 venue_type: visitor-center
 location:
   city: Ottawa
-  state: ON
+  state: "ON"
   country: CA
 operator: National Capital Commission / Ottawa Riverkeeper
 website: https://ottawariverkeeper.ca/river-house-/

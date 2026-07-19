@@ -9,3 +9,7 @@ operator: University of British Columbia
 website: https://beatymuseum.ubc.ca
 sources:
   - https://www.eoslightmedia.com/work/7
+annual_attendance:
+  figure: 42367
+  year: 2018
+  source: https://en.wikipedia.org/wiki/Beaty_Biodiversity_Museum

@@ -4,5 +4,10 @@ venue_type: childrens-museum
 location:
   city: El Paso
   state: TX
+annual_attendance:
+  figure: 280000
+  year: 2025
+  source: https://www.elpasoinc.com/news/local_news/la-nube-first-anniversary/article_9a5d3c71-99b6-439b-a576-74b6b9a62ff8.html
 sources:
   - https://www.snohetta.com/projects/el-paso-childrens-museum-la-nube
+  - https://www.elpasoinc.com/news/local_news/la-nube-first-anniversary/article_9a5d3c71-99b6-439b-a576-74b6b9a62ff8.html

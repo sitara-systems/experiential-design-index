@@ -5,6 +5,10 @@ location:
   city: Detroit
   state: MI
 website: https://www.dia.org
+annual_attendance:
+  figure: 550000
+  year: 2025
+  source: https://dia.org/about/blog/art-connects-us-2025-review
 sources:
   - https://www.dbusiness.com/daily-news/detroit-institute-of-arts-debuts-expanded-asian-art-gallery-on-sunday/
   - https://wdet.org/2018/09/14/the-detroit-institute-of-arts-is-growing-its-asian-portfolio/

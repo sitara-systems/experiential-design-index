@@ -8,3 +8,7 @@ operator: The University of Texas at Austin
 website: https://blantonmuseum.org
 sources:
   - https://blantonmuseum.org
+annual_attendance:
+  figure: 260899
+  year: 2024
+  source: https://news.utexas.edu/2025/01/14/blanton-museum-bucks-u-s-trend-sets-attendance-record-after-renovation/

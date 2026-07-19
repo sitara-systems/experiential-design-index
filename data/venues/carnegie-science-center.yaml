@@ -5,5 +5,9 @@ location:
   city: Pittsburgh
   state: PA
 website: https://www.carnegiesciencecenter.org
+annual_attendance:
+  figure: 476000
+  year: 2023
+  source: https://www.wesanews.org/arts-sports-culture/2024-01-24/carnegie-science-center-name-change-gift/
 sources:
   - https://kaminsciencecenter.org/exhibits/mars/

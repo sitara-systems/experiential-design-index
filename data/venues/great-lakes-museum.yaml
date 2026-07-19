@@ -3,7 +3,7 @@ name: Great Lakes Museum
 venue_type: history-museum
 location:
   city: Kingston
-  state: ON
+  state: "ON"
   country: CA
 website: https://greatlakesmuseum.ca
 sources:

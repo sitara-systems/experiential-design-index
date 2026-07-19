@@ -5,6 +5,10 @@ location:
   city: Powell
   state: OH
 website: https://www.columbuszoo.org
+annual_attendance:
+  figure: 1744698
+  year: 2025
+  source: https://www.columbuszoo.org/impact-report/
 sources:
   - https://www.columbuszoo.org/heart-of-africa
   - https://zoolex.org/gallery/show/1630/

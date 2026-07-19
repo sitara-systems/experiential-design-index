@@ -5,5 +5,9 @@ location:
   city: Lawrence
   state: KS
 operator: University of Kansas
+annual_attendance:
+  figure: 321939
+  year: 2023
+  source: https://en.wikipedia.org/wiki/2023_Kansas_Jayhawks_football_team
 sources:
   - https://dimin.com/

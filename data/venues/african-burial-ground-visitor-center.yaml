@@ -5,5 +5,9 @@ location:
   city: New York
   state: NY
 operator: National Park Service
+annual_attendance:
+  figure: 32465
+  year: 2025
+  source: https://en.wikipedia.org/wiki/African_Burial_Ground_National_Monument
 sources:
   - https://www.amazedesign.com/work/africanburialgroundnewyork-99bn2-6734w

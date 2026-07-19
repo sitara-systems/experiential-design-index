@@ -5,5 +5,9 @@ location:
   city: Chicago
   state: IL
 website: https://www.artic.edu
+annual_attendance:
+  figure: 1300000
+  year: 2024
+  source: https://www.theartnewspaper.com/2025/04/01/the-worlds-most-visited-museums-2024-
 sources:
   - https://www.artic.edu

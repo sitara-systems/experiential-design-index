@@ -6,6 +6,10 @@ location:
   state: UT
 operator: National Park Service (Dinosaur National Monument)
 website: https://www.nps.gov/dino/planyourvisit/visitorcenters.htm
+annual_attendance:
+  figure: 326529
+  year: 2023
+  source: https://www.nps.gov/dino/learn/news/2023visitorspendingeffects.htm
 sources:
   - https://www.nps.gov/dino/planyourvisit/visitorcenters.htm
   - https://www.recreation.gov/camping/poi/258725

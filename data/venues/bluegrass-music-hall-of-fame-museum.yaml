@@ -8,3 +8,7 @@ website: https://www.bluegrasshall.org/
 sources:
   - https://www.bluegrasshall.org/
   - https://visitowensboro.com/2018/09/bluegrass-museum-hall-of-fame-grand-opening/
+annual_attendance:
+  figure: 6948
+  year: 2025
+  source: https://visitowensboro.com/2026/03/owensboro-goes-global-visitors-from-31-countries-discover-the-bluegrass-music-hall-of-fame/

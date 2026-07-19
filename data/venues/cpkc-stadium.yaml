@@ -5,5 +5,9 @@ location:
   city: Kansas City
   state: MO
 operator: Kansas City Current (NWSL)
+annual_attendance:
+  figure: 11500
+  year: 2024
+  source: https://en.wikipedia.org/wiki/2024_Kansas_City_Current_season
 sources:
   - https://dimin.com/

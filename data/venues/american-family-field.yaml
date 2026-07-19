@@ -6,6 +6,10 @@ location:
   state: WI
 operator: Milwaukee Brewers
 website: https://www.mlb.com/brewers/ballpark
+annual_attendance:
+  figure: 2650089
+  year: 2025
+  source: https://biztimes.com/brewers-attendance-this-year-ranked-12th-in-mlb/
 sources:
   - https://www.mlb.com/brewers/ballpark/attractions/selig-experience
   - https://en.wikipedia.org/wiki/American_Family_Field

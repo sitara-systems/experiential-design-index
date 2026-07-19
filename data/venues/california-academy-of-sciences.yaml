@@ -5,5 +5,9 @@ location:
   city: San Francisco
   state: CA
 website: https://www.calacademy.org
+annual_attendance:
+  figure: 1245000
+  year: 2023
+  source: https://aecom.com/wp-content/uploads/documents/reports/AECOM-Theme-Index-2023.pdf
 sources:
   - https://www.calacademy.org/exhibits/color-of-life

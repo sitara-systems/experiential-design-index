@@ -6,5 +6,10 @@ location:
   state: CA
 operator: Disneyland Resort / The Walt Disney Company
 website: https://disneyland.disney.go.com
+annual_attendance:
+  figure: 17330000
+  year: 2024
+  source: https://en.wikipedia.org/wiki/Disneyland
 sources:
   - https://en.wikipedia.org/wiki/Star_Wars:_Galaxy%27s_Edge
+  - https://en.wikipedia.org/wiki/Disneyland

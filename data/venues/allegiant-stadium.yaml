@@ -6,6 +6,10 @@ location:
   state: NV
 operator: Las Vegas Raiders
 website: https://www.allegiantstadium.com
+annual_attendance:
+  figure: 1700000
+  year: 2025
+  source: https://www.reviewjournal.com/business/stadium/raiders-big-events-fuel-allegiant-stadium-growth-despite-vegas-downturn-3620736/
 sources:
   - https://www.brcweb.com/project/las-vegas-raiders-allegiant-stadium-tour/
   - https://en.wikipedia.org/wiki/Allegiant_Stadium

@@ -6,5 +6,9 @@ location:
   state: TX
 operator: National Park Service
 website: https://www.nps.gov/cham/
+annual_attendance:
+  figure: 8324
+  year: 2023
+  source: https://en.wikipedia.org/wiki/Chamizal_National_Memorial
 sources:
   - https://www.nps.gov/cham/

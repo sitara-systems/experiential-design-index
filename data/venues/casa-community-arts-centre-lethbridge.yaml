@@ -6,6 +6,10 @@ location:
   state: AB
   country: CA
 website: https://casalethbridge.ca
+annual_attendance:
+  figure: 164000
+  year: 2025
+  source: https://lethbridgeherald.com/news/lethbridge-news/2026/03/28/allied-arts-council-celebrates-accomplishments/
 sources:
   - https://www.metzchew.com/mirrored-earth
   - https://casalethbridge.ca/about/

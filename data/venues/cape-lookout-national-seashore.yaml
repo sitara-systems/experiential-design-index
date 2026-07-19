@@ -6,6 +6,10 @@ location:
   state: NC
 operator: National Park Service
 website: https://www.nps.gov/calo
+annual_attendance:
+  figure: 552786
+  year: 2024
+  source: https://www.nps.gov/calo/learn/news/2025_09_30_tourism-to-cape-lookout-national.htm
 sources:
   - https://www.nps.gov/calo/learn/news/2021-04-09.htm
   - https://www.nps.gov/calo/planyourvisit/visitorcenters.htm

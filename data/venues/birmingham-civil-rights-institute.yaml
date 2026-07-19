@@ -7,3 +7,7 @@ location:
 website: https://www.bcri.org
 sources:
   - https://www.bcri.org
+annual_attendance:
+  figure: 46000
+  year: 2023
+  source: https://b-metro.com/2024/04/08/give-birmingham-birmingham-civil-rights-institute-2/

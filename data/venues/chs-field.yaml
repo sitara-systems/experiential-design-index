@@ -6,5 +6,9 @@ location:
   state: MN
 operator: St. Paul Saints
 website: https://www.cityofbaseballmuseum.com/chs-field
+annual_attendance:
+  figure: 420428
+  year: 2025
+  source: https://www.baseballamerica.com/stories/milb-attendance-down-2-9-percent-in-2025-tops-30-million-with-late-season-surge/
 sources:
   - https://www.cityofbaseballmuseum.com/chs-field

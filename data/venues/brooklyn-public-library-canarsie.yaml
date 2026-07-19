@@ -6,5 +6,9 @@ location:
   state: NY
 operator: Brooklyn Public Library
 website: https://www.bklynlibrary.org
+annual_attendance:
+  figure: 120332
+  year: 2014
+  source: https://nycfuture.org/data/nyc-libraries-by-the-numbers
 sources:
   - https://studiojoseph.com/work/canarsie-branch

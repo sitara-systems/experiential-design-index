@@ -6,5 +6,9 @@ location:
   state: PA
 operator: Pittsburgh Steelers
 website: https://www.steelers.com/stadium/
+annual_attendance:
+  figure: 535045
+  year: 2024
+  source: https://www.espn.com/nfl/attendance/_/year/2024
 sources:
   - https://www.steelers.com/stadium/

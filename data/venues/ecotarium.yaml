@@ -5,5 +5,10 @@ location:
   city: Worcester
   state: MA
 website: https://ecotarium.org
+annual_attendance:
+  figure: 178000
+  year: 2019
+  source: https://spectrumnews1.com/ma/worcester/news/2020/02/19/ecotarium-attendance-record
 sources:
   - https://ecotarium.org
+  - https://spectrumnews1.com/ma/worcester/news/2020/02/19/ecotarium-attendance-record
