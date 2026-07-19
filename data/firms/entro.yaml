@@ -5,7 +5,7 @@ aka:
 website: https://entro.com
 hq:
   city: Toronto
-  state: ON
+  state: "ON"
   country: Canada
 roles:
   - graphics-wayfinding

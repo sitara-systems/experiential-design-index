@@ -4,7 +4,7 @@ aka: []
 website: https://dsai.ca
 hq:
   city: Toronto
-  state: ON
+  state: "ON"
   country: CA
 other_offices:
   - city: Vancouver

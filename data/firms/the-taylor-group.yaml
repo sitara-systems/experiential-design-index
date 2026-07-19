@@ -22,7 +22,7 @@ other_offices:
   - city: Orlando
     state: FL
   - city: Toronto
-    state: ON
+    state: "ON"
     country: CA
 founded: 1931
 roles:

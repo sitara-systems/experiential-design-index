@@ -7,12 +7,39 @@
 {% block content %}
 <div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; Projects</div>
 <h1>Projects</h1>
-<p class="subtitle">{{ projects|length }} projects, alphabetically.</p>
-<table class="list">
+<div class="filters" id="projectFilters">
+  <label>Type
+    <select data-filter-field="type">
+      <option value="">All types</option>
+      {% for t in filter_options.types %}
+      <option value="{{ t.id }}">{{ t.label }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>Status
+    <select data-filter-field="status">
+      <option value="">All statuses</option>
+      {% for s in filter_options.statuses %}
+      <option value="{{ s.id }}">{{ s.label }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>Year
+    <select data-filter-field="year">
+      <option value="">All years</option>
+      {% for y in filter_options.years %}
+      <option value="{{ y }}">{{ y }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <button type="button" data-filter-reset>Reset</button>
+</div>
+<p class="subtitle" id="projectCount">{{ projects|length }} projects, alphabetically.</p>
+<table class="list" id="projectsTable">
   <thead><tr><th>Name</th><th>Venue</th><th>Type</th><th>Year</th></tr></thead>
   <tbody>
   {% for p in projects %}
-    <tr>
+    <tr data-type="{{ p.project_type or '' }}" data-status="{{ p.status or 'completed' }}" data-year="{{ p.year_completed or p.year_expected or '' }}">
       <td><a href="{{ base }}/projects/{{ p.id }}.html">{{ p.name }}</a></td>
       <td>{% if p.venue_exists %}<a href="{{ base }}/venues/{{ p.venue }}.html">{{ p.venue_name }}</a>{% else %}{{ p.venue_name }}{% endif %}</td>
       <td>{{ p.project_type_label }}</td>
@@ -21,4 +48,10 @@
   {% endfor %}
   </tbody>
 </table>
+<script src="{{ base }}/assets/filter.js" defer></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  initTableFilters({ table: "projectsTable", filters: "projectFilters", count: "projectCount", label: "projects" });
+});
+</script>
 {% endblock %}

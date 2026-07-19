@@ -18,7 +18,7 @@ other_offices:
     country: GB
     note: Global headquarters
   - city: Markham
-    state: ON
+    state: "ON"
     country: CA
     note: North American distributor office
 founded: 1980

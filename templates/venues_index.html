@@ -7,12 +7,31 @@
 {% block content %}
 <div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; Venues</div>
 <h1>Venues</h1>
-<p class="subtitle">{{ venues|length }} venues, alphabetically.</p>
-<table class="list">
+<div class="filters" id="venueFilters">
+  <label>Type
+    <select data-filter-field="type">
+      <option value="">All types</option>
+      {% for t in filter_options.types %}
+      <option value="{{ t.id }}">{{ t.label }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>State
+    <select data-filter-field="state">
+      <option value="">All states</option>
+      {% for s in filter_options.states %}
+      <option value="{{ s }}">{{ s }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <button type="button" data-filter-reset>Reset</button>
+</div>
+<p class="subtitle" id="venueCount">{{ venues|length }} venues, alphabetically.</p>
+<table class="list" id="venuesTable">
   <thead><tr><th>Name</th><th>Type</th><th>Location</th><th>Projects</th></tr></thead>
   <tbody>
   {% for v in venues %}
-    <tr>
+    <tr data-type="{{ v.venue_type or '' }}" data-state="{{ v.location.state if v.location else '' }}">
       <td><a href="{{ base }}/venues/{{ v.id }}.html">{{ v.name }}</a></td>
       <td>{{ v.venue_type_label }}</td>
       <td>{{ v.location.city }}, {{ v.location.state }}</td>
@@ -21,4 +40,10 @@
   {% endfor %}
   </tbody>
 </table>
+<script src="{{ base }}/assets/filter.js" defer></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  initTableFilters({ table: "venuesTable", filters: "venueFilters", count: "venueCount", label: "venues" });
+});
+</script>
 {% endblock %}

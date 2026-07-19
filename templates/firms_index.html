@@ -7,12 +7,48 @@
 {% block content %}
 <div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; Firms</div>
 <h1>Firms</h1>
-<p class="subtitle">{{ firms|length }} firms, alphabetically.</p>
-<table class="list">
+<div class="filters" id="firmFilters">
+  <label>Role
+    <select data-filter-field="roles" data-filter-mode="includes">
+      <option value="">All roles</option>
+      {% for r in filter_options.roles %}
+      <option value="{{ r.id }}">{{ r.label }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>Status
+    <select data-filter-field="status">
+      <option value="">All statuses</option>
+      {% for s in filter_options.statuses %}
+      <option value="{{ s.id }}">{{ s.label }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>HQ state
+    <select data-filter-field="state">
+      <option value="">All states</option>
+      {% for s in filter_options.states %}
+      <option value="{{ s }}">{{ s }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <button type="button" data-filter-reset>Reset</button>
+</div>
+<p class="subtitle" id="firmCount">{{ firms|length }} firms, alphabetically.</p>
+<p class="note">
+  Showing firms with {{ directory_min_projects }}+ credited projects in the index.
+  {% if firms_below_threshold_count %}
+  {{ firms_below_threshold_count }} more firms are in the dataset below that
+  threshold — find them via a project's credits, or the
+  <a href="{{ base }}/data/">open-data export</a>.
+  {% endif %}
+  See <a href="{{ base }}/about.html">About</a> for why.
+</p>
+<table class="list" id="firmsTable">
   <thead><tr><th>Name</th><th>HQ</th><th>Roles</th><th>Status</th></tr></thead>
   <tbody>
   {% for f in firms %}
-    <tr>
+    <tr data-roles="{{ (f.roles or []) | join(',') }}" data-status="{{ f.status or '' }}" data-state="{{ f.hq.state if f.hq else '' }}">
       <td><a href="{{ base }}/firms/{{ f.id }}.html">{{ f.name }}</a></td>
       <td>{{ f.hq.city }}, {{ f.hq.state }}</td>
       <td class="roles">{{ f.role_labels | join(', ') }}</td>
@@ -21,4 +57,10 @@
   {% endfor %}
   </tbody>
 </table>
+<script src="{{ base }}/assets/filter.js" defer></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  initTableFilters({ table: "firmsTable", filters: "firmFilters", count: "firmCount", label: "firms" });
+});
+</script>
 {% endblock %}

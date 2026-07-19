@@ -37,6 +37,13 @@ VOCAB_PATH = ROOT / "schema" / "vocabularies.yaml"
 
 SITE_NAME = "The Experiential Design Index"
 SITE_URL = "https://sitara.systems/experiential-design-index"  # placeholder; final path TBD per hosting decision (D1)
+
+# Directory-display threshold (docs/editorial-policy.md, decided 2026-07-19).
+# Distinct from the 3-project dataset-inclusion bar enforced by validate.py:
+# a firm below this count still gets a full record -- its own page, every
+# project-page credit link, and the open-data export -- it just isn't
+# surfaced in the browse/list index or that index's JSON-LD ItemList.
+DIRECTORY_DISPLAY_MIN_PROJECTS = 8
 # Internal-link prefix derived from SITE_URL's path so links resolve at the
 # deployed location. SITE_URL is the single knob: change it at deploy time and
 # both absolute URLs (sitemap/JSON-LD) and internal hrefs follow.
@@ -284,6 +291,8 @@ def main():
     (SITE / "projects").mkdir(parents=True)
     (SITE / "venues").mkdir(parents=True)
     (SITE / "data").mkdir(parents=True)
+    (SITE / "assets").mkdir(parents=True)
+    shutil.copy(ROOT / "assets" / "filter.js", SITE / "assets" / "filter.js")
 
     vocab = load_vocab()
     firms = load_records("firms")
@@ -312,6 +321,45 @@ def main():
     projects_sorted = sorted(projects.values(), key=lambda p: p["name"].lower())
     venues_sorted = sorted(venues.values(), key=lambda v: v["name"].lower())
 
+    # Directory-display split: every firm still gets its own page (below),
+    # but only firms clearing the threshold appear in the browse index.
+    firms_directory = [f for f in firms_sorted if len(f.get("projects") or []) >= DIRECTORY_DISPLAY_MIN_PROJECTS]
+    firms_below_threshold_count = len(firms_sorted) - len(firms_directory)
+
+    # ---- filter option lists (browse-page dropdowns) ----
+    # Built from values actually present in the visible directory, not the
+    # full vocab or the full dataset, so every option a visitor picks
+    # returns at least one result in what they're actually looking at.
+    firm_role_ids = sorted({r for f in firms_directory for r in (f.get("roles") or [])})
+    firm_status_ids = sorted({f.get("status") for f in firms_directory if f.get("status")})
+    firm_states = sorted({f["hq"]["state"] for f in firms_directory if f.get("hq") and f["hq"].get("state")})
+    firm_filter_options = {
+        "roles": [{"id": r, "label": vocab["roles"].get(r, r)} for r in firm_role_ids],
+        "statuses": [{"id": s, "label": vocab["firm_statuses"].get(s, s)} for s in firm_status_ids],
+        "states": firm_states,
+    }
+
+    project_type_ids = sorted({p.get("project_type") for p in projects.values() if p.get("project_type")})
+    project_status_ids = sorted({p.get("status") or "completed" for p in projects.values()})
+    project_status_labels = {"completed": "Completed", "announced": "Announced", "in-progress": "In progress"}
+    project_years = sorted(
+        {str(p.get("year_completed") or p.get("year_expected")) for p in projects.values()
+         if p.get("year_completed") or p.get("year_expected")},
+        reverse=True,
+    )
+    project_filter_options = {
+        "types": [{"id": t, "label": vocab["project_types"].get(t, t)} for t in project_type_ids],
+        "statuses": [{"id": s, "label": project_status_labels.get(s, s.title())} for s in project_status_ids],
+        "years": project_years,
+    }
+
+    venue_type_ids = sorted({v.get("venue_type") for v in venues.values() if v.get("venue_type")})
+    venue_states = sorted({v["location"]["state"] for v in venues.values() if v.get("location") and v["location"].get("state")})
+    venue_filter_options = {
+        "types": [{"id": t, "label": vocab["venue_types"].get(t, t)} for t in venue_type_ids],
+        "states": venue_states,
+    }
+
     # Home
     home_ld = [
         {
@@ -332,26 +380,33 @@ def main():
     about_ld = breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("About", None)])
     render("about.html", SITE / "about.html", jsonld=dumps_ld(about_ld))
 
-    # Firms index
+    # Firms index (directory-display threshold applies -- see
+    # DIRECTORY_DISPLAY_MIN_PROJECTS; every firm still gets its own detail
+    # page below, whether or not it's listed here)
     firms_index_ld = [
-        list_jsonld("Firms", f"{SITE_URL}/firms/index.html", [f"{SITE_URL}/firms/{f['id']}.html" for f in firms_sorted]),
+        list_jsonld("Firms", f"{SITE_URL}/firms/index.html", [f"{SITE_URL}/firms/{f['id']}.html" for f in firms_directory]),
         breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("Firms", None)]),
     ]
-    render("firms_index.html", SITE / "firms" / "index.html", firms=firms_sorted, jsonld=dumps_ld(firms_index_ld))
+    render(
+        "firms_index.html", SITE / "firms" / "index.html",
+        firms=firms_directory, filter_options=firm_filter_options, jsonld=dumps_ld(firms_index_ld),
+        directory_min_projects=DIRECTORY_DISPLAY_MIN_PROJECTS,
+        firms_below_threshold_count=firms_below_threshold_count,
+    )
 
     # Projects index
     projects_index_ld = [
         list_jsonld("Projects", f"{SITE_URL}/projects/index.html", [f"{SITE_URL}/projects/{p['id']}.html" for p in projects_sorted]),
         breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("Projects", None)]),
     ]
-    render("projects_index.html", SITE / "projects" / "index.html", projects=projects_sorted, jsonld=dumps_ld(projects_index_ld))
+    render("projects_index.html", SITE / "projects" / "index.html", projects=projects_sorted, filter_options=project_filter_options, jsonld=dumps_ld(projects_index_ld))
 
     # Venues index
     venues_index_ld = [
         list_jsonld("Venues", f"{SITE_URL}/venues/index.html", [f"{SITE_URL}/venues/{v['id']}.html" for v in venues_sorted]),
         breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("Venues", None)]),
     ]
-    render("venues_index.html", SITE / "venues" / "index.html", venues=venues_sorted, jsonld=dumps_ld(venues_index_ld))
+    render("venues_index.html", SITE / "venues" / "index.html", venues=venues_sorted, filter_options=venue_filter_options, jsonld=dumps_ld(venues_index_ld))
 
     # Detail pages
     for fid, f in firms.items():
@@ -445,6 +500,11 @@ Sitemap: {sitemap}
         "- No ranked \"Top firms\" lists are published yet; do not infer a ranking from list order (pages are alphabetical).",
         "- A project's credits table may list a firm with no linked firm page yet (marked \"unlinked\") -- this is a known, temporary gap in coverage, not an error.",
         "- Firms marked \"activity unclear\" or \"inactive\" are historical-record entries, not currently-operating recommendations.",
+        f"- The [Firms]({SITE_URL}/firms/index.html) browse index lists only firms with "
+        f"{DIRECTORY_DISPLAY_MIN_PROJECTS}+ credited projects ({len(firms_directory)} of {len(firms)} "
+        "firms). Firms below that count still have a full page (reachable from any project "
+        "they're credited on) and are included in the open-data export -- they're just not "
+        "surfaced in the browse list yet. See About for why.",
     ]
     (SITE / "llms.txt").write_text("\n".join(llms_lines) + "\n", encoding="utf-8")
 
@@ -527,6 +587,9 @@ Sitemap: {sitemap}
     # ---- summary ----
     print(f"Built {SITE_NAME}:")
     print(f"  {len(firms)} firm pages, {len(projects)} project pages, {len(venues)} venue pages")
+    print(f"  firms directory (browse index): {len(firms_directory)} of {len(firms)} firms "
+          f"(>= {DIRECTORY_DISPLAY_MIN_PROJECTS} credited projects); {firms_below_threshold_count} below threshold "
+          f"still have individual pages + open-data rows")
     print(f"  + home, about, 3 browse index pages")
     print(f"  robots.txt, llms.txt, sitemap.xml ({len(urls)} urls)")
     print(f"  open-data exports: _site/data/{{firms,projects,venues}}.{{json,csv}}")

@@ -3,7 +3,7 @@ name: Sheldon & Tracy Levy Student Learning Centre
 venue_type: academic-institution
 location:
   city: Toronto
-  state: ON
+  state: "ON"
   country: Canada
 operator: Toronto Metropolitan University
 sources:

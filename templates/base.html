@@ -89,6 +89,11 @@
   .counts .count { }
   .counts .count .n { font-size: 2rem; font-weight: 700; display: block; }
   .counts .count .label { color: var(--muted); font-size: .9rem; }
+  .filters { display: flex; flex-wrap: wrap; align-items: end; gap: .75rem 1.25rem; margin: .75rem 0 1.25rem; padding: .85rem 1rem; background: var(--accent-bg); border: 1px solid var(--border); border-radius: .4rem; }
+  .filters label { display: flex; flex-direction: column; gap: .25rem; font-size: .8rem; color: var(--muted); font-weight: 600; text-transform: uppercase; letter-spacing: .03em; }
+  .filters select { font: inherit; font-size: .9rem; padding: .3rem .4rem; border: 1px solid var(--border); border-radius: .3rem; background: var(--bg); color: var(--fg); min-width: 10rem; }
+  .filters button { font: inherit; font-size: .85rem; padding: .35rem .8rem; border: 1px solid var(--border); border-radius: .3rem; background: var(--bg); color: var(--fg); cursor: pointer; align-self: end; }
+  .filters button:hover { background: var(--accent-bg); border-color: var(--accent); }
   footer.site { border-top: 1px solid var(--border); padding: 1.5rem 0; color: var(--muted); font-size: .85rem; }
   footer.site a { color: var(--muted); }
   code { background: var(--accent-bg); padding: .1rem .3rem; border-radius: .25rem; font-size: .9em; }

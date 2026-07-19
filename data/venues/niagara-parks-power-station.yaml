@@ -3,7 +3,7 @@ name: Niagara Parks Power Station
 venue_type: history-museum
 location:
   city: Niagara Falls
-  state: ON
+  state: "ON"
   country: Canada
 operator: Niagara Parks
 sources:

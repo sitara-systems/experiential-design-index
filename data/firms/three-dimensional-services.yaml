@@ -9,7 +9,7 @@ hq:
   country: CA
 other_offices:
   - city: Toronto
-    state: ON
+    state: "ON"
     country: CA
   - city: Grand Rapids
     state: MI
