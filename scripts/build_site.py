@@ -44,6 +44,11 @@ SITE_URL = "https://sitara.systems/experiential-design-index"  # placeholder; fi
 # project-page credit link, and the open-data export -- it just isn't
 # surfaced in the browse/list index or that index's JSON-LD ItemList.
 DIRECTORY_DISPLAY_MIN_PROJECTS = 8
+
+# Dataset-inclusion bar (validate.py enforces this on the data itself; this
+# constant exists only so the About page can state the number from one
+# place instead of a second hardcoded copy going stale).
+DATASET_INCLUSION_MIN_PROJECTS = 3
 # Internal-link prefix derived from SITE_URL's path so links resolve at the
 # deployed location. SITE_URL is the single knob: change it at deploy time and
 # both absolute URLs (sitemap/JSON-LD) and internal hrefs follow.
@@ -378,7 +383,14 @@ def main():
 
     # About
     about_ld = breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("About", None)])
-    render("about.html", SITE / "about.html", jsonld=dumps_ld(about_ld))
+    render(
+        "about.html", SITE / "about.html", jsonld=dumps_ld(about_ld),
+        dataset_min_projects=DATASET_INCLUSION_MIN_PROJECTS,
+        directory_min_projects=DIRECTORY_DISPLAY_MIN_PROJECTS,
+        firm_count=len(firms), directory_firm_count=len(firms_directory),
+        project_count=len(projects), venue_count=len(venues),
+        build_date=datetime.date.today().isoformat(),
+    )
 
     # Firms index (directory-display threshold applies -- see
     # DIRECTORY_DISPLAY_MIN_PROJECTS; every firm still gets its own detail

@@ -19,16 +19,81 @@ design and software studio. Sitara Systems is itself listed in the index
 under the same inclusion criteria, sourcing standards, and activity-status
 methodology as every other firm.</p>
 
-<h2>What gets a firm included</h2>
-<p>A firm is included when it has at least <strong>three projects</strong> in
-the experiential design space verifiable from public sources, and when the
-firm and its credits can be verified from public sources &mdash; a firm
-portfolio, institutional announcement, award record, or press coverage.
-Facts that cannot be sourced are not published. There is no fee, no
-submission requirement, and no relationship prerequisite for inclusion.</p>
-<p><strong>Current geographic scope:</strong> firms headquartered in the
-United States. Non-US firms credited on US projects appear in credits and
-receive their own records as coverage expands.</p>
+<p class="subtitle">As of this build: {{ firm_count }} firms ({{ directory_firm_count }}
+in the browse directory), {{ project_count }} projects, {{ venue_count }}
+venues. Last built {{ build_date }}.</p>
+
+<h2>What gets into the dataset</h2>
+<p>A firm gets a record when two things are both true: it has at least
+<strong>{{ dataset_min_projects }} projects</strong> in the experiential design space, and both the
+firm and its credits can be verified from a public, independently checkable
+source &mdash; a firm's own portfolio page, an institutional announcement, an
+award record, or press coverage. A firm's own published website counts as a
+source (it's public even if self-authored); a private claim, a paywalled
+report, or a page that errors for every reader does not, and the fact it
+would support is left out rather than published on a "trust us" basis.</p>
+<p>There is no fee, no submission requirement, and no relationship
+prerequisite for inclusion. Firms are added because their work belongs in
+the record.</p>
+<p><strong>Geographic scope:</strong> firms headquartered in <strong>North
+America</strong> (the United States or Canada) get their own record. This is
+a participation test, not a residency test &mdash; it excludes firms that
+don't meaningfully participate in the North American industry, not Canadian
+firms, which count fully alongside US ones. A firm headquartered elsewhere
+still appears in credits on North American projects it worked on; it just
+doesn't get its own page until its operating presence here grows.</p>
+
+<h2>What's browsable in the directory</h2>
+<p>The number above (three projects) is deliberately low &mdash; it exists so
+the dataset can track a firm's progress toward a fuller picture rather than
+re-researching it from scratch later. But at {{ dataset_min_projects }} projects, "does real work
+in this space" and "did it once or twice" are hard to tell apart, and a
+directory meant to help designers and museums discover real partners &mdash;
+not just the five firms everyone already has in mind &mdash; stops being
+useful if it lists everyone who's ever touched the space.</p>
+<p>So the browsable firm list on this site shows only firms with
+<strong>{{ directory_min_projects }} or more</strong> credited projects. Below that, a firm's record
+still exists in full: it's cited on every project it's credited on, it has
+its own page (reachable from any of those project pages), and it ships in
+the open-data export. It just isn't surfaced in the directory's browse view
+yet. As the dataset grows, firms cross the line and appear automatically
+&mdash; there's no manual promotion step.</p>
+
+<h2>What kind of work counts</h2>
+<p>The index records <strong>built, physical, permanent or semi-permanent
+experiences</strong> &mdash; museums, science centers, visitor centers,
+brand experience centers, executive briefing centers, and similar spaces a
+firm delivered and that persist as standing infrastructure. Several
+categories are deliberately out of scope, not overlooked:</p>
+<ul>
+  <li><strong>Advertising and marketing.</strong> Ad campaigns, commercials,
+  and one-off brand activations are excluded &mdash; credit rosters for this
+  kind of work are notoriously incomplete and rarely documented publicly,
+  which runs against the sourcing standard above. A firm's brand experience
+  center building stays in scope; its ad campaign for the same client does
+  not.</li>
+  <li><strong>Plans without a built outcome.</strong> Master plans,
+  feasibility studies, and strategy engagements that didn't result in a
+  built space aren't recorded as projects.</li>
+  <li><strong>Ephemeral theatrical and live-event production.</strong>
+  Single-run scenic and media design for stage shows, concerts, galas, and
+  conference sets &mdash; however well-documented &mdash; don't fit the
+  index's persistent-venue model.</li>
+  <li><strong>Repeated, templated installation programs.</strong> A
+  near-identical build installed across many sites (a standard product
+  line, not a bespoke design each time) is treated like a manufactured
+  product, not a series of credited projects.</li>
+  <li><strong>Cruise ships.</strong> Not a fixed venue.</li>
+  <li><strong>Multi-site programs with no single anchor venue</strong> (a
+  citywide signage program, a touring installation with stops in several
+  cities) &mdash; the index's one-project-one-venue model isn't stretched to
+  fit these.</li>
+  <li><strong>Trade-show booths, pop-ups, and conference installations</strong>
+  &mdash; even inside the corporate-experience segment, only fixed
+  installations a company maintains as standing infrastructure count. A
+  firm's executive briefing center is in scope; the same firm's trade-show
+  booth for the same client is not.</li>
+</ul>
 
 <h2>Activity status</h2>
 <p>Every firm record carries an evidence-based activity status &mdash;
@@ -39,10 +104,22 @@ prominently so a reader is never misled by a portfolio from a studio that no
 longer exists.</p>
 
 <h2>Corrections</h2>
-<p>Every factual claim carries a source on the record. Corrections from
-credited firms and institutions are prioritized. Corrections that change
-credits are noted in the record's git history, which serves as the public
-changelog.</p>
+<p>Every factual claim carries a source on the record. Anyone can submit a
+correction by opening an issue in the project's repository; corrections from
+credited firms and institutions are prioritized and typically resolved
+within two weeks. Corrections that change credits are noted in the record's
+git history, which serves as the public changelog &mdash; nothing is quietly
+edited.</p>
+
+<h2>How the dataset grows</h2>
+<p>New records come from two ongoing processes, run on a rolling monthly
+cadence: sweeping industry award archives (SEGD, AAM, TEA, GACEP, and
+others) for newly eligible work, and following the credit graph outward
+from firms already in the dataset &mdash; reading each one's own published
+portfolio for projects and collaborators not yet recorded. Both processes
+are subject to the same sourcing and scope rules described above; nothing
+gets a shortcut past them for being findable by one method versus the
+other.</p>
 
 <h2>License</h2>
 <p>The data and written content of The Experiential Design Index are

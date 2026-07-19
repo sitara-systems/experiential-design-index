@@ -595,6 +595,98 @@ This methodology also covers maintenance, not only initial seeding:
   in the BFS sense, just routine upkeep. Track it the same way: check
   `data/projects/` before adding, cite sources, run the validator.
 
+## Monthly expansion checklist
+
+*The repeatable procedure for keeping the dataset growing after the initial
+seed build. A fresh session (or Nathan) should be able to start here without
+re-deriving anything — every step below points at the fuller process
+description elsewhere in this doc or in `editorial-policy.md`.*
+
+Run these five tracks roughly once a month, in the order below (each one
+is bounded and produces a natural stopping point — don't feel obligated to
+run all five in one sitting if time is short; picking up an unfinished
+track next month is fine, just note where it stopped in `phase2-research-log.md`).
+
+### 1. Promote the ready backlog (near-zero cost, do this first every time)
+
+Firms already sitting at ≥3 credited-but-unlinked projects just need a
+firm-record file written — no new research. Recompute the list fresh each
+month (don't reuse an old one — the dataset moves):
+
+```
+# for each firm id credited on ≥3 projects with no data/firms/<id>.yaml:
+grep -h "firm: " data/projects/*.yaml | sort | uniq -c | sort -rn
+# cross-reference against data/firms/ to find which ids have no file
+```
+
+Dispatch in batches of ~8 per research agent (see any of the "Promote N
+firms" agent prompts from `phase2-research-log.md`'s 2026-07-19 entries for
+the exact prompt shape) — these are light, ~5-10 min/firm confirmation
+passes (HQ, founding year, roles), not full crawls, since the credits are
+already sourced. Watch for: individuals rather than firms (skip, per the
+firms-only schema), duplicate ids for an already-recorded firm under a
+different slug (reconcile, don't create a second record), and firms whose
+North America operating presence is thin (apply the same
+operating-reality test used for Snøhetta/Mecanoo/Goppion).
+
+### 2. One award-archive sweep (new source or new year)
+
+Pick the next not-yet-swept year for an existing source, or a source not
+yet tried, from `docs/sources.md`. SEGD/AAM/TEA are annual-cycle awards —
+check whether a new cycle has been announced since the last sweep before
+assuming "already covered." Follow the award-archive sweep process above.
+
+### 3. One tiered-crawl tier, or a segment-directory sweep
+
+Alternate between these month to month rather than always doing the same
+one — they find different things (see "Two complementary discovery
+methods" above):
+
+- **Tiered crawl**: recompute the current candidate list (firms at ≥3
+  credits with no record whose own portfolio hasn't been crawled yet),
+  pick a bounded batch (8-15 firms), run the per-tier procedure. Pause
+  after — don't auto-chain into the next tier.
+- **Segment-directory sweep**: the GACEP Solutions Partners pass (2026-07-19)
+  is the template — a trade-association or industry-directory page listing
+  vendors/firms in an underserved segment. Cross-reference against
+  `data/firms/`, bounded research per new name, same corroboration and
+  scope rules. Worth repeating periodically since directories add new
+  listings over time, and worth running against other segments as they're
+  identified (the corporate-experiential segment was the first; others —
+  e.g. a themed-attraction trade body, a specific regional AIA chapter
+  award, a museum-technology vendor directory — are candidates for future
+  months, not yet run).
+
+### 4. Per-firm re-verification, on a rolling basis (not every firm every month)
+
+Don't re-run the full 20-batch, 150-firm portfolio screen monthly — that
+was a one-time catch-up pass. Instead, each month, re-verify a small,
+rotating slice:
+
+- Any firm whose `status_verified` date is more than ~6 months old, oldest
+  first (`grep -h status_verified data/firms/*.yaml | sort` gives the
+  ordering).
+- Any firm flagged in `phase2-research-log.md` as a "near-miss" (1-2
+  credits short of the dataset bar) — a quick recheck for a new credit.
+- Any firm with a scheduled `status: unclear` re-check window implied by
+  its `status_basis` (e.g. "no activity found since X" entries approaching
+  the 5-year inactive threshold).
+
+### 5. Close out the month
+
+1. `python scripts/validate.py` — 0 errors before committing anything.
+2. Tally credits, promote anything newly crossing the 3-project bar (this
+   overlaps with track 1 — running track 1 again at month-end catches
+   anything the month's research pushed over the line).
+3. Rebuild the site (`python scripts/build_site.py`) and spot-check the
+   firm-count / directory-count numbers on the About page look sane.
+4. Update `phase2-research-log.md` with what ran this month (which
+   tracks, what was found, what's queued for next month) and
+   `ExperientialIndex/CLAUDE.md`'s session log with a one-paragraph summary.
+5. Commit. One commit per track is fine; squashing the whole month into one
+   commit is also fine — match whatever granularity made sense for how the
+   month's session(s) actually ran.
+
 ## Reconciliation checklist (run after every batch, every tier)
 
 1. `python scripts/validate.py` — fix all errors; warnings for
