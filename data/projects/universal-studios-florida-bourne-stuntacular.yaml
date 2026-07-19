@@ -26,6 +26,10 @@ technologies:
   - real-time rendering (Unreal Engine)
   - 130-foot LED screen
   - synchronized moving set pieces
+recognition:
+  - award: "TEA Thea Awards — Outstanding Achievement, Live Attraction Spectacular"
+    year: 2021
+    source: https://www.teaconnect.org/recipients/27th-annual-thea-award-recipients
 summary: >
   The Bourne Stuntacular, a stunt show built around a 130-foot LED screen of
   real-time-rendered CG environments synchronized with live stunts, opened

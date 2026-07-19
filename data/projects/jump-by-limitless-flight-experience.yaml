@@ -21,6 +21,10 @@ technologies:
   - motion capture / body tracking
   - custom wind and suspension rig
   - custom VR headset
+recognition:
+  - award: "Thea Award — Outstanding Achievement in Connected Immersion"
+    year: 2022
+    source: https://www.teaconnect.org/recipients/29th-annual-thea-award-recipients
 summary: >
   JUMP by Limitless Flight, a location-based hyperreal wingsuit-flight
   simulator combining a physical suspension rig with real-time VR

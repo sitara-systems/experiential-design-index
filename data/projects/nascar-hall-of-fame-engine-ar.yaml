@@ -15,6 +15,10 @@ technologies:
   - augmented reality
   - ARKit
   - real-time particle animation
+recognition:
+  - award: "AAM MUSE Award — Silver, AR/VR/Mixed Reality"
+    year: 2020
+    source: https://www.aam-us.org/programs/awards-recognition/2020-muse-award-winners/
 summary: >
   Engine AR, installed in 2020 in the "Inside NASCAR" exhibit at the NASCAR
   Hall of Fame in Charlotte, NC, is a tablet-based augmented reality
