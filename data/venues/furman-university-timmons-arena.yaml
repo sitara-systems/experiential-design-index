@@ -1,0 +1,9 @@
+id: furman-university-timmons-arena
+name: Timmons Arena
+venue_type: sports-venue
+location:
+  city: Greenville
+  state: SC
+operator: Furman University
+sources:
+  - https://dimin.com/

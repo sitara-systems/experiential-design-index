@@ -13,6 +13,13 @@ credits:
     role: fabrication
   - firm: available-light
     role: lighting-design
+  - firm: sh-acoustics
+    role: technical-consulting
+    note: >
+      Acoustic control and specialized audio-delivery design throughout the
+      visitor center, including the 30-foot Welcome Hall atrium (acoustic
+      treatment and loudspeakers above a dual-fabric ceiling) and
+      custom-calibrated audio delivery for the Mapparium exhibit.
 technologies:
   - projection
   - augmented reality
@@ -39,3 +46,4 @@ sources:
   - https://www.lucicreative.com/project/publishing-house-experience
   - https://ravenswoodstudio.com/project/publishing-house-redesign/
   - https://www.christianscience.com/find-us/visit-the-mother-church/visit-the-christian-science-plaza/how-do-you-see-the-world-experience
+  - https://shacoustics.com/first-church-of-christian-science-publishing-house/

@@ -1,0 +1,9 @@
+id: missouri-s-and-t-welcome-center
+name: Missouri S&T Welcome Center
+venue_type: visitor-center
+location:
+  city: Rolla
+  state: MO
+operator: Missouri University of Science and Technology
+sources:
+  - https://dimin.com/

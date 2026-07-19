@@ -1,0 +1,8 @@
+id: haymarket-pedestrian-bridge
+name: Haymarket Pedestrian Bridge
+venue_type: public-space
+location:
+  city: Lincoln
+  state: NE
+sources:
+  - https://dimin.com/work/haymarket-pedestrian-bridge

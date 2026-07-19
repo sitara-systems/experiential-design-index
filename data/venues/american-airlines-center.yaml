@@ -1,0 +1,9 @@
+id: american-airlines-center
+name: American Airlines Center
+venue_type: sports-venue
+location:
+  city: Dallas
+  state: TX
+website: https://www.americanairlinescenter.com
+sources:
+  - https://www.hksinc.com/what-we-do/projects/american-airlines-center/

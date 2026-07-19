@@ -1,0 +1,11 @@
+id: coastside-history-museum
+name: Coastside History Museum
+venue_type: history-museum
+location:
+  city: Half Moon Bay
+  state: CA
+operator: Half Moon Bay History Association
+website: https://www.coastsidehistory.org/
+sources:
+  - https://www.halfmoonbayhistory.org/museum/
+  - https://coastsidebuzz.com/half-moon-bay-history-associations-our-new-coastside-museum-is-now-framed/

@@ -1,0 +1,34 @@
+id: stax-museum-core
+name: Stax Museum of American Soul Music
+venue: stax-museum-of-american-soul-music
+project_type: new-building
+year_completed: 2003
+credits:
+  - firm: looney-ricks-kiss
+    role: architecture
+    note: "Credited on SH Acoustics' own project page as architect/exhibit designer; no independent corroboration found. No firm record yet."
+  - firm: ravin-films
+    role: content-production
+    note: "Credited on SH Acoustics' own project page as media producer; no independent corroboration found. No firm record yet."
+  - firm: sh-acoustics
+    role: technical-consulting
+    note: >
+      SH Acoustics CEO Steve Haas directed the acoustic and audio-visual
+      design of the museum and has performed periodic recalibration
+      services since opening.
+technologies:
+  - replica recording studio
+  - interactive exhibits
+summary: >
+  The Stax Museum of American Soul Music, a 17,000 sq ft museum built as a
+  replica of the original Stax Records recording studio in Memphis,
+  Tennessee, opened May 2, 2003, with acoustic and audio-visual design by
+  SH Acoustics.
+description: >
+  A replica of the original Stax recording studio (formerly the Capitol
+  Theatre), including the sloped floor of Studio A, exhibiting artifacts,
+  photos, and interactive media on the history of Stax Records and soul
+  music.
+sources:
+  - https://en.wikipedia.org/wiki/Stax_Museum_of_American_Soul_Music
+  - https://shacoustics.com/stax-museum-of-american-soul-music/

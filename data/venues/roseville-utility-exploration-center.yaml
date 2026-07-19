@@ -1,0 +1,11 @@
+id: roseville-utility-exploration-center
+name: Utility Exploration Center
+venue_type: science-center
+location:
+  city: Roseville
+  state: CA
+operator: City of Roseville
+website: https://www.roseville.ca.gov/utility_exploration_center/index.php
+sources:
+  - https://www.roseville.ca.gov/utility_exploration_center/index.php
+  - https://rosevilletoday.com/news/roseville/roseville-utility-exploration-center-unveils-today/

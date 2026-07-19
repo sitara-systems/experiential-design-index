@@ -1,0 +1,10 @@
+id: andy-warhol-museum
+name: The Andy Warhol Museum
+venue_type: art-museum
+location:
+  city: Pittsburgh
+  state: PA
+operator: Carnegie Museums of Pittsburgh
+website: https://www.warhol.org
+sources:
+  - https://www.warhol.org

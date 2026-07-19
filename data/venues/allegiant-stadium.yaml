@@ -1,0 +1,11 @@
+id: allegiant-stadium
+name: Allegiant Stadium
+venue_type: sports-venue
+location:
+  city: Las Vegas
+  state: NV
+operator: Las Vegas Raiders
+website: https://www.allegiantstadium.com
+sources:
+  - https://www.brcweb.com/project/las-vegas-raiders-allegiant-stadium-tour/
+  - https://en.wikipedia.org/wiki/Allegiant_Stadium

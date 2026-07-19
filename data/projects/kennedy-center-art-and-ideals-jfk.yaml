@@ -6,19 +6,18 @@ year_completed: 2022
 credits:
   - firm: kieran-timberlake
     role: architecture
-    note: "no firm record yet"
   - firm: pentagram
     role: exhibit-design
     note: "Creative director Abbott Miller"
   - firm: studio-thegreeneyl
     role: media-design
-    note: "Interactive media design; no firm record yet"
+    note: "Interactive media design"
   - firm: batwin-and-robin
     role: content-production
     note: "Media concepting, design, and production"
   - firm: threshold-acoustics
     role: technical-consulting
-    note: "Acoustics and AV design; no firm record yet"
+    note: "Acoustics and AV design"
 technologies:
   - LED architectural frieze
   - interactive media

@@ -19,6 +19,13 @@ credits:
   - firm: solomon-group
     role: av-integration
     note: "."
+  - firm: sh-acoustics
+    role: technical-consulting
+    note: >
+      Audio delivery system integration, acoustic control design, and
+      calibration, maintaining minimal visible audio equipment while
+      achieving strong speech intelligibility across the voice-interactive
+      galleries.
 technologies:
   - voice interaction
   - interactive projection
@@ -34,3 +41,4 @@ sources:
   - https://segd.org/projects/planet-word-museum-of-language/
   - https://localprojects.com/work/museums-attractions/planet-word-museum-of-words-and-language/
   - https://www.prnewswire.com/news-releases/dcs-newest-museum-planet-word-opens-to-the-public-301157565.html
+  - https://shacoustics.com/planet-word-museum/

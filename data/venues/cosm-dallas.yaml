@@ -1,0 +1,11 @@
+id: cosm-dallas
+name: Cosm Dallas
+venue_type: themed-attraction
+location:
+  city: The Colony
+  state: TX
+operator: Cosm
+website: https://www.cosm.com/dallas
+sources:
+  - https://www.cosm.com/dallas
+  - https://www.grandscape.com/directory/cosm/

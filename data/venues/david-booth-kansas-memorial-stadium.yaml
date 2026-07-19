@@ -1,0 +1,9 @@
+id: david-booth-kansas-memorial-stadium
+name: David Booth Kansas Memorial Stadium
+venue_type: sports-venue
+location:
+  city: Lawrence
+  state: KS
+operator: University of Kansas
+sources:
+  - https://dimin.com/

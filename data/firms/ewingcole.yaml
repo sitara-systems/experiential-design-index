@@ -1,0 +1,38 @@
+id: ewingcole
+name: EwingCole
+website: https://www.ewingcole.com
+hq:
+  city: Philadelphia
+  state: PA
+other_offices:
+  - city: Charlotte
+    state: NC
+  - city: Irvine
+    state: CA
+  - city: New York
+    state: NY
+  - city: Pittsburgh
+    state: PA
+  - city: Raleigh
+    state: NC
+founded: 1961
+roles:
+  - architecture
+status: active
+status_basis: >
+  Credited as architect of record on the Highmark Mann Center golden-
+  anniversary transformation (opened June 2026); recent published insights
+  (2025) and active recruiting/website presence.
+status_verified: 2026-07-18
+summary: >
+  EwingCole is a Philadelphia-headquartered integrated architecture,
+  engineering, interior design, and planning firm founded in 1961 (originally
+  as Alexander Ewing & Associates), with additional offices in Charlotte,
+  Irvine, New York, Pittsburgh, and Raleigh. The firm works across civic,
+  cultural, education, health, and sports & entertainment sectors and has
+  served as architect of record on multiple Smithsonian exhibition projects
+  and the Highmark Mann Center renovation.
+sources:
+  - https://www.ewingcole.com/about-ewingcole/
+  - https://directory.aiaphiladelphia.org/philadelphia/architecture-firm/ewingcole
+  - https://www.inquirer.com/philly/news/20150607_Alexander_Ewing__93__architect.html

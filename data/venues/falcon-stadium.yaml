@@ -1,0 +1,10 @@
+id: falcon-stadium
+name: Falcon Stadium
+venue_type: sports-venue
+location:
+  city: Colorado Springs
+  state: CO
+operator: United States Air Force Academy
+website: https://goairforcefalcons.com/sports/football/facilities/falcon-stadium
+sources:
+  - https://dimin.com/work/us-air-force-academy-falcon-stadium

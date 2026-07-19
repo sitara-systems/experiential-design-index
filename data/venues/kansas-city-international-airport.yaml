@@ -1,0 +1,10 @@
+id: kansas-city-international-airport
+name: Kansas City International Airport
+venue_type: other
+location:
+  city: Kansas City
+  state: MO
+operator: Kansas City Aviation Department
+website: https://www.flykci.com
+sources:
+  - https://dimin.com/work/kansas-city-international-airport

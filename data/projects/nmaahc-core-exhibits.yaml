@@ -4,17 +4,47 @@ venue: nmaahc
 project_type: new-building
 year_completed: 2016
 credits:
+  - firm: davis-brody-bond
+    role: architecture
+    note: "Part of the Freelon Adjaye Bond/SmithGroup design-build team"
+  - firm: smithgroup
+    role: architecture
+    note: "Part of the Freelon Adjaye Bond/SmithGroup design-build team"
   - firm: ralph-appelbaum-associates
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
-technologies: []
+  - firm: design-and-production-incorporated
+    role: av-integration
+    note: "Credited as Design & Production on SH Acoustics' own project page"
+  - firm: cortina-productions
+    role: content-production
+    note: "Credited on SH Acoustics' own project page; no independent corroboration found for this specific project"
+  - firm: sh-acoustics
+    role: technical-consulting
+    note: >
+      Exhibit-space acoustics, sound containment, noise control, and
+      specialized audio design and media coordination for all galleries;
+      installation inspections and acoustic tuning/calibration of hundreds of
+      media programs.
+technologies:
+  - media programs
+  - interactive exhibits
 summary: >
   The Smithsonian's National Museum of African American History and
-  Culture, a new building on the National Mall in Washington, DC, opened
-  September 24, 2016, with exhibition design by Ralph Appelbaum Associates
-  and exhibit fabrication by Design and Production Incorporated.
-description: ""
+  Culture, a new building on the National Mall in Washington, DC designed by
+  the Freelon Adjaye Bond/SmithGroup team (lead designer David Adjaye),
+  opened September 24, 2016, with exhibition design by Ralph Appelbaum
+  Associates, exhibit fabrication by Design and Production Incorporated, and
+  acoustic/audio design by SH Acoustics.
+description: >
+  Over 350,000 sq ft of permanent exhibits covering African American history
+  across community, arts, religion, civil rights, slavery, and segregation
+  themes. The design-build architectural team also included The Freelon
+  Group and Adjaye Associates (both not yet recorded in this index).
 sources:
   - https://www.history.com/this-day-in-history/september-24/national-museum-of-african-american-history-opens
   - https://d-and-p.com/human-history
+  - https://www.archdaily.com/794203/smithsonian-national-museum-of-african-american-history-and-culture-adjaye-associates
+  - https://www.smithgroup.com/projects/national-museum-of-african-american-history-and-culture
+  - https://shacoustics.com/national-museum-of-african-american-history-culture/

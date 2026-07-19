@@ -1,0 +1,31 @@
+id: ford-rouge-factory-tour-manufacturing-innovation
+name: Ford Rouge Factory Tour & "Manufacturing Innovation" Theater
+venue: ford-rouge-factory
+project_type: new-building
+year_completed: 2004
+credits:
+  - firm: brc-imagination-arts
+    role: exhibit-design
+    note: >
+      Strategic planning, concept development, design, production,
+      immersive media production, interactive design, installation,
+      integration, and programming and technical training for the factory
+      tour and "Manufacturing Innovation" theater.
+technologies:
+  - 360-degree projection mapping
+  - interactive industrial robots
+summary: >
+  Ford Rouge Factory Tour, a visitor attraction at the Ford Rouge Factory in
+  Dearborn, Michigan, opened in 2004 as part of the factory's centennial
+  transformation, with the "Manufacturing Innovation" theater experience
+  designed by BRC Imagination Arts.
+description: >
+  The tour showcases the Rouge Factory's transformation into a sustainable
+  manufacturing model, including a 10.4-acre green roof — the largest
+  living roof in the world at opening — with sustainability design guided
+  by architect William McDonough. The "Manufacturing Innovation" theater
+  uses 3D projection mapping and interactive robots to show F-150 aluminum
+  truck production.
+sources:
+  - https://www.brcweb.com/project/ford-rouge-factory-tour/
+  - https://www.thehenryford.org/visit/ford-rouge-factory-tour/

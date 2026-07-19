@@ -1,0 +1,28 @@
+id: andy-warhol-museum-tactile-reproductions-out-loud
+name: Tactile Reproductions and the Out Loud Mobile App
+venue: andy-warhol-museum
+project_type: installation
+year_completed: 2017
+credits:
+  - firm: prime-access-consulting
+    role: technical-consulting
+    note: >
+      Developed durable tactile replica prototypes of Warhol artworks and
+      the "Out Loud" iOS audio guide app with recorded visual and guided
+      tactile descriptions, enabling blind and low-vision visitors to
+      engage with the collection (November 2016 – December 2017); the app
+      launched with Bluetooth-beacon-enabled museum-provided devices.
+technologies:
+  - tactile reproductions
+  - audio description
+  - Bluetooth beacons
+summary: >
+  The Andy Warhol Museum in Pittsburgh launched tactile artwork
+  reproductions and the "Out Loud" accessible mobile audio guide app,
+  developed by Prime Access Consulting, which won a 2017 Gold MUSE Award
+  for Mobile Applications from the American Alliance of Museums.
+description: ""
+sources:
+  - https://pac.bz/projects/tactile-reproductions-and-mobile-application/
+  - https://www.smithsonianmag.com/smart-news/visually-impaired-people-can-now-explore-andy-warhols-work-their-ears-180960935/
+  - https://www.warhol.org/designing-an-inclusive-audio-guide-part-1-an-introduction/

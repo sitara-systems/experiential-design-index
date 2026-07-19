@@ -1,0 +1,10 @@
+id: state-fair-of-texas
+name: State Fair of Texas
+venue_type: public-space
+location:
+  city: Dallas
+  state: TX
+operator: State Fair of Texas (nonprofit)
+website: https://bigtex.com
+sources:
+  - https://bigtex.com

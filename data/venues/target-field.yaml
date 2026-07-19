@@ -1,0 +1,10 @@
+id: target-field
+name: Target Field
+venue_type: sports-venue
+location:
+  city: Minneapolis
+  state: MN
+operator: Minnesota Twins
+website: https://www.mlb.com/twins/ballpark
+sources:
+  - https://dimin.com/work/minnesota-twins-target-field

@@ -1,0 +1,11 @@
+id: cosm-los-angeles
+name: Cosm Los Angeles
+venue_type: themed-attraction
+location:
+  city: Inglewood
+  state: CA
+operator: Cosm
+website: https://www.cosm.com/losangeles
+sources:
+  - https://www.cosm.com/news/los-angeles-venue-announcement
+  - https://hollywoodparkca.com/cosm/

@@ -1,0 +1,26 @@
+# Firm record — Hilferty & Associates
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: hilferty-and-associates
+name: Hilferty & Associates
+aka: []
+website: https://www.hilferty.com
+hq:
+  city: Athens
+  state: OH
+founded: 1971
+roles:
+  - exhibit-design
+  - interpretive-planning
+status: active
+status_basis: >
+  Live, actively maintained portfolio site presenting current work; the
+  firm's own site states it has managed over 200 projects since 1971.
+status_verified: 2026-07-18
+summary: >
+  Hilferty & Associates is a museum planning and exhibit design firm based
+  near Athens, Ohio, founded in 1971, working with history and cultural
+  museums across the United States.
+sources:
+  - https://www.hilferty.com/
+  - https://www.hilferty.com/team

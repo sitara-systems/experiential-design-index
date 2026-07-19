@@ -1,0 +1,9 @@
+id: thanksgiving-point
+name: Thanksgiving Point
+venue_type: themed-attraction
+location:
+  city: Lehi
+  state: UT
+website: https://thanksgivingpoint.org
+sources:
+  - https://thanksgivingpoint.org/attractions-tickets/curiosity-farms/

@@ -1,0 +1,32 @@
+id: sofi-stadium-building
+name: SoFi Stadium
+venue: sofi-stadium
+project_type: new-building
+year_completed: 2020
+credits:
+  - firm: hks
+    role: architecture
+  - firm: dimensional-innovations
+    role: media-design
+    note: fan experience design and sponsorship activations
+  - firm: dimensional-innovations
+    role: graphics-wayfinding
+    note: signage
+technologies:
+  - Samsung Infinity Screen (dual-sided 4K HDR videoboard)
+summary: >
+  SoFi Stadium, a 70,000-seat NFL stadium in Inglewood, California, opened
+  September 8, 2020, designed by HKS and notable for its double-sided
+  Samsung "Infinity Screen" videoboard suspended over the field; Dimensional
+  Innovations designed fan experience elements, sponsorship activations, and
+  signage.
+description: >
+  Home to the Los Angeles Rams and Los Angeles Chargers, the stadium anchors
+  the larger Hollywood Park development that also includes YouTube Theater
+  and Cosm Los Angeles, both also designed by HKS. The videoboard was built
+  by Samsung; audio was provided via a JBL/HARMAN line-array system.
+sources:
+  - https://en.wikipedia.org/wiki/SoFi_Stadium
+  - https://www.hksinc.com/what-we-do/projects/sofi-stadium/
+  - https://stadiumtechreport.com/feature/sofi-stadiums-videoboard-takes-technology-to-new-heights/
+  - https://www.dimin.com/

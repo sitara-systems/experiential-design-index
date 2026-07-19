@@ -8,12 +8,10 @@ credits:
     role: exhibit-design
   - firm: matter-architecture-practice
     role: architecture
-    note: "no firm record yet"
   - firm: full-point-graphics
     role: fabrication
   - firm: print-exhibit-partners
     role: fabrication
-    note: "no firm record yet"
 technologies:
   - data visualization
   - projection/animation

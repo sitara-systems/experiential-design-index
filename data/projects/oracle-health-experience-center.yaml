@@ -1,0 +1,23 @@
+id: oracle-health-experience-center
+name: Oracle Health Experience Center
+venue: oracle-health-kansas-city
+project_type: new-exhibition
+year_completed: 2019
+credits:
+  - firm: dimensional-innovations
+    role: exhibit-design
+    note: "Briefing and experience center design"
+  - firm: dimensional-innovations
+    role: media-design
+    note: "Immersive technology"
+  - firm: dimensional-innovations
+    role: master-planning
+technologies:
+  - immersive media
+summary: >
+  The Oracle Health Experience Center, a briefing and experience center in
+  Kansas City, Missouri, opened in 2019 with experience design, immersive
+  technology, and master planning by Dimensional Innovations.
+description: ""
+sources:
+  - https://dimin.com/work/oracle-health-experience-center

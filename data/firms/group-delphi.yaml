@@ -1,0 +1,28 @@
+# Firm record — Group Delphi
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: group-delphi
+name: Group Delphi
+aka: []
+website: https://museums.groupdelphi.com
+hq:
+  city: Alameda
+  state: CA
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Live, actively maintained museum-exhibit portfolio site (museums.groupdelphi.com)
+  referencing ongoing work including the Perot Museum of Nature and Science.
+  Note: the firm's general/events-focused legacy domain (groupdelphi.com) is
+  dead/redirects elsewhere after Sparks acquired Group Delphi's separate
+  trade-show and events business in 2020; the museum-fabrication division
+  covered here continued operating independently under its own name.
+status_verified: 2026-07-18
+summary: >
+  Group Delphi is a museum exhibit fabrication company based in Alameda,
+  California, producing custom casework, interactives, and exhibit
+  components for science centers and museums.
+sources:
+  - https://museums.groupdelphi.com/
+  - https://www.prnewswire.com/news-releases/sparks-launches-multiphase-growth-plan-with-acquisition-of-group-delphis-trade-show-and-events-business-301191326.html

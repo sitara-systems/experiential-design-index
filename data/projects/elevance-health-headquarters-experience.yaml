@@ -1,0 +1,23 @@
+id: elevance-health-headquarters-experience
+name: Elevance Health Headquarters Experience
+venue: elevance-health-headquarters
+project_type: new-exhibition
+year_completed: 2019
+credits:
+  - firm: hok
+    role: architecture
+  - firm: dimensional-innovations
+    role: media-design
+    note: "Immersive technology"
+  - firm: dimensional-innovations
+    role: exhibit-design
+    note: "Environmental and headquarters experience design"
+technologies:
+  - immersive media
+summary: >
+  The Elevance Health headquarters experience in Indianapolis, Indiana,
+  opened in 2019 with architecture by HOK and immersive technology and
+  environmental design by Dimensional Innovations.
+description: ""
+sources:
+  - https://dimin.com/work/elevance-health

@@ -1,0 +1,28 @@
+id: kennedy-space-center-visitor-complex-shuttle-launch-experience
+name: Shuttle Launch Experience
+venue: kennedy-space-center-visitor-complex
+project_type: installation
+year_completed: 2007
+credits:
+  - firm: brc-imagination-arts
+    role: content-production
+    note: >
+      Strategic planning, concept development, design detail, production,
+      immersive media production, fabrication, technical systems, and
+      installation and integration for the motion-simulator attraction.
+technologies:
+  - motion-base simulation
+  - special-effects seating
+summary: >
+  Shuttle Launch Experience, a motion-simulator attraction at the Kennedy
+  Space Center Visitor Complex in Merritt Island, Florida, opened May 25,
+  2007, designed by BRC Imagination Arts for Delaware North Companies Parks
+  & Resorts.
+description: >
+  BRC interviewed 27 former Space Shuttle astronauts to recreate the
+  sensations of a Shuttle launch through motion technology, special-effects
+  seats, and a 44,000-square-foot building housing four simulators.
+sources:
+  - https://www.brcweb.com/project/nasa-ksc-shuttle-launch-experience/
+  - https://www.npr.org/2007/05/25/10424932/they-have-liftoff-a-shuttle-experience-for-tourists
+  - https://spacenews.com/nasas-kennedy-space-center-visitor-complex-set-to-go-vertical-with-shuttle-launch-experience/

@@ -1,0 +1,10 @@
+id: sofi-stadium
+name: SoFi Stadium
+venue_type: sports-venue
+location:
+  city: Inglewood
+  state: CA
+website: https://www.sofistadium.com
+sources:
+  - https://en.wikipedia.org/wiki/SoFi_Stadium
+  - https://www.hksinc.com/what-we-do/projects/sofi-stadium/

@@ -1,0 +1,9 @@
+id: illinois-holocaust-museum
+name: Illinois Holocaust Museum & Education Center
+venue_type: history-museum
+location:
+  city: Skokie
+  state: IL
+website: https://www.ilholocaustmuseum.org
+sources:
+  - https://www.ilholocaustmuseum.org/current-exhibitions/take-a-stand-center/

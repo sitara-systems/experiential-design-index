@@ -1,0 +1,20 @@
+id: banff-gondola-summit-experience
+name: Summit Experience
+venue: banff-gondola
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: dimensional-innovations
+    role: media-design
+    note: "Immersive technology and interactive touchscreens"
+  - firm: electrosonic
+    role: av-integration
+technologies:
+  - interactive touchscreens
+summary: >
+  Dimensional Innovations designed immersive technology and interactive
+  touchscreens for the Summit Experience at the Banff Gondola in Banff,
+  Alberta, Canada, with AV integration by Electrosonic.
+description: ""
+sources:
+  - https://dimin.com/

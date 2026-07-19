@@ -1,0 +1,32 @@
+id: csu-spur-environmental-design
+name: CSU Spur Environmental and Interactive Exhibit Design
+venue: csu-spur
+project_type: new-building
+year_completed: 2023
+credits:
+  - firm: anderson-mason-dale
+    role: architecture
+    note: "Terra building; no firm record yet"
+  - firm: clark-enersen
+    role: architecture
+    note: "Vida building; no firm record yet"
+  - firm: hord-coplan-macht
+    role: architecture
+    note: "Hydro building; no firm record yet"
+  - firm: dimensional-innovations
+    role: exhibit-design
+    note: "Environmental design and interactive exhibits across all three buildings"
+  - firm: dimensional-innovations
+    role: media-design
+    note: "Immersive technology"
+technologies:
+  - immersive media
+summary: >
+  CSU Spur, a three-building public engagement campus (Terra, Vida, and
+  Hydro) operated by Colorado State University in Denver, Colorado, opened
+  in 2023 with environmental design, immersive technology, and interactive
+  exhibits by Dimensional Innovations, and architecture by Anderson Mason
+  Dale (Terra), Clark Enersen (Vida), and Hord Coplan Macht (Hydro).
+description: ""
+sources:
+  - https://dimin.com/work/csu-spur

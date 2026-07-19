@@ -1,0 +1,27 @@
+# Firm record — KieranTimberlake
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: kieran-timberlake
+name: KieranTimberlake
+aka:
+  - KieranTimberlake Associates, LLP
+website: https://kierantimberlake.com/
+hq:
+  city: Philadelphia
+  state: PA
+founded: 1984
+roles:
+  - architecture
+status: active
+status_basis: >
+  Current firm website with active project listings; transitioned to
+  100% employee ownership in 2025.
+status_verified: 2026-07-18
+summary: >
+  KieranTimberlake is a Philadelphia architecture firm founded in 1984 by
+  Stephen Kieran and James Timberlake, known for sustainability-focused
+  institutional and cultural work.
+sources:
+  - https://kierantimberlake.com/
+  - https://kierantimberlake.com/about/
+  - https://en.wikipedia.org/wiki/KieranTimberlake

@@ -1,0 +1,9 @@
+id: stax-museum-of-american-soul-music
+name: Stax Museum of American Soul Music
+venue_type: history-museum
+location:
+  city: Memphis
+  state: TN
+website: https://staxmuseum.org
+sources:
+  - https://en.wikipedia.org/wiki/Stax_Museum_of_American_Soul_Music

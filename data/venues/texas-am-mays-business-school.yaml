@@ -1,0 +1,9 @@
+id: texas-am-mays-business-school
+name: Mays Business School
+venue_type: academic-institution
+location:
+  city: College Station
+  state: TX
+operator: Texas A&M University
+sources:
+  - https://dimin.com/

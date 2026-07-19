@@ -1,0 +1,25 @@
+id: scad-scadstory
+name: SCADstory
+venue: savannah-college-of-art-and-design
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: brc-imagination-arts
+    role: content-production
+    note: >
+      Concept development, design detail, production, immersive media
+      production, fabrication, technical systems, and installation and
+      integration.
+technologies:
+  - theatrical design
+  - immersive media
+summary: >
+  SCADstory, an immersive theatrical experience celebrating SCAD founder
+  Paula Wallace at the Savannah College of Art and Design in Savannah,
+  Georgia, opened in April 2019, created by BRC Imagination Arts.
+description: >
+  The experience guides visitors through vignettes spanning four decades of
+  the institution's history, incorporating work from 25 SCAD degree
+  programs. It won a CODAworx Top 100 Projects recognition (2021).
+sources:
+  - https://www.brcweb.com/project/scadstory/

@@ -1,0 +1,11 @@
+id: climate-pledge-arena
+name: Climate Pledge Arena
+venue_type: sports-venue
+location:
+  city: Seattle
+  state: WA
+operator: Seattle Kraken / Oak View Group
+website: https://climatepledgearena.com
+sources:
+  - https://climatepledgearena.com/tours/
+  - https://en.wikipedia.org/wiki/Climate_Pledge_Arena

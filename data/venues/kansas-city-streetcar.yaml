@@ -1,0 +1,10 @@
+id: kansas-city-streetcar
+name: Kansas City Streetcar
+venue_type: public-space
+location:
+  city: Kansas City
+  state: MO
+operator: Kansas City Streetcar Authority
+website: https://kcstreetcar.org
+sources:
+  - https://www.dimin.com/

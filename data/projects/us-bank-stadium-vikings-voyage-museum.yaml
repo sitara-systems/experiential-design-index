@@ -1,0 +1,25 @@
+id: us-bank-stadium-vikings-voyage-museum
+name: Minnesota Vikings Museum "Vikings Voyage"
+venue: us-bank-stadium
+project_type: new-exhibition
+year_completed: 2016
+credits:
+  - firm: dimensional-innovations
+    role: exhibit-design
+    note: Experience design across 18 activation zones.
+  - firm: dimensional-innovations
+    role: media-design
+    note: Technology integration for the interactive museum.
+  - firm: sra-architects
+    role: architecture
+    note: "Partner firm; no firm record yet."
+technologies:
+  - interactive technology
+summary: >
+  The Minnesota Vikings Museum, "Vikings Voyage," an interactive fan museum
+  with 18 activation zones inside U.S. Bank Stadium in Minneapolis,
+  Minnesota, designed by Dimensional Innovations with SRA Architects,
+  opened 2016.
+description: ""
+sources:
+  - https://www.dimin.com

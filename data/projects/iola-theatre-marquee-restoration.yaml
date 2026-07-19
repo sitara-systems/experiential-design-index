@@ -1,0 +1,24 @@
+id: iola-theatre-marquee-restoration
+name: Marquee Restoration
+venue: iola-theatre
+project_type: major-renovation
+year_completed: 2026
+credits:
+  - firm: dimensional-innovations
+    role: lighting-design
+    note: "Placemaking and specialty lighting"
+  - firm: dimensional-innovations
+    role: fabrication
+    note: "Historic marquee restoration"
+  - firm: infinity-sign-systems
+    role: fabrication
+    note: "no firm record yet (below 3-project threshold)"
+technologies:
+  - specialty lighting
+summary: >
+  Dimensional Innovations restored the historic marquee of the Iola
+  Theatre in Iola, Kansas, with placemaking-oriented specialty lighting,
+  alongside Infinity Sign Systems.
+description: ""
+sources:
+  - https://dimin.com/

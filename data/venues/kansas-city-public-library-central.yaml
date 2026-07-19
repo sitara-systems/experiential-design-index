@@ -1,0 +1,10 @@
+id: kansas-city-public-library-central
+name: Kansas City Public Library, Central Library
+venue_type: library-archive
+location:
+  city: Kansas City
+  state: MO
+operator: Kansas City Public Library
+website: https://www.kclibrary.org
+sources:
+  - https://www.kclibrary.org

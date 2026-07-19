@@ -1,0 +1,21 @@
+id: youtube-theater-building
+name: YouTube Theater
+venue: youtube-theater
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: hks
+    role: architecture
+  - firm: hks
+    role: graphics-wayfinding
+    note: wayfinding and signage
+summary: >
+  YouTube Theater, a 6,000-seat performing-arts and events venue at
+  Hollywood Park in Inglewood, California, was designed by HKS and includes
+  a theatrical lighting/rigging "sky grid" and a fabric-panel acoustical
+  treatment.
+description: >
+  Part of the same Hollywood Park development as SoFi Stadium and Cosm Los
+  Angeles, both also designed by HKS.
+sources:
+  - https://www.hksinc.com/what-we-do/projects/youtube-theater/

@@ -1,0 +1,20 @@
+id: att-stadium-building
+name: AT&T Stadium
+venue: att-stadium
+project_type: new-building
+year_completed: 2009
+credits:
+  - firm: hks
+    role: architecture
+technologies:
+  - Mitsubishi Electric center-hung videoboard
+summary: >
+  AT&T Stadium, the 80,000-seat home of the Dallas Cowboys in Arlington,
+  Texas, opened May 27, 2009, designed by HKS with lead architect Bryan
+  Trubey; at completion its twin center-hung video screens, manufactured by
+  Mitsubishi Electric, were the largest high-definition displays in the
+  world.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/AT%26T_Stadium
+  - https://www.hksinc.com/what-we-do/projects/att-stadium/

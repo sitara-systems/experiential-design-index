@@ -1,0 +1,34 @@
+id: thanksgiving-point-curiosity-farms
+name: Curiosity Farms
+venue: thanksgiving-point
+project_type: major-renovation
+year_completed: 2024
+credits:
+  - firm: the-exhibits-dept
+    role: exhibit-design
+    note: "Graphic design direction, content development, and final exhibit text"
+  - firm: ffkr-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: split-rock-studios
+    role: fabrication
+  - firm: trivium-interactive
+    role: media-design
+  - firm: luckey-climber
+    role: fabrication
+    note: "Custom farm-themed climbing playscape; no firm record yet"
+technologies:
+  - interactive media
+summary: >
+  Curiosity Farms, a 3,500 sq ft working-farm exhibit at Thanksgiving Point
+  in Lehi, Utah, opened September 30, 2024 as a reimagining of the
+  institute's former Farm Country attraction; it was designed by The
+  Exhibits Dept. with architecture by FFKR Architects, fabrication by Split
+  Rock Studios, interactive media by Trivium Interactive, and a custom
+  climbing playscape by Luckey Climber.
+description: ""
+sources:
+  - https://www.exhibitsdept.com/projects/curiosity-farms
+  - https://thanksgivingpoint.org/blog-curiosity-farms-grand-opening-a-must-visit-for-utah-families/
+  - https://thanksgivingpoint.org/blog-from-farm-country-to-curiosity-farms-how-the-newly-reimagined-venue-will-educate-on-the-future-of-farming/
+  - https://www.ffkr.com/work/the-museum-of-natural-curiosity/

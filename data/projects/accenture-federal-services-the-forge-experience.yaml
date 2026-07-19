@@ -1,0 +1,28 @@
+id: accenture-federal-services-the-forge-experience
+name: The Forge
+venue: accenture-federal-services-the-forge
+project_type: major-renovation
+year_completed: 2025
+credits:
+  - firm: dimensional-innovations
+    role: exhibit-design
+    note: "Experiential strategy and design; experiential agency of record"
+  - firm: dimensional-innovations
+    role: fabrication
+  - firm: electrosonic
+    role: av-integration
+  - firm: hok
+    role: architecture
+  - firm: fivestone-studios
+    role: media-design
+    note: "no firm record yet (below 3-project threshold)"
+technologies:
+  - immersive media
+summary: >
+  Dimensional Innovations served as experiential agency of record for The
+  Forge, Accenture Federal Services' immersive brand experience center in
+  Washington, DC, with architecture by HOK, AV integration by Electrosonic,
+  and media design by Fivestone Studios.
+description: ""
+sources:
+  - https://dimin.com/

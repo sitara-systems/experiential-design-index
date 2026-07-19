@@ -1,0 +1,11 @@
+id: newseum
+name: Newseum
+venue_type: history-museum
+location:
+  city: Washington
+  state: DC
+operator: Freedom Forum
+website: https://en.wikipedia.org/wiki/Newseum
+sources:
+  - https://www.architecturalrecord.com/articles/4332-polshek-s-newsiest-museum-opens-in-d-c
+  - https://en.wikipedia.org/wiki/Newseum

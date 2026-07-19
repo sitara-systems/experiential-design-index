@@ -1,0 +1,9 @@
+id: university-of-iowa-stead-family-childrens-hospital
+name: University of Iowa Stead Family Children's Hospital
+venue_type: healthcare-institution
+location:
+  city: Iowa City
+  state: IA
+operator: University of Iowa Health Care
+sources:
+  - https://www.dimin.com/

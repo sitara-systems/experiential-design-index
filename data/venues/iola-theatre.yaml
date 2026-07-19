@@ -1,0 +1,8 @@
+id: iola-theatre
+name: Iola Theatre
+venue_type: cultural-center
+location:
+  city: Iola
+  state: KS
+sources:
+  - https://dimin.com/

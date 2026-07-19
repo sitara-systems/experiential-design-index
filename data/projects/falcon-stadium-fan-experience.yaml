@@ -1,0 +1,23 @@
+id: falcon-stadium-fan-experience
+name: Falcon Stadium Fan Experience
+venue: falcon-stadium
+project_type: major-renovation
+year_completed: 2025
+credits:
+  - firm: hks
+    role: architecture
+  - firm: dimensional-innovations
+    role: exhibit-design
+    note: "Fan experience design"
+  - firm: dimensional-innovations
+    role: graphics-wayfinding
+    note: "Signage, wayfinding, and donor activation elements"
+technologies: []
+summary: >
+  The Falcon Stadium renovation at the United States Air Force Academy in
+  Colorado Springs, Colorado, reopened in 2025 with architecture by HKS and
+  fan experience design, signage and wayfinding, and donor activations by
+  Dimensional Innovations.
+description: ""
+sources:
+  - https://dimin.com/work/us-air-force-academy-falcon-stadium

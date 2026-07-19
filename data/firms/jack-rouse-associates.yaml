@@ -1,0 +1,29 @@
+# Firm record — Jack Rouse Associates
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: jack-rouse-associates
+name: Jack Rouse Associates
+aka:
+  - JRA
+website: https://www.rwsglobal.com/jra1
+hq:
+  city: Cincinnati
+  state: OH
+founded: 1987
+roles:
+  - exhibit-design
+status: active
+status_basis: >
+  Acquired by RWS Entertainment Group (now RWS Global) in November 2021;
+  continues operating as RWS Global's Cincinnati studio under the JRA name.
+  jackrouse.com now redirects to rwsglobal.com/jra1.
+status_verified: 2026-07-18
+summary: >
+  Jack Rouse Associates (JRA) is a museum and themed-entertainment exhibit
+  design firm founded in 1987 in Cincinnati, Ohio by Jack Rouse and Amy
+  Merrell. Since a November 2021 acquisition it operates as the Cincinnati
+  studio of RWS Global, continuing exhibit-design work under the JRA name.
+sources:
+  - https://www.rwsglobal.com/jra1
+  - https://www.cincinnatimagazine.com/article/jack-rouse-is-cincinnatis-unofficial-minister-of-fun/
+  - https://www.cladglobal.com/CLADnews/architecture_design/JRA-becomes-part-of-the-RWS-Entertainment-Group-Keith-James-Ryan-Stana/348790

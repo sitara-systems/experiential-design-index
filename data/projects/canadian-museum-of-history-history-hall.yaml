@@ -1,0 +1,37 @@
+id: canadian-museum-of-history-history-hall
+name: Canadian History Hall
+venue: canadian-museum-of-history
+project_type: new-exhibition
+year_completed: 2017
+credits:
+  - firm: douglas-cardinal
+    role: architecture
+    note: "Lead architect; developed the hall's architectural concept and coordinated architectural/mechanical/electrical/structural disciplines. No firm record yet."
+  - firm: gsm-project
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: northern-light-productions
+    role: content-production
+  - firm: sh-acoustics
+    role: technical-consulting
+    note: >
+      Led the acoustic and audio design, media-production sonic
+      coordination, and calibration for all audio-based programs across the
+      40,000 sq ft, three-gallery History Hall.
+technologies:
+  - soundscapes
+  - multimedia theaters
+summary: >
+  The Canadian History Hall, a 40,000 sq ft permanent exhibition at the
+  Canadian Museum of History in Gatineau, Quebec, opened July 1, 2017 for
+  Canada's sesquicentennial; lead architect Douglas Cardinal developed the
+  hall's architectural concept, exhibit design was by gsm Project, and
+  acoustic/audio design was by SH Acoustics.
+description: >
+  Three chronological galleries covering eighteen chapters of Canadian
+  history, opening from a central "Hub" space with a large-scale satellite
+  image of Canada.
+sources:
+  - https://www.historymuseum.ca/blog/behind-the-scenes-of-the-canadian-history-hall-project-with-architect-douglas-cardinal/
+  - https://www.cbc.ca/news/canada/ottawa/douglas-cardinal-aboriginal-canadian-museum-history-1.3521749
+  - https://shacoustics.com/canadian-museum-of-history/

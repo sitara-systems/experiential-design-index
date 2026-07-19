@@ -1,0 +1,11 @@
+id: grand-ole-opry-house
+name: Grand Ole Opry House
+venue_type: cultural-center
+location:
+  city: Nashville
+  state: TN
+operator: Ryman Hospitality Properties
+website: https://www.opry.com
+sources:
+  - https://www.opryevents.com/grand-ole-opry/circle-room/
+  - https://en.wikipedia.org/wiki/Grand_Ole_Opry_House

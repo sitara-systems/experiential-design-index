@@ -1,0 +1,35 @@
+id: grand-ole-opry-house-circle-room
+name: The Circle Room
+venue: grand-ole-opry-house
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: brc-imagination-arts
+    role: content-production
+    note: >
+      Conceived, designed, and produced the Circle Room and Lobby
+      experiences and the 11-minute immersive film hosted by Garth Brooks
+      and Trisha Yearwood.
+  - firm: nyxdesign
+    role: lighting-design
+    note: "Lighting design, ~400 fixtures; no firm record yet"
+  - firm: clearwing-systems-integration
+    role: av-integration
+    note: "Lighting fixture supply and systems integration; no firm record yet"
+technologies:
+  - projection on string curtains
+  - 23.1 surround sound
+  - reconfigurable theater/event space
+summary: >
+  The Circle Room, a custom-built theater and reconfigurable event space
+  that opens the Grand Ole Opry House backstage tour in Nashville,
+  Tennessee, debuted in July 2019, designed and produced by BRC Imagination
+  Arts as the capstone of a $12 million Opry House expansion.
+description: >
+  The 11-minute immersive film, hosted by Garth Brooks and Trisha Yearwood,
+  introduces guests to the Opry's history before the space reconfigures into
+  a VIP lounge and event venue.
+sources:
+  - https://www.brcweb.com/project/the-circle-room-at-the-grand-ole-opry/
+  - https://www.livedesignonline.com/special-report/circle-room-immerses-guests-history-grand-ole-opry
+  - https://musicrow.com/2019/07/grand-ole-opry-reveals-new-immersive-film-custom-built-theater/

@@ -1,0 +1,9 @@
+id: the-childrens-museum-of-indianapolis
+name: The Children's Museum of Indianapolis
+venue_type: childrens-museum
+location:
+  city: Indianapolis
+  state: IN
+website: https://www.childrensmuseum.org
+sources:
+  - https://www.dimin.com/

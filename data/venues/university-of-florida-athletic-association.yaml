@@ -1,0 +1,10 @@
+id: university-of-florida-athletic-association
+name: University of Florida Athletic Association Facilities
+venue_type: academic-institution
+location:
+  city: Gainesville
+  state: FL
+operator: University of Florida Athletic Association
+website: https://floridagators.com
+sources:
+  - https://floridagators.com

@@ -1,0 +1,38 @@
+id: msi-chicago-pioneer-zephyr-media-wall
+name: Pioneer Zephyr Exhibit Media Wall
+venue: museum-of-science-and-industry-chicago
+project_type: exhibition-refresh
+year_completed: 2021
+credits:
+  - firm: creative-technology
+    role: av-integration
+    note: "Installation lead (project lead Michael Fuller); no firm record yet"
+  - firm: av-stumpfl
+    role: media-design
+    note: >
+      PIXERA mini Quad media server drove the 170-foot projected media wall
+      across three AV Stumpfl Fullwhite screens; AV Stumpfl (maker of the
+      PIXERA media server line) is Austria-headquartered and not eligible
+      for a firm record under the index's current North America firm scope,
+      so it is credited here unlinked per the same convention used for
+      disguise (see top-of-the-rock-reimagined.yaml).
+technologies:
+  - projection mapping
+  - media server
+summary: >
+  A 2021 reopening of the Pioneer Zephyr exhibition at the Museum of Science
+  and Industry, Chicago added a 170-foot projected media wall running
+  alongside the museum's Pioneer Zephyr streamliner train, installed by
+  Creative Technology using an AV Stumpfl PIXERA mini Quad media server and
+  three Fullwhite projection screens.
+description: >
+  The train hall renovation (closed November 2019, reopened March 2021)
+  added new interactive elements and the projected "West Wind Vista" media
+  piece, which runs the length of the 60-meter train to suggest motion and
+  situate the Pioneer Zephyr's 1934 speed-record run in context. Funded by
+  the Grainger Foundation of Lake Forest, Illinois.
+sources:
+  - https://avstumpfl.com/en/showcase/msi-museum-chicago/
+  - https://www.ravepubs.com/av-stumpfl-and-creative-technology-group-assist-chicago-museum-exhibition-installation/
+  - https://www.avnetwork.com/news/museum-of-science-and-industry-welcomes-visitors-with-av-stumpfl
+  - https://invidis.com/sixteen-nine/2021/06/02/chicago-museum-celebrates-famed-art-deco-train-with-170-foot-projection-wall/

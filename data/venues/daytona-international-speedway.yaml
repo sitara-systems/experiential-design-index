@@ -1,0 +1,10 @@
+id: daytona-international-speedway
+name: Daytona International Speedway
+venue_type: sports-venue
+location:
+  city: Daytona Beach
+  state: FL
+operator: NASCAR
+website: https://www.daytonainternationalspeedway.com/
+sources:
+  - https://www.daytonainternationalspeedway.com/

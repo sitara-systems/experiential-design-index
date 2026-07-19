@@ -1,0 +1,28 @@
+id: canadian-museum-for-human-rights-empowering-women
+name: Empowering Women
+venue: canadian-museum-for-human-rights
+project_type: temporary-exhibition
+year_completed: 2015
+credits:
+  - firm: prime-access-consulting
+    role: technical-consulting
+    note: >
+      Expanded a Museum of International Folk Art-originated exhibition
+      about female-run artisan cooperatives into a multimodal, accessible
+      experience (August 2015 – July 2016): touch objects for each
+      cooperative, a user-tested virtual reality component filmed in
+      Guatemala (released for iOS, Android, and Oculus), and captions,
+      audio description, and signed interpretation in English, French, and
+      Spanish.
+technologies:
+  - touch objects
+  - virtual reality
+  - audio description
+summary: >
+  Empowering Women, an exhibition on female-run artisan cooperatives
+  originated by the Museum of International Folk Art, was expanded by
+  Prime Access Consulting into a multimodal accessible experience at the
+  Canadian Museum for Human Rights, opening in 2015.
+description: ""
+sources:
+  - https://pac.bz/projects/empowering-women/

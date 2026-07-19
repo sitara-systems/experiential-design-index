@@ -21,8 +21,17 @@ credits:
   - firm: eos-lightmedia
     role: lighting-design
   - firm: disguise
-    role: media-design
-    note: "Media server/show control technology; no firm record yet"
+    role: av-integration
+    note: >
+      Media server/show control technology platform for the elevator media
+      experience, credited as "Disguise (elevator)" in SEGD's collaborator
+      list; disguise's own case-study writeup of this project likewise
+      describes disguise as the technology partnered in via Electrosonic,
+      not as the content/creative author (THG Creative held that role). This
+      is base disguise platform/technology supply, not a Disguise Creative
+      Services production credit (researched 2026-07-18; Creative Services
+      does not meet the 3-project inclusion bar for North American built
+      physical spaces — see research notes). No firm record yet.
   - firm: hunt-design
     role: graphics-wayfinding
     note: "no firm record yet"

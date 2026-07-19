@@ -1,0 +1,11 @@
+id: ford-rouge-factory
+name: Ford Rouge Factory
+venue_type: visitor-center
+location:
+  city: Dearborn
+  state: MI
+operator: Ford Motor Company / The Henry Ford
+website: https://www.thehenryford.org/visit/ford-rouge-factory-tour/
+sources:
+  - https://www.thehenryford.org/visit/ford-rouge-factory-tour/
+  - https://www.brcweb.com/project/ford-rouge-factory-tour/

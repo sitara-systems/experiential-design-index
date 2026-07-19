@@ -1,0 +1,40 @@
+id: ellis-island-museum-reimagined
+name: Ellis Island Museum Reimagined
+venue: ellis-island-national-museum-of-immigration
+project_type: major-renovation
+year_expected: 2026
+status: announced
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: avi-spl
+    role: av-integration
+    note: "Credited jointly with Acciona on SH Acoustics' own project page; scope split between the two not independently sourced"
+  - firm: sh-acoustics
+    role: technical-consulting
+    note: >
+      Integrated acoustic and audio consulting across the museum's
+      revitalized exhibit environments and supporting base-building
+      infrastructure — exhibit acoustics, audio systems design,
+      architectural acoustics, sound isolation, and building noise/vibration
+      control across 100,000+ sq ft.
+technologies:
+  - large-scale video screen
+  - architectural media frieze
+summary: >
+  Ellis Island Museum Reimagined, a $100 million, phased revitalization of
+  the Ellis Island National Museum of Immigration in New York Harbor, is
+  expected to complete in 2026; exhibit design is by Ralph Appelbaum
+  Associates, with acoustic and audio consulting by SH Acoustics.
+description: >
+  The project expands the visitor journey across all three floors of the
+  historic Main Building while integrating newly opened portions of the
+  former Kitchen and Laundry Building; new exhibits include a cross-section
+  of a 19th-century immigrant ship, a recreation of a Hester Street pushcart,
+  and a 120-foot-wide video screen, alongside infrastructure upgrades
+  (HVAC, electrical, Wi-Fi, restrooms).
+sources:
+  - https://www.smithsonianmag.com/smart-news/the-ellis-island-national-museum-of-immigration-is-getting-a-100m-makeover-180984113/
+  - https://raai.com/project/ellis-island-national-museum-of-immigration/
+  - https://www.6sqft.com/ellis-island-museum-makeover/
+  - https://shacoustics.com/ellis-island-national-museum-of-immigration/

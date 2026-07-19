@@ -1,0 +1,9 @@
+id: boise-art-museum
+name: Boise Art Museum
+venue_type: art-museum
+location:
+  city: Boise
+  state: ID
+website: https://boiseartmuseum.org
+sources:
+  - https://boiseartmuseum.org

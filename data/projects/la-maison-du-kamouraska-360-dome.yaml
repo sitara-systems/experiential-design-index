@@ -1,0 +1,44 @@
+id: la-maison-du-kamouraska-360-dome
+name: La Maison du Kamouraska 360-Degree Projection Dome
+venue: la-maison-du-kamouraska
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: solotech
+    role: av-integration
+    note: >
+      Systems integration and equipment: audio, video, lighting, rigging,
+      communication equipment, and dome structure; no firm record yet.
+  - firm: theatrixx
+    role: media-design
+    note: >
+      Canadian PIXERA distributor; supported the project during the design
+      and programming phases; no firm record yet.
+  - firm: av-stumpfl
+    role: media-design
+    note: >
+      PIXERA two Octo media server with integrated Vioso dome-calibration
+      technology, driving eight Christie DWU1075-GS projectors mapped onto
+      the 36-foot dome in 4,096x4,096 DomeMaster format; AV Stumpfl (maker
+      of PIXERA) is Austria-headquartered and not eligible for a firm record
+      under the index's current North America firm scope, credited here
+      unlinked per the same convention used for disguise (see
+      top-of-the-rock-reimagined.yaml).
+technologies:
+  - dome projection mapping
+  - media server
+  - 5.1 surround sound
+summary: >
+  A 360-degree immersive projection dome at La Maison du Kamouraska, a
+  cultural and tourist attraction in Kamouraska, Quebec, inaugurated June
+  2019, integrated by Solotech using an AV Stumpfl PIXERA two Octo media
+  server and eight Christie projectors, with Theatrixx supporting design and
+  programming.
+description: >
+  Solotech was engaged in late 2018 to support the design phase; the
+  10-week installation mapped an eight-projector array onto the 36-foot
+  dome in DomeMaster format, with 5.1 surround sound mounted on a vertical
+  truss below the projectors.
+sources:
+  - https://avstumpfl.com/en/news-events/news/news-single/solotech-chooses-pixera-for-canadian-tourist-attraction/
+  - https://www.solotech.com/our-work/maison-du-kamouraska-360-projection-dome/

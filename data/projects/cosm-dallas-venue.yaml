@@ -1,0 +1,24 @@
+id: cosm-dallas-venue
+name: Cosm Dallas
+venue: cosm-dallas
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: hks
+    role: architecture
+technologies:
+  - LED dome display
+  - shared reality / mixed physical-digital display
+summary: >
+  Cosm Dallas, a 65,000-square-foot immersive "shared reality" entertainment
+  venue built around an 87-foot, 12K+ LED dome at the Grandscape development
+  in The Colony, Texas, opened August 31, 2024, designed by HKS.
+description: >
+  The three-level venue comprises the Dome (an 87-foot-diameter LED dome
+  auditorium), the Hall, and the Deck, and hosts live sports broadcasts and
+  immersive content produced by Cosm, the venue's operator. It is the second
+  Cosm venue to open, following Cosm Los Angeles.
+sources:
+  - https://www.hksinc.com/what-we-do/projects/cosm/
+  - https://www.cosm.com/news/cosm-dallas-to-officially-open-at-grandscape-in-the-colony-on-august-31
+  - https://starlocalmedia.com/thecolonycourierleader/news/cosm-opens-in-grandscape-changing-the-game-for-entertainment/article_d9e399b6-7158-11ef-9e51-8ff3c715967a.html

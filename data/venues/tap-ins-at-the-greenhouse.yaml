@@ -1,0 +1,8 @@
+id: tap-ins-at-the-greenhouse
+name: Tap Ins at the Greenhouse
+venue_type: themed-attraction
+location:
+  city: Overland Park
+  state: KS
+sources:
+  - https://dimin.com/

@@ -1,0 +1,9 @@
+id: mu-childrens-hospital
+name: MU Children's Hospital
+venue_type: healthcare-institution
+location:
+  city: Columbia
+  state: MO
+operator: MU Health Care
+sources:
+  - https://dimin.com/

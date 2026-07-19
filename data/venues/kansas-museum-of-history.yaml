@@ -1,0 +1,9 @@
+id: kansas-museum-of-history
+name: Kansas Museum of History
+venue_type: history-museum
+location:
+  city: Topeka
+  state: KS
+operator: Kansas Historical Society
+sources:
+  - https://dimin.com/

@@ -1,0 +1,31 @@
+id: canadian-museum-for-human-rights-mandela
+name: "Mandela: Struggle for Freedom"
+venue: canadian-museum-for-human-rights
+project_type: traveling-exhibition
+year_completed: 2017
+credits:
+  - firm: prime-access-consulting
+    role: technical-consulting
+    note: >
+      PAC Principal Corey Timpson directed and produced this bilingual
+      (English/French) touring exhibition end-to-end — interpretation,
+      creative direction, design development, media production,
+      fabrication, and installation (April 2017 – June 2018) — including
+      immersive elements (a mixed-media prison cell, a touchable Casspir
+      armored vehicle, the "Posters for Freedom" interactive activity) with
+      universal-design navigation, tactile elements, high-contrast
+      graphics, screen-reader compatibility, and audio description/signed
+      interpretation throughout.
+technologies:
+  - tactile elements
+  - audio description
+  - signed interpretation
+summary: >
+  "Mandela: Struggle for Freedom," a bilingual touring exhibition directed
+  and produced by Prime Access Consulting for the Canadian Museum for
+  Human Rights, opened in 2017 and won the GLAMi Award for Best Exhibition
+  Media/Experience and a Core77 Interaction Design Award for its "Posters
+  for Freedom" installation.
+description: ""
+sources:
+  - https://pac.bz/projects/mandela/

@@ -1,0 +1,11 @@
+id: cabrillo-marine-aquarium
+name: Cabrillo Marine Aquarium
+venue_type: aquarium-zoo
+location:
+  city: San Pedro
+  state: CA
+operator: City of Los Angeles Department of Recreation and Parks
+website: https://cma.recreation.parks.lacity.gov/
+sources:
+  - https://cma.recreation.parks.lacity.gov/1935
+  - https://spectrumnews1.com/ca/la/socal-scene/2026/05/13/cabrillo-marine-aquarium-reopens

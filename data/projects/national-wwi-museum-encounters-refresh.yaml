@@ -1,0 +1,58 @@
+id: national-wwi-museum-encounters-refresh
+name: National WWI Museum and Memorial Technology Refresh and Encounters
+venue: national-wwi-museum-and-memorial
+project_type: major-renovation
+year_completed: 2025
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+    note: "Exhibit and media design"
+  - firm: dot-crew
+    role: media-design
+    note: "Interactive media design for Encounters; no firm record yet"
+  - firm: electrosonic
+    role: av-integration
+    note: "AV design, engineering, and systems integration across theaters, galleries, and Encounters"
+  - firm: technical-artistry
+    role: lighting-design
+  - firm: av-stumpfl
+    role: media-design
+    note: >
+      Four PIXERA two media servers and one PIXERA Control Core distribute
+      and synchronize media across the museum's galleries and the Encounters
+      experience, integrated with the ISAAC AV workflow platform; AV Stumpfl
+      (maker of PIXERA) is Austria-headquartered and not eligible for a firm
+      record under the index's current North America firm scope, credited
+      here unlinked per the same convention used for disguise (see
+      top-of-the-rock-reimagined.yaml).
+technologies:
+  - interactive media
+  - spatial audio
+  - sensor-activated projection
+  - media server
+summary: >
+  A multiyear technology refresh of the National WWI Museum and Memorial in
+  Kansas City, Missouri, unveiled May 2025, added Encounters — a new
+  experience presenting 16 first-person wartime stories via sensor-activated,
+  life-size projected characters — alongside upgrades across the museum's
+  theaters and galleries; exhibit and media design by Ralph Appelbaum
+  Associates and Dot Crew, AV design and integration by Electrosonic.
+description: >
+  Distinct from the museum's 2006 renovation and expansion
+  (`national-wwi-museum-renovation`) and the separately-sourced 2024 RLMG
+  interactive-media refresh (`national-wwi-museum-2024-media-refresh`) and
+  2025 Taylor Studios trench/triage gallery refresh
+  (`national-wwi-museum-2025-trench-triage-refresh`) — these may overlap in
+  scope with this broader technology refresh but are recorded separately
+  since each is independently sourced from its own firm's portfolio and the
+  full relationship between the projects is not stated in any single source.
+  Encounters features four alcoves where visitors step into illuminated
+  floor markers to trigger life-size, sensor-activated characters based on
+  real wartime personalities; a Kemper Horizons Theater sequence and the
+  Battlescapes edge-blended-projection experience were also part of the
+  refresh.
+sources:
+  - https://www.electrosonic.com/projects/national-world-war-i-museum-and-memorial-encounters
+  - https://www.avnetwork.com/installations/pixera-helps-visitors-revisit-the-great-war-at-national-wwi-museum-and-memorial
+  - https://blooloop.com/national-wwi-museum-refurbishment/
+  - https://www.installation-international.com/case-studies/electrosonic-breathes-new-life-into-us-national-wwi-museum

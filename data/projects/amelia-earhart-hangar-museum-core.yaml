@@ -1,0 +1,28 @@
+id: amelia-earhart-hangar-museum-core
+name: Amelia Earhart Hangar Museum Core Exhibits
+venue: amelia-earhart-hangar-museum
+project_type: new-building
+year_completed: 2023
+credits:
+  - firm: dimensional-innovations
+    role: exhibit-design
+    note: "Attraction design and museum exhibit design"
+  - firm: dimensional-innovations
+    role: media-design
+    note: "Immersive technology"
+  - firm: turnkey-education
+    role: interpretive-planning
+    note: "Partner; no firm record yet"
+  - firm: museum-exp
+    role: exhibit-design
+    note: "Partner; no firm record yet"
+technologies:
+  - immersive media
+summary: >
+  The Amelia Earhart Hangar Museum, an aviation museum in Atchison, Kansas,
+  opened in 2023 with attraction design, immersive technology, and museum
+  exhibit design by Dimensional Innovations in partnership with Turnkey
+  Education and Museum EXP.
+description: ""
+sources:
+  - https://dimin.com/work/amelia-earhart-hangar-museum

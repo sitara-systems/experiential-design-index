@@ -1,0 +1,9 @@
+id: zoo-knoxville
+name: Zoo Knoxville
+venue_type: aquarium-zoo
+location:
+  city: Knoxville
+  state: TN
+website: https://zooknoxville.org
+sources:
+  - https://www.dimin.com/

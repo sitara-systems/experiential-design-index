@@ -1,0 +1,9 @@
+id: savannah-college-of-art-and-design
+name: Savannah College of Art and Design (SCAD)
+venue_type: academic-institution
+location:
+  city: Savannah
+  state: GA
+website: https://www.scad.edu
+sources:
+  - https://www.scad.edu

@@ -1,0 +1,45 @@
+id: newseum-core
+name: Newseum
+venue: newseum
+project_type: new-building
+year_completed: 2008
+credits:
+  - firm: ennead-architects
+    role: architecture
+    note: "Credited as Polshek Partnership Architects (James Stewart Polshek) at the time; designed the $450 million, 250,000 sq ft building near the National Mall"
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+    note: "Also designed the museum's original 1997 Arlington, VA location"
+  - firm: kubik-maltbie
+    role: fabrication
+  - firm: electrosonic
+    role: av-integration
+  - firm: sh-acoustics
+    role: technical-consulting
+    note: >
+      Acoustic and audio systems design across 18 multimedia theaters, more
+      than 100 interactive stations and videos, two broadcast studios, an
+      event lobby, and a conference center; covered room acoustics, sound
+      isolation, noise control, and audio delivery.
+technologies:
+  - broadcast studios
+  - multimedia theaters
+  - interactive stations
+summary: >
+  The Newseum, a $450 million, 250,000 sq ft journalism-history museum near
+  the National Mall in Washington, DC, opened April 11, 2008, with
+  architecture by Polshek Partnership (now Ennead Architects), exhibit
+  design by Ralph Appelbaum Associates, fabrication by Kubik/Maltbie, AV
+  integration by Electrosonic, and acoustic/audio design by SH Acoustics; the
+  museum permanently closed in December 2019.
+description: >
+  A seven-level, 250,000 sq ft building housing fifteen theaters and fifteen
+  galleries dedicated to the history of journalism and the First Amendment,
+  including two working broadcast studios. The museum operated 2008–2019
+  before closing and selling the building to Johns Hopkins University.
+sources:
+  - https://www.architecturalrecord.com/articles/4332-polshek-s-newsiest-museum-opens-in-d-c
+  - https://raai.com/project/the-newseum/
+  - https://www.ennead.com/work/newseum
+  - https://en.wikipedia.org/wiki/Newseum
+  - https://shacoustics.com/newseum/

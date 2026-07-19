@@ -1,0 +1,28 @@
+id: sap-center-nova-pro-led-armrest
+name: NOVA Pro Permanent LED Armrest Installation
+venue: sap-center
+project_type: installation
+year_completed: 2021
+status: completed
+credits:
+  - firm: pixmob
+    role: media-design
+    note: "no firm record yet (below 3-project threshold) — permanent wireless RGB LED armrest system installed across arena seating, debuted for San Jose Sharks 2021-22 season opener"
+technologies:
+  - wireless RGB LED
+  - synchronized crowd lighting
+summary: >
+  SAP Center in San Jose, CA installed PixMob's NOVA Pro permanent LED armrest
+  system across its seating bowl in 2021, becoming the first arena in the
+  world with a permanent in-seat crowd-lighting installation; it debuted for
+  the San Jose Sharks' 2021-22 season-opening game.
+description: >
+  Unlike PixMob's better-known temporary wristband deployments for concerts
+  and one-off events, the NOVA Pro is a durable, wirelessly controlled,
+  battery-operated LED unit mounted to each seat armrest, intended to remain
+  in place for a full season (and beyond) rather than be distributed and
+  collected per event.
+sources:
+  - https://www.nhl.com/sharks/news/sharks-install-pixmob-s-nova-pro-immersive-led-technology-in-arena-327365286
+  - https://www.livedesignonline.com/news/ldi-gear-nova-pro-led-armrest-pixmob
+  - https://plsn.com/articles/product-in-focus/pixmob-nova-armrest-for-permanent-installations/

@@ -1,0 +1,32 @@
+id: intuit-dome-nova-armrest
+name: NOVA Armrest Permanent LED Installation
+venue: intuit-dome
+project_type: installation
+year_completed: 2024
+status: completed
+credits:
+  - firm: pixmob
+    role: media-design
+    note: "no firm record yet (below 3-project threshold) — permanent LED armrest system integrated into all 17,000 arena seats at building opening"
+  - firm: pixmob
+    role: av-integration
+    note: "no firm record yet (below 3-project threshold) — seat units include NFC readers, USB charging, and four-button game controllers wired for live in-game interaction"
+technologies:
+  - wireless RGB LED
+  - NFC
+  - synchronized crowd lighting
+  - fan interaction / gamification
+summary: >
+  Intuit Dome, the LA Clippers' arena in Inglewood, CA, opened in August 2024
+  with PixMob's NOVA Armrest permanently integrated into each of its 17,000
+  seats, combining synchronized crowd LED lighting with NFC readers, USB
+  charging, and game controllers for live fan interaction.
+description: >
+  The NOVA Armrest is PixMob's most advanced permanent installation product,
+  distinct from the company's temporary event-wristband business: it ships
+  built into the seat itself rather than distributed per event, and stays in
+  place for the life of the venue.
+sources:
+  - https://www.accesswire.com/892882/pixmob-led-technology-ignites-fan-engagement-at-intuit-dome
+  - https://sportsvenuebusiness.com/2025/11/14/pixmob-led-technology-gamifies-the-fan-experience-at-intuit-dome/
+  - https://pixmob.com/products/led-installations/nova-plus

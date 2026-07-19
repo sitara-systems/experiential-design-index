@@ -1,0 +1,24 @@
+id: furman-university-timmons-arena-fan-experience
+name: Timmons Arena Fan Experience
+venue: furman-university-timmons-arena
+project_type: major-renovation
+year_completed: 2025
+credits:
+  - firm: dimensional-innovations
+    role: master-planning
+    note: "Arena design and fan-experience planning"
+  - firm: dimensional-innovations
+    role: lighting-design
+  - firm: betsch-associates
+    role: architecture
+    note: "no firm record yet (below 3-project threshold) — architecture and construction management"
+technologies:
+  - lighting design
+summary: >
+  Dimensional Innovations redesigned the fan experience, arena design, and
+  lighting at Timmons Arena, Furman University's arena in Greenville, South
+  Carolina, with architecture and construction management by Betsch
+  Associates.
+description: ""
+sources:
+  - https://dimin.com/

@@ -1,0 +1,10 @@
+id: university-of-pittsburgh-athletics
+name: University of Pittsburgh Athletic Facilities
+venue_type: academic-institution
+location:
+  city: Pittsburgh
+  state: PA
+operator: University of Pittsburgh
+website: https://pittsburghpanthers.com
+sources:
+  - https://pittsburghpanthers.com

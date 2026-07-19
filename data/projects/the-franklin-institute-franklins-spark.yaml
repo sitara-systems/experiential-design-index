@@ -1,0 +1,38 @@
+id: the-franklin-institute-franklins-spark
+name: Franklin's Spark
+venue: the-franklin-institute
+project_type: installation
+year_completed: 2026
+status: completed
+credits:
+  - firm: crafted-action
+    role: exhibit-design
+    note: "Lead experience designer"
+  - firm: crafted-action
+    role: media-design
+  - firm: motion-by-nick
+    role: media-design
+    note: "Experiential motion design; no firm record yet."
+  - firm: ims-technology-services
+    role: av-integration
+    note: "No firm record yet."
+  - firm: advscopy
+    role: interpretive-planning
+    note: "Narrative strategy; no firm record yet."
+technologies:
+  - projection mapping
+  - immersive audio
+summary: >
+  Franklin's Spark, a 120-degree projection-mapped, multisensory experience
+  in the rotunda of the Franklin Institute in Philadelphia, debuted January
+  17, 2026, marking Benjamin Franklin's 320th birthday; Crafted Action served
+  as lead experience designer, with AV integration by IMS Technology
+  Services.
+description: >
+  Funded by The Satell Family Foundation and Ed Satell, the hourly
+  experience uses dynamic projection, lighting, and sound to present Franklin
+  as an experimenter and innovator, timed to build momentum toward the
+  nation's 250th anniversary in 2026.
+sources:
+  - https://www.craftedaction.com/work/franklin
+  - https://fi.edu/en/exhibits-and-experiences/benjamin-franklin-memorial

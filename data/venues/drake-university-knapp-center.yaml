@@ -1,0 +1,9 @@
+id: drake-university-knapp-center
+name: Knapp Center
+venue_type: sports-venue
+location:
+  city: Des Moines
+  state: IA
+operator: Drake University
+sources:
+  - https://dimin.com/

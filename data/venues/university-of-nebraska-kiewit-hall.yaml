@@ -1,0 +1,9 @@
+id: university-of-nebraska-kiewit-hall
+name: Kiewit Hall
+venue_type: academic-institution
+location:
+  city: Lincoln
+  state: NE
+operator: University of Nebraska-Lincoln, College of Engineering
+sources:
+  - https://dimin.com/

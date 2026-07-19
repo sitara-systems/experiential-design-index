@@ -1,0 +1,30 @@
+id: sfmoma-reimagined-fisher-collection-at-10
+name: "Reimagined: The Fisher Collection at 10"
+venue: sfmoma
+project_type: new-exhibition
+year_completed: 2026
+credits:
+  - firm: prime-access-consulting
+    role: technical-consulting
+    note: >
+      Developed an integrated accessibility system across the ~250-work,
+      four-floor reinstallation: tactile wayfinding (maps, floor
+      indicators, tactile QR codes, Braille labels, touch objects), visual
+      descriptions for every artwork, guided tactile descriptions, sound
+      descriptions for audio pieces, full captioning/transcription of
+      interpretive media, and an accessible companion microsite
+      (December 2024 – July 2026).
+technologies:
+  - tactile wayfinding
+  - braille labeling
+  - audio/visual description
+summary: >
+  Reimagined: The Fisher Collection at 10, the first full reinstallation of
+  SFMOMA's Doris and Donald Fisher Collection since 2016, opened April 18,
+  2026 across four floors of the San Francisco Museum of Modern Art, with
+  accessibility system design by Prime Access Consulting.
+description: ""
+sources:
+  - https://pac.bz/projects/re-imagined-the-fisher-collection-at-10/
+  - https://www.sfmoma.org/press-release/sfmoma-to-unveil-major-transformation-of-the-renowned-doris-and-donald-fisher-collection-the-first-full-reinstallation-of-the-collection-at-sfmoma-since-2016/
+  - https://www.artnews.com/art-news/news/sfmoma-fisher-collection-galleries-reinstallation-1234762592/

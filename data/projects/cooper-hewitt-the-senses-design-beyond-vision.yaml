@@ -8,6 +8,12 @@ credits:
     role: exhibit-design
   - firm: capitol-museum-services
     role: fabrication
+  - firm: prime-access-consulting
+    role: technical-consulting
+    note: >
+      Developed the accessible labels mobile/web app connecting braille
+      gallery labels to expanded text, zoomable images, visual descriptions,
+      and human-read audio (June–July 2017).
 technologies:
   - tactile displays
   - braille labeling
@@ -22,3 +28,4 @@ description: ""
 sources:
   - https://segd.org/projects/senses-design-beyond-vision/
   - https://www.cooperhewitt.org/2018/02/27/cooper-hewitt-smithsonian-design-museum-to-present-the-senses-design-beyond-vision/
+  - https://pac.bz/projects/accessible-labels-app-for-the-senses-exhibition/

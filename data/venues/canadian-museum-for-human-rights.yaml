@@ -1,0 +1,11 @@
+id: canadian-museum-for-human-rights
+name: Canadian Museum for Human Rights
+venue_type: history-museum
+location:
+  city: Winnipeg
+  state: MB
+  country: CA
+operator: Government of Canada
+website: https://humanrights.ca
+sources:
+  - https://en.wikipedia.org/wiki/Canadian_Museum_for_Human_Rights

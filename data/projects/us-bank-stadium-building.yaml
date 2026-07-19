@@ -1,0 +1,23 @@
+id: us-bank-stadium-building
+name: U.S. Bank Stadium
+venue: us-bank-stadium
+project_type: new-building
+year_completed: 2016
+credits:
+  - firm: hks
+    role: architecture
+    note: design architect (Bryan Trubey, design principal)
+  - firm: studio-five-architects
+    role: architecture
+    note: "co-design architect (associate); no firm record yet"
+technologies:
+  - ETFE roof (first in a U.S. stadium)
+summary: >
+  U.S. Bank Stadium, home of the Minnesota Vikings in Minneapolis, Minnesota,
+  opened July 22, 2016, designed by HKS with local associate firm Studio
+  Five Architects, notable for its five pivoting glass "Legacy Ratio" doors
+  and the first ETFE roof used in a U.S. stadium.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/U.S._Bank_Stadium
+  - https://www.hksinc.com/what-we-do/projects/us-bank-stadium/

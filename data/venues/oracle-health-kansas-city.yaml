@@ -1,0 +1,9 @@
+id: oracle-health-kansas-city
+name: Oracle Health Experience Center
+venue_type: briefing-center
+location:
+  city: Kansas City
+  state: MO
+operator: Oracle Health
+sources:
+  - https://dimin.com/work/oracle-health-experience-center

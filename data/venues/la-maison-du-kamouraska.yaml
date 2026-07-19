@@ -1,0 +1,11 @@
+id: la-maison-du-kamouraska
+name: La Maison du Kamouraska
+venue_type: cultural-center
+location:
+  city: Kamouraska
+  state: QC
+  country: CA
+operator: Tourisme Kamouraska
+website: https://www.tourismekamouraska.com/en/attractions/maison-du-kamouraska/
+sources:
+  - https://www.tourismekamouraska.com/en/attractions/maison-du-kamouraska/

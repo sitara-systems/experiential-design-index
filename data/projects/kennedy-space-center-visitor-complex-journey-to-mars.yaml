@@ -1,0 +1,26 @@
+id: kennedy-space-center-visitor-complex-journey-to-mars
+name: "Journey to Mars: Explorers Wanted"
+venue: kennedy-space-center-visitor-complex
+project_type: installation
+year_completed: 2015
+credits:
+  - firm: brc-imagination-arts
+    role: content-production
+    note: >
+      Strategic planning, concept development, design detail, production,
+      immersive media production, fabrication, technical systems, and
+      installation and integration for the Mars-exploration exhibit.
+technologies:
+  - landing simulator
+  - orbital docking simulator
+summary: >
+  "Journey to Mars: Explorers Wanted," a 10,000-square-foot interactive
+  exhibit at the Kennedy Space Center Visitor Complex in Merritt Island,
+  Florida, opened in 2015, designed by BRC Imagination Arts.
+description: >
+  The exhibit features hands-on interactives including a landing simulator
+  and an orbital docking simulator, along with a live show describing
+  future human life on Mars; included with daily admission.
+sources:
+  - https://www.brcweb.com/project/nasa-kennedy-space-center-visitor-complex/
+  - https://www.kennedyspacecenter.com/explore-attractions/all-attractions/journey-to-mars/

@@ -1,0 +1,10 @@
+id: banff-gondola
+name: Banff Gondola
+venue_type: themed-attraction
+location:
+  city: Banff
+  state: AB
+  country: CA
+operator: Pursuit Collection
+sources:
+  - https://dimin.com/

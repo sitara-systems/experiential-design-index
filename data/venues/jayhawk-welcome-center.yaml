@@ -1,0 +1,10 @@
+id: jayhawk-welcome-center
+name: Jayhawk Welcome Center
+venue_type: academic-institution
+location:
+  city: Lawrence
+  state: KS
+operator: University of Kansas
+website: https://welcome.ku.edu
+sources:
+  - https://welcome.ku.edu

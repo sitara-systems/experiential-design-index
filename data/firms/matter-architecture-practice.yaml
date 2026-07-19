@@ -1,0 +1,28 @@
+# Firm record — Matter Practice
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: matter-architecture-practice
+name: Matter Practice
+aka:
+  - Matter Architecture Practice
+website: https://www.matterpractice.net/
+hq:
+  city: Brooklyn
+  state: NY
+founded: 2002
+roles:
+  - architecture
+  - exhibit-design
+status: active
+status_basis: >
+  Current Brooklyn Navy Yard tenant listing; active professional-directory
+  presence (Houzz, Architizer).
+status_verified: 2026-07-18
+summary: >
+  Matter Practice is a Brooklyn, NY architecture and exhibition-design
+  studio co-founded in 2002 by Sandra Wheeler and Alfred Zollinger,
+  working across architecture, exhibition design, and custom fabrication.
+sources:
+  - https://www.matterpractice.net/
+  - https://architizer.com/firms/matter-architecture-practice/
+  - https://www.brooklynnavyyard.org/tenants/matter-practice/

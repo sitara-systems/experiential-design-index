@@ -1,0 +1,10 @@
+id: ryman-auditorium
+name: Ryman Auditorium
+venue_type: cultural-center
+location:
+  city: Nashville
+  state: TN
+website: https://www.ryman.com
+sources:
+  - https://www.ryman.com
+  - https://en.wikipedia.org/wiki/Ryman_Auditorium

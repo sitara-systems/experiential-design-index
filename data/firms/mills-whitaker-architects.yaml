@@ -1,0 +1,28 @@
+# Firm record — Mills Whitaker Architects
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: mills-whitaker-architects
+name: Mills Whitaker Architects
+aka: []
+website: https://millswhitaker.com/
+hq:
+  city: Arlington
+  state: MA
+founded: 1997
+roles:
+  - architecture
+  - exhibit-design
+status: active
+status_basis: >
+  Current firm website with an active project portfolio including a
+  still-upcoming 2026 project (Paul Revere Museum of Discovery and
+  Innovation).
+status_verified: 2026-07-18
+summary: >
+  Mills Whitaker Architects is an Arlington, Massachusetts architecture
+  firm founded in 1997 by Donald W. Mills and Craig A. Whitaker,
+  specializing in historic preservation, rehabilitation, and visitor and
+  museum facilities across eastern Massachusetts and coastal New England.
+sources:
+  - https://millswhitaker.com/
+  - https://www.houzz.com/professionals/architects-and-building-designers/mills-whitaker-architects-llc-pfvwus-pf~596632202

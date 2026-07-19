@@ -1,0 +1,10 @@
+id: csu-spur
+name: CSU Spur
+venue_type: science-center
+location:
+  city: Denver
+  state: CO
+operator: Colorado State University
+website: https://spur.colostate.edu
+sources:
+  - https://dimin.com/work/csu-spur

@@ -1,0 +1,26 @@
+id: reagan-library-situation-room-experience
+name: Situation Room Experience
+venue: ronald-reagan-presidential-library
+project_type: new-exhibition
+year_completed: 2022
+credits:
+  - firm: dimensional-innovations
+    role: media-design
+    note: "Custom control system and immersive technology"
+  - firm: dimensional-innovations
+    role: exhibit-design
+    note: "Museum exhibit design"
+  - firm: cudzu-creative
+    role: exhibit-design
+    note: "Design partner; no firm record yet"
+technologies:
+  - custom control system
+  - immersive media
+summary: >
+  The Situation Room Experience, an immersive exhibit at the Ronald Reagan
+  Presidential Library & Museum in Simi Valley, California, opened in 2022
+  with exhibit design, a custom control system, and immersive technology
+  by Dimensional Innovations in partnership with Cudzu Creative.
+description: ""
+sources:
+  - https://dimin.com/work/reagan-library-situation-room

@@ -1,0 +1,8 @@
+id: sabetha-history-center
+name: Sabetha History Center
+venue_type: history-museum
+location:
+  city: Sabetha
+  state: KS
+sources:
+  - https://dimin.com/

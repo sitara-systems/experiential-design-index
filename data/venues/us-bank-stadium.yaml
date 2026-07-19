@@ -1,0 +1,10 @@
+id: us-bank-stadium
+name: U.S. Bank Stadium
+venue_type: sports-venue
+location:
+  city: Minneapolis
+  state: MN
+website: https://www.usbankstadium.com
+sources:
+  - https://en.wikipedia.org/wiki/U.S._Bank_Stadium
+  - https://www.hksinc.com/what-we-do/projects/us-bank-stadium/

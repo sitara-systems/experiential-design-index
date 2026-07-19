@@ -1,0 +1,10 @@
+id: lower-com-field
+name: Lower.com Field
+venue_type: sports-venue
+location:
+  city: Columbus
+  state: OH
+operator: Columbus Crew
+website: https://www.columbuscrew.com
+sources:
+  - https://www.columbuscrew.com

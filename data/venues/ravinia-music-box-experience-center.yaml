@@ -1,0 +1,11 @@
+id: ravinia-music-box-experience-center
+name: Ravinia Music Box Experience Center
+venue_type: cultural-center
+location:
+  city: Highland Park
+  state: IL
+operator: Ravinia Festival
+website: https://www.ravinia.org
+sources:
+  - https://backstage.ravinia.org/posts/ravinia-music-box-with-theater-experience-celebrating-the-legacy-of-leonard-bernstein-now-open-to-the-public
+  - https://symphony.org/raviniamusicbox-experience-center-opens-with-leonard-bernstein-at-100-exhibit/

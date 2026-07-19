@@ -1,0 +1,9 @@
+id: youtube-theater
+name: YouTube Theater
+venue_type: cultural-center
+location:
+  city: Inglewood
+  state: CA
+website: https://www.youtubetheater.com
+sources:
+  - https://www.hksinc.com/what-we-do/projects/youtube-theater/

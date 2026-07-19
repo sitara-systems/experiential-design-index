@@ -1,0 +1,8 @@
+id: nemours-childrens-health-wilmington
+name: Nemours Children's Health
+venue_type: healthcare-institution
+location:
+  city: Wilmington
+  state: DE
+sources:
+  - https://dimin.com/

@@ -1,0 +1,56 @@
+id: canadian-museum-for-human-rights-core
+name: Canadian Museum for Human Rights
+venue: canadian-museum-for-human-rights
+project_type: new-building
+year_completed: 2014
+credits:
+  - firm: antoine-predock-architect
+    role: architecture
+    note: "No firm record yet"
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Credited as Kubik/Maltbie on SH Acoustics' own project page; no independent corroboration found for this specific project"
+  - firm: electrosonic
+    role: av-integration
+    note: "Credited on SH Acoustics' own project page; no independent corroboration found for this specific project"
+  - firm: sh-acoustics
+    role: technical-consulting
+    note: >
+      Acoustic design and engineering including gallery sound optimization,
+      sound-isolation construction separating galleries and theaters,
+      building-systems noise standards, audio-delivery system design, final
+      calibration of all media programs, and guidance to ten media producers
+      on optimized audio-track production.
+  - firm: prime-access-consulting
+    role: technical-consulting
+    note: >
+      Embedded inclusive design and accessibility across the new museum's
+      exhibitions and digital platforms from the outset (September 2009 –
+      April 2015), including development of the Universal Keypad
+      (high-contrast tactile-button content navigation with screen-reader
+      support), the Universal Access Point (mobile app + Bluetooth beacon
+      system), an enterprise content management system, and audio/visual
+      description and wayfinding services; the work received four AAM MUSE
+      Awards.
+technologies:
+  - multimedia theaters
+  - soundscapes
+  - Universal Keypad
+  - Universal Access Point
+summary: >
+  The Canadian Museum for Human Rights, a 260,000 sq ft national museum in
+  Winnipeg, Manitoba designed by Antoine Predock, opened September 2014;
+  exhibit design by Ralph Appelbaum Associates, with acoustic and audio
+  design by SH Acoustics.
+description: >
+  A 100-meter crystalline-tower building with 47,000 sq ft of galleries
+  reached via ramps symbolizing a "path to enlightenment," including a
+  7,000 sq ft glass-enclosed atrium winter garden.
+sources:
+  - https://en.wikipedia.org/wiki/Canadian_Museum_for_Human_Rights
+  - https://raai.com/project/canadian-museum-for-human-rights/
+  - https://www.architectmagazine.com/design/buildings/canadian-museum-for-human-rights-designed-by-antoine-predock-architect_o
+  - https://shacoustics.com/canadian-museum-for-human-rights/
+  - https://pac.bz/projects/capital-project/

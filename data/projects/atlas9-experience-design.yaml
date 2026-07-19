@@ -1,0 +1,31 @@
+id: atlas9-experience-design
+name: Atlas9 Experience Design
+venue: atlas9
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: dimensional-innovations
+    role: exhibit-design
+    note: "Experience design"
+  - firm: dimensional-innovations
+    role: fabrication
+    note: "Including 3D printing"
+  - firm: dimensional-innovations
+    role: media-design
+    note: "Immersive technology"
+  - firm: perspective-architecture-and-design
+    role: architecture
+    note: "no firm record yet (below 3-project threshold)"
+  - firm: infinity-sign-systems
+    role: fabrication
+    note: "no firm record yet (below 3-project threshold)"
+technologies:
+  - immersive media
+  - 3D printing
+summary: >
+  Dimensional Innovations designed and fabricated the immersive-technology
+  experience at Atlas9 in Kansas City, Kansas, using 3D printing, with
+  architecture by Perspective Architecture + Design.
+description: ""
+sources:
+  - https://dimin.com/

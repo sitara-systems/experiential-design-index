@@ -1,0 +1,9 @@
+id: rd1-spirits
+name: RD1 Spirits
+venue_type: themed-attraction
+location:
+  city: Lexington
+  state: KY
+website: https://www.rd1spirits.com
+sources:
+  - https://dimin.com/work/rd1-spirits

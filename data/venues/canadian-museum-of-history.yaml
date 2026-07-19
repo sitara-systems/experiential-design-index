@@ -1,0 +1,11 @@
+id: canadian-museum-of-history
+name: Canadian Museum of History
+venue_type: history-museum
+location:
+  city: Gatineau
+  state: QC
+  country: CA
+operator: Government of Canada
+website: https://www.historymuseum.ca
+sources:
+  - https://www.thecanadianencyclopedia.ca/en/article/canadian-museum-of-history

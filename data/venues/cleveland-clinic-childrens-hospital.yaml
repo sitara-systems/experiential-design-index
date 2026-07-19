@@ -1,0 +1,9 @@
+id: cleveland-clinic-childrens-hospital
+name: Cleveland Clinic Children's Hospital
+venue_type: healthcare-institution
+location:
+  city: Cleveland
+  state: OH
+operator: Cleveland Clinic
+sources:
+  - https://www.dimin.com/

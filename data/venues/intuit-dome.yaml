@@ -1,0 +1,10 @@
+id: intuit-dome
+name: Intuit Dome
+venue_type: sports-venue
+location:
+  city: Inglewood
+  state: CA
+operator: LA Clippers
+website: https://www.intuitdome.com/
+sources:
+  - https://www.intuitdome.com/

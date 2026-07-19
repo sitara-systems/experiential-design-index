@@ -1,0 +1,28 @@
+id: cabrillo-marine-aquarium-exhibit-hall-renovation
+name: Main Exhibit Hall Renovation
+venue: cabrillo-marine-aquarium
+project_type: major-renovation
+year_completed: 2026
+credits:
+  - firm: the-exhibits-dept
+    role: exhibit-design
+    note: "Exhibit design and concept visualization"
+  - firm: the-acorn-group
+    role: interpretive-planning
+    note: "no firm record yet"
+  - firm: split-rock-studios
+    role: exhibit-design
+    note: "Design partner"
+technologies: []
+summary: >
+  Cabrillo Marine Aquarium in San Pedro, California, reopened its main
+  exhibit hall in spring 2026 after an $8 million, 18-month renovation
+  marking the aquarium's 90th anniversary, adding a wayfinding entrance
+  exhibit, Jelly Lab, and Collections Room; exhibit design was led by The
+  Exhibits Dept. with interpretive planning by The Acorn Group and Split
+  Rock Studios as design partner.
+description: ""
+sources:
+  - https://www.exhibitsdept.com/projects/cabrillo
+  - https://spectrumnews1.com/ca/la/socal-scene/2026/05/13/cabrillo-marine-aquarium-reopens
+  - https://sanpedrotoday.com/2026/05/28/what-lies-beneath/

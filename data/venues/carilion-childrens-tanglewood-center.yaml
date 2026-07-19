@@ -1,0 +1,9 @@
+id: carilion-childrens-tanglewood-center
+name: Carilion Children's Tanglewood Center
+venue_type: healthcare-institution
+location:
+  city: Roanoke
+  state: VA
+operator: Carilion Clinic
+sources:
+  - https://www.dimin.com/

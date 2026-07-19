@@ -1,0 +1,10 @@
+id: minnesota-state-fairgrounds
+name: Minnesota State Fairgrounds
+venue_type: public-space
+location:
+  city: Falcon Heights
+  state: MN
+operator: Minnesota State Agricultural Society
+website: https://www.mnstatefair.org
+sources:
+  - https://www.mnstatefair.org

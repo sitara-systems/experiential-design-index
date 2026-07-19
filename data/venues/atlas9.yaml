@@ -1,0 +1,8 @@
+id: atlas9
+name: Atlas9
+venue_type: themed-attraction
+location:
+  city: Kansas City
+  state: KS
+sources:
+  - https://dimin.com/

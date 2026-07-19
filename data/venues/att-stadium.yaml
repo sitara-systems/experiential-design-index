@@ -1,0 +1,10 @@
+id: att-stadium
+name: AT&T Stadium
+venue_type: sports-venue
+location:
+  city: Arlington
+  state: TX
+website: https://attstadium.com
+sources:
+  - https://en.wikipedia.org/wiki/AT%26T_Stadium
+  - https://www.hksinc.com/what-we-do/projects/att-stadium/

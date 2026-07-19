@@ -1,0 +1,9 @@
+id: thrivent-financial-headquarters
+name: Thrivent Financial Headquarters
+venue_type: briefing-center
+location:
+  city: Minneapolis
+  state: MN
+operator: Thrivent Financial
+sources:
+  - https://www.dimin.com/

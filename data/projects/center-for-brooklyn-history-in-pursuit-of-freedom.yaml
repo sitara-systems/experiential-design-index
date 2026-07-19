@@ -6,13 +6,13 @@ year_completed: 2014
 credits:
   - firm: matter-architecture-practice
     role: exhibit-design
-    note: "Exhibition designer; no firm record yet"
+    note: "Exhibition designer"
   - firm: potion-design
     role: media-design
     note: "Interactive media design and development"
   - firm: pure-and-applied
     role: graphics-wayfinding
-    note: "Multidisciplinary design firm on the project team; exact role unclear from public sources; no firm record yet"
+    note: "Multidisciplinary design firm on the project team; exact role unclear from public sources"
 technologies:
   - interactive media stations
 summary: >
