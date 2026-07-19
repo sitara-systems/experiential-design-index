@@ -16,6 +16,10 @@ technologies:
   - projection mapping
   - motion tracking
   - generative AI
+technology_tags:
+  - immersive-environment
+  - interactive-installation
+  - artificial-intelligence
 summary: >
   DALL-E, an interactive AI-art installation in the Museum of Science,
   Boston's programmable Immersive Gallery, opened in 2023, designed by

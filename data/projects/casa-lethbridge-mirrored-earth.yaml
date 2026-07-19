@@ -14,6 +14,9 @@ credits:
 technologies:
   - motion-tracking interactive art
   - custom motorized mirror array
+technology_tags:
+  - robotics
+  - interactive-installation
 summary: >
   Mirrored Earth, an interactive artwork of approximately 600 motorized wall
   mirrors in the foyer of Casa Community Arts Centre in Lethbridge, Alberta,

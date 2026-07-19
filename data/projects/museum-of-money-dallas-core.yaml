@@ -17,6 +17,9 @@ technologies:
   - real-time graphics
   - interactive kiosk
   - motion tracking
+technology_tags:
+  - real-time
+  - interactive-installation
 summary: >
   MoMoney (Museum of Money), a 28-exhibit interactive museum on the
   history and mechanics of money, opened February 20, 2026 at 501 Elm

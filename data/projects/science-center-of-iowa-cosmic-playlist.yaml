@@ -13,6 +13,8 @@ credits:
 technologies:
   - interactive kiosk
   - dome theater projection
+technology_tags:
+  - immersive-environment
 summary: >
   Cosmic Playlist, an interactive planetarium pre-show kiosk system at the
   Science Center of Iowa in Des Moines, opened in 2024; RLMG designed the

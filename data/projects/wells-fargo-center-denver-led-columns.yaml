@@ -13,6 +13,8 @@ credits:
 technologies:
   - LED display
   - generative software
+technology_tags:
+  - real-time
 summary: >
   An eight-story digital installation of five 85-foot LED columns opened in
   the glass atrium of Denver's Wells Fargo Center in 2016 as part of a lobby

@@ -9,6 +9,8 @@ credits:
     role: exhibit-design
 technologies:
   - conductive-paint touch sensors
+technology_tags:
+  - interactive-installation
 summary: >
   Ambient Play, a temporary interactive mural and gathering space in a vacant
   storefront at Hyde Park Village in Tampa, FL, ran from July to September

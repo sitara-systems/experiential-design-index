@@ -20,6 +20,9 @@ credits:
 technologies:
   - 360-degree projection mapping
   - interactive industrial robots
+technology_tags:
+  - immersive-environment
+  - robotics
 summary: >
   Ford Rouge Factory Tour, a visitor attraction at the Ford Rouge Factory in
   Dearborn, Michigan, opened in 2004 as part of the factory's centennial

@@ -13,6 +13,8 @@ credits:
 technologies:
   - LED display
   - generative software
+technology_tags:
+  - real-time
 summary: >
   A 126-foot mixed-resolution digital display spanning the facade, entry
   passage, and lobby of 221 Main Street in San Francisco opened around 2020;

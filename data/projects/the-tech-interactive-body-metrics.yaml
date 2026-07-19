@@ -12,6 +12,8 @@ credits:
 technologies:
   - light-sensor heartbeat tracking
   - Kinect motion tracking
+technology_tags:
+  - interactive-installation
 summary: >
   Body Metrics, two interactive installations on movement and physiology at
   The Tech Interactive (then The Tech Museum of Innovation) in San Jose,

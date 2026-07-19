@@ -27,6 +27,8 @@ credits:
     note: "Kinetic systems consultant for the telescoping shell; no firm record yet"
 technologies:
   - deployable telescoping structure
+technology_tags:
+  - robotics
 summary: >
   The Shed, an eight-level, 200,000 sq ft cultural venue at Hudson Yards
   in New York, opened April 5, 2019, combining a fixed base building with

@@ -9,6 +9,8 @@ credits:
     note: "Built a working Rube Goldberg machine for the exhibition's title wall, as the National Museum of American Jewish History's host-venue addition to the traveling exhibition; note that the exhibition itself was conceived by Creighton Michael and organized for tour by International Arts & Artists (not a Dome credit)"
 technologies:
   - kinetic sculpture / physical mechanism
+technology_tags:
+  - robotics
 summary: >
   The Art of Rube Goldberg, a traveling exhibition on the cartoonist and
   inventor, opened at the National Museum of American Jewish History (now the

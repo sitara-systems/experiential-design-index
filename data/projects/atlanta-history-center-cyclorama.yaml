@@ -31,6 +31,8 @@ credits:
 technologies:
   - projection mapping
   - diorama
+technology_tags:
+  - immersive-environment
 recognition:
   - award: "AAM MUSE Awards — Video, Film, Animation & Live Media (Bronze), for Cortina Productions' \"Rotunda Film\""
     year: 2020

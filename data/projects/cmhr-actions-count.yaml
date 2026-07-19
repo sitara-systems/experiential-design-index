@@ -8,6 +8,8 @@ credits:
     role: media-design
 technologies:
   - interactive-installation
+technology_tags:
+  - interactive-installation
 recognition:
   - award: "AAM MUSE Awards"
     year: 2015

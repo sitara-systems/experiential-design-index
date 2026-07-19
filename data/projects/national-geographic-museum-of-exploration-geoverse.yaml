@@ -16,6 +16,9 @@ technologies:
   - projection mapping
   - interactive floor projection
   - spatialized audio
+technology_tags:
+  - immersive-environment
+  - interactive-installation
 summary: >
   Geoverse, an immersive 270-degree projection gallery designed by Moment
   Factory, opened as part of the National Geographic Museum of Exploration

@@ -21,6 +21,10 @@ technologies:
   - lidar sensors
   - generative audio
   - real-time show control
+technology_tags:
+  - immersive-environment
+  - interactive-installation
+  - real-time
 summary: >
   The Globe, a 30-foot-tall walk-through interactive sculpture with over
   300,000 LEDs, opened in 2021 as the centerpiece of the AT&T Discovery

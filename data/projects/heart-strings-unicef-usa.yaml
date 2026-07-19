@@ -12,6 +12,8 @@ technologies:
   - heartbeat-sensor interactives
   - projection
   - responsive lighting
+technology_tags:
+  - interactive-installation
 summary: >
   Heart Strings by UNICEF USA, a touring multi-room interactive experience
   created by Moment Factory that turns visitor heartbeats, words, and voices

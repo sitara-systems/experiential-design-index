@@ -9,6 +9,8 @@ credits:
     note: "interactive mural design/build; illustration by Sebastian Coolidge (no firm record)"
 technologies:
   - touch sensor sound-triggered mural
+technology_tags:
+  - interactive-installation
 summary: >
   Dream It Be It, an interactive touch-sensitive mural at the Glazer
   Children's Museum in Tampa, FL, was installed in 2016 by The Urban Conga

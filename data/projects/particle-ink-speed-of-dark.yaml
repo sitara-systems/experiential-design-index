@@ -16,6 +16,8 @@ technologies:
   - augmented reality
   - projection mapping
   - laser-light effects
+technology_tags:
+  - immersive-environment
 recognition:
   - award: "TEA Thea Award — Outstanding Achievement, Immersive Live Experience"
     year: 2022

@@ -12,6 +12,8 @@ credits:
     note: "museum advisory team; wrote RFQs and ran vendor selection for exhibit designers, media/AV developers, and fabricators; no firm record yet"
   - firm: hadley-exhibits
     role: fabrication
+technology_tags:
+  - immersive-environment
 summary: >
   The Peoria Riverfront Museum, a LEED Gold-certified museum combining art,
   science, and history galleries with a Giant Screen theater and dome

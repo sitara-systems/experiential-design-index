@@ -12,6 +12,8 @@ credits:
     note: "Engineered, fabricated, and prototyped the physical display-wall assembly"
 technologies:
   - motion tracking
+technology_tags:
+  - interactive-installation
 summary: >
   The Pixel Wall (Dell Wall), a concourse media installation at Moody
   Center, the University of Texas at Austin's arena, opened with the

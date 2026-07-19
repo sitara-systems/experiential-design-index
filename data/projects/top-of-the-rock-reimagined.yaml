@@ -42,6 +42,8 @@ credits:
 technologies:
   - projection mapping
   - media server show control
+technology_tags:
+  - immersive-environment
 recognition:
   - award: "SEGD Global Design Awards — Merit Award"
     year: 2025

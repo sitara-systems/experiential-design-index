@@ -21,6 +21,9 @@ technologies:
   - augmented reality
   - mixed reality (HoloLens 2)
   - real-time 3D rendering
+technology_tags:
+  - interactive-installation
+  - real-time
 summary: >
   Intel XR Fab Tour, an augmented- and mixed-reality exhibit at the Intel
   Museum in Santa Clara, CA explaining Intel's chip-fabrication process,

@@ -51,6 +51,8 @@ technologies:
   - interactive kiosks
   - motion capture
   - projection
+technology_tags:
+  - interactive-installation
 recognition:
   - award: "SEGD Global Design Awards — Honor Award, Interactive Experiences"
     year: 2021

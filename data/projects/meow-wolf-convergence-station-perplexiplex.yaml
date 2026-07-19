@@ -35,6 +35,10 @@ technologies:
   - motion tracking
   - interactive lighting
   - real-time interactive media
+technology_tags:
+  - immersive-environment
+  - interactive-installation
+  - real-time
 recognition:
   - award: "Communication Arts Interactive Competition — Environmental category"
     year: 2022

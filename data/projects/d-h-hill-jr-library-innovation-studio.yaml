@@ -13,6 +13,8 @@ credits:
 technologies:
   - projection mapping
   - depth-sensing gesture interaction
+technology_tags:
+  - interactive-installation
 recognition:
   - award: "AAM Media & Technology MUSE Awards — Bronze, Research and Innovation"
     year: 2021

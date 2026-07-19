@@ -24,6 +24,9 @@ technologies:
   - POV projection mapping
   - rear-projection displays
   - four-sided projection glass cube
+technology_tags:
+  - immersive-environment
+  - interactive-installation
 recognition:
   - award: "SEGD Global Design Awards — Honor Award"
     year: 2022

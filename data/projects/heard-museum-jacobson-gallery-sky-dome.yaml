@@ -17,6 +17,8 @@ recognition:
 technologies:
   - 360-degree projection dome
   - fiber-optic ceiling
+technology_tags:
+  - immersive-environment
 summary: >
   DLR Group renovated the Heard Museum's Jacobson Gallery into an
   immersive 360-degree "Sky-Dome" installation, with AV integrator

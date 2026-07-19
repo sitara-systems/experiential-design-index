@@ -15,6 +15,8 @@ credits:
 technologies:
   - RFID
   - touchscreen interactives
+technology_tags:
+  - interactive-installation
 summary: >
   The Eco Gallery, a waste-management-themed interactive exhibit at
   Discovery Cube Orange County in Santa Ana, California, opened in 2011,

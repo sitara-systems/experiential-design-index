@@ -10,6 +10,8 @@ credits:
 technologies:
   - interactive sensor-driven installation
   - real-time visualization
+technology_tags:
+  - interactive-installation
 summary: >
   The Wheel of Intentions, an interactive lobby installation at the Rubin
   Museum of Art (now Rubin Museum of Himalayan Art) in New York City, opened

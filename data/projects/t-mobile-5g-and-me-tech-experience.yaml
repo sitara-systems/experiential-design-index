@@ -12,6 +12,8 @@ credits:
   - firm: sparks
     role: fabrication
     note: "No firm record yet"
+technology_tags:
+  - interactive-installation
 summary: >
   T-Mobile's "5G & Me" Tech Experience, a 4,000-square-foot immersive
   showcase of 5G applications at T-Mobile's Bellevue, Washington

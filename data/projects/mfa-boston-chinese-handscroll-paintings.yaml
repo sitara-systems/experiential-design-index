@@ -10,6 +10,8 @@ credits:
 technologies:
   - high-resolution imaging
   - game engine
+technology_tags:
+  - real-time
 summary: >
   An interactive digital viewer for six Song Dynasty Chinese handscroll
   paintings at the Museum of Fine Arts, Boston opened in 2016; RLMG

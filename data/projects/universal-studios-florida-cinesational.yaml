@@ -16,6 +16,8 @@ technologies:
   - choreographed fountains
   - pyrotechnics
   - adaptive real-time control system
+technology_tags:
+  - real-time
 recognition:
   - award: "Fast Company Innovation by Design Awards — Finalist, Experience Design"
     year: 2025

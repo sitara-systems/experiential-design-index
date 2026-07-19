@@ -32,6 +32,8 @@ technologies:
   - RFID
   - interactive touchscreens
   - motion detection
+technology_tags:
+  - interactive-installation
 recognition:
   - award: 'AAM MUSE Awards — Onsite Digital Experience (Bronze), for the "Red Team" interactive'
     year: 2020

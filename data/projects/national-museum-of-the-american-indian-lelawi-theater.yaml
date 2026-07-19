@@ -14,6 +14,8 @@ credits:
     note: "\"Creation's Journey\"; winner of the American Muse Award for Technical Excellence, per the firm's own site"
 technologies:
   - 360-degree projection
+technology_tags:
+  - immersive-environment
 summary: >
   The Lelawi Theater, a 360-degree theater experience introducing visitors
   to Native American life and storytelling, opened with the National

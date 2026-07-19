@@ -33,6 +33,8 @@ technologies:
   - LED lighting
   - touch-activated interactives
   - computer vision
+technology_tags:
+  - interactive-installation
 summary: >
   The Shakespeare Exhibition Hall, a renovated exhibition space at the Folger
   Shakespeare Library displaying the library's First Folio collection, opened

@@ -12,6 +12,8 @@ credits:
 technologies:
   - projection mapping
   - touchscreen interactives
+technology_tags:
+  - immersive-environment
 summary: >
   The Founders Hall Visitor Experience, a projection-mapped orientation
   experience in the rotunda of Milton Hershey School's Founders Hall in

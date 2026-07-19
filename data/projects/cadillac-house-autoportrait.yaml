@@ -14,6 +14,10 @@ technologies:
   - computer vision / face recognition
   - robotic arm motion control
   - autonomous drawing system
+technology_tags:
+  - robotics
+  - artificial-intelligence
+  - interactive-installation
 summary: >
   AUTOPORTRAIT was a temporary exhibition at the Gallery at Cadillac House
   in New York City, presented by Visionaire, in which Tellart's ADA0002

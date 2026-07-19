@@ -16,6 +16,8 @@ credits:
 technologies:
   - LED display
   - generative software
+technology_tags:
+  - real-time
 summary: >
   A building-wide digital media program integrating light sculptures, an LED
   lobby archway, and elevator-vestibule displays opened at 85 Broad Street in

@@ -15,6 +15,10 @@ credits:
 technologies:
   - interactive LED lighting
   - computer vision tracking
+technology_tags:
+  - interactive-installation
+  - artificial-intelligence
+  - real-time
 summary: >
   A Cloud Scatters Light, a site-specific interactive light artwork on
   Burnaby, British Columbia's Art Walk, was completed in 2015 with lighting

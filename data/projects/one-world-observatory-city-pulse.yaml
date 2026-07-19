@@ -19,6 +19,8 @@ credits:
 technologies:
   - gesture control
   - LCD video rings
+technology_tags:
+  - interactive-installation
 summary: >
   City Pulse, a gesture-controlled orientation installation connecting the
   skyline view to street-level storytelling, opened with One World

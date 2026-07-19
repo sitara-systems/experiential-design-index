@@ -10,6 +10,8 @@ credits:
 technologies:
   - facade lighting
   - generative software
+technology_tags:
+  - real-time
 summary: >
   Chromatic, a permanent facade and lobby lighting artwork responsive to live
   music performances, was developed by AV&C in collaboration with the San

@@ -12,6 +12,9 @@ credits:
 technologies:
   - curved multi-display theater
   - real-time data visualization
+technology_tags:
+  - immersive-environment
+  - artificial-intelligence
 summary: >
   IBM's Watson Experience Center, a 10,000 sq ft client-facing briefing
   center at Cooper Square in New York, opened in 2016 with exhibit and media

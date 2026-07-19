@@ -18,6 +18,9 @@ credits:
   - firm: whitlock
     role: av-integration
     note: "No firm record yet"
+technology_tags:
+  - interactive-installation
+  - real-time
 summary: >
   The Tribute Wall, an interactive media installation at the University
   of Washington's Bill & Melinda Gates Center for Computer Science &

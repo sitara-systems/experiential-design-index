@@ -15,6 +15,10 @@ technologies:
   - projection mapping
   - real-time interactive media
   - motion sensing
+technology_tags:
+  - immersive-environment
+  - interactive-installation
+  - real-time
 recognition:
   - award: "SEGD Global Design Awards — Honor Award, Interactive Experiences"
     year: 2021

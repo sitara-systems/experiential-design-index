@@ -22,6 +22,8 @@ credits:
     note: "Credited as \"Maltbie Associates,\" the firm's pre-merger name"
 technologies:
   - 360-degree video projection
+technology_tags:
+  - immersive-environment
 recognition:
   - award: "TEA Thea Award"
     year: 2003

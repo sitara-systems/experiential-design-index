@@ -13,6 +13,8 @@ credits:
 technologies:
   - animatronics
   - projected animation
+technology_tags:
+  - robotics
 summary: >
   World of Life, one of two core hands-on science galleries that opened at
   the California Science Center in Los Angeles in February 1998, was

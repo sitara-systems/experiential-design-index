@@ -10,6 +10,8 @@ credits:
     role: fabrication
 technologies:
   - touch-sensor sound/light cylinders
+technology_tags:
+  - interactive-installation
 summary: >
   The Hangout, a touch-activated musical gathering installation on a former
   building foundation in New Orleans' Lower Ninth Ward, was installed in 2017

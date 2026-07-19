@@ -16,6 +16,8 @@ credits:
 technologies:
   - LED display
   - generative software
+technology_tags:
+  - real-time
 summary: >
   Sensing Change, a weather-responsive light and motion installation on the
   public terrace of 151 North Franklin Street in downtown Chicago, opened in

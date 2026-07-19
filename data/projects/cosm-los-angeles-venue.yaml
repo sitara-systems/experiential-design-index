@@ -9,6 +9,8 @@ credits:
 technologies:
   - LED dome display
   - shared reality / mixed physical-digital display
+technology_tags:
+  - immersive-environment
 summary: >
   Cosm Los Angeles, a 65,000-square-foot immersive "shared reality"
   entertainment venue built around a 90-foot, 280-degree LED dome at

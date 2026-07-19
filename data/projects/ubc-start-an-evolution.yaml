@@ -16,6 +16,8 @@ credits:
       "Start an Evolution" fundraising campaign.
 technologies:
   - motion-sensor interactive lighting
+technology_tags:
+  - interactive-installation
 summary: >
   Start an Evolution, a public interactive light installation of twenty
   motion-triggered triangular pillars at a pathway intersection on the

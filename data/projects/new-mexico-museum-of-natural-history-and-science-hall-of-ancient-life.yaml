@@ -14,6 +14,8 @@ technologies:
   - touchscreen
   - Unity
   - camera-based photo capture
+technology_tags:
+  - real-time
 summary: >
   The Hall of Ancient Life, a permanent exhibition opened February 15, 2025,
   at the New Mexico Museum of Natural History & Science in Albuquerque, New

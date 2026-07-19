@@ -15,6 +15,10 @@ credits:
 technologies:
   - real-time interactive animation
   - proximity sensing
+technology_tags:
+  - interactive-installation
+  - artificial-intelligence
+  - real-time
 summary: >
   Memory Koi, an interactive digital koi pond at the David H. Koch Center for
   Cancer Care, Memorial Sloan Kettering's outpatient facility in New York

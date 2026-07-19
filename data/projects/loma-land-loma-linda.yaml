@@ -10,6 +10,8 @@ credits:
 technologies:
   - real-time 3D character creation
   - shared large-format display
+technology_tags:
+  - real-time
 summary: >
   Loma Land, an interactive digital-wilderness experience designed to ease
   stress and anxiety for pediatric patients, opened at Loma Linda University

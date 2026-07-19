@@ -14,6 +14,8 @@ credits:
 technologies:
   - motion sensors
   - custom web lighting controller
+technology_tags:
+  - interactive-installation
 summary: >
   Ornamentum, a 6-meter-tall stainless-steel and aluminum public sculpture
   by artist James Nizam sited north of Brentwood Town Centre in Burnaby,

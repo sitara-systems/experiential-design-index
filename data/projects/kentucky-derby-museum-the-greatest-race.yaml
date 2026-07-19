@@ -8,6 +8,8 @@ credits:
     role: content-production
   - firm: available-light
     role: lighting-design
+technology_tags:
+  - immersive-environment
 summary: >
   A technology rebuild of the Kentucky Derby Museum's signature 360°
   theater experience "The Greatest Race" in Louisville, KY, reopened

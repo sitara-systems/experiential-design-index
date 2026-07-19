@@ -27,6 +27,9 @@ technologies:
   - Unity
   - RFID
   - custom touch hardware
+technology_tags:
+  - immersive-environment
+  - interactive-installation
 summary: >
   More than 20 interactive exhibits across the herpetology and invertebrate
   buildings of the Denny Sanford Wildlife Explorers Basecamp, which opened

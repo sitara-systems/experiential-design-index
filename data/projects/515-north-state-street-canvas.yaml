@@ -13,6 +13,8 @@ credits:
 technologies:
   - LED display
   - generative software
+technology_tags:
+  - real-time
 summary: >
   Canvas, a 23-foot algorithmic media display that renders Impressionist-style
   scenes of Chicago's River North neighborhood in real time, opened in the

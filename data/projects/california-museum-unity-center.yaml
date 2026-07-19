@@ -13,6 +13,8 @@ credits:
     role: exhibit-design
 technologies:
   - motion-tracked shadow projection
+technology_tags:
+  - interactive-installation
 summary: >
   Unity Center, an exhibition on California's diversity and civil-rights
   history at The California Museum in Sacramento, opened in 2017; RLMG

@@ -17,6 +17,8 @@ credits:
     note: "360-degree immersive theater experience"
 technologies:
   - 360-degree projection theater
+technology_tags:
+  - immersive-environment
 summary: >
   The Mosaic Templars Cultural Center in Little Rock, Arkansas completed
   Phase I of a multi-year renovation in 2021, adding new lobby exhibitry, a

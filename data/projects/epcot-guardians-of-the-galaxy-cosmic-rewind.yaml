@@ -22,6 +22,8 @@ technologies:
   - reverse-launch roller coaster (OmniCoaster spinning ride vehicles)
   - trackless-feel show scenes
   - large-scale projection and animatronics
+technology_tags:
+  - robotics
 summary: >
   Guardians of the Galaxy: Cosmic Rewind, an enclosed reverse-launch roller
   coaster attraction with individually spinning "OmniCoaster" ride vehicles,

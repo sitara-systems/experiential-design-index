@@ -21,6 +21,10 @@ technologies:
   - motion capture / body tracking
   - custom wind and suspension rig
   - custom VR headset
+technology_tags:
+  - interactive-installation
+  - robotics
+  - real-time
 recognition:
   - award: "Thea Award — Outstanding Achievement in Connected Immersion"
     year: 2022

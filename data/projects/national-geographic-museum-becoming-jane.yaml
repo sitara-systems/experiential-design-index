@@ -17,6 +17,8 @@ technologies:
   - projection mapping
   - augmented reality
   - 3D immersive theater
+technology_tags:
+  - immersive-environment
 recognition:
   - award: "TEA Thea Award — Outstanding Achievement, Museum Exhibit Design (Limited Budget)"
     year: 2021

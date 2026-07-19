@@ -13,6 +13,8 @@ credits:
 technologies:
   - LED display
   - generative software
+technology_tags:
+  - real-time
 summary: >
   A digital media installation transforming the entry sequence of I.M. Pei's
   177 Huntington Avenue in Boston opened around 2015, following Beacon

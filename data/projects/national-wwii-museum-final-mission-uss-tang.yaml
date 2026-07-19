@@ -22,6 +22,8 @@ technologies:
   - 360-degree projection
   - show control system
   - multi-channel soundscape
+technology_tags:
+  - immersive-environment
 summary: >
   Final Mission: The USS Tang Submarine Experience, an 11-minute interactive
   submarine-battle simulation in the US Freedom Pavilion, opened in January

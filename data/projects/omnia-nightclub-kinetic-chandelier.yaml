@@ -11,6 +11,8 @@ credits:
     note: "Fabrication and integration of lights, winches, and control system"
 technologies:
   - kinetic sculpture
+technology_tags:
+  - robotics
 summary: >
   A kinetic LED chandelier at OMNIA Nightclub, Caesars Palace, Las
   Vegas, opened 2015; architecture by Rockwell Group, chandelier

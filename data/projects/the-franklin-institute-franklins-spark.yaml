@@ -22,6 +22,8 @@ credits:
 technologies:
   - projection mapping
   - immersive audio
+technology_tags:
+  - immersive-environment
 summary: >
   Franklin's Spark, a 120-degree projection-mapped, multisensory experience
   in the rotunda of the Franklin Institute in Philadelphia, debuted January

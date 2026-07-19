@@ -22,6 +22,8 @@ credits:
   - firm: jaffe-holden
     role: acoustics
     note: "No firm record yet"
+technology_tags:
+  - real-time
 summary: >
   Studio Matthews designed signage and identity elements for Octave 9, an
   experimental performance space at Benaroya Hall, home of the Seattle

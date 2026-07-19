@@ -14,6 +14,9 @@ credits:
 technologies:
   - motion sensors
   - electromechanical automatons
+technology_tags:
+  - robotics
+  - interactive-installation
 summary: >
   An experiential graphic design program for the 11-story, 575,000-square-foot
   Hale Family Clinical Building at Boston Children's Hospital, opened 2022,

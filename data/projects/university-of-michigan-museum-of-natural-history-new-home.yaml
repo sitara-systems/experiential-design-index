@@ -19,6 +19,8 @@ credits:
     note: "Great Plains Exhibit Development joint venture"
 technologies:
   - Digital Dome Theater / planetarium
+technology_tags:
+  - immersive-environment
 summary: >
   The University of Michigan Museum of Natural History opened new
   permanent galleries in the university's new Biological Sciences Building

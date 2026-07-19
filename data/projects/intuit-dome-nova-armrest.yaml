@@ -16,6 +16,8 @@ technologies:
   - NFC
   - synchronized crowd lighting
   - fan interaction / gamification
+technology_tags:
+  - interactive-installation
 summary: >
   Intuit Dome, the LA Clippers' arena in Inglewood, CA, opened in August 2024
   with PixMob's NOVA Armrest permanently integrated into each of its 17,000
