@@ -1,0 +1,29 @@
+# Firm record — SWA Group
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: swa-group
+name: SWA Group
+aka:
+  - Sasaki, Walker and Associates
+website: https://www.swagroup.com
+hq:
+  city: Sausalito
+  state: CA
+founded: 1957
+roles:
+  - landscape-architecture
+status: active
+status_basis: >
+  Halperin Park (Dallas, opened May 2026) and Pacific Plaza Park
+  Pavilion (Dallas, opened 2019) both credit SWA Group's landscape
+  architecture; active multi-studio practice per its own site as of
+  verification date.
+status_verified: 2026-07-19
+summary: >
+  SWA Group is a 100% employee-owned landscape architecture, urban
+  design, and planning firm founded in 1957 in Watertown, Massachusetts
+  (as Sasaki, Walker and Associates), now headquartered in Sausalito,
+  California, with studios across the US and internationally.
+sources:
+  - https://www.swagroup.com/about/
+  - https://www.tclf.org/pioneer/swa-group

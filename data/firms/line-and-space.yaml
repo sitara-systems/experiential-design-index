@@ -1,0 +1,21 @@
+# Firm record — Line and Space
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: line-and-space
+name: Line and Space
+aka: []
+hq:
+  city: Tucson
+  state: AZ
+roles:
+  - architecture
+status: active
+status_basis: >
+  National Historic Trails Interpretive Center (Casper, WY, opened
+  2002) credits Line and Space as architect; active per its own site
+  as of verification date.
+status_verified: 2026-07-19
+summary: >
+  Line and Space is a Tucson, Arizona-based architecture firm.
+sources:
+  - https://www.lineandspace.com/work/national-historic-trails-interpretive-center

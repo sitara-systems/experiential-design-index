@@ -1,0 +1,11 @@
+id: ohio-statehouse-museum
+name: Ohio Statehouse Museum
+venue_type: history-museum
+location:
+  city: Columbus
+  state: OH
+description: >
+  A ~5,000 sq ft museum gallery built into the Ohio Statehouse's ground
+  floor, distinct from the Statehouse building itself.
+sources:
+  - https://www.ohiostatehouse.org/

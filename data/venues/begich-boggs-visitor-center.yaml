@@ -1,0 +1,9 @@
+id: begich-boggs-visitor-center
+name: Begich, Boggs Visitor Center
+venue_type: visitor-center
+location:
+  city: Girdwood
+  state: AK
+operator: Chugach National Forest
+sources:
+  - https://www.fs.usda.gov/

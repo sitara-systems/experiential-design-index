@@ -1,0 +1,8 @@
+id: rockwell-museum-corning
+name: The Rockwell Museum
+venue_type: design-museum
+location:
+  city: Corning
+  state: NY
+sources:
+  - https://en.wikipedia.org/wiki/Rockwell_Museum

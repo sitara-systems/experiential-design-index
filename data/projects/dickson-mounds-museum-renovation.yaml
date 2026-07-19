@@ -1,0 +1,21 @@
+id: dickson-mounds-museum-renovation
+name: Renovation
+venue: dickson-mounds-museum
+project_type: major-renovation
+year_completed: 1994
+credits:
+  - firm: hilferty-and-associates
+    role: exhibit-design
+  - firm: donna-lawrence-productions
+    role: media-design
+    note: "\"Reflections on Three Worlds,\" \"Legacy\" orientation video"
+technologies: []
+summary: >
+  A renovation of the Dickson Mounds Museum in Lewistown, Illinois,
+  reopened September 1994 with a redesigned, remains-free interpretive
+  approach following the 1992 closure of the original open-burial
+  display; exhibit design by Hilferty & Associates, media production by
+  Donna Lawrence Productions.
+description: ""
+sources:
+  - https://www.dlproductions.com/

@@ -1,0 +1,9 @@
+id: athens-city-parking-garage
+name: Athens City Parking Garage
+venue_type: public-space
+location:
+  city: Athens
+  state: OH
+operator: City of Athens, Ohio
+sources:
+  - https://athensphotoproject.org/

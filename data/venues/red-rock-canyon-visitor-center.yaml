@@ -1,0 +1,9 @@
+id: red-rock-canyon-visitor-center
+name: Red Rock Canyon National Conservation Area Visitor Center
+venue_type: visitor-center
+location:
+  city: Las Vegas
+  state: NV
+operator: Bureau of Land Management
+sources:
+  - https://www.archdaily.com/

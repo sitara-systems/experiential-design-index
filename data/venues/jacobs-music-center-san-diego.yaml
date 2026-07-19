@@ -1,0 +1,9 @@
+id: jacobs-music-center-san-diego
+name: Jacobs Music Center
+venue_type: cultural-center
+location:
+  city: San Diego
+  state: CA
+operator: San Diego Symphony
+sources:
+  - https://hga.com/hgas-redesign-of-san-diego-symphonys-jacobs-music-center-elevates-performance-experiences-for-artists-and-patrons/

@@ -1,0 +1,22 @@
+# Firm record — Exhibit 3 Fabrications
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: exhibit-3-fabrications
+name: Exhibit 3 Fabrications
+aka: []
+hq:
+  city: Erlanger
+  state: KY
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Fabricated/installed the Athens Photo Project outdoor installation
+  (Athens, OH, opened 2018); active per its own site as of verification
+  date.
+status_verified: 2026-07-19
+summary: >
+  Exhibit 3 Fabrications is an Erlanger, Kentucky-based exhibit
+  fabrication and production company.
+sources:
+  - https://www.e3fab.com/

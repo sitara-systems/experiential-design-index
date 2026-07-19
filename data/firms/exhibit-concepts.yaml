@@ -1,0 +1,24 @@
+# Firm record — Exhibit Concepts, Inc.
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: exhibit-concepts
+name: Exhibit Concepts, Inc.
+aka:
+  - ECI
+hq:
+  city: Vandalia
+  state: OH
+roles:
+  - fabrication
+  - exhibit-design
+status: active
+status_basis: >
+  Fabricated the American Museum of Science and Energy (Oak Ridge, TN,
+  opened 2018); already credited (unlinked) on 8 existing corpus
+  projects; active per its own site as of verification date.
+status_verified: 2026-07-19
+summary: >
+  Exhibit Concepts, Inc. (ECI) is a Vandalia, Ohio-based exhibit
+  fabrication company.
+sources:
+  - https://exhibitconcepts.com/exhibit-concepts-case-study-amse/

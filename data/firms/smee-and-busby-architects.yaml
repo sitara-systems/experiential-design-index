@@ -1,0 +1,21 @@
+# Firm record — Smee+Busby Architects
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: smee-and-busby-architects
+name: Smee+Busby Architects
+aka: []
+hq:
+  city: Knoxville
+  state: TN
+roles:
+  - architecture
+status: active
+status_basis: >
+  Architect on the K-25 History Center (Oak Ridge, TN, opened 2020);
+  active per its own site as of verification date.
+status_verified: 2026-07-19
+summary: >
+  Smee+Busby Architects is a Knoxville, Tennessee-based architecture
+  firm.
+sources:
+  - https://www.smeebusby.com/civic/k-25-museum

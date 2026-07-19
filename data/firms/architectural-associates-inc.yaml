@@ -1,0 +1,23 @@
+# Firm record — Architectural Associates, Inc.
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: architectural-associates-inc
+name: Architectural Associates, Inc.
+aka:
+  - AAI
+hq:
+  city: Belleville
+  state: IL
+roles:
+  - architecture
+status: active
+status_basis: >
+  Museum architect (as "AAI," Chuck and Cal Morris) on the Cahokia
+  Mounds Interpretive Center (Collinsville, IL, opened 1989); active
+  per its own site as of verification date.
+status_verified: 2026-07-19
+summary: >
+  Architectural Associates, Inc. (AAI) is an Illinois-based architecture
+  firm.
+sources:
+  - http://aaicinc.com/projects/cahokia-mounds-museum-interpretive-center/

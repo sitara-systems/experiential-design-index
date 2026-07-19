@@ -1,0 +1,8 @@
+id: halperin-park
+name: Halperin Park
+venue_type: public-space
+location:
+  city: Dallas
+  state: TX
+sources:
+  - https://www.halperinpark.org/

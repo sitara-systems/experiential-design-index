@@ -9,10 +9,34 @@ hq:
 other_offices:
   - city: Atlanta
     state: GA
+  - city: Austin
+    state: TX
+  - city: Boston
+    state: MA
+  - city: Charlotte
+    state: NC
   - city: Chicago
     state: IL
+  - city: Dallas
+    state: TX
+  - city: Denver
+    state: CO
+  - city: Houston
+    state: TX
+  - city: Los Angeles
+    state: CA
+  - city: Miami
+    state: FL
   - city: New York
     state: NY
+  - city: Philadelphia
+    state: PA
+  - city: Raleigh
+    state: NC
+  - city: Sacramento
+    state: CA
+  - city: Seattle
+    state: WA
   - city: Washington
     state: DC
 founded: 1984
@@ -27,12 +51,13 @@ status_basis: >
 status_verified: 2026-07-18
 summary: >
   IA Interior Architects is a San Francisco-based global interior
-  architecture firm founded in 1984, with offices across the US and in
-  London and Toronto. Its work is overwhelmingly corporate workplace
-  interiors, with occasional experiential design and branded-environment
-  work for corporate clients and, less often, public civic and cultural
+  architecture firm founded in 1984, with 18 US studios and a London
+  office. Its work is overwhelmingly corporate workplace interiors, with
+  occasional experiential design and branded-environment work for
+  corporate clients and, less often, public civic and cultural
   facilities.
 sources:
   - https://interiorarchitects.com/who-we-are/
   - https://interiorarchitects.com/what-we-do/
   - https://segd.org/firms/ia-interior-architects/
+  - https://interiorarchitects.com/find-ia/

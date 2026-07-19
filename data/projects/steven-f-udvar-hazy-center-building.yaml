@@ -6,6 +6,8 @@ year_completed: 2003
 credits:
   - firm: hok
     role: architecture
+  - firm: hok
+    role: landscape-architecture
 technologies:
   - large-artifact hanging/suspension display systems
   - environmental artifact-preservation controls

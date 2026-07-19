@@ -1,0 +1,9 @@
+id: american-family-fields-of-phoenix
+name: American Family Fields of Phoenix
+venue_type: sports-venue
+location:
+  city: Phoenix
+  state: AZ
+operator: Milwaukee Brewers
+sources:
+  - https://en.wikipedia.org/wiki/American_Family_Fields_of_Phoenix

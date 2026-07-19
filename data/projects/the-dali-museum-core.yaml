@@ -1,0 +1,17 @@
+id: the-dali-museum-core
+name: The Dalí Museum
+venue: the-dali-museum
+project_type: new-building
+year_completed: 2011
+credits:
+  - firm: hok
+    role: architecture
+    note: "Design lead Yann Weymouth"
+technologies: []
+summary: >
+  The Dalí Museum in St. Petersburg, Florida, opened January 11, 2011;
+  architecture by HOK (Yann Weymouth, design lead).
+description: ""
+sources:
+  - https://thedali.org/about-the-museum/the-building/
+  - https://en.wikipedia.org/wiki/Dal%C3%AD_Museum

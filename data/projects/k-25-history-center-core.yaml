@@ -1,0 +1,28 @@
+id: k-25-history-center-core
+name: K-25 History Center
+venue: k-25-history-center
+project_type: major-renovation
+year_completed: 2020
+credits:
+  - firm: smee-and-busby-architects
+    role: architecture
+  - firm: hilferty-and-associates
+    role: exhibit-design
+  - firm: formations-inc
+    role: fabrication
+    note: "Exhibit graphics, electromechanical exhibit elements, artifact conservation, installation"
+  - firm: formations-inc
+    role: av-integration
+  - firm: formations-inc
+    role: lighting-design
+technologies: []
+summary: >
+  The K-25 History Center, a renovation of Oak Ridge Fire Station #4
+  into a Manhattan Project museum, opened February 27, 2020;
+  architecture by Smee+Busby Architects, exhibit design by Hilferty &
+  Associates, fabrication/AV/lighting by Formations, Inc.
+description: ""
+sources:
+  - https://www.energy.gov/em/articles/oak-ridge-opens-k-25-history-center-preserve-sites-rich-history
+  - https://www.smeebusby.com/civic/k-25-museum
+  - https://ucor.com/three-subcontracts-awarded-for-new-k-25-history-center/

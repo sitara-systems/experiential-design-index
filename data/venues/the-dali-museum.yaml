@@ -1,0 +1,8 @@
+id: the-dali-museum
+name: The Dalí Museum
+venue_type: art-museum
+location:
+  city: St. Petersburg
+  state: FL
+sources:
+  - https://thedali.org/about-the-museum/the-building/

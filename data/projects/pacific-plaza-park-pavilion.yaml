@@ -1,0 +1,24 @@
+id: pacific-plaza-park-pavilion
+name: Pacific Plaza Park Pavilion
+venue: pacific-plaza-park
+project_type: new-building
+year_completed: 2019
+credits:
+  - firm: hks
+    role: architecture
+    note: "Pavilion structure, designed by HKS's LINE studio"
+  - firm: swa-group
+    role: landscape-architecture
+  - firm: a-zahner-company
+    role: fabrication
+    note: "323 unique perforated stainless-steel panels"
+technologies: []
+summary: >
+  Pacific Plaza, a downtown Dallas park with a pavilion structure,
+  opened October 2019; pavilion architecture by HKS, landscape
+  architecture by SWA Group, panel fabrication by A. Zahner Company.
+description: ""
+sources:
+  - https://downtowndallasparks.org/pacific-plaza/
+  - https://www.hksinc.com/what-we-do/projects/pacific-plaza-park-pavilion/
+  - http://www.azahner.com/projects/pacific-plaza-park-pavilion/

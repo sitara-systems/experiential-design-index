@@ -1,0 +1,9 @@
+id: pennsylvania-lumber-museum
+name: Pennsylvania Lumber Museum
+venue_type: history-museum
+location:
+  city: Galeton
+  state: PA
+operator: Pennsylvania Historical and Museum Commission
+sources:
+  - https://www.pa.gov/agencies/phmc/newsroom/grand-reopening-and-rededication-ceremony-planned-for-new-addition-to-the-pennsylvania-lumber-museums-visitor-center-in-potter-county

@@ -1,0 +1,20 @@
+id: rockwell-museum-reopening
+name: Reopening as the Rockwell Museum of Western Art
+venue: rockwell-museum-corning
+project_type: major-renovation
+year_completed: 2001
+credits:
+  - firm: abc-architects-and-planners
+    role: architecture
+    note: "No firm record yet"
+  - firm: hadley-exhibits
+    role: fabrication
+technologies: []
+summary: >
+  A renovation of the Rockwell Museum in Corning, New York, reopening
+  May 18, 2001; architecture by ABC Architects and Planners, casework/
+  fabrication by Hadley Exhibits.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Rockwell_Museum
+  - https://hadleyexhibits.com/

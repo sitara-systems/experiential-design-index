@@ -1,0 +1,11 @@
+id: da-vinci-science-center-cedar-crest
+name: Da Vinci Science Center (Cedar Crest College location)
+venue_type: science-center
+location:
+  city: Allentown
+  state: PA
+description: >
+  This building closed in 2024 when the museum relocated downtown to a
+  new facility designed by a different architect (MKSD).
+sources:
+  - https://hga.com/projects/da-vinci-science-center/

@@ -1,0 +1,12 @@
+id: the-soraya
+name: The Soraya
+venue_type: cultural-center
+location:
+  city: Northridge
+  state: CA
+operator: California State University, Northridge
+description: >
+  Opened 2011 as the Valley Performing Arts Center; renamed The Soraya
+  in 2017.
+sources:
+  - https://hga.com/projects/the-soraya-valley-performing-arts-center/

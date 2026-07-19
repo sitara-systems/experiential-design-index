@@ -1,0 +1,25 @@
+id: the-reach-museum-core
+name: The REACH Museum
+venue: the-reach-museum
+project_type: new-building
+year_completed: 2014
+credits:
+  - firm: terence-l-thornhill-architect
+    role: architecture
+  - firm: hilferty-and-associates
+    role: exhibit-design
+  - firm: boston-productions-inc
+    role: media-design
+  - firm: boston-productions-inc
+    role: av-integration
+technologies: []
+summary: >
+  The REACH Museum (Hanford Reach Interpretive Center) in Richland,
+  Washington, opened July 1, 2014; architecture by Terence L. Thornhill,
+  Architect, exhibit design by Hilferty & Associates, media design and
+  AV by Boston Productions Inc.
+description: ""
+sources:
+  - https://www.metalconstructionnews.com/projects/the-reach-museum-richland-wash
+  - https://en.wikipedia.org/wiki/Reach_Museum
+  - https://bostonproductions.com/portfolio/hanford-reach/

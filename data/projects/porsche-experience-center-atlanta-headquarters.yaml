@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: hok
     role: architecture
+  - firm: hok
+    role: landscape-architecture
 technologies:
   - 1.6-mile private test track
   - virtual car-customization studio

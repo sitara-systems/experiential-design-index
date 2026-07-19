@@ -1,0 +1,8 @@
+id: nash-house-museum
+name: "Rev. J. Edward Nash Sr. House Museum"
+venue_type: history-museum
+location:
+  city: Buffalo
+  state: NY
+sources:
+  - https://www.newyorkalmanack.com/

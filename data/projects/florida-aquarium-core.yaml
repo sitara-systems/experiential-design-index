@@ -1,0 +1,19 @@
+id: florida-aquarium-core
+name: The Florida Aquarium
+venue: florida-aquarium
+project_type: new-building
+year_completed: 1995
+credits:
+  - firm: hok
+    role: architecture
+  - firm: joseph-wetzel
+    role: exhibit-design
+    note: "No firm record yet"
+technologies: []
+summary: >
+  The Florida Aquarium in Tampa opened March 31, 1995; architecture by
+  HOK, exhibit plan by Joseph Wetzel.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Florida_Aquarium
+  - https://tourtampabayarchitecture.com/

@@ -1,0 +1,21 @@
+# Firm record — Eskew Dumez Ripple
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: eskew-dumez-ripple
+name: Eskew Dumez Ripple
+aka: []
+hq:
+  city: New Orleans
+  state: LA
+roles:
+  - architecture
+status: active
+status_basis: >
+  Architect of the IGFA Hall of Fame and Museum (Dania Beach, FL, opened
+  1999); active per its own site as of verification date.
+status_verified: 2026-07-19
+summary: >
+  Eskew Dumez Ripple is a New Orleans, Louisiana-based architecture
+  firm.
+sources:
+  - https://www.eskewdumezripple.com/

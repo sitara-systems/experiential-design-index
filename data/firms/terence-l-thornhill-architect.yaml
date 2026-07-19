@@ -1,0 +1,21 @@
+# Firm record — Terence L. Thornhill, Architect
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: terence-l-thornhill-architect
+name: Terence L. Thornhill, Architect
+aka: []
+hq:
+  city: Kennewick
+  state: WA
+roles:
+  - architecture
+status: active
+status_basis: >
+  Architect on The REACH Museum (Richland, WA, opened 2014); active per
+  its own site as of verification date.
+status_verified: 2026-07-19
+summary: >
+  Terence L. Thornhill, Architect is a Kennewick/Pasco, Washington-based
+  architecture practice.
+sources:
+  - https://www.metalconstructionnews.com/projects/the-reach-museum-richland-wash

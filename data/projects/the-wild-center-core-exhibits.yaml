@@ -6,6 +6,9 @@ year_completed: 2006
 credits:
   - firm: hok
     role: architecture
+  - firm: office-of-charles-p-reay
+    role: architecture
+    note: "No firm record yet"
   - firm: hadley-exhibits
     role: fabrication
 technologies:

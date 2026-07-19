@@ -1,0 +1,29 @@
+id: national-historic-trails-interpretive-center-core
+name: National Historic Trails Interpretive Center
+venue: national-historic-trails-interpretive-center
+project_type: new-building
+year_completed: 2002
+credits:
+  - firm: line-and-space
+    role: architecture
+  - firm: hilferty-and-associates
+    role: exhibit-design
+  - firm: boston-productions-inc
+    role: media-design
+    note: "\"Footsteps to the West\" five-screen theater, motion-simulator experiences"
+  - firm: boston-productions-inc
+    role: av-integration
+technologies:
+  - motion simulator
+  - multi-screen theater
+summary: >
+  The National Historic Trails Interpretive Center in Casper, Wyoming,
+  opened August 9, 2002; architecture by Line and Space, exhibit design
+  by Hilferty & Associates, media design and AV by Boston Productions
+  Inc.
+description: ""
+sources:
+  - https://www.wyohistory.org/encyclopedia/tracking-past-national-historic-trails-interpretive-center
+  - https://www.lineandspace.com/work/national-historic-trails-interpretive-center
+  - https://bostonproductions.com/portfolio/historic-trails/
+  - https://www.hilferty.com/national-historic-trails-interpretive-center

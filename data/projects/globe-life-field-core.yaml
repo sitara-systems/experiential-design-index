@@ -1,0 +1,20 @@
+id: globe-life-field-core
+name: Globe Life Field
+venue: globe-life-field
+project_type: new-building
+year_completed: 2020
+credits:
+  - firm: hks
+    role: architecture
+  - firm: vlk-architects
+    role: architecture
+    note: "Associate architect"
+technologies: []
+summary: >
+  Globe Life Field, the Texas Rangers' retractable-roof ballpark in
+  Arlington, Texas, opened for the first regular-season game July 24,
+  2020; architecture by HKS with VLK Architects as associate architect.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Globe_Life_Field
+  - https://www.hksinc.com/what-we-do/projects/globe-life-field/

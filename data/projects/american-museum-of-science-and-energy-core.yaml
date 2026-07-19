@@ -1,0 +1,30 @@
+id: american-museum-of-science-and-energy-core
+name: American Museum of Science and Energy
+venue: american-museum-of-science-and-energy
+project_type: major-renovation
+year_completed: 2018
+credits:
+  - firm: hilferty-and-associates
+    role: exhibit-design
+  - firm: exhibit-concepts
+    role: fabrication
+  - firm: boston-productions-inc
+    role: media-design
+    note: "Media design, film/video, tactile interactives"
+  - firm: communications-electronic-design
+    role: av-integration
+    note: "Graphics and AV hardware integration; no firm record yet"
+technologies:
+  - tactile interactives
+summary: >
+  The American Museum of Science and Energy's current building in Oak
+  Ridge, Tennessee, an 18,000 sq ft renovation of a former retail space,
+  opened October 2018; exhibit design by Hilferty & Associates,
+  fabrication by Exhibit Concepts, media design by Boston Productions
+  Inc.
+description: ""
+sources:
+  - https://www.energy.gov/em/articles/past-and-present-doe-missions-display-museums-new-home-oak-ridge
+  - https://exploreoakridge.com/oak-ridge-science-museum-to-reopen-in-new-location-this-fall/
+  - https://bostonproductions.com/portfolio/american-museum-science-and-energy/
+  - https://exhibitconcepts.com/exhibit-concepts-case-study-amse/

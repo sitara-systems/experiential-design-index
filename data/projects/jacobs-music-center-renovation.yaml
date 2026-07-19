@@ -1,0 +1,21 @@
+id: jacobs-music-center-renovation
+name: Renovation
+venue: jacobs-music-center-san-diego
+project_type: major-renovation
+year_completed: 2024
+credits:
+  - firm: hga
+    role: architecture
+  - firm: akustiks
+    role: acoustics
+  - firm: schuler-shook
+    role: lighting-design
+    note: "Theater planning"
+technologies: []
+summary: >
+  A $125M renovation of the San Diego Symphony's Jacobs Music Center,
+  reopened September 28, 2024; architecture by HGA, acoustics by
+  Akustiks, theater planning by Schuler Shook.
+description: ""
+sources:
+  - https://hga.com/hgas-redesign-of-san-diego-symphonys-jacobs-music-center-elevates-performance-experiences-for-artists-and-patrons/

@@ -1,0 +1,9 @@
+id: fiu-frost-art-museum
+name: Patricia and Phillip Frost Art Museum
+venue_type: art-museum
+location:
+  city: Miami
+  state: FL
+operator: Florida International University
+sources:
+  - https://en.wikipedia.org/wiki/Frost_Art_Museum

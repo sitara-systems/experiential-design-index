@@ -1,0 +1,22 @@
+# Firm record — PJA Architects & Landscape
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: pja-architects
+name: PJA Architects & Landscape
+aka: []
+hq:
+  city: Milwaukee
+  state: WI
+roles:
+  - architecture
+status: active
+status_basis: >
+  Co-designer with HGA on the Milwaukee County Zoo's "Adventure Africa"
+  African Elephant Exhibit (opened 2019); active per its own site as of
+  verification date.
+status_verified: 2026-07-19
+summary: >
+  PJA Architects & Landscape is a Milwaukee, Wisconsin-based
+  architecture and landscape architecture firm.
+sources:
+  - https://hga.com/projects/milwaukee-county-zoo-african-elephant-exhibit/

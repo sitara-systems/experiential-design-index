@@ -1,0 +1,8 @@
+id: smithsonian-national-zoo
+name: Smithsonian National Zoological Park
+venue_type: aquarium-zoo
+location:
+  city: Washington
+  state: DC
+sources:
+  - https://nationalzoo.si.edu/animals/exhibits/asia-trail

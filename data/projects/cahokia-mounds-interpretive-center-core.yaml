@@ -1,0 +1,31 @@
+id: cahokia-mounds-interpretive-center-core
+name: Cahokia Mounds Interpretive Center
+venue: cahokia-mounds-interpretive-center
+project_type: new-building
+year_completed: 1989
+credits:
+  - firm: architectural-associates-inc
+    role: architecture
+  - firm: oates-and-associates
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: hilferty-and-associates
+    role: exhibit-design
+  - firm: design-craftsmen-inc
+    role: fabrication
+    note: "No firm record yet"
+  - firm: donna-lawrence-productions
+    role: av-integration
+technologies: []
+summary: >
+  The Cahokia Mounds Interpretive Center in Collinsville, Illinois, a
+  UNESCO World Heritage Site, opened 1989; architecture by Architectural
+  Associates, Inc., landscape architecture by Oates & Associates,
+  exhibit design by Hilferty & Associates, fabrication by Design
+  Craftsmen, Inc., audiovisuals by Donna Lawrence Productions.
+description: ""
+sources:
+  - https://www.tclf.org/cahokia-mounds
+  - https://www.korteco.com/construction-projects/cahokia-mounds-museum-interpretive-center/
+  - https://cahokiamounds.org/cmms/
+  - http://aaicinc.com/projects/cahokia-mounds-museum-interpretive-center/

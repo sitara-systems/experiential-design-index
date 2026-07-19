@@ -1,0 +1,9 @@
+id: globe-life-field
+name: Globe Life Field
+venue_type: sports-venue
+location:
+  city: Arlington
+  state: TX
+operator: Texas Rangers
+sources:
+  - https://en.wikipedia.org/wiki/Globe_Life_Field

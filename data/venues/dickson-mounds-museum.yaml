@@ -1,0 +1,9 @@
+id: dickson-mounds-museum
+name: Dickson Mounds Museum
+venue_type: history-museum
+location:
+  city: Lewistown
+  state: IL
+operator: Illinois State Museum
+sources:
+  - https://www.dlproductions.com/

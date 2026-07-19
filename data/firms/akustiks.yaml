@@ -1,0 +1,23 @@
+# Firm record — Akustiks, LLC
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: akustiks
+name: Akustiks, LLC
+aka: []
+founded: 2001
+hq:
+  city: Norwalk
+  state: CT
+roles:
+  - acoustics
+status: active
+status_basis: >
+  Acoustics consultant on the San Diego Symphony's Jacobs Music Center
+  renovation (opened 2024); active per its own site as of verification
+  date.
+status_verified: 2026-07-19
+summary: >
+  Akustiks, LLC is a Norwalk, Connecticut-based acoustics consulting
+  firm founded in 2001.
+sources:
+  - https://hga.com/hgas-redesign-of-san-diego-symphonys-jacobs-music-center-elevates-performance-experiences-for-artists-and-patrons/

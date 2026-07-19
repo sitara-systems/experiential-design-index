@@ -1,0 +1,20 @@
+id: halperin-park-core
+name: Halperin Park
+venue: halperin-park
+project_type: new-building
+year_completed: 2026
+credits:
+  - firm: hks
+    role: architecture
+  - firm: swa-group
+    role: landscape-architecture
+technologies: []
+summary: >
+  Halperin Park, a deck park over I-35E reconnecting Dallas's Oak Cliff
+  neighborhood, opened May 9, 2026; architecture by HKS, landscape
+  architecture by SWA Group.
+description: ""
+sources:
+  - https://www.halperinpark.org/news/halperin-park-opens-in-southern-dallas-reconnecting-a-community-divided-by-highway-construction
+  - https://www.hksinc.com/what-we-do/projects/halperin-park/
+  - https://www.swagroup.com/projects/halperin-park/

@@ -12,6 +12,9 @@ credits:
   - firm: studio-o-plus-a
     role: architecture
     note: "no firm record yet"
+  - firm: gensler
+    role: architecture
+    note: "Architect of record for the base building"
   - firm: avi-spl
     role: av-integration
 technologies:

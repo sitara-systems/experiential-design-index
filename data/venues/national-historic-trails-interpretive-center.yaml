@@ -1,0 +1,9 @@
+id: national-historic-trails-interpretive-center
+name: National Historic Trails Interpretive Center
+venue_type: visitor-center
+location:
+  city: Casper
+  state: WY
+operator: Bureau of Land Management
+sources:
+  - https://www.wyohistory.org/encyclopedia/tracking-past-national-historic-trails-interpretive-center

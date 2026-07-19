@@ -1,0 +1,25 @@
+id: ohio-statehouse-museum-core
+name: Ohio Statehouse Museum
+venue: ohio-statehouse-museum
+project_type: new-exhibition
+year_completed: 2009
+credits:
+  - firm: hilferty-and-associates
+    role: interpretive-planning
+  - firm: 1220-fabrication
+    role: fabrication
+  - firm: communications-electronic-design
+    role: av-integration
+    note: "Project systems; no firm record yet"
+  - firm: mills-james
+    role: content-production
+    note: "All audiovisual productions; no firm record yet"
+technologies: []
+summary: >
+  The Ohio Statehouse Museum in Columbus opened 2009; interpretive
+  planning by Hilferty & Associates, fabrication by 1220 Exhibits,
+  audiovisual production by Mills James.
+description: ""
+sources:
+  - https://www.leisureopportunities.co.uk/news/Ohio-Statehouse-Museum-opens/131233
+  - https://www.hilferty.com/project-details

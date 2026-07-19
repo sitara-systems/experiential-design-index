@@ -1,0 +1,8 @@
+id: florida-aquarium
+name: The Florida Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Tampa
+  state: FL
+sources:
+  - https://en.wikipedia.org/wiki/Florida_Aquarium

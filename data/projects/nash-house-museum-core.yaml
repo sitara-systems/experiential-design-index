@@ -1,0 +1,19 @@
+id: nash-house-museum-core
+name: Nash House Museum
+venue: nash-house-museum
+project_type: new-building
+year_completed: 2007
+credits:
+  - firm: hhl-architects
+    role: architecture
+  - firm: hadley-exhibits
+    role: fabrication
+technologies: []
+summary: >
+  The Rev. J. Edward Nash Sr. House Museum in Buffalo, New York, opened
+  as a museum May 2007; architecture by HHL Architects, casework/
+  fabrication by Hadley Exhibits.
+description: ""
+sources:
+  - https://www.newyorkalmanack.com/
+  - https://hadleyexhibits.com/

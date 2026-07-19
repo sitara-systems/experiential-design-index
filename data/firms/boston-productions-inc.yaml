@@ -1,0 +1,27 @@
+# Firm record — Boston Productions Inc.
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: boston-productions-inc
+name: Boston Productions Inc.
+aka:
+  - BPI Exhibit Media
+hq:
+  city: Boston
+  state: MA
+roles:
+  - media-design
+  - av-integration
+  - content-production
+status: active
+status_basis: >
+  Credited on multiple Hilferty & Associates-collaboration projects
+  (National Historic Trails Interpretive Center 2002, American Museum
+  of Science and Energy 2018, The REACH Museum 2014); active per its
+  own site as of verification date.
+status_verified: 2026-07-19
+summary: >
+  Boston Productions Inc. (BPI Exhibit Media) is a Boston-based media
+  design and AV production company for museums and interpretive
+  centers.
+sources:
+  - https://bostonproductions.com/

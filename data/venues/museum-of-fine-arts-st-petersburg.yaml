@@ -1,0 +1,11 @@
+id: museum-of-fine-arts-st-petersburg
+name: Museum of Fine Arts, St. Petersburg
+venue_type: art-museum
+location:
+  city: St. Petersburg
+  state: FL
+description: >
+  Distinct institution from the already-recorded Museum of Fine Arts,
+  Boston.
+sources:
+  - https://mfastpete.org/

@@ -1,0 +1,22 @@
+# Firm record — Larson Design Group
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: larson-design-group
+name: Larson Design Group
+aka: []
+hq:
+  city: Williamsport
+  state: PA
+roles:
+  - architecture
+status: active
+status_basis: >
+  Architect on the Pennsylvania Lumber Museum visitor center expansion
+  (Potter County, PA, reopened 2015); active per the PA.gov reopening
+  press release as of verification date.
+status_verified: 2026-07-19
+summary: >
+  Larson Design Group is a Williamsport, Pennsylvania-based architecture
+  and engineering firm.
+sources:
+  - https://www.pa.gov/agencies/phmc/newsroom/grand-reopening-and-rededication-ceremony-planned-for-new-addition-to-the-pennsylvania-lumber-museums-visitor-center-in-potter-county

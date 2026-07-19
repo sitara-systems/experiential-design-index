@@ -1,0 +1,9 @@
+id: international-museum-of-the-horse
+name: International Museum of the Horse
+venue_type: history-museum
+location:
+  city: Lexington
+  state: KY
+operator: Kentucky Horse Park
+sources:
+  - https://kyhorsepark.com/about-us/history/

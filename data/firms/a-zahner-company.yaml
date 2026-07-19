@@ -1,0 +1,23 @@
+# Firm record — A. Zahner Company
+# Schema: ../../schema/schema.md · Vocab: ../../schema/vocabularies.yaml
+
+id: a-zahner-company
+name: A. Zahner Company
+aka:
+  - Zahner
+hq:
+  city: Kansas City
+  state: MO
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Fabricated 323 perforated stainless steel panels for the Pacific
+  Plaza Park Pavilion in Dallas, TX (opened 2019); active per its own
+  site as of verification date.
+status_verified: 2026-07-19
+summary: >
+  A. Zahner Company is a Kansas City-based metal fabrication company
+  known for custom architectural facade and sculptural panel systems.
+sources:
+  - http://www.azahner.com/projects/pacific-plaza-park-pavilion/

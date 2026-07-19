@@ -1,0 +1,12 @@
+id: the-reach-museum
+name: The REACH Museum
+venue_type: science-center
+location:
+  city: Richland
+  state: WA
+description: >
+  Also known as the Hanford Reach Interpretive Center; successor to the
+  former CREHST (Columbia River Exhibition of History, Science, and
+  Technology), which closed January 31, 2014.
+sources:
+  - https://en.wikipedia.org/wiki/Reach_Museum

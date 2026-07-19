@@ -1,0 +1,8 @@
+id: winona-county-history-center
+name: Winona County History Center
+venue_type: history-museum
+location:
+  city: Winona
+  state: MN
+sources:
+  - https://hga.com/projects/winona-county-history-center/

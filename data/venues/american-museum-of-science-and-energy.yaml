@@ -1,0 +1,11 @@
+id: american-museum-of-science-and-energy
+name: American Museum of Science and Energy
+venue_type: science-center
+location:
+  city: Oak Ridge
+  state: TN
+description: >
+  Current building at 115 E Main St, opened 2018, after prior locations
+  at 300 S Tulane Ave (1975) and the museum's original 1949 site.
+sources:
+  - https://www.energy.gov/em/articles/past-and-present-doe-missions-display-museums-new-home-oak-ridge

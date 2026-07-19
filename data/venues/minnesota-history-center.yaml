@@ -1,0 +1,9 @@
+id: minnesota-history-center
+name: Minnesota History Center
+venue_type: history-museum
+location:
+  city: St. Paul
+  state: MN
+operator: Minnesota Historical Society
+sources:
+  - https://hga.com/projects/minnesota-history-center/
