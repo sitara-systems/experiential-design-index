@@ -1,0 +1,9 @@
+id: tdecu-stadium
+name: TDECU Stadium
+venue_type: sports-venue
+location:
+  city: Houston
+  state: TX
+operator: University of Houston
+sources:
+  - https://uhcougars.com

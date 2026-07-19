@@ -1,0 +1,35 @@
+id: ford-nature-center-renovation
+name: Ford Nature Center Renovation
+venue: ford-nature-center
+project_type: major-renovation
+year_completed: 2023
+credits:
+  - firm: dlr-group
+    role: architecture
+    note: >
+      Renovated the historic 1913 stone Ford mansion (orig. architect
+      Charles F. Owsley) plus a new 1,500 sq ft lower-level gallery
+      addition and Education Building conversion.
+  - firm: exhibit-concepts
+    role: exhibit-design
+    note: "Welcome area and interpretive center build-out, custom signage, fabricated interactive map table"
+  - firm: the-interactive-group
+    role: av-integration
+    note: "No firm record yet"
+recognition:
+  - award: "American Architecture Award — Museums and Cultural Buildings"
+    year: 2023
+    source: https://www.dlrgroup.com/work/mill-creek-metroparks-ford-nature-center/
+technologies:
+  - interactive map table
+summary: >
+  DLR Group renovated the historic 1913 Ford mansion into the Ford
+  Nature Center at Mill Creek MetroParks in Youngstown, Ohio, adding a
+  new interpretive gallery; exhibit design and fabrication — including
+  custom signage and an interactive trail map table — was provided by
+  Exhibit Concepts with The Interactive Group. Completed 2023.
+description: ""
+sources:
+  - https://www.dlrgroup.com/work/mill-creek-metroparks-ford-nature-center/
+  - https://www.millcreekmetroparks.org/ford-nature-center/
+  - https://exhibitconcepts.com/natural-beauty-showcasing-ohios-parks/

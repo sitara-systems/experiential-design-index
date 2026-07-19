@@ -1,0 +1,9 @@
+id: ford-nature-center
+name: Ford Nature Center
+venue_type: visitor-center
+location:
+  city: Youngstown
+  state: OH
+operator: Mill Creek MetroParks
+sources:
+  - https://www.millcreekmetroparks.org/ford-nature-center/

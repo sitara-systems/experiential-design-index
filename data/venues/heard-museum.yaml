@@ -1,0 +1,9 @@
+id: heard-museum
+name: Heard Museum
+venue_type: design-museum
+location:
+  city: Phoenix
+  state: AZ
+website: https://heard.org
+sources:
+  - https://heard.org

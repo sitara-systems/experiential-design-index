@@ -1,0 +1,9 @@
+id: robin-baggett-stadium
+name: Robin Baggett Stadium
+venue_type: sports-venue
+location:
+  city: San Luis Obispo
+  state: CA
+operator: California Polytechnic State University
+sources:
+  - https://gopoly.com/news/2021/9/22/dlr-group-earns-awards-for-dignity-health-baseball-clubhouse.aspx

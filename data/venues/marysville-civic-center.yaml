@@ -1,0 +1,9 @@
+id: marysville-civic-center
+name: Marysville Civic Center
+venue_type: public-space
+location:
+  city: Marysville
+  state: WA
+operator: City of Marysville
+sources:
+  - https://www.heraldnet.com/2022/12/17/new-civic-center-manifests-marysvilles-dream-of-a-one-stop-shop/

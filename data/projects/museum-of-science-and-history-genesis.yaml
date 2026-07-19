@@ -11,14 +11,16 @@ credits:
   - firm: kasper-architects-and-associates
     role: architecture
     note: "Jacksonville-based local architect, design partnership with DLR Group. No firm record yet."
+  - firm: scape
+    role: landscape-architecture
+    note: "No firm record yet"
 technologies: []
 summary: >
   MOSH Genesis, a new home for the Museum of Science & History on the
   Northbank riverfront at the Jacksonville Shipyards in Jacksonville,
   Florida, was unveiled in design in 2022 and is expected to open in
   summer 2028; architecture by DLR Group in a design partnership with
-  kasper architects + associates, with landscape architecture by SCAPE
-  (unlinked; no role mapping in this index's vocabulary).
+  kasper architects + associates, with landscape architecture by SCAPE.
 description: ""
 sources:
   - https://www.dlrgroup.com/work/museum-of-science-history/

@@ -1,0 +1,9 @@
+id: los-angeles-memorial-coliseum
+name: Los Angeles Memorial Coliseum
+venue_type: sports-venue
+location:
+  city: Los Angeles
+  state: CA
+operator: University of Southern California
+sources:
+  - https://sportsvenuebusiness.com/2020/05/06/preserving-an-icon-los-angeles-memorial-coliseum/

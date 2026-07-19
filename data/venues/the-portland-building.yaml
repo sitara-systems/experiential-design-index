@@ -1,0 +1,9 @@
+id: the-portland-building
+name: The Portland Building
+venue_type: public-space
+location:
+  city: Portland
+  state: OR
+operator: City of Portland
+sources:
+  - https://www.architecturalrecord.com/articles/14693-dlr-groups-reconstruction-of-the-portland-building

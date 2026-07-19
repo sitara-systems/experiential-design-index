@@ -1,0 +1,8 @@
+id: frontier-culture-museum-of-virginia
+name: Frontier Culture Museum of Virginia
+venue_type: history-museum
+location:
+  city: Staunton
+  state: VA
+sources:
+  - https://frontiermuseum.org

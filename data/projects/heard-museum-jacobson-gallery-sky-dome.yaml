@@ -1,0 +1,33 @@
+id: heard-museum-jacobson-gallery-sky-dome
+name: Jacobson Gallery — Substance of Stars (Sky-Dome)
+venue: heard-museum
+project_type: major-renovation
+year_completed: 2022
+credits:
+  - firm: dlr-group
+    role: architecture
+    note: "Renovation of the two-story Jacobson Gallery shell"
+  - firm: pivium
+    role: av-integration
+    note: "No firm record yet — 4-projector blended/mapped 360-degree dome display, digital signage, DSP audio"
+recognition:
+  - award: "IIDA Southwest Design Excellence Award — Single Space"
+    year: 2023
+    source: https://www.dlrgroup.com/firm-news/2023-iida-southwest-awards/
+technologies:
+  - 360-degree projection dome
+  - fiber-optic ceiling
+summary: >
+  DLR Group renovated the Heard Museum's Jacobson Gallery into an
+  immersive 360-degree "Sky-Dome" installation, with AV integrator
+  Pivium delivering the projection-mapped dome technology, opening in
+  2022 as the centerpiece of the Substance of Stars exhibition.
+description: >
+  Exhibit content (video/photography) was created by named Indigenous
+  artists and videographers as part of a Lilly Endowment-funded
+  partnership with four Indigenous nations.
+sources:
+  - https://www.dlrgroup.com/work/heard-museum/
+  - https://www.pivium.com/heard-museum-case-study-substance-of-stars-sky-dome/
+  - https://heard.org/exhibition/substance-of-stars/
+  - https://www.dlrgroup.com/firm-news/2023-iida-southwest-awards/

@@ -1,0 +1,9 @@
+id: whitten-university-center-um
+name: Whitten University Center
+venue_type: academic-institution
+location:
+  city: Coral Gables
+  state: FL
+operator: University of Miami
+sources:
+  - https://www.dlrgroup.com/work/university-of-miami-student-village/

@@ -1,0 +1,9 @@
+id: usc-heritage-hall
+name: Heritage Hall
+venue_type: sports-venue
+location:
+  city: Los Angeles
+  state: CA
+operator: University of Southern California
+sources:
+  - https://www.dlrgroup.com/work/heritage-hall-renovation/
