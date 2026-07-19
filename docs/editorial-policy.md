@@ -77,6 +77,40 @@ unpublished (against the sourcing standard) and the index's promise is
 who *built* what. The planning disciplines themselves remain fully
 represented through their credits on built projects.
 
+**Project-type scope: no ephemeral theatrical/live-event production.**
+Single-production-run scenic and media design for Broadway/Off-Broadway
+shows, touring productions, concerts, galas, and award-show or
+conference stage sets is out of scope, regardless of how well-documented
+or prestigious. These are ephemeral productions, not persistent
+experiential-design installations, and don't fit the index's
+venue-and-project model. A firm's museum or civic work stays in scope;
+its theatrical/live-event work does not. (Decided 2026-07-19, after this
+pattern recurred across multiple firm-portfolio screens.)
+
+**Project-type scope: no repeated/templated installation programs.**
+When a firm installs a near-identical, templated build across many
+sites — a recurring product line rather than a bespoke design each time
+(e.g. a standard pediatric-hospital playroom package installed at
+dozens of hospitals, or an annual holiday train display re-mounted every
+season) — the program is out of scope and stays uncredited/unlinked, the
+same as a manufactured product line. This does not apply to genuinely
+distinct projects that happen to share a client or building type; the
+test is whether the design itself repeats. (Decided 2026-07-19.)
+
+**Venue scope: no cruise ships.** Themed interiors and media
+installations aboard cruise ships are out of scope, US-flagged or not —
+a ship is not a fixed North American venue, and the index's
+one-project-one-venue model doesn't accommodate a mobile location.
+(Decided 2026-07-19.)
+
+**Project scope: no multi-site public art or civic programs with no
+single venue.** Installations distributed across many discrete physical
+sites with no single anchor venue — a citywide gateway-signage program,
+a multi-site public-art trail, a touring installation with stops in
+several cities — are out of scope entirely rather than anchored to one
+representative site. The schema's one-project-one-venue model isn't
+stretched to fit them. (Decided 2026-07-19.)
+
 ## Activity status (active vs. inactive firms)
 
 Every firm record carries an evidence-based activity status — `active`,

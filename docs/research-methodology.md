@@ -78,6 +78,15 @@ this doc and any batch-specific instructions:
    step after a batch (tally credits across the whole dataset, promote
    anything that newly crosses the bar). Batches 1 and 2 both used the
    central-reconciliation approach; either is fine.
+9. **Four scope exclusions settled 2026-07-19** (full rationale in
+   `editorial-policy.md`): no ephemeral theatrical/live-event production
+   work (Broadway, touring shows, galas, concert/conference stage sets);
+   no repeated/templated installation programs (a design that repeats
+   near-identically across many sites, vs. a genuinely bespoke project);
+   no cruise ships (not a fixed North American venue); no multi-site
+   public art or civic programs with no single anchor venue. These
+   recurred across multiple firm-portfolio screens before being decided —
+   don't re-flag them as open questions, just apply the exclusion.
 
 ## Award-archive sweep — process
 
