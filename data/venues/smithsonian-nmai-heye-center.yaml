@@ -6,6 +6,10 @@ location:
   state: NY
 operator: Smithsonian Institution
 website: https://www.si.edu/museums/american-indian-museum-heye-center
+annual_attendance:
+  figure: 239435
+  year: 2022
+  source: https://en.wikipedia.org/wiki/George_Gustav_Heye_Center
 sources:
   - https://www.si.edu/museums/american-indian-museum-heye-center
   - https://en.wikipedia.org/wiki/George_Gustav_Heye_Center

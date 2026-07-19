@@ -6,5 +6,10 @@ location:
   province: AB
   country: CA
 website: https://tyrrellmuseum.com
+annual_attendance:
+  figure: 526340
+  year: 2023
+  source: https://tyrrellmuseum.com/sites/default/files/media/Download%20the%20Royal%20Tyrrell%20Museum%20Annual%20Report%202023.pdf
 sources:
   - https://designrp.com/projects/royal-tyrrell-museum-learning-lounge-new-text/
+  - https://tyrrellmuseum.com/sites/default/files/media/Download%20the%20Royal%20Tyrrell%20Museum%20Annual%20Report%202023.pdf

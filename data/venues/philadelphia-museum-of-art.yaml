@@ -5,5 +5,9 @@ location:
   city: Philadelphia
   state: PA
 website: https://philamuseum.org
+annual_attendance:
+  figure: 649204
+  year: 2024
+  source: https://en.wikipedia.org/wiki/List_of_most-visited_museums_in_the_United_States
 sources:
   - https://philamuseum.org

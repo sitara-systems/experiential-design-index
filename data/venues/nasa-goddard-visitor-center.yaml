@@ -6,5 +6,10 @@ location:
   state: MD
 operator: NASA
 website: https://www.nasa.gov/goddard/visitor-center/
+annual_attendance:
+  figure: 33605
+  year: 2024
+  source: https://www.greenbeltnewsreview.com/news-stories/gesta-calls-for-intervention-to-halt-closure-of-visitor-center/
 sources:
   - https://www.nasa.gov/goddard/visitor-center/
+  - https://www.greenbeltnewsreview.com/news-stories/gesta-calls-for-intervention-to-halt-closure-of-visitor-center/

@@ -7,5 +7,9 @@ location:
   country: CA
 operator: Richmond Olympic Oval
 website: https://richmondoval.ca/
+annual_attendance:
+  figure: 25000
+  year: 2023
+  source: https://richmondoval.ca/community-thursdays/
 sources:
   - https://richmondoval.ca/

@@ -6,5 +6,9 @@ location:
   state: MD
 operator: National Park Service
 website: https://www.nps.gov/mono/
+annual_attendance:
+  figure: 116902
+  year: 2025
+  source: https://irma.nps.gov/Stats/Reports/National
 sources:
   - https://www.nps.gov/mono/

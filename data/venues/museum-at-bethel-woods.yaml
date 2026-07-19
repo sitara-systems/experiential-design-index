@@ -6,5 +6,9 @@ location:
   state: NY
 operator: Bethel Woods Center for the Arts
 website: https://www.bethelwoodscenter.org/museum
+annual_attendance:
+  figure: 214405
+  year: 2018
+  source: https://en.wikipedia.org/wiki/Bethel_Woods_Center_for_the_Arts
 sources:
   - https://en.wikipedia.org/wiki/Bethel_Woods_Center_for_the_Arts

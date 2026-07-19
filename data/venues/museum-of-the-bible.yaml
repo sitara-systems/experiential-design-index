@@ -5,5 +5,10 @@ location:
   city: Washington
   state: DC
 website: https://www.museumofthebible.org
+annual_attendance:
+  figure: 453000
+  year: 2024
+  source: https://www.museumofthebible.org/impact-report-2024
 sources:
   - https://www.smithgroup.com/news/2017/museum-of-the-bible-opens-in-washington-dc
+  - https://www.museumofthebible.org/impact-report-2024

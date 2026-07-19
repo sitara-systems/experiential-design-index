@@ -5,6 +5,11 @@ location:
   city: Philadelphia
   state: PA
 website: https://constitutioncenter.org
+annual_attendance:
+  figure: 132000
+  year: 2024
+  source: https://constitutioncenter.org/media/files/NCC-2024-Annual-Report-revised3.pdf
 sources:
   - https://constitutioncenter.org
   - https://en.wikipedia.org/wiki/National_Constitution_Center
+  - https://constitutioncenter.org/media/files/NCC-2024-Annual-Report-revised3.pdf

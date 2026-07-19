@@ -5,6 +5,11 @@ location:
   city: Nashville
   state: TN
 website: https://www.ryman.com
+annual_attendance:
+  figure: 225000
+  year: 2026
+  source: https://www.facilitiesnet.com/facilitiesmanagement/article/Preserving-a-Legend-How-the-Ryman-Auditorium-Balances-History-and-Modern-Operations--21017
 sources:
   - https://www.ryman.com
   - https://en.wikipedia.org/wiki/Ryman_Auditorium
+  - https://www.facilitiesnet.com/facilitiesmanagement/article/Preserving-a-Legend-How-the-Ryman-Auditorium-Balances-History-and-Modern-Operations--21017

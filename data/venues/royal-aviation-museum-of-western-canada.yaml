@@ -6,5 +6,10 @@ location:
   province: MB
   country: CA
 website: https://royalaviationmuseum.com
+annual_attendance:
+  figure: 67026
+  year: 2024
+  source: https://www.royalaviationmuseum.com/wp-content/uploads/2025/06/ARlayout2025.pdf
 sources:
   - https://designrp.com/projects/royal-aviation-museum-of-western-canada/
+  - https://www.royalaviationmuseum.com/wp-content/uploads/2025/06/ARlayout2025.pdf

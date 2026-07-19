@@ -5,5 +5,9 @@ location:
   city: Rochester
   state: NY
 website: https://susanb.org
+annual_attendance:
+  figure: 13000
+  year: 2022
+  source: https://www.wxxinews.org/local-news/2022-12-01/expansion-plans-move-forward-for-susan-b-anthony-museum-house
 sources:
   - https://en.wikipedia.org/wiki/Susan_B._Anthony_House

@@ -6,5 +6,10 @@ location:
   province: BC
   country: CA
 website: https://www.scienceworld.ca
+annual_attendance:
+  figure: 675206
+  year: 2024
+  source: https://www.scienceworld.ca/wp-content/uploads/20240521_3188_AnnualReport_ThirdDraft.pdf
 sources:
   - https://www.scienceworld.ca
+  - https://www.scienceworld.ca/wp-content/uploads/20240521_3188_AnnualReport_ThirdDraft.pdf

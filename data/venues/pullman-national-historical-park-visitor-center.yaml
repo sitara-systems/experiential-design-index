@@ -6,5 +6,9 @@ location:
   state: IL
 operator: National Park Service
 website: https://www.nps.gov/pull/
+annual_attendance:
+  figure: 29218
+  year: 2023
+  source: https://chicago.suntimes.com/real-estate/2024/11/15/revitalization-historic-pullman-aims-boost-tourism-country-first-company-town
 sources:
   - https://www.nps.gov/pull/planyourvisit/visitorcenters.htm

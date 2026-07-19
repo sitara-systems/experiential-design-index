@@ -6,6 +6,10 @@ location:
   state: NV
 operator: National Museum of Organized Crime and Law Enforcement
 website: https://themobmuseum.org
+annual_attendance:
+  figure: 400000
+  year: 2024
+  source: https://www.thevoxagency.com/photos-video-available-the-mob-museum-welcomes-4-millionth-visitor/
 sources:
   - https://themobmuseum.org/
   - https://en.wikipedia.org/wiki/Mob_Museum

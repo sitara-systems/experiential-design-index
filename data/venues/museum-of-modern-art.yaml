@@ -5,5 +5,10 @@ location:
   city: New York
   state: NY
 website: https://www.moma.org
+annual_attendance:
+  figure: 2657377
+  year: 2024
+  source: https://www.theartnewspaper.com/2025/04/01/the-worlds-most-visited-museums-2024-
 sources:
   - https://www.moma.org/calendar/exhibitions/5761
+  - https://www.theartnewspaper.com/2025/04/01/the-worlds-most-visited-museums-2024-

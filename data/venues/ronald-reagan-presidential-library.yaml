@@ -6,6 +6,10 @@ location:
   state: CA
 operator: Ronald Reagan Presidential Foundation & Institute
 website: https://www.reaganfoundation.org/library-museum
+annual_attendance:
+  figure: 239868
+  year: 2024
+  source: https://www.archives.gov/presidential-libraries/about/frequently-asked-questions
 sources:
   - https://en.wikipedia.org/wiki/Ronald_Reagan_Presidential_Library
   - https://www.reaganfoundation.org/library-museum

@@ -5,5 +5,10 @@ location:
   city: Cooperstown
   state: NY
 website: https://baseballhall.org
+annual_attendance:
+  figure: 236406
+  year: 2023
+  source: https://www.sportico.com/leagues/baseball/2024/baseball-hall-suffers-losses-1234817157/
 sources:
   - https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum
+  - https://www.sportico.com/leagues/baseball/2024/baseball-hall-suffers-losses-1234817157/

@@ -5,5 +5,9 @@ location:
   city: Albuquerque
   state: NM
 website: https://www.nmnaturalhistory.org
+annual_attendance:
+  figure: 256684
+  year: 2023
+  source: https://www.yahoo.com/entertainment/embracing-culture-state-run-museums-035900469.html
 sources:
   - https://www.nmnaturalhistory.org

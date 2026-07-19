@@ -6,6 +6,10 @@ location:
   state: OH
 operator: Great Lakes Historical Society
 website: https://nmgl.org
+annual_attendance:
+  figure: 32000
+  year: 2025
+  source: https://www.wtol.com/article/life/local-life/national-museum-of-the-great-lakes-wins-two-awards-including-institution-of-the-year/512-00fb0d4c-8896-49dc-9cb6-06cdb0917478
 sources:
   - https://nmgl.org
   - https://en.wikipedia.org/wiki/National_Museum_of_the_Great_Lakes

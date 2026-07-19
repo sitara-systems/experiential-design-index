@@ -6,5 +6,10 @@ location:
   province: ON
   country: CA
 website: https://www.rom.on.ca
+annual_attendance:
+  figure: 1100000
+  year: 2024
+  source: https://www.theglobeandmail.com/culture/art-and-architecture/article-rom-director-josh-basseches-royal-ontario-museum/
 sources:
   - https://www.rom.on.ca/whats-on/exhibitions/connection-stations
+  - https://www.theglobeandmail.com/culture/art-and-architecture/article-rom-director-josh-basseches-royal-ontario-museum/

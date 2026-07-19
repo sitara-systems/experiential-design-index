@@ -6,6 +6,11 @@ location:
   state: BC
   country: CA
 website: https://museumofvancouver.ca
+annual_attendance:
+  figure: 60389
+  year: 2025
+  source: https://museumofvancouver.ca/s/Annual_Report_2025_web_version.pdf
 sources:
   - https://museumofvancouver.ca
   - https://en.wikipedia.org/wiki/Museum_of_Vancouver
+  - https://museumofvancouver.ca/s/Annual_Report_2025_web_version.pdf

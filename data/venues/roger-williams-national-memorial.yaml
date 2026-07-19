@@ -9,5 +9,9 @@ location:
   state: RI
 operator: National Park Service
 website: https://www.nps.gov/rowi/
+annual_attendance:
+  figure: 38959
+  year: 2025
+  source: https://en.wikipedia.org/wiki/Roger_Williams_National_Memorial
 sources:
   - https://www.nps.gov/rowi/

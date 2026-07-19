@@ -6,6 +6,10 @@ location:
   state: HI
 operator: National Park Service
 website: https://www.nps.gov/perl/
+annual_attendance:
+  figure: 1534226
+  year: 2025
+  source: https://irma.nps.gov/Stats/Reports/National
 sources:
   - https://www.nps.gov/perl/
   - https://pearlharbor.org/blog/pearl-harbor-visitors-center-history-renovations-and-now/

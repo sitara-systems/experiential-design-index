@@ -5,6 +5,10 @@ location:
   city: Los Angeles
   state: CA
 website: https://nhm.org
+annual_attendance:
+  figure: 1200000
+  year: 2023
+  source: https://en.wikipedia.org/wiki/List_of_most-visited_museums_in_the_United_States
 sources:
   - https://nhm.org/experience-nhm/exhibitions-natural-history-museum/becoming-los-angeles
   - http://www.discoverlosangeles.com/blog/becoming-los-angeles-natural-history-museum

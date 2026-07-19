@@ -5,6 +5,11 @@ location:
   city: Mystic
   state: CT
 website: https://www.mysticaquarium.org
+annual_attendance:
+  figure: 800000
+  year: 2023
+  source: https://findingconnecticut.com/mystic-aquarium-to-enhance-guest-experiences/
 sources:
   - https://www.mysticaquarium.org
   - https://www.thincdesign.com/project/challenge-of-the-deep
+  - https://findingconnecticut.com/mystic-aquarium-to-enhance-guest-experiences/

@@ -6,5 +6,9 @@ location:
   state: DC
 operator: Smithsonian Institution
 website: https://nmaahc.si.edu
+annual_attendance:
+  figure: 1092552
+  year: 2022
+  source: https://en.wikipedia.org/wiki/National_Museum_of_African_American_History_and_Culture
 sources:
   - https://nmaahc.si.edu

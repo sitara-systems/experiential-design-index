@@ -5,5 +5,10 @@ location:
   city: Boston
   state: MA
 website: https://www.mfa.org
+annual_attendance:
+  figure: 971000
+  year: 2024
+  source: https://www.mfa.org/annual-report/annual-report-2024/numbers
 sources:
   - https://www.mfa.org
+  - https://www.mfa.org/annual-report/annual-report-2024/numbers

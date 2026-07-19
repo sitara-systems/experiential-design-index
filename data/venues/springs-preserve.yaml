@@ -6,6 +6,10 @@ location:
   state: NV
 operator: Las Vegas Valley Water District
 website: https://www.springspreserve.org
+annual_attendance:
+  figure: 260000
+  year: 2017
+  source: https://www.reviewjournal.com/local/local-las-vegas/now-in-its-10th-year-springs-preserve-drawing-more-visitors-adding-exhibits/
 sources:
   - https://www.springspreserve.org
   - https://bbinet.com/works/las-vegas-springs-preserve/

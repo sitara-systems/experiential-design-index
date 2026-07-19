@@ -6,5 +6,9 @@ location:
   state: DC
 operator: Smithsonian American Art Museum
 website: https://americanart.si.edu/visit/renwick
+annual_attendance:
+  figure: 281035
+  year: 2023
+  source: https://www.nbcwashington.com/news/local/the-smithsonian-saw-the-most-visits-in-2023-since-before-the-pandemic-see-which-museum-tops-the-list/3515525/
 sources:
   - https://www.si.edu/newsdesk/releases/renwick-gallery-opens-nov-13-after-major-renovation-its-national-historic-landmark-building

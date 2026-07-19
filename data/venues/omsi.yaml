@@ -5,6 +5,10 @@ location:
   city: Portland
   state: OR
 website: https://omsi.edu
+annual_attendance:
+  figure: 1025870
+  year: 2025
+  source: https://omsi.edu/wp-content/uploads/2025/10/2025_OMSI_Digital_Annual_Report.pdf
 sources:
   - https://omsi.edu/articles/reimagined-natural-sciences-hall/
   - https://www.wweek.com/culture/2026/04/24/omsi-reopens-natural-sciences-hall-with-focus-on-climate-change/

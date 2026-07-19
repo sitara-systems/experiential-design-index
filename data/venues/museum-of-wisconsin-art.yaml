@@ -5,5 +5,10 @@ location:
   city: West Bend
   state: WI
 website: https://wisconsinart.org
+annual_attendance:
+  figure: 200000
+  year: 2024
+  source: https://art.newcity.com/2025/08/11/art-in-wisconsin-whats-wisconsin-art-mowa-knows/
 sources:
   - https://wisconsinart.org
+  - https://art.newcity.com/2025/08/11/art-in-wisconsin-whats-wisconsin-art-mowa-knows/

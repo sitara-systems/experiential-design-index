@@ -5,5 +5,10 @@ location:
   city: Roswell
   state: NM
 website: https://www.roswellufomuseum.com
+annual_attendance:
+  figure: 220000
+  year: 2023
+  source: https://www.foxnews.com/us/roswells-international-ufo-museum-celebrates-5-million-visitors
 sources:
   - https://www.roswellufomuseum.com
+  - https://www.foxnews.com/us/roswells-international-ufo-museum-celebrates-5-million-visitors

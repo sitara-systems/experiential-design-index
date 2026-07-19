@@ -5,5 +5,10 @@ location:
   city: Astoria
   state: NY
 website: https://movingimage.org
+annual_attendance:
+  figure: 311000
+  year: 2025
+  source: https://www.timeout.com/newyork/news/this-beloved-nyc-museum-just-had-its-biggest-day-ever-and-tony-soprano-is-to-thank-042726
 sources:
   - https://movingimage.org/about/museum-history/
+  - https://www.timeout.com/newyork/news/this-beloved-nyc-museum-just-had-its-biggest-day-ever-and-tony-soprano-is-to-thank-042726

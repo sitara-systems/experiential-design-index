@@ -9,5 +9,10 @@ location:
   state: MA
 operator: National Park Service
 website: https://www.nps.gov/sama/
+annual_attendance:
+  figure: 569839
+  year: 2025
+  source: https://en.wikipedia.org/wiki/Salem_Maritime_National_Historical_Park
 sources:
   - https://www.nps.gov/sama/
+  - https://en.wikipedia.org/wiki/Salem_Maritime_National_Historical_Park

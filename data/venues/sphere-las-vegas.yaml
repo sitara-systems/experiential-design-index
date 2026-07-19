@@ -6,6 +6,10 @@ location:
   state: NV
 operator: Sphere Entertainment Co.
 website: https://www.thesphere.com
+annual_attendance:
+  figure: 1300000
+  year: 2024
+  source: https://www.gmtoday.com/business/how-sphere-posted-record-breaking-numbers-for-24/article_a2014aca-bd4d-11ef-92d0-a7cf6672006c.html
 sources:
   - https://www.sphereentertainmentco.com/sphere-and-icrave-reveal-innovative-interior-design-details-from-las-vegas-newest-entertainment-destination/
   - https://en.wikipedia.org/wiki/Sphere_(venue)

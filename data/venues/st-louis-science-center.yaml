@@ -5,5 +5,9 @@ location:
   city: St. Louis
   state: MO
 website: https://www.slsc.org
+annual_attendance:
+  figure: 618888
+  year: 2023
+  source: https://www.slsc.org/st-louis-science-centers-chief-wants-to-find-new-revenue-build-fun-family-experience/
 sources:
   - https://www.slsc.org

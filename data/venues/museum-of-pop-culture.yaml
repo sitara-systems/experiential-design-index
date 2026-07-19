@@ -5,5 +5,10 @@ location:
   city: Seattle
   state: WA
 website: https://www.mopop.org
+annual_attendance:
+  figure: 577721
+  year: 2023
+  source: https://www.businesswire.com/news/home/20240604648270/en/MoPOPs-Digital-Archive-and-Community-Partnership-Expansion-Showcased-in-2023-Annual-Report
 sources:
   - https://www.mopop.org/exhibitions/nirvana-taking-punk-to-the-masses
+  - https://www.businesswire.com/news/home/20240604648270/en/MoPOPs-Digital-Archive-and-Community-Partnership-Expansion-Showcased-in-2023-Annual-Report
