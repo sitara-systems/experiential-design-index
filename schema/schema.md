@@ -16,7 +16,11 @@ comments live in each `data/` subfolder (`_template.yaml`).
 research sessions — context, caveats, to-dos about the record. Underscore
 fields are never rendered on the site and are stripped from the open-data
 exports at build time. Use `_comments` instead of embedding editorial
-bookkeeping in public-facing fields like credit `note`s.
+bookkeeping in public-facing fields like credit `note`s. **Not a private
+channel:** this repository is public, so `_comments` are visible to anyone
+reading the YAML — they are working notes in an open editorial process,
+not secrets. Write them accordingly; genuinely confidential context does
+not belong in any record.
 
 ## Firm
 
