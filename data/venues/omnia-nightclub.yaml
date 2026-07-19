@@ -1,0 +1,9 @@
+id: omnia-nightclub
+name: OMNIA Nightclub
+venue_type: casino-resort
+location:
+  city: Las Vegas
+  state: NV
+operator: Caesars Palace
+sources:
+  - https://en.wikipedia.org/wiki/Omnia_(nightclub)

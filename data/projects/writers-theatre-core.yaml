@@ -12,6 +12,15 @@ credits:
   - firm: poblocki-sign-company
     role: fabrication
     note: "No firm record yet"
+  - firm: lightswitch
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: threshold-acoustics
+    role: acoustics
+    note: "No firm record yet"
+  - firm: auerbach-pollock-friedlander
+    role: technical-consulting
+    note: "Theatre consultant; no firm record yet"
 technologies:
   - digital signage
 summary: >

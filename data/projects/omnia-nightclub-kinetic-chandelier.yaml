@@ -1,0 +1,21 @@
+id: omnia-nightclub-kinetic-chandelier
+name: Kinetic Chandelier
+venue: omnia-nightclub
+project_type: installation
+year_completed: 2015
+credits:
+  - firm: rockwell-group
+    role: architecture
+  - firm: tait
+    role: fabrication
+    note: "Fabrication and integration of lights, winches, and control system"
+technologies:
+  - kinetic sculpture
+summary: >
+  A kinetic LED chandelier at OMNIA Nightclub, Caesars Palace, Las
+  Vegas, opened 2015; architecture by Rockwell Group, chandelier
+  fabrication and systems integration by TAIT.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Omnia_(nightclub)
+  - https://www.livedesignonline.com/excellence-awards/omnia-nightclub-kinetic-chandelier

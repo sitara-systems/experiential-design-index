@@ -1,0 +1,21 @@
+id: manhattan-pet-adoption-center-core
+name: Manhattan Pet Adoption Center
+venue: manhattan-pet-adoption-center
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: studio-joseph
+    role: architecture
+  - firm: sighte-studio
+    role: lighting-design
+    note: "No firm record yet"
+technologies: []
+summary: >
+  The Manhattan Pet Adoption Center, NYC Animal Care Centers' East
+  Harlem facility, opened October 29, 2024; architecture by Studio
+  Joseph, lighting design by Sighte Studio.
+description: ""
+sources:
+  - https://www.nyc.gov/site/ddc/about/press-releases/2024/pr-102824-ACC.page
+  - https://segd.org/projects/manhattan-pet-adoption-center/
+  - https://www.aiany.org/architecture/featured-projects/view/manhattan-pet-adoption-center/

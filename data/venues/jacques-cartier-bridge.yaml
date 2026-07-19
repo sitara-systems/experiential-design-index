@@ -1,0 +1,9 @@
+id: jacques-cartier-bridge
+name: Jacques-Cartier Bridge
+venue_type: public-space
+location:
+  city: Montreal
+  state: QC
+  country: Canada
+sources:
+  - https://www.bridgeweb.com/Interactive-lighting-unveiled-on-Montreal-bridge/4376

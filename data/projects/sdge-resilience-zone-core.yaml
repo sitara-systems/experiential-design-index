@@ -1,0 +1,31 @@
+id: sdge-resilience-zone-core
+name: "The Resilience Zone"
+venue: sdge-resilience-zone
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: trivium-interactive
+    role: exhibit-design
+    note: >
+      Trivium's own site claims full design/production credit;
+      Storyline Studio's own site separately claims comprehensive
+      interior/exhibition/graphics/fabrication-supervision scope on
+      the same project. Both firms' claims kept as parallel credits
+      pending clearer role attribution rather than picked unilaterally.
+  - firm: storyline-studio
+    role: exhibit-design
+    note: "See note on Trivium Interactive's credit above"
+  - firm: cinnabar
+    role: content-production
+  - firm: bbi-engineering
+    role: av-integration
+technologies: []
+summary: >
+  The Resilience Zone, a wildfire and climate resilience experience
+  center for San Diego Gas & Electric, opened October 24, 2024;
+  exhibition design credited by both Trivium Interactive and Storyline
+  Studio (via each firm's own project page), content production by
+  Cinnabar, AV engineering by BBI Engineering.
+description: ""
+sources:
+  - https://www.sdge.com/

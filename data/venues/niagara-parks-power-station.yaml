@@ -1,0 +1,10 @@
+id: niagara-parks-power-station
+name: Niagara Parks Power Station
+venue_type: history-museum
+location:
+  city: Niagara Falls
+  state: ON
+  country: Canada
+operator: Niagara Parks
+sources:
+  - https://segd.org/projects/currents-niagaras-power-transformed/

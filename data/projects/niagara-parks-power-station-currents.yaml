@@ -1,0 +1,31 @@
+id: niagara-parks-power-station-currents
+name: "Currents: Niagara's Power Transformed"
+venue: niagara-parks-power-station
+project_type: new-exhibition
+year_completed: 2021
+credits:
+  - firm: tait
+    role: media-design
+    note: "Credited as Thinkwell Group at the time; primary media design"
+  - firm: ventin-group
+    role: architecture
+    note: "No firm record yet"
+  - firm: mt-planners
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: atomic3
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: solotech
+    role: av-integration
+    note: "Technical support; no firm record yet"
+technologies: []
+summary: >
+  "Currents: Niagara's Power Transformed," the reopening exhibition at
+  the Niagara Parks Power Station, Niagara Falls, ON, opened September
+  2021; media design by Thinkwell Group (now TAIT), architecture by
+  Ventin Group, landscape architecture by MT Planners, lighting design
+  by Atomic3, AV support by Solotech.
+description: ""
+sources:
+  - https://segd.org/projects/currents-niagaras-power-transformed/

@@ -1,0 +1,8 @@
+id: arkansas-museum-of-fine-arts
+name: Arkansas Museum of Fine Arts
+venue_type: art-museum
+location:
+  city: Little Rock
+  state: AR
+sources:
+  - https://www.archdaily.com/999858

@@ -1,0 +1,9 @@
+id: sdge-resilience-zone
+name: "The Resilience Zone (Wildfire & Climate Resilience Center)"
+venue_type: brand-experience-center
+location:
+  city: San Diego
+  state: CA
+operator: San Diego Gas & Electric
+sources:
+  - https://www.sdge.com/

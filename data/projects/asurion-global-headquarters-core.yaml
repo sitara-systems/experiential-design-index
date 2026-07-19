@@ -1,0 +1,24 @@
+id: asurion-global-headquarters-core
+name: Asurion Global Headquarters
+venue: asurion-global-headquarters
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: hastings-architecture
+    role: architecture
+    note: "No firm record yet"
+  - firm: studio-matthews
+    role: graphics-wayfinding
+  - firm: big-visual-group
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - 3D printing
+summary: >
+  Asurion's Global Headquarters at the Gulch Hub, Nashville, TN, opened
+  2021; architecture by Hastings Architecture, graphics and wayfinding
+  by Studio Matthews, fabrication by Big Visual Group.
+description: ""
+sources:
+  - https://core77designawards.com/
+  - https://www.hastingsarchitecture.com/

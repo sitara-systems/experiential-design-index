@@ -1,0 +1,8 @@
+id: lincoln-park-zoo
+name: Lincoln Park Zoo
+venue_type: aquarium-zoo
+location:
+  city: Chicago
+  state: IL
+sources:
+  - https://www.lpzoo.org

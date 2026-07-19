@@ -18,6 +18,24 @@ credits:
   - firm: cost-of-wisconsin
     role: fabrication
     note: "Themed construction specialist; shotcrete canyon walls (~68,000 sq ft); no firm record yet"
+  - firm: renfro-design-group
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: reed-hilderbrand
+    role: landscape-architecture
+    note: "No firm record yet"
+  - firm: institute-for-human-centered-design
+    role: accessibility-consulting
+    note: "No firm record yet"
+  - firm: pentagram
+    role: graphics-wayfinding
+    note: "Signage consultant"
+  - firm: hadley-exhibits
+    role: fabrication
+    note: "Exhibition engineer and fabricator"
+  - firm: design-and-production-museum-studio
+    role: fabrication
+    note: "Exhibition engineer and fabricator; no firm record yet"
 technologies:
   - immersive theater
   - projection

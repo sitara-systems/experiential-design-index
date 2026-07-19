@@ -1,0 +1,9 @@
+id: bengt-sjostrom-starlight-theatre
+name: Bengt Sjostrom Starlight Theatre
+venue_type: cultural-center
+location:
+  city: Rockford
+  state: IL
+operator: Rock Valley College
+sources:
+  - https://en.wikipedia.org/wiki/Bengt_Sjostrom_Starlight_Theatre

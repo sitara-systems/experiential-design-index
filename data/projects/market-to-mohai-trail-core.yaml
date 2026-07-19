@@ -1,0 +1,25 @@
+id: market-to-mohai-trail-core
+name: Market to MOHAI Trail
+venue: market-to-mohai-trail
+project_type: installation
+year_completed: 2021
+credits:
+  - firm: studio-matthews
+    role: interpretive-planning
+    note: >
+      Corroborated only moderately — independent sources confirm the
+      trail and its interpretive-panel/underfoot-tile system exist,
+      but do not explicitly name Studio Matthews; flag for a direct
+      spot-check before treating as fully confirmed
+  - firm: image-mill
+    role: fabrication
+    note: "No firm record yet"
+technologies: []
+summary: >
+  Market to MOHAI, an interpretive walking trail with panels and
+  underfoot tiles connecting Pike Place Market to the Museum of
+  History & Industry, Seattle, completed 2021; interpretive planning
+  attributed to Studio Matthews, fabrication by Image Mill.
+description: ""
+sources:
+  - https://markettomohai.org/

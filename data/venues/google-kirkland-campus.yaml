@@ -1,0 +1,8 @@
+id: google-kirkland-campus
+name: Google Kirkland Campus
+venue_type: brand-experience-center
+location:
+  city: Kirkland
+  state: WA
+sources:
+  - https://segd.org/

@@ -1,0 +1,8 @@
+id: center-for-wooden-boats
+name: The Center for Wooden Boats
+venue_type: history-museum
+location:
+  city: Seattle
+  state: WA
+sources:
+  - https://segd.org/

@@ -1,0 +1,26 @@
+id: museum-of-the-city-of-new-york-starlight
+name: Starlight
+venue: museum-of-the-city-of-new-york
+project_type: installation
+year_completed: 2013
+credits:
+  - firm: studio-joseph
+    role: architecture
+  - firm: studio-1thousand
+    role: lighting-design
+    note: >
+      Independent source (Architizer) credits Studio 1Thousand as
+      lighting consultant; Studio Joseph's own site instead labels
+      them "Fabrication" — the independent source's role is used here.
+      No firm record yet.
+technologies:
+  - LED
+summary: >
+  Starlight, a 5,283-point LED chandelier at the Museum of the City of
+  New York's entrance replacing the museum's original chandelier,
+  installed 2013; architecture by Studio Joseph, lighting by Studio
+  1Thousand.
+description: ""
+sources:
+  - https://www.mcny.org/exhibition/starlight
+  - https://architizer.com/projects/starlight-1/

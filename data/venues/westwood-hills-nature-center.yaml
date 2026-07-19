@@ -1,0 +1,8 @@
+id: westwood-hills-nature-center
+name: Westwood Hills Nature Center
+venue_type: science-center
+location:
+  city: St. Louis Park
+  state: MN
+sources:
+  - https://entermn.com/

@@ -1,0 +1,21 @@
+id: google-kirkland-campus-wayfinding
+name: Wayfinding
+venue: google-kirkland-campus
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: dlr-group
+    role: architecture
+  - firm: studio-matthews
+    role: graphics-wayfinding
+  - firm: trademarx
+    role: fabrication
+    note: "No firm record yet"
+technologies: []
+summary: >
+  A wayfinding system for Google's Kirkland, WA campus, completed
+  2016; architecture by DLR Group, graphics and wayfinding by Studio
+  Matthews, fabrication by Trademarx.
+description: ""
+sources:
+  - https://segd.org/

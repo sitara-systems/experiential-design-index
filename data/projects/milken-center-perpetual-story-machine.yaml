@@ -12,6 +12,12 @@ credits:
       immersive storytelling, real-time interactive technology, animation,
       live-action video, gameplay, voiceover, original music, and
       soundscapes.
+  - firm: tait
+    role: fabrication
+    note: "Bespoke steel/aluminum structure and door automation; moderate-confidence sourcing"
+  - firm: 4wall-entertainment
+    role: av-integration
+    note: "Lead systems integrator; no firm record yet"
 technologies:
   - projection mapping
   - real-time interactive media

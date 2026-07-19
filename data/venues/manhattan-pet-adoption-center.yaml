@@ -1,0 +1,9 @@
+id: manhattan-pet-adoption-center
+name: Manhattan Pet Adoption Center
+venue_type: other
+location:
+  city: New York
+  state: NY
+operator: NYC Animal Care Centers
+sources:
+  - https://www.nyc.gov/site/ddc/about/press-releases/2024/pr-102824-ACC.page

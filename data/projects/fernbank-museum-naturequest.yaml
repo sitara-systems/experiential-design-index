@@ -6,13 +6,19 @@ year_completed: 2011
 credits:
   - firm: nassal
     role: fabrication
-  - firm: thinkwell-group
+  - firm: tait
     role: exhibit-design
+    note: >
+      Credited as Thinkwell Group at the time; TAIT acquired Thinkwell
+      Group (2022) and fully unified the brand under the TAIT name
+      (2024). Year also has a minor conflict: existing sourcing
+      (InPark Magazine) gives 2011, TAIT's own current page implies
+      2016 — kept at 2011 pending independent resolution.
 technologies: []
 summary: >
   NatureQuest, a children's discovery gallery at the Fernbank Museum of
   Natural History, Atlanta, Georgia, opened 2011; exhibit design by
-  Thinkwell Group with fabrication by Nassal.
+  Thinkwell Group (now part of TAIT) with fabrication by Nassal.
 description: ""
 sources:
   - https://www.inparkmagazine.com/
