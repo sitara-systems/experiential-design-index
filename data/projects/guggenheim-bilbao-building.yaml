@@ -1,0 +1,17 @@
+id: guggenheim-bilbao-building
+name: Guggenheim Museum Bilbao Building
+venue: guggenheim-bilbao
+project_type: new-building
+year_completed: 1997
+credits:
+  - firm: gehry-partners
+    role: architecture
+  - firm: idom
+    role: architecture
+    note: "Local architect of record; no firm record yet"
+summary: >
+  Guggenheim Museum Bilbao, Spain, opened October 1997, designed by
+  Gehry Partners with local architect of record IDOM.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao

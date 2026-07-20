@@ -1,0 +1,8 @@
+id: vitra-design-museum
+name: Vitra Design Museum
+venue_type: design-museum
+location:
+  city: Weil am Rhein
+  country: DE
+sources:
+  - https://en.wikipedia.org/wiki/Vitra_Design_Museum

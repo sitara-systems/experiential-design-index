@@ -1,0 +1,21 @@
+id: museum-of-the-future-dubai-core
+name: Museum of the Future Core Exhibits
+venue: museum-of-the-future-dubai
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: atelier-bruckner
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: avi-spl
+    role: av-integration
+    note: "AVI-SPL Middle East"
+technology_tags:
+  - immersive-environment
+summary: >
+  Museum of the Future, a science and technology museum in Dubai, United
+  Arab Emirates, opened February 2022, with exhibit design by Atelier
+  Brückner and AV integration by AVI-SPL Middle East.
+description: ""
+sources:
+  - https://avispl.com/resources/case-studies/museum-of-the-future-case-study/

@@ -1,0 +1,21 @@
+id: world-expo-2020-dubai-al-wasl-plaza
+name: Al Wasl Plaza
+venue: world-expo-2020-dubai
+project_type: installation
+year_completed: 2021
+credits:
+  - firm: threshold-acoustics
+    role: acoustics
+    note: >
+      Sound control within surrounding buildings, separation of below-grade
+      circulation noise from the plaza, and audio system design (line
+      source + subwoofer arrays around the trellis perimeter)
+technologies:
+  - line array audio system
+summary: >
+  Al Wasl Plaza, the central gathering space and 360-degree projection
+  dome at World Expo 2020 in Dubai, opened October 2021, with acoustics
+  and audio system design by Threshold Acoustics.
+description: ""
+sources:
+  - https://threshold.llc/al-wasl

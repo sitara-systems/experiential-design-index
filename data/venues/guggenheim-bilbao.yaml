@@ -1,0 +1,8 @@
+id: guggenheim-bilbao
+name: Guggenheim Museum Bilbao
+venue_type: art-museum
+location:
+  city: Bilbao
+  country: ES
+sources:
+  - https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao
