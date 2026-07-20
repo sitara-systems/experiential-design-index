@@ -19,6 +19,8 @@ technology_tags:
   - immersive-environment
   - interactive-installation
   - real-time
+platforms:
+  - unity
 recognition:
   - award: "SEGD Global Design Awards — Honor Award, Interactive Experiences"
     year: 2021

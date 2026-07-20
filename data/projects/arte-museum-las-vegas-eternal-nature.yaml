@@ -12,6 +12,8 @@ credits:
     note: >
       XTG team recreated the exhibit using US-available AV technology; 80+
       projectors, custom Q-SYS Core610-based audio control.
+platforms:
+  - q-sys
 summary: >
   "Eternal Nature," the inaugural immersive media-art exhibit of ARTE
   MUSEUM Las Vegas at 63 CityCenter on the Las Vegas Strip, opened

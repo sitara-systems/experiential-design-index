@@ -17,6 +17,8 @@ technologies:
   - real-time particle animation
 technology_tags:
   - real-time
+platforms:
+  - unity
 recognition:
   - award: "AAM MUSE Award — Silver, AR/VR/Mixed Reality"
     year: 2020

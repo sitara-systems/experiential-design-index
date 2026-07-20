@@ -8,6 +8,8 @@ credits:
     role: media-design
 technologies:
   - interactive-installation
+platforms:
+  - nanolumens
 summary: >
   An interactive LED wall installation at Gate C, Vancouver
   International Airport (YVR), installed March 2018; media design by

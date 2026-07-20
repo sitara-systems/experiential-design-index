@@ -44,6 +44,8 @@ technologies:
   - media server show control
 technology_tags:
   - immersive-environment
+platforms:
+  - disguise
 recognition:
   - award: "SEGD Global Design Awards — Merit Award"
     year: 2025

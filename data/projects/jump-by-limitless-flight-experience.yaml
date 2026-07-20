@@ -25,6 +25,8 @@ technology_tags:
   - interactive-installation
   - robotics
   - real-time
+platforms:
+  - unreal-engine
 recognition:
   - award: "Thea Award — Outstanding Achievement in Connected Immersion"
     year: 2022

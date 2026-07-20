@@ -28,6 +28,8 @@ technologies:
   - synchronized moving set pieces
 technology_tags:
   - real-time
+platforms:
+  - unreal-engine
 recognition:
   - award: "TEA Thea Awards — Outstanding Achievement, Live Attraction Spectacular"
     year: 2021

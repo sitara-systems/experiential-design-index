@@ -25,6 +25,9 @@ technologies:
   - multitouch kiosk
 technology_tags:
   - real-time
+platforms:
+  - unity
+  - christie
 summary: >
   Curiosity Hall, a 60-foot immersive projection theater, opened May 22,
   2024, as part of the DaVinci Science Center's new downtown Allentown,
