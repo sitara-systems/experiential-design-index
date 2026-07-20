@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: local-projects
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: "The Immersion Room: a 300-degree, 45-display curved theater"
 technologies:
   - curved multi-display theater

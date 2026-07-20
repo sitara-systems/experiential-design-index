@@ -14,6 +14,8 @@ credits:
     note: "Brand identity. No firm record yet"
   - firm: bluecadet
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: >
       Concierge Wall content and interaction design, National Park Service
       Explorer touchscreen, welcome film, and dynamic digital signage across
@@ -37,3 +39,9 @@ sources:
   - https://www.electrosonic.com/projects/independence-visitor-center
   - https://www.bluecadet.com/work/independence-visitor-center
   - https://www.phlvisitorcenter.com/2019
+_comments: >
+  AI credit attribution (2026-07-19): Bluecadet tagged as the ML deliverer --
+  Bluecadet built the wall's interactive software (its own project page); the
+  ML specifics (scikit-learn-driven layout) are documented on a Bluecadet
+  developer's portfolio (shi-weili.com/ivc-concierge-wall), a first-person
+  source -- flag if a stronger independent source is wanted.

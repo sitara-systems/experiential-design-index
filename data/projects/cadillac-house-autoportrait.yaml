@@ -6,9 +6,13 @@ year_completed: 2016
 credits:
   - firm: tellart
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: "Designed and built ADA0002, a repurposed industrial welding robot retrofitted with face recognition and autonomous drawing capability"
   - firm: leaflabs
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: "Engineered the software orchestration layer (computer vision, real-time motion control, communication protocols); no firm record yet"
 technologies:
   - computer vision / face recognition

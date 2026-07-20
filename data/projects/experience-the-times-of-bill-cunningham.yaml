@@ -9,6 +9,8 @@ credits:
     note: "18,000 sq ft, six-space immersive exhibition"
   - firm: esi-design
     role: media-design
+    technology_tags:
+      - artificial-intelligence
 technologies:
   - motion-activated projection
   - AI-driven style matching

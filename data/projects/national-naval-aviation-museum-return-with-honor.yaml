@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: storyfile
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: >
       Only firm publicly credited for this interactive; no separate
       exhibit-design/fabrication firm identified in press coverage.

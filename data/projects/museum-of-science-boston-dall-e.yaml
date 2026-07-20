@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: moment-factory
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: >
       Design and development of an interactive "black box" gallery space
       using projection mapping and Lidar motion tracking, letting visitors

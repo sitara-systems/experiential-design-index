@@ -54,6 +54,8 @@ credits:
     note: "Photogrammetry and 3D modeling"
   - firm: storyfile
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: >
       Built "The Virtual Recipient," an interactive video Q&A letting
       visitors converse with five Vietnam-era Medal of Honor recipients,

@@ -40,6 +40,8 @@ credits:
       either.
   - firm: microsoft
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: >
       Built "Talk with TR," a permanent exhibit letting visitors speak
       questions to a real-time-rendered avatar of Theodore Roosevelt, using
@@ -47,6 +49,8 @@ credits:
       and speeches; no firm record yet.
   - firm: lemonslice
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: "Live avatar rendering for Talk with TR; no firm record yet"
 technologies:
   - immersive galleries

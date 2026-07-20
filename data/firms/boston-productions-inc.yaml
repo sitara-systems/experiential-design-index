@@ -10,7 +10,6 @@ hq:
   state: MA
 roles:
   - media-design
-  - av-integration
   - content-production
 status: active
 status_basis: >

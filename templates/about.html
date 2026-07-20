@@ -111,6 +111,63 @@ categories are deliberately out of scope, not overlooked:</p>
   booth for the same client is not.</li>
 </ul>
 
+<h2>Ranked lists</h2>
+<p><a href="{{ base }}/lists/index.html">Rankings</a> are published
+<strong>per delivery-stack role</strong> ("Top Exhibit Design Firms," "Top AV
+Integration Firms," …) &mdash; never as a single cross-role master ranking.
+The roles in the schema describe different crafts serving different buyer
+decisions; ranking an architecture firm against a fabrication shop would
+manufacture a comparison that doesn't exist in practice. Per-region and
+specialty (venue-type, technology) lists are published the same way.</p>
+<p>Scores are computed <strong>entirely from the open dataset</strong> by a
+fixed formula, with no subjective or reputational input, so any reader can
+reproduce any list from the published data:</p>
+<ul>
+  <li><strong>Eligible work:</strong> completed projects only
+  (<code>status: completed</code>), with <code>year_completed</code> in the
+  trailing five years. Announced and in-progress work appears in the index
+  but never counts toward a score.</li>
+  <li><strong>Recency-weighted count:</strong> each eligible project where
+  the firm holds the list's role scores 1.0 if completed this year or last,
+  0.75 if 2&ndash;3 years ago, 0.5 if 4&ndash;5 years ago.</li>
+  <li><strong>Sourcing bonus:</strong> +0.1 per project (capped at +0.5 per
+  firm) for projects corroborated by independent sources &mdash; at least
+  two distinct source domains not operated by the credited firm.</li>
+  <li><strong>Ties</strong> are broken by most recent
+  <code>status_verified</code> date &mdash; never by editorial discretion.</li>
+  <li><strong>Rank eligibility:</strong> a numbered rank requires at least 2
+  eligible projects &mdash; one project is a data point, not a track
+  record.</li>
+  <li><strong>Display cap:</strong> the ranked table shows at most the 10
+  highest-scoring firms. Every other firm with eligible activity is still
+  listed on the same page, alphabetically and unranked, under "Also active
+  in this category" &mdash; a "Top" list that ranks everyone isn't a top
+  list.</li>
+  <li><strong>Minimum depth:</strong> a role gets a ranked list only once at
+  least 8 firms are rank-eligible in it. Below that, we publish an
+  unranked "Firms Working In [Role]" roundup instead &mdash; a small dataset
+  ranked is a false signal.</li>
+  <li><strong>Role identity:</strong> a firm appears on a role's list only
+  if that role is one of the disciplines the firm itself offers as a
+  standalone, engageable service (the <code>roles</code> on its firm
+  record). A project credit in another capacity &mdash; say, an
+  architecture firm's in-house team producing media inside its own larger
+  commission &mdash; stays on the project page but doesn't place the firm
+  on that role's hiring list.</li>
+  <li><strong>Technology lists</strong> count only the credit(s) attributed
+  with the technology on each project &mdash; the firm(s) that actually
+  delivered it, per the project's cited sources &mdash; not every firm
+  credited on a project that happens to feature it.</li>
+</ul>
+<p>Weights and thresholds may be revised as the dataset grows; every revision
+is recorded in the repository's history. Every list runs the same formula
+against the same open data, including Sitara Systems' own record, and
+carries the self-inclusion disclosure above inline whether or not Sitara
+places on it. Some ranked-list families (most-awarded institutions, platform
+lists, small-studio and certification-based lists) aren't published yet
+because the underlying data isn't dense enough &mdash; their absence isn't a
+ranking signal either way.</p>
+
 <h2>Activity status</h2>
 <p>Every firm record carries an evidence-based activity status &mdash;
 active, activity unclear, or inactive &mdash; with the basis and a

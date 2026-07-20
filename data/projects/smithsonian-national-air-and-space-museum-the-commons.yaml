@@ -12,6 +12,14 @@ credits:
     role: graphics-wayfinding
   - firm: pgav-destinations
     role: media-design
+  - firm: refik-anadol-studio
+    role: media-design
+    technology_tags:
+      - artificial-intelligence
+    note: >
+      Machine-learning "data paintings" generated from the museum's archival
+      photographs, in partnership with PGAV Destinations, per PGAV's own
+      project page.
 technologies:
   - large-format screens
   - generative/machine-learning data visualization

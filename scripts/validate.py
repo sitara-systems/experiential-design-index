@@ -247,6 +247,11 @@ def validate_projects(projects, firms, venues, vocab, findings):
                 findings.append(Finding("error", rel, "credits", "credit missing 'role'"))
             elif crole not in vocab["roles"]:
                 findings.append(Finding("error", rel, "credits", f"'{crole}' is not in vocabularies.yaml roles"))
+            for ct in c.get("technology_tags") or []:
+                if ct not in vocab["technology_tags"]:
+                    findings.append(Finding("error", rel, "credits", f"credit technology_tag '{ct}' is not in vocabularies.yaml technology_tags"))
+                elif ct not in (rec.get("technology_tags") or []):
+                    findings.append(Finding("error", rel, "credits", f"credit technology_tag '{ct}' ({cfirm}) is not among the project's own technology_tags"))
         for t in rec.get("technology_tags") or []:
             if t not in vocab["technology_tags"]:
                 findings.append(Finding("error", rel, "technology_tags", f"'{t}' is not in vocabularies.yaml technology_tags"))

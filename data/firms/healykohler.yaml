@@ -9,7 +9,6 @@ hq:
   state: DC
 founded: 2008
 roles:
-  - master-planning
   - exhibit-design
   - interpretive-planning
   - media-design

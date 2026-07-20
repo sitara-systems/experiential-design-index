@@ -1,23 +1,22 @@
 {% extends "base.html" %}
-{% block title %}{{ list_title }} (DRAFT, unpublished) — The Experiential Design Index{% endblock %}
-{% block meta_description %}{{ list_title }} — draft, not yet published.{% endblock %}
+{% block title %}{{ list_title }} — The Experiential Design Index{% endblock %}
+{% block meta_description %}{{ list_title }}, ranked from The Experiential Design Index's open dataset by a published, reproducible formula.{% endblock %}
+{% block jsonld %}
+<script type="application/ld+json">{{ jsonld | safe }}</script>
+{% endblock %}
 {% block content %}
-<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; <a href="{{ base }}/lists-draft/index.html">Lists (draft)</a> &gt; {{ list_title }}</div>
-<p class="note" style="border:1px solid var(--border);background:var(--accent-bg);padding:.75rem 1rem;border-radius:4px;">
-  <strong>DRAFT — unpublished.</strong> This page is not linked from the live
-  site, not in the sitemap, and not indexed by search engines. It exists for
-  internal review only (HANDOFF track F). Regenerate with
-  <code>python scripts/build_site.py --lists</code>.
-</p>
+<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; <a href="{{ base }}/lists/index.html">Rankings</a> &gt; {{ list_title }}</div>
 <h1>{{ list_title }}</h1>
 <p class="subtitle">
   {% if ranked %}
   {{ ranking_basis or "Ranked by recency-weighted eligible project count, " ~ window_start ~ "–" ~ window_end }}.
-  {{ firms | length }} firms clear the minimum-depth bar (8+) for this list.
+  The {{ firms | length }} highest-scoring firms hold a numbered rank{% if also_firms %};
+  {{ also_firms | length }} more firm{{ 's' if also_firms | length != 1 else '' }} with eligible
+  activity {{ 'are' if also_firms | length != 1 else 'is' }} listed below the table{% endif %}.
   {% else %}
-  Unranked roundup — fewer than 8 firms show eligible activity in this
-  window, so a ranking would be a false signal. Listed alphabetically
-  instead.
+  Unranked roundup — fewer than 8 firms have enough eligible activity in
+  this window to hold a rank, so a ranking would be a false signal. Listed
+  alphabetically instead.
   {% endif %}
 </p>
 {% if methodology_note %}
@@ -58,4 +57,34 @@
   {% endfor %}
   </tbody>
 </table>
+{% if ranked and also_firms %}
+<h2>Also active in this category</h2>
+<p class="note">
+  Firms with eligible activity in the window that fall outside the ranked
+  table — fewer than 2 eligible projects, or a score below the top
+  {{ firms | length }}. Listed alphabetically, not ranked.
+</p>
+<table class="list">
+  <thead>
+    <tr><th>Firm</th><th>HQ</th><th>{{ items_label or "Eligible projects" }}</th></tr>
+  </thead>
+  <tbody>
+  {% for row in also_firms %}
+    <tr>
+      <td><a href="{{ base }}/firms/{{ row.firm.id }}.html">{{ row.firm.name }}</a></td>
+      <td>{{ row.firm.hq.city }}, {{ row.firm.hq.state or row.firm.hq.province or row.firm.hq.country }}</td>
+      <td>
+        {% for ep in row.eligible_projects %}
+        {% if ep.kind == 'venue' %}
+        <a href="{{ base }}/venues/{{ ep.id }}.html">{{ ep.name }}</a> ({{ ep.label }}){% if not loop.last %}, {% endif %}
+        {% else %}
+        <a href="{{ base }}/projects/{{ ep.id }}.html">{{ ep.name }}</a> ({{ ep.year }}){% if not loop.last %}, {% endif %}
+        {% endif %}
+        {% endfor %}
+      </td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endif %}
 {% endblock %}

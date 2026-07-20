@@ -8,7 +8,6 @@ other_offices:
   - city: Orlando
     state: FL
 roles:
-  - exhibit-design
   - media-design
 status: active
 status_basis: >

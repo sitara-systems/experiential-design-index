@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: usc-shoah-foundation
     role: content-production
+    technology_tags:
+      - artificial-intelligence
     note: >
       Developed the interactive testimony content and matching technology,
       in partnership with USC Libraries and the museum; a university

@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: deeplocal
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: >
       Design, engineering, and fabrication of the kinetic installation and
       its real-time sensing/machine-learning control software. No firm

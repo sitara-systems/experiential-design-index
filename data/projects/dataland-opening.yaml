@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: refik-anadol-studio
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: >
       Founding studio; designed the five galleries' data-driven,
       AI-generated media works, including the inaugural exhibition

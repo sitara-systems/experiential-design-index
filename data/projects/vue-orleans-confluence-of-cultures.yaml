@@ -9,6 +9,8 @@ credits:
     note: "Exhibit design and architecture."
   - firm: cortina-productions
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: >
       Digital exhibit media: touchless/gesture interactives, AI facial
       tracking, transparent displays, large-scale LED walls, multi-user

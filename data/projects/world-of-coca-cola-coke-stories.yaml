@@ -17,6 +17,8 @@ credits:
     role: av-integration
   - firm: momentum
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: "Interactive elements and media production; no firm record yet"
   - firm: solomon-group
     role: technical-consulting
@@ -43,3 +45,8 @@ sources:
   - https://solomongroup.com/projects/world-of-coca-cola-coke-stories
   - https://www.worldofcoca-cola.com/about-us/press-center/media-alert/introducing-new-coca-cola-stories-experience
   - https://blooloop.com/world-coca-cola-coke-stories/
+_comments: >
+  AI credit attribution (2026-07-19): Momentum tagged via blooloop's credit
+  list ('Interactives, Media' covers the AI vintage-portrait mirror, Magic
+  Billboards, virtual soda jerk). Inferential: no source literally names who
+  engineered the AI features; Momentum is the best-supported deliverer.

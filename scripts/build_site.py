@@ -204,16 +204,42 @@ def enrich_venues(venues, projects, vocab):
 
 
 # --------------------------------------------------------- ranked lists ----
-# HANDOFF track F: build now (behind --lists, unlinked from the live site),
-# publish is Nathan-gated per family. Scoring formula is
-# docs/editorial-policy.md's "Ranked lists" section, verbatim -- do not
-# hand-tune weights here; edit the policy doc first, then mirror the change.
+# HANDOFF track F: published 2026-07-19 (Nathan: publish all data-ready
+# families). Scoring formula is docs/editorial-policy.md's "Ranked lists"
+# section, verbatim -- do not hand-tune weights here; edit the policy doc
+# first, then mirror the change. Families still gated on missing data
+# (most-awarded institutions, platform lists, small-studios,
+# woman-/minority-owned) simply aren't built yet -- see the list below.
 
 RANKED_LIST_MIN_FIRMS = 8
 RANKED_LIST_WINDOW_YEARS = 5
 RECENCY_WEIGHTS = {0: 1.0, 1: 1.0, 2: 0.75, 3: 0.75, 4: 0.5, 5: 0.5}
 SOURCING_BONUS_PER_PROJECT = 0.1
 SOURCING_BONUS_CAP = 0.5
+# Display rules (editorial-policy.md §Ranked lists, amended 2026-07-19):
+# a numbered rank requires >= 2 counted items (one project is not a track
+# record); the ranked table shows at most the top 10; every other firm with
+# eligible activity stays on the page in an unranked alphabetical section.
+# The 8-firm minimum depth counts rank-eligible firms only.
+RANKED_LIST_TOP_N = 10
+RANKED_LIST_MIN_ITEMS_TO_RANK = 2
+
+
+def split_rows(rows):
+    """Apply the display rules to a family's scored rows.
+
+    Returns (ranked, top_rows, also_rows): ranked=False means the family
+    publishes as an unranked roundup (all rows alphabetical in top_rows,
+    also_rows empty)."""
+    rank_eligible = [r for r in rows
+                     if len(r["eligible_projects"]) >= RANKED_LIST_MIN_ITEMS_TO_RANK]
+    if len(rank_eligible) < RANKED_LIST_MIN_FIRMS:
+        return False, sorted(rows, key=lambda r: r["firm"]["name"].lower()), []
+    top = rank_eligible[:RANKED_LIST_TOP_N]
+    top_ids = {r["firm"]["id"] for r in top}
+    also = sorted((r for r in rows if r["firm"]["id"] not in top_ids),
+                  key=lambda r: r["firm"]["name"].lower())
+    return True, top, also
 
 
 def _eligible_projects_for(projects, current_year):
@@ -286,35 +312,54 @@ def _sort_rows(rows):
     rows.sort(key=lambda r: r["score"], reverse=True)
 
 
+def role_holders(firms, role_id):
+    # Role-identity rule (editorial-policy.md, 2026-07-19): a firm appears
+    # on a role's list only if its own record declares that role as an
+    # engageable standalone service. Project credits in other roles stay on
+    # project pages but don't place the firm on that role's list.
+    return {fid: f for fid, f in firms.items() if role_id in (f.get("roles") or [])}
+
+
 def build_role_list(role_id, role_label, firms, projects, current_year):
     eligible = _eligible_projects_for(projects, current_year)
-    rows = score_firms(firms, projects, eligible, lambda p, c: c.get("role") == role_id)
-    ranked = len(rows) >= RANKED_LIST_MIN_FIRMS
-    if not ranked:
-        rows.sort(key=lambda r: r["firm"]["name"].lower())
+    rows = score_firms(role_holders(firms, role_id), projects, eligible,
+                       lambda p, c: c.get("role") == role_id)
+    ranked, top, also = split_rows(rows)
     return {
         "slug": f"role-{role_id}",
-        "title": f"Top {role_label} Firms" if ranked else f"Firms Working In {role_label}",
+        "title": (f"Top {len(top)} {role_label} Firms" if ranked
+                  else f"Firms Working In {role_label}"),
         "ranked": ranked,
-        "rows": rows,
+        "rows": top,
+        "also_rows": also,
     }
 
 
 def build_tech_tag_list(tag_id, tag_label, firms, projects, current_year):
     eligible = _eligible_projects_for(projects, current_year)
-    # A technology tag describes the PROJECT, not one credited role -- any
-    # firm credited on a tagged project counts (matches the "firms with the
-    # most AI-credited built projects" framing in
-    # ranking-methodology-rationale.md, not a role-filtered count).
-    rows = score_firms(firms, projects, eligible, lambda p, c: tag_id in (p.get("technology_tags") or []))
-    ranked = len(rows) >= RANKED_LIST_MIN_FIRMS
-    if not ranked:
-        rows.sort(key=lambda r: r["firm"]["name"].lower())
+    # Credit-level attribution (2026-07-19): only the credit(s) that actually
+    # delivered the tagged technology carry it (credit-level technology_tags,
+    # set from sourced evidence). Being credited on a tagged project in
+    # another capacity -- AV install, fabrication, lighting, the surrounding
+    # gallery -- does not place a firm on the technology list.
+    rows = score_firms(firms, projects, eligible,
+                       lambda p, c: tag_id in (c.get("technology_tags") or []))
+    ranked, top, also = split_rows(rows)
     return {
         "slug": f"tech-{tag_id}",
-        "title": f"Top {tag_label}-Credited Firms" if ranked else f"Firms With {tag_label}-Credited Projects",
+        "title": (f"Top {len(top)} {tag_label}-Credited Firms" if ranked
+                  else f"Firms With {tag_label}-Credited Projects"),
         "ranked": ranked,
-        "rows": rows,
+        "rows": top,
+        "also_rows": also,
+        "methodology_note": ("Counts only credits attributed with the "
+                             f"{tag_label} technology tag -- the firm(s) that "
+                             "delivered the tagged technology on each project, "
+                             "per the project's cited sources. Other firms "
+                             "credited on the same projects (AV integration, "
+                             "fabrication, lighting, exhibit design around the "
+                             "installation) do not count. Standard recency "
+                             "weighting and sourcing bonus apply."),
     }
 
 
@@ -326,15 +371,14 @@ def build_venue_type_list(vt_id, vt_label, firms, projects, venues, current_year
     eligible = _eligible_projects_for(projects, current_year)
     rows = score_firms(firms, projects, eligible,
                        lambda p, c: (venues.get(p.get("venue")) or {}).get("venue_type") == vt_id)
-    ranked = len(rows) >= RANKED_LIST_MIN_FIRMS
-    if not ranked:
-        rows.sort(key=lambda r: r["firm"]["name"].lower())
+    ranked, top, also = split_rows(rows)
     return {
         "slug": f"venue-type-{vt_id}",
-        "title": (f"Top Firms for {vt_label} Projects" if ranked
+        "title": (f"Top {len(top)} Firms for {vt_label} Projects" if ranked
                   else f"Firms With {vt_label} Projects"),
         "ranked": ranked,
-        "rows": rows,
+        "rows": top,
+        "also_rows": also,
         "ranking_basis": (f"Ranked by recency-weighted eligible project count at "
                           f"{vt_label.lower()} venues, {current_year - RANKED_LIST_WINDOW_YEARS}"
                           f"–{current_year}"),
@@ -367,14 +411,13 @@ def build_awards_list(firms, projects, current_year):
             rows.append({"firm": f, "score": total, "score_display": str(total),
                          "eligible_projects": items})
     _sort_rows(rows)
-    ranked = len(rows) >= RANKED_LIST_MIN_FIRMS
-    if not ranked:
-        rows.sort(key=lambda r: r["firm"]["name"].lower())
+    ranked, top, also = split_rows(rows)
     return {
         "slug": "most-awarded-firms",
         "title": "Most-Awarded Firms" if ranked else "Firms With Juried Award Recognition",
         "ranked": ranked,
-        "rows": rows,
+        "rows": top,
+        "also_rows": also,
         "ranking_basis": (f"Ranked by juried award recognitions, award years "
                           f"{current_year - RANKED_LIST_WINDOW_YEARS}–{current_year}"),
         "score_label": "Awards",
@@ -412,14 +455,13 @@ def build_reach_list(firms, projects, venues, current_year):
         rows.append({"firm": f, "score": total, "score_display": f"{total:,}",
                      "eligible_projects": items})
     _sort_rows(rows)
-    ranked = len(rows) >= RANKED_LIST_MIN_FIRMS
-    if not ranked:
-        rows.sort(key=lambda r: r["firm"]["name"].lower())
+    ranked, top, also = split_rows(rows)
     return {
         "slug": "largest-reach",
         "title": "Largest Reach: Combined Venue Visitorship" if ranked else "Firms by Venue Visitorship",
         "ranked": ranked,
-        "rows": rows,
+        "rows": top,
+        "also_rows": also,
         "ranking_basis": (f"Ranked by combined published annual attendance of distinct "
                           f"venues hosting the firm's {current_year - RANKED_LIST_WINDOW_YEARS}"
                           f"–{current_year} work"),
@@ -453,14 +495,13 @@ def build_annual_list(firms, projects, list_year):
             rows.append({"firm": f, "score": len(items), "score_display": str(len(items)),
                          "eligible_projects": items})
     _sort_rows(rows)
-    ranked = len(rows) >= RANKED_LIST_MIN_FIRMS
-    if not ranked:
-        rows.sort(key=lambda r: r["firm"]["name"].lower())
+    ranked, top, also = split_rows(rows)
     return {
         "slug": f"most-active-{list_year}",
         "title": f"Most Active Firms, {list_year}",
         "ranked": ranked,
-        "rows": rows,
+        "rows": top,
+        "also_rows": also,
         "ranking_basis": f"Ranked by completed projects recorded in the index for {list_year}",
         "score_label": "Projects",
         "items_label": f"{list_year} projects",
@@ -497,18 +538,18 @@ def firm_region(f):
 
 def build_role_region_list(role_id, role_label, region, firms, projects, current_year):
     region_display = region if region == "Canada" else f"{region} US"
-    regional = {fid: f for fid, f in firms.items() if firm_region(f) == region}
+    regional = {fid: f for fid, f in role_holders(firms, role_id).items()
+                if firm_region(f) == region}
     eligible = _eligible_projects_for(projects, current_year)
     rows = score_firms(regional, projects, eligible, lambda p, c: c.get("role") == role_id)
-    ranked = len(rows) >= RANKED_LIST_MIN_FIRMS
-    if not ranked:
-        rows.sort(key=lambda r: r["firm"]["name"].lower())
+    ranked, top, also = split_rows(rows)
     return {
         "slug": f"role-{role_id}-region-{region.lower()}",
-        "title": (f"Top {role_label} Firms: {region_display}" if ranked
+        "title": (f"Top {len(top)} {role_label} Firms: {region_display}" if ranked
                   else f"{role_label} Firms: {region_display}"),
         "ranked": ranked,
-        "rows": rows,
+        "rows": top,
+        "also_rows": also,
         "ranking_basis": (f"Ranked by recency-weighted eligible project count, "
                           f"{current_year - RANKED_LIST_WINDOW_YEARS}–{current_year}, "
                           f"firms headquartered in the {region_display} "
@@ -605,13 +646,6 @@ def dumps_ld(obj):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument(
-        "--lists", action="store_true",
-        help="also render draft ranked-list pages to _site/lists-draft/ "
-             "(HANDOFF track F -- unlinked from the live site, sitemap, and "
-             "llms.txt; for local Nathan review only, nothing publishes "
-             "from this flag)",
-    )
     args = parser.parse_args()
 
     if SITE.exists():
@@ -757,71 +791,80 @@ def main():
         url = f"{SITE_URL}/venues/{vid}.html"
         render("venue.html", SITE / "venues" / f"{vid}.html", venue=v, jsonld=dumps_ld(venue_jsonld(v, url)))
 
-    # ---- draft ranked lists (HANDOFF track F; --lists only) ----
+    # ---- ranked lists (HANDOFF track F; published 2026-07-19) ----
+    (SITE / "lists").mkdir(parents=True)
+    current_year = datetime.date.today().year
+
+    role_families = [build_role_list(rid, label, firms, projects, current_year)
+                      for rid, label in sorted(vocab["roles"].items(), key=lambda kv: kv[1])]
+    tag_families = [build_tech_tag_list("artificial-intelligence", "AI/Machine Learning", firms, projects, current_year)]
+
+    # Venue-type specialization -- every real type; the `other` bucket is
+    # not a buyer question and gets no list.
+    vt_families = [build_venue_type_list(vt, label, firms, projects, venues, current_year)
+                   for vt, label in sorted(vocab["venue_types"].items(), key=lambda kv: kv[1])
+                   if vt != "other"]
+
+    single_families = [
+        build_awards_list(firms, projects, current_year),
+        build_reach_list(firms, projects, venues, current_year),
+        build_annual_list(firms, projects, current_year - 1),
+    ]
+
+    # Per-role x region: only cells clearing the 8-firm bar render (a
+    # page per empty cell would be noise, not coverage); the skipped
+    # count is surfaced on the index page rather than dropped silently.
+    region_families = []
+    skipped_region_cells = 0
+    for rid, label in sorted(vocab["roles"].items(), key=lambda kv: kv[1]):
+        for region in REGION_NAMES:
+            fam = build_role_region_list(rid, label, region, firms, projects, current_year)
+            if fam["ranked"]:
+                region_families.append(fam)
+            else:
+                skipped_region_cells += 1
+
     list_families = []
-    if args.lists:
-        (SITE / "lists-draft").mkdir(parents=True)
-        current_year = datetime.date.today().year
-
-        role_families = [build_role_list(rid, label, firms, projects, current_year)
-                          for rid, label in sorted(vocab["roles"].items(), key=lambda kv: kv[1])]
-        tag_families = [build_tech_tag_list("artificial-intelligence", "AI/Machine Learning", firms, projects, current_year)]
-
-        # Venue-type specialization -- every real type; the `other` bucket is
-        # not a buyer question and gets no list.
-        vt_families = [build_venue_type_list(vt, label, firms, projects, venues, current_year)
-                       for vt, label in sorted(vocab["venue_types"].items(), key=lambda kv: kv[1])
-                       if vt != "other"]
-
-        single_families = [
-            build_awards_list(firms, projects, current_year),
-            build_reach_list(firms, projects, venues, current_year),
-            build_annual_list(firms, projects, current_year - 1),
+    for fam in role_families + tag_families + vt_families + single_families + region_families:
+        list_url = f"{SITE_URL}/lists/{fam['slug']}.html"
+        list_ld = [
+            list_jsonld(fam["title"], list_url, [f"{SITE_URL}/firms/{row['firm']['id']}.html" for row in fam["rows"]]),
+            breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("Rankings", f"{SITE_URL}/lists/index.html"), (fam["title"], None)]),
         ]
-
-        # Per-role x region: only cells clearing the 8-firm bar render (a
-        # page per empty cell would be noise, not coverage); the skipped
-        # count is surfaced on the index page rather than dropped silently.
-        region_families = []
-        skipped_region_cells = 0
-        for rid, label in sorted(vocab["roles"].items(), key=lambda kv: kv[1]):
-            for region in REGION_NAMES:
-                fam = build_role_region_list(rid, label, region, firms, projects, current_year)
-                if fam["ranked"]:
-                    region_families.append(fam)
-                else:
-                    skipped_region_cells += 1
-
-        for fam in role_families + tag_families + vt_families + single_families + region_families:
-            render(
-                "ranked_list.html", SITE / "lists-draft" / f"{fam['slug']}.html",
-                list_title=fam["title"], ranked=fam["ranked"], firms=fam["rows"],
-                window_start=current_year - RANKED_LIST_WINDOW_YEARS, window_end=current_year,
-                ranking_basis=fam.get("ranking_basis"),
-                methodology_note=fam.get("methodology_note"),
-                score_label=fam.get("score_label"),
-                items_label=fam.get("items_label"),
-            )
-            list_families.append({
-                "slug": fam["slug"], "title": fam["title"],
-                "ranked": fam["ranked"], "count": len(fam["rows"]),
-            })
-
         render(
-            "lists_index.html", SITE / "lists-draft" / "index.html",
-            families=list_families,
-            ranked_count=sum(1 for f in list_families if f["ranked"]),
-            roundup_count=sum(1 for f in list_families if not f["ranked"]),
-            skipped_notes=[
-                f"{skipped_region_cells} role × region cells fall below the 8-firm "
-                "minimum-depth bar and were not rendered.",
-                "Venue-type lists exclude the 'other' bucket by design.",
-                "Deferred families (data not ready): most-awarded institutions "
-                "(needs the 2013–2019 historical award sweep), platform lists "
-                "(tag coverage too sparse), small studios and woman-/minority-owned "
-                "(need certification-sourced firm fields).",
-            ],
+            "ranked_list.html", SITE / "lists" / f"{fam['slug']}.html",
+            list_title=fam["title"], ranked=fam["ranked"], firms=fam["rows"],
+            also_firms=fam.get("also_rows") or [],
+            window_start=current_year - RANKED_LIST_WINDOW_YEARS, window_end=current_year,
+            ranking_basis=fam.get("ranking_basis"),
+            methodology_note=fam.get("methodology_note"),
+            score_label=fam.get("score_label"),
+            items_label=fam.get("items_label"),
+            jsonld=dumps_ld(list_ld),
         )
+        list_families.append({
+            "slug": fam["slug"], "title": fam["title"],
+            "ranked": fam["ranked"],
+            "count": len(fam["rows"]) + len(fam.get("also_rows") or []),
+        })
+
+    lists_index_ld = breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("Rankings", None)])
+    render(
+        "lists_index.html", SITE / "lists" / "index.html",
+        families=list_families,
+        ranked_count=sum(1 for f in list_families if f["ranked"]),
+        roundup_count=sum(1 for f in list_families if not f["ranked"]),
+        jsonld=dumps_ld(lists_index_ld),
+        skipped_notes=[
+            f"{skipped_region_cells} role × region cells fall below the 8-firm "
+            "minimum-depth bar and were not rendered.",
+            "Venue-type lists exclude the 'other' bucket by design.",
+            "Deferred families (data not ready): most-awarded institutions "
+            "(needs the 2013–2019 historical award sweep), platform lists "
+            "(tag coverage too sparse), small studios and woman-/minority-owned "
+            "(need certification-sourced firm fields).",
+        ],
+    )
 
     # ---- robots.txt ----
     robots = """# robots.txt for The Experiential Design Index
@@ -831,7 +874,6 @@ def main():
 
 User-agent: *
 Allow: /
-Disallow: /lists-draft/
 
 # AI assistants / answer engines -- explicitly allowed
 User-agent: GPTBot
@@ -896,11 +938,13 @@ Sitemap: {sitemap}
         f"- [Firms]({SITE_URL}/firms/index.html): every firm, alphabetically. Each firm page lists its roles, HQ, activity status (active/unclear/inactive, with evidence and a verification date), and every credited project.",
         f"- [Projects]({SITE_URL}/projects/index.html): every project, alphabetically. Each project page states who built what, where, and when in its opening sentence, then a fact table (venue, project type, year, status, technologies) and a full delivery-stack credits table.",
         f"- [Venues]({SITE_URL}/venues/index.html): every venue, alphabetically. Each venue page lists its projects.",
-        f"- [About]({SITE_URL}/about.html): editorial policy -- inclusion bar (>=3 projects, public sourcing only), activity-status methodology, corrections process, CC BY 4.0 license.",
+        f"- [Rankings]({SITE_URL}/lists/index.html): per-delivery-stack-role, per-region, and specialty ranked lists of firms, computed entirely from the open dataset by a fixed, published formula (see About). Each ranked table shows at most the top 10 firms (a numbered rank requires 2+ eligible projects); every other firm with eligible activity is listed unranked on the same page. Role lists include only firms that offer the role as a standalone service; roles below the 8-firm minimum-depth bar publish as an unranked roundup instead of a false-signal ranking.",
+        f"- [About]({SITE_URL}/about.html): editorial policy -- inclusion bar (>=3 projects, public sourcing only), activity-status methodology, ranked-list methodology, corrections process, CC BY 4.0 license.",
         f"- [Open data]({SITE_URL}/data/): JSON and CSV exports of the full dataset (firms, projects, venues), CC BY 4.0.",
         "",
         "## Notes for automated use",
-        "- No ranked \"Top firms\" lists are published yet; do not infer a ranking from list order (pages are alphabetical).",
+        "- Ranked-list order reflects the published scoring formula (recency-weighted eligible project count over the trailing 5 years, plus a sourcing bonus) -- it is not editorial judgment. See the About page for the exact formula before citing a ranking.",
+        "- Some ranked-list families are not published yet because the underlying data isn't ready (most-awarded institutions, platform lists, small-studio and certification-based lists) -- their absence isn't a ranking signal either way.",
         "- A project's credits table may list a firm with no link -- that firm doesn't yet have "
         f"{DATASET_INCLUSION_MIN_PROJECTS}+ sourced projects of its own. It's correctly credited, "
         "just below the threshold for its own record; see About for why.",
@@ -915,10 +959,12 @@ Sitemap: {sitemap}
 
     # ---- sitemap.xml ----
     urls = [f"{SITE_URL}/index.html", f"{SITE_URL}/about.html",
-            f"{SITE_URL}/firms/index.html", f"{SITE_URL}/projects/index.html", f"{SITE_URL}/venues/index.html"]
+            f"{SITE_URL}/firms/index.html", f"{SITE_URL}/projects/index.html", f"{SITE_URL}/venues/index.html",
+            f"{SITE_URL}/lists/index.html"]
     urls += [f"{SITE_URL}/firms/{fid}.html" for fid in firms]
     urls += [f"{SITE_URL}/projects/{pid}.html" for pid in projects]
     urls += [f"{SITE_URL}/venues/{vid}.html" for vid in venues]
+    urls += [f"{SITE_URL}/lists/{fam['slug']}.html" for fam in list_families]
     today = datetime.date.today().isoformat()
     sitemap_lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for u in urls:
@@ -1001,11 +1047,9 @@ Sitemap: {sitemap}
     print(f"  + home, about, 3 browse index pages")
     print(f"  robots.txt, llms.txt, sitemap.xml ({len(urls)} urls)")
     print(f"  open-data exports: _site/data/{{firms,projects,venues}}.{{json,csv}}")
-    if args.lists:
-        print(f"  DRAFT lists (--lists, unpublished, not in sitemap/nav): "
-              f"{len(list_families)} families in _site/lists-draft/ "
-              f"({sum(1 for f in list_families if f['ranked'])} ranked, "
-              f"{sum(1 for f in list_families if not f['ranked'])} unranked roundup)")
+    print(f"  rankings: {len(list_families)} families in _site/lists/ "
+          f"({sum(1 for f in list_families if f['ranked'])} ranked, "
+          f"{sum(1 for f in list_families if not f['ranked'])} unranked roundup)")
     if warnings:
         print(f"  {len(warnings)} warning(s): unlinked firm credits (credited firm has no firm record)")
         for w in warnings[:20]:

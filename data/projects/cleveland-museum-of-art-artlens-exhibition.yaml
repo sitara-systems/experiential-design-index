@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: potion-design
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: "All media design and interaction design for sixteen motion- and gaze-tracking games across six projection walls"
   - firm: local-projects
     role: media-design

@@ -33,7 +33,7 @@ not belong in any record.
 | `hq` | object | ✔ | `city`, `state` (US two-letter); `country` defaults to US |
 | `other_offices` | list | | Same shape as `hq` |
 | `founded` | year | | |
-| `roles` | list of role ids | ✔ | What the firm does (delivery-stack roles) |
+| `roles` | list of role ids | ✔ | The disciplines the firm offers as **standalone, engageable services** — its market identity, not the union of every capacity it has ever been credited in. Test: could a client hire this firm to do *only* this, per how the firm publicly markets itself? In-house capabilities exercised only inside the firm's own larger engagements do not belong here (the per-project credit records them). Role ranked lists draw their eligibility from this field. |
 | `status` | firm_status id | ✔ | `active` / `unclear` / `inactive` |
 | `status_basis` | string | ✔ | The evidence, e.g. "Completed X (2025); SEGD award entry 2026" |
 | `status_verified` | date | ✔ | When the status was last checked |
@@ -54,7 +54,7 @@ the firm record.
 | `project_type` | project_type id | ✔ | The scope proxy (new building → installation) |
 | `year_completed` | year | ✔ | Opening year; `year_expected` for announced work |
 | `status` | enum | | `completed` (default) / `announced` / `in-progress` |
-| `credits` | list | ✔ | Each: `firm` (firm id), `role` (role id), optional `note` |
+| `credits` | list | ✔ | Each: `firm` (firm id), `role` (role id), optional `note`, optional `technology_tags` (subset of the project's own `technology_tags`) marking this credit as the one that **delivered** the tagged technology — set only with sourced evidence; technology ranked lists count only tagged credits |
 | `technologies` | list | | Free-text but consistent (e.g. "projection mapping", "RFID") |
 | `technology_tags` | list of technology_tag ids | | Controlled differentiator tags (see vocabularies.yaml `technology_tags` — definitions + evidence bar). Only when the project's cited sources support the tag. |
 | `platforms` | list of platform ids | | Commercial products/software the project was built on (see vocabularies.yaml `platforms`). Sources must name the product on this project; manufacturer deployment case studies count as sources. Not a credit — manufacturers are never credited firms. |

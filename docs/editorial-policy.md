@@ -248,10 +248,32 @@ list from the published data:
   distinct source domains not operated by the credited firm.
 - **Ties** are broken by most recent `status_verified` date — never by
   editorial discretion.
+- **Rank eligibility** *(amended 2026-07-19)*: a numbered rank requires at
+  least 2 eligible projects in the window — one project is a data point,
+  not a track record.
+- **Display cap** *(amended 2026-07-19)*: the ranked table shows at most
+  the 10 highest-scoring firms. Every other firm with eligible activity
+  remains on the same page in an unranked, alphabetical "Also active in
+  this category" section — a "Top" list that ranks everyone it knows about
+  is not a top list.
 - **Minimum depth:** a role receives a ranked list only once at least 8
-  firms show eligible activity in it. Below that, we publish an unranked
+  firms are rank-eligible in it. Below that, we publish an unranked
   "Firms Working In [Role]" roundup instead — a small dataset ranked is a
   false signal.
+- **Role identity** *(amended 2026-07-19)*: a firm appears on a role's
+  list only if that role is among the disciplines the firm offers as a
+  standalone, engageable service — the `roles` on its firm record (see the
+  schema's definition of firm `roles`). Project credits held in other
+  capacities (an in-house team working inside the firm's own larger
+  commission) stay on project pages but do not place the firm on that
+  role's list: the list answers "who can I hire for this," and a firm that
+  cannot be engaged for the role alone is not an answer.
+- **Technology lists** *(amended 2026-07-19)*: count only the credit(s)
+  attributed with the technology at the credit level — the firm(s) whose
+  cited sources support that they delivered the tagged technology on that
+  project. Being credited on a project that features a technology (AV
+  installation, fabrication, lighting, the surrounding gallery design) does
+  not place a firm on that technology's list.
 
 Weights and thresholds may be revised as the dataset grows; every revision
 to this policy is recorded in the repository's history.

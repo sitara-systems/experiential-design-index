@@ -11,6 +11,14 @@ credits:
       Designed the interactive testimony theater, including a Pepper's
       Ghost-style display, in the newly constructed Alan and Halina Zimm
       Theater of Remembrance
+  - firm: usc-shoah-foundation
+    role: content-production
+    technology_tags:
+      - artificial-intelligence
+    note: >
+      Developed the Dimensions in Testimony natural-language interactive
+      testimony technology and survivor recordings; MAD Systems delivered
+      the theater and AV systems in partnership with the foundation.
 technologies:
   - Pepper's Ghost display
   - interactive video testimony

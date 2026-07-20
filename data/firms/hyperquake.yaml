@@ -6,7 +6,6 @@ hq:
   state: OH
 roles:
   - exhibit-design
-  - content-production
 status: active
 status_basis: >
   Lead exhibit design on the Illumina Executive Briefing Center (2023)

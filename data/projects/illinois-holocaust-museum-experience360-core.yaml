@@ -8,6 +8,14 @@ credits:
     role: exhibit-design
   - firm: ravenswood-studio
     role: fabrication
+  - firm: usc-shoah-foundation
+    role: content-production
+    technology_tags:
+      - artificial-intelligence
+    note: >
+      Developed the Kizito Kalima interactive hologram testimony (Dimensions
+      in Testimony format) with USC Libraries/USC Digital Repository, per
+      the museum's announcement.
 technologies:
   - interactive video testimony
   - natural language processing
@@ -30,3 +38,4 @@ description: >
 sources:
   - https://www.axios.com/2025/08/05/holocaust-museum-ai-interactive-rwandan-genocide
   - https://news.wttw.com/2025/08/25/illinois-holocaust-museum-opens-satellite-location-downtown-chicago
+  - https://www.ilholocaustmuseum.org/museum-announces-opening-of-new-downtown-location/

@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: eos-lightmedia
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: >
       Created the custom control software (reads live weather data, tracks
       passersby via embedded cameras) and designed/supplied the 3,000-pixel

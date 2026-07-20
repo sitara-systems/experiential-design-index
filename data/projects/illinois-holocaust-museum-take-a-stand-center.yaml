@@ -10,6 +10,14 @@ credits:
       Concept development for the permanent exhibition, in collaboration
       with USC Shoah Foundation on the Dimensions in Testimony hologram
       technology.
+  - firm: usc-shoah-foundation
+    role: content-production
+    technology_tags:
+      - artificial-intelligence
+    note: >
+      Developed the Dimensions in Testimony natural-language interactive
+      hologram testimony technology (with USC Institute for Creative
+      Technologies) behind the Abe & Ida Cooper Survivor Stories Experience.
 technologies:
   - interactive hologram
   - AI-driven testimony playback

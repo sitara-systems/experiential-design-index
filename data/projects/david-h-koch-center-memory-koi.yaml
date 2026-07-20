@@ -6,8 +6,12 @@ year_completed: 2020
 credits:
   - firm: c-and-g-partners
     role: media-design
+    technology_tags:
+      - artificial-intelligence
   - firm: potion-design
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: "Collaborating partner on the interactive digital experience"
   - firm: art-guild-inc
     role: fabrication

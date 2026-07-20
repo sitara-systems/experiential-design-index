@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: fivestone-studios
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: "LED-wall CMS, animation library, AI-powered photobooths"
 technologies:
   - artificial-intelligence

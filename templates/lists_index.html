@@ -1,13 +1,12 @@
 {% extends "base.html" %}
-{% block title %}Lists (DRAFT, unpublished) — The Experiential Design Index{% endblock %}
-{% block meta_description %}Draft ranked-list families — not yet published.{% endblock %}
+{% block title %}Rankings — The Experiential Design Index{% endblock %}
+{% block meta_description %}Per-role, per-region, and specialty ranked lists of firms working in experiential design, computed from the open dataset by a published formula.{% endblock %}
+{% block jsonld %}
+<script type="application/ld+json">{{ jsonld | safe }}</script>
+{% endblock %}
 {% block content %}
-<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; Lists (draft)</div>
-<p class="note" style="border:1px solid var(--border);background:var(--accent-bg);padding:.75rem 1rem;border-radius:4px;">
-  <strong>DRAFT — unpublished.</strong> Nothing on this page or linked from
-  it is part of the live site. Internal review only (HANDOFF track F).
-</p>
-<h1>Lists (draft)</h1>
+<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; Rankings</div>
+<h1>Rankings</h1>
 <p class="subtitle">
   {{ families | length }} families rendered this build ({{ ranked_count }}
   ranked, {{ roundup_count }} unranked roundup{{ 's' if roundup_count != 1 else '' }}
@@ -23,7 +22,7 @@
   <tbody>
   {% for fam in families %}
     <tr>
-      <td><a href="{{ base }}/lists-draft/{{ fam.slug }}.html">{{ fam.title }}</a></td>
+      <td><a href="{{ base }}/lists/{{ fam.slug }}.html">{{ fam.title }}</a></td>
       <td>{{ "Ranked" if fam.ranked else "Unranked roundup" }}</td>
       <td>{{ fam.count }}</td>
     </tr>

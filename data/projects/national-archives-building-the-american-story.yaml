@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: cortina-productions
     role: media-design
+    technology_tags:
+      - artificial-intelligence
     note: "Collaborating designer of immersive environments"
   - firm: carolynne-harris-consulting
     role: master-planning
