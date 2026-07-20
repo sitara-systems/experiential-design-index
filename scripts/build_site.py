@@ -273,13 +273,17 @@ def score_firms(firms, projects, eligible, credit_matches):
         eligible_projects.sort(key=lambda ep: ep["year"] or 0, reverse=True)
         rows.append({"firm": f, "score": score, "eligible_projects": eligible_projects})
 
+    _sort_rows(rows)
+    return rows
+
+
+def _sort_rows(rows):
     # Three ascending stable sorts, least- to most-significant key, so the
     # tie-break rule (score desc, then most-recent status_verified, then
     # name as a final deterministic tiebreak) stays legible.
     rows.sort(key=lambda r: r["firm"]["name"].lower())
     rows.sort(key=lambda r: r["firm"].get("status_verified") or datetime.date.min, reverse=True)
     rows.sort(key=lambda r: r["score"], reverse=True)
-    return rows
 
 
 def build_role_list(role_id, role_label, firms, projects, current_year):
@@ -311,6 +315,204 @@ def build_tech_tag_list(tag_id, tag_label, firms, projects, current_year):
         "title": f"Top {tag_label}-Credited Firms" if ranked else f"Firms With {tag_label}-Credited Projects",
         "ranked": ranked,
         "rows": rows,
+    }
+
+
+def build_venue_type_list(vt_id, vt_label, firms, projects, venues, current_year):
+    # Venue-type specialization ("who does natural history museums") -- the
+    # standard formula, filtered by the venue's type instead of the credit's
+    # role. Any credited role counts: the buyer question is about experience
+    # with the venue type, not one slice of the delivery stack.
+    eligible = _eligible_projects_for(projects, current_year)
+    rows = score_firms(firms, projects, eligible,
+                       lambda p, c: (venues.get(p.get("venue")) or {}).get("venue_type") == vt_id)
+    ranked = len(rows) >= RANKED_LIST_MIN_FIRMS
+    if not ranked:
+        rows.sort(key=lambda r: r["firm"]["name"].lower())
+    return {
+        "slug": f"venue-type-{vt_id}",
+        "title": (f"Top Firms for {vt_label} Projects" if ranked
+                  else f"Firms With {vt_label} Projects"),
+        "ranked": ranked,
+        "rows": rows,
+        "ranking_basis": (f"Ranked by recency-weighted eligible project count at "
+                          f"{vt_label.lower()} venues, {current_year - RANKED_LIST_WINDOW_YEARS}"
+                          f"–{current_year}"),
+    }
+
+
+def build_awards_list(firms, projects, current_year):
+    # Most-awarded firms: counts `recognition` entries (juried programs only,
+    # enforced at data entry) with award year in the trailing window, on
+    # completed projects credited to the firm. Simple count, not the
+    # recency-weighted formula -- an award year is already a recency signal.
+    rows = []
+    for fid, f in firms.items():
+        total = 0
+        items = []
+        for pid, p in projects.items():
+            if (p.get("status") or "completed") != "completed":
+                continue
+            recs = [r for r in (p.get("recognition") or [])
+                    if isinstance(r, dict) and isinstance(r.get("year"), int)
+                    and 0 <= current_year - r["year"] <= RANKED_LIST_WINDOW_YEARS]
+            if not recs:
+                continue
+            if not any(isinstance(c, dict) and c.get("firm") == fid for c in (p.get("credits") or [])):
+                continue
+            total += len(recs)
+            items.append({"id": pid, "name": p["name"], "year": p.get("year_completed")})
+        if total:
+            items.sort(key=lambda ep: ep["year"] or 0, reverse=True)
+            rows.append({"firm": f, "score": total, "score_display": str(total),
+                         "eligible_projects": items})
+    _sort_rows(rows)
+    ranked = len(rows) >= RANKED_LIST_MIN_FIRMS
+    if not ranked:
+        rows.sort(key=lambda r: r["firm"]["name"].lower())
+    return {
+        "slug": "most-awarded-firms",
+        "title": "Most-Awarded Firms" if ranked else "Firms With Juried Award Recognition",
+        "ranked": ranked,
+        "rows": rows,
+        "ranking_basis": (f"Ranked by juried award recognitions, award years "
+                          f"{current_year - RANKED_LIST_WINDOW_YEARS}–{current_year}"),
+        "score_label": "Awards",
+        "items_label": "Recognized projects",
+        "methodology_note": ("Counts recognition entries from juried award programs "
+                             "(no pay-to-enter schemes) with an award year in the "
+                             "trailing 5 years, on completed projects the firm is "
+                             "credited on. Every credited firm on a recognized project "
+                             "counts the recognition. Ties broken by most recent "
+                             "status-verification date."),
+    }
+
+
+def build_reach_list(firms, projects, venues, current_year):
+    # Largest reach: combined published annual visitorship of the distinct
+    # venues hosting a firm's trailing-window work. Published figures only,
+    # never estimated -- venues without a published figure contribute zero.
+    eligible = _eligible_projects_for(projects, current_year)
+    rows = []
+    for fid, f in firms.items():
+        vset = {}
+        for pid, p, age in eligible:
+            if not any(isinstance(c, dict) and c.get("firm") == fid for c in (p.get("credits") or [])):
+                continue
+            v = venues.get(p.get("venue"))
+            a = (v or {}).get("annual_attendance")
+            if isinstance(a, dict) and a.get("figure"):
+                vset[v["id"]] = v
+        if not vset:
+            continue
+        total = sum(v["annual_attendance"]["figure"] for v in vset.values())
+        items = [{"id": vid, "name": v["name"], "kind": "venue",
+                  "label": f"{v['annual_attendance']['figure']:,}/yr"}
+                 for vid, v in sorted(vset.items(), key=lambda kv: kv[1]["name"].lower())]
+        rows.append({"firm": f, "score": total, "score_display": f"{total:,}",
+                     "eligible_projects": items})
+    _sort_rows(rows)
+    ranked = len(rows) >= RANKED_LIST_MIN_FIRMS
+    if not ranked:
+        rows.sort(key=lambda r: r["firm"]["name"].lower())
+    return {
+        "slug": "largest-reach",
+        "title": "Largest Reach: Combined Venue Visitorship" if ranked else "Firms by Venue Visitorship",
+        "ranked": ranked,
+        "rows": rows,
+        "ranking_basis": (f"Ranked by combined published annual attendance of distinct "
+                          f"venues hosting the firm's {current_year - RANKED_LIST_WINDOW_YEARS}"
+                          f"–{current_year} work"),
+        "score_label": "Combined visitors/yr",
+        "items_label": "Counted venues",
+        "methodology_note": ("Sums each venue's published annual attendance figure once "
+                             "per firm (distinct venues, not per project), over venues "
+                             "hosting the firm's completed trailing-5-year work. Published "
+                             "figures only -- venues without a published figure count "
+                             "zero, and figures come from different reporting years. Ties "
+                             "broken by most recent status-verification date."),
+    }
+
+
+def build_annual_list(firms, projects, list_year):
+    # Annual most-active: completed projects recorded in the index for one
+    # calendar year. The annual-franchise anchor; carries an honesty clause
+    # about index coverage rather than pretending to census the industry.
+    rows = []
+    for fid, f in firms.items():
+        items = []
+        for pid, p in projects.items():
+            if (p.get("status") or "completed") != "completed":
+                continue
+            if p.get("year_completed") != list_year:
+                continue
+            if any(isinstance(c, dict) and c.get("firm") == fid for c in (p.get("credits") or [])):
+                items.append({"id": pid, "name": p["name"], "year": list_year})
+        if items:
+            items.sort(key=lambda ep: ep["name"].lower())
+            rows.append({"firm": f, "score": len(items), "score_display": str(len(items)),
+                         "eligible_projects": items})
+    _sort_rows(rows)
+    ranked = len(rows) >= RANKED_LIST_MIN_FIRMS
+    if not ranked:
+        rows.sort(key=lambda r: r["firm"]["name"].lower())
+    return {
+        "slug": f"most-active-{list_year}",
+        "title": f"Most Active Firms, {list_year}",
+        "ranked": ranked,
+        "rows": rows,
+        "ranking_basis": f"Ranked by completed projects recorded in the index for {list_year}",
+        "score_label": "Projects",
+        "items_label": f"{list_year} projects",
+        "methodology_note": (f"Counts completed projects with year_completed = {list_year} "
+                             "that credit the firm. Counts reflect what the index has "
+                             "recorded, not a census of the firm's total output -- "
+                             "coverage depth varies by firm. Ties broken by most recent "
+                             "status-verification date."),
+    }
+
+
+# US Census Bureau regions (a published external standard, not an editorial
+# invention) + Canada as its own region. Firms are assigned by hq.
+US_CENSUS_REGIONS = {
+    "Northeast": {"CT", "ME", "MA", "NH", "RI", "VT", "NJ", "NY", "PA"},
+    "Midwest": {"IL", "IN", "MI", "OH", "WI", "IA", "KS", "MN", "MO", "NE", "ND", "SD"},
+    "South": {"DE", "FL", "GA", "MD", "NC", "SC", "VA", "DC", "WV",
+              "AL", "KY", "MS", "TN", "AR", "LA", "OK", "TX"},
+    "West": {"AZ", "CO", "ID", "MT", "NV", "NM", "UT", "WY", "AK", "CA", "HI", "OR", "WA"},
+}
+REGION_NAMES = ["Northeast", "Midwest", "South", "West", "Canada"]
+
+
+def firm_region(f):
+    hq = f.get("hq") or {}
+    if hq.get("country") == "CA" or (hq.get("province") and not hq.get("state")):
+        return "Canada"
+    st = hq.get("state")
+    for name, states in US_CENSUS_REGIONS.items():
+        if st in states:
+            return name
+    return None
+
+
+def build_role_region_list(role_id, role_label, region, firms, projects, current_year):
+    region_display = region if region == "Canada" else f"{region} US"
+    regional = {fid: f for fid, f in firms.items() if firm_region(f) == region}
+    eligible = _eligible_projects_for(projects, current_year)
+    rows = score_firms(regional, projects, eligible, lambda p, c: c.get("role") == role_id)
+    ranked = len(rows) >= RANKED_LIST_MIN_FIRMS
+    if not ranked:
+        rows.sort(key=lambda r: r["firm"]["name"].lower())
+    return {
+        "slug": f"role-{role_id}-region-{region.lower()}",
+        "title": (f"Top {role_label} Firms: {region_display}" if ranked
+                  else f"{role_label} Firms: {region_display}"),
+        "ranked": ranked,
+        "rows": rows,
+        "ranking_basis": (f"Ranked by recency-weighted eligible project count, "
+                          f"{current_year - RANKED_LIST_WINDOW_YEARS}–{current_year}, "
+                          f"firms headquartered in the {region_display} "
+                          f"(US Census Bureau regions; Canada listed separately)"),
     }
 
 
@@ -565,11 +767,40 @@ def main():
                           for rid, label in sorted(vocab["roles"].items(), key=lambda kv: kv[1])]
         tag_families = [build_tech_tag_list("artificial-intelligence", "AI/Machine Learning", firms, projects, current_year)]
 
-        for fam in role_families + tag_families:
+        # Venue-type specialization -- every real type; the `other` bucket is
+        # not a buyer question and gets no list.
+        vt_families = [build_venue_type_list(vt, label, firms, projects, venues, current_year)
+                       for vt, label in sorted(vocab["venue_types"].items(), key=lambda kv: kv[1])
+                       if vt != "other"]
+
+        single_families = [
+            build_awards_list(firms, projects, current_year),
+            build_reach_list(firms, projects, venues, current_year),
+            build_annual_list(firms, projects, current_year - 1),
+        ]
+
+        # Per-role x region: only cells clearing the 8-firm bar render (a
+        # page per empty cell would be noise, not coverage); the skipped
+        # count is surfaced on the index page rather than dropped silently.
+        region_families = []
+        skipped_region_cells = 0
+        for rid, label in sorted(vocab["roles"].items(), key=lambda kv: kv[1]):
+            for region in REGION_NAMES:
+                fam = build_role_region_list(rid, label, region, firms, projects, current_year)
+                if fam["ranked"]:
+                    region_families.append(fam)
+                else:
+                    skipped_region_cells += 1
+
+        for fam in role_families + tag_families + vt_families + single_families + region_families:
             render(
                 "ranked_list.html", SITE / "lists-draft" / f"{fam['slug']}.html",
                 list_title=fam["title"], ranked=fam["ranked"], firms=fam["rows"],
                 window_start=current_year - RANKED_LIST_WINDOW_YEARS, window_end=current_year,
+                ranking_basis=fam.get("ranking_basis"),
+                methodology_note=fam.get("methodology_note"),
+                score_label=fam.get("score_label"),
+                items_label=fam.get("items_label"),
             )
             list_families.append({
                 "slug": fam["slug"], "title": fam["title"],
@@ -581,6 +812,15 @@ def main():
             families=list_families,
             ranked_count=sum(1 for f in list_families if f["ranked"]),
             roundup_count=sum(1 for f in list_families if not f["ranked"]),
+            skipped_notes=[
+                f"{skipped_region_cells} role × region cells fall below the 8-firm "
+                "minimum-depth bar and were not rendered.",
+                "Venue-type lists exclude the 'other' bucket by design.",
+                "Deferred families (data not ready): most-awarded institutions "
+                "(needs the 2013–2019 historical award sweep), platform lists "
+                "(tag coverage too sparse), small studios and woman-/minority-owned "
+                "(need certification-sourced firm fields).",
+            ],
         )
 
     # ---- robots.txt ----

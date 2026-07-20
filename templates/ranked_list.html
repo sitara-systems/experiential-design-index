@@ -12,7 +12,7 @@
 <h1>{{ list_title }}</h1>
 <p class="subtitle">
   {% if ranked %}
-  Ranked by recency-weighted eligible project count, {{ window_start }}–{{ window_end }}.
+  {{ ranking_basis or "Ranked by recency-weighted eligible project count, " ~ window_start ~ "–" ~ window_end }}.
   {{ firms | length }} firms clear the minimum-depth bar (8+) for this list.
   {% else %}
   Unranked roundup — fewer than 8 firms show eligible activity in this
@@ -20,6 +20,9 @@
   instead.
   {% endif %}
 </p>
+{% if methodology_note %}
+<p class="note">{{ methodology_note }}</p>
+{% else %}
 <p class="note">
   Score = 1.0 per eligible project completed this year or last, 0.75 for
   2–3 years ago, 0.5 for 4–5 years ago, +0.1 per independently-sourced
@@ -28,22 +31,27 @@
   Ties broken by most recent <code>status_verified</code> date. See
   <a href="{{ base }}/about.html">About</a> for the full methodology.
 </p>
+{% endif %}
 <table class="list">
   <thead>
     <tr>
-      {% if ranked %}<th>Rank</th><th>Score</th>{% endif %}
-      <th>Firm</th><th>HQ</th><th>Eligible projects</th>
+      {% if ranked %}<th>Rank</th><th>{{ score_label or "Score" }}</th>{% endif %}
+      <th>Firm</th><th>HQ</th><th>{{ items_label or "Eligible projects" }}</th>
     </tr>
   </thead>
   <tbody>
   {% for row in firms %}
     <tr>
-      {% if ranked %}<td>{{ loop.index }}</td><td>{{ "%.1f"|format(row.score) }}</td>{% endif %}
+      {% if ranked %}<td>{{ loop.index }}</td><td>{{ row.score_display if row.score_display else "%.1f"|format(row.score) }}</td>{% endif %}
       <td><a href="{{ base }}/firms/{{ row.firm.id }}.html">{{ row.firm.name }}</a></td>
-      <td>{{ row.firm.hq.city }}, {{ row.firm.hq.state }}</td>
+      <td>{{ row.firm.hq.city }}, {{ row.firm.hq.state or row.firm.hq.province or row.firm.hq.country }}</td>
       <td>
         {% for ep in row.eligible_projects %}
+        {% if ep.kind == 'venue' %}
+        <a href="{{ base }}/venues/{{ ep.id }}.html">{{ ep.name }}</a> ({{ ep.label }}){% if not loop.last %}, {% endif %}
+        {% else %}
         <a href="{{ base }}/projects/{{ ep.id }}.html">{{ ep.name }}</a> ({{ ep.year }}){% if not loop.last %}, {% endif %}
+        {% endif %}
         {% endfor %}
       </td>
     </tr>

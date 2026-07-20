@@ -13,6 +13,11 @@
   ranked, {{ roundup_count }} unranked roundup{{ 's' if roundup_count != 1 else '' }}
   below the 8-firm minimum-depth bar).
 </p>
+{% if skipped_notes %}
+<ul class="note">
+  {% for n in skipped_notes %}<li>{{ n }}</li>{% endfor %}
+</ul>
+{% endif %}
 <table class="list">
   <thead><tr><th>Family</th><th>Type</th><th>Firms shown</th></tr></thead>
   <tbody>
