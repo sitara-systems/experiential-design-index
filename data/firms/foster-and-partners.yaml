@@ -40,18 +40,19 @@ _comments: >
   War Museum, Narbo Via, Datong Art Museum, Lenbachhaus, MOL Campus,
   Sainsbury Centre), which trips validate.py's operating-reality warning
   (8 international vs. 3 NA credits, most recent NA credit older than
-  most recent international one). Editorial judgment call, not resolved
-  here: the research pass found F+P's NA operating reality substantial
-  and current despite this dataset's thin NA experiential-project
-  coverage — active, permanent New York and San Francisco studios
-  delivering major, recent work (270 Park Avenue/JPMorganChase HQ
-  completed 2025, Neri Oxman Studio NYC completed 2024, Transamerica
-  Pyramid renovation SF completed 2024) — none of it experiential/
-  exhibit-relevant enough to clear this index's inclusion bar, which is
-  why the NA credit count here reads thin. This looks structurally
-  different from the Tellart precedent (thin, stale, legal-shell-shaped
-  NA presence) rather than the same shape, but it hasn't been reviewed
-  against that precedent by a human. Left as `active`/NY-HQ pending that
-  review — do not silently demote or re-flag as an open question without
-  reading this note first.
+  most recent international one). Reviewed and settled 2026-07-19: kept
+  as `active`/NY-HQ, not demoted — F+P's NA operating reality is
+  substantial and current despite this dataset's thin NA
+  experiential-project coverage — active, permanent New York and San
+  Francisco studios delivering major, recent work (270 Park Avenue/
+  JPMorganChase HQ completed 2025, Neri Oxman Studio NYC completed 2024,
+  Transamerica Pyramid renovation SF completed 2024) — none of it
+  experiential/exhibit-relevant enough to clear this index's inclusion
+  bar, which is why the NA credit count here reads thin. This is
+  structurally different from the Tellart precedent (thin, stale,
+  legal-shell-shaped NA presence): here the imbalance is an artifact of
+  this index's narrow experiential-project scope, not of a weak NA
+  presence. The operating-reality warning will keep firing on every
+  validate.py run for this firm — that's expected and does not need
+  re-litigating; this note is the settled answer.
 

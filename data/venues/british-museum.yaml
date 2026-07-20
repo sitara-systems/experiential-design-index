@@ -1,0 +1,10 @@
+id: british-museum
+name: British Museum
+venue_type: history-museum
+location:
+  city: London
+  country: GB
+website: https://www.britishmuseum.org
+sources:
+  - https://raai.com/project/world-of-stonehenge
+  - https://raai.com/project/troy-myth-and-reality
