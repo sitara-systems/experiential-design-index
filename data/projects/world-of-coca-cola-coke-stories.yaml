@@ -32,13 +32,7 @@ summary: >
   World of Coca-Cola in Atlanta; concept design by Korins Studio, with
   AV integration by Electrosonic and production management by Solomon
   Group.
-description: >
-  Credited team also includes CBRE and CA South in construction/project
-  management roles not covered by the roles vocabulary; omitted per
-  editorial policy. A Gensler architecture credit was previously listed
-  here but removed 2026-07-19: no independent source ties Gensler to this
-  specific gallery, and Gensler's own sourced Coca-Cola work is a separate,
-  unrelated HQ-campus engagement.
+description: ""
 sources:
   - https://solomongroup.com/projects/world-of-coca-cola-coke-stories
   - https://www.worldofcoca-cola.com/about-us/press-center/media-alert/introducing-new-coca-cola-stories-experience
@@ -49,4 +43,10 @@ _comments: >
   Media'), which covers the scope but never names the AI work itself, and
   inferential credit-line attribution is insufficient for credit-level
   technology tags (see docs/sources.md). Project keeps its AI tag; re-tag
-  the credit if a source naming the AI deliverer appears.
+  the credit if a source naming the AI deliverer appears. Credited team
+  also includes CBRE and CA South in construction/project management
+  roles not covered by the roles vocabulary; omitted per editorial
+  policy. A Gensler architecture credit was previously listed here but
+  removed 2026-07-19: no independent source ties Gensler to this
+  specific gallery, and Gensler's own sourced Coca-Cola work is a
+  separate, unrelated HQ-campus engagement.
