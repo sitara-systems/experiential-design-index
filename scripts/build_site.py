@@ -372,14 +372,27 @@ def build_tech_tag_list(tag_id, tag_label, firms, projects, current_year):
     }
 
 
+# Venue-type lists count design-discipline credits only (editorial ruling
+# 2026-07-19): the buyer question is "who can design my [venue type]
+# experience," so execution/systems roles don't place a firm on the list.
+VENUE_TYPE_LIST_ROLES = {
+    "exhibit-design", "interpretive-planning", "media-design", "architecture",
+    "master-planning", "landscape-architecture", "graphics-wayfinding",
+    "lighting-design",
+}
+
+
 def build_venue_type_list(vt_id, vt_label, firms, projects, venues, current_year):
     # Venue-type specialization ("who does natural history museums") -- the
     # standard formula, filtered by the venue's type instead of the credit's
-    # role. Any credited role counts: the buyer question is about experience
-    # with the venue type, not one slice of the delivery stack.
+    # role. Counts only design-discipline credits held in a role the firm
+    # offers standalone (its record roles) -- fabrication/AV/consulting
+    # credits, and credits in accreted non-identity roles, don't count.
     eligible = _eligible_projects_for(projects, current_year)
     rows = score_firms(firms, projects, eligible,
-                       lambda p, c: (venues.get(p.get("venue")) or {}).get("venue_type") == vt_id)
+                       lambda p, c: ((venues.get(p.get("venue")) or {}).get("venue_type") == vt_id
+                                     and c.get("role") in VENUE_TYPE_LIST_ROLES
+                                     and c.get("role") in ((firms.get(c.get("firm")) or {}).get("roles") or [])))
     ranked, top, also = split_rows(rows)
     return {
         "slug": f"venue-type-{vt_id}",
@@ -391,6 +404,15 @@ def build_venue_type_list(vt_id, vt_label, firms, projects, venues, current_year
         "ranking_basis": (f"Ranked by recency-weighted eligible project count at "
                           f"{vt_label.lower()} venues, {current_year - RANKED_LIST_WINDOW_YEARS}"
                           f"–{current_year}"),
+        "methodology_note": ("Counts design-discipline credits only -- exhibit "
+                             "design, interpretive planning, media design, "
+                             "architecture, master planning, landscape "
+                             "architecture, environmental graphics, lighting "
+                             "design -- held in a role the firm offers as a "
+                             "standalone service. Fabrication, AV integration, "
+                             "and consulting credits appear on project pages "
+                             "but don't place a firm on this list. Standard "
+                             "recency weighting and sourcing bonus apply."),
     }
 
 
