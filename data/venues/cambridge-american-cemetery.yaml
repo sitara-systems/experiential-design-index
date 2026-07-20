@@ -1,0 +1,9 @@
+id: cambridge-american-cemetery
+name: Cambridge American Cemetery
+venue_type: history-museum
+location:
+  city: Cambridge
+  country: GB
+operator: American Battle Monuments Commission
+sources:
+  - https://color-ad.com/index.php/project/abmc-cambridge-american-cemetery/

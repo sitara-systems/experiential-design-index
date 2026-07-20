@@ -1,0 +1,10 @@
+id: us-embassy-paramaribo
+name: U.S. Embassy Compound Paramaribo
+venue_type: other
+location:
+  city: Paramaribo
+  country: SR
+operator: U.S. Department of State, Bureau of Overseas Buildings Operations
+sources:
+  - https://www.zgf.com/project/usdos-bureau-of-overseas-buildings-operations-u-s-embassy-compound-paramaribo-suriname/
+  - https://www.state.gov/overseas-buildings-operations/zgf-architects-2/

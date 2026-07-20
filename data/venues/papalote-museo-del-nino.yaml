@@ -1,0 +1,8 @@
+id: papalote-museo-del-nino
+name: Papalote Museo del Niño
+venue_type: childrens-museum
+location:
+  city: Mexico City
+  country: MX
+sources:
+  - https://gyroscopeinc.com/projects

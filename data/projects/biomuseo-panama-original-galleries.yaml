@@ -15,6 +15,8 @@ credits:
     note: "Original exhibition concept design; no firm record yet."
   - firm: kubik-maltbie
     role: fabrication
+  - firm: lightswitch
+    role: lighting-design
 technologies:
   - projection mapping
   - immersive environment
@@ -30,3 +32,4 @@ sources:
   - https://www.electrosonic.com/projects/biomuseo
   - https://museumsandheritage.com/advisor/posts/unique-biomuseo-tells-story-of-biodiversity-in-panama-with-design-and-tech/
   - https://en.wikipedia.org/wiki/Biomuseo
+  - https://www.lightswitch.net/portfolio/architecture
