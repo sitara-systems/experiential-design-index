@@ -1,0 +1,9 @@
+id: mesa-city-hall
+name: Mesa City Hall
+venue_type: public-space
+location:
+  city: Mesa
+  state: AZ
+operator: City of Mesa
+sources:
+  - https://mesanow.org/news/public/article/3449

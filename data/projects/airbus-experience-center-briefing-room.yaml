@@ -1,0 +1,27 @@
+id: airbus-experience-center-briefing-room
+name: Airbus Experience Center Briefing Room
+venue: airbus-experience-center
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: schema
+    role: media-design
+    note: >
+      Designed and built the software for the immersive briefing room —
+      an interactive touch table driving a 30-foot curved projection
+      wall; no firm record yet
+technologies:
+  - interactive touch table
+  - curved projection wall
+summary: >
+  The Briefing Room at the Airbus Experience Center in Washington, DC, an
+  immersive presentation environment pairing an interactive touch table
+  with a 30-foot curved projection wall, was completed in 2016 with
+  software design and development by Seattle studio Schema, alongside
+  brand and environment design by Hornall Anderson.
+description: ""
+_comments: >
+  Sourced to Schema's own project page only; Hornall Anderson mentioned
+  in prose (role mapping unclear, later folded into Sid Lee).
+sources:
+  - https://www.schemadesign.com/work/airbus-experience-center/

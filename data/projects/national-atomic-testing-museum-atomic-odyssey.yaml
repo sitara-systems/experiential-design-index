@@ -1,0 +1,41 @@
+id: national-atomic-testing-museum-atomic-odyssey
+name: Atomic Odyssey
+venue: national-atomic-testing-museum
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: chick-russell-and-company
+    role: exhibit-design
+    note: "Overall concept and project management; no firm record yet"
+  - firm: beaudry-interactive
+    role: media-design
+    note: >
+      Led conceptualization and development of the four interactive
+      exhibits (Atomic Structure, Fusion, Fission, Radiation) and
+      educational infographic content.
+  - firm: the-producers-group
+    role: fabrication
+    note: "Delivery through installation; no firm record yet"
+  - firm: d-c-hibbs
+    role: fabrication
+    note: "Production design and fabrication; no firm record yet"
+  - firm: cryptic-industries
+    role: fabrication
+    note: "Production design and fabrication; no firm record yet"
+technologies:
+  - interactive exhibits
+technology_tags:
+  - interactive-installation
+summary: >
+  Atomic Odyssey, a 2,100-square-foot permanent gallery at the Atomic
+  Museum (National Atomic Testing Museum) in Las Vegas, Nevada, opened in
+  January 2025; Chick Russell & Company led concept and project
+  management, Beaudry Interactive developed the gallery's four
+  interactive exhibits, and The Producers Group, D.C. Hibbs, and Cryptic
+  Industries handled production and fabrication, with commissioned
+  lenticular artworks by Las Vegas artist James Stanford.
+description: ""
+sources:
+  - https://blooloop.com/technology/news/beaudry-interactive-atomic-museum/
+  - https://www.atomicmuseum.vegas/exhibits-at-atomic-museum-las-vegas/
+  - https://lasvegasweekly.com/ae/2025/feb/27/explore-new-exhibits-at-mob-and-atomic-museum/

@@ -1,0 +1,36 @@
+id: royal-shakespeare-company-the-plays-the-thing
+name: "The Play's the Thing"
+venue: royal-shakespeare-company
+project_type: new-exhibition
+year_completed: 2016
+credits:
+  - firm: kossmann-dejong
+    role: exhibit-design
+    note: "Amsterdam exhibition design studio; no firm record yet"
+  - firm: glowbox
+    role: media-design
+    note: >
+      Experience strategy, technical direction, Kinect-based interactive
+      software, and systems design for the "On Stage" interactive.
+  - firm: the-hub-limited
+    role: fabrication
+    note: "Fit-out, engineering, and installation; no firm record yet"
+technologies:
+  - Kinect-based gesture interaction
+technology_tags:
+  - interactive-installation
+summary: >
+  "The Play's the Thing," the Royal Shakespeare Company's first permanent
+  exhibition, opened June 21, 2016 in the Swan Wing in
+  Stratford-upon-Avon, England, designed by Kossmann.dejong with fit-out
+  by The Hub Limited; Glowbox delivered the Kinect-driven "On Stage"
+  interactive, which places visitors into staged Shakespeare scenes.
+description: ""
+_comments: >
+  Glowbox's credit rests on glowbox.io (permitted); independent sources
+  (Heritage Fund, Museums + Heritage) date the exhibition and credit
+  Kossmann.dejong and The Hub.
+sources:
+  - https://www.glowbox.io/work/on-stage/
+  - https://www.heritagefund.org.uk/news/royal-shakespeare-company-launches-plays-thing-exhibition
+  - https://museumsandheritage.com/advisor/posts/kossmann-dejong-designs-new-permanent-exhibition-celebrating-100-years-theatre-making-royal-shakespeare-company/

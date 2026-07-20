@@ -1,0 +1,40 @@
+id: downstream
+name: Downstream
+aka: []
+website: https://www.oneelevate.com
+hq:
+  city: Portland
+  state: OR
+other_offices:
+  - city: Amsterdam
+    country: NL
+roles:
+  - av-integration
+status: active
+status_basis: >
+  NetApp Executive Briefing Center, San Jose (2025); acquired by Elevate
+  in December 2025 and operating as a studio within Elevate Creative —
+  newer work (e.g. the new Nissan Stadium appointment) is publicly
+  credited to Elevate.
+status_verified: 2026-07-20
+summary: >
+  Downstream is a Portland, Oregon experiential design and audiovisual
+  firm specializing in permanent digitally augmented environments —
+  large-scale LED media environments, interactive installations, content
+  systems, and environmental branding — for sports venues, executive
+  briefing and experience centers, and corporate campuses. It was part of
+  Unispace Group from 2021 and was acquired by Elevate in December 2025.
+_comments: >
+  Role identity settled by editorial review 2026-07-20: the firm operates
+  as a full AV integration company whose media and content capability is
+  exercised within its own larger engagements, not as a standalone media
+  studio — firm roles list av-integration only; project credits record
+  the design/media scopes as sourced. Founded year deliberately omitted:
+  sources conflict (Elevate's 2025 announcement says established 1988;
+  the 2021 Unispace acquisition release describes 20+ years). Own domain
+  downstream.com now redirects to oneelevate.com; project sourcing leans
+  on unispace.com pages and independent trade press.
+sources:
+  - https://www.prnewswire.com/news-releases/unispace-acquires-global-experiential-design-firm-downstream-301393847.html
+  - https://www.oneelevate.com/article/elevate-expands-global-creative-leadership-with-strategic-acquisitions-of-downstream-and-ga
+  - https://www.businesswire.com/news/home/20150514005035/en/

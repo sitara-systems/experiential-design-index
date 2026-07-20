@@ -1,0 +1,35 @@
+id: wind-creek-chicago-southland-candelabrum
+name: The Wind Creek Candelabrum
+venue: wind-creek-chicago-southland
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: digital-ambiance
+    role: media-design
+    note: >
+      Engineering, mechanical design, CMS programming, and volumetric
+      content for the permanent volumetric-LED lobby centerpiece.
+  - firm: nelson-worldwide
+    role: architecture
+    note: "No firm record yet"
+technologies:
+  - volumetric LED display
+  - content management system
+summary: >
+  The Wind Creek Candelabrum, a permanent volumetric-LED lobby
+  centerpiece at the Wind Creek Chicago Southland casino in East Hazel
+  Crest, Illinois, opened with the casino in November 2024; Digital
+  Ambiance delivered engineering, mechanical design, CMS programming, and
+  volumetric content, with artistic direction by Pure Partners and
+  architecture by Nelson Worldwide.
+description: ""
+_comments: >
+  The 2024 completion rests on the firm's own page plus the casino's
+  independently dated November 11, 2024 opening. Pure Partners (artistic
+  direction/PM), Metro Pro (gem fabrication), and LED Pulse (volumetric
+  LED technology) omitted from credits pending clearer role mapping;
+  named here for future research.
+sources:
+  - https://digitalambiance.com/portfolio/the-wind-creek-candelabrum/
+  - https://www.prnewswire.com/news-releases/wind-creek-chicago-southland-confirms-casino-doors-open-on-nov-11-302300420.html
+  - https://nwitimes.com/news/state-regional/business/article_9dc84de6-a06a-11ef-9c8f-87c7eda4dad0.html

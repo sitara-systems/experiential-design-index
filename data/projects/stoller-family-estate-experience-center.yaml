@@ -1,0 +1,30 @@
+id: stoller-family-estate-experience-center
+name: Stoller Family Estate Experience Center
+venue: stoller-family-estate
+project_type: new-building
+year_completed: 2020
+credits:
+  - firm: downstream
+    role: media-design
+    note: >
+      Interior and technology design, LED video wall design, content and
+      software for four interactive tasting tables, and AR/VR experience
+      integration.
+  - firm: diversified
+    role: av-integration
+    note: "Technology integrator"
+technologies:
+  - LED video wall
+  - interactive tasting tables
+  - augmented reality
+platforms: []
+summary: >
+  The Stoller Family Estate Experience Center, a public winery guest
+  experience space in Oregon's Dundee Hills, opened in summer 2020 with
+  interior and technology design, LED video wall, and interactive
+  tasting-table software by Downstream and technology integration by
+  Diversified.
+description: ""
+sources:
+  - https://www.svconline.com/the-wire/case-studies/planar-led-video-wall-creates-immersive-guest-experience-at-stoller-family-estate
+  - https://www.planar.com/case-studies/

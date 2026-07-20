@@ -1,0 +1,35 @@
+id: the-franklin-institute-wondrous-space
+name: Wondrous Space
+venue: the-franklin-institute
+project_type: new-exhibition
+year_completed: 2023
+credits:
+  - firm: mdsx
+    role: media-design
+    note: "MDSX Creative — lead experience design, media, and creative management; no firm record yet"
+  - firm: beaudry-interactive
+    role: media-design
+    note: >
+      Consultation, design refinement, programming and development, and
+      software installation for five second-floor interactives (Gravity
+      Well, In Orbit of You, Asteroid Impact, Space Primer, EM Waves).
+technologies:
+  - interactive exhibits
+  - real-time software
+summary: >
+  Wondrous Space, an $8.5 million two-floor space-science exhibition at
+  The Franklin Institute in Philadelphia, opened November 4, 2023, with
+  experience design led by MDSX Creative and second-floor interactive
+  exhibits developed by Beaudry Interactive, supported by a funding gift
+  from Boeing.
+description: ""
+_comments: >
+  Beaudry's credit is sourced to its own project post and firm-supplied
+  blooloop directory profile; independent press (blooloop in-depth, WHYY,
+  Technical.ly) credits MDSX only. Firm-portfolio sourcing meets the
+  public-sourcing bar; noted as not independently corroborated.
+sources:
+  - https://blooloop.com/museum/in-depth/wondrous-space-franklin-mdsx/
+  - https://fi.edu/en/exhibits-and-experiences/wondrous-space
+  - https://www.binteractive.com/post/wondrous-space
+  - https://whyy.org/articles/franklin-institute-wondrous-space-exhibition-opening/

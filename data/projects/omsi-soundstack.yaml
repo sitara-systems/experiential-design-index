@@ -8,7 +8,7 @@ credits:
     role: exhibit-design
   - firm: glowbox
     role: media-design
-    note: "Hardware specification, systems design, and software development; no firm record yet"
+    note: "Hardware specification, systems design, and software development"
 technologies:
   - custom MIDI instrument
   - 25-channel audio system

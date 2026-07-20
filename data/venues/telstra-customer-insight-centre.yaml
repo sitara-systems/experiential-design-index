@@ -1,0 +1,10 @@
+id: telstra-customer-insight-centre
+name: Telstra Customer Insight Centre
+venue_type: briefing-center
+location:
+  city: Sydney
+  country: AU
+operator: Telstra
+website: https://www.telstra.com.au/business-enterprise/about-enterprise/innovation/customer-insights-centre
+sources:
+  - https://www.businesswire.com/news/home/20150514005035/en/

@@ -1,0 +1,28 @@
+id: omsi-animationland
+name: Animationland
+venue: omsi
+project_type: traveling-exhibition
+year_completed: 2019
+credits:
+  - firm: omsi-creative-services
+    role: exhibit-design
+  - firm: omsi-creative-services
+    role: fabrication
+  - firm: jolby
+    role: content-production
+    note: >
+      Portland studio — strategy, branding, characters, animation, and
+      illustration; no firm record yet
+technologies:
+  - animation interactives
+summary: >
+  Animationland, a traveling exhibition about the craft of animation
+  developed and produced by OMSI, debuted at the Oregon Museum of Science
+  and Industry in Portland, Oregon in 2019, with strategy, branding,
+  characters, and animation by Portland studio Jolby; the exhibition
+  continues to tour, opening at the National Children's Museum in
+  Washington, DC in January 2025.
+description: ""
+sources:
+  - https://jolby.com/project/animationland/
+  - https://nationalchildrensmuseum.org/about/press/animationland-opens-at-national-childrens-museum

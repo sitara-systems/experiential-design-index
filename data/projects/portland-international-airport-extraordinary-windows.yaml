@@ -1,0 +1,51 @@
+id: portland-international-airport-extraordinary-windows
+name: Extraordinary Windows
+venue: portland-international-airport
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: dotdotdash
+    role: media-design
+    note: >
+      Experience concept, art and creative direction, Unreal Engine
+      real-time development, custom CMS, and environmental/airport data
+      integration for the twin 123-foot LED walls.
+  - firm: half-sister-studio
+    role: content-production
+    note: "Co-creative and executive production; no firm record yet"
+  - firm: smart-monkeys
+    role: av-integration
+    note: "Show-control integration (ISAAC); no firm record yet"
+  - firm: zgf-architects
+    role: architecture
+    note: "Main terminal architect"
+technologies:
+  - real-time generative LED environments
+  - live weather and airport data feeds
+  - Planar LED walls
+technology_tags:
+  - real-time
+  - immersive-environment
+platforms:
+  - unreal-engine
+  - pixera
+summary: >
+  Extraordinary Windows, a permanent real-time generative media
+  installation of twin 123-foot-wide LED walls above the security
+  checkpoints of Portland International Airport's new main terminal in
+  Portland, Oregon, opened with the terminal on August 14, 2024; created
+  by dotdotdash with Half Sister Studio, its six Pacific Northwest
+  landscape scenes run in Unreal Engine and respond to live weather,
+  astronomical, and passenger-traffic data, within ZGF Architects' mass
+  timber terminal.
+description: ""
+_comments: >
+  Credit-level real-time tag supported by the Unreal Engine live-data
+  pipeline documented by the Port of Portland and AV Stumpfl. Rotating
+  guest artists (Ivan McClellan, Rebecca Méndez, Brad Johnson) are
+  individuals, not credited firms.
+sources:
+  - https://www.pdxnext.com/Stories/video-wall-creators
+  - https://avstumpfl.com/en/showcase/adapting-to-time-and-space/
+  - https://invidis.com/sixteen-nine/2024/08/15/the-stunning-timber-filled-portland-airport-modernization-includes-twin-123-foot-wide-led-walls-above-tsa-checkpoints/
+  - https://dotdotdash.com/work/port-of-portland

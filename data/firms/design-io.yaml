@@ -1,0 +1,37 @@
+id: design-io
+name: Design I/O
+aka:
+  - Design I/O LLC
+website: https://www.design-io.com
+hq:
+  city: Petaluma
+  state: CA
+other_offices:
+  - city: Brooklyn
+    state: NY
+founded: 2010
+roles:
+  - media-design
+status: unclear
+status_basis: >
+  Website live and maintained with current office addresses (2026);
+  newest dated project evidence is the Connections Wall at The Tech
+  Interactive (November 2021); no dated public activity found 2023-2026.
+  Cooper Hewitt National Design Award for Digital Design, 2020.
+status_verified: 2026-07-20
+summary: >
+  Design I/O is an interactive installation studio founded in 2010 by
+  Emily Gobeille and Theodore Watson, based in Petaluma, California and
+  Brooklyn, New York, creating immersive, gesture- and movement-driven
+  interactive installations for museums, science centers, and public
+  spaces, with deep roots in the openFrameworks creative-coding
+  community. It won the Cooper Hewitt National Design Award for Digital
+  Design in 2020.
+_comments: >
+  HQ per the firm's own About page (Petaluma listed first); the Cambridge,
+  MA identity in older sources is historical. Status recorded unclear on
+  the evidence standard despite the live site — revisit if any dated
+  2023+ activity surfaces.
+sources:
+  - https://www.design-io.com/about
+  - https://www.cooperhewitt.org/national-design-awards/2020-national-design-awards-winners/

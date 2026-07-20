@@ -1,0 +1,9 @@
+id: university-of-oregon-portland
+name: University of Oregon Portland (Lundquist College of Business)
+venue_type: academic-institution
+location:
+  city: Portland
+  state: OR
+operator: University of Oregon
+sources:
+  - https://www.glowbox.io/work/illuminated-forest/

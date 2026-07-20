@@ -1,0 +1,38 @@
+id: omsi-alegremente-happy-brain
+name: "AlegreMENTE: Celebrando Conexiones Tempranas | Happy Brain: Celebrating Early Connections"
+venue: omsi
+project_type: traveling-exhibition
+year_completed: 2021
+credits:
+  - firm: omsi-creative-services
+    role: exhibit-design
+  - firm: omsi-creative-services
+    role: fabrication
+  - firm: glowbox
+    role: media-design
+    note: >
+      "Everybody Dance Now" interactive within the exhibition — motion
+      driven dance-along experience.
+technologies:
+  - bilingual interactive exhibits
+  - motion-sensing interactive
+technology_tags:
+  - interactive-installation
+summary: >
+  AlegreMENTE | Happy Brain, a bilingual Spanish-English traveling
+  exhibition about early childhood brain development created by OMSI's
+  design and fabrication teams under an NIH SEPA grant, premiered at the
+  Oregon Museum of Science and Industry in Portland, Oregon on September
+  14, 2021 before beginning its national tour; Glowbox created the
+  "Everybody Dance Now" motion-driven interactive within it.
+description: ""
+_comments: >
+  Anchored on the OMSI debut per the traveling-exhibition precedent. The
+  September 14, 2021 premiere date is sourced to glowbox.io; OMSI's own
+  one-sheet documents the exhibition and tour but not the debut date.
+  Credit-level interactive-installation tag on Glowbox's credit is
+  supported by its page's description of the motion-sensing experience.
+sources:
+  - https://www.glowbox.io/work/everybody-dance-now/
+  - https://omsi.edu/for-museum-professionals/alegremente-happy-brain/
+  - https://omsi.edu/wp-content/uploads/2022/11/One-sheet_AlegreMENTE-11.14.22.pdf

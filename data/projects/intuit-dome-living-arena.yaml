@@ -1,0 +1,29 @@
+id: intuit-dome-living-arena
+name: Living Arena
+venue: intuit-dome
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: refik-anadol-studio
+    role: media-design
+    technology_tags:
+      - artificial-intelligence
+    note: >
+      Permanent commissioned AI data painting on a 40-by-70-foot LED
+      surface, generated from live venue, weather, and flight data.
+technologies:
+  - AI-generated media
+  - large-format LED display
+  - live data feeds
+technology_tags:
+  - artificial-intelligence
+summary: >
+  Living Arena, a permanent media artwork by Refik Anadol Studio at Intuit
+  Dome in Inglewood, California, opened with the arena in August 2024; the
+  40-by-70-foot LED work generates imagery from live venue, weather, and
+  flight data.
+description: ""
+sources:
+  - https://www.intuitdome.com/about/public-art/refik-anadol
+  - https://news.artnet.com/art-world/la-clippers-stadium-art-2518783
+  - https://www.archpaper.com/2024/07/six-installations-los-angeles-intuit-dome/

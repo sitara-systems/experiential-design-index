@@ -6,6 +6,11 @@ year_completed: 2015
 credits:
   - firm: the-hettema-group
     role: exhibit-design
+  - firm: mousetrappe
+    role: content-production
+    note: >
+      "Voices of the Building" pre-show and elevator media (2015), per
+      trade coverage of the firm's project history.
   - firm: electrosonic
     role: av-integration
     note: Facility-wide video, control, projection mapping, and LED wall systems across a 120,000 sq ft facility
@@ -19,5 +24,6 @@ summary: >
   projection-mapping systems.
 description: ""
 sources:
+  - https://blooloop.com/theme-park/in-depth/mousetrappe-media-innovation/
   - https://www.prnewswire.com/news-releases/one-world-observatory-announces-friday-may-29-opening-date-300062077.html
   - https://www.electrosonic.com/projects/one-world-observatory

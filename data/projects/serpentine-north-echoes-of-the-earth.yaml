@@ -1,0 +1,27 @@
+id: serpentine-north-echoes-of-the-earth
+name: "Echoes of the Earth: Living Archive"
+venue: serpentine-north
+project_type: temporary-exhibition
+year_completed: 2024
+credits:
+  - firm: refik-anadol-studio
+    role: media-design
+    technology_tags:
+      - artificial-intelligence
+    note: >
+      AI-generated immersive media works built on a generative model
+      trained on ecological and rainforest data.
+technologies:
+  - machine-learning generative media
+  - immersive projection
+technology_tags:
+  - artificial-intelligence
+summary: >
+  "Echoes of the Earth: Living Archive," a temporary exhibition by Refik
+  Anadol Studio at Serpentine North in London, ran from February 16 to
+  April 7, 2024, presenting AI-generated media works trained on
+  ecological data.
+description: ""
+sources:
+  - https://www.serpentinegalleries.org/whats-on/refik-anadol-echoes-of-the-earth-living-archive/
+  - https://www.theartnewspaper.com/2024/04/05/on-process-refik-anadol-seeks-to-demystify-ai-art-by-showing-how-it-is-put-together

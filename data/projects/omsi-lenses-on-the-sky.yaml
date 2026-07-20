@@ -1,23 +1,41 @@
 id: omsi-lenses-on-the-sky
 name: Lenses on the Sky
 venue: omsi
-project_type: temporary-exhibition
-year_completed: 2024
+project_type: installation
+year_completed: 2017
 credits:
   - firm: plus-and-greater-than
     role: exhibit-design
   - firm: skylab-architecture
     role: architecture
-  - firm: glowbox
-    role: media-design
-    note: "No firm record yet"
-technologies: []
+    note: "Pendant design, with the design team"
+technologies:
+  - rear-projection stop-motion animation
+  - analog optical interpretives
+recognition:
+  - award: "SEGD Global Design Awards — Merit Award"
+    year: 2019
+    source: https://segd.org/projects/lenses-sky/
 summary: >
-  Lenses on the Sky, an exhibition pairing space science with cultural
-  perspectives on astronomy curated with the Confederated Tribes of the
-  Grand Ronde and other cultural contributors, opened at the Oregon Museum
-  of Science and Industry in Portland, Oregon in 2024, produced in
-  collaboration with NASA and designed by Plus And Greater Than.
+  Lenses on the Sky, a permanent environmental installation outside the
+  renovated Kendall Planetarium at the Oregon Museum of Science and
+  Industry in Portland, Oregon, was installed with the planetarium's
+  November 2017 reopening; five cedar-wrapped vessels pair analog sky
+  interpretations with stop-motion animations of star stories from
+  Shasta, Namaqua Khoikhoi, and Maya cultures, designed by Plus And
+  Greater Than, developed with content advisors including the
+  Confederated Tribes of Grand Ronde, and funded through a NASA grant.
 description: ""
+_comments: >
+  Corrected 2026-07-20: a prior version dated this 2024 with a source URL
+  that pointed at a different project (Building Stories) — the 2024 date
+  was unsourced. Completion year 2017 rests on KATU's Nov 8, 2017
+  planetarium-reopening article documenting the newly installed
+  multicultural sky exhibits at the planetarium; SEGD (2019 Merit) calls
+  the installation permanent and lists the design team. A Glowbox firm
+  credit was removed: SEGD credits Thomas Wester (a Glowbox principal) as
+  an individual for technical direction, and no public source credits the
+  firm — inferring the firm from the individual fails the sourcing bar.
 sources:
-  - https://www.plusandgreaterthan.com/projects/building-stories-pxdre
+  - https://segd.org/projects/lenses-sky/
+  - https://katu.com/news/local/omsis-updated-planetarium-offers-new-and-diverse-views-of-space

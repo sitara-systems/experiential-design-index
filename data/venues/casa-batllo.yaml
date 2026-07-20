@@ -1,0 +1,13 @@
+id: casa-batllo
+name: Casa Batlló
+venue_type: other
+location:
+  city: Barcelona
+  country: ES
+website: https://www.casabatllo.es
+sources:
+  - https://contemporary.casabatllo.es/en/mapping/living-architecture/
+_comments: >
+  Antoni Gaudí-designed heritage house museum operating as a ticketed
+  visitor attraction. Typed `other` — historic house museums are a flagged
+  recurring venue-type gap (3+ occurrences), pending a vocab review.

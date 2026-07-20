@@ -1,0 +1,10 @@
+id: fenton
+name: Fenton
+venue_type: public-space
+location:
+  city: Cary
+  state: NC
+operator: Hines
+website: https://fentonnc.com
+sources:
+  - https://www.hines.com/properties/fenton-cary

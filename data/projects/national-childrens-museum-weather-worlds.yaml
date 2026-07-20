@@ -1,0 +1,34 @@
+id: national-childrens-museum-weather-worlds
+name: Weather Worlds
+venue: national-childrens-museum
+project_type: installation
+year_completed: 2020
+credits:
+  - firm: design-io
+    role: media-design
+    note: >
+      Creator of the gesture-driven interactive installation, presented
+      in the museum's Innovation Sandbox space since its 2020 reopening.
+technologies:
+  - gesture-driven green-screen interactive
+technology_tags:
+  - interactive-installation
+summary: >
+  Weather Worlds, a gesture-driven interactive installation by Design I/O
+  that lets visitors command weather effects, opened with the National
+  Children's Museum's new downtown Washington, DC facility in February
+  2020 in the museum's Innovation Sandbox space, where it remains on
+  view.
+description: ""
+_comments: >
+  Templated-program evidence reported, not decided against: the work had
+  earlier temporary presentations (La Gaité Lyrique, TIFF Kids). The DC
+  installation is a persistent single-venue placement contracted by the
+  museum (2018 per the Association of Children's Museums article), unlike
+  those festival showings — recorded under the distinct-installation
+  reading. Flag if editorial review prefers the repeated-program
+  exclusion.
+sources:
+  - https://childrensmuseums.org/2020/12/07/climate-action-heroes-new-museum-uses-small-exhibit-to-create-broad-digital-experiences/
+  - https://nationalchildrensmuseum.org/explore/exhibits/weather-worlds
+  - https://www.design-io.com/projects/weatherworlds

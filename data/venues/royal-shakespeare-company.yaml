@@ -1,0 +1,10 @@
+id: royal-shakespeare-company
+name: Royal Shakespeare Company (Swan Wing)
+venue_type: cultural-center
+location:
+  city: Stratford-upon-Avon
+  country: GB
+operator: Royal Shakespeare Company
+website: https://www.rsc.org.uk
+sources:
+  - https://www.heritagefund.org.uk/news/royal-shakespeare-company-launches-plays-thing-exhibition

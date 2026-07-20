@@ -1,0 +1,9 @@
+id: area15
+name: AREA15
+venue_type: themed-attraction
+location:
+  city: Las Vegas
+  state: NV
+website: https://area15.com
+sources:
+  - https://area15.com/art-exhibitions/

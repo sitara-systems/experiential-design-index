@@ -1,0 +1,22 @@
+id: netapp-executive-briefing-center-core
+name: NetApp Executive Briefing Center
+venue: netapp-executive-briefing-center
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: downstream
+    role: media-design
+    note: "Experience design, credited as \"Downstream (now part of Elevate)\""
+  - firm: ia-interior-architects
+    role: architecture
+    note: "Design architect"
+technologies:
+  - interactive media environments
+summary: >
+  The NetApp Executive Briefing Center, a 10,000-square-foot
+  customer-facing briefing facility at Santana Row in San Jose,
+  California, was completed in 2025, with experience design by Downstream
+  and architecture by IA Interior Architects.
+description: ""
+sources:
+  - https://officesnapshots.com/2025/11/03/netapp-executive-briefing-center-san-jose/

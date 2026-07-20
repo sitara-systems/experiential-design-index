@@ -1,0 +1,26 @@
+id: city-of-hope-museum-core-exhibits
+name: City of Hope Museum
+venue: city-of-hope-museum
+project_type: new-exhibition
+year_completed: 2018
+credits:
+  - firm: gallagher-and-associates
+    role: exhibit-design
+  - firm: stimulant
+    role: media-design
+    note: >
+      Three touchscreen interactives and an LED "wishing tree" light
+      mesh.
+technologies:
+  - touchscreen interactives
+  - LED light mesh
+summary: >
+  The Anthony F. Markel Family City of Hope Museum, documenting more than
+  a century of medical research and treatment at the City of Hope campus
+  in Duarte, California, opened in July 2018 with exhibit design by
+  Gallagher & Associates and interactive media by Stimulant.
+description: ""
+sources:
+  - https://www.businesswire.com/news/home/20180723005699/en/New-Museum-at-City-of-Hope-Documents-More-Than-a-Century-of-Medical-Breakthroughs
+  - https://gallagherdesign.com/projects/the-city-of-hope-museum/
+  - https://www.stimulant.com/work/city-of-hope-museum

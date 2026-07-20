@@ -1,0 +1,13 @@
+id: portland-international-airport
+name: Portland International Airport (PDX)
+venue_type: other
+location:
+  city: Portland
+  state: OR
+operator: Port of Portland
+website: https://www.flypdx.com
+sources:
+  - https://www.portofportland.com/Newsroom/the-local-est-airport-yet-the-new-pdx-starts-opening-aug-14
+_comments: >
+  Typed `other` — airports/transit are a flagged recurring venue-type gap
+  pending a vocab review.

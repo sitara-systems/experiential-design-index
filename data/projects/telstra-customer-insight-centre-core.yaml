@@ -1,0 +1,25 @@
+id: telstra-customer-insight-centre-core
+name: Telstra Customer Insight Centre
+venue: telstra-customer-insight-centre
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: downstream
+    role: media-design
+    note: >
+      Design firm for the digital connection zones and curved LED
+      environments (Insight Ring).
+technologies:
+  - curved LED environments
+platforms:
+  - nanolumens
+summary: >
+  The Telstra Customer Insight Centre, a 3,600-square-meter customer
+  briefing facility at Telstra's Sydney headquarters with a 300-seat
+  theatre, opened in 2015; Portland-based Downstream designed its digital
+  connection zones and curved LED environments, built on NanoLumens
+  displays.
+description: ""
+sources:
+  - https://www.businesswire.com/news/home/20150514005035/en/
+  - https://mumbrella.com.au/telstra-opens-new-sydney-customer-insights-centre-looks-cement-future-facing-credentials-276907

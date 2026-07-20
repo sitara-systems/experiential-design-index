@@ -1,0 +1,32 @@
+id: university-of-oregon-portland-illuminated-forest
+name: Illuminated Forest
+venue: university-of-oregon-portland
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: glowbox
+    role: media-design
+    note: >
+      Concept design, interaction and motion design, hardware
+      specification, systems design, software engineering, and content
+      production for twelve LED-pixel acrylic columns.
+  - firm: superfab
+    role: fabrication
+    note: "No firm record yet"
+  - firm: zgf-architects
+    role: architecture
+technologies:
+  - LED pixel columns
+summary: >
+  Illuminated Forest, a permanent installation of more than 9,000 LED
+  pixels in twelve acrylic columns in the University of Oregon Lundquist
+  College of Business lobby in Portland, Oregon, was completed in
+  December 2016 by Glowbox with design collaborator Sockeye, fabrication
+  by Superfab, and architecture by ZGF Architects.
+description: ""
+_comments: >
+  Credits rest on glowbox.io (permitted); no independent credit page
+  found. Sockeye (design collaborator) named in prose only — role
+  mapping unclear.
+sources:
+  - https://www.glowbox.io/work/illuminated-forest/

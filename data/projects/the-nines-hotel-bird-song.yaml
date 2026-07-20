@@ -1,0 +1,31 @@
+id: the-nines-hotel-bird-song
+name: Bird Song
+venue: the-nines-hotel
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: dotdotdash
+    role: media-design
+    note: >
+      LED engineering, proprietary control software, generative
+      soundscape programming, and control app for the sound-reactive
+      glass-and-LED sculpture; artwork concept by artist Melody Owen
+      (individual).
+technologies:
+  - addressable LED sculpture
+  - generative audio
+summary: >
+  Bird Song, a permanent sound-reactive installation in the eighth-floor
+  atrium of The Nines hotel in Portland, Oregon, was completed in 2016;
+  dotdotdash added more than 13,000 addressable LEDs, generative Pacific
+  Northwest bird-call soundscapes, and control software to artist Melody
+  Owen's eleven-strand glass sculpture.
+description: ""
+_comments: >
+  BEATROX credits itself with concept development and technical
+  implementation on its own page, listing dotdotdash as partner — role
+  mapping unclear, mentioned here rather than credited.
+sources:
+  - https://interiordesign.net/designwire/dotdotdash-adds-led-glass-sculpture-to-nines-hotel/
+  - https://www.thenines.com/art/
+  - https://www.beatrox.com/bird-song-generative-lighting-installation

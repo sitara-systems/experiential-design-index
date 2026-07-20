@@ -1,0 +1,43 @@
+id: omsi-creative-services
+name: OMSI Creative Services
+aka:
+  - OMSI Exhibit Shop
+  - OMSI Exhibits
+website: https://omsi.edu/creative-services/
+hq:
+  city: Portland
+  state: OR
+other_offices: []
+roles:
+  - exhibit-design
+  - fabrication
+status: active
+status_basis: >
+  Live commissionable design-build and consulting service pages; Wild
+  Creativity developed and produced 2023; Animationland opened at the
+  National Children's Museum January 2025 on its ongoing tour; six-exhibit
+  traveling rental roster currently offered.
+status_verified: 2026-07-20
+summary: >
+  OMSI Creative Services is the exhibit design and fabrication studio of
+  the Oregon Museum of Science and Industry in Portland, Oregon,
+  operating one of the largest museum-based production shops in North
+  America for more than 35 years. It develops, designs, and fabricates
+  traveling exhibitions that debut at OMSI and tour internationally, and
+  offers design-build and consulting services to outside institutions.
+_comments: >
+  Precedent note (editorial review 2026-07-20): this is a division of a
+  nonprofit museum — the venue `omsi` in this dataset — recorded as a
+  firm because it publicly offers commissionable design-build services to
+  outside clients. Distinguished from the Disney/Universal in-house-unit
+  exclusion, which covers units that are not engageable. The
+  commissioned-work practice is long-standing (independent 2014 coverage
+  documents nationwide client work); no publicly named outside-client
+  commission with venue + year has been sourced yet — a follow-up target.
+  Founded year omitted (shop described as "more than 35 years" old; no
+  stated year).
+sources:
+  - https://omsi.edu/creative-services/
+  - https://omsi.edu/for-museum-professionals/
+  - https://omsi.edu/articles/behind-the-scenes-at-the-omsi-exhibit-shop/
+  - https://www.pdxmonthly.com/news-and-city-life/2014/10/the-mad-science-behind-omsis-greatest-exhibits-october-2014

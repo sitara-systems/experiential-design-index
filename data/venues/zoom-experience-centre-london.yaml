@@ -1,0 +1,9 @@
+id: zoom-experience-centre-london
+name: Zoom Experience Centre & Engagement Hub
+venue_type: briefing-center
+location:
+  city: London
+  country: GB
+operator: Zoom
+sources:
+  - https://news.zoom.com/zoom-opens-new-london-engagement-hub-setting-the-blueprint-for-fresh-era-of-modern-work/

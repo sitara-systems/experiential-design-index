@@ -1,0 +1,9 @@
+id: netapp-executive-briefing-center
+name: NetApp Executive Briefing Center
+venue_type: briefing-center
+location:
+  city: San Jose
+  state: CA
+operator: NetApp
+sources:
+  - https://officesnapshots.com/2025/11/03/netapp-executive-briefing-center-san-jose/

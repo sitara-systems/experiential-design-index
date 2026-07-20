@@ -1,0 +1,9 @@
+id: city-of-hope-museum
+name: Anthony F. Markel Family City of Hope Museum
+venue_type: healthcare-institution
+location:
+  city: Duarte
+  state: CA
+operator: City of Hope
+sources:
+  - https://www.businesswire.com/news/home/20180723005699/en/New-Museum-at-City-of-Hope-Documents-More-Than-a-Century-of-Medical-Breakthroughs

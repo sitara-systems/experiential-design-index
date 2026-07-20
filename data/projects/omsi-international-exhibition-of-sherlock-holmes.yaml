@@ -1,0 +1,30 @@
+id: omsi-international-exhibition-of-sherlock-holmes
+name: The International Exhibition of Sherlock Holmes
+venue: omsi
+project_type: traveling-exhibition
+year_completed: 2013
+credits:
+  - firm: omsi-creative-services
+    role: exhibit-design
+  - firm: omsi-creative-services
+    role: fabrication
+  - firm: exhibits-development-group
+    role: exhibit-design
+    note: "EDG — producing partner; no firm record yet"
+  - firm: geoffrey-m-curley-and-associates
+    role: exhibit-design
+    note: "No firm record yet"
+technologies:
+  - interactive investigation exhibits
+summary: >
+  The International Exhibition of Sherlock Holmes, a traveling exhibition
+  created in collaboration by the Conan Doyle Estate, Exhibits
+  Development Group, Geoffrey M. Curley + Associates, and OMSI, held its
+  world premiere at the Oregon Museum of Science and Industry in
+  Portland, Oregon on October 10, 2013, running through January 5, 2014
+  before touring nationally and internationally.
+description: ""
+sources:
+  - https://exhibitsdevelopment.com/exhibitions/the-international-exhibition-of-sherlock-holmes/
+  - https://geekdad.com/2013/10/sherlock-holmes-exhibition/
+  - https://www.pdxmonthly.com/arts-and-culture/2013/10/omsi-recreates-sherlock-holmess-hq-october-2013

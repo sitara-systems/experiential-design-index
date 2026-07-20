@@ -1,0 +1,31 @@
+id: cleveland-museum-of-art-artlens-studio
+name: ArtLens Studio (Studio Play)
+venue: cleveland-museum-of-art
+project_type: new-exhibition
+year_completed: 2016
+credits:
+  - firm: design-io
+    role: media-design
+    note: >
+      Interactive experience design and software development for the
+      family interactive gallery.
+technologies:
+  - gesture-driven interactives
+  - motion sensing
+technology_tags:
+  - interactive-installation
+recognition:
+  - award: "Museums and the Web — GLAMi Award"
+    year: 2017
+    source: https://mw17.mwconf.org/glami/artlens-studio/index.html
+summary: >
+  ArtLens Studio, the family interactive gallery at the Cleveland Museum
+  of Art in Cleveland, Ohio, opened June 16, 2016 with gesture-driven
+  interactive experiences designed and developed by Design I/O in
+  partnership with the museum; the space evolved from the museum's 2012
+  Studio Play area and was later branded Studio Play 2.0.
+description: ""
+sources:
+  - https://www.clevelandart.org/about/press/cleveland-museum-art-continues-pioneer-innovation-museum-technology
+  - https://mw17.mwconf.org/glami/artlens-studio/index.html
+  - https://www.design-io.com/projects/studioplay

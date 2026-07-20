@@ -1,0 +1,9 @@
+id: national-childrens-museum
+name: National Children's Museum
+venue_type: childrens-museum
+location:
+  city: Washington
+  state: DC
+website: https://nationalchildrensmuseum.org
+sources:
+  - https://www.washingtonpost.com/lifestyle/kidspost/national-childrens-museum-opens-in-downtown-dc/2020/02/25/11150ff4-5779-11ea-9000-f3cffee23036_story.html

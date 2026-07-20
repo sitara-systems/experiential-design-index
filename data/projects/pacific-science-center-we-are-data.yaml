@@ -1,0 +1,26 @@
+id: pacific-science-center-we-are-data
+name: We Are Data
+venue: pacific-science-center
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: schema
+    role: media-design
+    note: >
+      Designed and created the interactive data-literacy installation, in
+      which visitor answers generate data-profile visualizations
+      aggregated into a shared display; no firm record yet
+technologies:
+  - interactive data visualization
+technology_tags:
+  - interactive-installation
+summary: >
+  We Are Data, an interactive installation about personal data collection
+  at the Pacific Science Center in Seattle, Washington, was completed in
+  2019 by Seattle studio Schema; visitors' answers generate individual
+  data-profile shapes aggregated into a collective visualization.
+description: ""
+_comments: >
+  Sourced to Schema's own project page only; permanence not stated.
+sources:
+  - https://www.schemadesign.com/work/we-are-data-pacific-science-center-installation/

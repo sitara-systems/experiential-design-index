@@ -1,0 +1,28 @@
+id: academy-museum-cyberpunk-mr-experience
+name: Cyberpunk Mixed Reality Experience
+venue: academy-museum-of-motion-pictures
+project_type: temporary-exhibition
+year_completed: 2024
+credits:
+  - firm: magnopus
+    role: media-design
+    note: >
+      Lead developer of the Meta Quest 3 mixed-reality pre-show
+      experience, credited by the museum; no firm record yet
+  - firm: metastage
+    role: content-production
+    note: "Volumetric capture; no firm record yet"
+technologies:
+  - mixed reality headsets
+  - volumetric capture
+summary: >
+  The Cyberpunk Mixed Reality Experience, a headset-based installation in
+  the lobby of the Academy Museum of Motion Pictures in Los Angeles,
+  California, opened October 6, 2024 as part of the temporary exhibition
+  "Cyberpunk: Envisioning Possible Futures Through Cinema" (through April
+  2026); Magnopus led development, with volumetric capture by Metastage
+  and support from Epic Games and Alcon Interactive Group.
+description: ""
+sources:
+  - https://www.academymuseum.org/en/exhibitions/cyberpunk
+  - https://www.magnopus.com/projects/academy-museum-of-motion-pictures-cyberpunk-a-virtual-production-experience

@@ -1,0 +1,10 @@
+id: stoller-family-estate
+name: Stoller Family Estate
+venue_type: visitor-center
+location:
+  city: Dayton
+  state: OR
+operator: Stoller Wine Group
+website: https://www.stollerfamilyestate.com
+sources:
+  - https://www.svconline.com/the-wire/case-studies/planar-led-video-wall-creates-immersive-guest-experience-at-stoller-family-estate

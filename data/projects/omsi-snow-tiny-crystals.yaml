@@ -1,0 +1,31 @@
+id: omsi-snow-tiny-crystals
+name: "Snow: Tiny Crystals, Global Impact"
+venue: omsi
+project_type: traveling-exhibition
+year_completed: 2022
+credits:
+  - firm: omsi-creative-services
+    role: exhibit-design
+  - firm: omsi-creative-services
+    role: fabrication
+  - firm: goldstream-group
+    role: exhibit-design
+    note: "Fairbanks-based collaborator; no firm record yet"
+technologies:
+  - interactive exhibits
+summary: >
+  Snow: Tiny Crystals, Global Impact, an NSF-funded traveling exhibition
+  about snow science created by the University of Alaska Fairbanks
+  Geophysical Institute with OMSI, COSI, and Goldstream Group, opened
+  February 1, 2022 at the Oregon Museum of Science and Industry in
+  Portland, Oregon before touring.
+description: ""
+_comments: >
+  The independent UAF article says the exhibition "opens Feb. 1 in
+  Oregon" without naming the venue; venue = OMSI corroborated by OMSI's
+  own product page. COSI is a museum partner (Columbus science center),
+  not credited as a delivery firm.
+sources:
+  - https://www.gi.alaska.edu/news/traveling-museum-exhibit-shows-importance-snow
+  - https://omsi.edu/exhibit-products/snow/
+  - https://www.newsminer.com/features/our_town/traveling-museum-exhibit-shows-importance-of-snow/article_12e2fd70-8baa-11ec-9bb2-ef51e0f8063b.html

@@ -1,0 +1,10 @@
+id: serpentine-north
+name: Serpentine North
+venue_type: art-museum
+location:
+  city: London
+  country: GB
+operator: Serpentine Galleries
+website: https://www.serpentinegalleries.org
+sources:
+  - https://www.serpentinegalleries.org/whats-on/refik-anadol-echoes-of-the-earth-living-archive/

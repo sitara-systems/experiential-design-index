@@ -1,0 +1,27 @@
+id: charlotte-douglas-airport-interconnected
+name: Interconnected
+venue: charlotte-douglas-international-airport
+project_type: installation
+year_completed: 2018
+credits:
+  - firm: refik-anadol-studio
+    role: media-design
+    note: >
+      Permanent commissioned data artwork spanning Concourse A, generating
+      imagery from live airport and flight data.
+technologies:
+  - data-driven generative media
+  - large-format LED display
+platforms:
+  - nanolumens
+summary: >
+  Interconnected, a permanent data artwork by Refik Anadol Studio in
+  Concourse A of Charlotte Douglas International Airport in Charlotte,
+  North Carolina, debuted in 2018; commissioned through the airport's
+  public-art program, it generates imagery from live airport and flight
+  data on LED displays.
+description: ""
+sources:
+  - https://www.cltairport.com/airport-info/airport-art/art-installations-terminal/interconnected/
+  - https://www.wfae.org/arts-culture/2018-07-20/the-story-behind-interconnected-clts-new-digital-public-artwork
+  - https://ravepubs.com/nanolumens-fuses-technology-art-design-stunning-results-charlotte-douglas-international-airport/

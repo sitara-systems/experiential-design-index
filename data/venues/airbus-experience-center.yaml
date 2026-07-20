@@ -1,0 +1,9 @@
+id: airbus-experience-center
+name: Airbus Experience Center
+venue_type: briefing-center
+location:
+  city: Washington
+  state: DC
+operator: Airbus
+sources:
+  - https://www.schemadesign.com/work/airbus-experience-center/

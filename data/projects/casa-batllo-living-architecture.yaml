@@ -1,0 +1,34 @@
+id: casa-batllo-living-architecture
+name: "Living Architecture: Casa Batlló (In the Mind of Gaudí)"
+venue: casa-batllo
+project_type: installation
+year_completed: 2021
+credits:
+  - firm: refik-anadol-studio
+    role: media-design
+    technology_tags:
+      - artificial-intelligence
+    note: >
+      Permanent six-sided LED cube room within the visitor experience,
+      displaying AI-generated media drawn from Gaudí archival data.
+technologies:
+  - AI-generated media
+  - LED cube room
+technology_tags:
+  - artificial-intelligence
+summary: >
+  "Living Architecture: Casa Batlló," a permanent six-sided LED cube room
+  by Refik Anadol Studio within the Casa Batlló visitor experience in
+  Barcelona, Spain, was installed in 2021, presenting AI-generated media
+  built from Gaudí archival data.
+description: ""
+_comments: >
+  Distinct from the studio's out-of-scope one-night facade mappings at the
+  same venue (May 2022, May 2023) and the associated NFT auction — only
+  the permanent in-building LED cube is recorded. The 2021 installation
+  year rests on the studio's page plus press (Daily Sabah); the venue's
+  own contemporary page centers the later mapping events.
+sources:
+  - https://refikanadol.com/works/living-architecture-casa-batllo/
+  - https://www.dailysabah.com/arts/events/refik-anadol-turns-gaudis-casa-batllo-into-futures-heritage
+  - https://contemporary.casabatllo.es/en/mapping/living-architecture/

@@ -1,0 +1,32 @@
+id: glowbox
+name: Glowbox
+aka:
+  - Glowbox, LLC
+website: https://www.glowbox.io
+hq:
+  city: Portland
+  state: OR
+other_offices: []
+roles:
+  - media-design
+status: unclear
+status_basis: >
+  Website live but its newest independently verifiable public activity is
+  mid-2022 (GitHub organization last updated July 2022; site copyright
+  2022; no dated 2023-2026 projects or press found); Oregon LLC registry
+  listed active. No confirmed closure.
+status_verified: 2026-07-20
+summary: >
+  Glowbox is a Portland, Oregon interactive media studio — a self-described
+  "spatial interaction lab" — providing experience strategy, technical
+  direction, systems design, and custom software development (Unity,
+  openFrameworks, and web stacks) for interactive installations in museums
+  and public venues, typically as the media/software partner under a
+  separate lead designer.
+_comments: >
+  Founded year omitted: 2014 appears only in unfetchable directory
+  snippets; the only registry-grade date is the Oregon LLC registration
+  (2018). Principals Ben Purdy and Thomas Wester.
+sources:
+  - https://www.glowbox.io/about/
+  - https://www.glowbox.io/

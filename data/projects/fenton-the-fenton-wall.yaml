@@ -1,0 +1,28 @@
+id: fenton-the-fenton-wall
+name: The Fenton Wall
+venue: fenton
+project_type: installation
+year_completed: 2022
+credits:
+  - firm: digital-ambiance
+    role: media-design
+    note: >
+      Design, engineering, and TouchDesigner software development for the
+      permanent motion-responsive LED installation; lead artist Ansen
+      Seale (individual).
+technologies:
+  - motion-responsive LED installation
+technology_tags:
+  - interactive-installation
+platforms:
+  - touchdesigner
+summary: >
+  The Fenton Wall, a permanent motion-responsive LED installation in a
+  pedestrian underpass at the Fenton mixed-use district in Cary, North
+  Carolina, was completed in 2022 by Digital Ambiance with artist Ansen
+  Seale, commissioned by developer Hines.
+description: ""
+sources:
+  - https://digitalambiance.com/portfolio/the-fenton-wall/
+  - https://fentonnc.com/ansean-seale/
+  - https://www.hines.com/properties/fenton-cary

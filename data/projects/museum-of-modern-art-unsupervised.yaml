@@ -1,0 +1,27 @@
+id: museum-of-modern-art-unsupervised
+name: "Unsupervised"
+venue: museum-of-modern-art
+project_type: temporary-exhibition
+year_completed: 2022
+credits:
+  - firm: refik-anadol-studio
+    role: media-design
+    technology_tags:
+      - artificial-intelligence
+    note: >
+      AI data sculpture trained on the publicly available data of MoMA's
+      collection, displayed on a 24-foot-square LED wall in the Gund Lobby.
+technologies:
+  - machine-learning generative media
+  - large-format LED display
+technology_tags:
+  - artificial-intelligence
+summary: >
+  "Unsupervised," a temporary installation by Refik Anadol Studio at the
+  Museum of Modern Art in New York, ran from November 19, 2022 to October
+  29, 2023; the machine-learning artwork continuously generated imagery
+  from data derived from MoMA's collection.
+description: ""
+sources:
+  - https://www.moma.org/calendar/exhibitions/5535
+  - https://news.artnet.com/art-world/refik-anadol-unsupervised-moma-2242329

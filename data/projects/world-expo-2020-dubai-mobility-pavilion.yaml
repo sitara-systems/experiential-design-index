@@ -4,13 +4,31 @@ venue: world-expo-2020-dubai
 project_type: installation
 year_completed: 2021
 credits:
+  - firm: foster-and-partners
+    role: architecture
+  - firm: weta-workshop
+    role: exhibit-design
+    note: >
+      Designed and developed the visitor experience across 11 exhibition
+      zones, with the Expo 2020 Dubai team; New Zealand-based, no firm
+      record under North America scope
+  - firm: magnopus
+    role: media-design
+    note: >
+      Co-designed and developed the visitor experience alongside Weta
+      Workshop, per Weta Workshop's own project page; no firm record yet
   - firm: electrosonic
     role: av-integration
 technologies:
   - large-format AV
 summary: >
   Alif, the Mobility thematic pavilion at World Expo 2020 in Dubai, opened
-  October 2021, with AV integration by Electrosonic.
+  October 2021 and was retained as a permanent attraction at Expo City
+  Dubai; architecture by Foster + Partners, visitor experience designed
+  and developed by Weta Workshop with Magnopus, AV integration by
+  Electrosonic, and development and integration support by MET Studio.
 description: ""
 sources:
+  - https://www.wetaworkshop.com/projects-in-depth/expo-2020-dubai/
+  - https://blooloop.com/alif-pavilion-weta-workshop/
   - https://www.electrosonic.com/projects

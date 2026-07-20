@@ -6,7 +6,7 @@ year_completed: 2015
 credits:
   - firm: design-io
     role: media-design
-    note: "Lead creative studio — conception, design, development; no firm record yet"
+    note: "Lead creative studio — conception, design, development"
   - firm: big-show-consulting-and-management
     role: fabrication
     note: >
@@ -14,6 +14,12 @@ credits:
       supervised construction/installation, engineered the projection and
       audio system, devised the modular projection floor surface, handled
       A/V, control systems, and automation; no firm record yet
+  - firm: moey
+    role: fabrication
+    note: >
+      Claims an integration/build role on its own portfolio; possibly
+      overlapping with Big Show's construction-management credit — both
+      claims kept; no firm record yet
 technologies:
   - openFrameworks
   - Kinect motion/gesture sensors
@@ -35,6 +41,7 @@ summary: >
   waterfall, with real-time visitor actions shaping the ecosystem's health.
 description: ""
 sources:
+  - https://www.moeyinc.com/projects/connected-worlds/
   - https://www.design-io.com/projects/connectedworlds
   - https://nysci.org/press-releases/connected-worlds-press-release
   - https://www.creativeapplications.net/project/connected-worlds-interactive-ecosystem-for-nysci-by-design-io/

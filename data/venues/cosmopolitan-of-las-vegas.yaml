@@ -1,0 +1,9 @@
+id: cosmopolitan-of-las-vegas
+name: The Cosmopolitan of Las Vegas
+venue_type: casino-resort
+location:
+  city: Las Vegas
+  state: NV
+website: https://www.cosmopolitanlasvegas.com
+sources:
+  - https://stories.forbestravelguide.com/the-cosmopolitan-las-vegas-features-an-art-centric-design

@@ -1,0 +1,12 @@
+id: athens-olympic-museum
+name: Athens Olympic Museum
+venue_type: other
+location:
+  city: Athens
+  country: GR
+website: https://athensolympicmuseum.org
+sources:
+  - https://news.microsoft.com/source/2021/11/10/hellenic-ministry-of-culture-and-sport-and-microsoft-partner-to-digitally-preserve-ancient-site-of-olympia/
+_comments: >
+  Olympic/sports history museum. Typed `other` — specialty/topical
+  museums are a flagged recurring venue-type gap pending a vocab review.

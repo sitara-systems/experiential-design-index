@@ -1,0 +1,9 @@
+id: matthew-knight-arena
+name: Matthew Knight Arena
+venue_type: sports-venue
+location:
+  city: Eugene
+  state: OR
+operator: University of Oregon
+sources:
+  - https://en.wikipedia.org/wiki/Matthew_Knight_Arena

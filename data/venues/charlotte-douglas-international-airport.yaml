@@ -1,0 +1,13 @@
+id: charlotte-douglas-international-airport
+name: Charlotte Douglas International Airport
+venue_type: other
+location:
+  city: Charlotte
+  state: NC
+operator: City of Charlotte Aviation Department
+website: https://www.cltairport.com
+sources:
+  - https://www.cltairport.com/airport-info/airport-art/art-installations-terminal/interconnected/
+_comments: >
+  Typed `other` — airports/transit are a flagged recurring venue-type gap
+  (8+ occurrences per the Track D audit), pending a vocab review.

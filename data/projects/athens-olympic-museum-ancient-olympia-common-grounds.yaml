@@ -1,0 +1,40 @@
+id: athens-olympic-museum-ancient-olympia-common-grounds
+name: "Ancient Olympia: Common Grounds"
+venue: athens-olympic-museum
+project_type: traveling-exhibition
+year_completed: 2021
+credits:
+  - firm: a-da
+    role: media-design
+    note: "Commissioning immersive agency, with Microsoft as technology partner; no firm record yet"
+  - firm: glowbox
+    role: media-design
+    note: >
+      Experience strategy, technical direction, HoloLens 2 software
+      development, systems design, and on-site installation.
+  - firm: invisible-thread
+    role: content-production
+    note: "Content and VFX; no firm record yet"
+technologies:
+  - HoloLens 2 mixed reality
+  - photogrammetric 3D reconstruction
+technology_tags:
+  - interactive-installation
+summary: >
+  "Ancient Olympia: Common Grounds," a mixed-reality exhibition digitally
+  restoring the ancient site of Olympia, opened at the Athens Olympic
+  Museum in Athens, Greece in October 2021 and ran there through October
+  2023 before traveling; produced by immersive agency A_DA with Microsoft
+  and the Hellenic Ministry of Culture and Sport, with experience
+  strategy, HoloLens software development, and systems design by Glowbox,
+  content and VFX by Invisible Thread, and 3D reconstruction by Iconem.
+description: ""
+_comments: >
+  Anchored on its Athens debut venue per the traveling-exhibition
+  precedent (two-year single-venue run). Glowbox and Invisible Thread
+  credits rest on glowbox.io; A_DA/Microsoft independently corroborated.
+  Iconem (Paris) left uncredited — non-NA and glowbox.io-sourced only.
+sources:
+  - https://www.glowbox.io/work/olympia/
+  - https://news.microsoft.com/source/2021/11/10/hellenic-ministry-of-culture-and-sport-and-microsoft-partner-to-digitally-preserve-ancient-site-of-olympia/
+  - https://adsofbrands.net/en/news/a_da-joins-microsoft-to-bring-the-ancient-site-of-the-olympic-games-to-life/2664

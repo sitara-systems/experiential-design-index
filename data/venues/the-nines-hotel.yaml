@@ -1,0 +1,12 @@
+id: the-nines-hotel
+name: The Nines, a Luxury Collection Hotel
+venue_type: other
+location:
+  city: Portland
+  state: OR
+website: https://www.thenines.com
+sources:
+  - https://www.thenines.com/art/
+_comments: >
+  Hotel. Typed `other` — hotels are a flagged recurring venue-type gap
+  pending a vocab review.

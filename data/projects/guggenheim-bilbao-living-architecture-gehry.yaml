@@ -1,0 +1,26 @@
+id: guggenheim-bilbao-living-architecture-gehry
+name: "in situ: Refik Anadol — Living Architecture: Gehry"
+venue: guggenheim-bilbao
+project_type: temporary-exhibition
+year_completed: 2025
+credits:
+  - firm: refik-anadol-studio
+    role: media-design
+    technology_tags:
+      - artificial-intelligence
+    note: >
+      AI-generated media work built on a large architectural model trained
+      on the Frank Gehry archive.
+technologies:
+  - machine-learning generative media
+technology_tags:
+  - artificial-intelligence
+summary: >
+  "in situ: Refik Anadol — Living Architecture: Gehry," a temporary
+  exhibition at the Guggenheim Museum Bilbao in Bilbao, Spain, ran from
+  March 7 to October 19, 2025, presenting an AI media work generated from
+  the Frank Gehry architectural archive.
+description: ""
+sources:
+  - https://www.guggenheim-bilbao.eus/en/exhibitions/in-situ-refik-anadol
+  - https://www.artnews.com/art-news/artists/refik-anadol-guggenheim-bilbao-show-architectural-ai-1234735495/

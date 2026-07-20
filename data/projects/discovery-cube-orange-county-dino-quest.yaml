@@ -1,0 +1,36 @@
+id: discovery-cube-orange-county-dino-quest
+name: Dino Quest (2024 reimagining)
+venue: discovery-cube-orange-county
+project_type: exhibition-refresh
+year_completed: 2024
+credits:
+  - firm: beaudry-interactive
+    role: media-design
+    note: >
+      Complete interactive reimagining — bespoke Dino Tracker handheld
+      device, four interactive games, custom circuit boards and hardware.
+  - firm: cinnabar
+    role: fabrication
+    note: "Theming"
+technologies:
+  - custom handheld interactive devices
+  - real-time show control
+technology_tags:
+  - interactive-installation
+summary: >
+  Dino Quest, the interactive dinosaur attraction at Discovery Cube Orange
+  County in Santa Ana, California, reopened in May 2024 after a complete
+  interactive reimagining by Beaudry Interactive, which replaced the
+  original 2006 wand system with a bespoke Dino Tracker handheld device
+  and four interactive games, with theming by Cinnabar and media by the
+  science center's in-house studio.
+description: ""
+_comments: >
+  Credit-level technology tag (interactive-installation) supported by the
+  blooloop article's description of the sensing/handheld-driven gameplay
+  Beaudry delivered. Hypervsn, Phoenix Mecano, and Murdoc Technology are
+  component/display suppliers, not delivery-stack credits; Discovery Cube
+  Studios is the venue's in-house media unit, excluded per the in-house
+  precedent.
+sources:
+  - https://blooloop.com/museum/news/beaudry-interactive-transforms-interactive-dino-quest/

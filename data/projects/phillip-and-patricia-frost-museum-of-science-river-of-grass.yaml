@@ -1,0 +1,34 @@
+id: phillip-and-patricia-frost-museum-of-science-river-of-grass
+name: River of Grass
+venue: phillip-and-patricia-frost-museum-of-science
+project_type: new-exhibition
+year_completed: 2017
+credits:
+  - firm: design-io
+    role: media-design
+    note: >
+      Interactive installation concept, visitor interaction, and visual
+      style for the immersive Everglades environment.
+  - firm: formula-d-interactive
+    role: media-design
+    note: >
+      Software, animation, and installation, per its own portfolio; South
+      Africa-based, no firm record under North America scope.
+technologies:
+  - immersive projection environment
+  - gesture interaction
+technology_tags:
+  - interactive-installation
+  - immersive-environment
+summary: >
+  River of Grass, an immersive interactive Everglades environment in the
+  Kenan Charitable Trust Gallery at the Phillip and Patricia Frost Museum
+  of Science, opened with the museum in Miami, Florida in 2017; Design
+  I/O developed the installation concept, visitor interaction, and visual
+  style, with software and installation by Formula D interactive.
+description: ""
+sources:
+  - https://blooloop.com/museum/in-depth/frost-science-technology-museum/
+  - https://www.frostscience.org/exhibition/river-of-grass/
+  - https://www.design-io.com/projects/riverofgrass
+  - https://formula-d.com/our_work/river-of-grass-immersive-environment/
