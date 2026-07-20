@@ -45,3 +45,11 @@ its specific sources; this is the survey list for building coverage.
   — even if that's where the lead came from. If the only way to confirm a
   fact is a private/unpublished channel, either find a public page that
   says the same thing or drop the fact.
+- **First-person practitioner accounts count** (editorial ruling
+  2026-07-19): a named team member's public portfolio page or project
+  write-up is a valid source for what that person's firm delivered on the
+  project. **Inferential attribution does not**: a credit line whose scope
+  merely *covers* a specific capability (e.g. "Interactives, Media") is not
+  sufficient evidence that the firm delivered that capability — capability-
+  specific claims (such as credit-level technology tags) need a source that
+  names the work itself.

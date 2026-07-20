@@ -34,6 +34,11 @@ roles:
     label: Lighting Design
   - id: graphics-wayfinding
     label: Environmental Graphics & Wayfinding
+    note: >
+      Design role — requires designing the graphics/wayfinding system.
+      Production-only graphics shops (printing, vinyl, installation of
+      others' designs) are fabrication, not this role (editorial ruling
+      2026-07-19).
   - id: technical-consulting
     label: Technical Consulting / Owner's Representation
     note: Technology master planning, owner's-side technical oversight

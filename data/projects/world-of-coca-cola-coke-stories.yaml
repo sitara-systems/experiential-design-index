@@ -17,8 +17,6 @@ credits:
     role: av-integration
   - firm: momentum
     role: media-design
-    technology_tags:
-      - artificial-intelligence
     note: "Interactive elements and media production; no firm record yet"
   - firm: solomon-group
     role: technical-consulting
@@ -46,7 +44,9 @@ sources:
   - https://www.worldofcoca-cola.com/about-us/press-center/media-alert/introducing-new-coca-cola-stories-experience
   - https://blooloop.com/world-coca-cola-coke-stories/
 _comments: >
-  AI credit attribution (2026-07-19): Momentum tagged via blooloop's credit
-  list ('Interactives, Media' covers the AI vintage-portrait mirror, Magic
-  Billboards, virtual soda jerk). Inferential: no source literally names who
-  engineered the AI features; Momentum is the best-supported deliverer.
+  AI credit attribution (2026-07-19, editorial ruling): Momentum's AI tag
+  REMOVED — the only basis was blooloop's credit line ('Interactives,
+  Media'), which covers the scope but never names the AI work itself, and
+  inferential credit-line attribution is insufficient for credit-level
+  technology tags (see docs/sources.md). Project keeps its AI tag; re-tag
+  the credit if a source naming the AI deliverer appears.

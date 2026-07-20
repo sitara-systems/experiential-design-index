@@ -7,7 +7,6 @@ hq:
   state: NY
 roles:
   - media-design
-  - av-integration
 status: active
 status_basis: >
   Multimedia design credit on World of Coca-Cola's Vault of the Secret
