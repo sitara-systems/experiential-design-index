@@ -1,0 +1,10 @@
+id: santiago-bernabeu-stadium
+name: Santiago Bernabéu Stadium
+venue_type: sports-venue
+location:
+  city: Madrid
+  country: ES
+operator: Real Madrid C.F.
+sources:
+  - https://momentfactory.com/products/realmadrid-games
+  - https://www.stadia-magazine.com/fans/real-madrid-and-moment-factory-create-interactive-fan-experience-at-bernabeu.html

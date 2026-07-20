@@ -1,0 +1,21 @@
+id: musee-carnavalet-renovation
+name: Musée Carnavalet Renovation
+venue: musee-carnavalet
+project_type: major-renovation
+year_completed: 2021
+credits:
+  - firm: chatillon-architectes
+    role: architecture
+    note: "Lead architect for the four-year renovation and redevelopment."
+  - firm: snohetta
+    role: graphics-wayfinding
+technologies: []
+summary: >
+  A four-year renovation of the historic Musée Carnavalet, Paris's museum
+  of the city's history, led by Chatillon Architectes with museum-wide
+  wayfinding and signage design by Snøhetta, reopened May 29, 2021.
+description: ""
+sources:
+  - https://www.snohetta.com/projects/musee-carnavalet
+  - https://www.archdaily.com/962758/carnavalet-museum-snohetta
+  - https://www.designboom.com/architecture/chatillon-architectes-snohetta-nathalie-criniere-agency-musee-carnavalet-paris-12-18-2021/

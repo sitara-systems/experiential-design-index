@@ -1,0 +1,14 @@
+id: changi-airport-terminal-4
+name: Changi Airport Terminal 4
+venue_type: other
+location:
+  city: Singapore
+  country: SG
+operator: Changi Airport Group
+sources:
+  - https://momentfactory.com/products/changi-airport-theatre-of-experience
+  - https://www.indesignlive.com/singapore/home-slides/moment-factory-changi-t4
+_comments: >
+  No dedicated airport/transit venue type exists in the vocabulary
+  (flagged as a recurring gap in HANDOFF Track D's venue-type audit,
+  2026-07-19); closest fit is `other`.

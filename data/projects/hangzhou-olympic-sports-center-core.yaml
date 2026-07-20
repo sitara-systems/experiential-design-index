@@ -1,0 +1,24 @@
+id: hangzhou-olympic-sports-center-core
+name: Hangzhou Olympic Sports Center
+venue: hangzhou-olympic-sports-center
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: nbbj
+    role: architecture
+  - firm: nbbj
+    role: master-planning
+  - firm: ccdi
+    role: architecture
+    note: "Local design institute / architect of record."
+technologies: []
+summary: >
+  An 80,000-seat Olympic-scale main stadium and a 10,000-seat tennis
+  stadium with a public riverfront plaza, co-designed by NBBJ and CCDI
+  (China Construction Design International) with a lotus-petal steel and
+  Kalzip cladding system, completed in Hangzhou, China in 2018.
+description: ""
+sources:
+  - https://www.archdaily.com/940104/hangzhou-olympic-sports-center-nbbj
+  - https://en.wikipedia.org/wiki/Hangzhou_Olympic_Expo_Center
+  - https://www.dezeen.com/2020/03/05/hangzhou-olympic-sports-center-nbbj-chinese-architecture/

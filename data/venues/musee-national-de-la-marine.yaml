@@ -1,0 +1,10 @@
+id: musee-national-de-la-marine
+name: Musée National de la Marine
+venue_type: history-museum
+location:
+  city: Paris
+  country: FR
+operator: Musée National de la Marine
+sources:
+  - https://www.snohetta.com/projects/musee-national-de-la-marine
+  - https://www.archdaily.com/1010509/musee-national-de-la-marine-snohetta

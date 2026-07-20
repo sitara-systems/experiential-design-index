@@ -1,0 +1,30 @@
+id: biomuseo-panama-original-galleries
+name: Biomuseo Original Permanent Galleries
+venue: biomuseo-panama
+project_type: new-exhibition
+year_completed: 2014
+credits:
+  - firm: gehry-partners
+    role: architecture
+  - firm: rlmg
+    role: media-design
+  - firm: electrosonic
+    role: av-integration
+  - firm: bruce-mau-design
+    role: exhibit-design
+    note: "Original exhibition concept design; no firm record yet."
+technologies:
+  - projection mapping
+  - immersive environment
+summary: >
+  The original five permanent galleries of the Biomuseo — including the
+  immersive "Panamarama" projection environment — in Frank Gehry's
+  Biomuseo building in Panama City, Panama, opened October 2, 2014, with
+  media design by Richard Lewis Media Group and AV integration by
+  Electrosonic.
+description: ""
+sources:
+  - https://www.rlmg.com/work/biomuseo
+  - https://www.electrosonic.com/projects/biomuseo
+  - https://museumsandheritage.com/advisor/posts/unique-biomuseo-tells-story-of-biodiversity-in-panama-with-design-and-tech/
+  - https://en.wikipedia.org/wiki/Biomuseo

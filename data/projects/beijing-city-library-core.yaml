@@ -1,0 +1,21 @@
+id: beijing-city-library-core
+name: Beijing City Library (Beijing Sub-Center Library)
+venue: beijing-city-library
+project_type: new-building
+year_completed: 2023
+credits:
+  - firm: snohetta
+    role: architecture
+  - firm: ecadi
+    role: architecture
+    note: "Local executive/collaborating architect."
+technologies: []
+summary: >
+  Beijing's new sub-center library, won by Snøhetta via a 2018 international
+  design competition and completed with local partner ECADI, opened to the
+  public in December 2023.
+description: ""
+sources:
+  - https://www.snohetta.com/projects/beijing-library
+  - https://www.archdaily.com/1024024/beijing-sub-center-library-snohetta
+  - https://www.designboom.com/architecture/snohetta-beijing-city-library-opens-public-sculpted-hills-valleys-02-26-2024/

@@ -1,0 +1,10 @@
+id: jewel-changi-airport
+name: Jewel Changi Airport
+venue_type: themed-attraction
+location:
+  city: Singapore
+  country: SG
+operator: Changi Airport Group
+sources:
+  - https://momentfactory.com/products/changi-experience-studio
+  - https://en.wikipedia.org/wiki/Jewel_Changi_Airport

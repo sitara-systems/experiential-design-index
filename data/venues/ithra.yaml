@@ -1,0 +1,10 @@
+id: ithra
+name: King Abdulaziz Center for World Culture (Ithra)
+venue_type: cultural-center
+location:
+  city: Dhahran
+  country: SA
+operator: Saudi Aramco
+sources:
+  - https://www.snohetta.com/projects/king-abdulaziz-centre-for-world-culture-ithra
+  - https://en.wikipedia.org/wiki/King_Abdulaziz_Center_for_World_Culture

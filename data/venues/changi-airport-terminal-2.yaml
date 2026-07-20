@@ -1,0 +1,14 @@
+id: changi-airport-terminal-2
+name: Changi Airport Terminal 2
+venue_type: other
+location:
+  city: Singapore
+  country: SG
+operator: Changi Airport Group
+sources:
+  - https://momentfactory.com/products/singapore-changi-airport
+  - https://mondodrawards.com/2024/portfolio/changi-airport-terminal-2/
+_comments: >
+  No dedicated airport/transit venue type exists in the vocabulary
+  (flagged as a recurring gap in HANDOFF Track D's venue-type audit,
+  2026-07-19); closest fit is `other`.

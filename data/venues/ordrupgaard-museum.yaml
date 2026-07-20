@@ -1,0 +1,10 @@
+id: ordrupgaard-museum
+name: Ordrupgaard Museum
+venue_type: art-museum
+location:
+  city: Charlottenlund
+  country: DK
+operator: Ordrupgaard
+sources:
+  - https://www.snohetta.com/projects/ordrupgaard-museum
+  - https://www.archdaily.com/966734/ordrupgaard-museum-extension-and-landscape-snohetta

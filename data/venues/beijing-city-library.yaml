@@ -1,0 +1,10 @@
+id: beijing-city-library
+name: Beijing City Library
+venue_type: library-archive
+location:
+  city: Beijing
+  country: CN
+operator: Beijing Municipal Government
+sources:
+  - https://www.snohetta.com/projects/beijing-library
+  - https://www.archdaily.com/1024024/beijing-sub-center-library-snohetta

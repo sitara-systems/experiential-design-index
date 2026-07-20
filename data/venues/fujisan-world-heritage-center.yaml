@@ -1,0 +1,10 @@
+id: fujisan-world-heritage-center
+name: Fujisan World Heritage Center
+venue_type: visitor-center
+location:
+  city: Fujinomiya
+  country: JP
+operator: Shizuoka Prefecture
+sources:
+  - https://esidesign.nbbj.com/work/mtfuji-world-heritage-center/
+  - https://www.architecturalrecord.com/articles/13268-fujisan-world-heritage-center-by-shigeru-ban-architects

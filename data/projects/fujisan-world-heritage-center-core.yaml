@@ -1,0 +1,23 @@
+id: fujisan-world-heritage-center-core
+name: Fujisan World Heritage Center
+venue: fujisan-world-heritage-center
+project_type: new-building
+year_completed: 2017
+credits:
+  - firm: shigeru-ban-architects
+    role: architecture
+    note: "No firm record yet."
+  - firm: esi-design
+    role: exhibit-design
+    note: "One of three exhibition consultants; predates NBBJ's 2020 acquisition of ESI Design."
+technologies: []
+summary: >
+  A museum and visitor center dedicated to Mt. Fuji in Fujinomiya City,
+  Shizuoka Prefecture, Japan, designed by Shigeru Ban Architects with an
+  inverted-cone form and interior spiral-ramp exhibition path, with ESI
+  Design among its exhibition consultants; opened December 23, 2017.
+description: ""
+sources:
+  - https://esidesign.nbbj.com/work/mtfuji-world-heritage-center/
+  - https://www.architecturalrecord.com/articles/13268-fujisan-world-heritage-center-by-shigeru-ban-architects
+  - https://www.designboom.com/architecture/shigeru-ban-mt-fuji-world-heritage-centre-opens-japan-shizuoka-12-22-2017/

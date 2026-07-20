@@ -1,0 +1,10 @@
+id: ocean-park-hong-kong
+name: Ocean Park Hong Kong
+venue_type: themed-attraction
+location:
+  city: Hong Kong
+  country: HK
+operator: Ocean Park Corporation
+sources:
+  - https://momentfactory.com/products/visions-of-hong-kong
+  - https://www.oceanpark.com.hk/en/park-experience/multi-media-shows-2023

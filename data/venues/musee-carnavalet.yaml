@@ -1,0 +1,10 @@
+id: musee-carnavalet
+name: Musée Carnavalet
+venue_type: history-museum
+location:
+  city: Paris
+  country: FR
+operator: Paris Musées
+sources:
+  - https://www.snohetta.com/projects/musee-carnavalet
+  - https://www.archdaily.com/962758/carnavalet-museum-snohetta

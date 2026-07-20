@@ -1,0 +1,10 @@
+id: hangzhou-olympic-sports-center
+name: Hangzhou Olympic Sports Center
+venue_type: sports-venue
+location:
+  city: Hangzhou
+  country: CN
+operator: Hangzhou Municipal Government
+sources:
+  - https://www.archdaily.com/940104/hangzhou-olympic-sports-center-nbbj
+  - https://en.wikipedia.org/wiki/Hangzhou_Olympic_Expo_Center

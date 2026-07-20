@@ -1,0 +1,25 @@
+id: musee-national-de-la-marine-renovation
+name: Musée National de la Marine Renovation
+venue: musee-national-de-la-marine
+project_type: major-renovation
+year_completed: 2023
+credits:
+  - firm: snohetta
+    role: architecture
+  - firm: h2o-architectes
+    role: architecture
+    note: "Co-lead architect."
+  - firm: agence-on
+    role: lighting-design
+  - firm: scenevolution
+    role: exhibit-design
+technologies: []
+summary: >
+  A six-year renovation of France's National Maritime Museum in Paris,
+  co-led by Snøhetta and h2o architectes, reopened to the public November
+  17, 2023.
+description: ""
+sources:
+  - https://www.snohetta.com/projects/musee-national-de-la-marine
+  - https://www.archdaily.com/1010509/musee-national-de-la-marine-snohetta
+  - https://www.architecturalrecord.com/articles/16606-pariss-maritime-museum-reopens-after-a-belowdecks-overhaul-by-h2o-and-snohetta

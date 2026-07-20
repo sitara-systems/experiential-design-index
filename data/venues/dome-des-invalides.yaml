@@ -1,0 +1,10 @@
+id: dome-des-invalides
+name: Dôme des Invalides
+venue_type: history-museum
+location:
+  city: Paris
+  country: FR
+operator: Musée de l'Armée
+sources:
+  - https://momentfactory.com/products/aura-invalides
+  - https://blooloop.com/museum/news/moment-factory-aura-invalides/

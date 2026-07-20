@@ -1,0 +1,10 @@
+id: oslo-opera-house
+name: Oslo Opera House
+venue_type: cultural-center
+location:
+  city: Oslo
+  country: "NO"
+operator: Norwegian National Opera and Ballet
+sources:
+  - https://www.snohetta.com/projects/norwegian-national-opera-and-ballet
+  - https://www.operaen.no/en/about-us-oslo-operahouse/about-the-oslo-opera-house/

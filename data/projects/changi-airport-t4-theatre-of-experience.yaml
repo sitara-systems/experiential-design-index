@@ -1,0 +1,28 @@
+id: changi-airport-t4-theatre-of-experience
+name: Theatre of Experience
+venue: changi-airport-terminal-4
+project_type: installation
+year_completed: 2017
+credits:
+  - firm: moment-factory
+    role: content-production
+  - firm: electronics-and-engineering
+    role: av-integration
+    note: "No firm record yet."
+technologies:
+  - LED media facade
+  - interactive installation
+recognition:
+  - award: "Digital Signage Awards Grand Prize"
+    year: 2019
+    source: https://airport.nridigital.com/air_oct18/changi_airport_s_immersive_theatre_of_experience
+summary: >
+  A permanent installation at Singapore Changi Airport's Terminal 4
+  combining a large LED "Panorama" storytelling wall with an interactive
+  security-screening LED wall depicting a Peranakan-themed narrative,
+  with content by Moment Factory, opened in 2017.
+description: ""
+sources:
+  - https://momentfactory.com/products/changi-airport-theatre-of-experience
+  - https://airport.nridigital.com/air_oct18/changi_airport_s_immersive_theatre_of_experience
+  - https://www.indesignlive.com/singapore/home-slides/moment-factory-changi-t4

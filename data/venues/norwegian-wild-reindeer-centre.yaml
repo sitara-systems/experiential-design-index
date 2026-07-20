@@ -1,0 +1,10 @@
+id: norwegian-wild-reindeer-centre
+name: Norwegian Wild Reindeer Centre Pavilion (Tverrfjellhytta)
+venue_type: visitor-center
+location:
+  city: Hjerkinn
+  country: "NO"
+operator: Dovrefjell National Park Visitor Centre
+sources:
+  - https://www.snohetta.com/projects/viewpoint-snohetta
+  - https://www.archdaily.com/180932/tverrfjellhytta-snohetta

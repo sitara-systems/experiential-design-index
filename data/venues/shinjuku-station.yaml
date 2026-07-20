@@ -1,0 +1,10 @@
+id: shinjuku-station
+name: Shinjuku Station (East-West Passage)
+venue_type: public-space
+location:
+  city: Tokyo
+  country: JP
+operator: East Japan Railway Company
+sources:
+  - https://momentfactory.com/products/tokyo-shinjuku-station
+  - https://archello.com/project/the-colour-bath

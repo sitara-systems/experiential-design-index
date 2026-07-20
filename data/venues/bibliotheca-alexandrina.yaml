@@ -1,0 +1,10 @@
+id: bibliotheca-alexandrina
+name: Bibliotheca Alexandrina
+venue_type: library-archive
+location:
+  city: Alexandria
+  country: EG
+operator: Bibliotheca Alexandrina
+sources:
+  - https://www.snohetta.com/projects/bibliotheca-alexandrina
+  - https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina
