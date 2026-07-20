@@ -1,0 +1,57 @@
+id: world-expo-2010-shanghai-corporate-pavilion
+name: "Dream Cube: Shanghai Corporate Pavilion"
+venue: world-expo-2010-shanghai
+project_type: installation
+year_completed: 2010
+credits:
+  - firm: esi-design
+    role: exhibit-design
+    note: >
+      Lead experience design of the 40,000-square-foot pavilion — the
+      360-degree participatory theater, interactive exhibits, and the
+      gesture-responsive LED facade of recycled polycarbonate tubes whose
+      lighting was driven by visitors' movements inside.
+  - firm: atelier-fcjz
+    role: architecture
+    note: "Pavilion architecture, led by Yung Ho Chang."
+  - firm: full-flood
+    role: lighting-design
+  - firm: spinifex-group
+    role: content-production
+    note: "Media production."
+  - firm: production-resource-group
+    role: av-integration
+    note: "Systems integration."
+  - firm: shanghai-pico-exhibition-services
+    role: fabrication
+technologies:
+  - LED media facade
+  - gesture-responsive interactivity
+  - 360-degree theater
+technology_tags:
+  - interactive-installation
+  - immersive-environment
+recognition:
+  - award: "SEGD Design Awards"
+    year: 2011
+    source: https://segd.org/projects/dream-cube/
+summary: >
+  The Dream Cube, the Shanghai Corporate Pavilion at World Expo 2010 in
+  Shanghai, China, opened in May 2010 with experience design by ESI Design
+  and architecture by Atelier FCJZ — a 40,000-square-foot pavilion whose
+  recycled-polycarbonate LED facade responded to the gestures of visitors
+  inside its 360-degree participatory theater, drawing over four million
+  visitors during the expo's run.
+description: ""
+sources:
+  - https://segd.org/projects/dream-cube/
+  - https://www.fastcompany.com/3010558/shanghais-world-expo-dream-cubeby-new-yorks-esi-design
+  - https://www.archdaily.com/33751/the-shanghai-corporate-pavillion-for-world-expo-2010
+  - https://www.prnewswire.com/news-releases/esi-design-unveils-the-dream-cube-at-the-2010-world-expo-92338014.html
+_comments: >
+  World Expo-class pavilion, in scope per the precedent set by the
+  Expo 2020 Dubai / Expo 2025 Osaka records despite the pavilion being
+  dismantled after the expo. Client was the Shanghai Corporate Community
+  (a consortium of Shanghai companies). SEGD's award page also names
+  Shanghai Guosheng Company Limited for construction — omitted from
+  credits as a general-contractor role, per policy.

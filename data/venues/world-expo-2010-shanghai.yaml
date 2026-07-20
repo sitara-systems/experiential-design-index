@@ -1,0 +1,16 @@
+id: world-expo-2010-shanghai
+name: World Expo 2010 Shanghai
+venue_type: other
+location:
+  city: Shanghai
+  country: CN
+operator: Bureau International des Expositions / Expo 2010 Shanghai
+sources:
+  - https://www.britannica.com/event/Expo-Shanghai-2010
+  - https://segd.org/projects/dream-cube/
+_comments: >
+  No dedicated "world's fair / expo" venue type exists; closest fit is
+  `other`, matching the existing world-expo-2020-dubai and
+  world-expo-2025-osaka records. The expo ran May-October 2010 in Shanghai;
+  most pavilions, including the Shanghai Corporate Pavilion, were
+  dismantled after the run and the site has since been redeveloped.
