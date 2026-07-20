@@ -1,0 +1,26 @@
+id: museum-of-kansas-city-big-sonia
+name: "Big Sonia: New Media Featuring Sonia Warshawski"
+venue: museum-of-kansas-city
+project_type: installation
+year_completed: 2025
+credits:
+  - firm: storyfile
+    role: media-design
+  - firm: inflatable-film
+    role: content-production
+    note: "Leah Warshawski's production company; creative/producing partner; no firm record yet"
+technologies:
+  - conversational video AI
+technology_tags:
+  - artificial-intelligence
+summary: >
+  Big Sonia: New Media Featuring Sonia Warshawski, an interactive video
+  installation letting visitors ask questions of Holocaust survivor Sonia
+  Warshawski, opened September 4, 2025 at the Museum of Kansas City, built
+  by StoryFile with Inflatable Film as creative/producing partner.
+description: >
+  Visitors ask spoken questions and receive matched responses from 400+
+  pre-recorded answers Warshawski gave.
+sources:
+  - https://museumofkansascity.org/new-media-featuring-sonia-warshawski-big-sonia-opening-september-4/
+  - https://www.storyfile.com/news/storyfile-technology-powers-new-big-sonia-exhibit-at-the-museum-of-kansas-city

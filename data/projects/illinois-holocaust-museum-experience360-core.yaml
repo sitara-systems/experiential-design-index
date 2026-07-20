@@ -8,12 +8,25 @@ credits:
     role: exhibit-design
   - firm: ravenswood-studio
     role: fabrication
-technologies: []
+technologies:
+  - interactive video testimony
+  - natural language processing
+technology_tags:
+  - artificial-intelligence
 summary: >
   Illinois Holocaust Museum Experience360, a satellite location in
   downtown Chicago opened August 26, 2025 while the museum's Skokie
   campus renovates; exhibit design by Luci Creative, fabrication by
   Ravenswood Studio.
-description: ""
+description: >
+  In August 2025 the location added a "Dimensions in Testimony"-format
+  hologram interactive of Kizito Kalima, a survivor of the 1994 Rwandan
+  genocide against the Tutsi — the first non-Holocaust survivor added to
+  the USC Shoah Foundation's interactive-testimony format. Visitors watch a
+  video essay, then ask spoken questions answered via natural-language
+  matching to pre-recorded responses, the same technology and vendor
+  relationship (USC Shoah Foundation) as the Virginia Holocaust Museum's
+  Dimensions in Testimony installation.
 sources:
-  - https://blooloop.com/
+  - https://www.axios.com/2025/08/05/holocaust-museum-ai-interactive-rwandan-genocide
+  - https://news.wttw.com/2025/08/25/illinois-holocaust-museum-opens-satellite-location-downtown-chicago

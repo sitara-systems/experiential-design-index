@@ -1,0 +1,29 @@
+id: salvador-dali-museum-ask-dali
+name: "Ask Dalí (Via Artificial Intelligence)"
+venue: salvador-dali-museum
+project_type: installation
+year_completed: 2024
+credits:
+  - firm: goodby-silverstein-and-partners
+    role: media-design
+    note: >
+      San Francisco advertising/creative agency; built the first edition of
+      the installation. Underlying voice/language models from OpenAI
+      (GPT-4) and ElevenLabs are technology providers, not credited as
+      firms. No firm record yet.
+technologies:
+  - generative voice AI
+technology_tags:
+  - artificial-intelligence
+summary: >
+  Ask Dalí (Via Artificial Intelligence), a permanent installation letting
+  visitors pick up a Lobster Phone-styled handset and ask questions of a
+  recreated "Salvador Dalí," opened April 11, 2024 at the Salvador Dalí
+  Museum in St. Petersburg, Florida, built by Goodby Silverstein & Partners.
+description: >
+  A generative voice AI trained on Dalí's writings and archival audio
+  answers visitor questions live, rather than matching to pre-recorded
+  clips.
+sources:
+  - https://www.npr.org/2024/04/21/1246117954/salvador-dali-artificial-intelligence-lobster-telephone-museum
+  - https://thedali.org/exhibit/ask-dali/

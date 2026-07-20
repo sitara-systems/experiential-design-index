@@ -38,8 +38,21 @@ credits:
       fabrication of over 40 artifact cases. Likely two fabricators on
       different scopes — both credits kept, not resolved in favor of
       either.
+  - firm: microsoft
+    role: media-design
+    note: >
+      Built "Talk with TR," a permanent exhibit letting visitors speak
+      questions to a real-time-rendered avatar of Theodore Roosevelt, using
+      Microsoft's Azure Conversational AI platform trained on his writings
+      and speeches; no firm record yet.
+  - firm: lemonslice
+    role: media-design
+    note: "Live avatar rendering for Talk with TR; no firm record yet"
 technologies:
   - immersive galleries
+  - real-time conversational AI avatar
+technology_tags:
+  - artificial-intelligence
 summary: >
   The Theodore Roosevelt Presidential Library & Museum, a 95,000-sq-ft
   building adjacent to Theodore Roosevelt National Park in Medora, North
@@ -53,3 +66,4 @@ sources:
   - https://www.trlibrary.com/about/press/press-releases/theodore-roosevelt-presidential-library-opening-celebrations-july-4-2026
   - https://www.snohetta.com/news/theodore-roosevelt-presidential-library-opens
   - https://splitrockstudios.com/theodore-roosevelt-presidential-library/
+  - https://www.forbes.com/sites/lesliekatz/2026/07/01/ai-powered-theodore-roosevelt-is-ready-to-answer-your-questions/

@@ -1,0 +1,34 @@
+id: storyfile
+name: StoryFile
+website: https://www.storyfile.com
+hq:
+  city: Los Angeles
+  state: CA
+other_offices: []
+roles:
+  - media-design
+status: active
+status_basis: >
+  Launched "The Virtual Recipient" at the National Medal of Honor Museum
+  (March 2025, 7,000+ visitor questions reported since opening) and "Big
+  Sonia" at the Museum of Kansas City (September 2025); active news page
+  through 2025.
+status_verified: 2026-07-19
+_comments: >
+  Founding year omitted — data-broker profiles (ZoomInfo, PitchBook)
+  disagree (2017 vs. 2019) and no primary source (company About page)
+  could be independently verified this pass; revisit if a primary source
+  surfaces.
+summary: >
+  StoryFile is a Los Angeles, California company building conversational
+  AI video-testimony installations, founded by Heather Maio, who
+  previously led the USC Shoah Foundation's Dimensions in Testimony
+  project. Museum credits include interactive testimony installations at
+  the National WWII Museum, the National Medal of Honor Museum, the
+  National Naval Aviation Museum, and the Museum of Kansas City.
+sources:
+  - https://www.storyfile.com
+  - https://www.storyfile.com/news/national-wwii-museum
+  - https://www.storyfile.com/news/national-medal-of-honor-museum
+  - https://www.storyfile.com/news/storyfile-technology-powers-new-big-sonia-exhibit-at-the-museum-of-kansas-city
+  - https://en.wikipedia.org/wiki/Dimensions_in_Testimony

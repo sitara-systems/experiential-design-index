@@ -1,0 +1,14 @@
+id: computer-history-museum
+name: Computer History Museum
+_comments: >
+  No dedicated "topical/specialty museum" venue type exists (this joins the
+  AKC Museum of the Dog / American Writers Museum / National Music Museum
+  cluster flagged in HANDOFF Track D); closest fit is `other`.
+venue_type: other
+location:
+  city: Mountain View
+  state: CA
+operator: Computer History Museum
+website: https://computerhistory.org
+sources:
+  - https://computerhistory.org/press-releases/computer-history-museum-unveils-chatbots-decoded-exploring-ai-exhibit/

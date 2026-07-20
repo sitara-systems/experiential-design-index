@@ -1,0 +1,10 @@
+id: museum-of-kansas-city
+name: Museum of Kansas City
+venue_type: history-museum
+location:
+  city: Kansas City
+  state: MO
+operator: Museum of Kansas City
+website: https://museumofkansascity.org
+sources:
+  - https://museumofkansascity.org/new-media-featuring-sonia-warshawski-big-sonia-opening-september-4/

@@ -52,11 +52,19 @@ credits:
   - firm: true-edge-archive
     role: content-production
     note: "Photogrammetry and 3D modeling"
+  - firm: storyfile
+    role: media-design
+    note: >
+      Built "The Virtual Recipient," an interactive video Q&A letting
+      visitors converse with five Vietnam-era Medal of Honor recipients,
+      selected via RFP and sponsored by AT&T.
 technologies:
   - interactive kiosks
   - immersive theater
+  - conversational video AI
 technology_tags:
   - immersive-environment
+  - artificial-intelligence
 summary: >
   The National Medal of Honor Museum, a new purpose-built museum honoring
   Medal of Honor recipients, opened March 22, 2025 in Arlington, Texas, with
@@ -69,3 +77,4 @@ sources:
   - https://gallagherdesign.com/project/national-medal-of-honor-museum/
   - https://schulershook.com/projects/national-medal-of-honor-museum-col-neel-e-kearby-theater
   - https://www.eoslightmedia.com/work/573
+  - https://www.storyfile.com/news/national-medal-of-honor-museum

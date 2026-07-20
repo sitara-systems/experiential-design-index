@@ -1,0 +1,15 @@
+id: orlando-international-airport-terminal-c
+name: Orlando International Airport, Terminal C
+_comments: >
+  No dedicated airport/transit-terminal venue type exists (flagged in
+  HANDOFF Track D as a well-evidenced recurring gap cluster — BWI, JFK T5,
+  Kansas City Intl, Pittsburgh Intl, Seattle-Tacoma Intl, Vancouver Intl,
+  Delta Terminal C LaGuardia, Colman Dock ferry terminal); closest fit is
+  `other`.
+venue_type: other
+location:
+  city: Orlando
+  state: FL
+operator: Greater Orlando Aviation Authority
+sources:
+  - https://blooloop.com/technology/news/realmotion-orlando-airport/

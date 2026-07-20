@@ -1,0 +1,35 @@
+id: museum-of-jewish-heritage-survivor-stories
+name: "Survivor Stories: An Interactive Dialogue"
+venue: museum-of-jewish-heritage
+project_type: installation
+year_completed: 2025
+credits:
+  - firm: usc-shoah-foundation
+    role: content-production
+    note: >
+      Developed the interactive testimony content and matching technology,
+      in partnership with USC Libraries and the museum; a university
+      research institute rather than a commercial design/build firm — the
+      same entity behind the Virginia Holocaust Museum and Illinois
+      Holocaust Museum Experience360 Dimensions in Testimony installations,
+      credited there only in prose since a separate design/AV firm (MAD
+      Systems, Luci Creative) was available to carry the formal credit.
+      Here no such separate firm was found in press coverage, so USC Shoah
+      Foundation is credited directly. No firm record yet.
+technologies:
+  - interactive video testimony
+  - natural language processing
+technology_tags:
+  - artificial-intelligence
+summary: >
+  Survivor Stories: An Interactive Dialogue, a permanent interactive
+  installation developed by USC Shoah Foundation and USC Libraries in
+  partnership with the museum, opened January 2025 at the Museum of Jewish
+  Heritage in New York City.
+description: >
+  Visitors hold a button on a mounted screen, ask a question aloud, and the
+  system matches it to one of 150+ pre-recorded video answers from 10
+  Holocaust survivors, played on an adjacent screen.
+sources:
+  - https://mjhnyc.org/exhibitions/survivor-stories/
+  - https://www.timeout.com/newyork/news/a-new-interactive-installation-lets-you-have-a-conversation-with-real-holocaust-survivors-012925

@@ -1,0 +1,39 @@
+id: orlando-international-airport-terminal-c-moment-vault
+name: Moment Vault
+venue: orlando-international-airport-terminal-c
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: mra-international-group
+    role: media-design
+    note: "Executive producer; no firm record yet"
+  - firm: sardi-design
+    role: media-design
+    note: "Executive creative direction (Marcela Sardi); no firm record yet"
+  - firm: gentilhomme-studio
+    role: content-production
+    note: "No firm record yet"
+  - firm: smart-monkeys
+    role: av-integration
+    note: "Technology development and management; no firm record yet"
+technologies:
+  - real-time markerless motion capture
+  - 360-degree LED environment
+technology_tags:
+  - artificial-intelligence
+  - immersive-environment
+  - real-time
+summary: >
+  Moment Vault, a 360-degree circular LED media environment in Orlando
+  International Airport's Terminal C, opened January 2023, executive
+  produced by MRA International Group with creative direction by Sardi
+  Design, content by Gentilhomme Studio, and technology by Smart Monkeys.
+description: >
+  A proprietary AI-powered markerless motion-capture system generates a
+  real-time 3D pose estimate of each passenger walking through the space,
+  converting their silhouette and motion into a digital wireframe/avatar
+  integrated live into the surrounding generative content.
+sources:
+  - https://blooloop.com/technology/news/realmotion-orlando-airport/
+  - https://www.avinteractive.com/markets-news/transport/realmotion-servers-power-immersive-installation-at-airport-05-01-2023/
+  - https://www.sixteen-nine.net/2023/01/20/read-about-the-sophisticated-tech-set-up-at-orlando-intl-airports-moment-vault/

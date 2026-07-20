@@ -1,0 +1,10 @@
+id: salvador-dali-museum
+name: The Dalí (Salvador Dalí Museum)
+venue_type: art-museum
+location:
+  city: St. Petersburg
+  state: FL
+operator: The Dalí Museum, Inc.
+website: https://thedali.org
+sources:
+  - https://thedali.org/exhibit/ask-dali/

@@ -1,0 +1,38 @@
+id: computer-history-museum-chatbots-decoded
+name: "Chatbots Decoded: Exploring AI"
+venue: computer-history-museum
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: van-sickle-and-rolleri
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: exhibit-concepts-inc
+    role: architecture
+    note: "Architect of record; no firm record yet"
+  - firm: bowen-technovation
+    role: fabrication
+  - firm: mark-horton-architecture
+    role: architecture
+    note: "No firm record yet"
+  - firm: studio-1500
+    role: graphics-wayfinding
+    note: "Graphic design; no firm record yet"
+technologies:
+  - conversational AI
+  - humanoid robot (Engineered Arts' Ameca)
+technology_tags:
+  - artificial-intelligence
+summary: >
+  "Chatbots Decoded: Exploring AI," an exhibition on the history and
+  mechanics of conversational AI, opened November 20, 2024 at the Computer
+  History Museum in Mountain View, California; exhibition design by Van
+  Sickle & Rolleri, with Exhibit Concepts Inc. as architect of record and
+  fabrication by Bowen Technovation.
+description: >
+  The exhibit's centerpiece is Ameca, a humanoid robot built by Engineered
+  Arts with facial recognition, sensors, and an LLM backend, which converses
+  live with visitors in multiple languages.
+sources:
+  - https://computerhistory.org/press-releases/computer-history-museum-unveils-chatbots-decoded-exploring-ai-exhibit/
+  - https://www.paloaltoonline.com/technology/2024/11/26/computer-history-museum-unveils-new-ai-exhibit-featuring-chatbots/

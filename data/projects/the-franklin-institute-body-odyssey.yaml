@@ -10,12 +10,38 @@ credits:
       Credited in ADK's own portfolio; the museum's press release names
       MDSX as exhibit designer but does not name a fabricator — role
       inferred as fabrication per ADK's stated core service.
+  - firm: mdsx
+    role: exhibit-design
+    note: "No firm record yet"
+  - firm: houdini-interactive
+    role: media-design
+    note: >
+      UX, development, and hardware integration for 12 interactive
+      experiences across 16 installations within the exhibition, including
+      the motion-capture body-visualization interactive; no firm record yet
+  - firm: smithgroup
+    role: architecture
+  - firm: exp
+    role: lighting-design
+    note: "No firm record yet"
+technologies:
+  - motion capture
+  - real-time skeletal/muscular/circulatory visualization
+technology_tags:
+  - artificial-intelligence
+  - interactive-installation
 summary: >
   Body Odyssey, an 8,500-sq-ft permanent exhibition on the human body built
   around the Franklin Institute's Giant Heart, opened November 23, 2024 in
   Philadelphia, designed by MDSX with fabrication credited to Adirondack
   Studios.
-description: ""
+description: >
+  One named interactive within the exhibition uses motion-capture cameras
+  to track visitors in real time in front of three large-format displays,
+  processed via onsite computers so visitors see their own skeletal,
+  circulatory, and muscular systems moving with them on screen; interactive
+  development and hardware integration by Houdini Interactive.
 sources:
   - https://www.adkstudios.com/portfolio/
   - https://fi.edu/en/press-room/press-releases/2024/franklin-institute-celebrates-grand-opening-body-odyssey-and-hamilton-collections-gallery
+  - https://biztechmagazine.com/article/2025/12/museums-deploy-interactive-technology-create-more-immersive-experiences
