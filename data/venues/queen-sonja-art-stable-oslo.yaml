@@ -1,0 +1,9 @@
+id: queen-sonja-art-stable-oslo
+name: Queen Sonja Art Stable, Royal Palace
+venue_type: art-museum
+location:
+  city: Oslo
+  country: NO
+operator: The Royal Collection / National Museum of Art, Architecture and Design
+sources:
+  - https://www.tellart.com/projects/queen-maud/

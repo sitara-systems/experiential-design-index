@@ -1,0 +1,26 @@
+id: biomuseo-panama-celebrating-biodiversity
+name: Celebrating Biodiversity
+venue: biomuseo-panama
+project_type: new-exhibition
+year_completed: 2019
+credits:
+  - firm: tellart
+    role: exhibit-design
+  - firm: kling-klang-klong
+    role: media-design
+    note: "Sound design; no firm record yet"
+  - firm: david-carroll-and-associates
+    role: fabrication
+    note: "Technical and truss engineering"
+technologies:
+  - projection mapping
+  - interactive media
+summary: >
+  Celebrating Biodiversity, three permanent interactive galleries ("Oceans
+  Divided," "The Living Web," "Panama Is The Museum") at the Frank
+  Gehry-designed Biomuseo in Panama City, opened March 2019, exhibit
+  design by Tellart.
+description: ""
+sources:
+  - https://www.tellart.com/projects/celebrating-biodiversity-biomuseo/
+  - https://davidcarroll.com/visionary-solutions-brings-biodiversity-to-life-at-panamas-biomuseo/

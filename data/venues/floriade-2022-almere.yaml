@@ -1,0 +1,17 @@
+id: floriade-2022-almere
+name: Floriade Expo 2022
+_comments: >
+  No dedicated "world's fair / expo" venue type exists; closest fit is
+  `other`. Floriade is a recognized international horticultural expo held
+  once per decade in the Netherlands; treated the same as a World Expo
+  pavilion per the corpus's existing precedent (permanent-during-the-fair
+  built work counts), a judgment call worth an editorial confirm since the
+  handoff's rule names "World's Fair/Expo" without addressing horticultural
+  expos specifically.
+venue_type: other
+location:
+  city: Almere
+  country: NL
+operator: Floriade Almere 2022
+sources:
+  - https://www.tellart.com/projects/uae-pavilion-floriade-2022/

@@ -1,0 +1,13 @@
+id: world-expo-2020-dubai
+name: World Expo 2020 Dubai
+_comments: >
+  No dedicated "world's fair / expo" venue type exists; closest fit is
+  `other`. Delayed by the COVID-19 pandemic; ran October 2021-March 2022
+  under the "Expo 2020" name.
+venue_type: other
+location:
+  city: Dubai
+  country: AE
+operator: Bureau International des Expositions / Expo 2020 Dubai
+sources:
+  - https://www.tellart.com/projects/uae-pavilion-at-expo-2020-dubai/

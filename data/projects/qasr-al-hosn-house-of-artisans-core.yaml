@@ -1,0 +1,31 @@
+id: qasr-al-hosn-house-of-artisans-core
+name: House of Artisans
+venue: qasr-al-hosn-house-of-artisans
+project_type: new-exhibition
+year_completed: 2021
+credits:
+  - firm: tellart
+    role: media-design
+  - firm: kossmanndejong
+    role: exhibit-design
+    note: "Spatial and graphic design, art direction; no firm record yet"
+  - firm: maf-studio
+    role: content-production
+    note: "Executive creative direction; no firm record yet"
+  - firm: projex-uae
+    role: fabrication
+    note: "Construction; no firm record yet"
+technologies:
+  - interactive media
+  - live artisan demonstrations
+summary: >
+  House of Artisans, a permanent exhibition on Emirati craft culture,
+  opened 2021 at the historic Qasr Al Hosn fort in Abu Dhabi, with media
+  design by Tellart and spatial/graphic design by Kossmanndejong.
+description: >
+  The exhibition presents artifacts, interactive media, and live artisan
+  demonstrations inside Abu Dhabi's oldest stone building; inaugurated by
+  Sheikh Khaled bin Mohamed bin Zayed Al Nahyan.
+sources:
+  - https://www.tellart.com/projects/house-of-artisans-making-emirati-craftsmanship-experiential/
+  - https://www.thenationalnews.com/arts-culture/art/house-of-artisans-permanent-exhibition-at-qasr-al-hosn-celebrates-uae-crafts-1.1202230

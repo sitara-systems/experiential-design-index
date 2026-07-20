@@ -1,0 +1,28 @@
+id: science-museum-london-chrome-web-lab
+name: Chrome Web Lab
+venue: science-museum-london
+project_type: new-exhibition
+year_completed: 2012
+credits:
+  - firm: tellart
+    role: fabrication
+    note: "Engineered and produced the exhibition's hardware and software"
+  - firm: google-creative-lab
+    role: media-design
+    note: "Co-creator of the UX/experience design, per Tellart's own project page"
+technologies:
+  - giant robotic/mechanical "experiments"
+  - real-time web-activity visualization
+summary: >
+  Chrome Web Lab, a year-long exhibition making the mechanics of the
+  internet physically tangible through giant robotic experiments, opened
+  July 19, 2012 at the Science Museum in London, produced by Tellart with
+  Google Creative Lab.
+description: >
+  Visitors interacted with five large-scale physical machines — including
+  a giant Etch A Sketch-style drawing arm and a mechanical orchestra — each
+  driven in real time by web activity from around the world; the
+  exhibition drew roughly 500,000 visitors over its year-long run.
+sources:
+  - https://www.tellart.com/projects/chrome-web-lab-making-the-internet-physical/
+  - https://ciid.dk/tellart-google-chrome-web-lab-exhibition/

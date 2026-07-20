@@ -1,0 +1,12 @@
+id: world-expo-2025-osaka
+name: World Expo 2025 Osaka
+_comments: >
+  No dedicated "world's fair / expo" venue type exists; closest fit is
+  `other`. Ran April 13-October 13, 2025 on Yumeshima island, Osaka.
+venue_type: other
+location:
+  city: Osaka
+  country: JP
+operator: Japan Association for the 2025 World Exposition
+sources:
+  - https://www.tellart.com/projects/netherlands-pavilion-at-world-expo-2025/

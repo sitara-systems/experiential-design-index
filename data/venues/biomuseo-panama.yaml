@@ -1,0 +1,10 @@
+id: biomuseo-panama
+name: Biomuseo
+venue_type: natural-history-museum
+location:
+  city: Panama City
+  country: PA
+operator: Fundación Amador
+sources:
+  - https://www.tellart.com/projects/celebrating-biodiversity-biomuseo/
+  - https://davidcarroll.com/visionary-solutions-brings-biodiversity-to-life-at-panamas-biomuseo/

@@ -1,0 +1,10 @@
+id: science-museum-london
+name: Science Museum
+venue_type: science-center
+location:
+  city: London
+  country: GB
+operator: Science Museum Group
+website: https://www.sciencemuseum.org.uk
+sources:
+  - https://www.tellart.com/projects/chrome-web-lab-making-the-internet-physical/

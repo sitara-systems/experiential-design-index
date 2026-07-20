@@ -1,0 +1,26 @@
+id: world-expo-2020-dubai-uae-pavilion
+name: UAE Pavilion at World Expo 2020
+venue: world-expo-2020-dubai
+project_type: installation
+year_completed: 2021
+credits:
+  - firm: tellart
+    role: exhibit-design
+  - firm: santiago-calatrava
+    role: architecture
+    note: "Falcon-inspired host pavilion building; no firm record yet"
+  - firm: kossmanndejong
+    role: interpretive-planning
+    note: "Experience architects; no firm record yet"
+technologies:
+  - 2D/3D animation
+  - multisensory environment
+summary: >
+  The UAE Pavilion at World Expo 2020 in Dubai, a multisensory host-nation
+  experience celebrating Emirati culture and values inside Santiago
+  Calatrava's falcon-form building, opened October 2021 (the expo was
+  delayed by the COVID-19 pandemic), with experience architecture by
+  Kossmanndejong and exhibit design by Tellart.
+description: ""
+sources:
+  - https://www.tellart.com/projects/uae-pavilion-at-expo-2020-dubai/
