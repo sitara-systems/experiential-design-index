@@ -167,18 +167,27 @@ def enrich_firms(firms, projects, vocab):
         f["successor_name"] = firms[successor]["name"] if successor and successor in firms else successor
 
         entries = sorted(by_firm.get(fid, []), key=lambda t: (t[1].get("year_completed") or t[1].get("year_expected") or 0), reverse=True)
-        proj_list = []
+        # One row per DISTINCT project — a firm holding several credits on
+        # the same project (design + fabrication + media) gets one entry
+        # with the roles merged, not one per credit. The project count (firm
+        # page header, directory threshold) counts projects, not credits.
+        proj_map = {}
         for pid, p, c in entries:
-            proj_list.append({
-                "id": pid,
-                "name": p["name"],
-                "venue": p.get("venue"),
-                "venue_exists": p.get("venue_exists"),
-                "venue_name": p.get("venue_name"),
-                "role_labels": [c.get("role_label", "")],
-                "year_display": p.get("year_display"),
-            })
-        f["projects"] = proj_list
+            e = proj_map.get(pid)
+            if e is None:
+                proj_map[pid] = e = {
+                    "id": pid,
+                    "name": p["name"],
+                    "venue": p.get("venue"),
+                    "venue_exists": p.get("venue_exists"),
+                    "venue_name": p.get("venue_name"),
+                    "role_labels": [],
+                    "year_display": p.get("year_display"),
+                }
+            label = c.get("role_label", "")
+            if label and label not in e["role_labels"]:
+                e["role_labels"].append(label)
+        f["projects"] = list(proj_map.values())
 
 
 def enrich_venues(venues, projects, vocab):
