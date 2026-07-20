@@ -3,6 +3,7 @@ name: Massey Hall
 venue_type: cultural-center
 location:
   city: Toronto
+  province: ON
   state: "ON"
   country: CA
 sources:

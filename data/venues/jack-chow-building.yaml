@@ -3,6 +3,7 @@ name: Jack Chow Building
 venue_type: other
 location:
   city: Vancouver
+  province: BC
   state: BC
   country: CA
 sources:

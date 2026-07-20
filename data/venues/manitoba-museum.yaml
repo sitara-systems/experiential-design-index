@@ -3,6 +3,7 @@ name: The Manitoba Museum
 venue_type: natural-history-museum
 location:
   city: Winnipeg
+  province: MB
   state: MB
   country: CA
 website: https://manitobamuseum.ca

@@ -3,6 +3,7 @@ name: Sam Centre
 venue_type: themed-attraction
 location:
   city: Calgary
+  province: AB
   state: AB
   country: CA
 operator: Calgary Stampede Foundation

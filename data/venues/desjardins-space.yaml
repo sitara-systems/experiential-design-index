@@ -3,6 +3,7 @@ name: Desjardins Space
 venue_type: brand-experience-center
 location:
   city: Montreal
+  province: QC
   state: QC
   country: CA
 operator: Desjardins Group

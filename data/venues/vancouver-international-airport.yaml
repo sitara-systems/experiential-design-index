@@ -3,6 +3,7 @@ name: Vancouver International Airport (YVR)
 venue_type: public-space
 location:
   city: Richmond
+  province: BC
   state: BC
   country: CA
 operator: Vancouver Airport Authority

@@ -3,6 +3,7 @@ name: Calgary Parks +15 Walkway
 venue_type: public-space
 location:
   city: Calgary
+  province: AB
   state: AB
   country: CA
 operator: City of Calgary

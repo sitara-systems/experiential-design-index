@@ -4,7 +4,7 @@ venue_type: history-museum
 location:
   city: Niagara Falls
   state: "ON"
-  country: Canada
+  country: CA
 operator: Niagara Parks
 sources:
   - https://segd.org/projects/currents-niagaras-power-transformed/

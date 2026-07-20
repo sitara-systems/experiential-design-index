@@ -3,6 +3,7 @@ name: Fort Walsh National Historic Site Visitor Centre
 venue_type: visitor-center
 location:
   city: Maple Creek
+  province: SK
   state: SK
   country: CA
 sources:

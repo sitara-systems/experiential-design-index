@@ -3,6 +3,7 @@ name: Upper Canada Village
 venue_type: history-museum
 location:
   city: Morrisburg
+  province: ON
   state: "ON"
   country: CA
 operator: St. Lawrence Parks Commission

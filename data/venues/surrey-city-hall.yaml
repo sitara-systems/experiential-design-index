@@ -3,6 +3,7 @@ name: Surrey City Hall and Civic Plaza
 venue_type: public-space
 location:
   city: Surrey
+  province: BC
   state: BC
   country: CA
 operator: City of Surrey

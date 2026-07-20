@@ -3,6 +3,7 @@ name: Canadian Museum for Human Rights
 venue_type: history-museum
 location:
   city: Winnipeg
+  province: MB
   state: MB
   country: CA
 operator: Government of Canada

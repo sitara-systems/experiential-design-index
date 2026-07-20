@@ -3,6 +3,7 @@ name: Chinese Canadian Museum
 venue_type: history-museum
 location:
   city: Vancouver
+  province: BC
   state: BC
   country: CA
 website: https://www.chinesecanadianmuseum.ca

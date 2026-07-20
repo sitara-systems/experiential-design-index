@@ -3,6 +3,7 @@ name: Philip J. Currie Dinosaur Museum
 venue_type: natural-history-museum
 location:
   city: Wembley
+  province: AB
   state: AB
   country: CA
 sources:

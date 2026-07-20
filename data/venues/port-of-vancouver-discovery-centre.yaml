@@ -3,6 +3,7 @@ name: Port of Vancouver Discovery Centre
 venue_type: visitor-center
 location:
   city: Vancouver
+  province: BC
   state: BC
   country: CA
 operator: Vancouver Fraser Port Authority

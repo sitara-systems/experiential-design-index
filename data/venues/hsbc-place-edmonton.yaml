@@ -3,6 +3,7 @@ name: HSBC Place
 venue_type: public-space
 location:
   city: Edmonton
+  province: AB
   state: AB
   country: CA
 sources:

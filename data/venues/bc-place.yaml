@@ -3,6 +3,7 @@ name: BC Place
 venue_type: sports-venue
 location:
   city: Vancouver
+  province: BC
   state: BC
   country: CA
 sources:

@@ -3,6 +3,7 @@ name: Britannia Mine Museum
 venue_type: history-museum
 location:
   city: Britannia Beach
+  province: BC
   state: BC
   country: CA
 website: https://britanniaminemuseum.ca

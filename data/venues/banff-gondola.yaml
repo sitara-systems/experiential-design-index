@@ -3,6 +3,7 @@ name: Banff Gondola
 venue_type: themed-attraction
 location:
   city: Banff
+  province: AB
   state: AB
   country: CA
 operator: Pursuit Collection

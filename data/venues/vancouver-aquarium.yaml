@@ -3,6 +3,7 @@ name: Vancouver Aquarium
 venue_type: aquarium-zoo
 location:
   city: Vancouver
+  province: BC
   state: BC
   country: CA
 website: https://www.vanaqua.org

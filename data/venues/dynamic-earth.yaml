@@ -3,6 +3,7 @@ name: Dynamic Earth
 venue_type: science-center
 location:
   city: Sudbury
+  province: ON
   state: "ON"
   country: CA
 operator: Science North

@@ -3,6 +3,7 @@ name: King Edward Hotel (King Eddy)
 venue_type: public-space
 location:
   city: Calgary
+  province: AB
   state: AB
   country: CA
 sources:

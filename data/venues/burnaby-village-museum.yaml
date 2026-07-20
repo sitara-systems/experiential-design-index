@@ -3,6 +3,7 @@ name: Burnaby Village Museum
 venue_type: history-museum
 location:
   city: Burnaby
+  province: BC
   state: BC
   country: CA
 operator: City of Burnaby

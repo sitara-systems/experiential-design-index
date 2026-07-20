@@ -3,6 +3,7 @@ name: Canadian Museum of History
 venue_type: history-museum
 location:
   city: Gatineau
+  province: QC
   state: QC
   country: CA
 operator: Government of Canada

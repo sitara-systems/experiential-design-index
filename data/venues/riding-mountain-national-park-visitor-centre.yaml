@@ -3,6 +3,7 @@ name: Riding Mountain National Park Visitor Centre
 venue_type: visitor-center
 location:
   city: Onanole
+  province: MB
   state: MB
   country: CA
 operator: Parks Canada

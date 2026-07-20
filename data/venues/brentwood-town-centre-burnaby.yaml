@@ -3,6 +3,7 @@ name: Brentwood Town Centre (public art site)
 venue_type: public-space
 location:
   city: Burnaby
+  province: BC
   state: BC
   country: CA
 sources:

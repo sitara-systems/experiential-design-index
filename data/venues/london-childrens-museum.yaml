@@ -3,6 +3,7 @@ name: London Children's Museum
 venue_type: childrens-museum
 location:
   city: London
+  province: ON
   state: "ON"
   country: CA
 website: https://www.londonchildrensmuseum.ca

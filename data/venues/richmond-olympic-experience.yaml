@@ -3,6 +3,7 @@ name: Richmond Olympic Experience
 venue_type: themed-attraction
 location:
   city: Richmond
+  province: BC
   state: BC
   country: CA
 operator: Richmond Olympic Oval

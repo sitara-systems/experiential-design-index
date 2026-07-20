@@ -6,7 +6,7 @@ website: https://entro.com
 hq:
   city: Toronto
   state: "ON"
-  country: Canada
+  country: CA
 roles:
   - graphics-wayfinding
 status: active

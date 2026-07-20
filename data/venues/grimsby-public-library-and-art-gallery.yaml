@@ -3,6 +3,7 @@ name: Grimsby Public Library and Art Gallery
 venue_type: library-archive
 location:
   city: Grimsby
+  province: ON
   state: "ON"
   country: CA
 sources:

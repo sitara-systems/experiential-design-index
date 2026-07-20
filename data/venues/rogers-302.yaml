@@ -3,6 +3,7 @@ name: Rogers 302
 venue_type: brand-experience-center
 location:
   city: Toronto
+  province: ON
   state: "ON"
   country: CA
 operator: Rogers Communications

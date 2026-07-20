@@ -3,6 +3,7 @@ name: Toronto Zoo Panda Interpretive Centre
 venue_type: aquarium-zoo
 location:
   city: Toronto
+  province: ON
   state: "ON"
   country: CA
 sources:

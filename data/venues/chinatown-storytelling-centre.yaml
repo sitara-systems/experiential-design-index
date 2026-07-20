@@ -3,6 +3,7 @@ name: Chinatown Storytelling Centre
 venue_type: history-museum
 location:
   city: Vancouver
+  province: BC
   state: BC
   country: CA
 website: https://www.chinatownstorytellingcentre.org

@@ -3,6 +3,7 @@ name: La Maison du Kamouraska
 venue_type: cultural-center
 location:
   city: Kamouraska
+  province: QC
   state: QC
   country: CA
 operator: Tourisme Kamouraska

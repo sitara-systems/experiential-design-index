@@ -17,7 +17,7 @@ other_offices:
     state: DC
   - city: Vancouver
     state: BC
-    country: Canada
+    country: CA
 founded: 1942
 roles:
   - architecture

@@ -3,6 +3,7 @@ name: Storyeum
 venue_type: themed-attraction
 location:
   city: Vancouver
+  province: BC
   state: BC
   country: CA
 sources:

@@ -3,6 +3,7 @@ name: Canada Place
 venue_type: public-space
 location:
   city: Vancouver
+  province: BC
   state: BC
   country: CA
 operator: Port of Vancouver

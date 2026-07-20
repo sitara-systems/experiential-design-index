@@ -3,6 +3,7 @@ name: Cape Breton Miners Museum
 venue_type: history-museum
 location:
   city: Glace Bay
+  province: NS
   state: NS
   country: CA
 sources:

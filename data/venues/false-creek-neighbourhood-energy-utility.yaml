@@ -3,6 +3,7 @@ name: Southeast False Creek Neighbourhood Energy Utility (The Stacks)
 venue_type: public-space
 location:
   city: Vancouver
+  province: BC
   state: BC
   country: CA
 operator: City of Vancouver

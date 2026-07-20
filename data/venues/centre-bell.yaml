@@ -3,6 +3,7 @@ name: Centre Bell
 venue_type: sports-venue
 location:
   city: Montreal
+  province: QC
   state: QC
   country: CA
 operator: Montreal Canadiens

@@ -3,6 +3,7 @@ name: Squamish Lil'wat Cultural Centre
 venue_type: cultural-center
 location:
   city: Whistler
+  province: BC
   state: BC
   country: CA
 website: https://slcc.ca

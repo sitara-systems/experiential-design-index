@@ -3,6 +3,7 @@ name: Westbrook Welcome Centre
 venue_type: academic-institution
 location:
   city: Vancouver
+  province: BC
   state: BC
   country: CA
 operator: University of British Columbia

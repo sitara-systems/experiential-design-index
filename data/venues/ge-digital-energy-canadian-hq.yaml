@@ -3,6 +3,7 @@ name: GE Digital Energy Canadian Headquarters
 venue_type: briefing-center
 location:
   city: Markham
+  province: ON
   state: "ON"
   country: CA
 operator: GE Digital Energy (GE Power)

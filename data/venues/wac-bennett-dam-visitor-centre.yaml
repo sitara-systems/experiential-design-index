@@ -3,6 +3,7 @@ name: W.A.C. Bennett Dam Visitor Centre
 venue_type: visitor-center
 location:
   city: Hudson's Hope
+  province: BC
   state: BC
   country: CA
 operator: BC Hydro

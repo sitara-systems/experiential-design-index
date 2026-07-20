@@ -3,6 +3,7 @@ name: Waterton Lakes National Park Visitor Centre
 venue_type: visitor-center
 location:
   city: Waterton Park
+  province: AB
   state: AB
   country: CA
 operator: Parks Canada

@@ -3,6 +3,7 @@ name: Fort McMurray Heritage Village
 venue_type: history-museum
 location:
   city: Fort McMurray
+  province: AB
   state: AB
   country: CA
 operator: Fort McMurray Historical Society

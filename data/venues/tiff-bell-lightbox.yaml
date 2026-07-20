@@ -3,6 +3,7 @@ name: TIFF Bell Lightbox
 venue_type: cultural-center
 location:
   city: Toronto
+  province: ON
   state: "ON"
   country: CA
 operator: Toronto International Film Festival (TIFF)

@@ -3,6 +3,7 @@ name: "Ontario Science Centre — TELUSCAPE Exploration Plaza"
 venue_type: science-center
 location:
   city: Toronto
+  province: ON
   state: "ON"
   country: CA
 sources:

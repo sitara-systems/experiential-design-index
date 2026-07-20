@@ -3,6 +3,7 @@ name: Discovery Centre
 venue_type: science-center
 location:
   city: Halifax
+  province: NS
   state: NS
   country: CA
 sources:
