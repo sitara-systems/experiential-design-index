@@ -17,6 +17,7 @@ Stdlib + PyYAML + Jinja2 only, following scripts/validate.py's conventions
 or writes anything under data/, schema/, or docs/ — read-only on data/,
 additive everywhere else.
 """
+import argparse
 import csv
 import datetime
 import json
@@ -202,6 +203,117 @@ def enrich_venues(venues, projects, vocab):
         v["project_count"] = len(proj_list)
 
 
+# --------------------------------------------------------- ranked lists ----
+# HANDOFF track F: build now (behind --lists, unlinked from the live site),
+# publish is Nathan-gated per family. Scoring formula is
+# docs/editorial-policy.md's "Ranked lists" section, verbatim -- do not
+# hand-tune weights here; edit the policy doc first, then mirror the change.
+
+RANKED_LIST_MIN_FIRMS = 8
+RANKED_LIST_WINDOW_YEARS = 5
+RECENCY_WEIGHTS = {0: 1.0, 1: 1.0, 2: 0.75, 3: 0.75, 4: 0.5, 5: 0.5}
+SOURCING_BONUS_PER_PROJECT = 0.1
+SOURCING_BONUS_CAP = 0.5
+
+
+def _eligible_projects_for(projects, current_year):
+    """Projects eligible for any ranked-list scoring: completed, dated,
+    within the trailing window. Returns [(pid, p, age)]."""
+    out = []
+    for pid, p in projects.items():
+        if (p.get("status") or "completed") != "completed":
+            continue
+        year = p.get("year_completed")
+        if not year:
+            continue
+        age = current_year - year
+        if 0 <= age <= RANKED_LIST_WINDOW_YEARS:
+            out.append((pid, p, age))
+    return out
+
+
+def _independent_sourcing_bonus(p, firm_website):
+    """+0.1 if the project has 2+ distinct source domains not operated by
+    the credited firm (its own site doesn't count toward corroboration)."""
+    firm_domain = urllib.parse.urlsplit(firm_website).netloc if firm_website else None
+    domains = {urllib.parse.urlsplit(s).netloc for s in (p.get("sources") or []) if s}
+    independent = domains - ({firm_domain} if firm_domain else set())
+    return SOURCING_BONUS_PER_PROJECT if len(independent) >= 2 else 0.0
+
+
+def score_firms(firms, projects, eligible, credit_matches):
+    """Score every screened firm for one list family.
+
+    credit_matches(project, credit) -> bool decides whether a credit counts
+    toward this family (e.g. credit['role'] == 'exhibit-design', or the
+    project carries a given technology_tag regardless of role).
+
+    Returns rows sorted by (score desc, status_verified desc, name asc):
+    [{"firm": firm_dict, "score": float, "eligible_projects": [...]}]
+    """
+    rows = []
+    for fid, f in firms.items():
+        score = 0.0
+        bonus = 0.0
+        eligible_projects = []
+        for pid, p, age in eligible:
+            credits = p.get("credits") or []
+            matched = [c for c in credits if isinstance(c, dict) and c.get("firm") == fid and credit_matches(p, c)]
+            if not matched:
+                continue
+            score += RECENCY_WEIGHTS[age]
+            bonus += _independent_sourcing_bonus(p, f.get("website"))
+            eligible_projects.append({
+                "id": pid, "name": p["name"],
+                "year": p.get("year_completed"),
+            })
+        if not eligible_projects:
+            continue
+        score += min(bonus, SOURCING_BONUS_CAP)
+        eligible_projects.sort(key=lambda ep: ep["year"] or 0, reverse=True)
+        rows.append({"firm": f, "score": score, "eligible_projects": eligible_projects})
+
+    # Three ascending stable sorts, least- to most-significant key, so the
+    # tie-break rule (score desc, then most-recent status_verified, then
+    # name as a final deterministic tiebreak) stays legible.
+    rows.sort(key=lambda r: r["firm"]["name"].lower())
+    rows.sort(key=lambda r: r["firm"].get("status_verified") or datetime.date.min, reverse=True)
+    rows.sort(key=lambda r: r["score"], reverse=True)
+    return rows
+
+
+def build_role_list(role_id, role_label, firms, projects, current_year):
+    eligible = _eligible_projects_for(projects, current_year)
+    rows = score_firms(firms, projects, eligible, lambda p, c: c.get("role") == role_id)
+    ranked = len(rows) >= RANKED_LIST_MIN_FIRMS
+    if not ranked:
+        rows.sort(key=lambda r: r["firm"]["name"].lower())
+    return {
+        "slug": f"role-{role_id}",
+        "title": f"Top {role_label} Firms" if ranked else f"Firms Working In {role_label}",
+        "ranked": ranked,
+        "rows": rows,
+    }
+
+
+def build_tech_tag_list(tag_id, tag_label, firms, projects, current_year):
+    eligible = _eligible_projects_for(projects, current_year)
+    # A technology tag describes the PROJECT, not one credited role -- any
+    # firm credited on a tagged project counts (matches the "firms with the
+    # most AI-credited built projects" framing in
+    # ranking-methodology-rationale.md, not a role-filtered count).
+    rows = score_firms(firms, projects, eligible, lambda p, c: tag_id in (p.get("technology_tags") or []))
+    ranked = len(rows) >= RANKED_LIST_MIN_FIRMS
+    if not ranked:
+        rows.sort(key=lambda r: r["firm"]["name"].lower())
+    return {
+        "slug": f"tech-{tag_id}",
+        "title": f"Top {tag_label}-Credited Firms" if ranked else f"Firms With {tag_label}-Credited Projects",
+        "ranked": ranked,
+        "rows": rows,
+    }
+
+
 # ------------------------------------------------------------------ JSON-LD --
 
 def breadcrumb_ld(crumbs):
@@ -290,6 +402,16 @@ def dumps_ld(obj):
 # ------------------------------------------------------------------- build --
 
 def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--lists", action="store_true",
+        help="also render draft ranked-list pages to _site/lists-draft/ "
+             "(HANDOFF track F -- unlinked from the live site, sitemap, and "
+             "llms.txt; for local Nathan review only, nothing publishes "
+             "from this flag)",
+    )
+    args = parser.parse_args()
+
     if SITE.exists():
         shutil.rmtree(SITE)
     (SITE / "firms").mkdir(parents=True)
@@ -433,6 +555,34 @@ def main():
         url = f"{SITE_URL}/venues/{vid}.html"
         render("venue.html", SITE / "venues" / f"{vid}.html", venue=v, jsonld=dumps_ld(venue_jsonld(v, url)))
 
+    # ---- draft ranked lists (HANDOFF track F; --lists only) ----
+    list_families = []
+    if args.lists:
+        (SITE / "lists-draft").mkdir(parents=True)
+        current_year = datetime.date.today().year
+
+        role_families = [build_role_list(rid, label, firms, projects, current_year)
+                          for rid, label in sorted(vocab["roles"].items(), key=lambda kv: kv[1])]
+        tag_families = [build_tech_tag_list("artificial-intelligence", "AI/Machine Learning", firms, projects, current_year)]
+
+        for fam in role_families + tag_families:
+            render(
+                "ranked_list.html", SITE / "lists-draft" / f"{fam['slug']}.html",
+                list_title=fam["title"], ranked=fam["ranked"], firms=fam["rows"],
+                window_start=current_year - RANKED_LIST_WINDOW_YEARS, window_end=current_year,
+            )
+            list_families.append({
+                "slug": fam["slug"], "title": fam["title"],
+                "ranked": fam["ranked"], "count": len(fam["rows"]),
+            })
+
+        render(
+            "lists_index.html", SITE / "lists-draft" / "index.html",
+            families=list_families,
+            ranked_count=sum(1 for f in list_families if f["ranked"]),
+            roundup_count=sum(1 for f in list_families if not f["ranked"]),
+        )
+
     # ---- robots.txt ----
     robots = """# robots.txt for The Experiential Design Index
 # Standard search crawlers and AI/answer-engine crawlers are explicitly
@@ -441,6 +591,7 @@ def main():
 
 User-agent: *
 Allow: /
+Disallow: /lists-draft/
 
 # AI assistants / answer engines -- explicitly allowed
 User-agent: GPTBot
@@ -610,6 +761,11 @@ Sitemap: {sitemap}
     print(f"  + home, about, 3 browse index pages")
     print(f"  robots.txt, llms.txt, sitemap.xml ({len(urls)} urls)")
     print(f"  open-data exports: _site/data/{{firms,projects,venues}}.{{json,csv}}")
+    if args.lists:
+        print(f"  DRAFT lists (--lists, unpublished, not in sitemap/nav): "
+              f"{len(list_families)} families in _site/lists-draft/ "
+              f"({sum(1 for f in list_families if f['ranked'])} ranked, "
+              f"{sum(1 for f in list_families if not f['ranked'])} unranked roundup)")
     if warnings:
         print(f"  {len(warnings)} warning(s): unlinked firm credits (credited firm has no firm record)")
         for w in warnings[:20]:

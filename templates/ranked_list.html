@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block title %}{{ list_title }} (DRAFT, unpublished) — The Experiential Design Index{% endblock %}
+{% block meta_description %}{{ list_title }} — draft, not yet published.{% endblock %}
+{% block content %}
+<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; <a href="{{ base }}/lists-draft/index.html">Lists (draft)</a> &gt; {{ list_title }}</div>
+<p class="note" style="border:1px solid var(--border);background:var(--accent-bg);padding:.75rem 1rem;border-radius:4px;">
+  <strong>DRAFT — unpublished.</strong> This page is not linked from the live
+  site, not in the sitemap, and not indexed by search engines. It exists for
+  internal review only (HANDOFF track F). Regenerate with
+  <code>python scripts/build_site.py --lists</code>.
+</p>
+<h1>{{ list_title }}</h1>
+<p class="subtitle">
+  {% if ranked %}
+  Ranked by recency-weighted eligible project count, {{ window_start }}–{{ window_end }}.
+  {{ firms | length }} firms clear the minimum-depth bar (8+) for this list.
+  {% else %}
+  Unranked roundup — fewer than 8 firms show eligible activity in this
+  window, so a ranking would be a false signal. Listed alphabetically
+  instead.
+  {% endif %}
+</p>
+<p class="note">
+  Score = 1.0 per eligible project completed this year or last, 0.75 for
+  2–3 years ago, 0.5 for 4–5 years ago, +0.1 per independently-sourced
+  project (capped at +0.5/firm). Eligible: <code>status: completed</code>
+  projects with <code>year_completed</code> in the trailing 5 years.
+  Ties broken by most recent <code>status_verified</code> date. See
+  <a href="{{ base }}/about.html">About</a> for the full methodology.
+</p>
+<table class="list">
+  <thead>
+    <tr>
+      {% if ranked %}<th>Rank</th><th>Score</th>{% endif %}
+      <th>Firm</th><th>HQ</th><th>Eligible projects</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for row in firms %}
+    <tr>
+      {% if ranked %}<td>{{ loop.index }}</td><td>{{ "%.1f"|format(row.score) }}</td>{% endif %}
+      <td><a href="{{ base }}/firms/{{ row.firm.id }}.html">{{ row.firm.name }}</a></td>
+      <td>{{ row.firm.hq.city }}, {{ row.firm.hq.state }}</td>
+      <td>
+        {% for ep in row.eligible_projects %}
+        <a href="{{ base }}/projects/{{ ep.id }}.html">{{ ep.name }}</a> ({{ ep.year }}){% if not loop.last %}, {% endif %}
+        {% endfor %}
+      </td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endblock %}
