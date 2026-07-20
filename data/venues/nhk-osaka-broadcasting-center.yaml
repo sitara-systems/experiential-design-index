@@ -1,0 +1,8 @@
+id: nhk-osaka-broadcasting-center
+name: NHK Osaka Broadcasting Center and Osaka Museum of History
+venue_type: history-museum
+location:
+  city: Osaka
+  country: JP
+sources:
+  - https://pcparch.com/work/type/civic-and-cultural

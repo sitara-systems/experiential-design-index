@@ -1,0 +1,8 @@
+id: lola-mora-cultural-center
+name: Lola Mora Cultural Center
+venue_type: cultural-center
+location:
+  city: Jujuy
+  country: AR
+sources:
+  - https://pcparch.com/work/type/civic-and-cultural

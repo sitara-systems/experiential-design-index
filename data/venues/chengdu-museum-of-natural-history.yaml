@@ -1,0 +1,9 @@
+id: chengdu-museum-of-natural-history
+name: Chengdu Museum of Natural History
+venue_type: natural-history-museum
+location:
+  city: Chengdu
+  country: CN
+sources:
+  - https://pcparch.com/work/type/civic-and-cultural
+  - https://www.archdaily.com/996816/chengdu-natural-history-museum-pelli-clarke-and-partners-plus-cswadi

@@ -1,0 +1,8 @@
+id: national-museum-of-art-osaka
+name: National Museum of Art, Osaka
+venue_type: art-museum
+location:
+  city: Osaka
+  country: JP
+sources:
+  - https://pcparch.com/work/type/civic-and-cultural

@@ -1,0 +1,8 @@
+id: luo-gang-concert-hall
+name: Luo Gang Concert Hall
+venue_type: other
+location:
+  city: Hefei
+  country: CN
+sources:
+  - https://pcparch.com/work/type/civic-and-cultural
