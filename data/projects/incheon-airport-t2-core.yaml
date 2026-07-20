@@ -1,0 +1,21 @@
+id: incheon-airport-t2-core
+name: Incheon International Airport, Terminal 2
+venue: incheon-international-airport-t2
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: gensler
+    role: architecture
+  - firm: heerim-architects
+    role: architecture
+    note: "Architect of record; no firm record yet."
+technologies: []
+summary: >
+  Gensler served as collaborating design architect alongside Korean
+  architect-of-record Heerim Architects on Incheon International
+  Airport's Terminal 2, near Seoul, South Korea, opened in January 2018
+  ahead of the PyeongChang Winter Olympics.
+description: ""
+sources:
+  - https://www.gensler.com/projects/incheon-international-airport
+  - https://www.arch2o.com/incheon-international-airport-gensler/

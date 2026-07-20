@@ -1,0 +1,10 @@
+id: shanghai-tower
+name: Shanghai Tower ("Top of Shanghai" Observation Deck)
+venue_type: themed-attraction
+location:
+  city: Shanghai
+  country: CN
+operator: Shanghai Tower Construction and Development
+sources:
+  - https://www.archdaily.com/783216/shanghai-tower-gensler
+  - https://www.smartshanghai.com/articles/travel/shanghai-tower-worlds-highest-observation-deck-is-open-now

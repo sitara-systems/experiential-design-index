@@ -1,0 +1,14 @@
+id: incheon-international-airport-t2
+name: Incheon International Airport, Terminal 2
+venue_type: other
+location:
+  city: Incheon
+  country: KR
+operator: Incheon International Airport Corporation
+sources:
+  - https://www.gensler.com/projects/incheon-international-airport
+  - https://www.arch2o.com/incheon-international-airport-gensler/
+_comments: >
+  No dedicated airport/transit venue type exists in the vocabulary
+  (flagged as a recurring gap in HANDOFF Track D's venue-type audit,
+  2026-07-19); closest fit is `other`.

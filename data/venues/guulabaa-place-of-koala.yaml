@@ -1,0 +1,10 @@
+id: guulabaa-place-of-koala
+name: Guulabaa (Place of Koala)
+venue_type: visitor-center
+location:
+  city: Port Macquarie
+  country: AU
+operator: Forestry Corporation of NSW
+sources:
+  - https://www.gensler.com/projects/guulabaa-place-of-koala
+  - https://www.forestrycorporation.com.au/about/news/guulabaa,-place-of-koala-officially-opens

@@ -1,0 +1,10 @@
+id: palm-tower
+name: Palm Tower (The View at The Palm)
+venue_type: themed-attraction
+location:
+  city: Dubai
+  country: AE
+operator: Nakheel Properties
+sources:
+  - https://www.nakheel.com/en/media-centre/press-releases/news-detail/2021/04/04/the-view-at-the-palm-to-open-on-7-april-2021
+  - https://www.gensler.com/projects/the-view-at-the-palm

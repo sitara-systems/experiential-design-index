@@ -1,0 +1,10 @@
+id: celonis-hq-munich
+name: Celonis Headquarters Executive Briefing Center
+venue_type: briefing-center
+location:
+  city: Munich
+  country: DE
+operator: Celonis
+sources:
+  - https://www.gensler.com/projects/celonis
+  - https://www.munich-startup.de/en/93077/celonis-opens-executive-briefing-center/

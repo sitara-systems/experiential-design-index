@@ -1,0 +1,10 @@
+id: accenture-innovation-hub-tokyo
+name: Accenture Innovation Hub Tokyo
+venue_type: briefing-center
+location:
+  city: Tokyo
+  country: JP
+operator: Accenture
+sources:
+  - https://newsroom.accenture.com/news/2018/accenture-unveils-its-innovation-hub-in-tokyo-as-part-of-broader-growth-plans-in-japan
+  - https://digiday.com/marketing/inside-accentures-new-tokyo-innovation-hub/
