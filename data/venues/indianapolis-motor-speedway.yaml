@@ -1,0 +1,11 @@
+id: indianapolis-motor-speedway
+name: Indianapolis Motor Speedway
+venue_type: sports-venue
+location:
+  city: Indianapolis
+  state: IN
+_comments: >
+  The racetrack facility itself, distinct from the on-site
+  Indianapolis Motor Speedway Museum (see `indianapolis-motor-speedway-museum`).
+sources:
+  - https://segd.org/projects/project-100/

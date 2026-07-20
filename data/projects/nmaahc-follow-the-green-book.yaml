@@ -1,0 +1,48 @@
+id: nmaahc-follow-the-green-book
+name: Follow the Green Book
+venue: nmaahc
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: cortina-productions
+    role: media-design
+    note: "Interactive media producer and developer"
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+    note: "Per InPark Magazine; not independently corroborated by a second source"
+  - firm: quatrefoil
+    role: media-design
+    note: "Media/interactive development partner, per InPark Magazine; no firm record yet; not independently corroborated by a second source"
+  - firm: design-and-production-incorporated
+    role: av-integration
+    note: "AV systems integration, per InPark Magazine; not independently corroborated by a second source"
+technologies:
+  - touchscreen dashboard interface
+  - windshield rear-projection
+recognition:
+  - award: "AAM MUSE Awards — Gold, Interactive Kiosks"
+    year: 2017
+    source: https://www.aam-us.org/programs/awards-recognition/2017-muse-award-winners/
+  - award: "Communication Arts Interactive Competition — Award"
+    year: 2017
+    source: https://www.commarts.com/project/26017/follow-the-green-book
+summary: >
+  Follow the Green Book, an interactive kiosk exhibit at the Smithsonian
+  National Museum of African American History and Culture in Washington,
+  DC, has visitors sit in a re-created 1949 Buick sedan and use a touchscreen
+  dashboard to choose stops for gas, food, and lodging, watching
+  windshield-projected dramatized scenes illustrating how African Americans
+  navigated segregation-era America using guides like the Negro Motorist
+  Green Book; produced by Cortina Productions.
+description: >
+  Completion year is not stated unambiguously by any single source found:
+  NMAAHC opened September 24, 2016 and this exhibit is part of its
+  permanent opening-day exhibition floor, so 2016 is used here; Cortina
+  Productions' own site and Communication Arts' project page cite later
+  years (2017/2018) that read as award-cycle rather than completion dates.
+sources:
+  - https://www.commarts.com/project/26017/follow-the-green-book
+  - https://www.cortinaproductions.com/communication-arts-interactive-competition/
+  - https://www.cortinaproductions.com/about/
+  - https://www.aam-us.org/programs/awards-recognition/2017-muse-award-winners/
+  - https://www.inparkmagazine.com/nmaahc-tracing-the-long-arc-of-history/

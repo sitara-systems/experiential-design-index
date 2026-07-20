@@ -1,0 +1,32 @@
+id: sfmoma-magritte-interpretive-gallery
+name: René Magritte — The Fifth Season, Interpretive Gallery
+venue: sfmoma
+project_type: temporary-exhibition
+year_completed: 2018
+credits:
+  - firm: frog
+    role: media-design
+    note: "Designed and developed the AR interpretive gallery, collaborating with SFMOMA's curatorial, digital, marketing, exhibitions, and visitor experience teams; no firm record yet"
+technologies:
+  - depth-sensing cameras
+  - motion-tracking technology
+  - real-time 3D graphics
+technology_tags:
+  - immersive-environment
+recognition:
+  - award: "AAM MUSE Awards — Gold, AR, VR, and Mixed Reality"
+    year: 2019
+    source: https://www.aam-us.org/programs/awards-program/2019-muse-award-winners/
+summary: >
+  The Magritte Interpretive Gallery, an augmented-reality installation
+  designed and developed by frog for SFMOMA's "René Magritte: The Fifth
+  Season" exhibition (San Francisco, May 19–October 28, 2018), used
+  depth-sensing and motion-tracking cameras to power six AR "digital
+  windows" inspired by the window motif in Magritte's paintings, in which
+  visitors' reflections behaved unexpectedly or opened into alternate-reality
+  scenes.
+description: ""
+sources:
+  - https://www.frog.co/press-release/ysfmoma-and-frog-bring-rene-magrittes-late-career-work-to-life
+  - https://www.sfmoma.org/press/release/magritte-enchanted-domain/
+  - https://segd.org/projects/rene-magritte-fifth-season/

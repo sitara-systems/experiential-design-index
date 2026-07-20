@@ -1,0 +1,32 @@
+id: hirshhorn-museum-hirshhorn-eye
+name: Hirshhorn Eye
+venue: hirshhorn-museum
+project_type: installation
+year_completed: 2018
+credits:
+  - firm: linked-by-air
+    role: media-design
+    note: "Lead UX/technical development, strategy, and app/platform development; no firm record yet"
+  - firm: antenna-international
+    role: content-production
+    note: "Executive producer / visitor-guide platform partner; no firm record yet"
+  - firm: captain-and-the-fox
+    role: content-production
+    note: "Video production and editorial (custom artist-interview video content), directed by Rachel Webster; no firm record yet"
+technologies:
+  - browser-based real-time image recognition
+  - mobile web (no app download required)
+recognition:
+  - award: "AAM MUSE Awards — Gold, Mobile Experience"
+    year: 2019
+    source: https://www.aam-us.org/programs/awards-program/2019-muse-award-winners/
+summary: >
+  Hirshhorn Eye (branded "Hi"), a browser-based mobile guide at hi.si.edu,
+  launched at the Hirshhorn Museum and Sculpture Garden in Washington, DC in
+  2018, using real-time image recognition to let visitors scan artworks with
+  their phones and unlock exclusive artist-interview video content.
+description: ""
+sources:
+  - https://www.linkedbyair.net/work/82-smithsonian-hi
+  - https://www.captainandthefox.com/work/5-hirshhorn-eye
+  - https://www.aam-us.org/programs/awards-program/2019-muse-award-winners/

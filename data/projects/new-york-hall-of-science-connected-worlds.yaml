@@ -1,0 +1,40 @@
+id: new-york-hall-of-science-connected-worlds
+name: Connected Worlds
+venue: new-york-hall-of-science
+project_type: installation
+year_completed: 2015
+credits:
+  - firm: design-io
+    role: media-design
+    note: "Lead creative studio — conception, design, development; no firm record yet"
+  - firm: big-show-consulting-and-management
+    role: fabrication
+    note: >
+      Construction management and technical integration — designed and
+      supervised construction/installation, engineered the projection and
+      audio system, devised the modular projection floor surface, handled
+      A/V, control systems, and automation; no firm record yet
+technologies:
+  - openFrameworks
+  - Kinect motion/gesture sensors
+  - infrared cameras
+  - multi-projector floor and wall projection
+technology_tags:
+  - immersive-environment
+  - interactive-installation
+recognition:
+  - award: "AAM MUSE Awards — Gold, Interpretive Interactive Installations"
+    year: 2017
+    source: https://www.aam-us.org/programs/awards-recognition/2017-muse-award-winners/
+summary: >
+  Connected Worlds, a large-scale gesture- and touch-driven interactive
+  ecosystem simulation by Design I/O, opened June 27, 2015 in the New York
+  Hall of Science's Great Hall in Queens, NY; visitors use physical logs to
+  redirect a shared water supply across an interactive floor and plant seeds
+  by hand across six wall-projected habitats linked by a projected
+  waterfall, with real-time visitor actions shaping the ecosystem's health.
+description: ""
+sources:
+  - https://www.design-io.com/projects/connectedworlds
+  - https://nysci.org/press-releases/connected-worlds-press-release
+  - https://www.creativeapplications.net/project/connected-worlds-interactive-ecosystem-for-nysci-by-design-io/

@@ -1,0 +1,36 @@
+id: indianapolis-motor-speedway-project-100
+name: Project 100
+venue: indianapolis-motor-speedway
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: section-127
+    role: graphics-wayfinding
+    note: "Lead wayfinding/environmental-graphic-design firm; 500+ wayfinding elements, facility signage, exterior road mapping, and the Turn 1 entrance gate; no firm record yet"
+  - firm: bomar-industries
+    role: fabrication
+    note: "Primary fabricator, exterior signage; no firm record yet"
+  - firm: sport-graphics
+    role: fabrication
+    note: "Exterior signage elements/fabrication planning; no firm record yet"
+technologies:
+  - black powder-coated steel perforated blade signage
+recognition:
+  - award: "SEGD Global Design Awards — Merit Award, Wayfinding"
+    year: 2018
+    source: https://segd.org/projects/project-100/
+summary: >
+  Project 100, a wayfinding and environmental-graphics program at the
+  Indianapolis Motor Speedway including a redesigned Turn 1 entrance gate,
+  was delivered by Section 127 in 2016 ahead of the track's 100th running of
+  the Indianapolis 500, comprising 500+ wayfinding elements, facility
+  signage, and exterior road mapping.
+description: >
+  Design palette references the Marmon Wasp, the speedway's first
+  Indianapolis 500-winning car (1911). Part of a broader Project 100
+  renovation program (concessions, restrooms, grandstand/suite upgrades,
+  pylon videoboards) managed by AECOM Hunt, which is not credited here as
+  that scope falls under the corpus's general-contracting exclusion.
+sources:
+  - https://segd.org/projects/project-100/
+  - https://aecom.com/projects/indianapolis-motor-speedway-project-100/
