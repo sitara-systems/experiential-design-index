@@ -1,0 +1,9 @@
+id: london-mithraeum
+name: London Mithraeum
+venue_type: history-museum
+location:
+  city: London
+  country: GB
+operator: Bloomberg
+sources:
+  - https://localprojects.com/work/

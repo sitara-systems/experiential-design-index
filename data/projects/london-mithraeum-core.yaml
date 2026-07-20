@@ -1,0 +1,25 @@
+id: london-mithraeum-core
+name: London Mithraeum Core Exhibits
+venue: london-mithraeum
+project_type: new-exhibition
+year_completed: 2017
+credits:
+  - firm: local-projects
+    role: media-design
+  - firm: studio-joseph
+    role: exhibit-design
+  - firm: electrosonic
+    role: av-integration
+  - firm: goppion
+    role: fabrication
+    note: "No firm record yet"
+technology_tags:
+  - immersive-environment
+summary: >
+  London Mithraeum, an underground display of the Roman Temple of Mithras
+  ruins beneath Bloomberg's London headquarters, opened 2017, with media
+  design by Local Projects, exhibit design by Studio Joseph, AV
+  integration by Electrosonic, and display-case fabrication by Goppion.
+description: ""
+sources:
+  - https://localprojects.com/work/

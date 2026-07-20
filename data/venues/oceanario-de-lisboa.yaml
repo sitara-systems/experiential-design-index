@@ -1,0 +1,8 @@
+id: oceanario-de-lisboa
+name: Oceanário de Lisboa
+venue_type: aquarium-zoo
+location:
+  city: Lisbon
+  country: PT
+sources:
+  - https://www.cambridgeseven.com/projects/

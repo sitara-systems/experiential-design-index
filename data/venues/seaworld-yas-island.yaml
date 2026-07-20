@@ -1,0 +1,9 @@
+id: seaworld-yas-island
+name: SeaWorld Yas Island
+venue_type: aquarium-zoo
+location:
+  city: Abu Dhabi
+  country: AE
+operator: Miral
+sources:
+  - https://pgavdestinations.com/project/seaworld-yas-island-abu-dhabi/

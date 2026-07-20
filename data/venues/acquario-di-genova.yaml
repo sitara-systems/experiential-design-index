@@ -1,0 +1,8 @@
+id: acquario-di-genova
+name: Acquario di Genova
+venue_type: aquarium-zoo
+location:
+  city: Genoa
+  country: IT
+sources:
+  - https://www.cambridgeseven.com/projects/

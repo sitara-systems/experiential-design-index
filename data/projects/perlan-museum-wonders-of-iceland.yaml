@@ -1,0 +1,21 @@
+id: perlan-museum-wonders-of-iceland
+name: Wonders of Iceland
+venue: perlan-museum
+project_type: new-exhibition
+year_completed: 2018
+credits:
+  - firm: taylor-studios
+    role: fabrication
+    note: "Glacier models, a 32-foot replica of the Látrabjarg sea cliff with 200+ bird models, and botanical/plant displays"
+  - firm: xibitz
+    role: exhibit-design
+    note: "Prime contractor"
+technology_tags:
+  - immersive-environment
+summary: >
+  Wonders of Iceland, exhibits including a glacier gallery and bird-cliff
+  replica at the Perlan Museum in Reykjavík, Iceland, opened May 2018;
+  Xibitz served as prime contractor with fabrication by Taylor Studios.
+description: ""
+sources:
+  - https://taylorstudios.com/blog/a-cool-story-from-iceland/

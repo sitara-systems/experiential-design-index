@@ -1,0 +1,8 @@
+id: perlan-museum
+name: Perlan Museum
+venue_type: natural-history-museum
+location:
+  city: Reykjavík
+  country: IS
+sources:
+  - https://taylorstudios.com/blog/a-cool-story-from-iceland/

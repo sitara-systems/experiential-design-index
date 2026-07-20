@@ -1,0 +1,8 @@
+id: national-museum-of-australia
+name: National Museum of Australia
+venue_type: history-museum
+location:
+  city: Canberra
+  country: AU
+sources:
+  - https://localprojects.com/work/
