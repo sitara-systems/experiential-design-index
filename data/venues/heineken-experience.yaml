@@ -1,0 +1,9 @@
+id: heineken-experience
+name: Heineken Experience
+venue_type: brand-experience-center
+location:
+  city: Amsterdam
+  country: NL
+operator: Heineken
+sources:
+  - https://blooloop.com/museum/in-depth/brc-imagination-arts-heineken-experience-guinness-storehouse/
