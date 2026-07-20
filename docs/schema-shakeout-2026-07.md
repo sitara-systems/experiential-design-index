@@ -95,7 +95,7 @@ These are fine to leave for Phase 2 batches — they're straightforward paths
 in the validator, not areas of schema ambiguity like the venue-type gaps
 above.
 
-## Open for Nathan
+## Open for editorial review
 
 - Decide the National Building Museum / design-museum vocab question (item 3
   above) — recommend before Phase 2 volume research starts, since choosing

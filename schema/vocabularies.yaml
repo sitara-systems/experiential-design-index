@@ -128,8 +128,8 @@ technology_tags:
 # bar: a project's cited sources must name the product on THAT project;
 # manufacturer/vendor deployment case-study pages are valid public sources
 # (same precedent as firm portfolios — public even if self-authored).
-# Starter set (Nathan 2026-07-19 + same-category peers); extend via flag +
-# Nathan approval like all vocab.
+# Starter set (2026-07-19 + same-category peers); extend via flag +
+# editorial approval like all vocab.
 platforms:
   - id: disguise
     label: Disguise

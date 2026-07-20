@@ -44,12 +44,12 @@ this doc and any batch-specific instructions:
    conflicting credit → leave it out and log it, don't pick a side.
    Institutional sources outrank a firm's self-description when they
    conflict.
-3. **Sitara Systems self-inclusion is Nathan-gated, case by case.** The
+3. **Sitara Systems self-inclusion is editorially gated, case by case.** The
    Proposal-Assets library review gate (see the master
    `ExperientialIndex/CLAUDE.md`) still blocks that specific source
    wholesale. Separately, as of 2026-07-19, individual Sitara projects can
-   be added directly when Nathan points at a specific source (e.g. the
-   sitara-website case-study stubs) — but every hard rule on this page
+   be added directly when editorial review points at a specific source (e.g.
+   the sitara-website case-study stubs) — but every hard rule on this page
    still applies in full, including independent corroboration beyond
    Sitara's own site and the North America venue-scope rule (this is what
    held Tate Modern out of the first pass, despite being Sitara's
@@ -310,10 +310,10 @@ list.*
   Gulch Hub, etc.) — consistently excluded as "not public-facing" by
   independent agents applying the same judgment call flagged as an open
   question in Batch 2. This keeps recurring and keeps costing real,
-  well-documented work — worth Nathan making an explicit, written call
+  well-documented work — worth an explicit, written editorial call
   rather than leaving it to each agent's independent judgment.
 
-  **Resolved same day**: Nathan wrote the explicit call directly into
+  **Resolved same day**: the explicit call was written directly into
   `editorial-policy.md` ("Employee-only corporate workplace interiors are
   out of scope... the line is audience, not client industry") and a
   companion clarification on `[[what "US-based" means]]` (operating
@@ -466,7 +466,7 @@ list.*
   Reconciliation this round: no firm-id near-duplicates found (each
   agent's own dedup pass held this time — a first). One project/venue id
   collision fixed (Norway House Saga Center). Two vocabulary gaps
-  surfaced but not self-resolved (logged for Nathan): (1) no
+  surfaced but not self-resolved (logged for editorial review): (1) no
   `project_types` value fits a standalone master-planning-only engagement
   (Proun's Historic Mitchelville Freedom Park master-plan credit — parked,
   not recorded); (2) no clean role fits "museum consulting" as distinct
@@ -485,11 +485,11 @@ list.*
   `tod-williams-billie-tsien-architects`, `upswell`, `wb-inc`. Given three
   tiers of consistent, large per-tier growth (39→88→112 firms; 473→900→1160
   projects), the next session should treat this as a genuine pause point —
-  confirm scope/scale intent with Nathan before launching Tier 4, per the
+  confirm scope/scale intent editorially before launching Tier 4, per the
   methodology's own "pause between tiers" rationale.
 
-- **North America scope expansion (2026-07-18).** Nathan changed the
-  geographic scope rule: "US-based firms only" → **North America (US +
+- **North America scope expansion (2026-07-18).** The geographic scope
+  rule changed: "US-based firms only" → **North America (US +
   Canada)**, for both firm eligibility and venue/project scope ("I mostly
   mean to exclude firms that don't meaningfully participate in the US
   industry, but Canadian firms definitely count"). Updated `editorial-policy.md`
@@ -616,7 +616,7 @@ This methodology also covers maintenance, not only initial seeding:
 ## Monthly expansion checklist
 
 *The repeatable procedure for keeping the dataset growing after the initial
-seed build. A fresh session (or Nathan) should be able to start here without
+seed build. A fresh session should be able to start here without
 re-deriving anything — every step below points at the fuller process
 description elsewhere in this doc or in `editorial-policy.md`.*
 
