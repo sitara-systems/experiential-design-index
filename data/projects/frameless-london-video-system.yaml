@@ -1,0 +1,26 @@
+id: frameless-london-video-system
+name: Frameless Video System Infrastructure
+venue: frameless-london
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: creative-technology
+    role: av-integration
+technologies:
+  - projection mapping
+  - LED display
+platforms:
+  - disguise
+summary: >
+  Frameless, billed as Britain's largest permanent immersive art venue,
+  opened in 2022 near Marble Arch, London; CT Systems Integration
+  designed and installed the video system across its four immersive
+  galleries, including projection, playback servers, LED, and digital
+  signage.
+description: ""
+_comments: >
+  Distinct from "Stories – Brought to Life," a temporary Frameless
+  touring pop-up (MediaCity Manchester, 2025) — excluded per the
+  ephemeral/event exclusion.
+sources:
+  - https://ct-group.com/us/ct-deliver-complex-video-system-infrastructure-for-frameless-immersive-art-experience/

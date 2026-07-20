@@ -1,0 +1,9 @@
+id: hong-kong-palace-museum
+name: Hong Kong Palace Museum
+venue_type: art-museum
+location:
+  city: Hong Kong
+  country: HK
+operator: West Kowloon Cultural District Authority
+sources:
+  - https://www.arup.com/en-us/projects/hong-kong-palace-museum/

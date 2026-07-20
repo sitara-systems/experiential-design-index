@@ -1,0 +1,10 @@
+id: museo-casa-kahlo
+name: Museo Casa Kahlo
+venue_type: art-museum
+location:
+  city: Mexico City
+  country: MX
+operator: Casa Roja, Coyoacán
+sources:
+  - https://www.pentagram.com/work/museo-casa-kahlo
+  - https://www.designboom.com/architecture/frida-kahlo-museum-artist-family-home-life-design-rockwell-group-mariana-doet-zepeda-orozco-pentagram-09-30-2025/

@@ -1,0 +1,21 @@
+id: lost-shtetl-museum-building
+name: Lost Shtetl Museum
+venue: lost-shtetl-museum
+project_type: new-building
+year_completed: 2024
+credits:
+  - firm: lahdelma-and-mahlamaki
+    role: architecture
+    note: "no firm record yet"
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+    note: permanent exhibition design
+technologies: []
+summary: >
+  Lost Shtetl Museum, Šeduva, Lithuania, opened in 2024; architecture by
+  Lahdelma & Mahlamäki, with permanent exhibition design by Ralph
+  Appelbaum Associates.
+description: ""
+sources:
+  - https://raai.com/project/lost-shtetl-museum
+  - https://en.wikipedia.org/wiki/Lost_Shtetl_Museum

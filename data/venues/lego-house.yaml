@@ -1,0 +1,9 @@
+id: lego-house
+name: LEGO House
+venue_type: corporate-museum
+location:
+  city: Billund
+  country: DK
+operator: LEGO Group
+sources:
+  - https://raai.com/project/lego-house

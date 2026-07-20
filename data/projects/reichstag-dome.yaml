@@ -1,0 +1,19 @@
+id: reichstag-dome
+name: Reichstag Dome
+venue: reichstag-building
+project_type: new-building
+year_completed: 1999
+credits:
+  - firm: foster-and-partners
+    role: architecture
+technologies: []
+summary: >
+  The Reichstag Dome, a public glass cupola with a spiral ramp leading to
+  an observation deck above the German Bundestag's debating chamber in
+  Berlin, opened in 1999 as part of Foster + Partners' rebuilding of the
+  Reichstag; it is a free public visitor attraction drawing roughly 3
+  million visitors a year.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/Reichstag_dome
+  - https://www.fosterandpartners.com/insights/plus-journal/the-reichstag-s-new-lightness-of-being

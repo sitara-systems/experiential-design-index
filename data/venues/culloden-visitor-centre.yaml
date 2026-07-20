@@ -1,0 +1,9 @@
+id: culloden-visitor-centre
+name: Culloden Visitor Centre
+venue_type: visitor-center
+location:
+  city: Inverness
+  country: GB
+operator: National Trust for Scotland
+sources:
+  - https://raai.com/project/culloden-visitor-centre-at-culloden-battlefield

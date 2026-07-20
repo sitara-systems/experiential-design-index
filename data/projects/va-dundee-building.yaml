@@ -1,0 +1,22 @@
+id: va-dundee-building
+name: V&A Dundee
+venue: va-dundee
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: kengo-kuma-and-associates
+    role: architecture
+    note: "no firm record yet"
+  - firm: arup
+    role: acoustics
+  - firm: arup
+    role: lighting-design
+technologies: []
+summary: >
+  V&A Dundee, Scotland's design museum on the River Tay waterfront, opened
+  in 2018 with architecture by Kengo Kuma & Associates; Arup provided
+  acoustics and lighting design among its broader engineering scope.
+description: ""
+sources:
+  - https://www.arup.com/en-us/projects/v-and-a-dundee/
+  - https://www.re-thinkingthefuture.com/case-studies/a9389-va-dundee-by-arup-associates-and-arup/

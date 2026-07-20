@@ -1,0 +1,9 @@
+id: design-museum-london
+name: Design Museum
+venue_type: design-museum
+location:
+  city: London
+  country: GB
+website: https://designmuseum.org
+sources:
+  - https://www.pentagram.com/work/ferrari-under-the-skin

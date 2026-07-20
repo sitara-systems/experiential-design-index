@@ -1,0 +1,8 @@
+id: garden-museum-london
+name: Garden Museum
+venue_type: history-museum
+location:
+  city: London
+  country: GB
+sources:
+  - https://www.pentagram.com/work/garden-museum

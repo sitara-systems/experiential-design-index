@@ -1,0 +1,8 @@
+id: burj-khalifa
+name: Burj Khalifa
+venue_type: themed-attraction
+location:
+  city: Dubai
+  country: AE
+sources:
+  - https://en.wikipedia.org/wiki/At_the_Top_(Burj_Khalifa)

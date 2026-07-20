@@ -1,0 +1,22 @@
+id: lego-house-building
+name: LEGO House
+venue: lego-house
+project_type: new-building
+year_completed: 2017
+credits:
+  - firm: big-bjarke-ingels-group
+    role: architecture
+    note: "no firm record yet"
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+technologies: []
+summary: >
+  LEGO House, the LEGO Group's brand experience center in Billund,
+  Denmark, opened September 2017; architecture by BIG-Bjarke Ingels
+  Group (commissioned 2013), with exhibition design by Ralph Appelbaum
+  Associates.
+description: ""
+sources:
+  - https://raai.com/project/lego-house
+  - https://en.wikipedia.org/wiki/LEGO_House
+  - https://www.dezeen.com

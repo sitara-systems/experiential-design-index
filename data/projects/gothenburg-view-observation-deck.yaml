@@ -1,0 +1,23 @@
+id: gothenburg-view-observation-deck
+name: Gothenburg View Observation Deck
+venue: karlatornet
+project_type: installation
+year_completed: 2026
+credits:
+  - firm: som
+    role: architecture
+  - firm: entasis
+    role: architecture
+    note: "no firm record yet; collaborating architect"
+technologies: []
+summary: >
+  Gothenburg View, the observation deck atop Karlatornet in Gothenburg,
+  Sweden, opened June 2026; SOM won the tower's 2014 international
+  design competition, with Copenhagen firm Entasis as collaborating
+  architect. The deck includes a cantilevered glass viewing platform, a
+  glass-bottom balcony, and exhibitions on the tower's construction and
+  the city's skyline.
+description: ""
+sources:
+  - https://www.som.com/projects/karlatornet/
+  - https://www.lindholmeninnovationdistrict.se/en/news/gothenburg-view-opens-karlatornet

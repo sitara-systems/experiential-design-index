@@ -34,3 +34,24 @@ sources:
   - https://www.fosterandpartners.com/studio/san-francisco
   - https://en.wikipedia.org/wiki/Foster_and_Partners
   - https://www.cgpartnersllc.com/projects/hearst-corporation-hearst-tower-signage/
+_comments: >
+  2026-07-19 Track K international resweep added 8 international
+  experiential credits (Zayed National Museum, Reichstag Dome, Imperial
+  War Museum, Narbo Via, Datong Art Museum, Lenbachhaus, MOL Campus,
+  Sainsbury Centre), which trips validate.py's operating-reality warning
+  (8 international vs. 3 NA credits, most recent NA credit older than
+  most recent international one). Editorial judgment call, not resolved
+  here: the research pass found F+P's NA operating reality substantial
+  and current despite this dataset's thin NA experiential-project
+  coverage — active, permanent New York and San Francisco studios
+  delivering major, recent work (270 Park Avenue/JPMorganChase HQ
+  completed 2025, Neri Oxman Studio NYC completed 2024, Transamerica
+  Pyramid renovation SF completed 2024) — none of it experiential/
+  exhibit-relevant enough to clear this index's inclusion bar, which is
+  why the NA credit count here reads thin. This looks structurally
+  different from the Tellart precedent (thin, stale, legal-shell-shaped
+  NA presence) rather than the same shape, but it hasn't been reviewed
+  against that precedent by a human. Left as `active`/NY-HQ pending that
+  review — do not silently demote or re-flag as an open question without
+  reading this note first.
+

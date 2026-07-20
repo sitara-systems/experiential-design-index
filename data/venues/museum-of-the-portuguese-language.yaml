@@ -1,0 +1,9 @@
+id: museum-of-the-portuguese-language
+name: Museum of the Portuguese Language
+venue_type: history-museum
+location:
+  city: São Paulo
+  country: BR
+operator: Estação da Luz
+sources:
+  - https://raai.com/project/museum-of-the-portuguese-language

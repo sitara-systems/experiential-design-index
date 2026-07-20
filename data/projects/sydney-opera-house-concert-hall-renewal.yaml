@@ -1,0 +1,22 @@
+id: sydney-opera-house-concert-hall-renewal
+name: Concert Hall Renewal
+venue: sydney-opera-house
+project_type: major-renovation
+year_completed: 2022
+credits:
+  - firm: arm-architecture
+    role: architecture
+    note: "no firm record yet"
+  - firm: arup
+    role: acoustics
+technologies: []
+summary: >
+  The Sydney Opera House Concert Hall reopened in July 2022 after a
+  AUD$102M renewal; Arup redesigned the hall's acoustics with ARM
+  Architecture, addressing the venue's long-standing acoustic problems
+  with a new diffusion-panel system and rigging structure for ceiling
+  reflectors.
+description: ""
+sources:
+  - https://www.arup.com/en-us/projects/sydney-opera-house-concert-hall-renewal/
+  - https://www.dezeen.com/2022/09/02/sydney-opera-house-concert-hall-renovation/

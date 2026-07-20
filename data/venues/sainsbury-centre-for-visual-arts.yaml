@@ -1,0 +1,10 @@
+id: sainsbury-centre-for-visual-arts
+name: Sainsbury Centre for Visual Arts
+venue_type: art-museum
+location:
+  city: Norwich
+  country: GB
+operator: University of East Anglia
+sources:
+  - https://en.wikipedia.org/wiki/Sainsbury_Centre_for_Visual_Arts
+  - https://www.dezeen.com/2019/11/08/norman-foster-sainsbury-centre-for-the-visual-arts-high-tech-architecture/

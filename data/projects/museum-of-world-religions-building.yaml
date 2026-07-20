@@ -1,0 +1,21 @@
+id: museum-of-world-religions-building
+name: Museum of World Religions
+venue: museum-of-world-religions-taipei
+project_type: new-building
+year_completed: 2001
+credits:
+  - firm: ralph-appelbaum-associates
+    role: architecture
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+    note: "content developed with Harvard's Center for the Study of World Religions"
+technologies: []
+summary: >
+  Museum of World Religions, Yonghe District (New Taipei), Taiwan, opened
+  in 2001; full building and exhibition design by Ralph Appelbaum
+  Associates, developed in collaboration with Harvard's Center for the
+  Study of World Religions.
+description: ""
+sources:
+  - https://raai.com/project/museum-of-world-religions
+  - https://en.wikipedia.org/wiki/Museum_of_World_Religions

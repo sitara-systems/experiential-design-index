@@ -1,0 +1,9 @@
+id: mol-campus-budapest
+name: MOL Campus
+venue_type: visitor-center
+location:
+  city: Budapest
+  country: HU
+operator: MOL Group
+sources:
+  - https://www.budapesttimes.hu/hungary/mol-visitor-centre-observation-deck-open-to-public-in-hq/

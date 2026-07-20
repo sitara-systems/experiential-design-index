@@ -1,0 +1,23 @@
+id: art-gallery-of-nsw-naala-badu-building
+name: Naala Badu (Sydney Modern Project)
+venue: art-gallery-of-new-south-wales-naala-badu
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: sanaa
+    role: architecture
+    note: "no firm record yet"
+  - firm: arup
+    role: acoustics
+  - firm: arup
+    role: lighting-design
+technologies: []
+summary: >
+  Naala Badu, the Art Gallery of New South Wales' Sydney Modern expansion
+  in Sydney, Australia, opened December 2022; architecture is by SANAA,
+  with Arup providing acoustics and lighting design among its broader
+  engineering scope, including converting a decommissioned WWII oil tank
+  into "The Tank" contemporary art space.
+description: ""
+sources:
+  - https://www.arup.com/projects/sydney-modern-project

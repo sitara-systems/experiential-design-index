@@ -1,0 +1,26 @@
+id: va-cartier-exhibition
+name: Cartier
+venue: victoria-and-albert-museum
+project_type: temporary-exhibition
+year_completed: 2025
+credits:
+  - firm: asif-khan-studio
+    role: exhibit-design
+    note: "no firm record yet"
+  - firm: pentagram
+    role: graphics-wayfinding
+  - firm: click-netherfield
+    role: fabrication
+    note: "bespoke display cases including the mist-flow 'Dream' showcase"
+technologies: []
+summary: >
+  "Cartier," a major jewelry exhibition at London's Victoria and Albert
+  Museum (12 April – 16 November 2025), was designed by Asif Khan
+  Studio with exhibition graphics by Pentagram and bespoke display cases
+  fabricated by Click Netherfield.
+description: ""
+sources:
+  - https://www.clicknetherfield.com/projects/victoria-albert-cartier/
+  - https://asif-khan.com/project/cartier-va-london/
+  - https://www.pentagram.com/work/cartier
+  - https://fadmagazine.com/2025/04/09/va-unveils-first-major-cartier-jewels-watches-exhibition-in-nearly-30-years/

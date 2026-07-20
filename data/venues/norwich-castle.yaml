@@ -1,0 +1,10 @@
+id: norwich-castle
+name: Norwich Castle
+venue_type: history-museum
+location:
+  city: Norwich
+  country: GB
+operator: Norfolk Museums Service
+sources:
+  - https://www.clicknetherfield.com/projects/norwich-castle/
+  - https://www.museumsassociation.org/museums-journal/news/2025/08/norwich-castle-keep-reopens-following-27m-redevelopment/

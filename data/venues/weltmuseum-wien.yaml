@@ -1,0 +1,8 @@
+id: weltmuseum-wien
+name: Weltmuseum Wien (World Museum Vienna)
+venue_type: natural-history-museum
+location:
+  city: Vienna
+  country: AT
+sources:
+  - https://raai.com/project/weltmuseum-wien

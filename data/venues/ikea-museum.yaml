@@ -1,0 +1,9 @@
+id: ikea-museum
+name: IKEA Museum
+venue_type: corporate-museum
+location:
+  city: Älmhult
+  country: SE
+operator: Inter IKEA Group
+sources:
+  - https://raai.com/project/ikea-museum

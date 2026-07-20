@@ -1,0 +1,8 @@
+id: museum-of-tomorrow-rio
+name: Museum of Tomorrow (Museu do Amanhã)
+venue_type: science-center
+location:
+  city: Rio de Janeiro
+  country: BR
+sources:
+  - https://raai.com/project/museum-of-tomorrow

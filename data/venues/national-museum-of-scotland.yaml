@@ -1,0 +1,8 @@
+id: national-museum-of-scotland
+name: National Museum of Scotland
+venue_type: history-museum
+location:
+  city: Edinburgh
+  country: GB
+sources:
+  - https://raai.com/project/national-museum-of-scotland

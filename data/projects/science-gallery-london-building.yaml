@@ -1,0 +1,20 @@
+id: science-gallery-london-building
+name: Science Gallery London
+venue: science-gallery-london
+project_type: new-building
+year_completed: 2018
+credits:
+  - firm: lts-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: arup
+    role: lighting-design
+technologies: []
+summary: >
+  Science Gallery London, a venue for exhibitions and events at the
+  intersection of art and science, opened September 2018 in a renovated
+  Grade II*-listed building; Arup Lighting designed the venue's
+  exhibition spaces, theatre, cafe, and public square.
+description: ""
+sources:
+  - https://www.arup.com/projects/science-gallery-london

@@ -1,0 +1,9 @@
+id: munet-mexico-city
+name: Museo Nacional de Energía y Tecnología (MUNET)
+venue_type: science-center
+location:
+  city: Mexico City
+  country: MX
+operator: Bosque de Chapultepec
+sources:
+  - https://raai.com/project/munet

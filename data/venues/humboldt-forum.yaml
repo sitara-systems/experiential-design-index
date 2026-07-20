@@ -1,0 +1,9 @@
+id: humboldt-forum
+name: Humboldt Forum
+venue_type: history-museum
+location:
+  city: Berlin
+  country: DE
+operator: Stiftung Preußischer Kulturbesitz
+sources:
+  - https://raai.com/project/humboldt-forum

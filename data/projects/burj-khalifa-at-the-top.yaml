@@ -1,0 +1,23 @@
+id: burj-khalifa-at-the-top
+name: At the Top — Burj Khalifa
+venue: burj-khalifa
+project_type: installation
+year_completed: 2010
+credits:
+  - firm: som
+    role: architecture
+  - firm: gsmprjct
+    role: media-design
+    note: "no firm record yet; augmented-reality telescopes on the 124th floor"
+technologies:
+  - augmented reality
+summary: >
+  "At the Top," Burj Khalifa's public observation-deck experience in
+  Dubai, opened in January 2010 on the 124th–125th floors (with the SKY
+  level added 2014 and The Lounge in 2019); SOM was architect of the
+  tower, with augmented-reality telescopes on the 124th floor developed
+  by Gsmprjct° of Montréal.
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/At_the_Top_(Burj_Khalifa)
+  - https://www.dezeen.com/2010/01/20/burj-khalifa-by-som/

@@ -1,0 +1,9 @@
+id: imperial-war-museum-london
+name: Imperial War Museum London
+venue_type: history-museum
+location:
+  city: London
+  country: GB
+sources:
+  - https://www.dezeen.com/2014/07/16/foster-partners-first-world-war-galleries-imperial-war-museum/
+  - https://www.fosterandpartners.com/projects/imperial-war-museum/

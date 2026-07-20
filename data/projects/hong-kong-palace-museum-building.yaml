@@ -1,0 +1,25 @@
+id: hong-kong-palace-museum-building
+name: Hong Kong Palace Museum
+venue: hong-kong-palace-museum
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: rocco-design-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: arup
+    role: acoustics
+  - firm: arup
+    role: lighting-design
+  - firm: arup
+    role: landscape-architecture
+technologies: []
+summary: >
+  Hong Kong Palace Museum, in the West Kowloon Cultural District, opened
+  July 2022; architecture is by Rocco Design Architects Associates, with
+  Arup providing acoustics, lighting, and landscape design among its
+  broader engineering scope, including a high-performance acoustic
+  facade for the in-building auditorium.
+description: ""
+sources:
+  - https://www.arup.com/en-us/projects/hong-kong-palace-museum/

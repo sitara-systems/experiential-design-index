@@ -1,0 +1,11 @@
+id: the-harris-preston
+name: The Harris
+venue_type: cultural-center
+location:
+  city: Preston
+  country: GB
+operator: Harris Museum, Art Gallery and Library
+website: https://theharris.org.uk
+sources:
+  - https://www.clicknetherfield.com/projects/the-harris-your-place/
+  - https://theharris.org.uk/press-news/q-and-a-with-mike-at-click-netherfield/

@@ -1,0 +1,8 @@
+id: jin-mao-tower
+name: Jin Mao Tower
+venue_type: themed-attraction
+location:
+  city: Shanghai
+  country: CN
+sources:
+  - https://en.wikipedia.org/wiki/Jin_Mao_Tower

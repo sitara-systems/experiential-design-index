@@ -1,0 +1,11 @@
+id: m-plus-museum
+name: M+
+venue_type: art-museum
+location:
+  city: Hong Kong
+  country: HK
+operator: West Kowloon Cultural District Authority
+website: https://www.mplus.org.hk
+sources:
+  - https://www.arup.com/en-us/projects/m-plus-building/
+  - https://www.arup.com/news-and-events/mplus-museum-building-completed

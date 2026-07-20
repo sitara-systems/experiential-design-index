@@ -1,0 +1,9 @@
+id: national-museum-of-saudi-arabia
+name: National Museum of Saudi Arabia
+venue_type: history-museum
+location:
+  city: Riyadh
+  country: SA
+operator: King Abdulaziz Historical Centre
+sources:
+  - https://en.wikipedia.org/wiki/National_Museum_of_Saudi_Arabia

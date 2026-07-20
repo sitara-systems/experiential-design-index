@@ -1,0 +1,10 @@
+id: va-dundee
+name: V&A Dundee
+venue_type: design-museum
+location:
+  city: Dundee
+  country: GB
+website: https://www.vam.ac.uk/dundee
+sources:
+  - https://www.arup.com/en-us/projects/v-and-a-dundee/
+  - https://www.re-thinkingthefuture.com/case-studies/a9389-va-dundee-by-arup-associates-and-arup/

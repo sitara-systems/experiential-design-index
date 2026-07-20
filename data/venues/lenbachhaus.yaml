@@ -1,0 +1,8 @@
+id: lenbachhaus
+name: Lenbachhaus
+venue_type: art-museum
+location:
+  city: Munich
+  country: DE
+sources:
+  - https://www.archdaily.com/370465/lenbachhaus-museum-foster-partners

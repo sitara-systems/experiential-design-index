@@ -1,0 +1,9 @@
+id: datong-art-museum
+name: Datong Art Museum
+venue_type: art-museum
+location:
+  city: Datong
+  country: CN
+sources:
+  - https://www.dezeen.com/2022/01/06/foster-partners-datong-art-museum-china/
+  - https://www.archdaily.com/974628/datong-art-museum-foster-plus-partners

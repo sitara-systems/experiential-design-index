@@ -1,0 +1,18 @@
+id: petri-berlin-archaeology-lab
+name: PETRI Berlin — Archaeology Lab
+venue: petri-berlin
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+    note: "interactive exhibition design"
+technologies:
+  - interactive kiosk
+summary: >
+  PETRI Berlin, billed as "Berlin's Archaeology Lab," opened in 2025;
+  interactive exhibition design by Ralph Appelbaum Associates.
+description: ""
+sources:
+  - https://raai.com/project/petri-berlin
+  - https://www.smb.museum

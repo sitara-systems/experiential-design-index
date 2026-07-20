@@ -1,0 +1,11 @@
+id: va-east-storehouse
+name: V&A East Storehouse
+venue_type: design-museum
+location:
+  city: London
+  country: GB
+operator: Victoria and Albert Museum
+website: https://www.vam.ac.uk/east/storehouse
+sources:
+  - https://www.arup.com/en-us/projects/va-east-storehouse/
+  - https://www.designboom.com/architecture/va-east-storehouse-dsrny-london-museum-storage-public-view-diller-scofidio-renfro-austinsmithlord-05-28-2025/

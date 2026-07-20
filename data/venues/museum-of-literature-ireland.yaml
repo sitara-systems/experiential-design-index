@@ -1,0 +1,9 @@
+id: museum-of-literature-ireland
+name: Museum of Literature Ireland (MoLI)
+venue_type: history-museum
+location:
+  city: Dublin
+  country: IE
+operator: University College Dublin
+sources:
+  - https://raai.com/project/museum-of-literature-ireland

@@ -1,0 +1,25 @@
+id: national-museum-of-saudi-arabia-building
+name: National Museum of Saudi Arabia
+venue: national-museum-of-saudi-arabia
+project_type: new-building
+year_completed: 1999
+credits:
+  - firm: moriyama-and-teshima
+    role: architecture
+    note: "no firm record yet; lead Raymond Moriyama"
+  - firm: lord-cultural-resources
+    role: interpretive-planning
+    note: "codeveloper of the exhibitional concept, concurrent design of 8 galleries plus a temporary exhibit hall"
+  - firm: reich-petch
+    role: exhibit-design
+    note: "credited as 'R&P Design' — exhibit design, graphic design, and wayfinding"
+technologies: []
+summary: >
+  National Museum of Saudi Arabia, part of the King Abdulaziz Historical
+  Centre in Riyadh, opened in 1999; architecture by Moriyama and Teshima,
+  interpretive planning by Lord Cultural Resources, and exhibit/graphic
+  design and wayfinding by Reich+Petch (credited as "R&P Design").
+description: ""
+sources:
+  - https://en.wikipedia.org/wiki/National_Museum_of_Saudi_Arabia
+  - https://designrp.com/projects/national-museum-of-saudi-arabia-2/

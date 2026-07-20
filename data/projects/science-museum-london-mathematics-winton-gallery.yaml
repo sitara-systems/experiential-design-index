@@ -1,0 +1,19 @@
+id: science-museum-london-mathematics-winton-gallery
+name: Mathematics — The Winton Gallery
+venue: science-museum-london
+project_type: new-exhibition
+year_completed: 2016
+credits:
+  - firm: zaha-hadid-architects
+    role: exhibit-design
+    note: "no firm record yet; widely reported as exhibition designer, not independently confirmed in this pass"
+  - firm: arup
+    role: lighting-design
+technologies: []
+summary: >
+  Mathematics — The Winton Gallery, a permanent gallery at London's
+  Science Museum, opened December 2016; Arup provided lighting design
+  consultancy for the space.
+description: ""
+sources:
+  - https://www.consultancy.uk/news/12938/arup-provides-lighting-design-consultancy-for-the-science-museum

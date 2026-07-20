@@ -1,0 +1,9 @@
+id: frameless-london
+name: Frameless
+venue_type: themed-attraction
+location:
+  city: London
+  country: GB
+website: https://www.becomeframeless.com
+sources:
+  - https://ct-group.com/us/ct-deliver-complex-video-system-infrastructure-for-frameless-immersive-art-experience/

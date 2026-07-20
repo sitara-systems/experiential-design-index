@@ -1,0 +1,22 @@
+id: munet-museography
+name: MUNET — Museography
+venue: munet-mexico-city
+project_type: new-building
+year_completed: 2026
+credits:
+  - firm: ten-arquitectos
+    role: architecture
+    note: "no firm record yet; Enrique Norten"
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+    note: museography
+technologies: []
+summary: >
+  Museo Nacional de Energía y Tecnología (MUNET), in Mexico City's
+  Bosque de Chapultepec, opened in 2026; architecture by Enrique
+  Norten/TEN Arquitectos, with museography by Ralph Appelbaum
+  Associates.
+description: ""
+sources:
+  - https://raai.com/project/munet
+  - https://www.eluniversal.com.mx

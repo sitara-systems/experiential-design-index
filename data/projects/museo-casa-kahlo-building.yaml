@@ -1,0 +1,29 @@
+id: museo-casa-kahlo-building
+name: Museo Casa Kahlo
+venue: museo-casa-kahlo
+project_type: new-building
+year_completed: 2023
+credits:
+  - firm: mariana-doet-zepeda-orozco
+    role: architecture
+    note: "no firm record yet"
+  - firm: rockwell-group
+    role: exhibit-design
+    note: "courtyard and display design"
+  - firm: pentagram
+    role: graphics-wayfinding
+    note: "visual identity, signage, and exhibition graphics"
+technologies: []
+summary: >
+  Museo Casa Kahlo, in the Casa Roja family home in Coyoacán, Mexico
+  City, opened in Casa Roja with architecture by Mariana Doet Zepeda
+  Orozco, courtyard and display design by Rockwell Group, and visual
+  identity, signage, and exhibition graphics by Pentagram.
+description: ""
+_comments: >
+  Pentagram's own page and independent press give slightly different
+  opening years (Pentagram: 2023; Designboom coverage: 2025) — used
+  Pentagram's stated year, flag for a future pass to reconcile.
+sources:
+  - https://www.pentagram.com/work/museo-casa-kahlo
+  - https://www.designboom.com/architecture/frida-kahlo-museum-artist-family-home-life-design-rockwell-group-mariana-doet-zepeda-orozco-pentagram-09-30-2025/

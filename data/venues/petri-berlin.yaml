@@ -1,0 +1,9 @@
+id: petri-berlin
+name: PETRI Berlin
+venue_type: history-museum
+location:
+  city: Berlin
+  country: DE
+operator: Staatliche Museen zu Berlin
+sources:
+  - https://raai.com/project/petri-berlin

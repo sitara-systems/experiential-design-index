@@ -1,0 +1,8 @@
+id: karlatornet
+name: Karlatornet
+venue_type: themed-attraction
+location:
+  city: Gothenburg
+  country: SE
+sources:
+  - https://www.som.com/projects/karlatornet/

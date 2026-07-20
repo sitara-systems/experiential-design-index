@@ -1,0 +1,23 @@
+id: diriyah-art-futures-building
+name: Diriyah Art Futures
+venue: diriyah-art-futures
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: schiattarella-associati
+    role: architecture
+    note: "no firm record yet"
+  - firm: creative-technology
+    role: av-integration
+technologies:
+  - projection mapping
+platforms:
+  - pixera
+summary: >
+  Diriyah Art Futures, a 12,000-sqm museum dedicated to digital art near
+  the At-Turaif UNESCO site in Riyadh, Saudi Arabia, opened in 2025;
+  architecture by Schiattarella Associati, with Creative Technology
+  providing media-server and projection systems integration.
+description: ""
+sources:
+  - https://ct-group.com/me/projects/ct-diriyah-art-futures-installation/

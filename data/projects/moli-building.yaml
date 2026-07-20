@@ -1,0 +1,21 @@
+id: moli-building
+name: Museum of Literature Ireland
+venue: museum-of-literature-ireland
+project_type: new-building
+year_completed: 2019
+credits:
+  - firm: scott-tallon-walker-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+technologies: []
+summary: >
+  Museum of Literature Ireland (MoLI), inside Newman House at University
+  College Dublin, opened September 2019; architecture by Scott Tallon
+  Walker Architects, with exhibition design by Ralph Appelbaum
+  Associates.
+description: ""
+sources:
+  - https://raai.com/project/museum-of-literature-ireland
+  - https://en.wikipedia.org/wiki/Museum_of_Literature_Ireland

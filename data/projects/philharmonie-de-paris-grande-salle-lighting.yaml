@@ -1,0 +1,20 @@
+id: philharmonie-de-paris-grande-salle-lighting
+name: Grande Salle Lighting Design
+venue: philharmonie-de-paris
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: ateliers-jean-nouvel
+    role: architecture
+    note: "no firm record yet"
+  - firm: l-observatoire-international
+    role: lighting-design
+technologies: []
+summary: >
+  The Philharmonie de Paris' Grande Salle concert hall, architecture by
+  Ateliers Jean Nouvel, opened in 2015; L'Observatoire International
+  designed the custom LED lighting embedded in the ceiling's acoustic
+  "clouds."
+description: ""
+sources:
+  - https://lobsintl.com/project/philharmonie-de-paris-grande-salle/

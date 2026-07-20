@@ -1,0 +1,8 @@
+id: shenzhen-bay-cultural-plaza
+name: Shenzhen Bay Cultural Plaza
+venue_type: cultural-center
+location:
+  city: Shenzhen
+  country: CN
+sources:
+  - https://raai.com/project/shenzhen-bay-cultural-plaza

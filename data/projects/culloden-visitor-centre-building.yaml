@@ -1,0 +1,22 @@
+id: culloden-visitor-centre-building
+name: Culloden Visitor Centre
+venue: culloden-visitor-centre
+project_type: new-building
+year_completed: 2007
+credits:
+  - firm: gareth-hoskins-architects
+    role: architecture
+    note: "no firm record yet"
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+    note: "interpretive exhibition design, plus a 'Battlefield Guide' GPS device and wayfinding/branding"
+technologies: []
+summary: >
+  Culloden Visitor Centre at Culloden Battlefield, near Inverness,
+  Scotland, opened in 2007 for the National Trust for Scotland;
+  architecture by Gareth Hoskins Architects, with exhibition design and a
+  GPS "Battlefield Guide" device by Ralph Appelbaum Associates.
+description: ""
+sources:
+  - https://raai.com/project/culloden-visitor-centre-at-culloden-battlefield
+  - https://www.e-architect.com

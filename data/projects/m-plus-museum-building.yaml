@@ -1,0 +1,26 @@
+id: m-plus-museum-building
+name: M+
+venue: m-plus-museum
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: herzog-and-de-meuron
+    role: architecture
+    note: "no firm record yet"
+  - firm: arup
+    role: acoustics
+  - firm: arup
+    role: lighting-design
+  - firm: arup
+    role: landscape-architecture
+technologies: []
+summary: >
+  M+, Hong Kong's museum of visual culture in the West Kowloon Cultural
+  District, opened to the public in November 2021; architecture is by
+  Herzog & de Meuron in joint venture with TFP Farrells, with Arup
+  providing acoustics, lighting, and landscape design among its broader
+  engineering scope.
+description: ""
+sources:
+  - https://www.arup.com/en-us/projects/m-plus-building/
+  - https://www.arup.com/news-and-events/mplus-museum-building-completed

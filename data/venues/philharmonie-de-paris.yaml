@@ -1,0 +1,8 @@
+id: philharmonie-de-paris
+name: Philharmonie de Paris
+venue_type: cultural-center
+location:
+  city: Paris
+  country: FR
+sources:
+  - https://lobsintl.com/project/philharmonie-de-paris-grande-salle/

@@ -1,0 +1,10 @@
+id: reichstag-building
+name: Reichstag Building
+venue_type: visitor-center
+location:
+  city: Berlin
+  country: DE
+operator: Deutscher Bundestag
+sources:
+  - https://en.wikipedia.org/wiki/Reichstag_dome
+  - https://www.fosterandpartners.com/insights/plus-journal/the-reichstag-s-new-lightness-of-being

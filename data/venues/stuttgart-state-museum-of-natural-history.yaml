@@ -1,0 +1,8 @@
+id: stuttgart-state-museum-of-natural-history
+name: State Museum of Natural History Stuttgart
+venue_type: natural-history-museum
+location:
+  city: Stuttgart
+  country: DE
+sources:
+  - https://raai.com/project/state-museum-of-natural-history-stuttgart

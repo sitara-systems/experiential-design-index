@@ -1,0 +1,20 @@
+id: ikea-museum-main-exhibition
+name: IKEA Museum — Main Exhibition
+venue: ikea-museum
+project_type: new-building
+year_completed: 2016
+credits:
+  - firm: wilkinsoneyre
+    role: architecture
+    note: "no firm record yet"
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+technologies: []
+summary: >
+  IKEA Museum, in the company's founding town of Älmhult, Sweden, opened
+  June 2016; architecture by WilkinsonEyre, with main exhibition design
+  by Ralph Appelbaum Associates.
+description: ""
+sources:
+  - https://raai.com/project/ikea-museum
+  - https://en.wikipedia.org/wiki/IKEA_Museum

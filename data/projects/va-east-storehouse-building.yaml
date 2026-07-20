@@ -1,0 +1,24 @@
+id: va-east-storehouse-building
+name: V&A East Storehouse
+venue: va-east-storehouse
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: diller-scofidio-renfro
+    role: architecture
+  - firm: austin-smith-lord
+    role: architecture
+    note: "no firm record yet"
+  - firm: arup
+    role: lighting-design
+technologies: []
+summary: >
+  V&A East Storehouse, an open-storage museum in London where visitors
+  browse the collection and watch conservation work, opened May 2025;
+  architecture is by Diller Scofidio + Renfro with Austin-Smith:Lord, and
+  Arup Lighting designed a conservation-led lighting scheme balancing a
+  warehouse aesthetic with protective light levels for sensitive objects.
+description: ""
+sources:
+  - https://www.arup.com/en-us/projects/va-east-storehouse/
+  - https://www.designboom.com/architecture/va-east-storehouse-dsrny-london-museum-storage-public-view-diller-scofidio-renfro-austinsmithlord-05-28-2025/

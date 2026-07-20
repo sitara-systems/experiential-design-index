@@ -1,0 +1,9 @@
+id: sydney-opera-house
+name: Sydney Opera House
+venue_type: cultural-center
+location:
+  city: Sydney
+  country: AU
+website: https://www.sydneyoperahouse.com
+sources:
+  - https://www.arup.com/en-us/projects/sydney-opera-house-concert-hall-renewal/

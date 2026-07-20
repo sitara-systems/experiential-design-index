@@ -1,0 +1,10 @@
+id: science-gallery-london
+name: Science Gallery London
+venue_type: science-center
+location:
+  city: London
+  country: GB
+operator: King's College London
+website: https://london.sciencegallery.com
+sources:
+  - https://www.arup.com/projects/science-gallery-london

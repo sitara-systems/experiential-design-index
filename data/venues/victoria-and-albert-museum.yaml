@@ -1,0 +1,9 @@
+id: victoria-and-albert-museum
+name: Victoria and Albert Museum
+venue_type: design-museum
+location:
+  city: London
+  country: GB
+website: https://www.vam.ac.uk
+sources:
+  - https://www.clicknetherfield.com/projects/victoria-albert-cartier/

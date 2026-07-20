@@ -1,0 +1,9 @@
+id: fondation-louis-vuitton
+name: Fondation Louis Vuitton
+venue_type: art-museum
+location:
+  city: Paris
+  country: FR
+operator: LVMH
+sources:
+  - https://lobsintl.com/project/fondation-louis-vuitton/

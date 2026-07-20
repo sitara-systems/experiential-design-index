@@ -1,0 +1,8 @@
+id: lost-shtetl-museum
+name: Lost Shtetl Museum
+venue_type: history-museum
+location:
+  city: Šeduva
+  country: LT
+sources:
+  - https://raai.com/project/lost-shtetl-museum
