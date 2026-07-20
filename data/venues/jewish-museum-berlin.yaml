@@ -1,0 +1,8 @@
+id: jewish-museum-berlin
+name: Jewish Museum Berlin
+venue_type: history-museum
+location:
+  city: Berlin
+  country: DE
+sources:
+  - https://olsonkundig.com

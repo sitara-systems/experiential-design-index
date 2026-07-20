@@ -1,0 +1,9 @@
+id: lionsgate-entertainment-world
+name: Lionsgate Entertainment World (Novotown)
+venue_type: themed-attraction
+location:
+  city: Zhuhai
+  country: CN
+operator: Village Roadshow
+sources:
+  - https://www.taittowers.com/work/lionsgate-entertainment-world
