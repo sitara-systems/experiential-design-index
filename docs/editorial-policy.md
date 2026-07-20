@@ -191,9 +191,24 @@ Inactive firms are **not removed** — their credits are part of the historical
 record — but status is displayed prominently so a reader researching firms to
 hire is never misled by a portfolio from a studio that no longer exists.
 
+**Verification dates and staleness.** A status is a dated claim, not a
+permanent fact. Every firm record's `status_verified` date states when the
+status was last checked against public evidence, and statuses are
+re-verified on a rolling basis, oldest verification date first. A status
+whose verification date is more than **12 months** old is treated as due
+for re-verification — a flag, not a fact — and gets re-checked rather than
+silently carried forward. When re-verification cannot confirm the prior
+status, the record moves to whatever the current public evidence supports
+(including `unclear`), with the basis updated to say what was checked.
+(Adopted 2026-07-19.)
+
 ## Accuracy and corrections
 
 - Every factual claim carries a source on the record.
+- Sources are checked at the time a fact enters the record, and the
+  repository's git history preserves when each fact was added or changed
+  and on what basis — so every claim's provenance is datable even if a
+  cited page later changes or disappears.
 - Anyone can submit a correction by opening an issue in this repository.
   Corrections from credited firms and institutions are prioritized and
   typically resolved within two weeks.
