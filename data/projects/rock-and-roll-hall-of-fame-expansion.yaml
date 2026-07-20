@@ -7,13 +7,13 @@ year_completed: 2026
 credits:
   - firm: pau
     role: architecture
-    note: "Practice for Architecture and Urbanism (PAU); project partner per rockhall.com, specific role division not stated in public sources. No firm record yet."
+    note: "Practice for Architecture and Urbanism (PAU); project partner per rockhall.com, specific role division not stated in public sources."
   - firm: dlr-group
     role: architecture
-    note: "Project partner per rockhall.com, specific role division not stated in public sources"
+    note: "Project partner per rockhall.com, specific role division not stated in public sources."
   - firm: robert-madison-international
     role: architecture
-    note: "Project partner per rockhall.com, specific role division not stated in public sources. No firm record yet."
+    note: "Project partner per rockhall.com, specific role division not stated in public sources."
 technologies: []
 summary: >
   The Rock & Roll Hall of Fame Museum Expansion, a 50,000-square-foot
@@ -21,8 +21,8 @@ summary: >
   October 2023 and is targeted for completion in fall 2026; architecture
   by a design partnership of Practice for Architecture and Urbanism (PAU),
   DLR Group, and Robert Madison International, with landscape architecture
-  by James Corner Field Operations (unlinked; no role mapping in this
-  index's vocabulary) for the adjoining Taylor Family Community Park.
+  by James Corner Field Operations for the adjoining Taylor Family
+  Community Park.
 description: ""
 sources:
   - https://rockhall.com/expansion/

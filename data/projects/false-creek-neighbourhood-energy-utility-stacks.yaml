@@ -6,10 +6,10 @@ year_completed: 2009
 credits:
   - firm: pechet-and-robb
     role: architecture
-    note: "Artist/architect team who conceived and designed the five sculptural emission-vent stacks (\"the Stacks\"); vocab gap: no dedicated public-art role exists, architecture is the closest fit."
+    note: "Artist/architect team who conceived and designed the five sculptural emission-vent stacks (\"the Stacks\")."
   - firm: cdm-lighting-design-group
     role: lighting-design
-    note: "Lighting supplier collaborator (CDM2 Lightworks), per Eos Lightmedia's own project page; reconciled to the existing 'cdm-lighting-design-group' firm id used elsewhere in this dataset (World of Coca-Cola)."
+    note: "Lighting supplier collaborator (CDM2 Lightworks), per Eos Lightmedia's own project page."
   - firm: eos-lightmedia
     role: lighting-design
     note: >

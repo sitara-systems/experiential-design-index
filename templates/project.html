@@ -24,7 +24,7 @@
   <tbody>
   {% for c in project.credits %}
     <tr>
-      <td>{% if c.firm_exists %}<a href="{{ base }}/firms/{{ c.firm }}.html">{{ c.firm_name }}</a>{% else %}<span class="unlinked">{{ c.firm_name }} (unlinked &mdash; no firm record yet)</span>{% endif %}</td>
+      <td>{% if c.firm_exists %}<a href="{{ base }}/firms/{{ c.firm }}.html">{{ c.firm_name }}</a>{% else %}{{ c.firm_name }}{% endif %}</td>
       <td>{{ c.role_label }}</td>
       <td>{{ c.note or '' }}</td>
     </tr>

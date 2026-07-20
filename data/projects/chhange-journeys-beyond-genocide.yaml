@@ -6,13 +6,13 @@ year_completed: 2018
 credits:
   - firm: proun-design
     role: exhibit-design
-    note: "Exhibit graphics and content development; no firm record yet"
+    note: "Exhibit graphics and content development."
   - firm: neal-mayer
     role: exhibit-design
-    note: "Neal Mayer is an individual solo exhibit-design consultant (nealmayer.com), not a firm entity; no firm record under this schema's firms-only v1 scope"
+    note: "Neal Mayer is an individual solo exhibit-design consultant (nealmayer.com)."
   - firm: sari-boren
     role: interpretive-planning
-    note: "Content development; no firm record yet"
+    note: "Content development."
 technologies:
   - tablet-based interactive kiosks
   - video testimony

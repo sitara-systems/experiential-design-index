@@ -8,10 +8,10 @@ credits:
     role: fabrication
   - firm: ralph-appelbaum-associates
     role: exhibit-design
-    note: "Per RAA's own project page; not corroborated by 1220's page, which names neither RAA nor Technical Artistry — flagged rather than fully reconciled"
+    note: "Per RAA's own project page."
   - firm: technical-artistry
     role: lighting-design
-    note: "Per RAA's own project page; see note above"
+    note: "Per RAA's own project page."
 summary: >
   A 2025 refresh of the Freedom Rides Museum in the historic Montgomery,
   Alabama Greyhound bus station, completed July 2025, fabricated by 1220
@@ -25,3 +25,7 @@ description: >
   here.
 sources:
   - https://1220.com/portfolio/freedom-rides-museum/
+_comments: >
+  RAA/Technical Artistry credits are per RAA's own project page; not
+  corroborated by 1220's own page, which names neither firm — flagged
+  rather than fully reconciled.

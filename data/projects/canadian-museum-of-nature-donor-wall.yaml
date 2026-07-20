@@ -8,16 +8,17 @@ credits:
     role: exhibit-design
   - firm: expographiq
     role: fabrication
-    note: "No firm record yet"
 technologies: []
 summary: >
   A 452 sq ft donor-recognition wall at the Canadian Museum of Nature,
   Ottawa, ON, completed 2010 (~$100K); design by Reich+Petch,
   fabrication by Expographiq, per Applied Arts Magazine's 2011
   award-winners archive and Expographiq's own independent project
-  page. Small in scale relative to most corpus entries — flagged for
-  editorial review of whether donor-wall-scale work should carry a
-  standalone project record.
+  page.
 description: ""
 sources:
   - https://www.appliedartsmag.com/
+_comments: >
+  Small in scale relative to most corpus entries — flagged for editorial
+  review of whether donor-wall-scale work should carry a standalone
+  project record (see HANDOFF.md rule 4 recurrence-bar precedent).

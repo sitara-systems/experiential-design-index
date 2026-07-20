@@ -6,16 +6,13 @@ year_completed: 2015
 credits:
   - firm: provost-studio
     role: exhibit-design
-    note: "Design; no firm record yet"
+    note: "Design."
   - firm: chicago-scenic-studios
     role: fabrication
     note: "Fabrication, installation, project management"
   - firm: silver-oaks
     role: media-design
-    note: >
-      Media development; no firm record yet — likely the same entity as
-      "Silver Oaks Communication," already an unlinked credit elsewhere
-      in this dataset.
+    note: "Media development."
 summary: >
   360 Chicago, an interactive storytelling attraction transforming
   4,000+ sq ft of the John Hancock Center's observation level into a
@@ -26,3 +23,7 @@ description: >
   Curator" — not a firm, omitted from credits.
 sources:
   - https://www.chicagoscenic.com/projects/360-chicago
+_comments: >
+  Silver Oaks (media development) is likely the same entity as "Silver
+  Oaks Communication," already credited elsewhere in this dataset — not
+  reconciled to a single firm id.

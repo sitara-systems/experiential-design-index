@@ -14,11 +14,6 @@ credits:
     role: fabrication
   - firm: available-light
     role: lighting-design
-    note: >
-      FLAGGED: Available Light's own project page credits itself only as
-      "Photographer," not "Lighting Design" — the only AL page that
-      breaks this pattern. Included per strong pattern-inference from
-      every other AL project page; recommend a direct re-check.
   - firm: cortina-productions
     role: content-production
     note: "Media for \"The Making of an American Army\" gallery"
@@ -32,3 +27,8 @@ description: ""
 sources:
   - https://www.smithsonianmag.com/smart-news/national-museum-united-states-army-opens-180976293/
   - https://d-and-p.com/military-museums
+_comments: >
+  Available Light's own project page credits itself only as
+  "Photographer," not "Lighting Design" — the only AL page that breaks
+  this pattern. Included per strong pattern-inference from every other
+  AL project page; recommend a direct re-check.

@@ -9,7 +9,7 @@ credits:
     note: "Exhibit and media design"
   - firm: dot-crew
     role: media-design
-    note: "Interactive media design for Encounters; no firm record yet"
+    note: "Interactive media design for Encounters."
   - firm: electrosonic
     role: av-integration
     note: "AV design, engineering, and systems integration across theaters, galleries, and Encounters"
@@ -21,10 +21,7 @@ credits:
       Four PIXERA two media servers and one PIXERA Control Core distribute
       and synchronize media across the museum's galleries and the Encounters
       experience, integrated with the ISAAC AV workflow platform; AV Stumpfl
-      (maker of PIXERA) is Austria-headquartered and not eligible for a firm
-      record under the index's current North America firm scope, credited
-      here unlinked per the same convention used for disguise (see
-      top-of-the-rock-reimagined.yaml).
+      (maker of PIXERA) is Austria-headquartered.
 technologies:
   - interactive media
   - spatial audio

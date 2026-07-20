@@ -6,7 +6,7 @@ year_completed: 2016
 credits:
   - firm: the-urban-conga
     role: exhibit-design
-    note: "interactive mural design/build; illustration by Sebastian Coolidge (no firm record)"
+    note: "Interactive mural design/build; illustration by Sebastian Coolidge."
 technologies:
   - touch sensor sound-triggered mural
 technology_tags:

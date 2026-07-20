@@ -11,7 +11,7 @@ credits:
       forest/arboretum installation (Fungi Sensation, Spectral Vision, Neon
       Intrusion, Palette Obsession) — creative production, lighting design,
       video/projection design, sound design, and mural art by Meow Wolf
-      staff; no firm record yet.
+      staff.
   - firm: moment-factory
     role: media-design
     note: >
@@ -20,16 +20,14 @@ credits:
       systems.
   - firm: adirondack-studios
     role: fabrication
-    note: "Show fabrication vendor; no firm record yet."
+    note: "Show fabrication vendor."
   - firm: themespace
     role: exhibit-design
     note: >
       Credited as "Design Consultant" on Meow Wolf's and Moment Factory's own
-      project credit pages; no exact vocabulary fit for a standalone design-consultant
-      role (logged as a vocab gap), closest fit used. Themespace
-      merged into The Hettema Group to form THG Creative in April 2022; no
-      firm record created (single credit, below the 3-project bar, and now a
-      defunct independent entity).
+      project credit pages. Themespace merged into The Hettema Group to
+      form THG Creative in April 2022 and is now a defunct independent
+      entity.
 technologies:
   - projection mapping
   - motion tracking

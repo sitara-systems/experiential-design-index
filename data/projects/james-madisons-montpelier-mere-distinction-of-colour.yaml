@@ -6,10 +6,10 @@ year_completed: 2017
 credits:
   - firm: proun-design
     role: exhibit-design
-    note: "Project direction, content development, and graphic design; no firm record yet"
+    note: "Project direction, content development, and graphic design."
   - firm: neal-mayer
     role: exhibit-design
-    note: "Space planning and 3D exhibit design. Neal Mayer is an individual solo exhibit-design consultant (nealmayer.com), not a firm entity; no firm record under this schema's firms-only v1 scope"
+    note: "Space planning and 3D exhibit design. Neal Mayer is an individual solo exhibit-design consultant (nealmayer.com)."
   - firm: mystic-scenic
     role: fabrication
   - firm: northern-light-productions

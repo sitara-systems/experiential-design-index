@@ -8,22 +8,17 @@ credits:
     role: av-integration
     note: >
       Systems integration and equipment: audio, video, lighting, rigging,
-      communication equipment, and dome structure; no firm record yet.
+      communication equipment, and dome structure.
   - firm: theatrixx
     role: media-design
-    note: >
-      Canadian PIXERA distributor; supported the project during the design
-      and programming phases; no firm record yet.
+    note: "Canadian PIXERA distributor; supported the project during the design and programming phases."
   - firm: av-stumpfl
     role: media-design
     note: >
       PIXERA two Octo media server with integrated Vioso dome-calibration
       technology, driving eight Christie DWU1075-GS projectors mapped onto
       the 36-foot dome in 4,096x4,096 DomeMaster format; AV Stumpfl (maker
-      of PIXERA) is Austria-headquartered and not eligible for a firm record
-      under the index's current North America firm scope, credited here
-      unlinked per the same convention used for disguise (see
-      top-of-the-rock-reimagined.yaml).
+      of PIXERA) is Austria-headquartered.
 technologies:
   - dome projection mapping
   - media server

@@ -10,10 +10,7 @@ credits:
       C&G Partners' own portfolio credits the firm as designer/developer;
       The Rockefeller University's press coverage instead credits the
       project to its internal Communications and Public Affairs office
-      without naming an outside design firm. Both are public sources; kept
-      per editorial policy (a firm's self-published portfolio counts as a
-      source) but flagged as a partial attribution conflict rather than a
-      confirmed joint credit.
+      without naming an outside design firm. Both are public sources.
 technologies:
   - interactive touch screen
   - biographical database
@@ -33,3 +30,7 @@ description: >
 sources:
   - https://www.cgpartnersllc.com/projects/scientist-explorer-interactive-touch-screen/
   - https://www.rockefeller.edu/news/27012-collaborative-research-center-installation-bridges-past-and-present-scientists/
+_comments: >
+  Kept per editorial policy (a firm's self-published portfolio counts as
+  a source) but this is a partial attribution conflict rather than a
+  confirmed joint credit — flagged for a future check.

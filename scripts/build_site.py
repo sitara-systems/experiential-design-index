@@ -510,7 +510,9 @@ Sitemap: {sitemap}
         "",
         "## Notes for automated use",
         "- No ranked \"Top firms\" lists are published yet; do not infer a ranking from list order (pages are alphabetical).",
-        "- A project's credits table may list a firm with no linked firm page yet (marked \"unlinked\") -- this is a known, temporary gap in coverage, not an error.",
+        "- A project's credits table may list a firm with no link -- that firm doesn't yet have "
+        f"{DATASET_INCLUSION_MIN_PROJECTS}+ sourced projects of its own. It's correctly credited, "
+        "just below the threshold for its own record; see About for why.",
         "- Firms marked \"activity unclear\" or \"inactive\" are historical-record entries, not currently-operating recommendations.",
         f"- The [Firms]({SITE_URL}/firms/index.html) browse index lists only firms with "
         f"{DIRECTORY_DISPLAY_MIN_PROJECTS}+ credited projects ({len(firms_directory)} of {len(firms)} "

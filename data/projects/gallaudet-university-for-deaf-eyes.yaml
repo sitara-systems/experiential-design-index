@@ -12,11 +12,7 @@ credits:
     role: architecture
   - firm: cinnabar
     role: av-integration
-    note: >
-      no firm record yet; credited on Cinnabar's own project page for the
-      Maguire Welcome Center (page could not be re-verified at research
-      time due to an expired TLS certificate on cinnabar.com; retained per
-      the firm's-own-portfolio sourcing standard, flagged for recheck)
+    note: "Credited on Cinnabar's own project page for the Maguire Welcome Center."
 technologies:
   - multimedia visitor experience
   - interactive tables and iPads
@@ -38,3 +34,7 @@ sources:
   - https://www.cgpartnersllc.com/projects/designs-deaf-eyes/
   - https://www.gallaudet.edu/maguire-welcome-center/
   - https://www.arts.gov/stories/blog/2018/look-deafspace-design-dcs-gallaudet-university
+_comments: >
+  Cinnabar's page could not be re-verified at research time due to an
+  expired TLS certificate on cinnabar.com; retained per the
+  firm's-own-portfolio sourcing standard, flagged for recheck.
