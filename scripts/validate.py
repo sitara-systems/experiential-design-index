@@ -18,7 +18,8 @@ Checks:
     - project.status == 'announced' requires year_expected, not
       year_completed, and vice versa for completed/in-progress
     - warns (not errors) on: firm with < 1 credited project in this dataset,
-      duplicate ids across the three entity types, unsourced records
+      duplicate ids across the three entity types, unsourced records,
+      status_verified older than 12 months (due for re-verification)
 
 Exit code is non-zero if any error-level finding exists (or, with --strict,
 if any warning exists too).
@@ -40,6 +41,9 @@ SLUG_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 # Gross traces to 1912); a project's year_completed will never be this old
 # but sharing one bound keeps the check simple.
 YEAR_MIN, YEAR_MAX = 1800, datetime.date.today().year + 5
+# editorial-policy.md's Activity status staleness rule: a status_verified
+# date older than 12 months is due for re-verification, not a fact to trust.
+STALENESS_WINDOW_DAYS = 365
 
 
 class Finding:
@@ -174,8 +178,15 @@ def validate_firms(firms, vocab, findings):
         if verified is not None:
             if isinstance(verified, (datetime.date, datetime.datetime)):
                 d = verified if isinstance(verified, datetime.date) else verified.date()
-                if d > datetime.date.today():
+                today = datetime.date.today()
+                if d > today:
                     findings.append(Finding("error", rel, "status_verified", f"{d} is in the future"))
+                elif (today - d).days > STALENESS_WINDOW_DAYS:
+                    findings.append(Finding(
+                        "warning", rel, "status_verified",
+                        f"{d} is over 12 months old — status is due for re-verification "
+                        f"per editorial-policy.md's staleness rule",
+                    ))
             else:
                 findings.append(Finding("error", rel, "status_verified", f"'{verified}' is not a YAML date (use YYYY-MM-DD unquoted)"))
         successor = rec.get("successor")

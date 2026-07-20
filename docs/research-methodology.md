@@ -595,13 +595,19 @@ list.*
 
 This methodology also covers maintenance, not only initial seeding:
 
-- **Firm status re-verification.** `status_verified` dates age out — the
-  editorial policy's `active` definition is evidence within a trailing
-  3-year window, so a record verified in 2026 needs a fresh check by 2029
-  at the latest, sooner if there's reason to think something changed (a
-  firm stops publishing, a merger rumor surfaces, etc.). Same process as
-  initial research: check for public evidence of activity, update
-  `status`/`status_basis`/`status_verified`, cite the new source.
+- **Firm status re-verification.** `status_verified` dates age out —
+  per the editorial policy's staleness rule (adopted 2026-07-19), any
+  status older than **12 months** is due for re-verification regardless
+  of whether anything is known to have changed; `scripts/validate.py`
+  warns (not errors) on records past that window so the queue is
+  mechanical, not memory-dependent. This is separate from the `active`
+  status definition itself (evidence within a trailing 3-year window) —
+  the 3-year window says what counts as evidence for `active`; the
+  12-month cadence says how often to go check. Same process as initial
+  research: check for public evidence of activity, update
+  `status`/`status_basis`/`status_verified`, cite the new source. Sooner
+  than 12 months if there's reason to think something changed (a firm
+  stops publishing, a merger rumor surfaces, etc.).
 - **Credit corrections.** If a correction request comes in (per the
   editorial policy's corrections process) or a later research pass finds a
   conflict, fix the record directly — git history is the changelog, per
@@ -681,9 +687,13 @@ Don't re-run the full 20-batch, 150-firm portfolio screen monthly — that
 was a one-time catch-up pass. Instead, each month, re-verify a small,
 rotating slice:
 
-- Any firm whose `status_verified` date is more than ~6 months old, oldest
-  first (`grep -h status_verified data/firms/*.yaml | sort` gives the
-  ordering).
+- Any firm whose `status_verified` date is more than 12 months old, oldest
+  first — `python scripts/validate.py` now flags these as warnings
+  directly (per the editorial policy's staleness rule, adopted
+  2026-07-19), so the queue no longer needs a separate grep; run the
+  validator and work the staleness warnings top to bottom. (Nothing fires
+  yet as of 2026-07-19 — the corpus is fresh — the point is the queue is
+  mechanical once records start aging past a year.)
 - Any firm flagged in `phase2-research-log.md` as a "near-miss" (1-2
   credits short of the dataset bar) — a quick recheck for a new credit.
 - Any firm with a scheduled `status: unclear` re-check window implied by
