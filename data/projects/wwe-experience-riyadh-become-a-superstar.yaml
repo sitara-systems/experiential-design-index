@@ -1,0 +1,25 @@
+id: wwe-experience-riyadh-become-a-superstar
+name: Become a Superstar
+venue: wwe-experience-riyadh
+project_type: new-exhibition
+year_completed: 2024
+credits:
+  - firm: tait
+    role: technical-consulting
+    note: "Experience development partner."
+  - firm: blue-telescope
+    role: media-design
+  - firm: pulse-middle-east
+    role: av-integration
+    note: "AV/lighting integration, installation, and commissioning. No firm record yet."
+technologies: []
+summary: >
+  "Become a Superstar," an interactive attraction at the WWE Experience in
+  Boulevard City, Riyadh, Saudi Arabia, opened February 16, 2024, with
+  media design by Blue Telescope, experience development by TAIT, and AV
+  integration by Pulse Middle East.
+description: ""
+sources:
+  - https://bluetelescope.com/projects/becomeASuperstar
+  - https://museaward.com/winner-info.php?id=234153
+  - https://www.pulse-me.com/portfolio/wwe-experience

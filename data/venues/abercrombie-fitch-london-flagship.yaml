@@ -1,0 +1,8 @@
+id: abercrombie-fitch-london-flagship
+name: Abercrombie & Fitch London Flagship
+venue_type: retail-flagship
+location:
+  city: London
+  country: GB
+sources:
+  - https://www.renfrodesign.com/portfolio

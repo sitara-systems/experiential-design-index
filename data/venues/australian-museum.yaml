@@ -1,0 +1,8 @@
+id: australian-museum
+name: Australian Museum
+venue_type: natural-history-museum
+location:
+  city: Sydney
+  country: AU
+sources:
+  - https://www.thearchitecturecommunity.com/australian-museum-wayfinding-program-entro-world-design-awards-2021/

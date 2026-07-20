@@ -1,0 +1,8 @@
+id: marina-bay-sands
+name: Marina Bay Sands
+venue_type: casino-resort
+location:
+  city: Singapore
+  country: SG
+sources:
+  - https://www.renfrodesign.com/portfolio

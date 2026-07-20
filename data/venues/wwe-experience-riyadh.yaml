@@ -1,0 +1,9 @@
+id: wwe-experience-riyadh
+name: WWE Experience
+venue_type: themed-attraction
+location:
+  city: Riyadh
+  country: SA
+sources:
+  - https://bluetelescope.com/projects/becomeASuperstar
+  - https://museaward.com/winner-info.php?id=234153
