@@ -1,0 +1,8 @@
+id: acmi
+name: ACMI (Australian Centre for the Moving Image)
+venue_type: design-museum
+location:
+  city: Melbourne
+  country: AU
+sources:
+  - https://ideum.com/portfolio/acmi-custom-touch-tables

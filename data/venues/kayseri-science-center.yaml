@@ -1,0 +1,8 @@
+id: kayseri-science-center
+name: Kayseri Science Center
+venue_type: science-center
+location:
+  city: Kayseri
+  country: TR
+sources:
+  - https://ideum.com/portfolio/exploratorium

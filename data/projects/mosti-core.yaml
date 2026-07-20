@@ -1,0 +1,19 @@
+id: mosti-core
+name: MOSTI Core Exhibits
+venue: mosti
+project_type: new-building
+year_completed: 2009
+credits:
+  - firm: available-light
+    role: lighting-design
+  - firm: eos-lightmedia
+    role: av-integration
+    note: "Equipment supply, installation, and programming under Available Light's lighting direction"
+summary: >
+  The Museum of Science and Technology in Islam (MOSTI) in Thuwal, Saudi
+  Arabia, opened 2009, exhibit-produced by MTE Studios (Dubai) with
+  lighting design by Available Light and lighting equipment/programming by
+  EOS Lightmedia.
+description: ""
+sources:
+  - https://www.eoslightmedia.com

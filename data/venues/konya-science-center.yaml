@@ -1,0 +1,8 @@
+id: konya-science-center
+name: Konya Science Center
+venue_type: science-center
+location:
+  city: Konya
+  country: TR
+sources:
+  - https://kubikmaltbie.com/project/konya-science-center/

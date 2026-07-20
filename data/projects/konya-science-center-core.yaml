@@ -1,0 +1,22 @@
+id: konya-science-center-core
+name: Konya Science Center Core Exhibits
+venue: konya-science-center
+project_type: new-building
+year_completed: 2012
+credits:
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Exhibit fabrication, based on a design by Liberty Science Center"
+  - firm: electrosonic
+    role: av-integration
+technologies:
+  - interactive science exhibits
+summary: >
+  Konya Science Center in Konya, Turkey, opened 2012, with exhibits
+  fabricated by Kubik Maltbie based on a design by Liberty Science Center
+  and AV integration by Electrosonic.
+description: >
+  Supported by TÜBİTAK, the Scientific and Technological Research Council
+  of Turkey.
+sources:
+  - https://kubikmaltbie.com/project/konya-science-center/

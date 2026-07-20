@@ -1,0 +1,9 @@
+id: national-gallery-singapore
+name: National Gallery Singapore
+venue_type: art-museum
+location:
+  city: Singapore
+  country: SG
+sources:
+  - https://gallagherdesign.com/project/national-gallery-singapore/
+  - https://en.wikipedia.org/wiki/National_Gallery_Singapore

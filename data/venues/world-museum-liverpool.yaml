@@ -1,0 +1,8 @@
+id: world-museum-liverpool
+name: World Museum Liverpool
+venue_type: natural-history-museum
+location:
+  city: Liverpool
+  country: GB
+sources:
+  - https://designrp.com

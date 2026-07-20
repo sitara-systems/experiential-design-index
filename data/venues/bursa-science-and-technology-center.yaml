@@ -1,0 +1,8 @@
+id: bursa-science-and-technology-center
+name: Bursa Science & Technology Center
+venue_type: science-center
+location:
+  city: Bursa
+  country: TR
+sources:
+  - https://www.eoslightmedia.com

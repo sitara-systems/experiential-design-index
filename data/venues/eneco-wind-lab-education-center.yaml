@@ -1,0 +1,9 @@
+id: eneco-wind-lab-education-center
+name: Eneco Wind Lab Education Center
+venue_type: visitor-center
+location:
+  city: Amsterdam
+  country: NL
+operator: Eneco
+sources:
+  - https://kubikmaltbie.com/project/eneco-wind-lab-education-center/

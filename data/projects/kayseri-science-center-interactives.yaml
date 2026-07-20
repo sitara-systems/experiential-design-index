@@ -1,0 +1,23 @@
+id: kayseri-science-center-interactives
+name: Star Colors, Precious Materials, and Magic Planet Interactives
+venue: kayseri-science-center
+project_type: installation
+year_completed: 2016
+credits:
+  - firm: ideum
+    role: fabrication
+    note: "Graphic/UX design, software development, content creation, engineering, industrial design, animation, and hardware for three permanent interactives"
+  - firm: exploratorium
+    role: exhibit-design
+    note: "Prime contractor (Exploratorium Global Studios); no firm record yet"
+technologies:
+  - multitouch table
+  - dome projection
+summary: >
+  Three permanent interactives (Star Colors, Precious Materials, and Magic
+  Planet Interactive) at Kayseri Science Center in Kayseri, Turkey, opened
+  2016, designed and fabricated by Ideum for prime contractor Exploratorium
+  Global Studios.
+description: ""
+sources:
+  - https://ideum.com/portfolio/exploratorium

@@ -1,0 +1,32 @@
+id: muzeiko-core
+name: Muzeiko Core Exhibits
+venue: muzeiko
+project_type: new-building
+year_completed: 2015
+credits:
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Principal contractor"
+  - firm: available-light
+    role: lighting-design
+    note: "Architectural and exhibit lighting"
+  - firm: lee-h-skolnick-design-and-architecture-partnership
+    role: architecture
+    note: "No firm record yet"
+recognition:
+  - award: "Bulgarian Building of the Year — Educational/Infrastructure"
+    year: 2015
+    source: https://www.availablelight.com/work/muzeiko-childrens-museum-of-bulgaria-exhibit-architecture
+  - award: "IES National Award of Merit"
+    year: 2017
+    source: https://www.availablelight.com/work/muzeiko-childrens-museum-of-bulgaria-exhibit-architecture
+summary: >
+  Muzeiko, Bulgaria's first interactive children's science museum, opened
+  in Sofia in 2015; Kubik Maltbie was principal contractor for exhibit
+  fabrication and installation, with architecture and exhibit lighting by
+  Available Light and architecture by Lee H. Skolnick Design + Architecture
+  Partnership.
+description: ""
+sources:
+  - https://kubikmaltbie.com/project/muzeiko-the-childrens-museum-of-bulgaria/
+  - https://www.availablelight.com/work/muzeiko-childrens-museum-of-bulgaria-exhibit-architecture

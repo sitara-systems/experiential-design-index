@@ -1,0 +1,9 @@
+id: us-embassy-london
+name: U.S. Embassy, Nine Elms
+venue_type: other
+location:
+  city: London
+  country: GB
+operator: U.S. Department of State
+sources:
+  - https://www.cgpartnersllc.com/projects/embassy-united-states-london/

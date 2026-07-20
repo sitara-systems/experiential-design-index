@@ -1,0 +1,8 @@
+id: hamad-international-airport
+name: Hamad International Airport
+venue_type: other
+location:
+  city: Doha
+  country: QA
+sources:
+  - https://www.electrosonic.com/projects
