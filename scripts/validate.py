@@ -19,12 +19,16 @@ Checks:
       year_completed, and vice versa for completed/in-progress
     - warns (not errors) on: firm with < 1 credited project in this dataset,
       duplicate ids across the three entity types, unsourced records,
-      status_verified older than 12 months (due for re-verification)
+      status_verified older than 12 months (due for re-verification),
+      operating-reality mismatch (more international-venue credits than
+      North America ones, with no recent North America credit — see
+      check_operating_reality)
 
 Exit code is non-zero if any error-level finding exists (or, with --strict,
 if any warning exists too).
 """
 import argparse
+import collections
 import datetime
 import pathlib
 import re
@@ -307,6 +311,59 @@ def firm_project_coverage(firms, projects, findings):
             findings.append(Finding("warning", rel, None, "firm has no credited project in this dataset yet"))
 
 
+# A firm's status_verified/hq claims North America operating reality, but
+# the credit record itself can quietly disagree (Tellart, 2026-07-19: a
+# Providence-incorporated firm record whose actual work was overwhelmingly
+# recent and international — legal registration isn't the bar,
+# editorial-policy.md's "operating reality governs" is). This check catches
+# the shape of that mismatch mechanically so it doesn't require someone to
+# remember to look.
+GAP_YEARS_THRESHOLD = 4
+
+
+def check_operating_reality(firms, projects, venues, findings):
+    venue_country = {}
+    for vid, (rec, _) in venues.items():
+        loc = rec.get("location") or {}
+        venue_country[vid] = str(loc.get("country", "US")).upper()
+
+    na_years = collections.defaultdict(list)
+    intl_years = collections.defaultdict(list)
+    for _, (rec, _) in projects.items():
+        year = rec.get("year_completed") or rec.get("year_expected")
+        if not year:
+            continue
+        country = venue_country.get(rec.get("venue"), "US")
+        for c in rec.get("credits") or []:
+            if not isinstance(c, dict) or not c.get("firm"):
+                continue
+            fid = c["firm"]
+            (na_years if country in ("US", "CA") else intl_years)[fid].append(year)
+
+    for fid, (_, rel) in firms.items():
+        intl = intl_years.get(fid) or []
+        if not intl:
+            continue
+        na = na_years.get(fid) or []
+        max_intl, max_na = max(intl), (max(na) if na else None)
+        gap = (max_intl - max_na) if max_na is not None else None
+        imbalanced = len(intl) > len(na)
+        stale_or_absent = max_na is None or gap >= GAP_YEARS_THRESHOLD
+        if imbalanced and stale_or_absent:
+            detail = (
+                f"no North America-venue credits" if max_na is None
+                else f"most recent North America-venue credit is {gap} year(s) "
+                     f"older than the most recent international one ({max_na} vs. {max_intl})"
+            )
+            findings.append(Finding(
+                "warning", rel, "hq",
+                f"possible operating-reality mismatch — {len(intl)} international-venue "
+                f"credit(s) vs. {len(na)} North America-venue credit(s), and {detail}; "
+                f"re-check per editorial-policy.md's operating-reality rule before trusting "
+                f"this firm record as-is",
+            ))
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--strict", action="store_true", help="exit non-zero on warnings too")
@@ -325,6 +382,7 @@ def main():
     validate_venues(venues, vocab, findings)
     cross_dataset_id_collisions(firms, projects, venues, findings)
     firm_project_coverage(firms, projects, findings)
+    check_operating_reality(firms, projects, venues, findings)
 
     findings.sort(key=lambda f: (f.level != "error", f.entity, f.field or ""))
 
