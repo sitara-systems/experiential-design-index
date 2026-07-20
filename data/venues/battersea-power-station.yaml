@@ -1,0 +1,8 @@
+id: battersea-power-station
+name: Battersea Power Station
+venue_type: themed-attraction
+location:
+  city: London
+  country: GB
+sources:
+  - https://www.dezeen.com/2022/11/19/glass-lift-109-viewpoint-battersea-power-station-chimney/

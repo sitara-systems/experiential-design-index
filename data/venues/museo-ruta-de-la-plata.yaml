@@ -1,0 +1,10 @@
+id: museo-ruta-de-la-plata
+name: Museo Ruta de la Plata
+venue_type: history-museum
+location:
+  city: El Triunfo
+  state: BCS
+  country: MX
+_comments: "El Triunfo, Baja California Sur — a historic silver-mining town; not Spain's Vía de la Plata."
+sources:
+  - https://www.creators.com/read/travel-and-adventure/07/20/ruta-de-plata-museum-celebrates-triunfos-mining-history

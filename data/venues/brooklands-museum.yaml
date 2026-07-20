@@ -1,0 +1,8 @@
+id: brooklands-museum
+name: Brooklands Museum
+venue_type: history-museum
+location:
+  city: Weybridge
+  country: GB
+sources:
+  - https://museumsandheritage.com/advisor/posts/brooklands-museum-designing-aircraft-factory-exhibition-inside-restored-wwii-hangar/

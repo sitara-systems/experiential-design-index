@@ -1,0 +1,8 @@
+id: horniman-museum
+name: Horniman Museum and Gardens
+venue_type: natural-history-museum
+location:
+  city: London
+  country: GB
+sources:
+  - https://apollo-magazine.com/horniman-museum-world-gallery/

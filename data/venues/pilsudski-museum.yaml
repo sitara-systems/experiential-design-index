@@ -1,0 +1,8 @@
+id: pilsudski-museum
+name: Józef Piłsudski Museum
+venue_type: history-museum
+location:
+  city: Sulejówek
+  country: PL
+sources:
+  - https://www.wxca.pl/en-us/projects/wystawa-muzeum-pilsudskiego

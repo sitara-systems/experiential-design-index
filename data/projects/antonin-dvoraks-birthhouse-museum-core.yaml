@@ -1,0 +1,24 @@
+id: antonin-dvoraks-birthhouse-museum-core
+name: Antonín Dvořák's Birthhouse Museum Core Exhibits
+venue: antonin-dvoraks-birthhouse-museum
+project_type: new-building
+year_completed: 2025
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+    note: "Berlin office; project led by Tim Ventimiglia, concept design by Jona Piehl"
+  - firm: wright-and-wright-architects
+    role: architecture
+  - firm: capacity-expo
+    role: fabrication
+    note: "No firm record yet"
+technology_tags:
+  - immersive-environment
+summary: >
+  Antonín Dvořák's Birthhouse Museum, in the historic tavern/granary/barn
+  compound where the composer was born in Nelahozeves, Czech Republic,
+  opened September 8, 2025, with exhibition design by Ralph Appelbaum
+  Associates and architecture by Wright & Wright Architects.
+description: ""
+sources:
+  - https://blooloop.com/museum/news/ralph-appelbaum-associates-dvorak-birthhouse-museum/

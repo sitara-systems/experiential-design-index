@@ -1,0 +1,8 @@
+id: bletchley-park
+name: Bletchley Park
+venue_type: history-museum
+location:
+  city: Milton Keynes
+  country: GB
+sources:
+  - https://www.bletchleypark.org.uk/event/the-intelligence-factory/

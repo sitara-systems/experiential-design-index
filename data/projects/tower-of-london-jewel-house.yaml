@@ -1,0 +1,27 @@
+id: tower-of-london-jewel-house
+name: Jewel House (Crown Jewels exhibition)
+venue: tower-of-london
+project_type: new-exhibition
+year_completed: 2023
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+    note: "Lead designer"
+  - firm: michael-grubb-studio
+    role: lighting-design
+    note: "No firm record yet"
+  - firm: squint-opera
+    role: media-design
+    note: "No firm record yet"
+technology_tags:
+  - immersive-environment
+summary: >
+  The reimagined Jewel House exhibition displaying the Crown Jewels at the
+  Tower of London, UK, opened May 26, 2023, with Ralph Appelbaum Associates
+  as lead designer, lighting design by Michael Grubb Studio, and media
+  design by Squint/Opera.
+description: ""
+sources:
+  - https://blooloop.com/museum/news/historic-royal-palaces-crown-jewels-exhibition/
+  - https://www.michaelgrubbstudio.com/portfolio/jewel-house-tower-of-london/
+  - https://darcawards.com/portfolio/jewel-house-tower-of-london-uk/

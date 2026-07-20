@@ -1,0 +1,9 @@
+id: tower-of-london
+name: Tower of London
+venue_type: history-museum
+location:
+  city: London
+  country: GB
+operator: Historic Royal Palaces
+sources:
+  - https://blooloop.com/museum/news/historic-royal-palaces-crown-jewels-exhibition/

@@ -1,0 +1,8 @@
+id: raf-museum-london
+name: RAF Museum London
+venue_type: history-museum
+location:
+  city: London
+  country: GB
+sources:
+  - https://vintageaviationnews.com/aviation-museum-news/prince-philip-opens-world-war-exhibition-royal-air-force-museum-london.html

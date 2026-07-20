@@ -1,0 +1,8 @@
+id: lincoln-castle
+name: Lincoln Castle
+venue_type: history-museum
+location:
+  city: Lincoln
+  country: GB
+sources:
+  - https://museumsandheritage.com/advisor/posts/centre-screen-attends-royal-opening-of-lincoln-castle-revealed/

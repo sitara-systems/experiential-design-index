@@ -1,0 +1,9 @@
+id: kula-belgrade
+name: Kula Belgrade
+venue_type: themed-attraction
+location:
+  city: Belgrade
+  country: RS
+_comments: "Tower architecture by SOM; Belgrade 360 Deck (Deck 41) is the observation-deck experience atop the tower."
+sources:
+  - https://www.belgrade360deck.com/en/blog/belgrade-is-not-a-finished-image-its-something-constantly-being-made/

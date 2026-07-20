@@ -1,0 +1,9 @@
+id: economy-museum-stockholm
+name: Economy Museum (Royal Coin Cabinet)
+venue_type: history-museum
+location:
+  city: Stockholm
+  country: SE
+_comments: "Formal identity is the Royal Coin Cabinet / Economy Museum (Sweden's national historical museums, SHM) — not the Riksbank."
+sources:
+  - https://new.coinsweekly.com/news-en/swedish-economy-museum-reopened/

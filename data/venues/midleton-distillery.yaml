@@ -1,0 +1,9 @@
+id: midleton-distillery
+name: Midleton Distillery
+venue_type: brand-experience-center
+location:
+  city: Midleton
+  country: IE
+operator: Irish Distillers
+sources:
+  - https://blooloop.com/museum/news/raa-midleton-distillery-experience/

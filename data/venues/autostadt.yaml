@@ -1,0 +1,9 @@
+id: autostadt
+name: Autostadt
+venue_type: themed-attraction
+location:
+  city: Wolfsburg
+  country: DE
+operator: Volkswagen
+sources:
+  - https://hosoyaschaefer.com/projects/mobiglobe/

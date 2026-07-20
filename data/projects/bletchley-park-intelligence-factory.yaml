@@ -1,0 +1,19 @@
+id: bletchley-park-intelligence-factory
+name: The Intelligence Factory
+venue: bletchley-park
+project_type: new-exhibition
+year_completed: 2022
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+    note: "Planning and design"
+  - firm: ay-pe
+    role: media-design
+    note: "Interactive/media design; no firm record yet"
+summary: >
+  The Intelligence Factory, an exhibition in Block A at Bletchley Park, UK,
+  opened April 2022, with planning and design by Ralph Appelbaum Associates
+  and interactive/media design by Ay-Pe.
+description: ""
+sources:
+  - https://www.bletchleypark.org.uk/event/the-intelligence-factory/

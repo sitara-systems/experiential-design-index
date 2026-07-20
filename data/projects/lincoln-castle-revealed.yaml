@@ -1,0 +1,24 @@
+id: lincoln-castle-revealed
+name: Lincoln Castle Revealed
+venue: lincoln-castle
+project_type: major-renovation
+year_completed: 2015
+credits:
+  - firm: ralph-appelbaum-associates
+    role: exhibit-design
+    note: >
+      Credited by Museums + Heritage Advisor; the Historic Lincoln Trust's
+      own site credits "Boults" as "Designed by" with no mention of RAA,
+      possibly a different scope (e.g. branding/graphics vs. RAA's
+      exhibition design) — unresolved, both credits recorded.
+  - firm: boults
+    role: graphics-wayfinding
+    note: "No firm record yet; see conflict note above"
+summary: >
+  Lincoln Castle Revealed, a £22m renovation of Lincoln Castle, UK timed to
+  the Magna Carta's 800th anniversary, opened June 12, 2015; exhibition
+  design credited to Ralph Appelbaum Associates.
+description: ""
+sources:
+  - https://museumsandheritage.com/advisor/posts/centre-screen-attends-royal-opening-of-lincoln-castle-revealed/
+  - https://historiclincolntrust.org.uk/lincoln-castle-revealed/
