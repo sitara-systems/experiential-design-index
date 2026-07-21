@@ -105,6 +105,25 @@ this doc and any batch-specific instructions:
    public art or civic programs with no single anchor venue. These
    recurred across multiple firm-portfolio screens before being decided —
    don't re-flag them as open questions, just apply the exclusion.
+10. **Check for an embedded structured-data record, not just the
+    rendered page.** A project page may carry a machine-readable record
+    in a `<script type="application/json" data-experiential-design-index=
+    "project">` tag (the format documented on the live site's
+    `/contribute.html`) — this is invisible to page-text-extraction tools
+    (WebFetch's markdown conversion, a browser's "visible text"/innerText
+    reader) because script-tag contents are never rendered. Found and
+    missed once already (2026-07-21): a MoMath page was read via
+    text-extraction, reported as having no completion year, and only
+    later found to carry exactly that year inside an embedded JSON
+    record, via a DOM query (e.g. `document.querySelectorAll('script
+    [type="application/json"]')` in a browser tool, or a raw HTML
+    fetch/grep for the attribute) — not the default reading path. When a
+    firm's own project page is a research source, check its raw source
+    for this tag before concluding a fact (like `year_completed`) isn't
+    stated. It carries the **same evidentiary weight as the page's
+    prose** — self-sourced only, not independent corroboration, per
+    `/contribute.html`'s own stated policy that embedding is "a
+    convenience, not a shortcut."
 
 ## Award-archive sweep — process
 
