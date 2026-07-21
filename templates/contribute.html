@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% block title %}Contribute — The Experiential Design Index{% endblock %}
+{% block jsonld %}
+<script type="application/ld+json">{{ jsonld | safe }}</script>
+{% endblock %}
+{% block content %}
+<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; Contribute</div>
+<h1>How the Index Works</h1>
+
+<p>The Experiential Design Index is a public record of the firms and
+projects behind experiential environments in North America &mdash;
+museums, science centers, visitor and briefing centers, brand and
+cultural spaces &mdash; and the full delivery stack that builds them,
+from architecture through fabrication.</p>
+
+<p>It is compiled from public records, published as open data under
+<a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY
+4.0</a>, and maintained in the open. This page explains how to make sure
+your firm is represented well, and how to propose an addition or
+correction. For the full inclusion, sourcing, and scope rules, see
+<a href="{{ base }}/about.html">About</a> &mdash; this page summarizes
+them briefly and doesn't restate them in full.</p>
+
+<h2>The short version</h2>
+<ul>
+  <li>The index records <strong>firms and projects</strong>, not
+  individuals, and credits the <strong>whole delivery stack</strong> on
+  every project it can source &mdash; who did what, not just the
+  headline firm.</li>
+  <li>A firm gets its own record once <strong>{{ dataset_min_projects }}
+  or more of its projects</strong> can be documented from public
+  sources; fewer than that, it still appears in project credits.</li>
+  <li>Every fact traces to a <strong>public, independently checkable
+  source</strong> &mdash; an institution's press page, a juried award
+  listing, trade coverage, or a firm's own published portfolio.
+  Paywalled reports, private documents, and unpublished claims don't
+  qualify, and unclear credits are left out rather than guessed.</li>
+</ul>
+
+<h2>How to make sure your firm is represented well</h2>
+<p>The index is researched from what's publicly documented &mdash; so
+the single most useful thing any firm can do is <strong>publish
+complete, clearly credited project pages</strong>. A project page that
+names its venue, opening year, and the full partner stack (with each
+firm's role) is far more likely to be recorded accurately and
+completely than one that lists only the lead firm.</p>
+
+<p>Optionally, a project page can embed a machine-readable record that
+mirrors the index's schema, so it can be read without guesswork:</p>
+
+<pre><code>&lt;script type="application/json" data-experiential-design-index="project"&gt;
+{
+  "name": "Project Name",
+  "venue": {"name": "Venue", "city": "City", "state": "ST",
+            "country": "US", "venue_type": "science-center"},
+  "project_type": "new-exhibition",
+  "year_completed": 2025,
+  "credits": [
+    {"firm": "Example Architects", "role": "architecture"},
+    {"firm": "Example Studio", "role": "exhibit-design"},
+    {"firm": "Example Media", "role": "media-design"},
+    {"firm": "Example Fab", "role": "fabrication"}
+  ],
+  "sources": ["https://institution.org/press/project"]
+}
+&lt;/script&gt;</code></pre>
+
+<p>The controlled values for <code>role</code>, <code>project_type</code>,
+and <code>venue_type</code> are listed in the index's published
+<a href="https://github.com/sitara-systems/experiential-design-index/blob/main/schema/vocabularies.yaml">vocabularies</a>.
+Embedding a record is a convenience, not a shortcut: every credit is
+still verified against independent public sources before it publishes.</p>
+
+<h2>Corrections and contributions</h2>
+<p>The dataset lives in a
+<a href="https://github.com/sitara-systems/experiential-design-index">public
+repository</a>, one file per firm, project, and venue. To propose an
+addition, a correction, or a status update,
+<a href="https://github.com/sitara-systems/experiential-design-index/issues">open
+an issue</a> or a pull request with the change and a public source.</p>
+<p>Corrections are made directly to the record; the repository's history
+is the changelog. We especially welcome missing delivery-stack credits,
+sourced opening years, and evidence that updates a firm's activity
+status.</p>
+
+<h2>A note on neutrality and self-inclusion</h2>
+<p>The Experiential Design Index is published by
+<a href="https://sitara.systems">Sitara Systems</a>, a firm that also
+works in this field. Sitara's own projects are held to exactly the same
+inclusion bar, sourcing standard, and scope rules as every other firm's
+&mdash; and, like every firm, Sitara cannot be credited on its own
+say-so alone. The index is only useful if it's trustworthy about
+everyone in it, including its publisher.</p>
+{% endblock %}

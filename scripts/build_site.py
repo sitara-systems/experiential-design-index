@@ -825,6 +825,13 @@ def main():
         build_date=datetime.date.today().isoformat(),
     )
 
+    # Contribute
+    contribute_ld = breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("Contribute", None)])
+    render(
+        "contribute.html", SITE / "contribute.html", jsonld=dumps_ld(contribute_ld),
+        dataset_min_projects=DATASET_INCLUSION_MIN_PROJECTS,
+    )
+
     # Firms index (directory-display threshold applies -- see
     # DIRECTORY_DISPLAY_MIN_PROJECTS; every firm still gets its own detail
     # page below, whether or not it's listed here)
@@ -1027,6 +1034,7 @@ Sitemap: {sitemap}
         f"- [Venues]({SITE_URL}/venues/index.html): every venue, alphabetically. Each venue page lists its projects.",
         f"- [Rankings]({SITE_URL}/lists/index.html): per-delivery-stack-role, per-region, and specialty ranked lists of firms, computed entirely from the open dataset by a fixed, published formula (see About). Each ranked table shows at most the top 10 firms (a numbered rank requires 2+ eligible projects); every other firm with eligible activity is listed unranked on the same page. Role lists include only firms that offer the role as a standalone service; roles below the 8-firm minimum-depth bar publish as an unranked roundup instead of a false-signal ranking.",
         f"- [About]({SITE_URL}/about.html): editorial policy -- inclusion bar (>=3 projects, public sourcing only), activity-status methodology, ranked-list methodology, corrections process, CC BY 4.0 license.",
+        f"- [Contribute]({SITE_URL}/contribute.html): how a firm gets represented well (complete, clearly credited project pages; an optional embeddable JSON record format), and how to submit a correction or addition via the repository.",
         f"- [Open data]({SITE_URL}/data/): JSON and CSV exports of the full dataset (firms, projects, venues), CC BY 4.0.",
         "",
         "## Notes for automated use",
@@ -1045,7 +1053,7 @@ Sitemap: {sitemap}
     (SITE / "llms.txt").write_text("\n".join(llms_lines) + "\n", encoding="utf-8")
 
     # ---- sitemap.xml ----
-    urls = [f"{SITE_URL}/index.html", f"{SITE_URL}/about.html",
+    urls = [f"{SITE_URL}/index.html", f"{SITE_URL}/about.html", f"{SITE_URL}/contribute.html",
             f"{SITE_URL}/firms/index.html", f"{SITE_URL}/projects/index.html", f"{SITE_URL}/venues/index.html",
             f"{SITE_URL}/lists/index.html"]
     urls += [f"{SITE_URL}/firms/{fid}.html" for fid in firms]
