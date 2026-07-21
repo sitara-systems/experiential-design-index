@@ -21,6 +21,7 @@ import argparse
 import csv
 import datetime
 import json
+import os
 import pathlib
 import re
 import shutil
@@ -37,7 +38,13 @@ SITE = ROOT / "_site"
 VOCAB_PATH = ROOT / "schema" / "vocabularies.yaml"
 
 SITE_NAME = "The Experiential Design Index"
-SITE_URL = "https://sitara.systems/experiential-design-index"  # placeholder; final path TBD per hosting decision (D1)
+# SITE_URL overridable via env for non-production deploys (e.g. an interim
+# GitHub Pages preview at a different host/path); defaults to the D1 target.
+SITE_URL = os.environ.get("SITE_URL", "https://sitara.systems/experiential-design-index")
+# Set NOINDEX=1 for preview deploys not meant to be crawled/cited -- emits a
+# blanket-disallow robots.txt and a noindex meta tag on every page, so an
+# interim URL never competes with the eventual production launch.
+NOINDEX = os.environ.get("NOINDEX") == "1"
 
 # Directory-display threshold (docs/editorial-policy.md, decided 2026-07-19).
 # Distinct from the 3-project dataset-inclusion bar enforced by validate.py:
@@ -707,7 +714,7 @@ def main():
 
     def render(template_name, out_path, **ctx):
         tmpl = env.get_template(template_name)
-        html = tmpl.render(base=BASE, **ctx)
+        html = tmpl.render(base=BASE, noindex=NOINDEX, **ctx)
         out_path.parent.mkdir(parents=True, exist_ok=True)
         out_path.write_text(html, encoding="utf-8")
 
@@ -898,7 +905,19 @@ def main():
     )
 
     # ---- robots.txt ----
-    robots = """# robots.txt for The Experiential Design Index
+    if NOINDEX:
+        robots = """# robots.txt -- interim preview deploy, not the production site.
+# Blanket disallow: this URL is not the canonical home for The Experiential
+# Design Index and should never be indexed or cited in its place.
+
+User-agent: *
+Disallow: /
+
+Sitemap: {sitemap}
+""".format(sitemap=f"{SITE_URL}/sitemap.xml")
+        (SITE / "robots.txt").write_text(robots, encoding="utf-8")
+    else:
+        robots = """# robots.txt for The Experiential Design Index
 # Standard search crawlers and AI/answer-engine crawlers are explicitly
 # allowed -- this is a public open-data reference site and citation is the
 # point. See https://sitara.systems for the parent studio's crawler policy.
@@ -948,7 +967,7 @@ Disallow: /
 
 Sitemap: {sitemap}
 """.format(sitemap=f"{SITE_URL}/sitemap.xml")
-    (SITE / "robots.txt").write_text(robots, encoding="utf-8")
+        (SITE / "robots.txt").write_text(robots, encoding="utf-8")
 
     # ---- llms.txt ----
     llms_lines = [

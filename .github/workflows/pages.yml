@@ -1,0 +1,52 @@
+name: Deploy preview to GitHub Pages
+
+# Interim preview deploy only, per HANDOFF track G/J: the production home
+# for this site is sitara.systems/experiential-design-index/ (gated on the
+# sitara-website rebuild's DNS cutover). This workflow publishes the same
+# build to GitHub Pages at a *different* URL for early review, with
+# NOINDEX=1 so the preview never gets indexed/cited in place of the
+# eventual production URL. Safe to remove once the real domain goes live.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml jinja2
+      - name: Validate data
+        run: python scripts/validate.py
+      - name: Build site (preview mode)
+        env:
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          NOINDEX: "1"
+        run: python scripts/build_site.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

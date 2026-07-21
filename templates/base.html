@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% block title %}The Experiential Design Index{% endblock %}</title>
 <meta name="description" content="{% block meta_description %}The public record of who built what in experiential design — museums, science centers, brand experience centers, and the firms behind them.{% endblock %}">
+{% if noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
 {% block jsonld %}{% endblock %}
 <style>
   :root {
