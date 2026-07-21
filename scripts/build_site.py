@@ -298,9 +298,16 @@ def score_firms(firms, projects, eligible, credit_matches):
 
     Returns rows sorted by (score desc, status_verified desc, name asc):
     [{"firm": firm_dict, "score": float, "eligible_projects": [...]}]
+
+    Inactive firms never appear on ranked lists or count toward minimum
+    depth (editorial ruling 2026-07-20) -- a list answering "who can I
+    hire" can't include firms that no longer exist. Their records, project
+    credits, and directory presence are unaffected.
     """
     rows = []
     for fid, f in firms.items():
+        if f.get("status") == "inactive":
+            continue
         score = 0.0
         bonus = 0.0
         eligible_projects = []
@@ -445,6 +452,8 @@ def build_awards_list(firms, projects, current_year):
     # recency-weighted formula -- an award year is already a recency signal.
     rows = []
     for fid, f in firms.items():
+        if f.get("status") == "inactive":
+            continue
         total = 0
         items = []
         for pid, p in projects.items():
@@ -494,6 +503,8 @@ def build_reach_list(firms, projects, venues, current_year):
     eligible = _eligible_projects_for(projects, current_year)
     rows = []
     for fid, f in firms.items():
+        if f.get("status") == "inactive":
+            continue
         vset = {}
         for pid, p, age in eligible:
             if not any(isinstance(c, dict) and c.get("firm") == fid
@@ -542,6 +553,8 @@ def build_annual_list(firms, projects, list_year):
     # about index coverage rather than pretending to census the industry.
     rows = []
     for fid, f in firms.items():
+        if f.get("status") == "inactive":
+            continue
         items = []
         for pid, p in projects.items():
             if (p.get("status") or "completed") != "completed":

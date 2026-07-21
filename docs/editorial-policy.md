@@ -153,6 +153,16 @@ venue-and-project model. A firm's museum or civic work stays in scope;
 its theatrical/live-event work does not. (Decided 2026-07-19, after this
 pattern recurred across multiple firm-portfolio screens.)
 
+This exclusion extends to **entertainment show productions even when
+permanently installed** (decided 2026-07-20): choreographed spectaculars
+— parades, fireworks and lagoon shows, stunt and stage shows — are show
+production, not built visitor spaces, wherever they run and however long
+they run. Rides, lands, and built attractions at the same venues remain
+in scope, as do permanently installed media experiences that transform a
+venue space (projection, sound, and light installations at museums,
+civic buildings, and public spaces) — those are built work delivered by
+the delivery stack this index credits.
+
 **Project-type scope: no repeated/templated installation programs.**
 When a firm installs a near-identical, templated build across many
 sites — a recurring product line rather than a bespoke design each time
@@ -286,6 +296,11 @@ list from the published data:
   project pages and count toward their own per-role lists, but don't place
   a firm on a cross-role list — an AV integrator and an exhibit designer
   with the same count are not answers to the same buyer question.
+- **Active firms only** *(amended 2026-07-20)*: firms with an `inactive`
+  activity status never appear on ranked lists and never count toward
+  minimum depth — a list answering "who can I hire" can't include firms
+  that no longer exist. Inactive firms keep their records, their project
+  credits, and their directory presence; only ranking is affected.
 - **Coverage honesty**: every list page states that counts reflect work
   recorded in the index — coverage depth varies by firm — and that a
   position implies no judgment of design quality.
