@@ -25,7 +25,7 @@
   {% for c in project.credits %}
     <tr>
       <td>{% if c.firm_exists %}<a href="{{ base }}/firms/{{ c.firm }}.html">{{ c.firm_name }}</a>{% else %}{{ c.firm_name }}{% endif %}</td>
-      <td>{{ c.role_label }}</td>
+      <td>{{ c.role_label }}{% for t in c.technology_tag_labels %} <span class="credit-tag" title="This credit delivered the {{ t }} technology on this project, per the cited sources.">{{ t }}</span>{% endfor %}</td>
       <td>{{ c.note or '' }}</td>
     </tr>
   {% endfor %}

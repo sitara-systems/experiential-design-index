@@ -274,16 +274,21 @@ list from the published data:
   project. Being credited on a project that features a technology (AV
   installation, fabrication, lighting, the surrounding gallery design) does
   not place a firm on that technology's list.
-- **Venue-type lists** *(amended 2026-07-19)*: count design-discipline
-  credits only — exhibit design, interpretive planning, media design,
-  architecture, master planning, landscape architecture, environmental
-  graphics & wayfinding, lighting design — and only where the firm offers
-  that role as a standalone service (its record `roles`). The list answers
-  "who can design my [venue type] experience"; execution and systems
-  credits (fabrication, AV integration, acoustics, technical or
-  accessibility consulting) stay on project pages but don't place a firm
-  on a venue-type list — an AV integrator and an exhibit designer with the
-  same venue-type count are not answers to the same buyer question.
+- **Venue-type and cross-role lists** *(amended 2026-07-19/20)*: venue-type
+  lists, most-awarded firms, largest reach, and annual most-active all
+  count design-discipline credits only — exhibit design, interpretive
+  planning, media design, architecture, master planning, landscape
+  architecture, environmental graphics & wayfinding, lighting design — and
+  only where the firm offers that role as a standalone service (its record
+  `roles`). This follows the founding principle above: never a cross-role
+  master ranking. Execution and systems credits (fabrication, AV
+  integration, acoustics, technical or accessibility consulting) stay on
+  project pages and count toward their own per-role lists, but don't place
+  a firm on a cross-role list — an AV integrator and an exhibit designer
+  with the same count are not answers to the same buyer question.
+- **Coverage honesty**: every list page states that counts reflect work
+  recorded in the index — coverage depth varies by firm — and that a
+  position implies no judgment of design quality.
 
 Weights and thresholds may be revised as the dataset grows; every revision
 to this policy is recorded in the repository's history.

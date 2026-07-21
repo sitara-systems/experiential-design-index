@@ -91,6 +91,7 @@ def load_vocab():
         "project_types": {e["id"]: e["label"] for e in raw.get("project_types", [])},
         "firm_statuses": {e["id"]: e["label"] for e in raw.get("firm_statuses", [])},
         "venue_types": {e["id"]: e["label"] for e in raw.get("venue_types", [])},
+        "technology_tags": {e["id"]: e["label"] for e in raw.get("technology_tags", [])},
     }
 
 
@@ -149,6 +150,11 @@ def enrich_projects(projects, firms, venues, vocab, warnings):
             c["firm_exists"] = firm is not None
             c["firm_name"] = firm["name"] if firm else (firm_id or "(unknown firm)")
             c["role_label"] = vocab["roles"].get(c.get("role"), c.get("role") or "")
+            # Credit-level technology attribution renders as a marker on the
+            # credits table -- readers (and the corrections process) can see
+            # which credit delivered a tagged technology.
+            c["technology_tag_labels"] = [vocab["technology_tags"].get(t, t)
+                                          for t in (c.get("technology_tags") or [])]
             # Editor-facing bookkeeping ("no firm record yet") never renders
             # publicly — pages and open-data exports both get the cleaned note.
             c["note"] = public_note(c.get("note"))
@@ -379,14 +385,24 @@ def build_tech_tag_list(tag_id, tag_label, firms, projects, current_year):
     }
 
 
-# Venue-type lists count design-discipline credits only (editorial ruling
-# 2026-07-19): the buyer question is "who can design my [venue type]
-# experience," so execution/systems roles don't place a firm on the list.
-VENUE_TYPE_LIST_ROLES = {
+# Cross-role list families (venue-type, most-awarded, largest-reach,
+# most-active) count design-discipline credits only, held in a role the firm
+# offers standalone (editorial rulings 2026-07-19/20): the founding principle
+# is "never a cross-role master ranking" — an AV integrator and an exhibit
+# designer with the same count are not answers to the same buyer question.
+# Per-role lists remain the home for execution/systems disciplines.
+DESIGN_LIST_ROLES = {
     "exhibit-design", "interpretive-planning", "media-design", "architecture",
     "master-planning", "landscape-architecture", "graphics-wayfinding",
     "lighting-design",
 }
+
+
+def design_identity_credit(firms, p, c):
+    """Membership test for cross-role list families: a design-discipline
+    credit held in a role the firm offers standalone (its record roles)."""
+    return (c.get("role") in DESIGN_LIST_ROLES
+            and c.get("role") in ((firms.get(c.get("firm")) or {}).get("roles") or []))
 
 
 def build_venue_type_list(vt_id, vt_label, firms, projects, venues, current_year):
@@ -398,8 +414,7 @@ def build_venue_type_list(vt_id, vt_label, firms, projects, venues, current_year
     eligible = _eligible_projects_for(projects, current_year)
     rows = score_firms(firms, projects, eligible,
                        lambda p, c: ((venues.get(p.get("venue")) or {}).get("venue_type") == vt_id
-                                     and c.get("role") in VENUE_TYPE_LIST_ROLES
-                                     and c.get("role") in ((firms.get(c.get("firm")) or {}).get("roles") or [])))
+                                     and design_identity_credit(firms, p, c)))
     ranked, top, also = split_rows(rows)
     return {
         "slug": f"venue-type-{vt_id}",
@@ -440,7 +455,9 @@ def build_awards_list(firms, projects, current_year):
                     and 0 <= current_year - r["year"] <= RANKED_LIST_WINDOW_YEARS]
             if not recs:
                 continue
-            if not any(isinstance(c, dict) and c.get("firm") == fid for c in (p.get("credits") or [])):
+            if not any(isinstance(c, dict) and c.get("firm") == fid
+                       and design_identity_credit(firms, p, c)
+                       for c in (p.get("credits") or [])):
                 continue
             total += len(recs)
             items.append({"id": pid, "name": p["name"], "year": p.get("year_completed")})
@@ -462,10 +479,11 @@ def build_awards_list(firms, projects, current_year):
         "items_label": "Recognized projects",
         "methodology_note": ("Counts recognition entries from juried award programs "
                              "(no pay-to-enter schemes) with an award year in the "
-                             "trailing 5 years, on completed projects the firm is "
-                             "credited on. Every credited firm on a recognized project "
-                             "counts the recognition. Ties broken by most recent "
-                             "status-verification date."),
+                             "trailing 5 years, on completed projects where the firm "
+                             "holds a design-discipline credit in a role it offers "
+                             "standalone. Execution and systems credits (fabrication, "
+                             "AV integration, consulting) don't count a recognition. "
+                             "Ties broken by most recent status-verification date."),
     }
 
 
@@ -478,7 +496,9 @@ def build_reach_list(firms, projects, venues, current_year):
     for fid, f in firms.items():
         vset = {}
         for pid, p, age in eligible:
-            if not any(isinstance(c, dict) and c.get("firm") == fid for c in (p.get("credits") or [])):
+            if not any(isinstance(c, dict) and c.get("firm") == fid
+                       and design_identity_credit(firms, p, c)
+                       for c in (p.get("credits") or [])):
                 continue
             v = venues.get(p.get("venue"))
             a = (v or {}).get("annual_attendance")
@@ -507,10 +527,12 @@ def build_reach_list(firms, projects, venues, current_year):
         "items_label": "Counted venues",
         "methodology_note": ("Sums each venue's published annual attendance figure once "
                              "per firm (distinct venues, not per project), over venues "
-                             "hosting the firm's completed trailing-5-year work. Published "
-                             "figures only -- venues without a published figure count "
-                             "zero, and figures come from different reporting years. Ties "
-                             "broken by most recent status-verification date."),
+                             "hosting the firm's completed trailing-5-year work where "
+                             "the firm holds a design-discipline credit in a role it "
+                             "offers standalone. Published figures only -- venues "
+                             "without a published figure count zero, and figures come "
+                             "from different reporting years. Ties broken by most "
+                             "recent status-verification date."),
     }
 
 
@@ -526,7 +548,9 @@ def build_annual_list(firms, projects, list_year):
                 continue
             if p.get("year_completed") != list_year:
                 continue
-            if any(isinstance(c, dict) and c.get("firm") == fid for c in (p.get("credits") or [])):
+            if any(isinstance(c, dict) and c.get("firm") == fid
+                   and design_identity_credit(firms, p, c)
+                   for c in (p.get("credits") or [])):
                 items.append({"id": pid, "name": p["name"], "year": list_year})
         if items:
             items.sort(key=lambda ep: ep["name"].lower())
@@ -544,10 +568,10 @@ def build_annual_list(firms, projects, list_year):
         "score_label": "Projects",
         "items_label": f"{list_year} projects",
         "methodology_note": (f"Counts completed projects with year_completed = {list_year} "
-                             "that credit the firm. Counts reflect what the index has "
-                             "recorded, not a census of the firm's total output -- "
-                             "coverage depth varies by firm. Ties broken by most recent "
-                             "status-verification date."),
+                             "where the firm holds a design-discipline credit in a role "
+                             "it offers standalone (fabrication, AV integration, and "
+                             "consulting credits don't count). Ties broken by most "
+                             "recent status-verification date."),
     }
 
 
@@ -1075,6 +1099,32 @@ Sitemap: {sitemap}
                         else:
                             row[k] = v
                     writer.writerow(row)
+
+    # Landing page for /data/ -- the About/home "open data" links point at
+    # the directory, which 404s on static hosts without an index file.
+    data_rows = "".join(
+        f'<tr><td><a href="{BASE}/data/{kind}.{ext}">{kind}.{ext}</a></td>'
+        f"<td>{desc}</td></tr>"
+        for kind, n in (("firms", len(firms)), ("projects", len(projects)), ("venues", len(venues)))
+        for ext, desc in (("json", f"{n} records, full fidelity"),
+                          ("csv", f"{n} rows; nested fields JSON-encoded in-cell")))
+    (SITE / "data" / "index.html").write_text(
+        "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\">"
+        "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
+        f"<title>Open data — {SITE_NAME}</title>"
+        + ("<meta name=\"robots\" content=\"noindex, nofollow\">" if NOINDEX else "")
+        + "<style>body{font-family:system-ui,sans-serif;max-width:44rem;margin:2rem auto;"
+        "padding:0 1rem;line-height:1.5}table{border-collapse:collapse;width:100%}"
+        "td{border-bottom:1px solid #ddd;padding:.4rem .6rem}</style></head><body>"
+        f"<h1>Open-data export</h1><p>Flat JSON and CSV exports of {SITE_NAME}'s "
+        "dataset, generated at build time from the canonical YAML. Licensed "
+        "<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a> — "
+        "attribute to &ldquo;The Experiential Design Index, published by Sitara "
+        "Systems&rdquo;.</p>"
+        f"<table>{data_rows}</table>"
+        f"<p><a href=\"{BASE}/index.html\">&larr; Back to the index</a></p>"
+        "</body></html>\n",
+        encoding="utf-8")
 
     (SITE / "data" / "README.md").write_text(
         "# Open-data export\n\n"
