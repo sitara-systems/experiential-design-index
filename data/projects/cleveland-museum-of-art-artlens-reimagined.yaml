@@ -1,0 +1,77 @@
+id: cleveland-museum-of-art-artlens-reimagined
+name: ArtLens Reimagined
+venue: cleveland-museum-of-art
+project_type: new-exhibition
+year_completed: 2026
+credits:
+  - firm: design-io
+    role: media-design
+    technology_tags:
+      - artificial-intelligence
+    note: >
+      Lead interactive design per CMA's exhibition page, including the
+      generative-AI Art Morph and Look Closer interactives (developed in
+      collaboration with Dpt.).
+  - firm: dpt
+    role: media-design
+    note: >
+      Collaborated with Design I/O on the Art Morph and Look Closer
+      interactives, per CMA's exhibition page.
+  - firm: dome-collective
+    role: media-design
+    note: "App design and development (credited as Dome on CMA's exhibition page)."
+  - firm: prime-access-consulting
+    role: accessibility-consulting
+    note: "Accessibility and inclusive design consulting, per CMA's exhibition page."
+  - firm: zenith-systems
+    role: av-integration
+    note: "AV integration, per CMA's exhibition page."
+  - firm: sitara-systems
+    role: technical-consulting
+    note: >
+      Systems architecture: an AI-interpretation governance/approval
+      framework, cross-platform data model, and 5-10 year lifecycle plan,
+      per Sitara's own account of a scoping phase that preceded the build.
+  - firm: sitara-systems
+    role: media-design
+    technology_tags:
+      - artificial-intelligence
+    note: >
+      New CMS built around CMA's Open Access collection API, real-time
+      gallery-to-mobile sync, and an AI-integration framework.
+technologies:
+  - custom CMS
+  - real-time gallery/mobile sync
+  - AI interpretation framework
+technology_tags:
+  - artificial-intelligence
+summary: >
+  ArtLens Reimagined, the Cleveland Museum of Art's next-generation
+  gallery experience in Cleveland, Ohio, opens to the public July 28,
+  2026, with gallery experience design by Design I/O and systems
+  architecture, a new content-management system, and real-time
+  infrastructure by Sitara Systems.
+description: ""
+_comments: >
+  Delivery stack completed 2026-07-21 from CMA's own exhibition page
+  (Design I/O re-roled to media-design per CMA's "lead interactive
+  design" wording + AI-tagged for the generative-AI interactives; Dpt.,
+  Dome (= Dome Collective, CMA's ArtLens app partner since Gallery One),
+  Prime Access Consulting, Zenith Systems added). Harvard FAS CAMLab
+  (content partner, academic unit) and the "generous support" providers
+  (BlueBridge, think[box], LightSight AI, RealNose.ai — funders/sponsors)
+  deliberately not credited.
+  Re-verified 2026-07-22 against the live production
+  https://www.sitara.systems/cleveland-artlens/ (site launched at DNS
+  cutover) — credits, exhibit description, and the systems-architecture
+  framing all match what was drafted from the Firebase preview, no
+  changes needed. Still NOT independently corroborated: CMA's own site
+  (including a page built specifically to list 20+ named digital-
+  innovation partners) does not name Sitara as of the last check
+  (2026-07-20); worth re-checking CMA's site again close to or after the
+  July 28, 2026 opening, since Jane Alexander at CMA had separately
+  offered Sitara credit on the exhibition page per the sitara-website
+  corpus.
+sources:
+  - https://www.clevelandart.org/exhibitions/artlens-reimagined-intersection-art-technology-and-innovation
+  - https://www.sitara.systems/cleveland-artlens/

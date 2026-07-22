@@ -1,0 +1,42 @@
+id: purina-institute-exhibit-systems
+name: Exhibit Systems for a Research Communication Center
+venue: purina-institute
+project_type: exhibition-refresh
+year_completed: 2021
+credits:
+  - firm: tellart
+    role: exhibit-design
+    note: "Original exhibit design; no firm record (demoted 2026-07-19, see corpus history — thin/stale NA presence)"
+  - firm: chicago-scenic-studios
+    role: fabrication
+    note: "Original fabrication"
+  - firm: sitara-systems
+    role: media-design
+    note: >
+      Engaged 2021 to carry the interactive layer forward: redesigned the
+      Gut Viewer exhibit (custom hardware since 2018, replaced with
+      commodity touchscreens engineered into the existing casework), and
+      served as prime to design, build, and photograph a full browser-native
+      virtual tour of the center after in-person visits were disrupted.
+technologies:
+  - touchscreen exhibit interfaces
+  - browser-native virtual tour
+summary: >
+  Exhibit systems for the Purina Institute, a Nestlé Purina research-
+  communication center in St. Louis, Missouri, originally exhibit-designed
+  by Tellart and fabricated by Chicago Scenic Studios; Sitara Systems was
+  engaged in 2021 to redesign and steward the interactive layer, including
+  a Gut Viewer hardware refresh and a full virtual tour of the center.
+description: ""
+_comments: >
+  NOT independently corroborated. Re-verified 2026-07-22 against the
+  live production https://www.sitara.systems/purina-institute/ (site
+  launched at DNS cutover) — credits (Tellart original exhibit design,
+  Chicago Scenic Studios original fabrication, Sitara media design &
+  software) confirmed unchanged from the draft. year_completed (2021)
+  reflects the start of Sitara's engagement per the page's own text
+  ("engaged 2021 to carry the interactive layer forward"), not a single
+  exhibit-opening date — the redesign and virtual tour aren't
+  individually dated on the source page.
+sources:
+  - https://www.sitara.systems/purina-institute/

@@ -4,6 +4,12 @@ venue: dana-farber-cancer-institute
 project_type: installation
 year_completed: 2022
 credits:
+  - firm: shapeways
+    role: fabrication
+    note: "3D printing of all 477 zebrafish, per BusinessWire's press release (co-billed 'Shapeways and Sitara') and Sitara's own project page; no firm record yet"
+  - firm: hypersonic
+    role: fabrication
+    note: "Fabrication, per Sitara's own project page (sitara.systems/dfci-zebrafish) — not yet independently corroborated for this project specifically; Hypersonic already has a credit on There Was A War, no standalone firm record yet"
   - firm: sitara-systems
     role: media-design
     note: "Interactive technology upgrade; original 2012 sculpture concept by Small Design Firm, not Sitara; no firm record yet"
@@ -23,3 +29,11 @@ description: ""
 sources:
   - https://www.businesswire.com/news/home/20220224005075/en/Shapeways-and-Sitara-Update-Dana-Farber-3D-Printed-Zebrafish-Display-Adding-NFC-Tags
   - https://segd.org/sitara-systems-refresh-hospitals-zebrafish-display-nfc-technology
+  - https://www.sitara.systems/dfci-zebrafish/
+_comments: >
+  Added 2026-07-22: Hypersonic (fabrication) credit found on Sitara's own
+  live production project page (sitara.systems/dfci-zebrafish, live
+  since DNS cutover), not previously in this record. Shapeways promoted
+  from prose-only mention to an explicit fabrication credit, matching
+  its billing in the BusinessWire release headline and its explicit
+  "3D printing" credit line on the live page.

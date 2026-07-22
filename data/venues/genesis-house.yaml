@@ -1,0 +1,13 @@
+id: genesis-house
+name: Genesis House
+venue_type: brand-experience-center
+location:
+  city: New York
+  state: NY
+operator: Genesis Motor North America
+sources:
+  - https://www.eventmarketer.com/article/manifesting-marilyn-genesis-house/
+_comments: >
+  Re-verified 2026-07-22 against the live production sitara.systems —
+  see data/firms/sitara-systems.yaml for the verification note shared
+  by this venue's one recorded project.

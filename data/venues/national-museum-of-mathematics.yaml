@@ -1,0 +1,13 @@
+id: national-museum-of-mathematics
+name: National Museum of Mathematics
+venue_type: science-center
+location:
+  city: New York
+  state: NY
+website: https://momath.org
+sources:
+  - https://momath.org
+_comments: >
+  Re-verified 2026-07-22 against the live production sitara.systems —
+  see data/firms/sitara-systems.yaml for the verification note shared
+  by this venue's one recorded project.

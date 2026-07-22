@@ -1,0 +1,10 @@
+id: tate-modern
+name: Tate Modern
+venue_type: art-museum
+location:
+  city: London
+  country: GB
+operator: Tate
+website: https://www.tate.org.uk/visit/tate-modern
+sources:
+  - https://www.tate.org.uk/visit/tate-modern

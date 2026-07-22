@@ -1,0 +1,53 @@
+id: genesis-house-manifesting-marilyn
+name: "Manifesting Marilyn: The Making of an Icon"
+venue: genesis-house
+project_type: temporary-exhibition
+year_completed: 2026
+credits:
+  - firm: matte-projects
+    role: exhibit-design
+    note: "Prime, exhibition design and production; no firm record yet"
+  - firm: sitara-systems
+    role: media-design
+    technology_tags:
+      - interactive-installation
+      - artificial-intelligence
+    note: >
+      Creative technology to Matte Projects (prime): a screened,
+      room-scale participatory wish-wall and a four-phone archival audio
+      installation, run for nine weeks via Sitara's operations platform.
+      An AI content-moderation model screens each visitor-drawn submission
+      in real time to gate what appears on the shared wall.
+technologies:
+  - gesture/drawing-driven wall projection
+  - AI content-moderation of visitor submissions
+  - archival audio triggers
+technology_tags:
+  - interactive-installation
+  - artificial-intelligence
+summary: >
+  "Manifesting Marilyn: The Making of an Icon," a Marilyn Monroe
+  centennial exhibition at Genesis House in New York, opened in 2026 for
+  a nine-week run, produced by Matte Projects with Sitara Systems as
+  creative-technology partner.
+description: ""
+_comments: >
+  NOT independently corroborated: four independent press pieces (Event
+  Marketer, LicenseGlobal, MediaPost, DesignRush) and a PRNewswire
+  release describe the exhibition's rotary-phone and wish-wall
+  interactives but name no technology vendor at all — Sitara's own site
+  quotes Event Marketer's descriptive language about the features, not a
+  vendor credit. Re-verified 2026-07-22 against the live production
+  https://www.sitara.systems/genesis-manifesting-marilyn/ (site launched
+  at DNS cutover) — client (Genesis Motor North America), Matte Projects
+  as prime, and Authentic Brands Group as estate partner all confirmed;
+  no exhibition-run year is stated on the page itself, but "centennial
+  exhibition" pins it to 2026 (Marilyn Monroe born 1926) unambiguously.
+  This is also one of the open items in sitara-website/CLAUDE.md's own
+  Nathan review queue (Matte/Genesis clearance + image rights).
+sources:
+  - https://www.eventmarketer.com/article/manifesting-marilyn-genesis-house/
+  - https://www.licenseglobal.com/celebrity/genesis-house-debuts-marilyn-monroe-immersive-experience
+  - https://www.mediapost.com/publications/article/415574/genesis-house-presents-marilyn-monroe-exhibit.html
+  - https://news.designrush.com/genesis-house-matte-projects-manifesting-marilyn-exhibition
+  - https://www.sitara.systems/genesis-manifesting-marilyn/

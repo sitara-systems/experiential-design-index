@@ -1,0 +1,15 @@
+id: purina-institute
+name: Purina Institute
+venue_type: briefing-center
+location:
+  city: St. Louis
+  state: MO
+operator: Nestlé Purina
+sources:
+  - https://www.sitara.systems/purina-institute/
+_comments: >
+  Distinct from the existing purina-farms-visitor-center record (a
+  different, public-facing Purina venue in Gray Summit, MO with
+  unrelated Taylor Studios credits). Re-verified 2026-07-22 against the
+  live production sitara.systems — see data/firms/sitara-systems.yaml
+  for the verification note shared by this venue's one recorded project.

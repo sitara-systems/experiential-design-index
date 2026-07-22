@@ -1,0 +1,57 @@
+id: new-museum-new-humans
+name: "New Humans: Memories of the Future"
+venue: new-museum
+project_type: temporary-exhibition
+year_completed: 2026
+credits:
+  - firm: anicka-yi-studio
+    role: exhibit-design
+    note: "Artist; no firm record yet"
+  - firm: sitara-systems
+    role: media-design
+    technology_tags:
+      - artificial-intelligence
+    note: >
+      Re-grounded the artificial-life system from the Tate Modern aerobes
+      for a second venue/architecture: updated flight-control integration
+      (OptiTrack motion tracking), retuned behavioral simulation, and
+      rebuilt the camera-based visitor-tracking pipeline.
+technologies:
+  - artificial-life simulation
+  - OptiTrack motion tracking
+technology_tags:
+  - artificial-intelligence
+summary: >
+  "New Humans: Memories of the Future," the New Museum's inaugural
+  exhibition in its expanded New York building, is on view through
+  August 23, 2026, featuring artist Anicka Yi bringing autonomous
+  aerial "aerobe" machines from her 2021 Tate Modern commission to a
+  second venue, with the artificial-life system re-grounded for the new
+  space by Sitara Systems.
+description: ""
+_comments: >
+  NOT independently corroborated: four independent press reviews of the
+  exhibition (ARTnews, ArtReview, Apollo, Artforum) and Anicka Yi
+  Studio's own site name no technology credit for this venue
+  specifically; the only place Sitara is credited for aerobe work at all
+  (SEGD) explicitly covers Tate Modern only. Re-verified 2026-07-22
+  against the live production
+  https://www.sitara.systems/new-museum-new-humans/ (site launched at
+  DNS cutover) — credits (Anicka Yi Studio, Sitara) and the "through
+  August 23, 2026" run date both confirmed unchanged from the draft.
+
+  CORRECTED 2026-07-21 per Nathan (two rounds): (1) Airstage was NOT a
+  collaborator on this project — their aerobe fabrication was for the
+  original Tate commission only — removed as a credit entirely, along
+  with the "Airstage's control layer" claim that was in the sitara-
+  systems credit's note. (2) this venue's flight-control tracking used
+  OptiTrack, not Pozyx — Pozyx (UWB) was specific to the original Tate
+  installation; New Museum's re-grounded system used different tracking
+  hardware. Do not assume the Tate Modern record's Pozyx credit is also
+  wrong — Nathan corrected only this project.
+sources:
+  - https://www.artnews.com/art-news/reviews/new-museum-reopening-expansion-new-humans-review-1234778022/
+  - https://artreview.com/the-robots-were-never-the-problem-new-humans-new-museum-new-york/
+  - https://apollo-magazine.com/new-humans-new-museum-new-york-reopening-review/
+  - https://www.artforum.com/columns/linda-yablonsky-diary-new-museum-reopening-1234746172/
+  - https://www.sitara.systems/new-museum-new-humans/

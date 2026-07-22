@@ -10,9 +10,19 @@ credits:
   - firm: storytelling-company
     role: av-integration
     note: "no firm record yet"
+  - firm: sitara-systems
+    role: media-design
+    note: >
+      "Connected Complex," a large-scale projection-mapped installation
+      (3D projection mapping onto a physical architectural model) within
+      one of the center's five zones. Also names "Envoy," "Hyperquake,"
+      and "Blue Telescope" as additional briefing-center experience
+      partners — not added here, follow-up (Hyperquake and Blue
+      Telescope already have firm records in this corpus).
 technologies:
   - interactive displays
   - content management platform
+  - 3D projection mapping
 recognition:
   - award: "GACEP World Class Center Award"
     year: 2026
@@ -39,3 +49,17 @@ sources:
   - https://www.t-mobile.com/news/network/t-mobile-unveils-new-cyber-defense-briefing-centers
   - https://www.storytellingcompany.com/work/t-mobile-hq-executive-briefing-center
   - https://www.gacep.com/recognizedprograms
+  - https://www.sitara.systems/t-mobile/
+_comments: >
+  sitara-systems credit added 2026-07-20. Not independently corroborated:
+  The Storytelling Company's own project page (the most likely place a
+  comprehensive team credit would appear) names only itself; T-Mobile's
+  newsroom release names no vendor. Re-verified 2026-07-22 against the
+  live production https://www.sitara.systems/t-mobile/ (site launched at
+  DNS cutover, replacing the temp preview domain this record was
+  originally drafted against) — credits and the October 2025 opening
+  date confirmed unchanged. The live page also lists "Briefing center
+  experience partners: Envoy, Hyperquake, Blue Telescope" (grouped, no
+  per-firm role) — deliberately left uncredited here per the standing
+  no-"among other partners" completeness bar; add individually if
+  per-firm roles ever surface.

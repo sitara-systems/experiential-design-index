@@ -16,10 +16,30 @@ credits:
   - firm: dyelot-interiors
     role: architecture
     note: "Interior design, branding, and procurement; no firm record yet"
+  - firm: faculty
+    role: content-production
+    note: "Content production, per Sitara's own project page (sitara.systems/polb-experience-center), which credits 'Content production: Faculty' explicitly; no firm record yet"
+  - firm: cinnabar
+    role: fabrication
+    note: >
+      Fabrication, per Sitara's own project page (sitara.systems/polb-
+      experience-center), which credits "Fabrication: Cinnabar
+      California" — matched to the existing cinnabar firm record (LA
+      exhibit fabricator, inactive since Jan 2025); name variant not
+      independently confirmed as the same entity.
+  - firm: sitara-systems
+    role: media-design
+    technology_tags:
+      - interactive-installation
+    note: >
+      Five touch-free interactive systems (UltraLeap hand tracking) and
+      the custom CMS behind them, fed by the Port's own public
+      air-quality and operations data.
 technologies:
   - digital map table
   - touchless interactive wall
   - 3D-printed models
+  - UltraLeap gesture sensing
 technology_tags:
   - interactive-installation
 summary: >
@@ -40,6 +60,7 @@ sources:
   - https://studio-111.com/project/port-of-long-beach-experience-center/
   - https://dyelot.com/project/the-congressman-alan-lowenthal-global-trade-education-center/
   - https://lbpost.com/news/long-beach-port-to-name-new-19-million-education-center-for-retired-rep-alan-lowenthal/
+  - https://www.sitara.systems/polb-experience-center/
 _comments: >
   Corrected 2026-07-20: year_completed changed from 2019 to 2024. The
   2019 date came from Studio One Eleven's page, which actually states
@@ -49,3 +70,14 @@ _comments: >
   and opening (retired Rep. Alan Lowenthal) completed in 2024. The
   exhibits-specific id/scope of this record makes 2024 the correct
   completion year.
+
+  sitara-systems credit added 2026-07-20. Re-verified 2026-07-22 against
+  the live production https://www.sitara.systems/polb-experience-center/
+  (site launched at DNS cutover, replacing the temp preview domain this
+  record was originally drafted against) — the production page's
+  credits block now clearly differentiates "Content production: Faculty"
+  and "Fabrication: Cinnabar California" (previously listed together as
+  unspecified-role "exhibit partners" on the preview), so both are now
+  added as explicit credits above, resolving the prior "unresolved"
+  flag. Not independently corroborated: Lord/Studio One Eleven/DyeLot's
+  own project pages are all silent on Sitara, Faculty, and Cinnabar.

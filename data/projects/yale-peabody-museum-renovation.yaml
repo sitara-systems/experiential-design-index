@@ -9,6 +9,12 @@ credits:
     note: "No firm record yet"
   - firm: reich-petch
     role: exhibit-design
+  - firm: kubik-maltbie
+    role: fabrication
+    note: "Exhibit fabrication, per Sitara's own project page (sitara.systems/ypm-multimedia) — not independently corroborated elsewhere."
+  - firm: electrosonic
+    role: av-integration
+    note: "AV integration, per Sitara's own project page (sitara.systems/ypm-multimedia) — not independently corroborated elsewhere."
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
     note: >
@@ -34,3 +40,13 @@ sources:
   - https://centerbrook.com/project/yale_university_peabody_museum
   - https://www.archpaper.com/2024/06/extension-yale-peabody-museum-centerbrook-architects-learning/
   - https://www.ajld.net/project.php?id=115
+  - https://www.sitara.systems/ypm-multimedia/
+_comments: >
+  Added 2026-07-22: two credits (kubik maltbie / exhibit fabrication,
+  Electrosonic / AV integration) found on Sitara's own live production
+  project page (sitara.systems/ypm-multimedia, live since DNS cutover)
+  that were not yet in this record — both firms already have index
+  records, matched on name. Neither is independently corroborated
+  elsewhere for this specific project (their own sites and the Yale/
+  press sources above are silent on the digital-interactives delivery
+  team specifically).

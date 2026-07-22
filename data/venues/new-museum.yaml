@@ -1,0 +1,13 @@
+id: new-museum
+name: New Museum
+venue_type: art-museum
+location:
+  city: New York
+  state: NY
+website: https://www.newmuseum.org
+sources:
+  - https://www.newmuseum.org
+_comments: >
+  Re-verified 2026-07-22 against the live production sitara.systems —
+  see data/firms/sitara-systems.yaml for the verification note shared
+  by this venue's one recorded project.

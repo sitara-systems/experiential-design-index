@@ -1,0 +1,61 @@
+id: momath-exhibit-software
+name: Exhibit Software (Formula Fun, Face Value, Global Golf, Open Book)
+venue: national-museum-of-mathematics
+project_type: new-exhibition
+year_completed: 2026
+credits:
+  - firm: sitara-systems
+    role: media-design
+    note: >
+      Exhibit software for four interactive installations in a new
+      gallery — Formula Fun, Face Value, Global Golf, and Open Book —
+      each translating a distinct mathematical concept into a hands-on
+      interaction.
+  - firm: ravenswood-studio
+    role: fabrication
+    note: "Fabrication for Face Value and Formula Fun; likely match to the existing Ravenswood Studio firm record, not independently confirmed"
+  - firm: goers-design
+    role: fabrication
+    note: "Fabrication for Open Book; no firm record yet"
+  - firm: exhibitology
+    role: fabrication
+    note: "Fabrication for Global Golf; no firm record yet"
+technologies:
+  - touchscreen interactives
+  - geodesic/globe visualization
+  - mirror-and-light installation
+summary: >
+  Sitara Systems developed the exhibit software for four interactive
+  installations — Formula Fun, Face Value, Global Golf, and Open Book —
+  in a new gallery at the National Museum of Mathematics in New York,
+  New York, completed 2026.
+description: ""
+_comments: >
+  NOT independently corroborated as of 2026-07-21: no year, exhibit
+  names, or Sitara credit found on momath.org or in general press
+  coverage of MoMath's February 2026 relocation to 635 Sixth Avenue
+  (which added "31 brand-new" exhibits among 72 total — plausibly the
+  same batch, given "new gallery" framing here, but not confirmed).
+  Sourced to a machine-readable JSON record
+  (`<script type="application/json" data-experiential-design-index="project">`)
+  embedded in the page itself, per the format documented on this
+  index's own /contribute.html — supplies year_completed: 2026 and the
+  fabrication-partner credits, but per that same page's own policy,
+  "embedding a record is a convenience, not a shortcut": this is still
+  self-sourced only, same evidentiary weight as the page's prose, not
+  independent corroboration. Re-verified 2026-07-22 against the live
+  production https://www.sitara.systems/momath-exhibit-software/ (site
+  launched at DNS cutover) — re-queried the embedded JSON script tag
+  directly on the production page via DOM inspection (not just the
+  preview): identical year_completed: 2026, status: completed, and
+  fabrication credits, so the self-sourced facts carry over unchanged.
+  The client legal dispute noted in sitara-website/CLAUDE.md item 15 was
+  confirmed resolved by Nathan 2026-07-21 — that gate is clear; only the
+  sourcing/never-guess-a-date gate applied here, and this embedded
+  record clears it. ravenswood-studio credit is a plausible name match
+  to the existing firm record (Ravenswood Studio, Lincolnwood IL,
+  fabrication) but not independently confirmed as the same entity —
+  flagged, not resolved. Goers Design and Exhibitology are both below
+  the 3-project bar and have no firm record.
+sources:
+  - https://www.sitara.systems/momath-exhibit-software/

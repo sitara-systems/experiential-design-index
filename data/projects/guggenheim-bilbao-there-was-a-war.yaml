@@ -1,0 +1,44 @@
+id: guggenheim-bilbao-there-was-a-war
+name: There Was A War
+venue: guggenheim-bilbao
+project_type: temporary-exhibition
+year_completed: 2019
+credits:
+  - firm: jenny-holzer-studio
+    role: exhibit-design
+    note: "Artist; no firm record yet"
+  - firm: hypersonic
+    role: fabrication
+    note: "Kinetic design & engineering, project lead; no firm record yet"
+  - firm: sitara-systems
+    role: technical-consulting
+    note: >
+      Technical production partner to Hypersonic, supporting the systems
+      that run the moving, speaking sign every open hour for the run of
+      the exhibition.
+technologies:
+  - robotic kinetic sign
+  - four-axis winch motor system
+technology_tags:
+  - robotics
+summary: >
+  There Was A War, a four-sided kinetic LED sign by Jenny Holzer
+  carrying 131 eyewitness accounts of Syria's civil war, was created for
+  Holzer's 2019 retrospective at the Guggenheim Museum Bilbao, Spain,
+  with kinetic design and engineering by Hypersonic and Sitara Systems
+  as technical production partner.
+description: ""
+_comments: >
+  NOT independently corroborated — only checked against Sitara's own
+  site so far; Hypersonic's and Jenny Holzer Studio's own sites still
+  not checked for a matching credit (open item, not resolved by this
+  pass). Re-verified 2026-07-22 against the live production
+  https://www.sitara.systems/there-was-a-war/ (site launched at DNS
+  cutover) — credits (Jenny Holzer Studio, Hypersonic, Sitara as
+  technical production partner), the Guggenheim Bilbao venue, and the
+  2019 date all confirmed unchanged from the draft. This is also one of
+  the open items in sitara-website/CLAUDE.md's own Nathan review queue
+  (Sitara's exact scope + naming/credit rights with Hypersonic & Jenny
+  Holzer Studio + photo rights).
+sources:
+  - https://www.sitara.systems/there-was-a-war/

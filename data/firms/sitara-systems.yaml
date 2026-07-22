@@ -1,0 +1,48 @@
+id: sitara-systems
+name: Sitara Systems
+aka: []
+website: https://sitara.systems
+hq:
+  city: Las Vegas
+  state: NV
+other_offices: []
+roles:
+  - media-design
+  - technical-consulting
+status: active
+status_basis: >
+  New Museum's "New Humans: Memories of the Future" and Genesis House's
+  "Manifesting Marilyn" both on view/ran 2026; Cleveland Museum of Art's
+  ArtLens Reimagined opens July 28, 2026 (per CMA's own site); Dana-Farber
+  NFC upgrade independently reported Feb 2022 (BusinessWire, SEGD).
+status_verified: 2026-07-20
+summary: >
+  Sitara Systems is a Las Vegas-based spatial human-computer-interaction
+  studio designing custom software, real-time media systems, and
+  systems-architecture consulting for museums, cultural institutions, and
+  brand experience centers.
+_comments: >
+  Re-verified 2026-07-22 against the live production site (sitara.systems
+  went live at DNS cutover) rather than the Firebase preview this record
+  was originally drafted from. Every credit below was cross-checked
+  page-by-page against the production case pages; nothing in the firm's
+  own delivery-stack claims changed as a result. Nathan's go-ahead to
+  verify-and-commit came via direct instruction this session, which
+  satisfies HANDOFF.md Track H's [N]-skim gate. Two open items remain,
+  neither blocking this record: (1) the entity-attribution question for
+  pre-incorporation projects (Dana-Farber/Folger/Nobel Peace Center/
+  Biogen) is moot for what's actually on the live site today — none of
+  those are currently published case pages — so it stays open only for
+  if/when Sitara adds one; (2) infra flag, not a data flag — the bare
+  apex domain (sitara.systems with no "www") currently returns Firebase's
+  "Site Not Found" on every path, while www.sitara.systems serves the
+  real site correctly; all sources below cite the working www host.
+  Worth Nathan fixing the apex redirect/A-record, since that's the form
+  most people will type. technical-consulting role per Nathan
+  (2026-07-20): a standalone technology master-planning / owner's-side
+  systems-architecture consulting scope, distinct from the media-design
+  build — ArtLens Reimagined is the flagship example (a separate
+  architecture-consulting phase preceded the production build per the
+  project's own credits).
+sources:
+  - https://www.sitara.systems/

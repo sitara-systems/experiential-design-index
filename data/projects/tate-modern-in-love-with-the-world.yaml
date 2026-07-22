@@ -1,0 +1,66 @@
+id: tate-modern-in-love-with-the-world
+name: In Love With The World
+venue: tate-modern
+project_type: temporary-exhibition
+year_completed: 2021
+credits:
+  - firm: anicka-yi-studio
+    role: exhibit-design
+    note: "Artist / concept and creative direction; no firm record yet"
+  - firm: aka-media-system
+    role: media-design
+    note: "Technical lead; no firm record yet"
+  - firm: sitara-systems
+    role: media-design
+    technology_tags:
+      - artificial-intelligence
+    note: >
+      Aerobe behavior design and development — the artificial-life
+      simulation driving each aerobe's autonomous flight and behavior.
+  - firm: airstage
+    role: fabrication
+    note: "Aerobe fabrication; no firm record yet"
+  - firm: kitmapper
+    role: technical-consulting
+    note: "Technical crew; no firm record yet"
+technologies:
+  - artificial-life simulation
+  - Pozyx real-time location system
+  - custom software (Cinder/C++)
+technology_tags:
+  - artificial-intelligence
+  - robotics
+  - interactive-installation
+recognition:
+  - award: "SEGD Global Design Award — Merit: Public Installation"
+    year: 2022
+    source: https://segd.org/projects/in-love-with-the-world/
+  - award: "CommArts Interactive Awards — Best In Show"
+    year: 2023
+    source: https://www.commarts.com/project/35154/in-love-with-the-world
+summary: >
+  In Love With The World, Anicka Yi's 2021 Hyundai Commission for Tate
+  Modern's Turbine Hall in London, featured an ecosystem of autonomous
+  soft-robotic aerial machines called aerobes, each with individually
+  simulated behavior; Sitara Systems designed and developed the
+  artificial-life system governing aerobe behavior, working with
+  technical lead AKA Media System and fabricator Airstage.
+description: ""
+_comments: >
+  Independently sourced beyond Sitara's own site by three sources:
+  Communication Arts (commarts.com/project/35154, full credits list
+  naming Sitara Systems), SEGD (segd.org/projects/in-love-with-the-world/,
+  explicitly crediting "Sitara Systems, Las Vegas — aerobe behaviour
+  design and development"), and AKA Media System's own site
+  (aka.farm/in-love-with-the-world/, crediting Sitara by name). The
+  strongest-sourced Sitara credit found to date. Re-verified 2026-07-22
+  against the live production
+  https://www.sitara.systems/tate-in-love-with-the-world/ (site launched
+  at DNS cutover, replacing the temp preview domain this record was
+  originally drafted against) — full delivery stack (Anicka Yi Studio,
+  AKA Media System, Airstage, KitMapper, Sitara) confirmed unchanged.
+sources:
+  - https://www.commarts.com/project/35154/in-love-with-the-world
+  - https://segd.org/projects/in-love-with-the-world/
+  - https://aka.farm/in-love-with-the-world/
+  - https://www.sitara.systems/tate-in-love-with-the-world/
