@@ -183,6 +183,22 @@ lists, small-studio and certification-based lists) aren't published yet
 because the underlying data isn't dense enough &mdash; their absence isn't a
 ranking signal either way.</p>
 
+<h2>Similar firms</h2>
+<p>Each directory-listed firm's page carries a plain "Similar firms" list,
+computed entirely from the open dataset by a fixed, published rule with no
+editorial judgment: candidates (drawn from other directory-listed firms) are
+ranked first by how many delivery-stack roles they share with the firm (its
+own declared <code>roles</code> &mdash; the same field the ranked-list
+role-identity rule uses), then by how much their projects' venue types
+overlap, then &mdash; as a tiebreaker &mdash; by whether they've worked the
+same venue or been credited on the same project; up to five names are shown,
+alphabetical within any tie, with no scores and no ranking or superlative
+language. A firm with no overlap on any of the three signals is correctly
+shown no similar firms rather than a padded-out list. Sitara Systems runs
+through the identical formula as every other listed firm, in both
+directions: it is eligible to appear on other firms' lists, and its own page
+gets a similar-firms list computed the same way.</p>
+
 <h2>Activity status</h2>
 <p>Every firm record carries an evidence-based activity status &mdash;
 active, activity unclear, or inactive &mdash; with the basis and a

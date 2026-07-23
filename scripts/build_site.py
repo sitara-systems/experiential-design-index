@@ -57,6 +57,10 @@ DIRECTORY_DISPLAY_MIN_PROJECTS = 8
 # constant exists only so the About page can state the number from one
 # place instead of a second hardcoded copy going stale).
 DATASET_INCLUSION_MIN_PROJECTS = 3
+
+# "Similar firms" (docs/editorial-policy.md / about.html "Similar firms"):
+# how many peers to surface per directory-listed firm.
+SIMILAR_FIRMS_TOP_N = 5
 # Internal-link prefix derived from SITE_URL's path so links resolve at the
 # deployed location. SITE_URL is the single knob: change it at deploy time and
 # both absolute URLs (sitemap/JSON-LD) and internal hrefs follow.
@@ -223,6 +227,62 @@ def enrich_venues(venues, projects, vocab):
             })
         v["projects"] = proj_list
         v["project_count"] = len(proj_list)
+
+
+def compute_similar_firms(firms, directory_ids, venues, top_n=SIMILAR_FIRMS_TOP_N):
+    """Data-only "Similar firms" per directory-listed firm (about.html
+    "Similar firms" section is the public-facing description -- keep the
+    two in sync if this changes).
+
+    Candidate pool is other directory-listed firms only (comparable,
+    browsable peers -- the same set a reader can already browse). Priority
+    order, computed purely from existing fields, no new schema:
+      1. shared roles -- overlap of the firms' own declared `roles` (their
+         standalone, engageable disciplines; same field the ranked-list
+         role-identity rule already uses)
+      2. shared project venue types -- overlap of venue_type across each
+         firm's credited projects' venues
+      3. shared venues/projects -- tiebreaker: firms that worked the same
+         venue, or were credited on the very same project
+
+    No numeric score is exposed; only the resulting id/name list. Firms
+    with zero overlap on all three signals are not included, even to pad
+    out to top_n -- an empty or short list is a legitimate result, not a
+    bug (see workspace HANDOFF notes on any oddly thin cases).
+    """
+    firm_data = {}
+    for fid in directory_ids:
+        f = firms[fid]
+        fprojects = f.get("projects") or []
+        roles = set(f.get("roles") or [])
+        proj_ids = {p["id"] for p in fprojects}
+        venue_ids = {p["venue"] for p in fprojects if p.get("venue")}
+        venue_types = set()
+        for p in fprojects:
+            v = venues.get(p.get("venue"))
+            vt = (v or {}).get("venue_type")
+            if vt:
+                venue_types.add(vt)
+        firm_data[fid] = {"roles": roles, "venue_types": venue_types,
+                          "venues": venue_ids, "projects": proj_ids}
+
+    result = {}
+    for fid in directory_ids:
+        fd = firm_data[fid]
+        candidates = []
+        for gid in directory_ids:
+            if gid == fid:
+                continue
+            gd = firm_data[gid]
+            shared_roles = len(fd["roles"] & gd["roles"])
+            shared_vt = len(fd["venue_types"] & gd["venue_types"])
+            shared_tie = len(fd["venues"] & gd["venues"]) + len(fd["projects"] & gd["projects"])
+            if shared_roles == 0 and shared_vt == 0 and shared_tie == 0:
+                continue
+            candidates.append((gid, shared_roles, shared_vt, shared_tie))
+        candidates.sort(key=lambda c: (-c[1], -c[2], -c[3], firms[c[0]]["name"].lower()))
+        result[fid] = [{"id": gid, "name": firms[gid]["name"]} for gid, *_ in candidates[:top_n]]
+    return result
 
 
 # --------------------------------------------------------- ranked lists ----
@@ -763,6 +823,17 @@ def main():
     # but only firms clearing the threshold appear in the browse index.
     firms_directory = [f for f in firms_sorted if len(f.get("projects") or []) >= DIRECTORY_DISPLAY_MIN_PROJECTS]
     firms_below_threshold_count = len(firms_sorted) - len(firms_directory)
+
+    # "Similar firms" -- attach directly to each directory-listed firm's
+    # dict (same object referenced by `firms`, so the per-firm detail-page
+    # render loop below picks it up automatically). Firms below the
+    # directory threshold get no similar_firms key -- their page's
+    # {% if firm.similar_firms %} block simply doesn't render, same
+    # silent-omission pattern as every other threshold on this site.
+    directory_ids = [f["id"] for f in firms_directory]
+    similar_firms_by_id = compute_similar_firms(firms, directory_ids, venues)
+    for fid, sims in similar_firms_by_id.items():
+        firms[fid]["similar_firms"] = sims
 
     # ---- filter option lists (browse-page dropdowns) ----
     # Built from values actually present in the visible directory, not the

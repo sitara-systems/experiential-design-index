@@ -86,6 +86,9 @@
   .roles, .tech { color: var(--muted); font-size: .9rem; }
   .sources { font-size: .9rem; }
   .sources li { margin-bottom: .25rem; word-break: break-word; }
+  .similar-firms { font-size: .95rem; columns: 2; column-gap: 2rem; }
+  .similar-firms li { margin-bottom: .25rem; break-inside: avoid; }
+  @media (max-width: 480px) { .similar-firms { columns: 1; } }
   .counts { display: flex; gap: 2rem; margin: 1.5rem 0; flex-wrap: wrap; }
   .counts .count { }
   .counts .count .n { font-size: 2rem; font-weight: 700; display: block; }

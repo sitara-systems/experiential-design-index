@@ -41,6 +41,13 @@
 <p>No projects on record yet.</p>
 {% endif %}
 
+{% if firm.similar_firms %}
+<h2>Similar firms</h2>
+<ul class="similar-firms">
+  {% for sf in firm.similar_firms %}<li><a href="{{ base }}/firms/{{ sf.id }}.html">{{ sf.name }}</a></li>{% endfor %}
+</ul>
+{% endif %}
+
 <h2>Sources</h2>
 <ul class="sources">
   {% for s in firm.sources %}<li><a href="{{ s }}">{{ s }}</a></li>{% endfor %}
