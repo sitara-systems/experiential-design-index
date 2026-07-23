@@ -811,7 +811,9 @@ def main():
 
     def render(template_name, out_path, **ctx):
         tmpl = env.get_template(template_name)
-        html = tmpl.render(base=BASE, noindex=NOINDEX, **ctx)
+        rel = str(out_path.relative_to(SITE)).replace("\\", "/")
+        canonical = f"{SITE_URL}/{rel}"
+        html = tmpl.render(base=BASE, noindex=NOINDEX, canonical=canonical, **ctx)
         out_path.parent.mkdir(parents=True, exist_ok=True)
         out_path.write_text(html, encoding="utf-8")
 
