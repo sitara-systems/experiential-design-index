@@ -8,9 +8,11 @@
 <div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; Rankings</div>
 <h1>Rankings</h1>
 <p class="subtitle">
-  {{ families | length }} families rendered this build ({{ ranked_count }}
-  ranked, {{ roundup_count }} unranked roundup{{ 's' if roundup_count != 1 else '' }}
-  below the 8-firm minimum-depth bar).
+  {{ families | length }} lists are published here — {{ ranked_count }}
+  ranked by score, {{ roundup_count }} shown as
+  {{ 'an unranked roundup' if roundup_count == 1 else 'unranked roundups' }}
+  where fewer than 8 firms currently qualify for a rank. See
+  <a href="{{ base }}/about.html">About</a> for the full methodology.
 </p>
 {% if skipped_notes %}
 <ul class="note">

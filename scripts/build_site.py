@@ -938,13 +938,11 @@ def main():
         roundup_count=sum(1 for f in list_families if not f["ranked"]),
         jsonld=dumps_ld(lists_index_ld),
         skipped_notes=[
-            f"{skipped_region_cells} role × region cells fall below the 8-firm "
-            "minimum-depth bar and were not rendered.",
-            "Venue-type lists exclude the 'other' bucket by design.",
-            "Deferred families (data not ready): most-awarded institutions "
-            "(needs the 2013–2019 historical award sweep), platform lists "
-            "(tag coverage too sparse), small studios and woman-/minority-owned "
-            "(need certification-sourced firm fields).",
+            f"{skipped_region_cells} role/region combinations have fewer than "
+            "8 rank-eligible firms and aren't published as their own list — "
+            "that work is still fully credited on the role's site-wide list.",
+            "Venue types too varied to group meaningfully aren't published "
+            "as their own list.",
         ],
     )
 
