@@ -777,6 +777,45 @@ def dumps_ld(obj):
     return json.dumps(obj, indent=2, ensure_ascii=False)
 
 
+def dataset_jsonld(firm_count, project_count, venue_count):
+    """DataCatalog + one Dataset per open-data export (firms/projects/venues),
+    for the /data/ landing page. Gets this into Google Dataset Search and
+    makes the corpus citable-by-schema for LLMs, not just human-readable."""
+    publisher = {"@type": "Organization", "name": "Sitara Systems", "url": "https://sitara.systems/"}
+    license_url = "https://creativecommons.org/licenses/by/4.0/legalcode"
+
+    def dataset(name, description, kind, count):
+        return {
+            "@type": "Dataset",
+            "name": name,
+            "description": description,
+            "url": f"{SITE_URL}/data/",
+            "license": license_url,
+            "creator": publisher,
+            "publisher": publisher,
+            "isAccessibleForFree": True,
+            "distribution": [
+                {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": f"{SITE_URL}/data/{kind}.json"},
+                {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": f"{SITE_URL}/data/{kind}.csv"},
+            ],
+        }
+
+    return {
+        "@context": "https://schema.org",
+        "@type": "DataCatalog",
+        "name": f"{SITE_NAME} open data",
+        "description": "Open-data exports of the firms, projects, and venues catalogued by The Experiential Design Index.",
+        "url": f"{SITE_URL}/data/",
+        "license": license_url,
+        "publisher": publisher,
+        "dataset": [
+            dataset("Experiential Design Index — Firms", f"{firm_count} firms working in experiential design (museums, science centers, brand experience centers, and the like), with roles, headquarters, and activity status.", "firms", firm_count),
+            dataset("Experiential Design Index — Projects", f"{project_count} experiential-design projects with full delivery-stack credits (architecture, exhibit design, media design and software, fabrication, and more).", "projects", project_count),
+            dataset("Experiential Design Index — Venues", f"{venue_count} venues (museums, science centers, and other designed experiences) hosting the catalogued projects.", "venues", venue_count),
+        ],
+    }
+
+
 # ------------------------------------------------------------------- build --
 
 def main():
@@ -1200,11 +1239,13 @@ Sitemap: {sitemap}
         for kind, n in (("firms", len(firms)), ("projects", len(projects)), ("venues", len(venues)))
         for ext, desc in (("json", f"{n} records, full fidelity"),
                           ("csv", f"{n} rows; nested fields JSON-encoded in-cell")))
+    dataset_ld = dataset_jsonld(len(firms), len(projects), len(venues))
     (SITE / "data" / "index.html").write_text(
         "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\">"
         "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
         f"<title>Open data — {SITE_NAME}</title>"
         + ("<meta name=\"robots\" content=\"noindex, nofollow\">" if NOINDEX else "")
+        + f"<script type=\"application/ld+json\">{dumps_ld(dataset_ld)}</script>"
         + "<style>body{font-family:system-ui,sans-serif;max-width:44rem;margin:2rem auto;"
         "padding:0 1rem;line-height:1.5}table{border-collapse:collapse;width:100%}"
         "td{border-bottom:1px solid #ddd;padding:.4rem .6rem}</style></head><body>"
