@@ -66,6 +66,31 @@ SIMILAR_FIRMS_TOP_N = 5
 # both absolute URLs (sitemap/JSON-LD) and internal hrefs follow.
 BASE = urllib.parse.urlsplit(SITE_URL).path.rstrip("/")
 
+
+def pub(rel: str) -> str:
+    """Absolute public URL for a site-relative output path.
+
+    The deployed host serves clean URLs (Firebase `cleanUrls` +
+    `trailingSlash`), so `about.html` is served at `about/` and
+    `firms/index.html` at `firms/`, with the `.html` form 301ing to it.
+    Every URL we *declare* -- canonical, sitemap, JSON-LD -- must be the
+    served form. Declaring the `.html` form points each canonical at a
+    redirect, which is what left the index unindexed after launch
+    (Search Console "Page with redirect", 2026-07-27).
+
+    Internal `<a href>` links deliberately keep the `.html` form: they
+    301 harmlessly on the deployed site and are what makes the flat-file
+    GitHub Pages preview navigable.
+    """
+    rel = rel.replace("\\", "/").strip("/")
+    if rel == "index.html":
+        rel = ""
+    elif rel.endswith("/index.html"):
+        rel = rel[: -len("/index.html")]
+    elif rel.endswith(".html"):
+        rel = rel[: -len(".html")]
+    return f"{SITE_URL}/{rel}/" if rel else f"{SITE_URL}/"
+
 # Internal bookkeeping phrases that must not render on public pages: whole
 # parentheticals mentioning record/vocab gaps, plus the bare phrase.
 _NOTE_PAREN_INTERNAL_RE = re.compile(
@@ -723,7 +748,7 @@ def firm_jsonld(f, url):
             "addressRegion": f["hq"].get("state"),
             "addressCountry": f["hq"].get("country", "US"),
         }
-    return [org, breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("Firms", f"{SITE_URL}/firms/index.html"), (f["name"], None)])]
+    return [org, breadcrumb_ld([(SITE_NAME, pub("index.html")), ("Firms", pub("firms/index.html")), (f["name"], None)])]
 
 
 def project_jsonld(p, url):
@@ -740,7 +765,7 @@ def project_jsonld(p, url):
     }
     if creators:
         work["creator"] = creators
-    return [work, breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("Projects", f"{SITE_URL}/projects/index.html"), (p["name"], None)])]
+    return [work, breadcrumb_ld([(SITE_NAME, pub("index.html")), ("Projects", pub("projects/index.html")), (p["name"], None)])]
 
 
 def venue_jsonld(v, url):
@@ -757,7 +782,7 @@ def venue_jsonld(v, url):
             "addressRegion": v["location"].get("state"),
             "addressCountry": v["location"].get("country", "US"),
         }
-    return [place, breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("Venues", f"{SITE_URL}/venues/index.html"), (v["name"], None)])]
+    return [place, breadcrumb_ld([(SITE_NAME, pub("index.html")), ("Venues", pub("venues/index.html")), (v["name"], None)])]
 
 
 def list_jsonld(name, url, item_urls):
@@ -851,7 +876,7 @@ def main():
     def render(template_name, out_path, **ctx):
         tmpl = env.get_template(template_name)
         rel = str(out_path.relative_to(SITE)).replace("\\", "/")
-        canonical = f"{SITE_URL}/{rel}"
+        canonical = pub(rel)
         html = tmpl.render(base=BASE, noindex=NOINDEX, canonical=canonical, **ctx)
         out_path.parent.mkdir(parents=True, exist_ok=True)
         out_path.write_text(html, encoding="utf-8")
@@ -916,7 +941,7 @@ def main():
             "@context": "https://schema.org",
             "@type": "WebSite",
             "name": SITE_NAME,
-            "url": f"{SITE_URL}/index.html",
+            "url": pub("index.html"),
         },
         breadcrumb_ld([(SITE_NAME, None)]),
     ]
@@ -927,7 +952,7 @@ def main():
     )
 
     # About
-    about_ld = breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("About", None)])
+    about_ld = breadcrumb_ld([(SITE_NAME, pub("index.html")), ("About", None)])
     render(
         "about.html", SITE / "about.html", jsonld=dumps_ld(about_ld),
         dataset_min_projects=DATASET_INCLUSION_MIN_PROJECTS,
@@ -938,7 +963,7 @@ def main():
     )
 
     # Contribute
-    contribute_ld = breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("Contribute", None)])
+    contribute_ld = breadcrumb_ld([(SITE_NAME, pub("index.html")), ("Contribute", None)])
     render(
         "contribute.html", SITE / "contribute.html", jsonld=dumps_ld(contribute_ld),
         dataset_min_projects=DATASET_INCLUSION_MIN_PROJECTS,
@@ -948,8 +973,8 @@ def main():
     # DIRECTORY_DISPLAY_MIN_PROJECTS; every firm still gets its own detail
     # page below, whether or not it's listed here)
     firms_index_ld = [
-        list_jsonld("Firms", f"{SITE_URL}/firms/index.html", [f"{SITE_URL}/firms/{f['id']}.html" for f in firms_directory]),
-        breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("Firms", None)]),
+        list_jsonld("Firms", pub("firms/index.html"), [pub(f"firms/{f['id']}.html") for f in firms_directory]),
+        breadcrumb_ld([(SITE_NAME, pub("index.html")), ("Firms", None)]),
     ]
     render(
         "firms_index.html", SITE / "firms" / "index.html",
@@ -960,29 +985,29 @@ def main():
 
     # Projects index
     projects_index_ld = [
-        list_jsonld("Projects", f"{SITE_URL}/projects/index.html", [f"{SITE_URL}/projects/{p['id']}.html" for p in projects_sorted]),
-        breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("Projects", None)]),
+        list_jsonld("Projects", pub("projects/index.html"), [pub(f"projects/{p['id']}.html") for p in projects_sorted]),
+        breadcrumb_ld([(SITE_NAME, pub("index.html")), ("Projects", None)]),
     ]
     render("projects_index.html", SITE / "projects" / "index.html", projects=projects_sorted, filter_options=project_filter_options, jsonld=dumps_ld(projects_index_ld))
 
     # Venues index
     venues_index_ld = [
-        list_jsonld("Venues", f"{SITE_URL}/venues/index.html", [f"{SITE_URL}/venues/{v['id']}.html" for v in venues_sorted]),
-        breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("Venues", None)]),
+        list_jsonld("Venues", pub("venues/index.html"), [pub(f"venues/{v['id']}.html") for v in venues_sorted]),
+        breadcrumb_ld([(SITE_NAME, pub("index.html")), ("Venues", None)]),
     ]
     render("venues_index.html", SITE / "venues" / "index.html", venues=venues_sorted, filter_options=venue_filter_options, jsonld=dumps_ld(venues_index_ld))
 
     # Detail pages
     for fid, f in firms.items():
-        url = f"{SITE_URL}/firms/{fid}.html"
+        url = pub(f"firms/{fid}.html")
         render("firm.html", SITE / "firms" / f"{fid}.html", firm=f, jsonld=dumps_ld(firm_jsonld(f, url)))
 
     for pid, p in projects.items():
-        url = f"{SITE_URL}/projects/{pid}.html"
+        url = pub(f"projects/{pid}.html")
         render("project.html", SITE / "projects" / f"{pid}.html", project=p, jsonld=dumps_ld(project_jsonld(p, url)))
 
     for vid, v in venues.items():
-        url = f"{SITE_URL}/venues/{vid}.html"
+        url = pub(f"venues/{vid}.html")
         render("venue.html", SITE / "venues" / f"{vid}.html", venue=v, jsonld=dumps_ld(venue_jsonld(v, url)))
 
     # ---- ranked lists (HANDOFF track F; published 2026-07-19) ----
@@ -1020,10 +1045,10 @@ def main():
 
     list_families = []
     for fam in role_families + tag_families + vt_families + single_families + region_families:
-        list_url = f"{SITE_URL}/lists/{fam['slug']}.html"
+        list_url = pub(f"lists/{fam['slug']}.html")
         list_ld = [
-            list_jsonld(fam["title"], list_url, [f"{SITE_URL}/firms/{row['firm']['id']}.html" for row in fam["rows"]]),
-            breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("Rankings", f"{SITE_URL}/lists/index.html"), (fam["title"], None)]),
+            list_jsonld(fam["title"], list_url, [pub(f"firms/{row['firm']['id']}.html") for row in fam["rows"]]),
+            breadcrumb_ld([(SITE_NAME, pub("index.html")), ("Rankings", pub("lists/index.html")), (fam["title"], None)]),
         ]
         render(
             "ranked_list.html", SITE / "lists" / f"{fam['slug']}.html",
@@ -1042,7 +1067,7 @@ def main():
             "count": len(fam["rows"]) + len(fam.get("also_rows") or []),
         })
 
-    lists_index_ld = breadcrumb_ld([(SITE_NAME, f"{SITE_URL}/index.html"), ("Rankings", None)])
+    lists_index_ld = breadcrumb_ld([(SITE_NAME, pub("index.html")), ("Rankings", None)])
     render(
         "lists_index.html", SITE / "lists" / "index.html",
         families=list_families,
@@ -1139,12 +1164,12 @@ Sitemap: {sitemap}
         f"- {len(firms)} firms, {len(projects)} projects, {len(venues)} venues as of this build.",
         "",
         "## Structure",
-        f"- [Firms]({SITE_URL}/firms/index.html): every firm, alphabetically. Each firm page lists its roles, HQ, activity status (active/unclear/inactive, with evidence and a verification date), and every credited project.",
-        f"- [Projects]({SITE_URL}/projects/index.html): every project, alphabetically. Each project page states who built what, where, and when in its opening sentence, then a fact table (venue, project type, year, status, technologies) and a full delivery-stack credits table.",
-        f"- [Venues]({SITE_URL}/venues/index.html): every venue, alphabetically. Each venue page lists its projects.",
-        f"- [Rankings]({SITE_URL}/lists/index.html): per-delivery-stack-role, per-region, and specialty ranked lists of firms, computed entirely from the open dataset by a fixed, published formula (see About). Each ranked table shows at most the top 10 firms (a numbered rank requires 2+ eligible projects); every other firm with eligible activity is listed unranked on the same page. Role lists include only firms that offer the role as a standalone service; roles below the 8-firm minimum-depth bar publish as an unranked roundup instead of a false-signal ranking.",
-        f"- [About]({SITE_URL}/about.html): editorial policy -- inclusion bar (>=3 projects, public sourcing only), activity-status methodology, ranked-list methodology, corrections process, CC BY 4.0 license.",
-        f"- [Contribute]({SITE_URL}/contribute.html): how a firm gets represented well (complete, clearly credited project pages; an optional embeddable JSON record format), and how to submit a correction or addition via the repository.",
+        f"- [Firms]({pub("firms/index.html")}): every firm, alphabetically. Each firm page lists its roles, HQ, activity status (active/unclear/inactive, with evidence and a verification date), and every credited project.",
+        f"- [Projects]({pub("projects/index.html")}): every project, alphabetically. Each project page states who built what, where, and when in its opening sentence, then a fact table (venue, project type, year, status, technologies) and a full delivery-stack credits table.",
+        f"- [Venues]({pub("venues/index.html")}): every venue, alphabetically. Each venue page lists its projects.",
+        f"- [Rankings]({pub("lists/index.html")}): per-delivery-stack-role, per-region, and specialty ranked lists of firms, computed entirely from the open dataset by a fixed, published formula (see About). Each ranked table shows at most the top 10 firms (a numbered rank requires 2+ eligible projects); every other firm with eligible activity is listed unranked on the same page. Role lists include only firms that offer the role as a standalone service; roles below the 8-firm minimum-depth bar publish as an unranked roundup instead of a false-signal ranking.",
+        f"- [About]({pub("about.html")}): editorial policy -- inclusion bar (>=3 projects, public sourcing only), activity-status methodology, ranked-list methodology, corrections process, CC BY 4.0 license.",
+        f"- [Contribute]({pub("contribute.html")}): how a firm gets represented well (complete, clearly credited project pages; an optional embeddable JSON record format), and how to submit a correction or addition via the repository.",
         f"- [Open data]({SITE_URL}/data/): JSON and CSV exports of the full dataset (firms, projects, venues), CC BY 4.0.",
         "",
         "## Notes for automated use",
@@ -1154,7 +1179,7 @@ Sitemap: {sitemap}
         f"{DATASET_INCLUSION_MIN_PROJECTS}+ sourced projects of its own. It's correctly credited, "
         "just below the threshold for its own record; see About for why.",
         "- Firms marked \"activity unclear\" or \"inactive\" are historical-record entries, not currently-operating recommendations.",
-        f"- The [Firms]({SITE_URL}/firms/index.html) browse index lists only firms with "
+        f"- The [Firms]({pub("firms/index.html")}) browse index lists only firms with "
         f"{DIRECTORY_DISPLAY_MIN_PROJECTS}+ credited projects ({len(firms_directory)} of {len(firms)} "
         "firms). Firms below that count still have a full page (reachable from any project "
         "they're credited on) and are included in the open-data export -- they're just not "
@@ -1163,13 +1188,13 @@ Sitemap: {sitemap}
     (SITE / "llms.txt").write_text("\n".join(llms_lines) + "\n", encoding="utf-8")
 
     # ---- sitemap.xml ----
-    urls = [f"{SITE_URL}/index.html", f"{SITE_URL}/about.html", f"{SITE_URL}/contribute.html",
-            f"{SITE_URL}/firms/index.html", f"{SITE_URL}/projects/index.html", f"{SITE_URL}/venues/index.html",
-            f"{SITE_URL}/lists/index.html"]
-    urls += [f"{SITE_URL}/firms/{fid}.html" for fid in firms]
-    urls += [f"{SITE_URL}/projects/{pid}.html" for pid in projects]
-    urls += [f"{SITE_URL}/venues/{vid}.html" for vid in venues]
-    urls += [f"{SITE_URL}/lists/{fam['slug']}.html" for fam in list_families]
+    urls = [pub("index.html"), pub("about.html"), pub("contribute.html"),
+            pub("firms/index.html"), pub("projects/index.html"), pub("venues/index.html"),
+            pub("lists/index.html")]
+    urls += [pub(f"firms/{fid}.html") for fid in firms]
+    urls += [pub(f"projects/{pid}.html") for pid in projects]
+    urls += [pub(f"venues/{vid}.html") for vid in venues]
+    urls += [pub(f"lists/{fam['slug']}.html") for fam in list_families]
     today = datetime.date.today().isoformat()
     sitemap_lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for u in urls:
