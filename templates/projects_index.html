@@ -5,7 +5,7 @@
 <script type="application/ld+json">{{ jsonld | safe }}</script>
 {% endblock %}
 {% block content %}
-<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; Projects</div>
+<div class="breadcrumbs"><a href="{{ base }}/">Home</a> &gt; Projects</div>
 <h1>Projects</h1>
 <div class="filters" id="projectFilters">
   <label>Type
@@ -40,8 +40,8 @@
   <tbody>
   {% for p in projects %}
     <tr data-type="{{ p.project_type or '' }}" data-status="{{ p.status or 'completed' }}" data-year="{{ p.year_completed or p.year_expected or '' }}">
-      <td><a href="{{ base }}/projects/{{ p.id }}.html">{{ p.name }}</a></td>
-      <td>{% if p.venue_exists %}<a href="{{ base }}/venues/{{ p.venue }}.html">{{ p.venue_name }}</a>{% else %}{{ p.venue_name }}{% endif %}</td>
+      <td><a href="{{ base }}/projects/{{ p.id }}/">{{ p.name }}</a></td>
+      <td>{% if p.venue_exists %}<a href="{{ base }}/venues/{{ p.venue }}/">{{ p.venue_name }}</a>{% else %}{{ p.venue_name }}{% endif %}</td>
       <td>{{ p.project_type_label }}</td>
       <td>{{ p.year_display }}</td>
     </tr>

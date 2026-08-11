@@ -5,7 +5,7 @@
 <script type="application/ld+json">{{ jsonld | safe }}</script>
 {% endblock %}
 {% block content %}
-<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; Firms</div>
+<div class="breadcrumbs"><a href="{{ base }}/">Home</a> &gt; Firms</div>
 <h1>Firms</h1>
 <div class="filters" id="firmFilters">
   <label>Role
@@ -42,14 +42,14 @@
   threshold — find them via a project's credits, or the
   <a href="{{ base }}/data/">open-data export</a>.
   {% endif %}
-  See <a href="{{ base }}/about.html">About</a> for why.
+  See <a href="{{ base }}/about/">About</a> for why.
 </p>
 <table class="list" id="firmsTable">
   <thead><tr><th>Name</th><th>HQ</th><th>Roles</th><th>Status</th></tr></thead>
   <tbody>
   {% for f in firms %}
     <tr data-roles="{{ (f.roles or []) | join(',') }}" data-status="{{ f.status or '' }}" data-state="{{ f.hq.state if f.hq else '' }}">
-      <td><a href="{{ base }}/firms/{{ f.id }}.html">{{ f.name }}</a></td>
+      <td><a href="{{ base }}/firms/{{ f.id }}/">{{ f.name }}</a></td>
       <td>{{ f.hq.city }}, {{ f.hq.state }}</td>
       <td class="roles">{{ f.role_labels | join(', ') }}</td>
       <td><span class="status-pill status-{{ f.status }}">{{ f.status_label }}</span></td>

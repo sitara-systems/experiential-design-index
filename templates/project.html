@@ -5,13 +5,13 @@
 <script type="application/ld+json">{{ jsonld | safe }}</script>
 {% endblock %}
 {% block content %}
-<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; <a href="{{ base }}/projects/index.html">Projects</a> &gt; {{ project.name }}</div>
+<div class="breadcrumbs"><a href="{{ base }}/">Home</a> &gt; <a href="{{ base }}/projects/">Projects</a> &gt; {{ project.name }}</div>
 <h1>{{ project.name }} &mdash; {{ project.venue_name }}</h1>
 
 <p class="summary">{{ project.summary }}</p>
 
 <table class="facts">
-  <tr><th>Venue</th><td>{% if project.venue_exists %}<a href="{{ base }}/venues/{{ project.venue }}.html">{{ project.venue_name }}</a>{% else %}{{ project.venue_name }}{% endif %}</td></tr>
+  <tr><th>Venue</th><td>{% if project.venue_exists %}<a href="{{ base }}/venues/{{ project.venue }}/">{{ project.venue_name }}</a>{% else %}{{ project.venue_name }}{% endif %}</td></tr>
   <tr><th>Project type</th><td>{{ project.project_type_label }}</td></tr>
   <tr><th>Status</th><td>{{ project.status_label }}</td></tr>
   <tr><th>{{ project.year_label }}</th><td>{{ project.year_display }}</td></tr>
@@ -24,7 +24,7 @@
   <tbody>
   {% for c in project.credits %}
     <tr>
-      <td>{% if c.firm_exists %}<a href="{{ base }}/firms/{{ c.firm }}.html">{{ c.firm_name }}</a>{% else %}{{ c.firm_name }}{% endif %}</td>
+      <td>{% if c.firm_exists %}<a href="{{ base }}/firms/{{ c.firm }}/">{{ c.firm_name }}</a>{% else %}{{ c.firm_name }}{% endif %}</td>
       <td>{{ c.role_label }}{% for t in c.technology_tag_labels %} <span class="credit-tag" title="This credit delivered the {{ t }} technology on this project, per the cited sources.">{{ t }}</span>{% endfor %}</td>
       <td>{{ c.note or '' }}</td>
     </tr>

@@ -5,7 +5,7 @@
 <script type="application/ld+json">{{ jsonld | safe }}</script>
 {% endblock %}
 {% block content %}
-<div class="breadcrumbs"><a href="{{ base }}/index.html">Home</a> &gt; Venues</div>
+<div class="breadcrumbs"><a href="{{ base }}/">Home</a> &gt; Venues</div>
 <h1>Venues</h1>
 <div class="filters" id="venueFilters">
   <label>Type
@@ -32,7 +32,7 @@
   <tbody>
   {% for v in venues %}
     <tr data-type="{{ v.venue_type or '' }}" data-state="{{ v.location.state if v.location else '' }}">
-      <td><a href="{{ base }}/venues/{{ v.id }}.html">{{ v.name }}</a></td>
+      <td><a href="{{ base }}/venues/{{ v.id }}/">{{ v.name }}</a></td>
       <td>{{ v.venue_type_label }}</td>
       <td>{{ v.location.city }}, {{ v.location.state }}</td>
       <td>{{ v.project_count }}</td>

@@ -78,9 +78,14 @@ def pub(rel: str) -> str:
     redirect, which is what left the index unindexed after launch
     (Search Console "Page with redirect", 2026-07-27).
 
-    Internal `<a href>` links deliberately keep the `.html` form: they
-    301 harmlessly on the deployed site and are what makes the flat-file
-    GitHub Pages preview navigable.
+    Internal `<a href>` links in templates also use the clean form now
+    (fixed 2026-08-11, see templates/*.html) -- they used to deliberately
+    keep the `.html` form for GitHub Pages preview navigability, but that
+    preview was only ever interim (production has been live on Firebase
+    since 2026-07-22) and Googlebot crawling those internal `.html`
+    links was still tripping the same "Page with redirect" report months
+    after the canonical/sitemap fix above, since Google discovers pages
+    via links, not just the sitemap.
     """
     rel = rel.replace("\\", "/").strip("/")
     if rel == "index.html":
@@ -1280,7 +1285,7 @@ Sitemap: {sitemap}
         "attribute to &ldquo;The Experiential Design Index, published by Sitara "
         "Systems&rdquo;.</p>"
         f"<table>{data_rows}</table>"
-        f"<p><a href=\"{BASE}/index.html\">&larr; Back to the index</a></p>"
+        f"<p><a href=\"{BASE}/\">&larr; Back to the index</a></p>"
         "</body></html>\n",
         encoding="utf-8")
 
