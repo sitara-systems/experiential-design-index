@@ -9,10 +9,6 @@
 <h1>{{ firm.name }}</h1>
 {% if firm.aka %}<p class="subtitle">Also known as: {{ firm.aka | join(', ') }}</p>{% endif %}
 
-<h2>Status</h2>
-<span class="status-pill status-{{ firm.status }}">{{ firm.status_label }}</span>
-<p class="status-note">{{ firm.status_basis }} (verified {{ firm.status_verified }}){% if firm.successor %} &mdash; succeeded by <a href="{{ base }}/firms/{{ firm.successor }}/">{{ firm.successor_name }}</a>{% endif %}</p>
-
 <h2>Description</h2>
 <p class="summary">{{ firm.summary }}</p>
 
@@ -42,6 +38,10 @@
 {% else %}
 <p>No projects on record yet.</p>
 {% endif %}
+
+<h2>Status</h2>
+<span class="status-pill status-{{ firm.status }}">{{ firm.status_label }}</span>
+<p class="status-note">{{ firm.status_basis }}{% if firm.successor %} &mdash; succeeded by <a href="{{ base }}/firms/{{ firm.successor }}/">{{ firm.successor_name }}</a>{% endif %}<br><span class="verified-date">Verified {{ firm.status_verified }}</span></p>
 
 {% if firm.similar_firms %}
 <h2>Similar firms</h2>
