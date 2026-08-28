@@ -17,7 +17,7 @@ status_basis: >
   its work is now folded into Hyperquake's Experiences team. No independent
   Potion-branded activity found after the acquisition.
 status_verified: 2026-07-18
-# successor: hyperquake  # Hyperquake has no firm record yet in this index (out of scope for this batch); add this field once one exists.
+successor: hyperquake
 summary: >
   Potion Design was a New York interactive design and media studio founded in
   2005 by MIT Media Lab alumni Jared Schiffman and Phillip Tiongson,
