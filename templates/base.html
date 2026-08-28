@@ -105,6 +105,18 @@
   pre { background: var(--accent-bg); border: 1px solid var(--border); border-radius: .4rem; padding: 1rem; overflow-x: auto; font-size: .85em; line-height: 1.5; }
   pre code { background: none; padding: 0; }
 </style>
+{% if not noindex %}
+<!-- GA4, added 2026-08-27. Single measurement ID (G-YK22BRNLFM) shared
+     across the whole Sitara-family domain (sitara.systems + skies.sitara.systems
+     + the folded-in EDI/ECR subdirectories) -- one property, one funnel. -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YK22BRNLFM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-YK22BRNLFM");
+</script>
+{% endif %}
 </head>
 <body>
 <header class="site">
