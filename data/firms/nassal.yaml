@@ -15,17 +15,13 @@ roles:
   - fabrication
 status: active
 status_basis: >
-  Multiple recent zoo/aquarium openings independently confirmed: Australia
-  and the Lorikeets exhibit at ABQ BioPark (Jul 2024), Dolphin Oasis at
-  Gulfarium (Mar 2024), Explorers Cove at Georgia Aquarium (Aug 2024), and
-  the Orlando Wetlands Visitor Center (Apr 2025); continued operation as a
-  themed-construction/fabrication contractor for major theme park and
-  museum clients (Disney, Universal) as of this check; acquired by general
-  contractor PCL in May 2023, which did not end independent operations
-  under the Nassal name. Note: the firm's own site's stated project years
-  were independently found unreliable on multiple checked projects during
-  the 2026-07-19 portfolio screen — status here rests on independently
-  sourced openings, not Nassal's own dates.
+  Multiple recent zoo/aquarium openings independently confirmed: Australia and
+  the Lorikeets exhibit at ABQ BioPark (Jul 2024), Dolphin Oasis at Gulfarium
+  (Mar 2024), Explorers Cove at Georgia Aquarium (Aug 2024), and the Orlando
+  Wetlands Visitor Center (Apr 2025); continued operation as a
+  themed-construction/fabrication contractor for major theme park and museum
+  clients (Disney, Universal); acquired by general contractor PCL in May 2023,
+  which did not end independent operations under the Nassal name.
 status_verified: 2026-07-19
 summary: >
   The Nassal Company is an Orlando, Florida-based themed-environment
@@ -34,6 +30,11 @@ summary: >
   aquariums, museums, and resorts. Founded in 1984, it operates as "The
   Companies of Nassal" (including the related Lexington brand, tracked as a
   separate index record) and was acquired by general contractor PCL in 2023.
+_comments: >
+  Status note: the firm's own site's stated project years were independently
+  found unreliable on multiple checked projects during the 2026-07-19
+  portfolio screen — status rests on independently sourced openings, not
+  Nassal's own dates.
 sources:
   - https://www.nassal.com/about-us
   - https://www.nassal.com/projects
