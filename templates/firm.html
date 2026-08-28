@@ -44,7 +44,7 @@
 {% if firm.similar_firms %}
 <h2>Similar firms</h2>
 <ul class="similar-firms">
-  {% for sf in firm.similar_firms %}<li><a href="{{ base }}/firms/{{ sf.id }}/">{{ sf.name }}</a></li>{% endfor %}
+  {% for sf in firm.similar_firms %}<li><a href="{{ base }}/firms/{{ sf.id }}/">{{ sf.name }}</a>{% if sf.status and sf.status != "active" %} <span class="similar-firm-status">({{ sf.status_label }})</span>{% endif %}</li>{% endfor %}
 </ul>
 {% endif %}
 

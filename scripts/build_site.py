@@ -275,7 +275,18 @@ def compute_similar_firms(firms, directory_ids, venues, top_n=SIMILAR_FIRMS_TOP_
       3. shared venues/projects -- tiebreaker: firms that worked the same
          venue, or were credited on the very same project
 
-    No numeric score is exposed; only the resulting id/name list. Firms
+    No numeric score is exposed; only the resulting id/name/status list.
+    Inactive candidates are NOT filtered out -- the same "not removed, but
+    displayed prominently" rule as the firm's own activity status (see
+    about.html "Activity status") applies here too: an inactive firm can
+    still be a real, historically similar peer, so silently dropping it
+    would understate that relationship and could still shrink an already
+    short list. Instead each entry carries its status/status_label so the
+    template can annotate any non-active one inline -- found live
+    2026-08-28: Second Story (inactive since 2020, per its own record)
+    was surfacing on Bluecadet's similar-firms list with no such
+    indication, and at least one AI answer engine cited the Index for
+    that exact claim without the qualifier. Firms
     with zero overlap on all three signals are not included, even to pad
     out to top_n -- an empty or short list is a legitimate result, not a
     bug (see workspace HANDOFF notes on any oddly thin cases).
@@ -311,7 +322,15 @@ def compute_similar_firms(firms, directory_ids, venues, top_n=SIMILAR_FIRMS_TOP_
                 continue
             candidates.append((gid, shared_roles, shared_vt, shared_tie))
         candidates.sort(key=lambda c: (-c[1], -c[2], -c[3], firms[c[0]]["name"].lower()))
-        result[fid] = [{"id": gid, "name": firms[gid]["name"]} for gid, *_ in candidates[:top_n]]
+        result[fid] = [
+            {
+                "id": gid,
+                "name": firms[gid]["name"],
+                "status": firms[gid].get("status"),
+                "status_label": firms[gid].get("status_label"),
+            }
+            for gid, *_ in candidates[:top_n]
+        ]
     return result
 
 
