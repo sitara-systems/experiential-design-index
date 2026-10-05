@@ -31,6 +31,8 @@ import urllib.parse
 import yaml
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
+from llms_text import html_to_text
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 TEMPLATES = ROOT / "templates"
@@ -1209,7 +1211,18 @@ Sitemap: {sitemap}
         "they're credited on) and are included in the open-data export -- they're just not "
         "surfaced in the browse list yet. See About for why.",
     ]
+    llms_lines.append(
+        f"- [llms-full.txt]({SITE_URL}/llms-full.txt): the full text of the home, About and "
+        "Contribute pages in one file, including the editorial policy and ranking formula.")
     (SITE / "llms.txt").write_text("\n".join(llms_lines) + "\n", encoding="utf-8")
+
+    # llms-full.txt: editorial/methodology pages in full (entity pages are
+    # covered by the open-data exports linked above)
+    full = ["\n".join(llms_lines).strip()]
+    for rel in ("index.html", "about.html", "contribute.html"):
+        body = html_to_text((SITE / rel).read_text(encoding="utf-8"))
+        full.append(f"\n\n---\n\nURL: {pub(rel)}\n\n{body}")
+    (SITE / "llms-full.txt").write_text("".join(full) + "\n", encoding="utf-8")
 
     # ---- sitemap.xml ----
     urls = [pub("index.html"), pub("about.html"), pub("contribute.html"),
