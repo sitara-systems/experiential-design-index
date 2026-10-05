@@ -6,6 +6,13 @@
 <title>{% block title %}The Experiential Design Index{% endblock %}</title>
 <meta name="description" content="{% block meta_description %}The public record of who built what in experiential design — museums, science centers, brand experience centers, and the firms behind them.{% endblock %}">
 {% if canonical %}<link rel="canonical" href="{{ canonical }}">{% endif %}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="The Experiential Design Index">
+<meta property="og:title" content="{{ self.title() | striptags | trim }}">
+<meta property="og:description" content="{{ self.meta_description() | striptags | trim }}">
+{% if canonical %}<meta property="og:url" content="{{ canonical }}">{% endif %}
+<meta property="og:image" content="https://sitara.systems/assets/images/brand/sitara-mark.png">
+<meta name="twitter:card" content="summary">
 {% if noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
 {% block jsonld %}{% endblock %}
 <style>
