@@ -67,6 +67,9 @@ SIMILAR_FIRMS_TOP_N = 5
 # deployed location. SITE_URL is the single knob: change it at deploy time and
 # both absolute URLs (sitemap/JSON-LD) and internal hrefs follow.
 BASE = urllib.parse.urlsplit(SITE_URL).path.rstrip("/")
+# Sibling dataset (The Exhibit Cost Record) -- absolute so it resolves from
+# any deploy of this site; overridable for previews.
+ECR_URL = os.environ.get("ECR_URL", "https://sitara.systems/exhibit-cost-record").rstrip("/")
 
 
 def pub(rel: str) -> str:
@@ -927,6 +930,19 @@ def main():
     for fid, sims in similar_firms_by_id.items():
         firms[fid]["similar_firms"] = sims
 
+    # "Public contract records" -- link each firm to its page(s) in the
+    # sibling Exhibit Cost Record. data/crosswalks/exhibit-cost-record.json
+    # is generated (and committed) by the ECR repo's
+    # site/scripts/build_edi_crosswalk.py; exact legal-name/aka matches only.
+    crosswalk_path = DATA / "crosswalks" / "exhibit-cost-record.json"
+    if crosswalk_path.exists():
+        cw = json.loads(crosswalk_path.read_text(encoding="utf-8")).get("edi_to_ecr", {})
+        for fid, links in cw.items():
+            if fid in firms:
+                firms[fid]["cost_records"] = [
+                    {**l, "url": f"{ECR_URL}/firms/{l['slug']}/"} for l in links
+                ]
+
     # ---- filter option lists (browse-page dropdowns) ----
     # Built from values actually present in the visible directory, not the
     # full vocab or the full dataset, so every option a visitor picks
@@ -1249,7 +1265,7 @@ Sitemap: {sitemap}
         (e.g. _comments — internal notes for maintainers/LLM sessions) never
         ships in the open-data export."""
         derived_keys = {
-            "firms": {"role_labels", "status_label", "successor_name", "projects"},
+            "firms": {"role_labels", "status_label", "successor_name", "projects", "cost_records"},
             "projects": {"venue_exists", "venue_name", "project_type_label", "status_label", "year_display", "year_label", "role_labels"},
             "venues": {"venue_type_label", "projects", "project_count"},
         }[kind]

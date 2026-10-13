@@ -43,6 +43,14 @@
 <span class="status-pill status-{{ firm.status }}">{{ firm.status_label }}</span>
 <p class="status-note">{{ firm.status_basis }}{% if firm.successor %} &mdash; succeeded by <a href="{{ base }}/firms/{{ firm.successor }}/">{{ firm.successor_name }}</a>{% endif %}<br><span class="verified-date">Verified {{ firm.status_verified }}</span></p>
 
+{% if firm.cost_records %}
+<h2>Public contract records</h2>
+<p>Public contract, grant, and Form 990 records naming this firm, in the companion dataset <a href="https://sitara.systems/exhibit-cost-record/">The Exhibit Cost Record</a>:</p>
+<ul class="cost-records">
+  {% for c in firm.cost_records %}<li><a href="{{ c.url }}">{{ c.name }}</a> &mdash; {{ c.records }} record{{ "s" if c.records != 1 }}{% if c.total_usd %}, ${{ "{:,}".format(c.total_usd) }} total{% endif %}{% if c.years %}, {{ c.years[0] }}{% if c.years[1] != c.years[0] %}&ndash;{{ c.years[1] }}{% endif %}{% endif %}</li>{% endfor %}
+</ul>
+{% endif %}
+
 {% if firm.similar_firms %}
 <h2>Similar firms</h2>
 <ul class="similar-firms">
