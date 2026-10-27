@@ -1,0 +1,9 @@
+id: cointreau-distillery
+name: Cointreau Distillery (Carré Cointreau)
+venue_type: brand-experience-center
+location:
+  city: Saint-Barthélemy-d'Anjou
+  country: FR
+operator: Rémy Cointreau
+sources:
+- https://blooloop.com/brands-ip/in-depth/cointreau-visitor-experience/

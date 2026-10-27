@@ -4,9 +4,8 @@ venue: kelowna-flightcraft-aerospace-centre
 project_type: new-exhibition
 year_completed: 2022
 credits:
-  - firm: gsm-project
+  - firm: gsm-studios
     role: exhibit-design
-    note: "No firm record yet"
   - firm: eos-lightmedia
     role: av-integration
     note: >
@@ -21,5 +20,11 @@ summary: >
   2022, with exhibit design by GSM Project and lighting and audiovisual
   systems by Eos Lightmedia.
 description: ""
+_comments: >
+  Eos Lightmedia's project page names "GSM Project" only in its meta
+  description (no role stated, no year); GSM's own journal article and case
+  study describe the museum engagement. Opening year 2022 corroborated by
+  EAA (opened August 2022).
 sources:
   - https://www.eoslightmedia.com/work/348
+  - https://inspire.eaa.org/2023/08/02/new-okanagan-aviation-museum-in-british-columbia-the-kf-centre-for-excellence/

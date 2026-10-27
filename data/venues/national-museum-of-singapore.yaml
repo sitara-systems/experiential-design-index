@@ -1,0 +1,9 @@
+id: national-museum-of-singapore
+name: National Museum of Singapore
+venue_type: history-museum
+location:
+  city: Singapore
+  country: SG
+operator: National Heritage Board
+sources:
+- https://www.nhb.gov.sg/nationalmuseum/

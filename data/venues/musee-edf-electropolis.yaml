@@ -1,0 +1,10 @@
+id: musee-edf-electropolis
+name: Musée EDF Electropolis
+venue_type: science-center
+location:
+  city: Mulhouse
+  country: FR
+operator: AMELEC
+sources:
+- https://fr.wikipedia.org/wiki/Mus%C3%A9e_EDF_Electropolis
+- https://www.edf.fr/sites/default/files/uploads/ddp_f_juin_2017.pdf

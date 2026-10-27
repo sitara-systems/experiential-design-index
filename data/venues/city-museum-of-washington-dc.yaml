@@ -1,0 +1,11 @@
+id: city-museum-of-washington-dc
+name: City Museum of Washington, D.C.
+venue_type: history-museum
+location:
+  city: Washington
+  state: DC
+  country: US
+operator: Historical Society of Washington, D.C.
+sources:
+- https://en.wikipedia.org/wiki/City_Museum_of_Washington,_D.C.
+- https://www.constructionequipmentguide.com/clark-completes-dc-museum/3979?markdown=1

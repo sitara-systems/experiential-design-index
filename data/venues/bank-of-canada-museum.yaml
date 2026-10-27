@@ -1,0 +1,12 @@
+id: bank-of-canada-museum
+name: Bank of Canada Museum
+venue_type: corporate-museum
+location:
+  city: Ottawa
+  province: 'ON'
+  state: 'ON'
+  country: CA
+operator: Bank of Canada
+sources:
+- https://en.wikipedia.org/wiki/Bank_of_Canada_Museum
+- https://www.bankofcanada.ca/?p=193122

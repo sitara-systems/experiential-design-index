@@ -1,0 +1,10 @@
+id: ajax-experience
+name: Ajax Experience
+venue_type: corporate-museum
+location:
+  city: Amsterdam
+  country: NL
+operator: AFC Ajax N.V.
+sources:
+- https://en.wikipedia.org/wiki/Ajax_Experience
+- https://archello.com/project/ajax-experience

@@ -1,0 +1,40 @@
+id: mem-montreal-permanent-exhibition
+name: MONTRÉAL — MEM Permanent Exhibition
+venue: mem-centre-des-memoires-montrealaises
+project_type: new-exhibition
+year_completed: 2023
+credits:
+  - firm: gsm-studios
+    role: exhibit-design
+    note: "Scenography and museography for the permanent exhibition and public spaces, 2019–2023."
+  - firm: gsm-studios
+    role: media-design
+    note: "Multimedia design for the permanent exhibition."
+technologies: []
+summary: >
+  MONTRÉAL, the permanent exhibition of the MEM – Centre des mémoires
+  montréalaises in Montréal, Québec, was inaugurated by the City of
+  Montréal on September 28, 2023, with scenography, museography, multimedia
+  and graphic design by GSM Project (now GSM Studios).
+description: >
+  The exhibition anchors the city's relaunched history museum, formerly the
+  Centre d'histoire de Montréal, and presents the city through the memories
+  of its residents. In 2025 the MEM received an Excellence award from the
+  Société des musées du Québec and a Mason Multi-Media Award from the Oral
+  History Association.
+recognition:
+  - award: "Société des musées du Québec — Excellence Award"
+    year: 2025
+    source: https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/1651-02/the-mem-centre-des-memoires-montrealaises-receives-two-excellence-awards-in-quebec-and-abroad
+  - award: "Oral History Association — Elizabeth B. Mason Multi-Media Award"
+    year: 2025
+    source: https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/1651-02/the-mem-centre-des-memoires-montrealaises-receives-two-excellence-awards-in-quebec-and-abroad
+sources:
+  - https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/1651-02/the-mem-centre-des-memoires-montrealaises-receives-two-excellence-awards-in-quebec-and-abroad
+  - https://montreal.ca/communiques-de-presse/la-ville-de-montreal-inaugure-le-tout-nouveau-mem-centre-des-memoires-montrealaises-un-musee
+_comments: >
+  Year 2023 from the City's September 28, 2023 inauguration release; GSM's
+  own project page says completion 2024 and 2023 in its meta description
+  (conflict resolved toward the independent City source). The V2com press
+  kit's technical specs credit "Scenography, museography, multimedia and
+  graphic design: GSM Project."

@@ -1,0 +1,11 @@
+id: mem-centre-des-memoires-montrealaises
+name: MEM – Centre des mémoires montréalaises
+venue_type: history-museum
+location:
+  city: Montréal
+  province: QC
+  state: QC
+  country: CA
+operator: City of Montréal
+sources:
+  - https://montreal.ca/communiques-de-presse/la-ville-de-montreal-inaugure-le-tout-nouveau-mem-centre-des-memoires-montrealaises-un-musee

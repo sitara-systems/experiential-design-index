@@ -1,0 +1,11 @@
+id: canadian-olympic-house
+name: Canadian Olympic House
+venue_type: visitor-center
+location:
+  city: Montréal
+  province: QC
+  state: QC
+  country: CA
+operator: Canadian Olympic Committee
+sources:
+- https://olympic.ca/press/the-canadian-olympic-experience-a-complete-immersion-into-the-inspiring-universe-of-olympic-athletes/

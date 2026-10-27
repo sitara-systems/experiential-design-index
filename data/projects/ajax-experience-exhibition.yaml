@@ -1,0 +1,25 @@
+id: ajax-experience-exhibition
+name: Ajax Experience
+venue: ajax-experience
+project_type: new-exhibition
+year_completed: 2011
+credits:
+- firm: gsm-studios
+  role: exhibit-design
+  note: Interactive and exhibit design.
+- firm: sid-lee-architecture
+  role: architecture
+- firm: lightemotion
+  role: lighting-design
+technologies: []
+summary: Ajax Experience, AFC Ajax's visitor museum in a converted building in
+  Amsterdam, opened on September 24, 2011, with interactive and exhibit design
+  by gsmprjct° (now GSM Studios) and architecture by Sid Lee Architecture.
+description: ''
+sources:
+- https://archello.com/project/ajax-experience
+- https://en.wikipedia.org/wiki/Ajax_Experience
+- https://www.archilovers.com/projects/48830/ajax-experience.html
+_comments: Closed in 2013 (Wikipedia). Archilovers lists 2012; Wikipedia and Archello
+  give 2011. Archilovers says only that gsmprjct° collaborated; Archello specifies
+  interactive and exhibit design.

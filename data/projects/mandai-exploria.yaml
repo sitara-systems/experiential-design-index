@@ -1,0 +1,26 @@
+id: mandai-exploria
+name: Exploria
+venue: mandai-wildlife-reserve
+project_type: new-exhibition
+year_completed: 2026
+credits:
+- firm: gsm-studios
+  role: exhibit-design
+  note: Designer of the attraction.
+- firm: dpt
+  role: media-design
+  note: Interactive layer.
+- firm: e-and-e
+  role: av-integration
+technologies: []
+summary: Exploria, an indoor multimedia nature attraction at Mandai Wildlife Reserve
+  in Singapore, opened on March 3, 2026, designed by GSM Project (now GSM Studios)
+  with an interactive layer by Dpt. and audiovisual systems by E&E.
+description: ''
+sources:
+- https://www.mandai.com/en/discover-mandai/discover-your-wild/exploria-guide.html
+- https://dpt.co/en/projects/mandai-exploria/
+- https://www.timeout.sg/things-to-do/mandai-wildlife-reserve-launches-exploria-a-new-indoor-multimedia-nature-experience-on-march-3-022326
+_comments: 'GSM''s own page says February 2026; Mandai, Dpt. and Time Out all
+  give March 3, 2026. dpt.co lists ''Designers: GSM Project'' without describing
+  the role.'

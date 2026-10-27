@@ -1,0 +1,12 @@
+id: au-sommet-place-ville-marie
+name: Au Sommet Place Ville Marie
+venue_type: themed-attraction
+location:
+  city: Montréal
+  province: QC
+  state: QC
+  country: CA
+operator: Au Sommet Place Ville-Marie
+sources:
+- https://timeout.com/montreal/montreal-news/the-place-ville-marie-observatory-is-now-permanently-closed-050420
+- https://cultmtl.com/2016/06/au-sommet-observatoire-place-ville-marie-montreal/

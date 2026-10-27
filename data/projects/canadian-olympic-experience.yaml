@@ -1,0 +1,21 @@
+id: canadian-olympic-experience
+name: Canadian Olympic Experience
+venue: canadian-olympic-house
+project_type: new-exhibition
+year_completed: 2018
+credits:
+- firm: gsm-studios
+  role: exhibit-design
+  note: Conceived and produced the experience.
+- firm: xyz-cultural-technology
+  role: av-integration
+  note: Audiovisual and interactivity.
+technologies: []
+summary: The Canadian Olympic Experience, an interactive exhibition at Canadian
+  Olympic House in Montréal, opened on June 20, 2018, conceived and produced by
+  GSM Project (now GSM Studios) with audiovisual and interactive elements by XYZ
+  Cultural Technology.
+description: ''
+sources:
+- https://olympic.ca/press/the-canadian-olympic-experience-a-complete-immersion-into-the-inspiring-universe-of-olympic-athletes/
+- https://blooloop.com/museum/news/gsm-project-canadian-olympic-experience/

@@ -1,0 +1,26 @@
+id: bank-of-canada-museum-permanent-exhibition
+name: Bank of Canada Museum Permanent Exhibition
+venue: bank-of-canada-museum
+project_type: new-exhibition
+year_completed: 2017
+credits:
+- firm: gsm-studios
+  role: exhibit-design
+  note: Design and build of the permanent exhibition.
+- firm: dpt
+  role: media-design
+  note: Two interactive installations, in collaboration with GSM Project.
+technologies: []
+summary: The Bank of Canada Museum in Ottawa, Ontario reopened on July 1, 2017
+  in a new home with a new permanent exhibition designed and built by GSM Project
+  (now GSM Studios), with interactive installations by DPT.
+description: ''
+sources:
+- https://www.bankofcanada.ca/?p=193122
+- https://en.wikipedia.org/wiki/Bank_of_Canada_Museum
+- https://capitalcurrent.ca/archive/centretownnews/bank-canada-museum-reopens/
+- https://dpt.co/en/projects/bank-of-canada-museum/
+_comments: GSM's own project page lists 2018 as completion; the Bank of Canada,
+  Wikipedia and Centretown News all give July 1, 2017 (June 20, 2017 preview).
+  Independent sources name GSM only loosely (Centretown News) or as DPT's collaborator
+  (dpt.co); the design/build scope is from GSM's own page.

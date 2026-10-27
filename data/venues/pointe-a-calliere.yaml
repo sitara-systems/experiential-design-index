@@ -1,0 +1,11 @@
+id: pointe-a-calliere
+name: Pointe-à-Callière, Montréal Archaeology and History Complex
+venue_type: history-museum
+location:
+  city: Montréal
+  province: QC
+  state: QC
+  country: CA
+operator: Pointe-à-Callière
+sources:
+- https://pacmusee.qc.ca/en/stories-of-montreal/article/10-exhibitions-and-events-at-pointe-a-calliere/

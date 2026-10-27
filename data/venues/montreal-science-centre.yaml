@@ -1,0 +1,11 @@
+id: montreal-science-centre
+name: Montréal Science Centre
+venue_type: science-center
+location:
+  city: Montréal
+  province: QC
+  state: QC
+  country: CA
+operator: Canada Lands Company
+sources:
+- https://www.montrealsciencecentre.com/special-event/20-years-of-msc

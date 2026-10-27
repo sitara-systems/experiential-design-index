@@ -6,9 +6,9 @@ year_completed: 2010
 credits:
   - firm: som
     role: architecture
-  - firm: gsmprjct
+  - firm: gsm-studios
     role: media-design
-    note: "no firm record yet; augmented-reality telescopes on the 124th floor"
+    note: "Augmented-reality telescopes on the 124th-floor observation deck."
 technologies:
   - augmented reality
 summary: >
@@ -18,6 +18,12 @@ summary: >
   tower, with augmented-reality telescopes on the 124th floor developed
   by Gsmprjct° of Montréal.
 description: ""
+_comments: >
+  Credit sourced to Wikipedia, whose footnotes cite gsmprjct°'s own project page
+  and a Journal de Montréal article of 4 January 2010 (link dead). GSM's
+  own history timeline separately dates a 124th-floor observatory project to
+  2014; the telescope attribution here stays dated to the 2010 opening
+  pending a second independent source.
 sources:
   - https://en.wikipedia.org/wiki/At_the_Top_(Burj_Khalifa)
   - https://www.dezeen.com/2010/01/20/burj-khalifa-by-som/
