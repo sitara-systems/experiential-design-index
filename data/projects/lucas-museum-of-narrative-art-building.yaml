@@ -1,0 +1,26 @@
+id: lucas-museum-of-narrative-art-building
+name: Lucas Museum of Narrative Art
+venue: lucas-museum-of-narrative-art
+project_type: new-building
+year_completed: 2026
+credits:
+- firm: mad-architects
+  role: architecture
+  note: Designed by Ma Yansong.
+- firm: studio-mla
+  role: landscape-architecture
+  note: Landscape by Mia Lehrer.
+summary: >-
+  The Lucas Museum of Narrative Art, a 300,000-square-foot museum in Exposition Park,
+  Los Angeles designed by MAD Architects with landscape architecture by Studio-MLA,
+  was scheduled to open to the public on September 22, 2026.
+sources:
+- >-
+  https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026
+- https://blooloop.com/museum/news/lucas-museum-narrative-art/
+_comments: >-
+  Opening date is from the museum's own press release; an after-the-fact opening report
+  was not retrieved. MAD Architects is Beijing-founded (LA office), left unlinked.
+  No exhibition-design, media or fabrication vendors found publicly as of 2026-11-04
+  (museum job posting says fabricators will be selected separately) - revisit for
+  credits.

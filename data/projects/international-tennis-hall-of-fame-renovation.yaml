@@ -23,6 +23,14 @@ credits:
     role: av-integration
   - firm: 1220-fabrication
     role: fabrication
+  - firm: advent
+    role: exhibit-design
+    note: >
+      Advent's own client page lists its scope as the 'Global Gallery'
+      (experience design, historical recognition, visual storytelling,
+      design-build, artifact displays) and the grand re-opening digital
+      experience. Self-reported; overlaps the other vendor claims on this
+      record and is not reconciled.
 technologies:
   - hologram
   - interactive projection
@@ -41,6 +49,7 @@ description: >
   Federer), Newport Tennis Traditions Gallery, and Legends Lounge, displaying
   over 2,000 artifacts.
 sources:
+  - https://adventmovespeople.com/clients/international-tennis-hall-of-fame/
   - https://www.healykohler.com/project/international-tennis-hall-of-fame-museum/
   - https://www.forbes.com/sites/timnewcomb/2025/05/14/international-tennis-hall-of-fame-opens-renovated-museum/
   - https://www.rimonthly.com/international-tennis-hall-of-fame-reopens-after-multimillion-dollar-renovation/

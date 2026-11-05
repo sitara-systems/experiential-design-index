@@ -1,0 +1,10 @@
+id: centreville-bank-stadium
+name: Centreville Bank Stadium
+venue_type: sports-venue
+location:
+  city: Pawtucket
+  state: RI
+  country: US
+operator: Rhode Island FC
+sources:
+- https://segd.org/member-news/centreville-bank-stadium-cooper-carry/

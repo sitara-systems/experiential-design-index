@@ -734,6 +734,84 @@ rotating slice:
    commit is also fine — match whatever granularity made sense for how the
    month's session(s) actually ran.
 
+## Periodic refresh runbook
+
+*A mechanical start for the monthly/quarterly discovery refresh (what is new
+since the last pass), as distinct from the one-time tier crawls. Added
+2026-11-04 after the first refresh pass.*
+
+**How to tell what is new since last pass.** Find the last dated line in the
+"Refresh log" below. Anything published or announced after that date is in
+the window. For award cycles, check the winners-announcement date against the
+last log line; for firm portfolios, look for projects dated after it; skip
+anything whose source URL already appears in `data/` (`grep -rl <url> data/`).
+
+**Sources to check each cycle (in order):**
+
+1. **SEGD Global Design Awards.** Winners are announced at the October
+   conference; the winners page is
+   `segd.org/news/celebrating-the-winners-of-the-<year>-segd-global-design-awards/`
+   and each winner has a `segd.org/projects/<slug>/` page with full credits.
+   Many winners are projects already in the corpus: add a `recognition`
+   entry to the existing record rather than a duplicate project.
+2. **SEGD member news** (`segd.org/member-news/<slug>/`, listed on
+   `segd.org/news`). Firm-authored project announcements with dates; good
+   for finding brand-new openings (single-source, flag as such).
+3. **Communication Arts Design Competition** (Environmental Graphics).
+   Shortlist PDF: `commarts.com/content/files/competitions/Design<YY>Shortlist.pdf`
+   (the web gallery is JavaScript-rendered and unreadable by fetch tools).
+   Shortlist entries are leads, not winners; confirm each against the
+   firm's own page. Interactive Competition (Environmental sub-category)
+   publishes in the March/April issue.
+4. **TEA Thea Awards** (`teaconnect.org/recipients/<nth>-annual-thea-award-recipients`;
+   the 32nd annual was announced November 2025, gala May 2026). Recipient
+   pages give names only; credits need a second source. Mostly theme-park
+   and show work, usually out of scope.
+5. **AAM MUSE Awards**: on hold since 2023 (AAM site statement); re-check
+   only whether the hold has been lifted.
+6. **GACEP**: lead source only (no firm credits). The Event Marketer
+   Experience Design Awards and similar are not currently tracked.
+7. **Core77 Design Awards (Built Environment)**: surfaced Volume Inc. in
+   2026; juried, so valid for `recognition`.
+8. **Trade-press openings scan** (Blooloop, Attractions Magazine, local
+   news): search "visitor center / museum opens <month> <year> exhibits
+   designed by". Low yield by search alone; productive when starting from
+   a named firm's own news page (e.g. Ideum's `/news`, Advent's project
+   pages).
+9. **Firm rescan**: re-read the news/work pages of the highest-credit active
+   firms (rank by credit count with `scripts`-free one-liner: count
+   `firm:` lines across `data/projects/`). Most firm sites are JavaScript
+   shells or undated; a news page with dates (Ideum, SEGD member news) is
+   the productive path.
+10. **Reconcile**: tally credits (promote firms at 3+), check near-duplicate
+    ids, compare validator warning classes to the previous run, rebuild.
+
+**Refresh log** *(one dated line per pass; start the next pass from the
+latest line)*
+
+- **2026-11-04** (branch `discovery-refresh-2026-11`; window 2026-07-20 to
+  2026-11-04). Dataset 239/2,456/1,836 (firms/projects/venues) to
+  242/2,472/1,849 (validator 0 errors; warning count unchanged by class).
+  Swept: SEGD 2026 winners (announced 2026-10-28; 31 winners, 5 new
+  projects, 8 existing projects gained 2026 `recognition`); Communication
+  Arts 2026 Design shortlist (Environmental Graphics; 2 new projects);
+  SEGD member news Oct 2026; Ideum news; Advent; trade-press openings scan
+  (St. Mary's City visitor center, Crystal Bridges, Lucas Museum, Space &
+  Rocket Center). Honest zeros: AAM MUSE (still on hold), TEA 2026 Thea
+  (no museum honorees with named US firms; Epic Universe / show work), GACEP
+  (no awards listing found), Communication Arts Interactive 2026 (not yet
+  published; March/April 2027 issue), Dimensional Innovations / C&G /
+  Local Projects / Studio Joseph / Kubik Maltbie / Bluecadet / Pentagram
+  work pages (no dated new projects not already recorded). Promoted: Advent,
+  Gizmo Art Production, Kudos Design Collaboratory. Still-open leads: the
+  Perot Museum Moody Family Children's Museum redesign (NorthernLight; no
+  opening date found), Children's Museum of Indianapolis All Aboard! (fall
+  2026), the National Rodeo Hall of Fame exhibition (Ideum, November 2026),
+  Ideum's San Mateo County History Museum install (October 2026, not yet
+  opened), Parker Heritage Center (2027), Rays and Vegas A's experience
+  centers (Advent, 2027), and Tellart (15 credits, no firm record: confirm
+  North America operating status).
+
 ## Reconciliation checklist (run after every batch, every tier)
 
 1. `python scripts/validate.py` — fix all errors; warnings for
