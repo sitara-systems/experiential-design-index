@@ -1,0 +1,18 @@
+id: speed-art-museum-expansion
+name: Speed Art Museum Revitalization and Expansion
+venue: speed-art-museum
+project_type: major-renovation
+year_completed: 2016
+credits:
+  - firm: why-architecture
+    role: architecture
+    note: "Planner and design architect, per WHY's project page."
+summary: >
+  WHY Architecture revitalized the 1927 neoclassical building of the Speed Art
+  Museum in Louisville, Kentucky, adding two new wings and a sculpture park,
+  completed in 2016.
+description: ""
+sources:
+  - https://why-site.com/work/speed-art-museum/
+_comments:
+  - "Firm's own project page is the sole source (Key info: Year Completed 2016, Role Planner, Design Architect). Possible overlap at merge with award-archive passes: id speed-art-museum-expansion."

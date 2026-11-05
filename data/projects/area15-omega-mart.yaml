@@ -1,0 +1,21 @@
+id: area15-omega-mart
+name: Omega Mart
+venue: area15
+project_type: installation
+year_completed: 2021
+credits:
+  - firm: solotech
+    role: av-integration
+    note: >
+      Delivered a turnkey audio, video and show-control, lighting, projection
+      and immersive multi-track audio solution for Meow Wolf's Omega Mart,
+      per Solotech's own project page.
+summary: >
+  Omega Mart, Meow Wolf's interactive art experience built as a surreal
+  supermarket at AREA15 in Las Vegas, Nevada, opened in 2021 with a turnkey
+  audio, video and lighting system supplied and integrated by Solotech.
+description: ""
+sources:
+  - https://solotech.com/work/meow-wolfs-omega-mart/
+_comments:
+  - "Meow Wolf's creative/design credit is not stated on the Solotech page and is not recorded here; add via a Meow Wolf source if desired. Possible overlap at merge with award-archive discovery passes: id area15-omega-mart."

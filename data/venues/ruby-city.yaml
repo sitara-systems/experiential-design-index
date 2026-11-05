@@ -1,0 +1,9 @@
+id: ruby-city
+name: Ruby City
+venue_type: art-museum
+location:
+  city: San Antonio
+  state: TX
+operator: Linda Pace Foundation
+sources:
+  - https://www.tillotsondesign.com/ruby-city-foundation-full-project-credits

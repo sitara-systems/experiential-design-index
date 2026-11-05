@@ -1,0 +1,9 @@
+id: grand-rapids-art-museum
+name: Grand Rapids Art Museum
+venue_type: art-museum
+location:
+  city: Grand Rapids
+  state: MI
+website: https://artmuseumgr.org
+sources:
+  - https://why-site.com/work/grand-rapids-art-museum/

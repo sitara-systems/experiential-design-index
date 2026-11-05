@@ -1,0 +1,18 @@
+id: grand-rapids-art-museum-building
+name: Grand Rapids Art Museum
+venue: grand-rapids-art-museum
+project_type: new-building
+year_completed: 2007
+credits:
+  - firm: why-architecture
+    role: architecture
+    note: "Planner and design architect (WHY's first museum project), per WHY's project page."
+summary: >
+  WHY Architecture designed the ground-up, 127,000 sq. ft. Grand Rapids Art
+  Museum in Grand Rapids, Michigan, completed in 2007 and cited by the firm as
+  the first museum in the nation to earn LEED Gold certification.
+description: ""
+sources:
+  - https://why-site.com/work/grand-rapids-art-museum/
+_comments:
+  - "Firm's own project page is the sole source; the LEED claim is the firm's own and is not independently verified here. Possible overlap at merge with award-archive passes: id grand-rapids-art-museum-building."

@@ -1,0 +1,9 @@
+id: koka-booth-amphitheatre
+name: Koka Booth Amphitheatre
+venue_type: cultural-center
+location:
+  city: Cary
+  state: NC
+operator: Town of Cary
+sources:
+  - https://rawnarch.com/projects/koka-booth.html

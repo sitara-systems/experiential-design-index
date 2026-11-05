@@ -1,0 +1,9 @@
+id: summit-lake-nature-center
+name: Summit Lake Nature Center
+venue_type: visitor-center
+location:
+  city: Akron
+  state: OH
+operator: Summit Metro Parks
+sources:
+  - https://www.tessellatestudio.com/exhibit-design-ohio

@@ -1,0 +1,14 @@
+id: simmons-university-gwen-ifill-timeline
+name: Gwen Ifill College Timeline
+venue: simmons-university-gwen-ifill-college
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: trivium-interactive
+    role: media-design
+    note: "Interactive and media design and development, per Trivium's own project page."
+summary: >
+  Trivium Interactive produced an immersive timeline experience of milestones in the life and career of Gwen Ifill, completed in 2019, at Gwen Ifill College of Media, Arts, and the Humanities.
+description: ""
+sources:
+  - https://www.triviuminteractive.com/project/the-gwen-ifill-college-of-media-arts-and-the-humanities/

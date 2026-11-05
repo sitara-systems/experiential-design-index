@@ -1,0 +1,22 @@
+id: longwood-gardens-west-conservatory
+name: West Conservatory
+venue: longwood-gardens
+project_type: major-renovation
+year_completed: 2024
+credits:
+  - firm: weiss-manfredi
+    role: architecture
+    note: Design architect; no firm record yet.
+  - firm: reed-hilderbrand
+    role: landscape-architecture
+    note: Landscape architect; no firm record yet.
+  - firm: tillotson-design-associates
+    role: lighting-design
+    note: Lighting design, per Tillotson Design Associates' project credits page.
+summary: >
+  Tillotson Design Associates provided the lighting design for the 32,000 sq. ft. West Conservatory at Longwood Gardens, completed in 2024.
+description: ""
+sources:
+  - https://www.tillotsondesign.com/longwood-gardens-full-project-credits
+_comments:
+  - "Tillotson's project credits page (Location / Project Completed / credits fields) is the sole source; architect credits are as listed on that page."

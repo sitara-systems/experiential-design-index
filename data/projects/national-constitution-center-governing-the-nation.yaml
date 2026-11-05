@@ -7,6 +7,9 @@ credits:
   - firm: luci-creative
     role: exhibit-design
     note: "Per the firm page, Luci designed both new galleries; collaborators named there include Becker & Frondorf, Hadley Exhibits, Trivium Interactives and Two Left Hands (roles not specified)."
+  - firm: trivium-interactive
+    role: media-design
+    note: "Interactive and media design and development, per Trivium's own project page."
 technologies: []
 summary: >
   "Governing the Nation", a new permanent gallery at the National Constitution
@@ -16,3 +19,4 @@ description: ""
 sources:
   - https://www.lucicreative.com/projects/national-constitution-center
   - https://constitutioncenter.org/about/press-room/press-releases/national-constitution-center-announces-may-15-opening-of-governing-the-nation-a-new-permanent-gallery
+  - https://www.triviuminteractive.com/project/governing-the-nation/

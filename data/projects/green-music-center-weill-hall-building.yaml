@@ -1,0 +1,19 @@
+id: green-music-center-weill-hall-building
+name: Joan & Sanford I. Weill Hall
+venue: green-music-center-weill-hall
+project_type: new-building
+year_completed: 2012
+credits:
+  - firm: william-rawn-associates
+    role: architecture
+    note: "Architect, per William Rawn Associates' project page (Completion 2012)."
+  - firm: a-c-martin-partners
+    role: architecture
+    note: Architect of record, per William Rawn Associates' page; no firm record yet.
+summary: >
+  William Rawn Associates designed Joan & Sanford I. Weill Hall for Sonoma State University in Rohnert Park, CA, completed in 2012.
+description: ""
+sources:
+  - https://rawnarch.com/projects/joan-and-sanford-i.-weill-hall.html
+_comments:
+  - "Firm's own project page (Client / Location / Completion fields) is the sole source."

@@ -1,0 +1,8 @@
+id: cape-ann-museum
+name: Cape Ann Museum
+venue_type: art-museum
+location:
+  city: Gloucester
+  state: MA
+sources:
+  - https://www.triviuminteractive.com/project/cape-ann-museum/

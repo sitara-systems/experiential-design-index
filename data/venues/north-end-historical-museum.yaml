@@ -1,0 +1,9 @@
+id: north-end-historical-museum
+name: North End Historical Museum
+venue_type: history-museum
+location:
+  city: Boston
+  state: MA
+operator: North End Historical Society
+sources:
+  - https://www.triviuminteractive.com/project/north-end-historical-museum/

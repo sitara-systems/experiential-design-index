@@ -1,0 +1,9 @@
+id: gordon-center-for-creative-and-performing-arts
+name: Gordon Center for Creative and Performing Arts
+venue_type: cultural-center
+location:
+  city: Waterville
+  state: ME
+operator: Colby College
+sources:
+  - https://rawnarch.com/projects/gordon-center-for-creative-performing-arts.html

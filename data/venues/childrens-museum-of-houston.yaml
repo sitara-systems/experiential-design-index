@@ -1,0 +1,8 @@
+id: childrens-museum-of-houston
+name: Children's Museum of Houston
+venue_type: childrens-museum
+location:
+  city: Houston
+  state: TX
+sources:
+  - https://www.triviuminteractive.com/project/faithful-friends/

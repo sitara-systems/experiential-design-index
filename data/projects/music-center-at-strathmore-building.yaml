@@ -1,0 +1,19 @@
+id: music-center-at-strathmore-building
+name: The Music Center at Strathmore
+venue: music-center-at-strathmore
+project_type: new-building
+year_completed: 2004
+credits:
+  - firm: william-rawn-associates
+    role: architecture
+    note: "Architect, per William Rawn Associates' project page (Completion 2004)."
+  - firm: grimm-and-parker-architects
+    role: architecture
+    note: Partner firm on the project, per William Rawn Associates' page; no firm record yet.
+summary: >
+  William Rawn Associates designed The Music Center at Strathmore, a 2,000-seat concert hall and educational facility that is a second home for the Baltimore Symphony Orchestra in North Bethesda, MD, completed in 2004.
+description: ""
+sources:
+  - https://rawnarch.com/projects/strathmore-music-center.html
+_comments:
+  - "Firm's own project page (Client / Location / Completion fields) is the sole source."

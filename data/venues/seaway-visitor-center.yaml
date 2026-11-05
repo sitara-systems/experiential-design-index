@@ -1,0 +1,8 @@
+id: seaway-visitor-center
+name: Seaway Visitor Center at Eisenhower Lock
+venue_type: visitor-center
+location:
+  city: Massena
+  state: NY
+sources:
+  - https://www.triviuminteractive.com/project/seaway-visitor-center/

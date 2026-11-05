@@ -1,0 +1,19 @@
+id: cambridge-public-library-renovation-and-expansion
+name: Cambridge Public Library Renovation and Expansion
+venue: cambridge-public-library
+project_type: major-renovation
+year_completed: 2009
+credits:
+  - firm: william-rawn-associates
+    role: architecture
+    note: "Architect, per William Rawn Associates' project page (Completion 2009)."
+  - firm: ann-beha-architects
+    role: architecture
+    note: Partner firm on the project, per William Rawn Associates' page; no firm record yet.
+summary: >
+  William Rawn Associates designed the renovation and addition of the Cambridge Public Library for the City of Cambridge in Cambridge, MA, completed in 2009.
+description: ""
+sources:
+  - https://rawnarch.com/projects/cambridge-library.html
+_comments:
+  - "Firm's own project page (Client / Location / Completion fields) is the sole source."

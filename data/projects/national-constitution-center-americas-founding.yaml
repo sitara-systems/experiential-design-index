@@ -7,6 +7,9 @@ credits:
   - firm: luci-creative
     role: exhibit-design
     note: "Per the firm page, Luci designed both new galleries; collaborators named there include Becker & Frondorf, Hadley Exhibits, Trivium Interactives and Two Left Hands (roles not specified)."
+  - firm: trivium-interactive
+    role: media-design
+    note: "Interactive and media design and development, per Trivium's own project page."
 technologies: []
 summary: >
   "America's Founding", a new permanent gallery at the National Constitution
@@ -16,3 +19,4 @@ description: ""
 sources:
   - https://www.lucicreative.com/projects/national-constitution-center
   - https://constitutioncenter.org/about/press-room/press-releases/national-constitution-center-to-open-americas-founding-gallery-on-presidents-day-weekend-2026
+  - https://www.triviuminteractive.com/project/americas-founding/

@@ -11,6 +11,9 @@ credits:
   - firm: olson-kundig
     role: exhibit-design
     note: "3D/spatial design"
+  - firm: stimulant
+    role: media-design
+    note: "Anchor interactive touch wall (a series of short interactive puzzles on innovator traits), per Stimulant's project page."
 recognition:
   - award: "AAM MUSE Awards — Honorable Mention, Interpretive Interactive Installations"
     year: 2014
@@ -25,3 +28,4 @@ description: >
   Production by Brown Bag Creative.
 sources:
   - https://studiomatthews.com/project/bezos-center-for-innovation/
+  - https://www.stimulant.com/work/mohai-bezos-center-for-innovation

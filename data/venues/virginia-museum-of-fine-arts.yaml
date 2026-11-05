@@ -1,0 +1,8 @@
+id: virginia-museum-of-fine-arts
+name: Virginia Museum of Fine Arts
+venue_type: art-museum
+location:
+  city: Richmond
+  state: VA
+sources:
+  - https://theprdgroup.com/project/rhythm-of-art/

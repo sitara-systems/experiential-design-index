@@ -1,0 +1,9 @@
+id: rubenstein-arts-center
+name: Rubenstein Arts Center
+venue_type: cultural-center
+location:
+  city: Durham
+  state: NC
+operator: Duke University
+sources:
+  - https://rawnarch.com/projects/duke-rubenstein.html

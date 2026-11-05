@@ -1,0 +1,8 @@
+id: discovery-lab-tulsa
+name: Discovery Lab
+venue_type: science-center
+location:
+  city: Tulsa
+  state: OK
+sources:
+  - https://www.triviuminteractive.com/project/riders-ready-the-science-of-bmx/

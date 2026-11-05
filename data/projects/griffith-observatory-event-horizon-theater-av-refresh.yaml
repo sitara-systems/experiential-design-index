@@ -1,0 +1,26 @@
+id: griffith-observatory-event-horizon-theater-av-refresh
+name: Leonard Nimoy Event Horizon Theater AV Refresh
+venue: griffith-observatory
+project_type: installation
+year_completed: 2026
+credits:
+  - firm: solotech
+    role: av-integration
+    note: >
+      Designed and implemented the theater's AV refresh (systems integration,
+      audio systems and acoustics, AV consultation), built on a Q-SYS
+      platform with Renkus-Heinz ICONYX loudspeakers; selected by the Griffith
+      Foundation.
+technologies:
+  - immersive audio
+platforms:
+  - q-sys
+summary: >
+  Solotech designed and implemented an audio-visual refresh of the Leonard
+  Nimoy Event Horizon Theater at Griffith Observatory in Los Angeles,
+  California, listed by the firm as a 2026 project.
+description: ""
+sources:
+  - https://www.solotech.com/our-work/leonard-nimoy-event-horizon-theater/
+_comments:
+  - "Year 2026 is the project year listed in the firm's project facts; the page does not give an opening date. Consultant named on the page: Theater DNA (not credited here; role not stated)."

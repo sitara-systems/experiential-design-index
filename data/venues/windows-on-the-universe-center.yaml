@@ -1,0 +1,9 @@
+id: windows-on-the-universe-center
+name: Windows on the Universe Center for Astronomy Outreach
+venue_type: science-center
+location:
+  city: Tucson
+  state: AZ
+operator: NSF NOIRLab
+sources:
+  - https://www.triviuminteractive.com/project/aura-windows-center/

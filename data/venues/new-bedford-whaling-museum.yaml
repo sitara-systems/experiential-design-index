@@ -1,0 +1,8 @@
+id: new-bedford-whaling-museum
+name: New Bedford Whaling Museum
+venue_type: history-museum
+location:
+  city: New Bedford
+  state: MA
+sources:
+  - https://www.triviuminteractive.com/project/ecology-of-place/
