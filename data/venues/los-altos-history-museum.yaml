@@ -1,0 +1,9 @@
+id: los-altos-history-museum
+name: "Los Altos History Museum"
+venue_type: history-museum
+location:
+  city: "Los Altos"
+  state: CA
+website: https://www.losaltoshistory.org
+sources:
+  - https://lightswitch.net/work/view/los-altos-history-museum

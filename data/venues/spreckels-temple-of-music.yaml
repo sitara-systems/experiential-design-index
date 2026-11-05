@@ -1,0 +1,8 @@
+id: spreckels-temple-of-music
+name: "Spreckels Temple of Music"
+venue_type: cultural-center
+location:
+  city: "San Francisco"
+  state: CA
+sources:
+  - https://lightswitch.net/work/view/spreckels-temple-of-music

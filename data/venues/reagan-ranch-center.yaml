@@ -1,0 +1,8 @@
+id: reagan-ranch-center
+name: "Reagan Ranch Center"
+venue_type: history-museum
+location:
+  city: "Santa Barbara"
+  state: CA
+sources:
+  - https://lightswitch.net/work/view/berlin-wall-exhibit

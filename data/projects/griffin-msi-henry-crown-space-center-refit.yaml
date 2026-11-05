@@ -1,0 +1,26 @@
+id: griffin-msi-henry-crown-space-center-refit
+name: "Henry Crown Space Center Refit"
+venue: griffin-museum-of-science-and-industry
+project_type: exhibition-refresh
+year_completed: 2024
+credits:
+  - firm: lightswitch
+    role: lighting-design
+    note: "Replaced the ceiling structure with a new LED array and pixel-mapped lighting above the Apollo and Dragon displays, per the firm's portfolio page."
+  - firm: bridgewater-studios
+    role: exhibit-design
+    note: "No firm record yet; per Lightswitch's portfolio page, Bridgewater Studios designed and built the reimagined gallery."
+  - firm: bridgewater-studios
+    role: fabrication
+    note: "No firm record yet"
+technologies:
+  - LED lighting
+  - pixel-mapped lighting
+summary: >
+  The refit of the Henry Crown Space Center at the Griffin Museum of Science and
+  Industry in Chicago, Illinois, completed in 2024, reimagined the gallery with
+  new LED lighting by Lightswitch; the gallery was designed and built by
+  Bridgewater Studios.
+description: ""
+sources:
+  - https://lightswitch.net/work/view/gmsi-henry-crown-space-center

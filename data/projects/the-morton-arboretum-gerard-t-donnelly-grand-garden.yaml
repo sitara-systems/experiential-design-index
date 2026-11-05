@@ -1,0 +1,22 @@
+id: the-morton-arboretum-gerard-t-donnelly-grand-garden
+name: "Gerard T. Donnelly Grand Garden"
+venue: the-morton-arboretum
+project_type: installation
+year_completed: 2023
+credits:
+  - firm: hdla
+    role: landscape-architecture
+    note: "No firm record yet; per Lightswitch's portfolio page."
+  - firm: lightswitch
+    role: lighting-design
+    note: "Nighttime lighting using directional light, textural patterning and gobo projection."
+technologies:
+  - architectural lighting
+  - gobo projection
+summary: >
+  The Gerard T. Donnelly Grand Garden at The Morton Arboretum in Lisle,
+  Illinois, completed in 2023, features landscape architecture by HDLA and
+  nighttime lighting by Lightswitch.
+description: ""
+sources:
+  - https://lightswitch.net/work/view/gerard-t-donnelly-grand-garden

@@ -1,0 +1,22 @@
+id: manchester-united-theatre-of-dreams-beijing-core
+name: "Theatre of Dreams"
+venue: manchester-united-theatre-of-dreams-beijing
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: local-projects
+    role: exhibit-design
+  - firm: local-projects
+    role: media-design
+    note: "Media and software development and game design and development."
+technologies:
+  - interactive exhibits
+  - game design
+summary: >
+  Theatre of Dreams, a Manchester United experience center near Tiananmen Square
+  in Beijing, China, opened in May 2021 with an interactive museum, introductory
+  theater and gaming zones; exhibit and media design by Local Projects for
+  Harves Entertainment and Manchester United.
+description: ""
+sources:
+  - https://localprojects.com/work/corporate-experience/theatre-of-dreams/
