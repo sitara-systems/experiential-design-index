@@ -1,0 +1,9 @@
+id: museum-of-fine-arts-houston
+name: Museum of Fine Arts, Houston
+venue_type: art-museum
+location:
+  city: Houston
+  state: TX
+website: https://www.mfah.org
+sources:
+- https://www.fmsp.com/projects/houston-museum-of-fine-arts-audrey-jones-beck-building/

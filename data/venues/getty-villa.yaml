@@ -1,0 +1,10 @@
+id: getty-villa
+name: Getty Villa
+venue_type: art-museum
+location:
+  city: Pacific Palisades
+  state: CA
+operator: J. Paul Getty Trust
+website: https://www.getty.edu/visit/villa/
+sources:
+- https://fisherpartners.net/project/j-paul-getty-museum-villa-renovation/

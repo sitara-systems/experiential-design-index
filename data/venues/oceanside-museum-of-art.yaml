@@ -1,0 +1,9 @@
+id: oceanside-museum-of-art
+name: Oceanside Museum of Art
+venue_type: art-museum
+location:
+  city: Oceanside
+  state: CA
+website: https://www.oma-online.org
+sources:
+- https://fisherpartners.net/project/oceanside-museum-of-art/

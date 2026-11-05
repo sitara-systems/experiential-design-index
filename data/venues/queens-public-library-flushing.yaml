@@ -1,0 +1,9 @@
+id: queens-public-library-flushing
+name: Queens Public Library, Flushing Regional Branch
+venue_type: library-archive
+location:
+  city: Queens
+  state: NY
+operator: Queens Public Library
+sources:
+- https://ennead.com/work/queens-borough-library/

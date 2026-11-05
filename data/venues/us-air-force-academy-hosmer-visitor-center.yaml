@@ -1,0 +1,10 @@
+id: us-air-force-academy-hosmer-visitor-center
+name: Hosmer Visitor Center, U.S. Air Force Academy
+venue_type: visitor-center
+location:
+  city: Colorado Springs
+  state: CO
+operator: U.S. Air Force Academy
+website: https://www.usafa.edu
+sources:
+- https://www.dvidshub.net/news/565519/hosmer-visitor-center-grand-opening-showcases-cadet-experiences

@@ -1,0 +1,9 @@
+id: cafa-museum-of-contemporary-art
+name: CAFA Museum of Contemporary Art (CAFA MoCA)
+venue_type: art-museum
+location:
+  city: Beijing
+  country: CN
+operator: Central Academy of Fine Arts
+sources:
+- https://www.fmsp.com/projects/central-academy-of-fine-arts-museum-of-contemporary-art-cafa/

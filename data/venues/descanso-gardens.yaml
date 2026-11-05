@@ -1,0 +1,9 @@
+id: descanso-gardens
+name: Descanso Gardens
+venue_type: botanical-garden
+location:
+  city: La Cañada Flintridge
+  state: CA
+website: https://www.descansogardens.org
+sources:
+- https://fisherpartners.net/project/descanso-gardens-sturt-haaga-gallery/

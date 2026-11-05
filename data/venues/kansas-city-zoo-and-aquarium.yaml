@@ -1,0 +1,9 @@
+id: kansas-city-zoo-and-aquarium
+name: Kansas City Zoo & Aquarium
+venue_type: aquarium-zoo
+location:
+  city: Kansas City
+  state: MO
+website: https://www.kansascityzoo.org
+sources:
+- https://www.kcur.org/news/2023-09-01/kansas-city-zoos-new-aquarium-is-opening-meet-the-aquatic-friends-who-just-moved-in

@@ -1,0 +1,9 @@
+id: maui-arts-and-cultural-center
+name: Maui Arts & Cultural Center
+venue_type: cultural-center
+location:
+  city: Kahului
+  state: HI
+website: https://www.mauiarts.org
+sources:
+- https://www.fmsp.com/projects/maui-arts-and-cultural-center-yokouchi-pavilion-courtyard-mo/

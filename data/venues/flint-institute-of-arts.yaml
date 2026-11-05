@@ -1,0 +1,9 @@
+id: flint-institute-of-arts
+name: Flint Institute of Arts
+venue_type: art-museum
+location:
+  city: Flint
+  state: MI
+website: https://www.flintarts.org
+sources:
+- https://fisherpartners.net/project/flint-institute-of-arts/

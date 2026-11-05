@@ -1,0 +1,9 @@
+id: long-beach-museum-of-art
+name: Long Beach Museum of Art
+venue_type: art-museum
+location:
+  city: Long Beach
+  state: CA
+website: https://www.lbma.org
+sources:
+- https://fisherpartners.net/project/long-beach-museum-of-art/
