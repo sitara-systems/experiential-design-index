@@ -1,0 +1,9 @@
+id: brooklyn-museum
+name: Brooklyn Museum
+venue_type: art-museum
+location:
+  city: Brooklyn
+  state: NY
+website: https://www.brooklynmuseum.org
+sources:
+- https://brooklynmuseum.org/press/brooklyn-museum-presents-monet-venice
