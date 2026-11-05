@@ -1,0 +1,8 @@
+id: el-museo-del-barrio
+name: El Museo del Barrio
+venue_type: cultural-center
+location:
+  city: New York
+  state: NY
+sources:
+- https://www.e-flux.com/announcements/37608/reopens-saturday-october-17-2009

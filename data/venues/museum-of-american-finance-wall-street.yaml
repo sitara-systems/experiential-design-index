@@ -1,0 +1,9 @@
+id: museum-of-american-finance-wall-street
+name: Museum of American Finance (48 Wall Street)
+venue_type: history-museum
+location:
+  city: New York
+  state: NY
+operator: Museum of American Finance
+sources:
+- https://www.moaf.org/news/press_releases/2008-01-09-museum-of-american-finance-opens-on-wall-street

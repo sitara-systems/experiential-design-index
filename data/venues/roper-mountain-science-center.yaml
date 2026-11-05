@@ -1,0 +1,9 @@
+id: roper-mountain-science-center
+name: Roper Mountain Science Center
+venue_type: science-center
+location:
+  city: Greenville
+  state: SC
+operator: Greenville County Schools
+sources:
+- https://www.greenvillewater.com/news/roper-mountain-science-center-unveils-water-story-exhibit-in-new-environmental-science-and-sustainability-center

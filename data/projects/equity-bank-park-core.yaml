@@ -1,0 +1,23 @@
+id: equity-bank-park-core
+name: Equity Bank Park (Riverfront Stadium)
+venue: equity-bank-park
+project_type: new-building
+year_completed: 2021
+credits:
+- firm: dlr-group
+  role: architecture
+  note: Design-build architecture of the ballpark, with SJCF Architects, per DLR
+    Group's project page.
+- firm: dlr-group
+  role: graphics-wayfinding
+  note: Designed graphics and wayfinding throughout the stadium.
+- firm: sjcf-architects
+  role: architecture
+  note: Named as collaborator on DLR Group's project page. No firm record yet.
+summary: Equity Bank Park, originally Riverfront Stadium, a minor-league ballpark
+  for the Wichita Wind Surge in Wichita, Kansas, opened in 2021 (first home game
+  May 11, 2021); DLR Group provided design-build architecture and graphics and wayfinding.
+sources:
+- https://www.dlrgroup.com/work/equity-bank-park/
+- https://en.wikipedia.org/wiki/Equity_Bank_Park
+- https://www.milb.com/news/riverfront-stadium-to-be-renamed-equity-bank-park

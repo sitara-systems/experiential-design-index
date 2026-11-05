@@ -11,6 +11,9 @@ credits:
     role: exhibit-design
   - firm: hadley-exhibits
     role: fabrication
+  - firm: boston-productions-inc
+    role: media-design
+    note: Designed and produced two immersive theaters and ten tactile interactives, working with Hadley Exhibits and PGAV Destinations, per BPI portfolio.
 technologies:
   - immersive object theater
   - projection
@@ -26,3 +29,4 @@ sources:
   - https://hhlarchitects.com/portfolio/niagara-falls-state-park-cave-of-the-winds-experience/
   - https://pgavdestinations.com/news/cotw/
   - https://hadleyexhibits.com/Cave-of-the-Winds
+  - https://bostonproductions.com/portfolio/cotw/

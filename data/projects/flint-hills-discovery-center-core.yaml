@@ -11,6 +11,9 @@ credits:
     role: exhibit-design
   - firm: split-rock-studios
     role: fabrication
+  - firm: boston-productions-inc
+    role: media-design
+    note: Created multimedia exhibits in collaboration with Hilferty & Associates, per BPI portfolio.
 technologies:
   - 4D immersive theater
 summary: >
@@ -23,3 +26,4 @@ description: ""
 sources:
   - https://www.flinthillsdiscovery.org/3452/History
   - https://dlproductions.com/projects/flint-hills-discover-center/
+  - https://bostonproductions.com/portfolio/flint-hills-discovery-center/

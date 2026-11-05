@@ -1,0 +1,9 @@
+id: asia-society-texas-center
+name: Asia Society Texas Center
+venue_type: cultural-center
+location:
+  city: Houston
+  state: TX
+operator: Asia Society Texas
+sources:
+- https://asiasociety.org/node/35765

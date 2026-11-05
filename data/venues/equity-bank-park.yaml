@@ -1,0 +1,9 @@
+id: equity-bank-park
+name: Equity Bank Park
+venue_type: sports-venue
+location:
+  city: Wichita
+  state: KS
+operator: City of Wichita
+sources:
+- https://en.wikipedia.org/wiki/Equity_Bank_Park

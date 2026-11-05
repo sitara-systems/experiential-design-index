@@ -1,0 +1,8 @@
+id: utahs-hogle-zoo
+name: Utah's Hogle Zoo
+venue_type: aquarium-zoo
+location:
+  city: Salt Lake City
+  state: UT
+sources:
+- https://en.wikipedia.org/wiki/Utah%27s_Hogle_Zoo

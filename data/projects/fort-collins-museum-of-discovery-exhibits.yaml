@@ -8,6 +8,9 @@ credits:
   role: exhibit-design
 - firm: gyroscope-inc
   role: master-planning
+- firm: art-guild-inc
+  role: fabrication
+  note: Listed in Art Guild's museum portfolio; the project page does not itemize scope. Fabrication role per the firm's practice.
 summary: >
   The Fort Collins Museum of Discovery in Fort Collins, Colorado, a joint history
   and science museum that opened in November 2012, features 16,000 square feet
@@ -16,3 +19,4 @@ summary: >
 sources:
 - https://www.gyroscopeinc.com/ftc
 - https://en.wikipedia.org/wiki/Fort_Collins_Museum_of_Discovery
+- https://www.artguildinc.com/project/fort-collins-museum-of-discovery/

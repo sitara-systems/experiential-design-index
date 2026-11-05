@@ -1,0 +1,9 @@
+id: dallas-zoo
+name: Dallas Zoo
+venue_type: aquarium-zoo
+location:
+  city: Dallas
+  state: TX
+operator: City of Dallas
+sources:
+- https://clrdesign.com/project/dallas-zoo-giants-of-the-savanna/
