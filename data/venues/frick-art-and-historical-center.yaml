@@ -1,0 +1,8 @@
+id: frick-art-and-historical-center
+name: Frick Art & Historical Center
+venue_type: cultural-center
+location:
+  city: Pittsburgh
+  state: PA
+sources:
+- https://bwco.info/work/the-frick/

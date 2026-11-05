@@ -3,6 +3,7 @@
 
 id: curious-beast
 name: Curious Beast
+website: https://www.curiousbeast.org
 aka: []
 hq:
   city: Seattle
@@ -20,3 +21,4 @@ summary: >
 sources:
   - https://segd.org/projects/living-computers-museum-labs/
   - https://www.curiousbeast.org/
+  - https://www.curiousbeast.org/projects

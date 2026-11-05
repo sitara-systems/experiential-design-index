@@ -3,6 +3,7 @@
 
 id: boston-productions-inc
 name: Boston Productions Inc.
+website: https://bostonproductions.com
 aka:
   - BPI Exhibit Media
 hq:
@@ -24,3 +25,4 @@ summary: >
   centers.
 sources:
   - https://bostonproductions.com/
+  - https://bostonproductions.com/our-work/
