@@ -11,6 +11,9 @@ credits:
       and the Creative Kids museum, using a museum-grade LED track lighting
       system that contributed to the building's LEED Gold certification and
       a 65% reduction in annual energy use versus conventional designs.
+  - firm: art-guild-inc
+    role: fabrication
+    note: Listed in Art Guild's museum portfolio; the project page does not itemize scope. Fabrication role per the firm's practice.
 technologies:
   - museum-grade LED track lighting
 summary: >
@@ -21,3 +24,4 @@ summary: >
 description: ""
 sources:
   - https://www.eoslightmedia.com/work/108
+  - https://www.artguildinc.com/project/telus-spark-science-center/

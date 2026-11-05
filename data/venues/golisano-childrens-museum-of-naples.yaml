@@ -1,0 +1,9 @@
+id: golisano-childrens-museum-of-naples
+name: Golisano Children's Museum of Naples
+venue_type: childrens-museum
+location:
+  city: Naples
+  state: FL
+operator: Golisano Children's Museum of Naples
+sources:
+- https://www.cmon.org/history/
