@@ -3,6 +3,7 @@
 
 id: a-zahner-company
 name: A. Zahner Company
+website: https://azahner.com
 aka:
   - Zahner
 hq:
@@ -21,3 +22,4 @@ summary: >
   known for custom architectural facade and sculptural panel systems.
 sources:
   - http://www.azahner.com/projects/pacific-plaza-park-pavilion/
+  - https://azahner.com/projects/
