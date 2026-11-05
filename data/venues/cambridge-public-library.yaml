@@ -1,0 +1,9 @@
+id: cambridge-public-library
+name: Cambridge Public Library
+venue_type: library-archive
+location:
+  city: Cambridge
+  state: MA
+operator: City of Cambridge
+sources:
+  - https://rawnarch.com/projects/cambridge-library.html

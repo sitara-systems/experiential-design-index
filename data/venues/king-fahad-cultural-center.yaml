@@ -1,0 +1,9 @@
+id: king-fahad-cultural-center
+name: King Fahad Cultural Center
+venue_type: cultural-center
+location:
+  city: Riyadh
+  country: SA
+operator: Ministry of Culture
+sources:
+  - https://why-site.com/work/king-fahad-cultural-center/

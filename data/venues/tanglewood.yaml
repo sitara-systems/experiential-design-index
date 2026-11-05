@@ -1,0 +1,9 @@
+id: tanglewood
+name: Tanglewood
+venue_type: cultural-center
+location:
+  city: Lenox
+  state: MA
+operator: Boston Symphony Orchestra
+sources:
+  - https://rawnarch.com/projects/tanglewood-linde.html

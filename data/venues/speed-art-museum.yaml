@@ -1,0 +1,9 @@
+id: speed-art-museum
+name: Speed Art Museum
+venue_type: art-museum
+location:
+  city: Louisville
+  state: KY
+website: https://speedmuseum.org
+sources:
+  - https://why-site.com/work/speed-art-museum/

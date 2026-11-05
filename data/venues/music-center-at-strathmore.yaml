@@ -1,0 +1,9 @@
+id: music-center-at-strathmore
+name: The Music Center at Strathmore
+venue_type: cultural-center
+location:
+  city: North Bethesda
+  state: MD
+operator: Montgomery County
+sources:
+  - https://rawnarch.com/projects/strathmore-music-center.html

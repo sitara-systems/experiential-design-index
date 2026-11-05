@@ -1,0 +1,9 @@
+id: mattapan-branch-library
+name: Mattapan Branch Library
+venue_type: library-archive
+location:
+  city: Boston
+  state: MA
+operator: Boston Public Library
+sources:
+  - https://rawnarch.com/projects/bpl-mattapan.html
