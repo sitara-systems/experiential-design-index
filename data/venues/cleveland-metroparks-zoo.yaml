@@ -1,0 +1,9 @@
+id: cleveland-metroparks-zoo
+name: Cleveland Metroparks Zoo
+venue_type: aquarium-zoo
+location:
+  city: Cleveland
+  state: OH
+operator: Cleveland Metroparks
+sources:
+- https://www.clevelandzoosociety.org/pressroom/2012/09/19/cleveland-metroparks-zoos-elephant-exhibit-honored-at-zoo-conference

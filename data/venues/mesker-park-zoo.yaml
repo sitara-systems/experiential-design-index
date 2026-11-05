@@ -1,0 +1,8 @@
+id: mesker-park-zoo
+name: Mesker Park Zoo and Botanic Garden
+venue_type: aquarium-zoo
+location:
+  city: Evansville
+  state: IN
+sources:
+- https://en.wikipedia.org/wiki/Mesker_Park_Zoo_and_Botanic_Garden

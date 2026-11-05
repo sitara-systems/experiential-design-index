@@ -1,0 +1,8 @@
+id: john-ball-zoo
+name: John Ball Zoo
+venue_type: aquarium-zoo
+location:
+  city: Grand Rapids
+  state: MI
+sources:
+- https://therapidian.org/john-ball-zoo-unveils-new-tiger-exhibit
