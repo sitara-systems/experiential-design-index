@@ -1,0 +1,10 @@
+id: us-space-and-rocket-center
+name: U.S. Space & Rocket Center
+venue_type: science-center
+location:
+  city: Huntsville
+  state: AL
+  country: US
+sources:
+- >-
+  https://blooloop.com/how-we-know-the-weather-the-systems-behind-the-forecast-become-the-experience/

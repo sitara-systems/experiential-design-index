@@ -1,0 +1,11 @@
+id: historic-st-marys-city-visitor-center
+name: Historic St. Mary's City Visitor Center
+venue_type: visitor-center
+location:
+  city: St. Mary's City
+  state: MD
+  country: US
+operator: Historic St. Mary's City
+sources:
+- >-
+  https://southernmarylandchronicle.com/2026/10/15/historic-st-marys-city-new-visitor-center-opens-nov-14/

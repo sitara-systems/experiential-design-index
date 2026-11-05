@@ -1,0 +1,28 @@
+id: historic-st-marys-city-visitor-center-exhibits
+name: Historic St. Mary's City Visitor Center Exhibits
+venue: historic-st-marys-city-visitor-center
+project_type: new-exhibition
+status: announced
+year_expected: 2026
+credits:
+- firm: howard-plus-revis-design
+  role: exhibit-design
+- firm: cortina-productions
+  role: media-design
+  note: Media installations.
+- firm: explus
+  role: fabrication
+summary: >-
+  The new Historic St. Mary's City Visitor Center in St. Mary's City, Maryland, is
+  scheduled to open to the public on November 14, 2026, with exhibits designed by
+  Howard + Revis, media installations by Cortina Productions, and fabrication by Explus.
+sources:
+- >-
+  https://southernmarylandchronicle.com/2026/10/15/historic-st-marys-city-new-visitor-center-opens-nov-14/
+- >-
+  https://thebaynet.com/historic-st-marys-city-unveils-new-visitor-center-with-free-admission-opening-day/
+_comments: >-
+  Announced as of 2026-11-04 (opening Nov 14, 2026; formal grand opening spring 2027)
+  - flip status to completed and drop year_expected after opening is confirmed. Architect
+  not named in the source read. project_type new-building assumed from 'new visitor
+  center'; verify.
