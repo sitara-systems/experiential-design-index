@@ -1,0 +1,9 @@
+id: fairmount-water-works
+name: Fairmount Water Works Interpretive Center
+venue_type: science-center
+location:
+  city: Philadelphia
+  state: PA
+operator: Philadelphia Water Department
+sources:
+- https://www.waterworld.com/drinking-water/potable-water-quality/article/16206920/philadelphia-water-department-opens-new-fairmount-water-works-interpretive-center

@@ -1,0 +1,9 @@
+id: hagley-museum-and-library
+name: Hagley Museum and Library
+venue_type: history-museum
+location:
+  city: Wilmington
+  state: DE
+operator: Hagley Museum and Library
+sources:
+- https://hagley.org/node/2777

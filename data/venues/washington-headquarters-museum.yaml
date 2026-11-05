@@ -1,0 +1,9 @@
+id: washington-headquarters-museum
+name: Washington's Headquarters Museum
+venue_type: history-museum
+location:
+  city: Morristown
+  state: NJ
+operator: National Park Service (Morristown National Historical Park)
+sources:
+- https://www.nps.gov/morr/learn/news/discover-history-center-grand-opening.htm
