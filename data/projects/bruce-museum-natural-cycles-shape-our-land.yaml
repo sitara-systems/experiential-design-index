@@ -1,0 +1,25 @@
+id: bruce-museum-natural-cycles-shape-our-land
+name: "Natural Cycles Shape Our Land (Science Gallery)"
+venue: bruce-museum
+project_type: new-exhibition
+year_completed: 2021
+credits:
+  - firm: metcalfe-architecture-and-design
+    role: exhibit-design
+    note: "Reimagined the permanent natural history gallery as part of the museum expansion, per the firm page."
+  - firm: night-kitchen-interactive
+    role: media-design
+    note: "No firm record yet; digital experiences, per Metcalfe page."
+  - firm: universal-services-associates
+    role: fabrication
+    note: "No firm record yet; fabrication and installation, per Metcalfe page."
+technologies:
+  - dioramas
+  - digital interactives
+summary: >
+  The Science Gallery exhibit "Natural Cycles Shape Our Land" at the Bruce
+  Museum in Greenwich, Connecticut, opened in 2021 as part of the museum
+  expansion, with exhibit design by Metcalfe Architecture & Design.
+description: ""
+sources:
+  - https://metarchdesign.com/work/science-gallery-exhibit-design

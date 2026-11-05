@@ -20,6 +20,9 @@ credits:
     role: fabrication
   - firm: solomon-group
     role: av-integration
+  - firm: romeantics
+    role: media-design
+    note: "Multimedia design, per the firm's portfolio page."
 technologies:
   - interactive media
 summary: >
@@ -30,3 +33,4 @@ summary: >
 description: ""
 sources:
   - https://gallagherdesign.com/project/sazerac/
+  - https://romeantics.com/project/sazerac-house/

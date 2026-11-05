@@ -1,0 +1,17 @@
+id: stanley-museum-of-art-lighting
+name: "Stanley Museum of Art"
+venue: stanley-museum-of-art
+project_type: new-building
+_comments: "project_type is a provisional proxy; the firm list states only venue and year. Verify scope against an institutional source."
+year_completed: 2022
+credits:
+  - firm: renfro-design-group
+    role: lighting-design
+    note: "Lighting design, per the firm's project list, which gives the project year; scope detail not stated."
+technologies: []
+summary: >
+  Renfro Design Group provided lighting design for Stanley Museum of Art in Iowa
+  City, IA, listed with a 2022 completion year on the firm's project list.
+description: ""
+sources:
+  - https://www.renfrodesign.com/projects

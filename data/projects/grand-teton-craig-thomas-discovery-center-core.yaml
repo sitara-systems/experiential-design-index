@@ -11,6 +11,9 @@ credits:
     note: "No firm record yet"
   - firm: technical-artistry
     role: lighting-design
+  - firm: renfro-design-group
+    role: lighting-design
+    note: "Lighting design, per the firm's project list (renfrodesign.com/projects), which gives the project year."
 technologies: []
 summary: >
   The Craig Thomas Discovery and Visitor Center at Grand Teton National
@@ -20,3 +23,4 @@ description: ""
 sources:
   - https://www.architecturalrecord.com/
   - https://www.archdaily.com/
+  - https://www.renfrodesign.com/projects

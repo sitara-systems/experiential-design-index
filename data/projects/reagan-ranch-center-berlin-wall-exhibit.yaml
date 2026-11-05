@@ -1,14 +1,21 @@
 id: reagan-ranch-center-berlin-wall-exhibit
-name: Berlin Wall Exhibit
+name: "Berlin Wall Exhibit"
 venue: reagan-ranch-center
-project_type: new-exhibition
+project_type: installation
 year_completed: 2021
 credits:
-- firm: lightswitch
-  role: lighting-design
+  - firm: stimulant
+    role: media-design
+    note: "Created the exhibit, per Lightswitch's portfolio page."
+  - firm: lightswitch
+    role: lighting-design
+    note: "Fixture selection, pixel-controllable LED tape behind the wall and lighting programmed to the exhibit video and audio cues."
+technologies:
+  - LED lighting
+  - synchronized lighting
 summary: >
-  The Berlin Wall exhibit at the Reagan Ranch Center in Santa Barbara, California,
-  completed in 2021, combines a 5,000-pound section of the Berlin Wall with a
-  brass bust of Ronald Reagan, with lighting design by Lightswitch.
+  The Berlin Wall Exhibit at the Reagan Ranch Center in Santa Barbara,
+  California, completed in 2021, was created by Stimulant with lighting design
+  by Lightswitch.
 sources:
-- https://lightswitch.net/work/view/berlin-wall-exhibit
+  - https://lightswitch.net/work/view/berlin-wall-exhibit

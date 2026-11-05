@@ -1,0 +1,8 @@
+id: shelby-farms-visitor-center
+name: "Shelby Farms Visitor Center"
+venue_type: visitor-center
+location:
+  city: "Memphis"
+  state: TN
+sources:
+  - https://www.renfrodesign.com/projects

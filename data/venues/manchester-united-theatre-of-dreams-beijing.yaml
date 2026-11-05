@@ -1,0 +1,10 @@
+id: manchester-united-theatre-of-dreams-beijing
+name: "Theatre of Dreams (Manchester United Experience Center), Beijing"
+venue_type: brand-experience-center
+location:
+  city: "Beijing"
+  state: None
+  country: CN
+operator: "Harves Entertainment"
+sources:
+  - https://localprojects.com/work/corporate-experience/theatre-of-dreams/

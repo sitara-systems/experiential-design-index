@@ -1,14 +1,18 @@
 id: spreckels-temple-of-music-lighting
-name: Spreckels Temple of Music Lighting
+name: "Spreckels Temple of Music Lighting"
 venue: spreckels-temple-of-music
 project_type: installation
 year_completed: 2021
 credits:
-- firm: lightswitch
-  role: lighting-design
+  - firm: lightswitch
+    role: lighting-design
+    note: "Band shell lighting design with a custom control system for park staff; brought in by Illuminate, per the firm page."
+technologies:
+  - architectural lighting
+  - lighting control
 summary: >
-  The lighting of the 1900 Spreckels Temple of Music in Golden Gate Park, San
-  Francisco, California, completed in 2021 for the Illuminate organization, was
-  designed by Lightswitch with colored light highlighting the sandstone architecture.
+  Lightswitch designed the band shell lighting for the Spreckels Temple of Music
+  in Golden Gate Park, San Francisco, California, in 2021, with a control system
+  operable by park personnel.
 sources:
-- https://lightswitch.net/work/view/spreckels-temple-of-music
+  - https://lightswitch.net/work/view/spreckels-temple-of-music

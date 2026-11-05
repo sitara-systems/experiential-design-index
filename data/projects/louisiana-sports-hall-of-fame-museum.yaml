@@ -9,6 +9,9 @@ credits:
   - firm: trahan-architects
     role: architecture
     note: "no firm record yet"
+  - firm: renfro-design-group
+    role: lighting-design
+    note: "Lighting design, per the firm's project list (renfrodesign.com/projects), which gives the project year."
 technologies:
   - interactive digital displays
 summary: >
@@ -21,3 +24,4 @@ description: >
   history content.
 sources:
   - https://www.thincdesign.com/project/louisiana-sports-hall-of-fame
+  - https://www.renfrodesign.com/projects

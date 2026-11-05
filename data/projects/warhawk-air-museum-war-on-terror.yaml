@@ -1,0 +1,21 @@
+id: warhawk-air-museum-war-on-terror
+name: "War on Terror"
+venue: warhawk-air-museum
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: luci-creative
+    role: exhibit-design
+    note: "Designer, per Ravenswood Studio's portfolio page."
+  - firm: ravenswood-studio
+    role: fabrication
+    note: "Fabrication, project management, scenic art, casework and installation, per the firm page."
+technologies:
+  - scenic fabrication
+summary: >
+  The War on Terror exhibit, an expansion in a former hangar at the Warhawk Air
+  Museum in Nampa, Idaho, was unveiled after the 24th anniversary of September
+  11 (2025); designed by Luci Creative and fabricated by Ravenswood Studio.
+description: ""
+sources:
+  - https://ravenswoodstudio.com/project/war-on-terror/

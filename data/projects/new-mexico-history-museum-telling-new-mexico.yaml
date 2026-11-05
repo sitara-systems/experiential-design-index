@@ -14,6 +14,9 @@ credits:
     note: "No firm record yet"
   - firm: explus
     role: fabrication
+  - firm: romeantics
+    role: technical-consulting
+    note: "Listed as multimedia consultant on the firm's portfolio page; project year not stated there."
 technologies:
   - interactives
   - touch installations
@@ -28,3 +31,4 @@ sources:
   - https://media.newmexicoculture.org/press_releases.php/74/the-art-of-the-exhib?action=detail&releaseID=74&the-art-of-the-exhib=
   - https://www.nca-architects.com/portfolio/new-mexico-history-museum/
   - https://2s-archive.rzrfs.com/work/new-mexico-history-museum
+  - https://romeantics.com/project/new-mexico-history-museum/

@@ -1,0 +1,17 @@
+id: computer-history-museum-learning-lab
+name: "Learning Lab"
+venue: computer-history-museum
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: lightswitch
+    role: lighting-design
+    note: "Lighting for the lobby, lecture hall, artifact cubbies and exhibit, per the firm's portfolio page."
+technologies:
+  - architectural lighting
+summary: >
+  The Learning Lab at the Computer History Museum in Mountain View, California,
+  completed in 2019, with lighting design by Lightswitch.
+description: ""
+sources:
+  - https://lightswitch.net/work/view/chm-learning-lab

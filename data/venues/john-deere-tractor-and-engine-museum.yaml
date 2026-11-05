@@ -1,0 +1,11 @@
+id: john-deere-tractor-and-engine-museum
+name: "John Deere Tractor & Engine Museum"
+venue_type: corporate-museum
+location:
+  city: "Waterloo"
+  state: IA
+operator: "John Deere"
+website: https://www.deere.com
+sources:
+  - https://www.lucicreative.com/projects/john-deere
+  - https://www.oemoffhighway.com/engines/press-release/12022279/john-deere-opens-tractor-and-engine-museum-in-waterloo-ia

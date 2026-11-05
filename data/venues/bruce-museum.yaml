@@ -1,0 +1,9 @@
+id: bruce-museum
+name: "Bruce Museum"
+venue_type: other
+location:
+  city: "Greenwich"
+  state: CT
+website: https://brucemuseum.org
+sources:
+  - https://metarchdesign.com/work/science-gallery-exhibit-design

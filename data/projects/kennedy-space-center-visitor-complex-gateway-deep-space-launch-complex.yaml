@@ -6,6 +6,9 @@ year_completed: 2022
 credits:
   - firm: blue-telescope
     role: exhibit-design
+  - firm: lightswitch
+    role: lighting-design
+    note: "Lighting design for the artifact room and entry portals to the media theaters, per the firm's portfolio page."
 technologies:
   - interactive-installation
 summary: >
@@ -17,3 +20,4 @@ description: ""
 sources:
   - https://blooloop.com/museum/news/blue-telescope-kennedy-space-center/
   - https://www.prnewswire.com/news-releases/gateway-the-deep-space-launch-complex-lands-at-kennedy-space-center-visitor-complex-301569904.html
+  - https://lightswitch.net/work/view/gateway-the-deep-space-launch-complex
