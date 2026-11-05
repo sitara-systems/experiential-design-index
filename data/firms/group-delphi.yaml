@@ -28,7 +28,12 @@ status_basis: >
   before treating this as fully final, but public evidence clears the
   inactive bar. Operated 1989-2009 as Delphi Productions before merging
   with Icon Exhibits.
-status_verified: 2026-07-19
+  Re-checked 2026-11-04: museums.groupdelphi.com still returns NXDOMAIN and
+  groupdelphi.com still 301-redirects to an unrelated third-party site
+  (redian.id); no revival, successor, or new project found. The CA Secretary
+  of State entity check recommended above remains outstanding. Status
+  unchanged.
+status_verified: 2026-11-04
 summary: >
   Group Delphi (Delphi Productions until 2009) was a museum exhibit
   fabrication, AV integration, and media-production company based in

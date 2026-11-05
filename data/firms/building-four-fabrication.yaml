@@ -16,7 +16,10 @@ status_basis: >
   public activity found is an Instagram post dated May 31, 2021, and a
   credited project (Maymont Robins Nature Center Digital Experiences, 2020).
   No confirmation the firm has closed.
-status_verified: 2026-07-18
+  Re-checked 2026-11-04: buildingfour.com resolves in DNS but refuses
+  connections (ECONNREFUSED); only third-party directory listings (Dexigner,
+  Museums USA) surface; no dated activity after 2021 found. Status unchanged.
+status_verified: 2026-11-04
 summary: >
   Building Four Fabrication is a Chamblee, Georgia-based exhibit and custom
   art fabrication firm founded in 2014, producing museum exhibit fabrication,
