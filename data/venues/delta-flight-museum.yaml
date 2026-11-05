@@ -1,0 +1,9 @@
+id: delta-flight-museum
+name: Delta Flight Museum
+venue_type: corporate-museum
+location:
+  city: Atlanta
+  state: GA
+operator: Delta Air Lines
+sources:
+- https://en.wikipedia.org/wiki/Delta_Flight_Museum
