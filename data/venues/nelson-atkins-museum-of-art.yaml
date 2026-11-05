@@ -1,0 +1,8 @@
+id: nelson-atkins-museum-of-art
+name: "Nelson-Atkins Museum of Art"
+venue_type: art-museum
+location:
+  city: "Kansas City"
+  state: MO
+sources:
+  - https://www.renfrodesign.com/projects

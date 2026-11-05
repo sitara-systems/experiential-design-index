@@ -1,0 +1,18 @@
+id: nelson-atkins-museum-of-art-lighting
+name: "Nelson-Atkins Museum of Art (Bloch Building)"
+venue: nelson-atkins-museum-of-art
+project_type: new-building
+_comments: "project_type is a provisional proxy; the firm list states only venue and year. Verify scope against an institutional source."
+year_completed: 2007
+credits:
+  - firm: renfro-design-group
+    role: lighting-design
+    note: "Lighting design, per the firm's project list, which gives the project year; scope detail not stated."
+technologies: []
+summary: >
+  Renfro Design Group provided lighting design for Nelson-Atkins Museum of Art
+  (Bloch Building) in Kansas City, MO, listed with a 2007 completion year on the
+  firm's project list.
+description: ""
+sources:
+  - https://www.renfrodesign.com/projects

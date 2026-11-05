@@ -1,0 +1,17 @@
+id: shelby-farms-visitor-center-lighting
+name: "Shelby Farms Visitor Center"
+venue: shelby-farms-visitor-center
+project_type: new-building
+_comments: "project_type is a provisional proxy; the firm list states only venue and year. Verify scope against an institutional source."
+year_completed: 2016
+credits:
+  - firm: renfro-design-group
+    role: lighting-design
+    note: "Lighting design, per the firm's project list, which gives the project year; scope detail not stated."
+technologies: []
+summary: >
+  Renfro Design Group provided lighting design for Shelby Farms Visitor Center
+  in Memphis, TN, listed with a 2016 completion year on the firm's project list.
+description: ""
+sources:
+  - https://www.renfrodesign.com/projects

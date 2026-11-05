@@ -3,6 +3,7 @@
 
 id: olin
 name: OLIN
+website: https://theolinstudio.com
 aka: []
 hq:
   city: Philadelphia
@@ -19,3 +20,4 @@ summary: >
   firm.
 sources:
   - https://theolinstudio.com/dilworth-park/
+  - https://theolinstudio.com/full-project-list/

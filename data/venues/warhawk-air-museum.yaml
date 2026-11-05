@@ -1,0 +1,8 @@
+id: warhawk-air-museum
+name: "Warhawk Air Museum"
+venue_type: history-museum
+location:
+  city: "Nampa"
+  state: ID
+sources:
+  - https://ravenswoodstudio.com/project/war-on-terror/

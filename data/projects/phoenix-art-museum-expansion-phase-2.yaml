@@ -6,6 +6,9 @@ year_completed: 2006
 credits:
   - firm: tod-williams-billie-tsien-architects
     role: architecture
+  - firm: renfro-design-group
+    role: lighting-design
+    note: "Lighting design, per the firm's project list (renfrodesign.com/projects), which gives the project year."
 technologies: []
 summary: >
   Phase 2 of an expansion of the Phoenix Art Museum, adding the Katz
@@ -16,3 +19,4 @@ description: ""
 sources:
   - https://en.wikipedia.org/wiki/Phoenix_Art_Museum
   - https://www.architectmagazine.com/
+  - https://www.renfrodesign.com/projects

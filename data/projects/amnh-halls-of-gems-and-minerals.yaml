@@ -11,6 +11,9 @@ credits:
     note: "Casework; no firm record yet"
   - firm: kubik-maltbie
     role: fabrication
+  - firm: renfro-design-group
+    role: lighting-design
+    note: "Lighting design, per the firm's project list (renfrodesign.com/projects), which gives the project year."
 technologies: []
 summary: >
   The Allison and Roberto Mignone Halls of Gems and Minerals at the
@@ -22,3 +25,4 @@ sources:
   - https://en.wikipedia.org/wiki/American_Museum_of_Natural_History
   - https://www.forbes.com/
   - https://www.designboom.com/
+  - https://www.renfrodesign.com/projects

@@ -1,0 +1,19 @@
+id: john-deere-tractor-and-engine-museum-core
+name: "John Deere Tractor & Engine Museum"
+venue: john-deere-tractor-and-engine-museum
+project_type: new-building
+year_completed: 2014
+credits:
+  - firm: luci-creative
+    role: exhibit-design
+    note: "Created the exhibit experience including foundations, interactives and narrative, per the firm page; collaborators named there are Ravenswood Studio and Boston Productions."
+technologies:
+  - interactive exhibits
+summary: >
+  The John Deere Tractor & Engine Museum, in a historic factory in Waterloo,
+  Iowa, opened to the public on December 2, 2014, with exhibit design by Luci
+  Creative.
+description: ""
+sources:
+  - https://www.lucicreative.com/projects/john-deere
+  - https://www.oemoffhighway.com/engines/press-release/12022279/john-deere-opens-tractor-and-engine-museum-in-waterloo-ia

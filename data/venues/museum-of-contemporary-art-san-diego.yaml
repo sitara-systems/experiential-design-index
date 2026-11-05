@@ -1,0 +1,8 @@
+id: museum-of-contemporary-art-san-diego
+name: "Museum of Contemporary Art San Diego"
+venue_type: art-museum
+location:
+  city: "La Jolla"
+  state: CA
+sources:
+  - https://www.renfrodesign.com/projects
