@@ -1,0 +1,19 @@
+id: seton-shrine-museum-core-exhibits
+name: Seton Shrine Museum
+venue: seton-shrine-museum
+project_type: new-exhibition
+year_completed: 2023
+credits:
+  - firm: the-prd-group
+    role: exhibit-design
+    note: Exhibit design, per PRD's project page.
+  - firm: cortina-productions
+    role: content-production
+    note: Media production, per PRD's page.
+summary: >
+  The PRD Group designed the 6,000 sq. ft. Seton Shrine Museum at the National Shrine of Saint Elizabeth Ann Seton, completed in 2023, at Seton Shrine Museum.
+description: ""
+sources:
+  - https://theprdgroup.com/project/seton-shrine-museum/
+_comments:
+  - Year from the stated timeline (October 2019 - September 2023). The page also names a fabricator as "Capitol Exhibit Services", not credited here because the name does not match a recorded firm exactly.
