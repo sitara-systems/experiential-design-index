@@ -1,0 +1,10 @@
+id: reservoir-park-mcmillan-washington-dc
+name: Reservoir Park (McMillan Sand Filtration Site)
+venue_type: public-space
+location:
+  city: Washington
+  state: DC
+  country: US
+operator: District of Columbia
+sources:
+- https://bwco.info/work/mcmillan/
