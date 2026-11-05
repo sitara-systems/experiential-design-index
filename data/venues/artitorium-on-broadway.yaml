@@ -1,0 +1,8 @@
+id: artitorium-on-broadway
+name: ARTitorium on Broadway
+venue_type: childrens-museum
+location:
+  city: Idaho Falls
+  state: ID
+sources:
+  - https://www.triviuminteractive.com/project/the-color-club/

@@ -1,0 +1,8 @@
+id: museum-of-american-finance
+name: Museum of American Finance
+venue_type: history-museum
+location:
+  city: Boston
+  state: MA
+sources:
+  - https://www.triviuminteractive.com/project/museum-of-american-finance/

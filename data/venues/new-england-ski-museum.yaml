@@ -1,0 +1,8 @@
+id: new-england-ski-museum
+name: New England Ski Museum
+venue_type: history-museum
+location:
+  city: North Conway
+  state: NH
+sources:
+  - https://www.triviuminteractive.com/project/lost-ski-areas/

@@ -1,0 +1,8 @@
+id: hamilton-east-public-library
+name: Hamilton East Public Library
+venue_type: library-archive
+location:
+  city: Noblesville
+  state: IN
+sources:
+  - https://www.triviuminteractive.com/project/crossroads-discovery-center/

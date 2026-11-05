@@ -1,0 +1,22 @@
+id: m-plus-museum-the-cabinet
+name: The Cabinet
+venue: m-plus-museum
+project_type: new-exhibition
+year_completed: 2021
+credits:
+  - firm: studio-joseph
+    role: exhibit-design
+    note: "Designed the rotating gallery of 40 moveable panels, per the firm's project page."
+  - firm: potion-design
+    role: media-design
+    note: "Media design, per Studio Joseph's collaborator credit."
+summary: >
+  The Cabinet, a continuously rotating collection gallery of 40 moveable
+  panels showing over 200 works with interactive screens in place of labels,
+  was designed by Studio Joseph with media design by Potion Design for M+
+  Museum in Hong Kong, dated November 2021.
+description: ""
+sources:
+  - https://studiojoseph.com/work/the-cabinet
+_comments:
+  - "Year from the date field (2021-11-30) in the firm's project page data; M+ opened Nov 2021. International venue (Hong Kong) in scope per 2026-07-19 venue-scope revision. Possible overlap at merge with award-archive passes: id m-plus-museum-the-cabinet."

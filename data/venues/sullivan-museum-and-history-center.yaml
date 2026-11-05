@@ -1,0 +1,9 @@
+id: sullivan-museum-and-history-center
+name: Sullivan Museum and History Center
+venue_type: history-museum
+location:
+  city: Northfield
+  state: VT
+operator: Norwich University
+sources:
+  - https://www.triviuminteractive.com/project/sullivan-museum-and-history-center/

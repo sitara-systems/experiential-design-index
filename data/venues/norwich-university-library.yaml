@@ -1,0 +1,9 @@
+id: norwich-university-library
+name: Norwich University Library
+venue_type: academic-institution
+location:
+  city: Northfield
+  state: VT
+operator: Norwich University
+sources:
+  - https://www.triviuminteractive.com/project/constitution-place/

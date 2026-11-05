@@ -1,0 +1,14 @@
+id: artitorium-on-broadway-virtual-symphony
+name: Virtual Symphony
+venue: artitorium-on-broadway
+project_type: installation
+year_completed: 2019
+credits:
+  - firm: trivium-interactive
+    role: media-design
+    note: "Interactive and media design and development, per Trivium's own project page."
+summary: >
+  Trivium Interactive produced an interactive that lets children break a symphony down instrument by instrument, completed in 2019, at ARTitorium on Broadway.
+description: ""
+sources:
+  - https://www.triviuminteractive.com/project/virtual-symphony/

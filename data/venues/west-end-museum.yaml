@@ -1,0 +1,8 @@
+id: west-end-museum
+name: The West End Museum
+venue_type: history-museum
+location:
+  city: Boston
+  state: MA
+sources:
+  - https://www.triviuminteractive.com/project/the-west-end-museum/

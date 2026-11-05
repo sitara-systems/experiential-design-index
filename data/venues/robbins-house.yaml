@@ -1,0 +1,8 @@
+id: robbins-house
+name: The Robbins House
+venue_type: history-museum
+location:
+  city: Concord
+  state: MA
+sources:
+  - https://www.triviuminteractive.com/project/pathways-to-equality/
