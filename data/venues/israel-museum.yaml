@@ -1,0 +1,8 @@
+id: israel-museum
+name: The Israel Museum
+venue_type: art-museum
+location:
+  city: Jerusalem
+  country: IL
+sources:
+  - https://www.tillotsondesign.com/the-israel-museum-full-project-credits

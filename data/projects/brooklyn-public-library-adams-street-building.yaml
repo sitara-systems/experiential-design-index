@@ -1,0 +1,19 @@
+id: brooklyn-public-library-adams-street-building
+name: Adams Street Library
+venue: brooklyn-public-library-adams-street
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: workac
+    role: architecture
+    note: Architect; no firm record yet.
+  - firm: tillotson-design-associates
+    role: lighting-design
+    note: Lighting design, per Tillotson Design Associates' project credits page.
+summary: >
+  Tillotson Design Associates provided the lighting design for the 6,500 sq. ft. Adams Street Library for Brooklyn Public Library, completed in 2021.
+description: ""
+sources:
+  - https://www.tillotsondesign.com/brooklyn-public-library-adams-street-library-full-project-credits
+_comments:
+  - "Tillotson's project credits page (Location / Project Completed / credits fields) is the sole source; architect credits are as listed on that page."

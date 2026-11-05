@@ -1,0 +1,9 @@
+id: brooklyn-public-library-greenpoint
+name: Brooklyn Public Library Greenpoint Library and Environmental Education Center
+venue_type: library-archive
+location:
+  city: Brooklyn
+  state: NY
+operator: Brooklyn Public Library
+sources:
+  - https://www.tillotsondesign.com/brooklyn-public-library-greenpoint-education-center-full-project-credits

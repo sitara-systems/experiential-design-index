@@ -1,0 +1,9 @@
+id: winter-park-library-and-events-center
+name: Winter Park Library & Events Center
+venue_type: library-archive
+location:
+  city: Winter Park
+  state: FL
+operator: City of Winter Park
+sources:
+  - https://www.tillotsondesign.com/winter-park-library-events-center-full-projects-credits

@@ -1,0 +1,18 @@
+id: logan-center-for-the-arts-building
+name: Logan Center for the Arts
+venue: logan-center-for-the-arts
+project_type: new-building
+year_completed: 2012
+credits:
+  - firm: tod-williams-billie-tsien-architects
+    role: architecture
+    note: "Architect, per the firm's project page."
+summary: >
+  Tod Williams Billie Tsien Architects designed the 184,000 sq. ft. Logan
+  Center for the Arts, a performing and visual arts center with theaters,
+  galleries and studios at the University of Chicago, completed in 2012.
+description: ""
+sources:
+  - https://twbta.com/work/academic/logan-center-for-the-arts/
+_comments:
+  - "Firm's own project page (Location / Year / Program fields) is the sole source."

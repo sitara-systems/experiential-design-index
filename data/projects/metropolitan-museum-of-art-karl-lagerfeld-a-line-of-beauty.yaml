@@ -1,0 +1,19 @@
+id: metropolitan-museum-of-art-karl-lagerfeld-a-line-of-beauty
+name: 'Karl Lagerfeld: A Line of Beauty'
+venue: metropolitan-museum-of-art
+project_type: temporary-exhibition
+year_completed: 2023
+credits:
+  - firm: tadao-ando-architect-and-associates
+    role: exhibit-design
+    note: Design architect of the exhibition, per the Tillotson credits page; no firm record yet.
+  - firm: tillotson-design-associates
+    role: lighting-design
+    note: Lighting design, per Tillotson Design Associates' project credits page.
+summary: >
+  Tillotson Design Associates provided the lighting design for the exhibition Karl Lagerfeld: A Line of Beauty at The Metropolitan Museum of Art, completed in 2023.
+description: ""
+sources:
+  - https://www.tillotsondesign.com/karl-lagerfield-a-line-of-beauty-full-project-credits
+_comments:
+  - "Tillotson's project credits page (Location / Project Completed / credits fields) is the sole source; architect credits are as listed on that page."

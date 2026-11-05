@@ -1,0 +1,19 @@
+id: ruby-city-building
+name: Ruby City
+venue: ruby-city
+project_type: new-building
+year_completed: 2019
+credits:
+  - firm: adjaye-associates
+    role: architecture
+    note: Design architect; no firm record yet.
+  - firm: tillotson-design-associates
+    role: lighting-design
+    note: Lighting design, per Tillotson Design Associates' project credits page.
+summary: >
+  Tillotson Design Associates provided the lighting design for Ruby City, a 14,000 sq. ft. contemporary art center for the Linda Pace Foundation, completed in 2019.
+description: ""
+sources:
+  - https://www.tillotsondesign.com/ruby-city-foundation-full-project-credits
+_comments:
+  - "Tillotson's project credits page (Location / Project Completed / credits fields) is the sole source; architect credits are as listed on that page."

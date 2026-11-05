@@ -1,0 +1,8 @@
+id: dallas-museum-of-art
+name: Dallas Museum of Art
+venue_type: art-museum
+location:
+  city: Dallas
+  state: TX
+sources:
+  - https://www.tillotsondesign.com/dallas-museum-of-art-cartier-and-islamic-art-in-search-of-modernity-full-project-credits

@@ -1,0 +1,19 @@
+id: israel-museum-renewal
+name: The Israel Museum
+venue: israel-museum
+project_type: major-renovation
+year_completed: 2010
+credits:
+  - firm: james-carpenter-design-associates
+    role: architecture
+    note: Design architect; no firm record yet.
+  - firm: tillotson-design-associates
+    role: lighting-design
+    note: Lighting design, per Tillotson Design Associates' project credits page.
+summary: >
+  Tillotson Design Associates provided the lighting design for the 80,000 sq. ft. renewal of The Israel Museum in Jerusalem, completed in 2010.
+description: ""
+sources:
+  - https://www.tillotsondesign.com/the-israel-museum-full-project-credits
+_comments:
+  - "Tillotson's project credits page (Location / Project Completed / credits fields) is the sole source; architect credits are as listed on that page."

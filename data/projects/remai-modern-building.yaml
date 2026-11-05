@@ -1,0 +1,19 @@
+id: remai-modern-building
+name: Remai Modern
+venue: remai-modern
+project_type: new-building
+year_completed: 2017
+credits:
+  - firm: kpmb-architects
+    role: architecture
+    note: Design architect; no firm record yet.
+  - firm: tillotson-design-associates
+    role: lighting-design
+    note: Lighting design, per Tillotson Design Associates' project credits page.
+summary: >
+  Tillotson Design Associates provided the lighting design for the 126,000 sq. ft. Remai Modern art gallery, completed in 2017.
+description: ""
+sources:
+  - https://www.tillotsondesign.com/remai-modern-art-gallery-full-project-credits
+_comments:
+  - "Tillotson's project credits page (Location / Project Completed / credits fields) is the sole source; architect credits are as listed on that page."

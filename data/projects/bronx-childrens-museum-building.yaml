@@ -1,0 +1,19 @@
+id: bronx-childrens-museum-building
+name: Bronx Children's Museum
+venue: bronx-childrens-museum
+project_type: new-building
+year_completed: 2022
+credits:
+  - firm: oneill-mcvoy-architects
+    role: architecture
+    note: Design architect; no firm record yet.
+  - firm: tillotson-design-associates
+    role: lighting-design
+    note: Lighting design, per Tillotson Design Associates' project credits page.
+summary: >
+  Tillotson Design Associates provided the lighting design for the 15,160 sq. ft. Bronx Children's Museum, completed in 2022.
+description: ""
+sources:
+  - https://www.tillotsondesign.com/bronx-childrens-museum-full-project-credits
+_comments:
+  - "Tillotson's project credits page (Location / Project Completed / credits fields) is the sole source; architect credits are as listed on that page."

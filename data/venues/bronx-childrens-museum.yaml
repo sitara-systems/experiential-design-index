@@ -1,0 +1,8 @@
+id: bronx-childrens-museum
+name: Bronx Children's Museum
+venue_type: childrens-museum
+location:
+  city: Bronx
+  state: NY
+sources:
+  - https://www.tillotsondesign.com/bronx-childrens-museum-full-project-credits

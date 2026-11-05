@@ -1,0 +1,9 @@
+id: kew-gardens-hills-library
+name: Kew Gardens Hills Library
+venue_type: library-archive
+location:
+  city: Flushing
+  state: NY
+operator: Queens Public Library
+sources:
+  - https://www.tillotsondesign.com/kew-garden-hills-library-full-project-credits

@@ -1,0 +1,9 @@
+id: brooklyn-public-library-adams-street
+name: Brooklyn Public Library Adams Street Library
+venue_type: library-archive
+location:
+  city: Brooklyn
+  state: NY
+operator: Brooklyn Public Library
+sources:
+  - https://www.tillotsondesign.com/brooklyn-public-library-adams-street-library-full-project-credits

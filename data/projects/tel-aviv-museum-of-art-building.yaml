@@ -1,0 +1,19 @@
+id: tel-aviv-museum-of-art-building
+name: Tel Aviv Museum of Art Building
+venue: tel-aviv-museum-of-art
+project_type: new-building
+year_completed: 2011
+credits:
+  - firm: preston-scott-cohen
+    role: architecture
+    note: Design architect; no firm record yet.
+  - firm: tillotson-design-associates
+    role: lighting-design
+    note: Lighting design, per Tillotson Design Associates' project credits page.
+summary: >
+  Tillotson Design Associates provided the lighting design for the 195,000 sq. ft. new building of the Tel Aviv Museum of Art, completed in 2011.
+description: ""
+sources:
+  - https://www.tillotsondesign.com/tel-aviv-museum-of-art-full-project-credits
+_comments:
+  - "Tillotson's project credits page (Location / Project Completed / credits fields) is the sole source; architect credits are as listed on that page."

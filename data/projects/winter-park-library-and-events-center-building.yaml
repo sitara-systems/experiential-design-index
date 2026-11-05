@@ -1,0 +1,22 @@
+id: winter-park-library-and-events-center-building
+name: Winter Park Library & Events Center
+venue: winter-park-library-and-events-center
+project_type: new-building
+year_completed: 2021
+credits:
+  - firm: adjaye-associates
+    role: architecture
+    note: Design architect; no firm record yet.
+  - firm: huntonbrady-architects
+    role: architecture
+    note: Architect of record; no firm record yet.
+  - firm: tillotson-design-associates
+    role: lighting-design
+    note: Lighting design, per Tillotson Design Associates' project credits page.
+summary: >
+  Tillotson Design Associates provided the lighting design for the 55,800 sq. ft. Winter Park Library & Events Center for the City of Winter Park, completed in 2021.
+description: ""
+sources:
+  - https://www.tillotsondesign.com/winter-park-library-events-center-full-projects-credits
+_comments:
+  - "Tillotson's project credits page (Location / Project Completed / credits fields) is the sole source; architect credits are as listed on that page."
