@@ -1,0 +1,9 @@
+id: power-station-of-art
+name: Power Station of Art
+venue_type: art-museum
+location:
+  city: Shanghai
+  state: null
+  country: CN
+sources:
+- https://dsrny.com/project/fashion-manifesto-gabrielle-chanel

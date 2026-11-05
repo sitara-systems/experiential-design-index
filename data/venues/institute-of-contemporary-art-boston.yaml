@@ -1,0 +1,8 @@
+id: institute-of-contemporary-art-boston
+name: Institute of Contemporary Art/Boston
+venue_type: art-museum
+location:
+  city: Boston
+  state: MA
+sources:
+- https://dsrny.com/project/institute-of-contemporary-art

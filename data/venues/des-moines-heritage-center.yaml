@@ -1,0 +1,8 @@
+id: des-moines-heritage-center
+name: Des Moines Heritage Center
+venue_type: cultural-center
+location:
+  city: Des Moines
+  state: IA
+sources:
+- https://www.bnim.com/projects/des-moines-heritage-center/
