@@ -1,0 +1,23 @@
+id: gizmo-art-production
+name: Gizmo Art Production, Inc.
+website: https://gizmosf.com
+hq:
+  city: San Francisco
+  state: CA
+founded: 1996
+roles:
+  - fabrication
+status: active
+status_basis: >
+  Fabricated the exhibits for the Fort Churchill State Historic Park Visitor
+  Center, which reopened October 4, 2025 per Gizmo's own announcement and
+  Nevada State Parks.
+status_verified: 2026-11-04
+summary: >
+  Gizmo Art Production is a San Francisco design-build fabrication studio,
+  founded in 1996, specializing in museum exhibit fabrication, public art, and
+  architecturally integrated installations.
+sources:
+  - https://gizmosf.com/
+  - https://gizmosf.com/portfolio/fort-churchill-state-historic-park-visitor-center/
+_comments: Promoted in the 2026-11 discovery refresh on crossing 3 credited projects (two Chabot Space & Science Center exhibits plus Fort Churchill).
