@@ -1,5 +1,6 @@
 id: blue-telescope
 name: Blue Telescope
+website: https://www.bluetelescope.com
 aka: []
 hq:
   city: New York
@@ -23,3 +24,4 @@ summary: >
 sources:
   - https://www.bluetelescope.com
   - https://blooloop.com/museum/news/blue-telescope-kennedy-space-center/
+  - https://www.bluetelescope.com/work

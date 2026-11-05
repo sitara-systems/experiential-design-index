@@ -1,0 +1,9 @@
+id: raclin-murphy-museum-of-art
+name: Raclin Murphy Museum of Art
+venue_type: art-museum
+location:
+  city: South Bend
+  state: IN
+operator: University of Notre Dame
+sources:
+- https://www.clicknetherfield.com/projects/raclin-murphy-museum-of-art/

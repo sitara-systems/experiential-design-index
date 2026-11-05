@@ -1,0 +1,8 @@
+id: danville-science-center
+name: Danville Science Center
+venue_type: science-center
+location:
+  city: Danville
+  state: VA
+sources:
+- https://www.d-and-p.com/blog/2020/12/18/dandp-overcomes-covid-challenges-to-open-four-new-exhibits-in-2020

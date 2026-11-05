@@ -1,0 +1,10 @@
+id: mccormick-tribune-campus-center
+name: McCormick Tribune Campus Center
+venue_type: academic-institution
+location:
+  city: Chicago
+  state: IL
+operator: Illinois Institute of Technology
+sources:
+- https://2x4.org/work/iit-mccormick-tribune-campus-center/
+- https://en.wikipedia.org/wiki/McCormick_Tribune_Campus_Center

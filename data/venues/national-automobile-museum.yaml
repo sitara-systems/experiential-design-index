@@ -1,0 +1,8 @@
+id: national-automobile-museum
+name: National Automobile Museum
+venue_type: other
+location:
+  city: Reno
+  state: NV
+sources:
+- https://www.binteractive.com/post/e-l-wiegand-educational-activity-center

@@ -1,0 +1,9 @@
+id: palmer-museum-of-art
+name: Palmer Museum of Art
+venue_type: art-museum
+location:
+  city: University Park
+  state: PA
+operator: Penn State University
+sources:
+- https://bwco.info/work/palmer/

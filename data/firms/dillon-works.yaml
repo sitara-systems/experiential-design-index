@@ -3,6 +3,7 @@
 
 id: dillon-works
 name: Dillon Works
+website: https://www.dillonworks.com
 aka: []
 hq:
   city: Mukilteo
@@ -19,3 +20,4 @@ summary: >
   fabrication studio.
 sources:
   - https://www.dillonworks.com/
+  - https://www.dillonworks.com/work
