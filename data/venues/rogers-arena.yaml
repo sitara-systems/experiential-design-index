@@ -1,0 +1,9 @@
+id: rogers-arena
+name: Rogers Arena
+venue_type: sports-venue
+location:
+  city: Vancouver
+  province: BC
+  country: CA
+sources:
+- https://momentfactory.com/products/vancouver-canucks-hall-of-heroes-exhibit

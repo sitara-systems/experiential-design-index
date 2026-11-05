@@ -1,0 +1,8 @@
+id: boardwalk-hall-atlantic-city
+name: Boardwalk Hall
+venue_type: sports-venue
+location:
+  city: Atlantic City
+  state: NJ
+sources:
+- https://momentfactory.com/products/atlantic-city

@@ -1,0 +1,9 @@
+id: los-angeles-international-airport-tom-bradley-terminal
+name: Tom Bradley International Terminal, Los Angeles International Airport
+venue_type: other
+location:
+  city: Los Angeles
+  state: CA
+operator: Los Angeles World Airports
+sources:
+- https://momentfactory.com/products/los-angeles-airport-lax
