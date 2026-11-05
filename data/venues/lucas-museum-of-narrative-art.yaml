@@ -1,0 +1,11 @@
+id: lucas-museum-of-narrative-art
+name: Lucas Museum of Narrative Art
+venue_type: art-museum
+location:
+  city: Los Angeles
+  state: CA
+  country: US
+website: https://lucasmuseum.org
+sources:
+- >-
+  https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026
