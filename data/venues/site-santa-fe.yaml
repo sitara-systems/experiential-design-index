@@ -1,0 +1,9 @@
+id: site-santa-fe
+name: SITE Santa Fe
+venue_type: art-museum
+location:
+  city: Santa Fe
+  state: NM
+  country: US
+sources:
+- https://sitesantafe.org/

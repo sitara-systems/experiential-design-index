@@ -1,0 +1,9 @@
+id: harbourfront-centre-toronto
+name: Harbourfront Centre
+venue_type: cultural-center
+location:
+  city: Toronto
+  country: CA
+operator: Harbourfront Centre
+sources:
+- https://harbourfrontcentre.com/
