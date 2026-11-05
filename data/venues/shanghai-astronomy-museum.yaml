@@ -1,0 +1,8 @@
+id: shanghai-astronomy-museum
+name: Shanghai Astronomy Museum
+venue_type: science-center
+location:
+  city: Shanghai
+  country: CN
+sources:
+- https://ennead.com/work/shanghai-astronomy-museum/

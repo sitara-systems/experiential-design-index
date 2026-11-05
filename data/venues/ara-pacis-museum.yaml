@@ -1,0 +1,8 @@
+id: ara-pacis-museum
+name: Ara Pacis Museum
+venue_type: history-museum
+location:
+  city: Rome
+  country: IT
+sources:
+- https://www.fmsp.com/projects/ara-pacis-museum/

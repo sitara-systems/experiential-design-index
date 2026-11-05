@@ -1,0 +1,8 @@
+id: suzhou-museum
+name: Suzhou Museum
+venue_type: art-museum
+location:
+  city: Suzhou
+  country: CN
+sources:
+- https://www.fmsp.com/projects/suzhou-museum/

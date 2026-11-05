@@ -1,0 +1,9 @@
+id: david-rockefeller-creative-arts-center
+name: David Rockefeller Creative Arts Center
+venue_type: cultural-center
+location:
+  city: Tarrytown
+  state: NY
+operator: Rockefeller Brothers Fund
+sources:
+- https://www.fmsp.com/projects/david-rockefeller-arts-center/

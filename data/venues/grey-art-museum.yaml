@@ -1,0 +1,10 @@
+id: grey-art-museum
+name: Grey Art Museum, New York University
+venue_type: art-museum
+location:
+  city: New York
+  state: NY
+operator: New York University
+website: https://greyartmuseum.nyu.edu
+sources:
+- https://ennead.com/work/grey-art-museum-new-york-university/

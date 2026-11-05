@@ -1,0 +1,9 @@
+id: new-jersey-state-museum
+name: New Jersey State Museum
+venue_type: history-museum
+location:
+  city: Trenton
+  state: NJ
+website: https://www.nj.gov/state/museum
+sources:
+- https://www.fmsp.com/projects/new-jersey-state-museum/
