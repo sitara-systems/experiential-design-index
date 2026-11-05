@@ -1,0 +1,9 @@
+id: scripps-theater-center-hudson-valley-shakespeare
+name: Samuel H. Scripps Theater Center, Hudson Valley Shakespeare
+venue_type: cultural-center
+location:
+  city: Garrison
+  state: NY
+operator: Hudson Valley Shakespeare
+sources:
+- https://studiogang.com/projects/hudson-valley-shakespeare
