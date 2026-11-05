@@ -1,0 +1,9 @@
+id: turkey-hill-experience
+name: Turkey Hill Experience
+venue_type: brand-experience-center
+location:
+  city: Columbia
+  state: PA
+operator: Turkey Hill Dairy
+sources:
+- https://en.wikipedia.org/wiki/Turkey_Hill_Dairy

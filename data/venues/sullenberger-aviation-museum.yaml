@@ -1,0 +1,9 @@
+id: sullenberger-aviation-museum
+name: Sullenberger Aviation Museum
+venue_type: history-museum
+location:
+  city: Charlotte
+  state: NC
+operator: Sullenberger Aviation Museum
+sources:
+- https://www.wfae.org/arts-culture/2024-04-02/charlottes-new-sullenberger-aviation-museum-will-open-on-june-1

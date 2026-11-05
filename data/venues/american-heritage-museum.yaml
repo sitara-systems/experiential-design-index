@@ -1,0 +1,9 @@
+id: american-heritage-museum
+name: American Heritage Museum
+venue_type: history-museum
+location:
+  city: Hudson
+  state: MA
+operator: Collings Foundation
+sources:
+- https://en.wikipedia.org/wiki/American_Heritage_Museum
