@@ -1,0 +1,8 @@
+id: mobius-science-center
+name: Mobius Science Center
+venue_type: science-center
+location:
+  city: Spokane
+  state: WA
+sources:
+- https://kubikmaltbie.com/project/mobius-science-center/

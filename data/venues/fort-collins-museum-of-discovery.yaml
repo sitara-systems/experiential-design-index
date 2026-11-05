@@ -1,0 +1,9 @@
+id: fort-collins-museum-of-discovery
+name: Fort Collins Museum of Discovery
+venue_type: history-museum
+location:
+  city: Fort Collins
+  state: CO
+website: https://www.fcmod.org
+sources:
+- https://en.wikipedia.org/wiki/Fort_Collins_Museum_of_Discovery

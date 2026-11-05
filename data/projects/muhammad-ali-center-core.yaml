@@ -4,9 +4,10 @@ venue: muhammad-ali-center
 project_type: new-building
 year_completed: 2005
 credits:
-  - firm: formations
+  - firm: formations-inc
     role: exhibit-design
-    note: "No firm record yet"
+  - firm: formations-inc
+    role: fabrication
   - firm: lee-h-skolnick-architecture-and-design-partnership
     role: architecture
     note: "No firm record yet"
@@ -18,3 +19,4 @@ summary: >
 description: ""
 sources:
   - https://alicenter.org
+  - https://www.formationsinc.com/muhammed-ali

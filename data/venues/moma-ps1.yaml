@@ -1,0 +1,9 @@
+id: moma-ps1
+name: MoMA PS1
+venue_type: art-museum
+location:
+  city: Long Island City
+  state: NY
+website: https://www.momaps1.org
+sources:
+- https://fisherpartners.net/project/moma-ps1-renovation/

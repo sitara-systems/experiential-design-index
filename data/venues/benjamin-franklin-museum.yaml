@@ -1,0 +1,9 @@
+id: benjamin-franklin-museum
+name: Benjamin Franklin Museum
+venue_type: history-museum
+location:
+  city: Philadelphia
+  state: PA
+operator: National Park Service
+sources:
+- https://kubikmaltbie.com/project/benjamin-franklin-museum/
