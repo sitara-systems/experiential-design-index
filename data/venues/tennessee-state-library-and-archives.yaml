@@ -1,0 +1,9 @@
+id: tennessee-state-library-and-archives
+name: Tennessee State Library & Archives
+venue_type: library-archive
+location:
+  city: Nashville
+  state: TN
+operator: Tennessee Secretary of State
+sources:
+- https://sos.tn.gov/press-releases/state-library-and-archives-hosts-ribbon-cutting-and-grand-opening-ceremony

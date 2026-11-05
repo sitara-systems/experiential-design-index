@@ -1,0 +1,9 @@
+id: civil-war-museum-kenosha
+name: Civil War Museum (Kenosha)
+venue_type: history-museum
+location:
+  city: Kenosha
+  state: WI
+operator: Kenosha Public Museums
+sources:
+- https://historynet.com/americas-civil-war-open-fire-march-2008/

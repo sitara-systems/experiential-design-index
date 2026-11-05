@@ -1,0 +1,9 @@
+id: manatee-lagoon
+name: Manatee Lagoon - an FPL Eco-Discovery Center
+venue_type: visitor-center
+location:
+  city: Riviera Beach
+  state: FL
+operator: Florida Power & Light
+sources:
+- https://newsroom.fpl.com/2016-02-05-Florida-Power-Light-Companys-new-manatee-observatory-and-education-facility-opens-its-doors-to-the-public

@@ -1,0 +1,9 @@
+id: mint-museum-uptown
+name: Mint Museum Uptown
+venue_type: art-museum
+location:
+  city: Charlotte
+  state: NC
+operator: Mint Museum
+sources:
+- https://www.wfae.org/arts-culture/2024-10-25/southern-artists-focus-of-new-exhibition-at-the-mint-uptown

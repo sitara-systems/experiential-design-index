@@ -1,0 +1,9 @@
+id: woodlawn-manor-visitor-center
+name: Woodlawn Manor Visitor Center
+venue_type: visitor-center
+location:
+  city: Sandy Spring
+  state: MD
+operator: Montgomery Parks
+sources:
+- https://theclio.com/entry/21821
