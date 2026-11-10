@@ -13,6 +13,11 @@ credits:
       Bruno Freschi-designed geodesic dome (built for Expo 86), using 3D
       modeling and real-time rendering to map new lighting fixtures across
       the dome's structure; no other outside design firm named.
+  - firm: eos-lightmedia
+    role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/402
+    note: "Supply and integration of the lighting and related systems, per Eos Lightmedia's own project page."
 technologies:
   - architectural LED lighting
 summary: >

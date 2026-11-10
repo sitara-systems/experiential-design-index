@@ -23,6 +23,8 @@ credits:
     note: "Exhibit fabrication and AV systems integration."
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/129
   - firm: electrosonic
     role: av-integration
     note: "AV integration for the elevator experience."
@@ -55,3 +57,4 @@ sources:
   - https://vueorleans.com/
   - https://www.nola.com/entertainment_life/article_725d0e74-94da-11ec-9e42-fbf232f9c33c.html
   - https://www.commarts.com/content/files/competitions/2023%20IA%20Shortlist.pdf
+  - https://www.eoslightmedia.com/work/129

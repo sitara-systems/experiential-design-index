@@ -31,6 +31,8 @@ credits:
     note: "no firm record yet"
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://segd.org/projects/cornell-lab-of-ornithology/
 technologies:
   - interactive kiosks
   - motion graphics

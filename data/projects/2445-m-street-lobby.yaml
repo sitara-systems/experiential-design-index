@@ -7,10 +7,6 @@ credits:
   - firm: esi-design
     role: media-design
   - firm: eos-lightmedia
-    role: lighting-design
-    sources:
-      - https://www.eoslightmedia.com/work/167
-  - firm: eos-lightmedia
     role: av-integration
     sources:
       - https://www.eoslightmedia.com/work/167

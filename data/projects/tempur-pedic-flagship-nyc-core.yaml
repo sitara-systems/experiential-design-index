@@ -8,10 +8,6 @@ credits:
     role: architecture
     note: "No firm record yet"
   - firm: eos-lightmedia
-    role: lighting-design
-    sources:
-      - https://www.eoslightmedia.com/work/112
-  - firm: eos-lightmedia
     role: av-integration
     sources:
       - https://www.eoslightmedia.com/work/112

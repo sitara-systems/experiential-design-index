@@ -12,6 +12,11 @@ credits:
     role: lighting-design
     sources:
       - https://www.eoslightmedia.com/work/328
+  - firm: eos-lightmedia
+    role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/328
+    note: "Supply and integration of the lighting and related systems, per Eos Lightmedia's own project page."
 recognition:
   - award: "IES International Award of Excellence"
     year: 2024

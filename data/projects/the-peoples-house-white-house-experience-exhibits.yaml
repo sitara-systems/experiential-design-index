@@ -10,7 +10,7 @@ credits:
     role: fabrication
     note: "Exhibit fabricator; brought Eos Lightmedia onto the project for exhibit lighting scope"
   - firm: eos-lightmedia
-    role: lighting-design
+    role: av-integration
     sources:
       - https://www.eoslightmedia.com/work/564
     note: >
@@ -20,6 +20,14 @@ credits:
       ft visitor experience; base-building/exhibit lighting design intent set
       by Abernathy Lighting Design, an Eos Lightmedia studio, brought on by
       Gensler.
+  - firm: eos-lightmedia
+    role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/564
+    note: >
+      Credited as its Abernathy Lighting Design studio, which established
+      the overall lighting design intent for the base-building and exhibit
+      lighting scopes, per Eos Lightmedia's own project page.
   - firm: cortina-productions
     role: media-design
   - firm: ralph-appelbaum-associates

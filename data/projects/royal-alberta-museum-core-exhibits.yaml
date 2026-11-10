@@ -22,7 +22,7 @@ credits:
   - firm: electrosonic
     role: av-integration
   - firm: eos-lightmedia
-    role: lighting-design
+    role: av-integration
     sources:
       - https://www.eoslightmedia.com/work/41
     note: "Provided overhead and internal case lighting"

@@ -13,8 +13,6 @@ credits:
     role: fabrication
   - firm: bbi-engineering
     role: av-integration
-  - firm: eos-lightmedia
-    role: lighting-design
 technologies:
   - immersive theater
   - virtual reality

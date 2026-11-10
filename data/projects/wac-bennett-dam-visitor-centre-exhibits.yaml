@@ -22,6 +22,11 @@ credits:
     role: lighting-design
     sources:
       - https://www.eoslightmedia.com/work/58
+  - firm: eos-lightmedia
+    role: media-design
+    sources:
+      - https://www.eoslightmedia.com/work/58
+    note: "Interactive and software work for the exhibits, per Eos Lightmedia's own project page."
 technologies:
   - interactive AV exhibits
   - pedal-powered generator interactive

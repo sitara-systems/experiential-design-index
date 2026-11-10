@@ -9,10 +9,6 @@ credits:
   - firm: kubik-maltbie
     role: fabrication
   - firm: eos-lightmedia
-    role: lighting-design
-    sources:
-      - https://www.eoslightmedia.com/work/3
-  - firm: eos-lightmedia
     role: av-integration
     sources:
       - https://www.eoslightmedia.com/work/3

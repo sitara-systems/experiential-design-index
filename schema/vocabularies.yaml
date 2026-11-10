@@ -26,12 +26,22 @@ roles:
     note: Film, video, audio, and linear media production
   - id: av-integration
     label: AV Integration
-    note: Audiovisual systems engineering, integration, and installation
+    note: >
+      Audiovisual and lighting systems engineering, integration, and
+      installation — including supply, installation, programming, and
+      commissioning of a lighting design authored by another firm
+      (editorial ruling 2026-11-10).
   - id: fabrication
     label: Fabrication
     note: Exhibit fabrication, casework, mounts, scenic construction
   - id: lighting-design
     label: Lighting Design
+    note: >
+      Design role — requires authoring the lighting design. Supplying,
+      installing, programming, or commissioning another firm's lighting
+      design is av-integration, not this role. A design-build firm that
+      authored the design on a project keeps this credit (editorial ruling
+      2026-11-10).
   - id: graphics-wayfinding
     label: Environmental Graphics & Wayfinding
     note: >

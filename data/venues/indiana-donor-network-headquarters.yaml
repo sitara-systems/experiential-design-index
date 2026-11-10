@@ -1,0 +1,9 @@
+id: indiana-donor-network-headquarters
+name: Indiana Donor Network Headquarters
+venue_type: other
+location:
+  city: Indianapolis
+  state: IN
+website: https://indianadonornetwork.org
+sources:
+  - https://www.availablelight.com/work/indiana-donor-memorial

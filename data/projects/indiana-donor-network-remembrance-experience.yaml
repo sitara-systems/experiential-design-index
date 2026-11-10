@@ -1,0 +1,37 @@
+id: indiana-donor-network-remembrance-experience
+name: Indiana Donor Memorial Experience
+venue: indiana-donor-network-headquarters
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: available-light
+    role: lighting-design
+    sources:
+      - https://www.availablelight.com/work/indiana-donor-memorial
+    note: "Lighting design for the atrium remembrance experience, per Available Light's own project page."
+  - firm: trivium-interactive
+    role: media-design
+    sources:
+      - https://www.availablelight.com/work/indiana-donor-memorial
+    note: "Media producer, per Available Light's project page."
+technologies:
+  - interactive kiosks
+  - choreographed light and sound
+recognition:
+  - award: "MUSE Creative Awards — Silver"
+    year: 2025
+    source: https://www.availablelight.com/work/indiana-donor-memorial
+summary: >
+  The Indiana Donor Memorial Experience, a remembrance installation in the
+  four-story atrium of the Indiana Donor Network headquarters in
+  Indianapolis, completed in 2025; interactive kiosks present tributes
+  from donors' families, with lighting design by Available Light and
+  media production by Trivium Interactive.
+description: ""
+sources:
+  - https://www.availablelight.com/work/indiana-donor-memorial
+_comments: >
+  Year 2025 is inferred from the 2025 MUSE Creative Awards recognition
+  listed on Available Light's page and the firm's own report; the page
+  itself states no completion year. Added after a firm-submitted
+  correction request (2026-11-10).

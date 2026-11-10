@@ -278,6 +278,13 @@ list from the published data:
   commission) stay on project pages but do not place the firm on that
   role's list: the list answers "who can I hire for this," and a firm that
   cannot be engaged for the role alone is not an answer.
+- **Design roles credit the author** *(amended 2026-11-10)*: lighting
+  design and environmental graphics & wayfinding are design roles. A credit
+  in either requires that the firm authored the design on that project.
+  Supplying, installing, programming, or commissioning another firm's
+  lighting design is credited as AV integration; producing or installing
+  another firm's graphics is credited as fabrication. A design-build firm
+  that authored the design keeps the design credit.
 - **Technology lists** *(amended 2026-07-19)*: count only the credit(s)
   attributed with the technology at the credit level — the firm(s) whose
   cited sources support that they delivered the tagged technology on that

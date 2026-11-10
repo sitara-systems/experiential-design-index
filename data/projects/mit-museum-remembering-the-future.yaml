@@ -1,0 +1,31 @@
+id: mit-museum-remembering-the-future
+name: "Remembering the Future (Janet Echelman)"
+venue: mit-museum
+project_type: new-exhibition
+year_completed: 2025
+credits:
+  - firm: available-light
+    role: lighting-design
+    sources:
+      - https://www.echelman.com/remembering-the-future/
+    note: "Lighting design, per the artist's project page."
+  - firm: high-output
+    role: av-integration
+    sources:
+      - https://www.echelman.com/remembering-the-future/
+    note: "Lighting installation, per the artist's project page."
+technologies:
+  - suspended light installation
+summary: >
+  Remembering the Future, a 2025 suspended light-and-sculpture installation by
+  artist Janet Echelman at the MIT Museum in Cambridge, Massachusetts, with
+  lighting design by Available Light and lighting installation by High Output.
+description: ""
+sources:
+  - https://www.echelman.com/remembering-the-future/
+_comments: >
+  Added after a firm-submitted correction request (2026-11-10). Year 2025 is
+  from the artist's page title ("Remembering the Future, MIT Museum, MA,
+  2025"); the page gives no exact opening date, so verify before relying on
+  it. The artist and BRM Production Management (installation) are not
+  credited because the vocabulary has no role for them.
