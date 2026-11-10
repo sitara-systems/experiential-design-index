@@ -10,6 +10,9 @@ credits:
     note: "no firm record yet"
   - firm: solid-light
     role: exhibit-design
+    sources:
+      - https://solidlight-inc.com/work/national-susan-b-anthony-museum-house-interpretive-center/
+      - https://solidlight-inc.com/solid-light-selected-for-planning-design-of-susan-b-anthony-interpretive-center/
 technologies: []
 summary: >
   A 14,000 sq ft interpretive center for the National Susan B. Anthony

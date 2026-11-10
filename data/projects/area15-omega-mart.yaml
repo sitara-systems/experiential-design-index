@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: solotech
     role: av-integration
+    sources:
+      - https://solotech.com/work/meow-wolfs-omega-mart/
     note: >
       Delivered a turnkey audio, video and show-control, lighting, projection
       and immersive multi-track audio solution for Meow Wolf's Omega Mart,

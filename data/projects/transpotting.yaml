@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/231
 technologies:
   - real-time data-driven LED lighting
 summary: >

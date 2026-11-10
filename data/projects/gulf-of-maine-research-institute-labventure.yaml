@@ -15,6 +15,9 @@ credits:
     note: "Content and technology platform design"
   - firm: art-guild-inc
     role: fabrication
+    sources:
+      - https://www.artguildinc.com/2018/09/25/interactive-exhibits-saving-maines-eco-system-one-lobstah-at-a-time/
+      - https://www.artguildinc.com/project/labventure-gulf-of-maine-research-institute/
 technologies:
   - multi-touch collaborative tables
   - 4K video projection

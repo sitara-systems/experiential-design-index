@@ -22,6 +22,8 @@ credits:
     role: interpretive-planning
   - firm: batwin-and-robin
     role: content-production
+    sources:
+      - https://www.batwinandrobin.com/projects/center-civil-human-rights/
     note: >
       25+ media pieces incl. short-form documentaries, a panoramic tribute
       to the March on Washington, and a 36-screen multimedia experience,

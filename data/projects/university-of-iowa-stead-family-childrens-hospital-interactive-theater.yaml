@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: dimensional-innovations
     role: media-design
+    sources:
+      - https://www.dimin.com/
     note: immersive technology / positive-distraction patient experience (Kinect interactive theater)
 technology_tags:
   - interactive-installation

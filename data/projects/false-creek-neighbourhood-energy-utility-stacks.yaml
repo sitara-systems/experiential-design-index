@@ -9,9 +9,13 @@ credits:
     note: "Artist/architect team who conceived and designed the five sculptural emission-vent stacks (\"the Stacks\")."
   - firm: cdm-lighting-design-group
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/48
     note: "Lighting supplier collaborator (CDM2 Lightworks), per Eos Lightmedia's own project page."
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/48
     note: >
       Provided custom electronic control components, design detailing, and
       programming of the energy-monitoring interface driving the stacks'

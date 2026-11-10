@@ -6,6 +6,8 @@ year_completed: 1993
 credits:
   - firm: ashton-design
     role: fabrication
+    sources:
+      - https://ashton-design.com/work/bwi-seasons-of-flight
     note: >
       150 Corten-steel geese sculpture; credited individually on the
       firm's own site to founder David Ashton.

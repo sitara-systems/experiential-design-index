@@ -6,10 +6,22 @@ year_completed: 2019
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/junipero-serra-museum-2/
+      - https://www.cgpartnersllc.com/projects/junipero-serra-museum/
+      - https://www.cgpartnersllc.com/fresh/post/junipero-serra-museum-visitor-experience-transformation/
   - firm: c-and-g-partners
     role: interpretive-planning
+    sources:
+      - https://www.cgpartnersllc.com/projects/junipero-serra-museum-2/
+      - https://www.cgpartnersllc.com/projects/junipero-serra-museum/
+      - https://www.cgpartnersllc.com/fresh/post/junipero-serra-museum-visitor-experience-transformation/
   - firm: c-and-g-partners
     role: media-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/junipero-serra-museum-2/
+      - https://www.cgpartnersllc.com/projects/junipero-serra-museum/
+      - https://www.cgpartnersllc.com/fresh/post/junipero-serra-museum-visitor-experience-transformation/
     note: "Rain Tryptic, Watershed 360 Vista, and River Oculus Well digital installations"
 technologies:
   - projection

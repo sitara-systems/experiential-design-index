@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
 - firm: capitol-museum-services
   role: fabrication
+  sources:
+    - https://capitolmuseumservices.com/portfolio/visitors-centers/
   note: Listed in Capitol Museum Services' museum portfolio; the portfolio entry
     does not itemize scope. Fabrication role per the firm's practice.
 summary: Manatee Lagoon, a 16,000-square-foot FPL Eco-Discovery Center and manatee

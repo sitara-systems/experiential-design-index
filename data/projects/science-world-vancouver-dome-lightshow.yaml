@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/91
     note: >
       Commissioned the controls and developed creative content for the
       dome's 391 full-color LED luminaire retrofit, including custom

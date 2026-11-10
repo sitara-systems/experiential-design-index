@@ -6,9 +6,13 @@ year_completed: 2012
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/57
     note: Also provided AV system design and interactive design for the exhibit's interior and exterior components.
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/57
 technologies:
   - full-sensory immersive theatre
   - touchscreen interactives

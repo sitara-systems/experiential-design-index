@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: studio-joseph
     role: architecture
+    sources:
+      - https://studiojoseph.com/work/webb-chapel-park-pavilion
   - firm: quimby-mccoy-preservation-architecture
     role: architecture
     note: "Associate architect. No firm record yet"

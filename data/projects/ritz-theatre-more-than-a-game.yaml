@@ -6,6 +6,8 @@ year_completed: 2011
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/cultural-history-1/more-than-a-game
   - firm: 1220-fabrication
     role: fabrication
 technologies: []

@@ -6,10 +6,16 @@ year_completed: 2025
 credits:
   - firm: trivium-interactive
     role: exhibit-design
+    sources:
+      - https://www.triviuminteractive.com/project/surf-ballroom-music-experience-center
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/surf-ballroom-music-experience-center
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/surf-ballroom-not-fade-away-electrosonic
 technologies:
   - multi-projector wall
   - motion sensing

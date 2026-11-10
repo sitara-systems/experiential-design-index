@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/science/biogen-corporate-headquarters
   - firm: mystic-scenic
     role: fabrication
 technology_tags:

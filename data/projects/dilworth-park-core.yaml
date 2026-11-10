@@ -6,9 +6,13 @@ year_completed: 2014
 credits:
   - firm: kieran-timberlake
     role: architecture
+    sources:
+      - https://kierantimberlake.com/work/dilworth-park/
     note: "Transit pavilions, structural glass entries"
   - firm: olin
     role: landscape-architecture
+    sources:
+      - https://theolinstudio.com/dilworth-park/
 technologies: []
 summary: >
   A redesign of Dilworth Park, the transit plaza at Philadelphia City

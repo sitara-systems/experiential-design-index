@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/voices-from-the-front
     note: Designed and developed the touchscreen user interface, including a filtering system and a microphone with visual feedback
   - firm: storyfile
     role: content-production

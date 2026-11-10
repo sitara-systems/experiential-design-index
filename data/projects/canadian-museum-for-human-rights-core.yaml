@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/canadian-museum-for-human-rights/
   - firm: kubik-maltbie
     role: fabrication
     note: "Credited as Kubik/Maltbie on SH Acoustics' own project page; no independent corroboration found for this specific project"
@@ -17,6 +19,8 @@ credits:
     note: "Credited on SH Acoustics' own project page; no independent corroboration found for this specific project"
   - firm: sh-acoustics
     role: acoustics
+    sources:
+      - https://shacoustics.com/canadian-museum-for-human-rights/
     note: >
       Acoustic design and engineering including gallery sound optimization,
       sound-isolation construction separating galleries and theaters,
@@ -25,6 +29,8 @@ credits:
       on optimized audio-track production.
   - firm: prime-access-consulting
     role: accessibility-consulting
+    sources:
+      - https://pac.bz/projects/capital-project/
     note: >
       Embedded inclusive design and accessibility across the new museum's
       exhibitions and digital platforms from the outset (September 2009 –

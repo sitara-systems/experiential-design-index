@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/south-carolina-historical-society-museum/
     note: "also branding/logo design and project management"
   - firm: cortina-productions
     role: media-design

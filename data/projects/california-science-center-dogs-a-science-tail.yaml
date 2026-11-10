@@ -8,8 +8,12 @@ credits:
     role: exhibit-design
   - firm: unified-field
     role: media-design
+    sources:
+      - https://www.unifiedfield.com/projects/california-science-center
   - firm: unified-field
     role: content-production
+    sources:
+      - https://www.unifiedfield.com/projects/california-science-center
     note: "Digital interactives and linear media films"
   - firm: pacific-studio
     role: fabrication

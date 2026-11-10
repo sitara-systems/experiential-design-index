@@ -9,6 +9,8 @@ credits:
     note: "Kohn Pedersen Fox; no firm record yet"
   - firm: rockwell-group
     role: media-design
+    sources:
+      - https://www.rockwellgroup.com/projects/edge
     note: >
       As LAB at Rockwell Group; created "Journey to Edge," the immersive
       multimedia entry experience, and the observation deck's interior

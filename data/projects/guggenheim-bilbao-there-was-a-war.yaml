@@ -12,6 +12,8 @@ credits:
     note: "Kinetic design & engineering, project lead; no firm record yet"
   - firm: sitara-systems
     role: technical-consulting
+    sources:
+      - https://www.sitara.systems/there-was-a-war/
     note: >
       Technical production partner to Hypersonic, supporting the systems
       that run the moving, speaking sign every open hour for the run of

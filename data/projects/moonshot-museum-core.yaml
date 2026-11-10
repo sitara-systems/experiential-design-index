@@ -6,8 +6,12 @@ year_completed: 2022
 credits:
   - firm: luci-creative
     role: exhibit-design
+    sources:
+      - https://www.lucicreative.com/project/moonshot-museum
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/moonshot-museum
     note: "Linked interactive stations across themed environments on lunar exploration"
   - firm: solomon-group
     role: fabrication

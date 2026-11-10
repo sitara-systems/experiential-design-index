@@ -9,8 +9,12 @@ credits:
     note: "no firm record yet"
   - firm: pentagram
     role: exhibit-design
+    sources:
+      - https://www.pentagram.com/work/stanley-kubrick-the-exhibition
   - firm: pentagram
     role: graphics-wayfinding
+    sources:
+      - https://www.pentagram.com/work/stanley-kubrick-the-exhibition
 technologies: []
 summary: >
   "Stanley Kubrick: The Exhibition," staged at London's Design Museum in

@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/hospitals-universities/bwh-time-capsule
     note: "no firm record yet"
   - firm: mystic-scenic
     role: fabrication

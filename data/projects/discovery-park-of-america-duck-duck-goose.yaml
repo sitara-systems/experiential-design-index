@@ -6,10 +6,16 @@ year_completed: 2023
 credits:
   - firm: solid-light
     role: exhibit-design
+    sources:
+      - https://solidlight-inc.com/work/duck-duck-goose/
   - firm: solid-light
     role: media-design
+    sources:
+      - https://solidlight-inc.com/work/duck-duck-goose/
   - firm: solid-light
     role: fabrication
+    sources:
+      - https://solidlight-inc.com/work/duck-duck-goose/
 technologies:
   - interactive kiosk
 summary: >

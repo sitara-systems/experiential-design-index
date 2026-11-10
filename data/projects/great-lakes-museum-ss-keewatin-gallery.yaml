@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/s-s-keewatin-gallery/
   - firm: reich-petch
     role: interpretive-planning
+    sources:
+      - https://designrp.com/projects/s-s-keewatin-gallery/
     note: "Also developed a 10-year interpretive master plan for the museum."
 technologies: []
 summary: >

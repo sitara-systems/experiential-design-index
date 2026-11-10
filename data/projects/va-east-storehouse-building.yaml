@@ -11,6 +11,8 @@ credits:
     note: "no firm record yet"
   - firm: arup
     role: lighting-design
+    sources:
+      - https://www.arup.com/en-us/projects/va-east-storehouse/
 technologies: []
 summary: >
   V&A East Storehouse, an open-storage museum in London where visitors

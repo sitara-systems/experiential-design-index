@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: ashton-design
     role: exhibit-design
+    sources:
+      - https://ashton-design.com/work/ladew-butterfly-house
 summary: >
   The Butterfly House, an all-native butterfly and moth habitat with
   educational signage on species life cycles, opened at Ladew Topiary

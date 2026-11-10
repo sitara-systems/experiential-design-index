@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: volume-inc
     role: graphics-wayfinding
+    sources:
+      - https://volumesf.com/work/transforming-a-waterfront-one-painted-x-at-a-time/
     note: "no firm record yet; large-scale environmental graphics, interpretive moments, and wayfinding referencing the site's industrial history"
   - firm: einwillerkuehl
     role: landscape-architecture

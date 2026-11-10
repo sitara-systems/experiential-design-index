@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: ayers-saint-gross
     role: architecture
+    sources:
+      - https://ayerssaintgross.com/portfolio/missouri-botanical-garden-visitor-center/
   - firm: arbolope-studio
     role: architecture
     note: "St. Louis local design partner (no firm record yet)"
@@ -14,6 +16,8 @@ credits:
     note: "Landscape architecture (no firm record yet)"
   - firm: pgav-destinations
     role: media-design
+    sources:
+      - https://pgavdestinations.com/news/missouri-botanical-garden-hires-pgav-destinations-to-design-media-experience/
     note: "Hired to design a new immersive media experience for the visitor center lobby"
   - firm: mad-systems
     role: av-integration

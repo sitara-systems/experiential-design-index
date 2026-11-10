@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects/att-discovery-district
     note: "Master architecture and design of the AT&T Discovery District, of which The Globe is a centerpiece."
   - firm: float4
     role: media-design
@@ -15,6 +17,8 @@ credits:
     note: "Custom generative audio composition that swells and grows more complex as more visitors enter. No firm record yet."
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/the-globe-at-att-discovery-district
     note: "Complete audio, video, control, and ICT systems design and integration."
 technologies:
   - LED

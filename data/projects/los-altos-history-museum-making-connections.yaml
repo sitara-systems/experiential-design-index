@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: lightswitch
     role: lighting-design
+    sources:
+      - https://lightswitch.net/work/view/los-altos-history-museum
     note: "Lighting design and installation: reused existing track fixtures, added fixtures in custom casework, LED retrofit, dimming and one-button docent controls."
 technologies:
   - LED lighting

@@ -11,6 +11,8 @@ credits:
     note: "Experience designer; no firm record yet"
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/summit-one-vanderbilt
     note: 233 speakers, 14 subwoofers, and a 50x12-foot Samsung MicroLED wall across 26 spaces
 technologies:
   - MicroLED

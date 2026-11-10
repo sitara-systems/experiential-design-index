@@ -6,6 +6,8 @@ year_completed: 2008
 credits:
 - firm: olson-kundig
   role: architecture
+  sources:
+    - https://olsonkundig.com/projects/wing-luke-museum-of-the-asian-pacific-american-experience/
   note: Renovation of the original 1910 building; museum reopened 2008 per New York
     Times coverage cited on the firm page
 summary: Olson Kundig's design grew out of the original 1910 multi-story building

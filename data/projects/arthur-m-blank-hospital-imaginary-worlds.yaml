@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: local-projects
     role: media-design
+    sources:
+      - https://localprojects.com/work/institutional-hospital-university-college/imaginary-worlds-for-arthur-m-blank-hospital/
     note: "Responsive, biophilic digital media environment for the main lobby"
 technologies:
   - responsive media

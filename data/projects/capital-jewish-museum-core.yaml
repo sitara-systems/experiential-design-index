@@ -6,10 +6,16 @@ year_completed: 2023
 credits:
   - firm: smithgroup
     role: architecture
+    sources:
+      - https://www.smithgroup.com/projects/capital-jewish-museum
   - firm: evidence-design
     role: exhibit-design
+    sources:
+      - https://www.evidencedesign.com/details/capital-jewish-museum/
   - firm: evidence-design
     role: graphics-wayfinding
+    sources:
+      - https://www.evidencedesign.com/details/capital-jewish-museum/
   - firm: potion-design
     role: media-design
 technologies: []

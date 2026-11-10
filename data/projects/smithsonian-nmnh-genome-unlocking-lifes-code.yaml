@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://d-and-p.com/naturalhistory
 technologies: []
 summary: >
   "Genome: Unlocking Life's Code," a collaboration between the Smithsonian's

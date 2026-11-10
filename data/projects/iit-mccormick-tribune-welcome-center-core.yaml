@@ -6,6 +6,8 @@ year_completed: 2003
 credits:
 - firm: studio-gang
   role: architecture
+  sources:
+    - https://studiogang.com/projects/iit-mccormick-tribune-welcome-center
 summary: Studio Gang's McCormick-Tribune Welcome Center at the Illinois Institute
   of Technology in Chicago is listed on the firm's project page as completed in
   2003.

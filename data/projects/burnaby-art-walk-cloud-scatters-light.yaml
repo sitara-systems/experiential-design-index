@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: eos-lightmedia
     role: media-design
+    sources:
+      - https://www.eoslightmedia.com/work/31
     technology_tags:
       - artificial-intelligence
     note: >
@@ -14,6 +16,8 @@ credits:
       LED lighting system.
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/31
 technologies:
   - interactive LED lighting
   - computer vision tracking

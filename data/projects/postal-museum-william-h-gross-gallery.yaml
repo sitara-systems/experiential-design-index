@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/smithsonian-national-postal-museum
     note: "14 interactive media experiences incl. 84-foot lobby video walls and 60-screen 'Stamp Arch'"
   - firm: design-and-production-incorporated
     role: fabrication

@@ -6,10 +6,16 @@ year_completed: 2017
 credits:
   - firm: mithun
     role: architecture
+    sources:
+      - https://mithun.com/project/pacific-northwest-ballet-francia-russell-center/
   - firm: mithun
     role: landscape-architecture
+    sources:
+      - https://mithun.com/project/pacific-northwest-ballet-francia-russell-center/
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/francia-russell-center/
     note: "Signage and donor recognition design"
   - firm: imagine-visual-services
     role: fabrication

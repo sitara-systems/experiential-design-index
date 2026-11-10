@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "1,700 sq ft permanent gallery, 20-year display, 90+ artifacts with sealed custom cases, per CMS's own portfolio"
 technologies: []
 summary: >

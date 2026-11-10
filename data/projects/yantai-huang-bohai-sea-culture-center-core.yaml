@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects/yantai-huang-bohai-sea-new-area-industrial-culture-center
 technologies: []
 summary: >
   A roughly 269,000-square-foot public cultural complex in Yantai,

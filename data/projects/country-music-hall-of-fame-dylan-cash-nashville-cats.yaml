@@ -6,8 +6,12 @@ year_completed: 2015
 credits:
   - firm: 1220-fabrication
     role: fabrication
+    sources:
+      - https://1220.com/portfolio/country-music-hall-of-fame/
   - firm: 1220-fabrication
     role: av-integration
+    sources:
+      - https://1220.com/portfolio/country-music-hall-of-fame/
     note: "Custom listening booths, theater spaces, and AV system redesign"
 summary: >
   "Dylan, Cash, and the Nashville Cats: A New Music City," a 5,000 sq ft

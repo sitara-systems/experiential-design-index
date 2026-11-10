@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: ennead-architects
     role: architecture
+    sources:
+      - https://www.ennead.com/work/jefferson-health-specialty-care
     note: "Public floors"
   - firm: stantec
     role: architecture

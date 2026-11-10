@@ -6,8 +6,12 @@ year_completed: 2025
 credits:
   - firm: moment-factory
     role: exhibit-design
+    sources:
+      - https://momentfactory.com/products/realmadrid-games
   - firm: moment-factory
     role: media-design
+    sources:
+      - https://momentfactory.com/products/realmadrid-games
 technologies:
   - interactive installation
   - augmented reality

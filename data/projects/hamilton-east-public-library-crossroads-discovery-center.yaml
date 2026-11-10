@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/crossroads-discovery-center/
     note: "Interactive and media design and development, per Trivium's own project page."
 summary: >
   Trivium Interactive produced four interactives for a genealogy research and oral-history space at the library's main branch, completed in 2024, at Hamilton East Public Library.

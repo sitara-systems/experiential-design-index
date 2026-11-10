@@ -6,11 +6,15 @@ year_completed: 2023
 credits:
   - firm: zgf-architects
     role: architecture
+    sources:
+      - https://www.zgf.com/work/6159-amazon-seneca-group-amazon-visitor-landing
     note: "Exhibit architect"
   - firm: luci-creative
     role: exhibit-design
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/amazon-visitor-landing/
   - firm: chicago-scenic-studios
     role: fabrication
   - firm: bbi-engineering

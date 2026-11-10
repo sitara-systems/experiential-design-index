@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: hks
     role: architecture
+    sources:
+      - https://www.hksinc.com/what-we-do/projects/american-family-fields-renovation/
 technologies: []
 summary: >
   A renovation of the Milwaukee Brewers' spring-training complex in

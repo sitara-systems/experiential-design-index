@@ -6,9 +6,13 @@ year_completed: 2016
 credits:
   - firm: boston-productions-inc
     role: media-design
+    sources:
+      - https://bostonproductions.com/portfolio/new-york-power-authority/
     note: "Design, research, scripting, and production of all media exhibits"
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/New-York-Power-Authority
 technologies:
   - 4D motion theater
   - MultiTaction interactive tables

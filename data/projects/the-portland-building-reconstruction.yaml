@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: dlr-group
     role: architecture
+    sources:
+      - https://www.dlrgroup.com/work/the-portland-building/
     note: >
       $195M full reconstruction of Michael Graves' 1982 postmodern
       landmark — new unitized curtain wall recreating Graves' original

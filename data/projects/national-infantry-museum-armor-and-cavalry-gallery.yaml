@@ -6,10 +6,16 @@ year_completed: 2013
 credits:
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/national-infantry-museum/
   - firm: healykohler
     role: graphics-wayfinding
+    sources:
+      - https://www.healykohler.com/project/national-infantry-museum/
   - firm: healykohler
     role: media-design
+    sources:
+      - https://www.healykohler.com/project/national-infantry-museum/
 technologies:
   - interactive media
   - dioramas

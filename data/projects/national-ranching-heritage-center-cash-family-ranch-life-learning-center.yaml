@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/national-ranching-heritage-center/
     note: "Orientation theater media, 240-degree immersive film, and animated projection programs"
 technologies:
   - hologram

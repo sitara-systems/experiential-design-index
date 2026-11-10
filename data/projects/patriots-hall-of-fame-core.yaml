@@ -6,8 +6,12 @@ year_completed: 2008
 credits:
   - firm: cambridgeseven
     role: architecture
+    sources:
+      - https://www.cambridgeseven.com/project/the-hall-at-patriot-place/
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/the-hall-at-patriot-place/
   - firm: mystic-scenic
     role: fabrication
     note: >

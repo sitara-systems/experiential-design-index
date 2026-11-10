@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/the-tech-museum-of-innovation/
     note: "Eight interactive stations across a 6,000-square-foot exhibit"
   - firm: unified-field
     role: media-design

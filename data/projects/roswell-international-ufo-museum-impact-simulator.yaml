@@ -6,9 +6,13 @@ year_completed: 2022
 credits:
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/roswell-international-ufo-museum-galactic-explorer-impact-simulation
     note: Two interactives — the Impact Simulator (immersive crash-landing simulation) and Galactic Explorer (search game)
   - firm: ideum
     role: av-integration
+    sources:
+      - https://ideum.com/portfolio/roswell-international-ufo-museum-galactic-explorer-impact-simulation
     note: Five-display 4K projection/AV system and a 3.1 sound system with DMX lighting for the Impact Simulator
 technologies:
   - multi-display video wall

@@ -7,6 +7,8 @@ status: completed
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/world-forestry-center-discovery-museum/
 summary: >
   The World Forestry Center's Discovery Museum in Portland, Oregon, a
   13,000-square-foot renovation that reopened June 30, 2005 after a $7

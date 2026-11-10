@@ -8,8 +8,12 @@ credits:
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://d-and-p.com/presidential-museums
   - firm: design-and-production-incorporated
     role: av-integration
+    sources:
+      - https://d-and-p.com/presidential-museums
   - firm: cortina-productions
     role: media-design
   - firm: available-light

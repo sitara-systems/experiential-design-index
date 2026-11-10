@@ -6,14 +6,24 @@ year_completed: 2013
 credits:
   - firm: pgav-destinations
     role: architecture
+    sources:
+      - https://pgavdestinations.com/project/space-shuttle-atlantis-kennedy-space-center/
   - firm: pgav-destinations
     role: exhibit-design
+    sources:
+      - https://pgavdestinations.com/project/space-shuttle-atlantis-kennedy-space-center/
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/kennedy-space-center-visitor-complex-space-shuttle-atlantis/
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/space-shuttle-atlantis-at-kennedy-space-center-visitor-complex
   - firm: mousetrappe
     role: media-design
+    sources:
+      - https://www.mousetrappe.com/spaceshuttleatlantis/
     note: >
       Show producer — designed and produced the media content for the
       pre-show, main show, and the LED scenic wall behind the orbiter;
@@ -21,6 +31,8 @@ credits:
       Project.
   - firm: unified-field
     role: media-design
+    sources:
+      - https://www.unifiedfield.com/projects/kennedy-space-center
     note: >
       Credited by Unified Field for a subset of interactive programs
       (multi-user media walls, AR viewers, simulators) within the larger
@@ -30,6 +42,8 @@ credits:
       between sources — see index notes.
   - firm: boston-productions-inc
     role: media-design
+    sources:
+      - https://bostonproductions.com/portfolio/space-shuttle-atlantis/
     note: Credited on BPI portfolio for the Atlantis interactive exhibits (STS timeline and related interactives).
 technologies:
   - augmented reality viewers

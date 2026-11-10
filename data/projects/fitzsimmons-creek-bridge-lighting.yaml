@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/284
 technologies: []
 summary: >
   Permanent lighting for the Fitzsimmons Creek pedestrian bridge in

@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/guide-dogs-for-the-blind/
   - firm: cinnabar
     role: fabrication
 technologies:

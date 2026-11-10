@@ -6,27 +6,51 @@ year_completed: 2022
 credits:
   - firm: reich-petch
     role: master-planning
+    sources:
+      - https://designrp.com/projects/delaware-museum-of-nature-science-architecture-interiors/
+      - https://designrp.com/projects/delaware-museum-of-nature-science-exhibits/
+      - https://designrp.com/projects/delaware-museum-of-natural-history-masterplan/
     note: >
       Developed the museum's strategic Master Plan (completed 2017),
       including market research and visitor focus-group studies, that set
       the interpretive and design direction the 2022 renovation carried out.
   - firm: reich-petch
     role: interpretive-planning
+    sources:
+      - https://designrp.com/projects/delaware-museum-of-nature-science-architecture-interiors/
+      - https://designrp.com/projects/delaware-museum-of-nature-science-exhibits/
+      - https://designrp.com/projects/delaware-museum-of-natural-history-masterplan/
     note: "Developed the Interpretive Master Plan and fundraising materials for the capital campaign."
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/delaware-museum-of-nature-science-architecture-interiors/
+      - https://designrp.com/projects/delaware-museum-of-nature-science-exhibits/
+      - https://designrp.com/projects/delaware-museum-of-natural-history-masterplan/
     note: "Designed the permanent exhibits and common spaces; oversaw fabrication and installation."
   - firm: reich-petch
     role: architecture
+    sources:
+      - https://designrp.com/projects/delaware-museum-of-nature-science-architecture-interiors/
+      - https://designrp.com/projects/delaware-museum-of-nature-science-exhibits/
+      - https://designrp.com/projects/delaware-museum-of-natural-history-masterplan/
     note: "Retail and branding experience design (interior architecture) for the 8,800 sq. ft. café and retail redesign."
   - firm: reich-petch
     role: graphics-wayfinding
+    sources:
+      - https://designrp.com/projects/delaware-museum-of-nature-science-architecture-interiors/
+      - https://designrp.com/projects/delaware-museum-of-nature-science-exhibits/
+      - https://designrp.com/projects/delaware-museum-of-natural-history-masterplan/
     note: "Wayfinding and donor recognition design."
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://www.eoslightmedia.com/work/121
     note: "Exhibit fabricator, per Eos Lightmedia's own project page."
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/121
     note: >
       Design-build specialty lighting for the renovated galleries, working
       with Kubik Maltbie: concept and technical lighting design, equipment

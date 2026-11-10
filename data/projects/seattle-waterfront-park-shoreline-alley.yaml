@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: studio-matthews
     role: interpretive-planning
+    sources:
+      - https://studiomatthews.com/project/shoreline-alley/
 summary: >
   Shoreline Alley, an interpretive installation in Seattle's Pioneer Square
   reconnecting residents to the city's original shoreline, was completed

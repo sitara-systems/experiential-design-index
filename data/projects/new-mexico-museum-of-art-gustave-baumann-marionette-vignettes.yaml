@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/animated-introduction-gustave-bauman-artists-environment
     note: 3D animation of Gustave Baumann's marionette characters across three custom-built entry-corridor displays
   - firm: stark-raven-fabrication
     role: fabrication

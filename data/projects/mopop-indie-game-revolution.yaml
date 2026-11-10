@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
 - firm: curious-beast
   role: exhibit-design
+  sources:
+    - https://www.curiousbeast.org/indie-game-revolution
   note: Exhibition design, environmental sculpture, graphics, lighting and gaming
     kiosks for the 2,700-square-foot gallery.
 - firm: scenografique

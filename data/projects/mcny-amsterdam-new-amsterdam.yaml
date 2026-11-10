@@ -6,9 +6,13 @@ year_completed: 2009
 credits:
   - firm: pentagram
     role: exhibit-design
+    sources:
+      - https://www.pentagram.com/work/amsterdamnew-amsterdam/story
     note: "No firm record yet"
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=102
 summary: >
   "Amsterdam/New Amsterdam: The Worlds of Henry Hudson," marking the 400th
   anniversary of Henry Hudson's voyage, was on view at the Museum of the

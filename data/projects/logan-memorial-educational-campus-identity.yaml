@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: dlr-group
     role: architecture
+    sources:
+      - https://www.dlrgroup.com/work/logan-memorial-education-complex/
     note: ". Architecture joint venture with Baker Nowicki Design Studio."
   - firm: baker-nowicki-design-studio
     role: architecture

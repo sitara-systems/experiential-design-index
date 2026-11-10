@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "Backlit graphics, murals, window SEG graphics; completed on a 4-week fabrication timeframe, per CMS's own portfolio"
 technologies: []
 summary: >

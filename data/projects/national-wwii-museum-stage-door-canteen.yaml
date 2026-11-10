@@ -6,8 +6,12 @@ year_completed: 2009
 credits:
   - firm: solomon-group
     role: technical-consulting
+    sources:
+      - https://solomongroup.com/projects/bbs-stage-door-canteen
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/bbs-stage-door-canteen
     note: "Turnkey design, fabrication, installation, and show-control programming of lighting, audio, scenic, and video systems for a live stage show and documentary film"
 technologies:
   - show control system

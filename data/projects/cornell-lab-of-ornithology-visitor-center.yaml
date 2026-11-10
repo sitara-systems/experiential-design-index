@@ -6,10 +6,16 @@ year_completed: 2024
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/cornell-lab-of-ornithology/
   - firm: c-and-g-partners
     role: interpretive-planning
+    sources:
+      - https://www.cgpartnersllc.com/projects/cornell-lab-of-ornithology/
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/cornell-lab-of-ornithology/
   - firm: richard-mcelhiney-architects
     role: architecture
     note: "no firm record yet"

@@ -7,6 +7,8 @@ status: completed
 credits:
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/smithsonian-national-museum-of-african-american-history-and-culture/
 technologies:
   - interactive touchscreen
   - archival footage projection

@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: diversified
     role: av-integration
+    sources:
+      - https://onediversified.com/case-study/immersive-visually-dynamic-client-experience-center
     note: "58-foot curved video wall (175 tiles) demonstrating GE Grid IQ technologies"
 technologies:
   - large-format video wall

@@ -6,6 +6,9 @@ year_completed: 2024
 credits:
   - firm: mayer-reed
     role: graphics-wayfinding
+    sources:
+      - https://www.mayerreed.com/gates-are-open-at-washington-school-for-the-deaf/
+      - https://www.mayerreed.com/wsd-wins-segd-award/
     note: "no firm record yet"
   - firm: mithun
     role: architecture

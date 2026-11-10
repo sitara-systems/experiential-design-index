@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: cambridgeseven
     role: architecture
+    sources:
+      - https://www.cambridgeseven.com/project/virginia-aquarium-south-building-and-vet-center/
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/virginia-aquarium-south-building-and-vet-center/
 technologies: []
 summary: >
   A 42,300 sq ft renovation of the Virginia Aquarium & Marine Science

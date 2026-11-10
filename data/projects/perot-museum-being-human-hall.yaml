@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/being-human-hall
     note: "20 interactive installations including a face-swap ancestor station and motion-sensing 'human dance' wall"
   - firm: design-and-production-incorporated
     role: fabrication

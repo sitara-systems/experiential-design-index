@@ -11,6 +11,8 @@ credits:
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://www.d-and-p.com/ocean-hall
   - firm: northern-light-productions
     role: content-production
     note: "12 media pieces, including the Science On a Sphere program"

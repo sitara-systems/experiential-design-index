@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/329
     note: >
       Prime vendor for this recurring 10-acre autumn Halloween-themed
       lighting, audiovisual, and interactive event, running concept
@@ -13,8 +15,12 @@ credits:
       integration; no other outside design firm named.
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/329
   - firm: eos-lightmedia
     role: media-design
+    sources:
+      - https://www.eoslightmedia.com/work/329
 technologies:
   - interactive projection
   - special effects

@@ -6,10 +6,15 @@ year_completed: 2019
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/revealed-hunt-bin-laden/
+      - https://www.cgpartnersllc.com/fresh/post/revealed-the-hunt-for-bin-laden-exhibit-design-wins-a-rare-comm-arts-award-of-excellence/
   - firm: batwin-and-robin
     role: media-design
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/revealed-the-hunt-for-bin-laden
     note: "5-projector curved-wall blend for a 40-ft panoramic display, audio/video/control systems"
 technologies:
   - projection

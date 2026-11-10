@@ -6,8 +6,12 @@ year_completed: 2016
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/north-carolina-aquarium-on-roanoke-island/
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/nc-aquarium-renovation/
     note: "14 media pieces including an immersive 150-degree film and interactive floor projections"
   - firm: color-ad
     role: fabrication

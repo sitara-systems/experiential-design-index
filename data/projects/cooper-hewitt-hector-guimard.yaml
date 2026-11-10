@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: studio-joseph
     role: exhibit-design
+    sources:
+      - https://studiojoseph.com/work/hector-guimard-how-paris-got-its-curves
   - firm: southside-design-build
     role: fabrication
 summary: >

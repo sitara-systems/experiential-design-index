@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: ennead-architects
     role: architecture
+    sources:
+      - https://ennead.com/work/jazz/
   - firm: fisher-dachs-associates
     role: technical-consulting
     note: "No firm record yet"

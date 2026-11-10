@@ -10,6 +10,8 @@ credits:
     role: media-design
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/green-bay-packers-hall-of-fame/
     note: >
       AV systems with a central content-management system, incl. a
       recreation of the 1967 "Ice Bowl" game and a blended multi-projection

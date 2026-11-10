@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: art-guild-inc
     role: fabrication
+    sources:
+      - https://www.artguildinc.com/2020/09/03/the-president-by-madame-tussauds/
     note: >
       Figure mounts, scenic components, labels, graphic murals,
       tension-fabric wall structures

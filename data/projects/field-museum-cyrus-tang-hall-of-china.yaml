@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://www.chicagoscenic.com/projects/cyrus-tang-hall-of-china
     note: "Fabrication, installation, and technical engineering design of 7 custom display cases and 42 back-lit reader rails"
   - firm: the-metal-shop
     role: fabrication

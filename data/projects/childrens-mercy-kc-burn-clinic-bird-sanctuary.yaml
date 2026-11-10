@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: dimensional-innovations
     role: media-design
+    sources:
+      - https://dimin.com/work/childrens-mercy-kansas-city-burn-clinic
   - firm: bsa-lifestructures
     role: architecture
     note: "No firm record yet — primary architecture firm for the clinic"

@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/walker-art-center-vineland-entry/
 technologies: []
 summary: >
   The Vineland Entry, a new 5,500 sq ft entry pavilion with restaurant,

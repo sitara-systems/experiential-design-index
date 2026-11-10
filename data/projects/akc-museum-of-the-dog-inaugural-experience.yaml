@@ -6,8 +6,12 @@ year_completed: 2019
 credits:
   - firm: gensler
     role: exhibit-design
+    sources:
+      - https://www.gensler.com/projects/akc-museum-of-the-dog
   - firm: gensler
     role: interpretive-planning
+    sources:
+      - https://www.gensler.com/projects/akc-museum-of-the-dog
   - firm: lord-cultural-resources
     role: master-planning
     note: "Museum strategy, per SEGD's own project page"

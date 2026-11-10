@@ -12,6 +12,8 @@ credits:
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://d-and-p.com/military-museums
   - firm: available-light
     role: lighting-design
   - firm: cortina-productions

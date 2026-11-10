@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/
 technologies: []
 summary: >
   New exhibits installed at the Begich, Boggs Visitor Center in the

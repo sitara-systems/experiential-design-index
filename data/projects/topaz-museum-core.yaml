@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/the-topaz-museum
     note: "Entrance theater films incl. rare internee archival footage, searchable internee database"
   - firm: west-office
     role: exhibit-design

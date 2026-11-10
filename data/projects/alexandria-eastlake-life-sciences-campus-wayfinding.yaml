@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/alexandria-eastlake/
 summary: >
   Studio Matthews designed neighborhood wayfinding, address markers, and
   monumental murals connecting Alexandria Real Estate's life-science

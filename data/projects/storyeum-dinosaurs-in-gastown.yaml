@@ -6,6 +6,8 @@ year_completed: 2005
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/289
     note: "Lighting and scenic design services (as Douglas Welch Design, since folded into Eos Lightmedia), per Eos Lightmedia's own project page."
 technologies:
   - animatronics

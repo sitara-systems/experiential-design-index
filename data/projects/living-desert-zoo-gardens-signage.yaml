@@ -6,8 +6,12 @@ year_completed: 2008
 credits:
   - firm: taylor-studios
     role: interpretive-planning
+    sources:
+      - https://taylorstudios.com/our-work/living-desert-zoo/
   - firm: taylor-studios
     role: graphics-wayfinding
+    sources:
+      - https://taylorstudios.com/our-work/living-desert-zoo/
 summary: >
   Taylor Studios developed a bilingual (English/Spanish) interpretive master
   sign plan for Living Desert Zoo & Gardens, a New Mexico State Parks site

@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: studio-joseph
     role: exhibit-design
+    sources:
+      - https://studiojoseph.com/work/mac-conner-a-new-york-life
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
 summary: >

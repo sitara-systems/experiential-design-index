@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: creative-technology
     role: av-integration
+    sources:
+      - https://ct-group.com/us/ct-deliver-complex-video-system-infrastructure-for-frameless-immersive-art-experience/
 technologies:
   - projection mapping
   - LED display

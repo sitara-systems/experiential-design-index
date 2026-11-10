@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
 - firm: adirondack-studios
   role: fabrication
+  sources:
+    - https://www.adkstudios.com/portfolio/
   note: Fabrication, per Adirondack Studios' portfolio caption.
 summary: Primate Forest, a 140,000-square-foot indoor primate habitat and education
   complex that transformed and expanded the RainForest at the Cleveland Metroparks

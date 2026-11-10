@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: hilferty-and-associates
     role: exhibit-design
+    sources:
+      - https://www.hilferty.com/project-details
   - firm: exhibit-3-fabrications
     role: fabrication
     note: "No firm record yet"

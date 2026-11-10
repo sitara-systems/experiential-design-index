@@ -9,10 +9,16 @@ credits:
     note: "No firm record yet"
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/jandj/
   - firm: gallagher-and-associates
     role: content-production
+    sources:
+      - https://gallagherdesign.com/project/jandj/
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://d-and-p.com/human-history
 technologies:
   - interactive timeline
   - 3D globe interface

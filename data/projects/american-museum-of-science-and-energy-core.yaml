@@ -10,6 +10,8 @@ credits:
     role: fabrication
   - firm: boston-productions-inc
     role: media-design
+    sources:
+      - https://bostonproductions.com/portfolio/american-museum-science-and-energy/
     note: "Media design, film/video, tactile interactives"
   - firm: communications-electronic-design
     role: av-integration

@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work
 summary: >
   Richmond Olympic Experience, a 13,500-square-foot Olympic and Paralympic
   Winter Games museum inside the Richmond Olympic Oval near Vancouver,

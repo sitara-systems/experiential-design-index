@@ -6,8 +6,14 @@ year_completed: 2025
 credits:
   - firm: beyer-blinder-belle
     role: architecture
+    sources:
+      - https://www.beyerblinderbelle.com/work/view/the-center-for-jewish-history/
+      - https://www.beyerblinderbelle.com/about/news/read/2025/05/marking-25-years-of-partnership-bbb-updates-the-center-for-jewish-historys-public-spaces/
   - firm: beyer-blinder-belle
     role: graphics-wayfinding
+    sources:
+      - https://www.beyerblinderbelle.com/work/view/the-center-for-jewish-history/
+      - https://www.beyerblinderbelle.com/about/news/read/2025/05/marking-25-years-of-partnership-bbb-updates-the-center-for-jewish-historys-public-spaces/
     note: "Via BBB's in-house LVCK studio"
 technologies: []
 summary: >

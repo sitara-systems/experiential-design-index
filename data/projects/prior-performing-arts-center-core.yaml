@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: diller-scofidio-renfro
     role: architecture
+    sources:
+      - https://dsrny.com/project/college-of-the-holy-cross
   - firm: perry-dean-rogers
     role: architecture
     note: "Executive architect; no firm record yet"

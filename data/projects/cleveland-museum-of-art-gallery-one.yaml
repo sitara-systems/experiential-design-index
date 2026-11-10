@@ -11,6 +11,8 @@ credits:
     role: exhibit-design
   - firm: local-projects
     role: media-design
+    sources:
+      - https://localprojects.com/work/interactive-installations/please-touch-the-art/
     note: "All media design; collaborated with museum staff on concept development, including the interactive Collection Wall and ArtLens app"
   - firm: explus
     role: fabrication

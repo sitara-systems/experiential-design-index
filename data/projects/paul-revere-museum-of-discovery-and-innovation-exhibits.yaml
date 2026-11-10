@@ -8,8 +8,12 @@ credits:
     role: architecture
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/cultural-history-1/paul-revere-museum-of-discovery-and-innovation
   - firm: boston-productions-inc
     role: media-design
+    sources:
+      - https://bostonproductions.com/portfolio/modi/
     note: Developed and produced interactive and immersive media, documentary films and RFID systems, working with exhibit designer EXP Studios, per BPI portfolio.
 technologies:
   - interactive digital games

@@ -6,8 +6,12 @@ year_completed: 2017
 credits:
   - firm: solomon-group
     role: graphics-wayfinding
+    sources:
+      - https://solomongroup.com/projects/the-park-at-owa
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/the-park-at-owa
 technologies:
   - illuminated signage
   - wayfinding

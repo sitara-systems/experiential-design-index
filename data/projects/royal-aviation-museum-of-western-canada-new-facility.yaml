@@ -6,14 +6,22 @@ year_completed: 2022
 credits:
   - firm: reich-petch
     role: architecture
+    sources:
+      - https://designrp.com/projects/royal-aviation-museum-of-western-canada/
     note: "Architectural team leadership and building conceptual development"
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/royal-aviation-museum-of-western-canada/
     note: "Aviation, wayfinding, and donor recognition exhibit design"
   - firm: reich-petch
     role: interpretive-planning
+    sources:
+      - https://designrp.com/projects/royal-aviation-museum-of-western-canada/
   - firm: reich-petch
     role: graphics-wayfinding
+    sources:
+      - https://designrp.com/projects/royal-aviation-museum-of-western-canada/
   - firm: architecture-49
     role: architecture
     note: "Local collaborating architect on sustainable building design; no firm record yet"

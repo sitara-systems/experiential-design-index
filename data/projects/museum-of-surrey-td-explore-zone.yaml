@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/museum-of-surrey-td-explore-zone/
   - firm: holman-exhibits
     role: fabrication
     note: "Design-build partner; no firm record yet"

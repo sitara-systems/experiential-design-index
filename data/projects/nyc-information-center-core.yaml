@@ -8,6 +8,8 @@ credits:
     role: architecture
   - firm: local-projects
     role: media-design
+    sources:
+      - https://localprojects.com/
 technologies: []
 summary: >
   The Official New York City Information Center at 810 Seventh Avenue,

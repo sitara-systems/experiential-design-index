@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "Per CMS's own portfolio, which describes a topographic Fuller Map and Tibetan Buddhist Shrine Room immersive experience as part of the gallery's scope; not independently corroborated in institutional coverage of the interactive touchscreen component"
 technologies:
   - interactive touchscreen

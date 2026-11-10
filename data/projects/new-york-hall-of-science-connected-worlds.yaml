@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: design-io
     role: media-design
+    sources:
+      - https://www.design-io.com/projects/connectedworlds
     note: "Lead creative studio — conception, design, development"
   - firm: big-show-consulting-and-management
     role: fabrication

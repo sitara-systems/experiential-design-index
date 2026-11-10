@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://www.chicagoscenic.com/projects/science-storms
     note: "Engineering services, fabrication, automation software development, rigging installation, coordination with other fabrication firms"
   - firm: evidence-design
     role: exhibit-design

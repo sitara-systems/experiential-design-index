@@ -6,8 +6,12 @@ year_completed: 2022
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/utopian-avant-garde
   - firm: isometric-studio
     role: architecture
+    sources:
+      - https://isometricstudio.com/utopian-avant-garde
 technologies: []
 summary: >
   The Utopian Avant-Garde, a 2,300-square-foot exhibition installation,

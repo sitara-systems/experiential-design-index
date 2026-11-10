@@ -6,6 +6,9 @@ year_completed: 2023
 credits:
   - firm: skidmore-owings-and-merrill
     role: architecture
+    sources:
+      - https://www.som.com/projects/high-line-moynihan-connector/
+      - https://www.som.com/news/high-line-wins-two-awards/
   - firm: field-operations
     role: landscape-architecture
     note: "No firm record yet"

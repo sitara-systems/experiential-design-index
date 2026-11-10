@@ -6,8 +6,12 @@ year_completed: 2016
 credits:
   - firm: the-urban-conga
     role: exhibit-design
+    sources:
+      - https://www.theurbanconga.com/projects/press-play
   - firm: the-urban-conga
     role: fabrication
+    sources:
+      - https://www.theurbanconga.com/projects/press-play
 technologies:
   - touch-triggered sound pads
 summary: >

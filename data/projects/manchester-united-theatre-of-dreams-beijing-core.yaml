@@ -6,8 +6,12 @@ year_completed: 2021
 credits:
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/work/corporate-experience/theatre-of-dreams/
   - firm: local-projects
     role: media-design
+    sources:
+      - https://localprojects.com/work/corporate-experience/theatre-of-dreams/
     note: "Media and software development and game design and development."
 technologies:
   - interactive exhibits

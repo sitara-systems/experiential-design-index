@@ -6,8 +6,12 @@ year_completed: 2025
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/robert-rauschenbergs-new-york
   - firm: isometric-studio
     role: architecture
+    sources:
+      - https://isometricstudio.com/robert-rauschenbergs-new-york
 technologies: []
 summary: >
   "Robert Rauschenberg's New York: Pictures from the Real World," an

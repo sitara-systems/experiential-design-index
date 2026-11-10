@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/discovery-center
   - firm: kubik-maltbie
     role: fabrication
     note: >

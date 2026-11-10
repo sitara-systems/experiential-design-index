@@ -7,6 +7,8 @@ status: completed
 credits:
   - firm: mad-systems
     role: av-integration
+    sources:
+      - https://madsystems.com/portfolio-bowers-museum.html
     note: >
       Technology partner; wireless QuickSilver AV platform with TeaParty
       show control powering ~20 media displays and projection-based

@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/shakespeare-unauthorized/
 technologies:
   - interactive digital kiosks
   - theatrical scrims and projection

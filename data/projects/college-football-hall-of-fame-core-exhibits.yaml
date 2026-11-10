@@ -17,9 +17,13 @@ credits:
       LED-animated exterior, in collaboration with sponsor Coca-Cola
   - firm: cortina-productions
     role: content-production
+    sources:
+      - https://bbinet.com/works/college-football-hall-of-fame/
     note: "Media production, per BBI Engineering's own project page"
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/college-football-hall-of-fame/
     note: >
       AV systems design and installation, incl. the interactive "College
       Gameday" virtual-commentator exhibit

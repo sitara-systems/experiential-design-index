@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: populous
     role: architecture
+    sources:
+      - https://populous.com/article/how-populous-brought-brands-to-life-throughout-allianz-field
     note: "Site design and detailing for a 65-foot-wide inscribed monument honoring the Itasca Society season-ticket members"
   - firm: jones-sign-company
     role: fabrication

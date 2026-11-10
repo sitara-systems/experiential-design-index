@@ -6,10 +6,16 @@ year_completed: 2024
 credits:
   - firm: belle-and-wissell
     role: exhibit-design
+    sources:
+      - https://bwco.info/work/remembrance-gallery/
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/remembrance-gallery/
   - firm: belle-and-wissell
     role: content-production
+    sources:
+      - https://bwco.info/work/remembrance-gallery/
   - firm: okano-picard-studio
     role: architecture
     note: "architect and furniture designer; no firm record yet"

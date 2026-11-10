@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/framing-narrative-signage-wayfinding-program/
   - firm: skidmore-owings-and-merrill
     role: architecture
     note: "building architect"

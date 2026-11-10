@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=47
 summary: >
   The International Spy Museum's original location, spanning six historic
   buildings at 8th and F Streets NW in Washington, DC, opened July 19,

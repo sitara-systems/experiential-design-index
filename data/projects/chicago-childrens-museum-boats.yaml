@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://www.chicagoscenic.com/projects/boats-captain-your-own-adventure
     note: "Custom fabrication of the main tugboat, installation management"
 technologies:
   - interactive water-themed play structures

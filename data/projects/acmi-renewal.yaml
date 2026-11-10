@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: schuler-shook
     role: lighting-design
+    sources:
+      - https://www.schulershook.com
 summary: >
   The ACMI (Australian Centre for the Moving Image) renewal in Melbourne,
   Australia, reopened 2020, with lighting design by Schuler Shook.

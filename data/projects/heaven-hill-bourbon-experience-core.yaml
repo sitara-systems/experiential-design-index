@@ -6,15 +6,25 @@ year_completed: 2021
 credits:
   - firm: solid-light
     role: master-planning
+    sources:
+      - https://solidlight-inc.com/work/heaven-hill-bourbon-experience/
   - firm: solid-light
     role: architecture
+    sources:
+      - https://solidlight-inc.com/work/heaven-hill-bourbon-experience/
     note: "Architectural concept design; scope described by Solid Light as concept design rather than architect of record"
   - firm: solid-light
     role: exhibit-design
+    sources:
+      - https://solidlight-inc.com/work/heaven-hill-bourbon-experience/
   - firm: solid-light
     role: media-design
+    sources:
+      - https://solidlight-inc.com/work/heaven-hill-bourbon-experience/
   - firm: solid-light
     role: fabrication
+    sources:
+      - https://solidlight-inc.com/work/heaven-hill-bourbon-experience/
 technologies:
   - interactive media
 summary: >

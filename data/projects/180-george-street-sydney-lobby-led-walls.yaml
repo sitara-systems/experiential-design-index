@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: diversified
     role: av-integration
+    sources:
+      - https://onediversified.com/case-study/180-george-st-sydney
 technologies:
   - LED media wall
 summary: >

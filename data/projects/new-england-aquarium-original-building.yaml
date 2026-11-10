@@ -6,8 +6,12 @@ year_completed: 1969
 credits:
   - firm: cambridgeseven
     role: architecture
+    sources:
+      - https://www.cambridgeseven.com/project/new-england-aquarium/
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/new-england-aquarium/
 technologies: []
 summary: >
   The New England Aquarium, a purpose-built aquarium on Boston's waterfront,

@@ -12,6 +12,8 @@ credits:
     note: "Technical lead; no firm record yet"
   - firm: sitara-systems
     role: media-design
+    sources:
+      - https://www.sitara.systems/tate-in-love-with-the-world/
     technology_tags:
       - artificial-intelligence
     note: >

@@ -6,6 +6,8 @@ year_completed: 2005
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/da-vinci-science-center/
 technologies: []
 summary: >
   The Da Vinci Science Center's building on the Cedar Crest College

@@ -10,8 +10,12 @@ credits:
     role: fabrication
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/9
   - firm: eos-lightmedia
     role: media-design
+    sources:
+      - https://www.eoslightmedia.com/work/9
     note: "Interactive software"
 technologies:
   - interactive lighting

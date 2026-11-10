@@ -6,8 +6,12 @@ year_completed: 2025
 credits:
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects/telus-health-care-centre
   - firm: diversified
     role: av-integration
+    sources:
+      - https://onediversified.com/case-study/telus-health
 technologies:
   - LED wall
   - projection mapping

@@ -6,8 +6,12 @@ year_completed: 2023
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/a-dark-a-light-a-bright
   - firm: isometric-studio
     role: architecture
+    sources:
+      - https://isometricstudio.com/a-dark-a-light-a-bright
   - firm: southside-design-build
     role: fabrication
 technologies:

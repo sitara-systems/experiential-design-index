@@ -12,6 +12,8 @@ credits:
     note: "museum advisory team; wrote RFQs and ran vendor selection for exhibit designers, media/AV developers, and fabricators; no firm record yet"
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/Peoria-Riverfront-Museum
 technology_tags:
   - immersive-environment
 summary: >

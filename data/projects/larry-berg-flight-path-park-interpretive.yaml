@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/66
     note: >
       Provided lighting design and integration services through all phases
       of the project, including the central globe feature carrying

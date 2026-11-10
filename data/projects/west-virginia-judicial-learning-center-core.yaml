@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/west-virginia-judicial-learning-center/
     note: "also credited with graphic design and interpretive writing/research"
 technologies:
   - touchscreen interactives

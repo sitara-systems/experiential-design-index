@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/71
     note: >
       Design-build lighting and audiovisual services, including light art,
       large-format touchscreens, projection systems, a full-range
@@ -14,6 +16,8 @@ credits:
       Construction.
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/71
 technologies:
   - large-format touchscreens
   - integrated audio/lighting control

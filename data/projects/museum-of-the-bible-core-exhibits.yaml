@@ -6,29 +6,45 @@ year_completed: 2017
 credits:
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/museum-of-the-bible
     note: More than 40 AV-driven exhibits across the museum's seven public floors
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/bible-now-reactive-media-space/
     note: "Designed Bible Now, the reactive media gallery on the Floor 2 'Impact of the Bible' exhibit; content developed in consultation with scholarly advisors led by Gordon Campbell, Ph.D. and Byron R. Johnson, Ph.D."
   - firm: the-prd-group
     role: exhibit-design
+    sources:
+      - https://theprdgroup.com/project/museum-of-the-bible/
     note: "Directed a team of a dozen creative firms in developing 100,000 sq ft of exhibitions across the museum, including three galleries of artifacts from the Vatican Library and the Israel Antiquities Authority"
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://d-and-p.com/human-history
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/32
     note: "Exhibit lighting designer for the Impact Gallery, per Eos Lightmedia's own project page."
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://www.eoslightmedia.com/work/32
     note: "Exhibit fabricator for the Impact Gallery specifically, per Eos Lightmedia's own project page."
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/32
     note: >
       Supplied, installed, focused, and programmed the overhead and integral
       lighting of the Impact Gallery's 9-foot-high, 180-foot-long narrative
       tapestry (gobo projection).
   - firm: sh-acoustics
     role: acoustics
+    sources:
+      - https://shacoustics.com/museum-of-the-bible/
     note: >
       Sole exhibit-based acoustics consultant, providing acoustical design
       services for all four primary exhibit galleries and exhibit

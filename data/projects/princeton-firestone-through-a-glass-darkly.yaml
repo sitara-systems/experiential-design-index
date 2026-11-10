@@ -6,8 +6,12 @@ year_completed: 2022
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/through-a-glass-darkly
   - firm: isometric-studio
     role: architecture
+    sources:
+      - https://isometricstudio.com/through-a-glass-darkly
 technologies: []
 summary: >
   "Through a Glass Darkly: Alchemy and the Ripley Scrolls 1400-1700," an

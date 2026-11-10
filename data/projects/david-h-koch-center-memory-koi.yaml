@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: c-and-g-partners
     role: media-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/koi-pond/
     technology_tags:
       - artificial-intelligence
   - firm: potion-design
@@ -15,6 +17,8 @@ credits:
     note: "Collaborating partner on the interactive digital experience"
   - firm: art-guild-inc
     role: fabrication
+    sources:
+      - https://www.artguildinc.com/2021/08/16/a-new-award-winning-museum-interactive-project-for-sloan-kettering-in-new-york/
     note: "Cabinetry, hardware, and installation"
 technologies:
   - real-time interactive animation

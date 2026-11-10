@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: evidence-design
     role: exhibit-design
+    sources:
+      - https://www.evidencedesign.com/details/walk-in-the-woods/
   - firm: phil-fraley-productions
     role: fabrication
     note: "Dioramas/models/taxidermy; no firm record yet"

@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: eos-lightmedia
     role: fabrication
+    sources:
+      - https://www.eoslightmedia.com/work/104
     note: >
       Fabricated the mirror-mounting brackets (3D-printed prototypes,
       shop-fabricated final units) and built the motor, camera, and control

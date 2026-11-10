@@ -9,6 +9,8 @@ credits:
     note: "Design architect"
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/the-studio-museum-in-harlem/
 technologies: []
 summary: >
   A new building for the Studio Museum in Harlem in New York opened

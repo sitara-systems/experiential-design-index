@@ -8,6 +8,8 @@ credits:
     role: lighting-design
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com
     note: "Equipment supply, installation, and programming under Available Light's lighting direction"
   - firm: sh-acoustics
     role: acoustics

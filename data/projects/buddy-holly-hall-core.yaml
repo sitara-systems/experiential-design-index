@@ -12,6 +12,8 @@ credits:
     note: "local associate architect, with MWM Architects; no firm record yet"
   - firm: schuler-shook
     role: lighting-design
+    sources:
+      - https://schulershook.com/projects/buddy-holly-hall-of-performing-arts-and-sciences
     note: "theatre planning and lighting design for the two performance halls; no firm record yet"
 technologies: []
 recognition:

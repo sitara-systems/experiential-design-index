@@ -12,8 +12,12 @@ credits:
     note: "no firm record yet"
   - firm: split-rock-studios
     role: exhibit-design
+    sources:
+      - https://splitrockstudios.com/great-river-childrens-museum/
   - firm: split-rock-studios
     role: fabrication
+    sources:
+      - https://splitrockstudios.com/great-river-childrens-museum/
   - firm: native-skywatchers-design-studio
     role: media-design
     note: "no firm record yet; animation and constellation visualization for the Headwaters exhibit"

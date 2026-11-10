@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: diller-scofidio-renfro
     role: exhibit-design
+    sources:
+      - https://dsrny.com/project/how-wine-became-modern
 technologies: []
 summary: >
   "How Wine Became Modern: Design + Wine 1976 to Now," a temporary

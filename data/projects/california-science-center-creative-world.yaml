@@ -10,6 +10,8 @@ credits:
     note: "Building architecture (per Wikipedia, citing the firm's former name, Zimmer Gunsul Frasca Partnership); distinct from West Office's exhibit-design role"
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/california-science-center-creative-world/
 technologies:
   - solar-powered vehicle racing
   - video-conferencing kiosk

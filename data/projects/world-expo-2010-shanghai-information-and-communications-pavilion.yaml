@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects
 summary: >
   The Information & Communications Pavilion at World Expo 2010 in
   Shanghai, China, opened May 2010, with AV integration by Electrosonic.

@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/Father-Baker-Museum-at-OLV-Basilica-2/
 summary: >
   The Father Baker Museum, an exhibit on the life and charitable works of
   Father Nelson Baker occupying most of the lower level of Our Lady of

@@ -12,6 +12,8 @@ credits:
     note: "Interpretive planning and exhibit design"
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/the-mob-museum/
     note: "Organized Crime Today exhibit, Crime Lab Experience, and Use of Force Training Experience"
   - firm: creo-industrial-arts
     role: fabrication

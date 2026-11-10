@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: 1220-fabrication
     role: fabrication
+    sources:
+      - https://1220.com/portfolio/freedom-rides-museum/
   - firm: ralph-appelbaum-associates
     role: exhibit-design
     note: "Per RAA's own project page."

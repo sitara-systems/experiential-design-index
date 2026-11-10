@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: hks
     role: architecture
+    sources:
+      - https://www.hksinc.com/what-we-do/projects/globe-life-field/
   - firm: vlk-architects
     role: architecture
     note: "Associate architect; no firm record yet"

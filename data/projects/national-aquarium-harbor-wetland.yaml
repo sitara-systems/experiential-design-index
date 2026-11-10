@@ -6,9 +6,13 @@ year_completed: 2024
 credits:
   - firm: ayers-saint-gross
     role: architecture
+    sources:
+      - https://ayerssaintgross.com/work/project/national-aquarium-harbor-wetland/
     note: "Architect of record; original 2014 concept architect was Studio Gang"
   - firm: ayers-saint-gross
     role: landscape-architecture
+    sources:
+      - https://ayerssaintgross.com/work/project/national-aquarium-harbor-wetland/
     note: >
       The firm's own project page lists Services as Landscape Architecture
       only (no "architect of record" language) — added alongside the

@@ -54,7 +54,7 @@ the firm record.
 | `project_type` | project_type id | ✔ | The scope proxy (new building → installation) |
 | `year_completed` | year | ✔ | Opening year; `year_expected` for announced work |
 | `status` | enum | | `completed` (default) / `announced` / `in-progress` |
-| `credits` | list | ✔ | Each: `firm` (firm id), `role` (role id), optional `note`, optional `technology_tags` (subset of the project's own `technology_tags`) marking this credit as the one that **delivered** the tagged technology — set only with sourced evidence; technology ranked lists count only tagged credits |
+| `credits` | list | ✔ | Each: `firm` (firm id), `role` (role id), optional `note`, optional `sources` (see *Credit sources* below), optional `technology_tags` (subset of the project's own `technology_tags`) marking this credit as the one that **delivered** the tagged technology — set only with sourced evidence; technology ranked lists count only tagged credits |
 | `technologies` | list | | Free-text but consistent (e.g. "projection mapping", "RFID") |
 | `technology_tags` | list of technology_tag ids | | Controlled differentiator tags (see vocabularies.yaml `technology_tags` — definitions + evidence bar). Only when the project's cited sources support the tag. |
 | `platforms` | list of platform ids | | Commercial products/software the project was built on (see vocabularies.yaml `platforms`). Sources must name the product on this project; manufacturer deployment case studies count as sources. Not a credit — manufacturers are never credited firms. |
@@ -66,6 +66,28 @@ the firm record.
 Every credit names both the firm and its role — the full delivery stack is
 the point. A credited firm without a record in `data/firms/` is allowed
 temporarily (rendered unlinked) but is a to-do.
+
+### Credit sources
+
+A project's `sources` list is its full bibliography: some entries name
+firms, others only confirm the project and its opening date. A credit's
+optional `sources` list names the entries that actually credit **this firm in
+this role**. Rules:
+
+- Each URL must also appear in the project's `sources` (enforced by
+  `validate.py`). The project list stays the complete record.
+- List only pages that name the firm and its role. A page that merely
+  confirms the project exists or opened does not belong here.
+- The credited firm's own page is valid (first-party) and is marked "own
+  site" on the project page. A partner firm's page, an award archive, an
+  institution's credits page, or press with a credits list is independent.
+- New credits should carry `sources` at entry time. Credits without it are
+  legacy entries still sourced at the project level, not unsourced.
+
+The field was backfilled 2026-11 by rule only: (a) a project source on the
+credited firm's own website domain, and (b) a credit note citing "per
+<Firm>'s own … page" where that firm's page is in the project sources.
+Credits matching neither rule were left for manual passes.
 
 ## Venue
 

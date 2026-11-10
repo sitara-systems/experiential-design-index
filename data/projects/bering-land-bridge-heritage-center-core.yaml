@@ -13,6 +13,8 @@ credits:
     role: fabrication
   - firm: bowen-technovation
     role: av-integration
+    sources:
+      - https://www.bowentechnovation.com/projects/bering-land-bridge-heritage-center/
     note: >
       Credits for this project are sourced only from Bowen Technovation's
       own portfolio page; NPS and independent press coverage do not name

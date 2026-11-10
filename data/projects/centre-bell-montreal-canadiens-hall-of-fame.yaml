@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/projects/montreal-canadiens/
 technologies: []
 summary: >
   The Montreal Canadiens Hall of Fame at Centre Bell in Montreal, Quebec,

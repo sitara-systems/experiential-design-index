@@ -9,8 +9,12 @@ credits:
     note: "No firm record yet"
   - firm: boston-productions-inc
     role: media-design
+    sources:
+      - https://bostonproductions.com/portfolio/slater/
   - firm: bowen-technovation
     role: av-integration
+    sources:
+      - https://www.bowentechnovation.com/projects/samuel-slater-experience/
 technologies:
   - interactive kiosk
   - immersive projection

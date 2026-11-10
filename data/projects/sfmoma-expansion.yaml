@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: snohetta
     role: architecture
+    sources:
+      - https://www.snohetta.com/projects/san-francisco-museum-of-modern-art
 technologies: []
 summary: >
   Snøhetta's approximately 235,000-square-foot expansion of the San

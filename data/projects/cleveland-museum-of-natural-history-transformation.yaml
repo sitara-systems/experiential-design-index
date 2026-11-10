@@ -6,13 +6,21 @@ year_completed: 2024
 credits:
   - firm: dlr-group
     role: architecture
+    sources:
+      - https://www.dlrgroup.com/work/cleveland-museum-of-natural-history-transformation/
   - firm: dlr-group
     role: av-integration
+    sources:
+      - https://www.dlrgroup.com/work/cleveland-museum-of-natural-history-transformation/
     note: "Audiovisual and theater technical design as part of full building-services scope"
   - firm: dlr-group
     role: lighting-design
+    sources:
+      - https://www.dlrgroup.com/work/cleveland-museum-of-natural-history-transformation/
   - firm: dlr-group
     role: acoustics
+    sources:
+      - https://www.dlrgroup.com/work/cleveland-museum-of-natural-history-transformation/
   - firm: gallagher-and-associates
     role: exhibit-design
     note: "Exhibit/experience design for the reimagined galleries"

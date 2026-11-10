@@ -9,6 +9,8 @@ credits:
     note: "Seoul, South Korea-headquartered originator of the Eternal Nature immersive media-art concept."
   - firm: avi-spl
     role: av-integration
+    sources:
+      - https://avispl.com/xtg/our-work/arte-museum/
     note: >
       XTG team recreated the exhibit using US-available AV technology; 80+
       projectors, custom Q-SYS Core610-based audio control.

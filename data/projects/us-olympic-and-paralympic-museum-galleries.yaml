@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/usopm/
     note: "Design director Carl Rhodes"
   - firm: centre-screen
     role: av-integration
@@ -20,21 +22,31 @@ credits:
     note: "Exhibit fabrication and software engineering"
   - firm: diller-scofidio-renfro
     role: architecture
+    sources:
+      - https://dsrny.com/project/united-states-olympic-and-paralympic-museum
     note: "Design architect; no firm record yet"
   - firm: anderson-mason-dale-architects
     role: architecture
     note: "Architect of record; no firm record yet"
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://availablelight.com/projects/united-states-olympic-and-paralympic-museum
     note: "Lighting design for 20,000 sq ft of museum exhibits"
   - firm: tillotson-design-associates
     role: lighting-design
+    sources:
+      - https://www.tillotsondesign.com/museums/us-olympic-paralympic-museum
     note: "Architectural lighting design"
   - firm: gallagher-and-associates
     role: technical-consulting
+    sources:
+      - https://gallagherdesign.com/project/usopm/
     note: "Owner's representation and operations management, per G&A's own project page (distinct from its exhibit-design credit above)"
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/us-olympic-and-paralympic-museum/
     note: >
       Multi-screen blended projections, LCD/LED video walls incl. a
       multi-story non-rectangular LED wall, and motion-tracking interactives;
@@ -42,6 +54,8 @@ credits:
       AV design/production credit above)
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/54
     note: >
       Supplied and integrated exhibit and area lighting, with programming
       and commissioning of select exhibit pieces incl. Cueserver-programmed

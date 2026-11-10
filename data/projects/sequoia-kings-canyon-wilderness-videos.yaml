@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: rlmg
     role: content-production
+    sources:
+      - https://www.rlmg.com/work/sequoia-and-kings-canyon-national-park
     note: "Five live-action/animated videos on responsible wilderness practices; no external partners named"
 technologies:
   - live-action video

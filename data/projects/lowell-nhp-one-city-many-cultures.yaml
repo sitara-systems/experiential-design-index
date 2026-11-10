@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/lowell-national-historical-park/
 technologies:
   - interactive dining table
   - video stations

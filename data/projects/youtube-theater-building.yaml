@@ -6,8 +6,12 @@ year_completed: 2021
 credits:
   - firm: hks
     role: architecture
+    sources:
+      - https://www.hksinc.com/what-we-do/projects/youtube-theater/
   - firm: hks
     role: graphics-wayfinding
+    sources:
+      - https://www.hksinc.com/what-we-do/projects/youtube-theater/
     note: wayfinding and signage
 summary: >
   YouTube Theater, a 6,000-seat performing-arts and events venue at

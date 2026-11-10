@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: studio-joseph
     role: architecture
+    sources:
+      - https://studiojoseph.com/work/brooklyn-childrens-museum-auditorium
 summary: >
   A new auditorium and performance space at the Brooklyn Children's Museum,
   a decade after Rafael Viñoly's museum expansion, opened in Brooklyn, New

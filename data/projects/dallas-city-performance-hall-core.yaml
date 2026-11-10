@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: skidmore-owings-and-merrill
     role: architecture
+    sources:
+      - https://www.som.com/
     note: "Design architect"
   - firm: corgan-associates
     role: architecture

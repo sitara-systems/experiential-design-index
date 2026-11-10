@@ -9,6 +9,8 @@ credits:
     note: Provided preliminary design for the two display cases, which Ideum then engineered and fabricated. No firm record yet.
   - firm: ideum
     role: fabrication
+    sources:
+      - https://ideum.com/portfolio/nm-history-exhibit-cases
     note: Two 10-foot-tall, approximately one-ton, self-supporting glass-and-steel artifact display cases
 technologies: []
 summary: >

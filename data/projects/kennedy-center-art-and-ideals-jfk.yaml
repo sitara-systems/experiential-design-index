@@ -6,17 +6,25 @@ year_completed: 2022
 credits:
   - firm: kieran-timberlake
     role: architecture
+    sources:
+      - https://kierantimberlake.com/updates/kierantimberlake-john-f-kennedy-exhibit/
   - firm: pentagram
     role: exhibit-design
+    sources:
+      - https://www.pentagram.com/work/art-and-ideals-president-john-f-kennedy
     note: "Creative director Abbott Miller"
   - firm: studio-thegreeneyl
     role: media-design
     note: "Interactive media design"
   - firm: batwin-and-robin
     role: content-production
+    sources:
+      - https://www.batwinandrobin.com/projects/art-and-ideals-president-john-f-kennedy/
     note: "Media concepting, design, and production"
   - firm: threshold-acoustics
     role: acoustics
+    sources:
+      - https://threshold.llc/kennedy-center
     note: "Acoustics and AV design"
 technologies:
   - LED architectural frieze

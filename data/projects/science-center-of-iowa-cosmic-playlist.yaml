@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/cosmic-playlist
     note: "Interactive kiosk system letting visitors curate their own planetarium show"
   - firm: cosm
     role: technical-consulting

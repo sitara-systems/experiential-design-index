@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: pure-and-applied
     role: exhibit-design
+    sources:
+      - https://pureandappliedstudio.com/project/emma-stebbins-carving-out-history
     note: "Also designed the exhibition catalogue"
 technologies: []
 summary: >

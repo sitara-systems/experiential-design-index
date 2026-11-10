@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://www.chicagoscenic.com/projects/dupage-childrens-museum
     note: "Fabrication, installation, and overall project management"
   - firm: architecture-is-fun
     role: exhibit-design

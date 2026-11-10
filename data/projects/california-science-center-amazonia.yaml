@@ -6,15 +6,21 @@ year_completed: 2022
 credits:
   - firm: cinnabar
     role: exhibit-design
+    sources:
+      - https://www.eoslightmedia.com/work/392
     note: "Client per Eos Lightmedia's own project page"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/392
     note: >
       Redesigned and integrated lighting for the North American debut of
       this touring photography exhibition, lighting more than 200
       large-scale suspended photographs under the artist's direction.
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/392
     note: "Integrated an immersive soundscape accompanying the photography and video."
 technologies:
   - immersive soundscape

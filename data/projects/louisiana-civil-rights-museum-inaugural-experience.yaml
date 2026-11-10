@@ -6,14 +6,22 @@ year_completed: 2023
 credits:
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://www.localprojects.com/work/institutional-hospital-university-college/sharing-louisianas-unique-place-in-civil-rights-history/
   - firm: local-projects
     role: media-design
+    sources:
+      - https://www.localprojects.com/work/institutional-hospital-university-college/sharing-louisianas-unique-place-in-civil-rights-history/
     note: "Media and software development, including the projection-mapped, motion-tracking 'Dream Cube'"
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/louisiana-civil-rights-museum
     note: "Exhibit producer: scenic environment and artifact mount fabrication, graphics production and installation"
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/louisiana-civil-rights-museum
     note: "AV systems integration and interactive technology"
   - firm: the-artery
     role: content-production

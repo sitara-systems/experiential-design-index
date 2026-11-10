@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: plus-and-greater-than
     role: exhibit-design
+    sources:
+      - https://www.plusandgreaterthan.com/projects/building-stories-24d5z-gml9e-7h884-hhpxe
   - firm: second-story
     role: media-design
     note: >

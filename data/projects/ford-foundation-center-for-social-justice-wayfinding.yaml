@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: gensler
     role: graphics-wayfinding
+    sources:
+      - https://www.gensler.com/projects/ford-foundation-center-for-social-justice
 technologies:
   - environmental graphics
   - braille wayfinding signage

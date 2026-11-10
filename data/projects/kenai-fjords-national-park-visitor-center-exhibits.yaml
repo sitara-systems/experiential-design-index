@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/kenaifjordsnationalpark-jx4gw-k5tz2
   - firm: southern-custom-exhibits
     role: fabrication
     note: "no firm record yet"

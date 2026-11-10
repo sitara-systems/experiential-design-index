@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/cadence-design-systems/
     note: "Designed/fabricated/programmed both lobby interactives"
 summary: >
   Cadence Design Systems' San Jose, California headquarters lobby

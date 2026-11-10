@@ -6,6 +6,8 @@ year_completed: 2005
 credits:
 - firm: bnim
   role: architecture
+  sources:
+    - https://www.bnim.com/projects/adelaide-cobb-ward-sculpture-hall/
   note: Interior architecture of the gallery spaces
 summary: Adelaide Cobb Ward Sculpture Hall at the Nelson-Atkins Museum of Art in
   Kansas City (2,300 SF hall), completed 2005 with architecture by BNIM.

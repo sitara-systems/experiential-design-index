@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: lmn-architects
     role: architecture
+    sources:
+      - https://lmnarchitects.com/project/forest-trailhead-woodland-park-zoo
   - firm: clr-design
     role: exhibit-design
     note: "Habitat designer"

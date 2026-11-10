@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: pelli-clarke-and-partners
     role: architecture
+    sources:
+      - https://pcparch.com/work/type/civic-and-cultural
 technologies: []
 summary: >
   The Luo Gang Concert Hall in Hefei, China, designed by Pelli Clarke &

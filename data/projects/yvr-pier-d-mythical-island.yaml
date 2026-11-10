@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/36
     note: >
       Developed the 360-degree lighting and visual-media experience for
       "Mythical Island," including layered lighting, digital display,
@@ -15,6 +17,8 @@ credits:
       YVR Airport Authority.
   - firm: eos-lightmedia
     role: media-design
+    sources:
+      - https://www.eoslightmedia.com/work/36
 technologies:
   - motion sensors
   - transparent LED glasswork

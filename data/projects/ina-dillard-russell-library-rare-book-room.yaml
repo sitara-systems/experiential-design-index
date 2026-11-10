@@ -6,10 +6,16 @@ year_completed: 2023
 credits:
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/ina-dillard-russell-library/
   - firm: healykohler
     role: graphics-wayfinding
+    sources:
+      - https://www.healykohler.com/project/ina-dillard-russell-library/
   - firm: healykohler
     role: media-design
+    sources:
+      - https://www.healykohler.com/project/ina-dillard-russell-library/
 technologies:
   - digital interfaces
 summary: >

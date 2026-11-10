@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/city-of-faith
   - firm: southside-design-build
     role: fabrication
 technologies: []

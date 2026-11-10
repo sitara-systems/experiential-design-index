@@ -9,8 +9,12 @@ credits:
     note: "No firm record yet"
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/fort-defiance-civil-war-park-interpretive-center/
   - firm: healykohler
     role: graphics-wayfinding
+    sources:
+      - https://www.healykohler.com/project/fort-defiance-civil-war-park-interpretive-center/
 technologies:
   - interactive AV media
   - film production

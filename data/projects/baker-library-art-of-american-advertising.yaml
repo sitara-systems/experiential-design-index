@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/hospitals-universities/the-art-of-american-advertising
     note: "no firm record yet"
   - firm: wb-inc
     role: fabrication

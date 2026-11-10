@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: l-observatoire-international
     role: lighting-design
+    sources:
+      - https://lobsintl.com/project/national-museum-of-qatar/
     note: "facade, landscape, and exterior-artwork lighting"
 technologies: []
 summary: >

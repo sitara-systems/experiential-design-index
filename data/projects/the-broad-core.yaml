@@ -6,12 +6,16 @@ year_completed: 2015
 credits:
   - firm: diller-scofidio-renfro
     role: architecture
+    sources:
+      - https://dsrny.com/project/the-broad
   - firm: gensler
     role: architecture
   - firm: tillotson-design-associates
     role: lighting-design
   - firm: 2x4
     role: graphics-wayfinding
+    sources:
+      - https://2x4.org/work/the-broad
     note: "No firm record yet"
   - firm: hood-design-studio
     role: landscape-architecture

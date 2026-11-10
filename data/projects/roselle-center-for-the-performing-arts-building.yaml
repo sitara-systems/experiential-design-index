@@ -6,6 +6,8 @@ year_completed: 2006
 credits:
   - firm: ayers-saint-gross
     role: architecture
+    sources:
+      - https://ayerssaintgross.com/work/project/university-of-delaware-center-for-the-performing-arts/
 recognition:
   - award: "Mid-Atlantic Construction Award of Merit — Education"
     year: 2007

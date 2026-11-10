@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: ennead-architects
     role: architecture
+    sources:
+      - https://ennead.com/work/yale/
   - firm: hefferan-partnership-lighting-design
     role: lighting-design
     note: "No firm record yet"

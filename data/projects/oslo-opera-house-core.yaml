@@ -6,8 +6,12 @@ year_completed: 2008
 credits:
   - firm: snohetta
     role: architecture
+    sources:
+      - https://www.snohetta.com/projects/norwegian-national-opera-and-ballet
   - firm: snohetta
     role: landscape-architecture
+    sources:
+      - https://www.snohetta.com/projects/norwegian-national-opera-and-ballet
 technologies: []
 summary: >
   The home of the Norwegian National Opera and Ballet in Oslo, Norway,

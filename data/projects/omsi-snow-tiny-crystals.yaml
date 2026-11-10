@@ -6,8 +6,12 @@ year_completed: 2022
 credits:
   - firm: omsi-creative-services
     role: exhibit-design
+    sources:
+      - https://omsi.edu/exhibit-products/snow/
   - firm: omsi-creative-services
     role: fabrication
+    sources:
+      - https://omsi.edu/exhibit-products/snow/
   - firm: goldstream-group
     role: exhibit-design
     note: "Fairbanks-based collaborator; no firm record yet"

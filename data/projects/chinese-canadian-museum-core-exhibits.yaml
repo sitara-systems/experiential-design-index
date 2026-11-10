@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: aldrichpears-associates
     role: exhibit-design
+    sources:
+      - https://aldrichpears.com/project/chinese-canadian-museum/
 summary: >
   The Chinese Canadian Museum, Canada's first museum dedicated to Chinese
   Canadian history, opened in Vancouver's Wing Sang Building on July 1,

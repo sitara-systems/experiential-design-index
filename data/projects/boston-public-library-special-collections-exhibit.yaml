@@ -9,6 +9,8 @@ credits:
     note: "Special Collections Department renovation architect; no firm record yet."
   - firm: arrowstreet
     role: exhibit-design
+    sources:
+      - https://www.arrowstreet.com/portfolio/bpl-special-collections-exhibit/
     note: >
       Flexible graphic exhibit system for artifact displays, mission-statement
       panels, a "Staff Spotlight" section, and QR-code-linked interpretive

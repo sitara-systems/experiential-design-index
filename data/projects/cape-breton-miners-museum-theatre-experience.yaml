@@ -6,14 +6,20 @@ year_completed: 2021
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/147
     note: >
       Lighting and audiovisual design, and supply/integration of all
       technologies within the new theatre experience and the visitor-facing
       lobby.
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/147
   - firm: aldrichpears-associates
     role: exhibit-design
+    sources:
+      - https://aldrichpears.com/project/cape-breton-miners-museum/
 technologies:
   - 270-degree projection
   - motion/vibration effects

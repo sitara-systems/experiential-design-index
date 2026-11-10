@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/women-inspire
     note: "Interactive timeline and personalized inspiration-video station"
   - firm: bbi-engineering
     role: av-integration

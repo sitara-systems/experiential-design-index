@@ -6,12 +6,18 @@ year_completed: 2014
 credits:
   - firm: kasian-architecture
     role: architecture
+    sources:
+      - https://www.eoslightmedia.com/work/45
     note: "Named as project architect (with Moriyama & Teshima Architects) per Eos Lightmedia's own project page (no firm record yet)."
   - firm: moriyama-and-teshima-architects
     role: architecture
+    sources:
+      - https://www.eoslightmedia.com/work/45
     note: "Named as project architect (with Kasian Architecture) per Eos Lightmedia's own project page (no firm record yet)."
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/45
     note: >
       Provided architectural lighting design services for the interior and
       exterior of the new City Hall and Office Building and the Civic

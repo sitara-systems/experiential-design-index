@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: olson-kundig
     role: architecture
+    sources:
+      - https://olsonkundig.com/projects/museum-of-art-washington-state-university/
 technologies: []
 summary: >
   Olson Kundig designed the Jordan Schnitzer Museum of Art at Washington

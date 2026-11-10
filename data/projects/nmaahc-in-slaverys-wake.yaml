@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: monadnock-media
     role: media-design
+    sources:
+      - https://monadnock.org/project/in-slaverys-wake
     note: "Media experience design and production and digital interactive design and development, including an interactive Abolition Map and single-user interactives, for the exhibition's Washington, DC debut"
   - firm: ravenswood-studio
     role: fabrication

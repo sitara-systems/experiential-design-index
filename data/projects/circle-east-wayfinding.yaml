@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: ashton-design
     role: graphics-wayfinding
+    sources:
+      - https://ashton-design.com/work/circle-east
 summary: >
   Ashton Design unified two adjacent commercial districts into Circle
   East, a mixed-use town center in Towson, Maryland, through

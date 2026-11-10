@@ -6,10 +6,19 @@ year_completed: 2019
 credits:
   - firm: dlr-group
     role: architecture
+    sources:
+      - https://www.dlrgroup.com/work/pennsylvania-academy-of-the-fine-arts/
+      - https://www.dlrgroup.com/firm-news/pafa-john-and-rhoden-arts-center/
   - firm: dlr-group
     role: master-planning
+    sources:
+      - https://www.dlrgroup.com/work/pennsylvania-academy-of-the-fine-arts/
+      - https://www.dlrgroup.com/firm-news/pafa-john-and-rhoden-arts-center/
   - firm: dlr-group
     role: lighting-design
+    sources:
+      - https://www.dlrgroup.com/work/pennsylvania-academy-of-the-fine-arts/
+      - https://www.dlrgroup.com/firm-news/pafa-john-and-rhoden-arts-center/
 technologies: []
 summary: >
   The John and Richanda Rhoden Arts Center, an 18,000-square-foot arts

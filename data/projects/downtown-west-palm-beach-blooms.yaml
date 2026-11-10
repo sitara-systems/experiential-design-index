@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/120
     note: >
       Designed the lighting integration (cable pathing, mounting details,
       custom reflectors, photometric renders) and provided commissioning,

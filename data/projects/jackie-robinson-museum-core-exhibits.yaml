@@ -10,6 +10,8 @@ credits:
     role: fabrication
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/jackie-robinson-museum
   - firm: gensler
     role: architecture
     note: "Gensler DXD also collaborated on the Ebbets Field model concept and video wall design"

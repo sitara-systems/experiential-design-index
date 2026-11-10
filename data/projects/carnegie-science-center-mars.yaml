@@ -8,10 +8,14 @@ credits:
     role: exhibit-design
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/carnegie-science-center
   - firm: ravenswood-studio
     role: fabrication
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/mars-the-next-giant-leap-at-the-carnegie-science-center
 technologies:
   - projection mapping
   - edge-blended projection

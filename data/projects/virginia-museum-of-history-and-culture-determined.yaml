@@ -7,8 +7,12 @@ status: completed
 credits:
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/determined-the-400-year-struggle-for-black-equality/
   - firm: healykohler
     role: graphics-wayfinding
+    sources:
+      - https://www.healykohler.com/project/determined-the-400-year-struggle-for-black-equality/
 technologies:
   - interactive AV media
 summary: >

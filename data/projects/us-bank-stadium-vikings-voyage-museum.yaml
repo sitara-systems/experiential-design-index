@@ -6,9 +6,13 @@ year_completed: 2016
 credits:
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://www.dimin.com
     note: Experience design across 18 activation zones.
   - firm: dimensional-innovations
     role: media-design
+    sources:
+      - https://www.dimin.com
     note: Technology integration for the interactive museum.
   - firm: sra-architects
     role: architecture

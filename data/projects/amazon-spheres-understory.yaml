@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: studio-matthews
     role: exhibit-design
+    sources:
+      - https://studiomatthews.com/project/understory-at-amazon-spheres/
   - firm: belle-and-wissell
     role: media-design
   - firm: graham-baba-architects

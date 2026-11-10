@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: local-projects
     role: media-design
+    sources:
+      - https://localprojects.com/
 technologies: []
 summary: >
   The Athletic History Wall in Virtue Field House at Middlebury College,

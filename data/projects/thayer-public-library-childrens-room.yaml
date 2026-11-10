@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: arrowstreet
     role: exhibit-design
+    sources:
+      - https://www.arrowstreet.com/portfolio/thayer-library-childrens-room-2/
     note: >
       4,600 sq ft interior redesign of the children's section: color-based
       zoning, modular seating, and a full-length mural incorporating local

@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/selma-to-montgomery-national-historic-trail/
     note: "23-minute park film; scriptwriting, original 4K filming, and aerial drone cinematography"
 technologies:
   - aerial drone cinematography

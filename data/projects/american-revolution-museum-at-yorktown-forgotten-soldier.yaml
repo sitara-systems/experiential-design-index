@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: the-prd-group
     role: exhibit-design
+    sources:
+      - https://theprdgroup.com/project/forgotten-soldier/
     note: Exhibition design, per PRD's project page.
   - firm: capitol-museum-services
     role: fabrication

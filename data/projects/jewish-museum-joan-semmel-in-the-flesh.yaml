@@ -6,8 +6,12 @@ year_completed: 2025
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/joan-semmel-in-the-flesh
   - firm: isometric-studio
     role: architecture
+    sources:
+      - https://isometricstudio.com/joan-semmel-in-the-flesh
 technologies: []
 summary: >
   "Joan Semmel: In the Flesh," a retrospective of painter Joan Semmel

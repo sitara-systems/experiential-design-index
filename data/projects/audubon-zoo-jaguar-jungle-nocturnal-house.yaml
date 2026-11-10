@@ -6,8 +6,12 @@ year_completed: 2018
 credits:
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/jaguar-jungle-exhibit-audubon-zoo
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/jaguar-jungle-exhibit-audubon-zoo
 technologies:
   - motion-triggered soundscape
   - interactive projection mapping

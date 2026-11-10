@@ -6,9 +6,15 @@ year_completed: 2014
 credits:
   - firm: belle-and-wissell
     role: exhibit-design
+    sources:
+      - https://bwco.info/work/libraryexhibit/
+      - http://www.bwco.info/2015/03/central-library-visitor-center-celebrates-seattle-public-library-history-and-achievements/
     note: "Enclosure design and ADA accessibility for the orientation stations"
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/libraryexhibit/
+      - http://www.bwco.info/2015/03/central-library-visitor-center-celebrates-seattle-public-library-history-and-achievements/
     note: "UI/UX design, 3D building model, and interactive touchscreen stations"
 technologies:
   - interactive touchscreens

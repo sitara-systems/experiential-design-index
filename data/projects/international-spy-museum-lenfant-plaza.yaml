@@ -12,10 +12,14 @@ credits:
     note: "Associate architect, per gallagherdesign.com; no firm record yet"
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/spy/
   - firm: kubik-maltbie
     role: fabrication
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/international-spy-museum
     note: Over 1,300 pieces of AV/interactive equipment across 16 interactive exhibits
   - firm: available-light
     role: lighting-design
@@ -27,9 +31,13 @@ credits:
     note: "Interactive media and films"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/27
     note: "Supplied and integrated exhibit lighting for Kubik/Maltbie's fabrication scope, working alongside exhibit lighting designer Available Light"
   - firm: romeantics
     role: technical-consulting
+    sources:
+      - https://romeantics.com/project/international-spy-museum/
     note: "Listed as multimedia consultant on the firm's portfolio page, alongside Gallagher and Associates; year not stated there."
 technologies:
   - RFID

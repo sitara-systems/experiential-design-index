@@ -6,8 +6,12 @@ year_completed: 2015
 credits:
   - firm: roto
     role: exhibit-design
+    sources:
+      - https://roto.com/museums/places-of-invention
   - firm: roto
     role: fabrication
+    sources:
+      - https://roto.com/museums/places-of-invention
 technologies: []
 recognition:
   - award: "Dibner Award"

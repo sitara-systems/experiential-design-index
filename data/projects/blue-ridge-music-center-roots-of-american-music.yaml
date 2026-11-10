@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: explus
     role: fabrication
+    sources:
+      - https://www.explusinc.com/blue-ridge-music-center.html
 technologies:
   - interactive audio stations
 summary: >

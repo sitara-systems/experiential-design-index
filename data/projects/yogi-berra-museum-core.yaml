@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: explus
     role: fabrication
+    sources:
+      - https://www.explusinc.com/portfolio.html
 technologies: []
 summary: >
   The Yogi Berra Museum & Learning Center on the Montclair State University

@@ -9,8 +9,12 @@ credits:
     note: "no firm record yet"
   - firm: arup
     role: acoustics
+    sources:
+      - https://www.arup.com/projects/sydney-modern-project
   - firm: arup
     role: lighting-design
+    sources:
+      - https://www.arup.com/projects/sydney-modern-project
 technologies: []
 summary: >
   Naala Badu, the Art Gallery of New South Wales' Sydney Modern expansion

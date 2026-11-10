@@ -6,6 +6,8 @@ year_completed: 2006
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/griffith-observatory-permanent-exhibits/
     note: "Designed as Chermayeff & Geismar, the firm's name prior to its C&G Partners rebrand"
   - firm: kubik-maltbie
     role: fabrication

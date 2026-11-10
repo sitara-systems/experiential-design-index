@@ -6,9 +6,14 @@ year_completed: 2015
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/the-hall-at-patriot-place/
+      - https://www.eoslightmedia.com/work/34
     note: "Exhibit designer; contracted Eos Lightmedia for the gallery's lighting scope, per Eos Lightmedia's own project page."
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/34
     note: >
       Lighting design, coordination, programming, and commissioning for the
       new gallery.

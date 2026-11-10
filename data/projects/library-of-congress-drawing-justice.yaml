@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/items/drawing-justice
     note: "no firm record yet"
   - firm: hillmann-and-carr
     role: fabrication

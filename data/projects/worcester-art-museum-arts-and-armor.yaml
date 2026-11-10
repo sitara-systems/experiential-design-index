@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/arts-and-armor
     note: "Animated media triptych projected into three historic arch openings"
   - firm: ikd
     role: architecture

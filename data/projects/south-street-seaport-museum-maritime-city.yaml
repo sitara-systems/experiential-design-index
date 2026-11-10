@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: southside-design-build
     role: fabrication
+    sources:
+      - https://www.southsidedb.com/portfolio-1/maritime-city
 technologies: []
 summary: >
   Maritime City, a three-floor exhibition of 540 objects from the South

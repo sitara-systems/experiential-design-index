@@ -7,10 +7,16 @@ year_expected: 2026
 credits:
   - firm: solid-light
     role: exhibit-design
+    sources:
+      - https://solidlight-inc.com/work/american-printing-house-for-the-blind/
   - firm: solid-light
     role: media-design
+    sources:
+      - https://solidlight-inc.com/work/american-printing-house-for-the-blind/
   - firm: solid-light
     role: fabrication
+    sources:
+      - https://solidlight-inc.com/work/american-printing-house-for-the-blind/
 technologies: []
 summary: >
   The Dot Experience, a 20,000 sq ft accessible museum at the American

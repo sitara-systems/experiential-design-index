@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: why-architecture
     role: architecture
+    sources:
+      - https://why-site.com/
 technologies: []
 summary: >
   The Yoshimoto Pavilion at World Expo 2025 Osaka-Kansai, Japan,

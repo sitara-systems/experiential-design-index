@@ -6,9 +6,13 @@ year_completed: 2025
 credits:
   - firm: dimensional-innovations
     role: master-planning
+    sources:
+      - https://dimin.com/
     note: "On-campus experience design"
   - firm: dimensional-innovations
     role: graphics-wayfinding
+    sources:
+      - https://dimin.com/
     note: "Environmental design"
 technologies: []
 summary: >

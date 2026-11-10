@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: lightswitch
     role: lighting-design
+    sources:
+      - https://lightswitch.net/work/view/gateway-the-deep-space-launch-complex
     note: "Lighting design for the artifact room and entry portals to the media theaters, per the firm's portfolio page."
 technologies:
   - interactive-installation

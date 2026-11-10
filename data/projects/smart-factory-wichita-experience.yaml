@@ -6,12 +6,18 @@ year_completed: 2022
 credits:
   - firm: gensler
     role: media-design
+    sources:
+      - https://www.gensler.com/projects/the-smart-factory-by-deloitte
     note: Digital experience design, digital content design and production, and experience strategy for the tablet-guided visitor journey
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects/the-smart-factory-by-deloitte
     note: Interior architecture and design
   - firm: gensler
     role: graphics-wayfinding
+    sources:
+      - https://www.gensler.com/projects/the-smart-factory-by-deloitte
     note: Environmental graphics and wayfinding
 technologies:
   - real-time data visualization

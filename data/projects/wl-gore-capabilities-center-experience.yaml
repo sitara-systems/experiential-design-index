@@ -14,6 +14,8 @@ credits:
     role: av-integration
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/wl-gore
     note: >
       Interactive experiences including the Advanced Materials Spiral,
       immersive theater, product wall, and performance pods.

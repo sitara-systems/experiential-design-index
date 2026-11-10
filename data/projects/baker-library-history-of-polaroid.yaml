@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/hospitals-universities/history-of-polaroid
     note: "no firm record yet"
   - firm: wb-inc
     role: fabrication

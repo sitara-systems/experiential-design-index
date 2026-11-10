@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/hgas-redesign-of-san-diego-symphonys-jacobs-music-center-elevates-performance-experiences-for-artists-and-patrons/
   - firm: akustiks
     role: acoustics
   - firm: schuler-shook

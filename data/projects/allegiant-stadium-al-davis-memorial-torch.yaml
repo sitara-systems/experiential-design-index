@@ -6,6 +6,9 @@ year_completed: 2020
 credits:
 - firm: dimensional-innovations
   role: fabrication
+  sources:
+    - https://dimin.com/press/dimensional-innovations-creates-al-davis-memorial-torch-for-las-vegas-raiders
+    - https://dimin.com/work/las-vegas-raiders-al-davis-memorial-torch
   note: Developed, 3D-printed, fabricated, tested and installed the 93-foot commemorative
     torch.
 technologies:

@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: hok
     role: exhibit-design
+    sources:
+      - https://www.hok.com/projects/view/kcpl-connect/
 technologies:
   - self-service account kiosks
   - interactive energy-efficiency demonstrations

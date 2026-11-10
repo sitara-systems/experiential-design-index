@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: moment-factory
     role: media-design
+    sources:
+      - https://momentfactory.com/products/village-parallele
     note: >
       Design and production of an immersive nighttime experience across the
       heritage village — technical design, experience design, scenography,

@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: the-exhibits-dept
     role: exhibit-design
+    sources:
+      - https://www.exhibitsdept.com/projects/coastside
     note: "Exhibit design, graphic design direction, content development, and final text; 1,100 sq ft"
   - firm: chris-barela-design
     role: graphics-wayfinding

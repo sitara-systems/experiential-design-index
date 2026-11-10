@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/phases
     note: >
       Kinetic light-and-sound installation (21 motorized mirrors) by AV&C
       and artist Vincent Houzé, premiered at the second annual Day for

@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: click-netherfield
     role: fabrication
+    sources:
+      - https://www.clicknetherfield.com/projects/norwich-castle/
     note: 13 bespoke display cases
 technologies: []
 summary: >

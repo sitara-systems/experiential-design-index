@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: arrowstreet
     role: exhibit-design
+    sources:
+      - https://www.arrowstreet.com/portfolio/bpl-book-mosaic/
     note: >
       Concept, digital layout, and design of a large lobby wall mosaic
       created entirely from hardcover books.

@@ -6,8 +6,12 @@ year_completed: 2023
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/juanita-craft-civil-rights-house
   - firm: isometric-studio
     role: architecture
+    sources:
+      - https://isometricstudio.com/juanita-craft-civil-rights-house
   - firm: parz-designs
     role: fabrication
   - firm: full-point-graphics

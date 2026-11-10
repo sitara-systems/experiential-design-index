@@ -6,8 +6,12 @@ year_completed: 2018
 credits:
   - firm: pure-and-applied
     role: exhibit-design
+    sources:
+      - https://pureandappliedstudio.com/project/waterfront
   - firm: batwin-and-robin
     role: content-production
+    sources:
+      - https://www.batwinandrobin.com/projects/brooklyn-historical-society/
     note: "Animated history video of the Brooklyn waterfront, per the firm's own site"
   - firm: potion-design
     role: media-design

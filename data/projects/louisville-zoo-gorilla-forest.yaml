@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet; designed under the firm's former name, Arrasmith"
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/Louisville-Zoo-Gorilla-Forest
     note: "on other credits; per Hadley's own portfolio"
 technologies:
   - interactive sound trigger

@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: snohetta
     role: architecture
+    sources:
+      - https://www.snohetta.com/projects/swarovski-kristallwelten
 technologies: []
 summary: >
   New architectural elements — a play tower, shop entrance, and café — added

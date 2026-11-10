@@ -6,9 +6,13 @@ year_completed: 2013
 credits:
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "3,200 sq ft postal exhibition with central 270-degree AV theater hub; 6-week demolition/renovation timeframe, per CMS's own portfolio"
   - firm: capitol-museum-services
     role: av-integration
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
 technologies:
   - immersive theater
 summary: >

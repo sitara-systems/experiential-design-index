@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: span-studio
     role: exhibit-design
+    sources:
+      - https://span.studio/projects/currents
     note: "Design direction and design, drawing on Massimo Vignelli's 1972 NYC subway map"
   - firm: colorphonic
     role: fabrication

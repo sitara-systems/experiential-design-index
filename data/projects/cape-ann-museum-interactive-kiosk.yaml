@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/cape-ann-museum/
     note: "Interactive and media design and development, per Trivium's own project page."
 summary: >
   Trivium Interactive produced an interactive kiosk experience following the museum's renovation, completed in 2026, at Cape Ann Museum.

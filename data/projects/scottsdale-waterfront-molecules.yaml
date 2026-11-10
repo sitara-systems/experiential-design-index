@@ -7,8 +7,12 @@ status: completed
 credits:
   - firm: the-urban-conga
     role: exhibit-design
+    sources:
+      - https://www.theurbanconga.com/projects/molecules
   - firm: the-urban-conga
     role: fabrication
+    sources:
+      - https://www.theurbanconga.com/projects/molecules
 technologies:
   - mirrored icosahedral panels
   - voice-reactive LED lighting

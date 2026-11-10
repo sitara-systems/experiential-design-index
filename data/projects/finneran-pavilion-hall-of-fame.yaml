@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: ewingcole
     role: architecture
+    sources:
+      - https://www.ewingcole.com/project/finneran-pavilion/
   - firm: steel-city-displays
     role: fabrication
     note: "No firm record yet"

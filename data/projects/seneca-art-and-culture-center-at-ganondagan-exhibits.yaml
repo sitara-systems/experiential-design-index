@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/ganondagan-4k6td-7nj23
   - firm: francois-de-menil
     role: architecture
     note: "no firm record yet"

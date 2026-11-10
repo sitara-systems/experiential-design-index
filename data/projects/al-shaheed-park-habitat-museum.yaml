@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/habitat-museum
   - firm: acciona-produccion-y-diseno
     role: fabrication
     note: "no firm record yet"

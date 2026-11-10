@@ -6,6 +6,8 @@ year_completed: 2011
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/national-museum-of-scotland
 technologies: []
 summary: >
   The National Museum of Scotland, Edinburgh, reopened July 2011 after a

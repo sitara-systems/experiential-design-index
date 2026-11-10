@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://www.chicagoscenic.com/projects/museum-of-science-and-industry
     note: "Fabricated modular display platforms, scenic elements, and customized mannequins; project management, fabrication, installation"
   - firm: ravenswood-studio
     role: fabrication

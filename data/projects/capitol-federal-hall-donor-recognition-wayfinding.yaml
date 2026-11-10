@@ -11,9 +11,13 @@ credits:
     note: "No firm record yet"
   - firm: dimensional-innovations
     role: graphics-wayfinding
+    sources:
+      - https://dimin.com/work/university-of-kansas-capitol-federal-hall
     note: "Donor recognition walls and wayfinding"
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://dimin.com/work/university-of-kansas-capitol-federal-hall
     note: "Atrium elements"
 technologies: []
 summary: >

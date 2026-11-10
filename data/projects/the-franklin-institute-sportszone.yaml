@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: art-guild-inc
     role: fabrication
+    sources:
+      - https://www.artguildinc.com/2015/11/05/art-guild-fabricates-interactive-experiences-for-new-sportszone-exhibit-at-the-franklin-institute/
     note: "Prototyping, testing, fabrication, and installation"
   - firm: 900lbs-of-creative
     role: media-design

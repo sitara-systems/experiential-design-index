@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/southern-ute-cultural-center-and-museum/
 technologies: []
 summary: >
   The Southern Ute Cultural Center and Museum, a tribally-funded museum in

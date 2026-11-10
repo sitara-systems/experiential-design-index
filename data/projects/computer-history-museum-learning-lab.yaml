@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: lightswitch
     role: lighting-design
+    sources:
+      - https://lightswitch.net/work/view/chm-learning-lab
     note: "Lighting for the lobby, lecture hall, artifact cubbies and exhibit, per the firm's portfolio page."
 technologies:
   - architectural lighting

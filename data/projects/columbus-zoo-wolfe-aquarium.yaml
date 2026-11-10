@@ -7,6 +7,8 @@ status: announced
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/wolfe-aquarium
     note: "Exhibit design, habitat design, and interpretive planning"
   - firm: lmn-architects
     role: architecture

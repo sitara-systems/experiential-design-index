@@ -6,10 +6,19 @@ year_completed: 2014
 credits:
   - firm: solid-light
     role: exhibit-design
+    sources:
+      - https://solidlight-inc.com/work/evan-williams-bourbon-experience/
+      - https://solidlight-inc.com/work/heaven-hill-bourbon-experience/
   - firm: solid-light
     role: media-design
+    sources:
+      - https://solidlight-inc.com/work/evan-williams-bourbon-experience/
+      - https://solidlight-inc.com/work/heaven-hill-bourbon-experience/
   - firm: solid-light
     role: fabrication
+    sources:
+      - https://solidlight-inc.com/work/evan-williams-bourbon-experience/
+      - https://solidlight-inc.com/work/heaven-hill-bourbon-experience/
 technologies:
   - interactive media
 summary: >

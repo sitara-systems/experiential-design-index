@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/wadsworth-atheneum-museum-of-art/
 technologies:
   - bilingual signage
 summary: >

@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: olson-kundig
     role: architecture
+    sources:
+      - https://olsonkundig.com/projects/burke-museum-of-natural-history-and-culture/
   - firm: evidence-design
     role: exhibit-design
   - firm: pacific-studio

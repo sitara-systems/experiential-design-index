@@ -6,8 +6,12 @@ year_completed: 2015
 credits:
   - firm: unified-field
     role: media-design
+    sources:
+      - https://www.unifiedfield.com/projects/strong-museum
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/the-strong-national-museum-of-play/
     note: "Experience design, hardware acquisition and integration, and gesture-recognition software"
 technologies:
   - motion-capture

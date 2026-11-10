@@ -9,8 +9,12 @@ credits:
     note: "No firm record yet"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/52
   - firm: eos-lightmedia
     role: media-design
+    sources:
+      - https://www.eoslightmedia.com/work/52
 recognition:
   - award: "Architizer A+ Awards — Jury and Popular Choice"
     year: 2016

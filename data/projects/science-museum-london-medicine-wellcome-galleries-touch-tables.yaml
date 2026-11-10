@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: ideum
     role: fabrication
+    sources:
+      - https://ideum.com/news/custom-touch-tables-at-science-museum-london
     note: "Designed and fabricated two custom 86-inch touch tables (Colossus screens, custom bases/tops)"
 technologies:
   - multitouch table

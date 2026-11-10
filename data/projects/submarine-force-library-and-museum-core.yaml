@@ -6,8 +6,12 @@ year_completed: 1986
 credits:
   - firm: cambridgeseven
     role: architecture
+    sources:
+      - https://www.cambridgeseven.com/project/uss-nautilus-memorial-submarine-force-library-and-museum/
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/uss-nautilus-memorial-submarine-force-library-and-museum/
 technologies: []
 summary: >
   The USS Nautilus Memorial Submarine Force Library and Museum, a 14,000 sq

@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: hok
     role: exhibit-design
+    sources:
+      - https://www.hok.com/
     note: "Multimedia gallery with exhibits, videos, and interactive touchscreens"
 technologies:
   - interactive touchscreens

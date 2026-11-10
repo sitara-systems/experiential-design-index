@@ -9,8 +9,14 @@ credits:
     note: "no firm record yet"
   - firm: split-rock-studios
     role: exhibit-design
+    sources:
+      - https://splitrockstudios.com/work/international-wolf-center/
+      - https://splitrockstudios.com/discover-wolves/
   - firm: split-rock-studios
     role: fabrication
+    sources:
+      - https://splitrockstudios.com/work/international-wolf-center/
+      - https://splitrockstudios.com/discover-wolves/
 technologies:
   - interactive map
   - virtual reality

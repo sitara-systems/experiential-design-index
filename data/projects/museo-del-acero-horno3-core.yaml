@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com
 recognition:
   - award: "International Illumination Design Award — Memorial Award, Interior Lighting"
     year: 2008

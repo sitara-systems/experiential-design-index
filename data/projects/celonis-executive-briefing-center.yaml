@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects/celonis
 technologies: []
 summary: >
   A six-floor adaptive-reuse Executive Briefing Center within Celonis's

@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects/verizon-at-the-hub
     note: "Interior architecture and design of Verizon's 450,000-square-foot vertical campus, including the Innovation Center."
   - firm: esi-design
     role: media-design

@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: pentagram
     role: graphics-wayfinding
+    sources:
+      - https://www.pentagram.com/work/garden-museum
 technologies: []
 summary: >
   London's Garden Museum, housed in a converted historic church in

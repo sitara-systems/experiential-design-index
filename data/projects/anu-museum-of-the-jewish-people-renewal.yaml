@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/anu/
     note: "Content development, experience design, strategic planning"
 recognition:
   - award: "AAM MUSE Creative Award — Platinum, Experiential and Immersive Design"

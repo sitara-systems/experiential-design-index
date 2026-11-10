@@ -6,6 +6,8 @@ year_completed: 2004
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/hospitals-universities/mit--building-20-exhibit
     note: "no firm record yet"
   - firm: back-bay-signs
     role: fabrication

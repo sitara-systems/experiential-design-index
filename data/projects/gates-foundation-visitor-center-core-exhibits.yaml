@@ -12,6 +12,8 @@ credits:
     note: "No firm record yet"
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/bill-and-melinda-gates-foundation/
     note: >
       AV systems for interactive exhibits incl. the "Where We Work" globe
       display synchronized to six monitors with news and social-feed content

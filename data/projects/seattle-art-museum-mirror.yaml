@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/mirror
     note: "Design, programming, and installation of the facade artwork, in collaboration with artist Doug Aitken"
 technologies:
   - LED facade display

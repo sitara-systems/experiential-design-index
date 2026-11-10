@@ -6,21 +6,29 @@ year_completed: 2014
 credits:
   - firm: davis-brody-bond
     role: architecture
+    sources:
+      - https://www.davisbrodybond.com/national-september-11-memorial-museum
     note: "Design architect for the underground Memorial Museum (no firm record yet)"
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/911-memorial-and-museum
     note: "Lead exhibition designer for the Memorial Museum, with Local Projects (no firm record yet)"
   - firm: layman-design
     role: exhibit-design
     note: "Historical exhibition design, brought on 2010 (no firm record yet)"
   - firm: local-projects
     role: media-design
+    sources:
+      - https://localprojects.com/work/interactive-installations/a-museum-of-collective-memory/
     note: "Oral history platform built from first-person accounts of survivors, first responders, and witnesses"
   - firm: c-and-g-partners
     role: graphics-wayfinding
     note: "Wayfinding signage and environmental graphics for the site"
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/national-september-11-memorial-and-museum
     note: "AV and interactive technology systems, ~1,000 AV devices, 64 projectors"
   - firm: design-and-production-incorporated
     role: fabrication
@@ -30,12 +38,16 @@ credits:
     note: "Fabricated a 12-ft-tall memorial wall mounting photo portraits of the nearly 3,000 victims in steel and acrylic, per Buffalo News"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/5
     note: "Contracted to supply, install, and focus the majority of the exhibit lighting for the museum, per Eos Lightmedia's own project page."
   - firm: fisher-marantz-stone
     role: lighting-design
     note: "Wayfinding through the museum, dramatic emphasis to artifact and architecture"
   - firm: renfro-design-group
     role: lighting-design
+    sources:
+      - https://www.renfrodesign.com/projects
     note: "Lighting design, per the firm's project list (renfrodesign.com/projects), which gives the project year."
 technologies:
   - oral history platform

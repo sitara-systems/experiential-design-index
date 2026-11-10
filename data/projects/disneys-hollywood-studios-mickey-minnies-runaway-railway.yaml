@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: adirondack-studios
     role: fabrication
+    sources:
+      - https://www.adkstudios.com/portfolio/
     note: >
       Credited in Adirondack Studios' own portfolio (Orlando, FL and
       Anaheim, CA listed jointly); Walt Disney Imagineering led creative and

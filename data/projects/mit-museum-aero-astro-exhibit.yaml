@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/hospitals-universities/mit-aero%2Fastro-exhibit
     note: "no firm record yet"
   - firm: advanced-digital
     role: fabrication

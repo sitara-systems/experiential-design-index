@@ -11,14 +11,20 @@ credits:
       selection competition, per Architectural Record
   - firm: voorsanger-architects
     role: architecture
+    sources:
+      - https://voorsanger.com/projects/national-wwii-museum-masterplan
     note: "Design architect for the campus master plan; no firm record yet"
   - firm: mathes-brierre-architects
     role: architecture
     note: "Associate architect; no firm record yet"
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/wwii/
   - firm: gallagher-and-associates
     role: content-production
+    sources:
+      - https://gallagherdesign.com/project/wwii/
   - firm: 1220-fabrication
     role: fabrication
   - firm: lexington

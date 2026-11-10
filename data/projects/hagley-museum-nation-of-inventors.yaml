@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
 - firm: steve-feldman-design
   role: exhibit-design
+  sources:
+    - http://www.stevefeldmandesign.com/nation-of-inventors-hagley-museum-and-library
   note: Project management and general contracting of fabrication and installation
     for the 6,000-square-foot permanent exhibit.
 - firm: van-buren-and-associates

@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: snohetta
     role: architecture
+    sources:
+      - https://www.snohetta.com/projects/el-paso-childrens-museum-la-nube
   - firm: exigo-architecture
     role: architecture
     note: "Local associate architect; no firm record yet"

@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: clr-design
     role: exhibit-design
+    sources:
+      - https://clrdesign.com/project/primate-forest/
   - firm: main-street-design
     role: interpretive-planning
 technologies: []

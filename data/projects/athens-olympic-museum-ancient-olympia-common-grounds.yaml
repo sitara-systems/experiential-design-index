@@ -9,6 +9,8 @@ credits:
     note: "Commissioning immersive agency, with Microsoft as technology partner; no firm record yet"
   - firm: glowbox
     role: media-design
+    sources:
+      - https://www.glowbox.io/work/olympia/
     note: >
       Experience strategy, technical direction, HoloLens 2 software
       development, systems design, and on-site installation.

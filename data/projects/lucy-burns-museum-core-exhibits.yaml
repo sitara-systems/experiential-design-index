@@ -9,6 +9,8 @@ credits:
     note: "Designer Tracy Revis of Howard+Revis Design; no firm record yet"
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "Interactive rotating panels and faux prison doors, per CMS's own portfolio"
 technologies:
   - interactive rotating panels

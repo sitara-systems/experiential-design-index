@@ -6,6 +6,8 @@ year_completed: 2007
 credits:
   - firm: pure-and-applied
     role: exhibit-design
+    sources:
+      - https://pureandappliedstudio.com/project/robert-moses-and-the-modern-city
 technologies: []
 summary: >
   "Robert Moses and the Modern City: Remaking the Metropolis" opened January

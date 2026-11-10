@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: creative-technology
     role: av-integration
+    sources:
+      - https://ct-group.com/me/projects/al-wasl-projection-audio-installation/
 technologies:
   - projection mapping
   - immersive audio

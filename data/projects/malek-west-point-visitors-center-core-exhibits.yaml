@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: monadnock-media
     role: media-design
+    sources:
+      - https://monadnock.org/project/malek-west-point
     note: "Media master planning, exhibit design collaboration, media experience design and production, digital interactive design and development, technical systems design and oversight, and immersive theater design, including a multi-screen projection introduction, a translation app, and an immersive theater with movable stone walls"
   - firm: steve-feldman-design
     role: exhibit-design

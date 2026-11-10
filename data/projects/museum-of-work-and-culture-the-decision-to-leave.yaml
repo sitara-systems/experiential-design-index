@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/farmhouse/
     note: "Interactive and media design and development, per Trivium's own project page."
 summary: >
   Trivium Interactive produced a projected immersive experience on a French Canadian family's decision to leave Quebec for Woonsocket's textile mills, completed in 2023, at Museum of Work & Culture.

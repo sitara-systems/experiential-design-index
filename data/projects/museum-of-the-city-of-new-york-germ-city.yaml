@@ -6,8 +6,12 @@ year_completed: 2018
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/germ-city-exhibition
   - firm: isometric-studio
     role: architecture
+    sources:
+      - https://isometricstudio.com/germ-city-exhibition
   - firm: southside-design-build
     role: fabrication
 technologies: []

@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/items/armenian-genocide
     note: "Exhibit graphics and content development."
   - firm: neal-mayer
     role: exhibit-design

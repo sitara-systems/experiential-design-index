@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: span-studio
     role: exhibit-design
+    sources:
+      - https://span.studio/projects/escaramuza-the-poetics-of-home
     note: "no firm record yet"
 technologies:
   - photographic installation

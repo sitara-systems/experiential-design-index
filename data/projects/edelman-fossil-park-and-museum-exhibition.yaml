@@ -11,17 +11,29 @@ credits:
     note: "No firm record yet"
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/jean-ric-edelman-fossil-park-museum-at-rowan-university/
   - firm: gallagher-and-associates
     role: content-production
+    sources:
+      - https://gallagherdesign.com/project/jean-ric-edelman-fossil-park-museum-at-rowan-university/
   - firm: gallagher-and-associates
     role: interpretive-planning
+    sources:
+      - https://gallagherdesign.com/project/jean-ric-edelman-fossil-park-museum-at-rowan-university/
   - firm: gallagher-and-associates
     role: graphics-wayfinding
+    sources:
+      - https://gallagherdesign.com/project/jean-ric-edelman-fossil-park-museum-at-rowan-university/
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://www.eoslightmedia.com/work/412
     note: "Client per Eos Lightmedia's own project page"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/412
     note: >
       Complete lighting integration (specialty track systems, fixtures,
       programming, commissioning, installation) plus centralized control
@@ -29,6 +41,8 @@ credits:
       Lightmedia's own project page.
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/412
     note: "Hardware procurement, commissioning, and system integration."
   - firm: available-light
     role: lighting-design

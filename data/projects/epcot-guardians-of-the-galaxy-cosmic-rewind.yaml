@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: pgav-destinations
     role: architecture
+    sources:
+      - https://pgavdestinations.com/project/guardians-of-the-galaxy-epcot/
     note: >
       Credited by PGAV Destinations as "Architect of Record": coordinated
       the designs from multiple Walt Disney Imagineering teams (ride,

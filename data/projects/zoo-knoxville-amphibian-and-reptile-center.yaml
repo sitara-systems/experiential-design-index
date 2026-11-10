@@ -6,8 +6,12 @@ year_completed: 2021
 credits:
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://www.dimin.com/
   - firm: dimensional-innovations
     role: fabrication
+    sources:
+      - https://www.dimin.com/
 summary: >
   The Amphibian and Reptile Center at Zoo Knoxville in Knoxville, Tennessee,
   opened in 2021, designed and fabricated by Dimensional Innovations.

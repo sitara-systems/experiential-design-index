@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: ngx-interactive
     role: media-design
+    sources:
+      - https://www.ngxinteractive.com/
     note: "No firm record yet"
 technologies: []
 summary: >

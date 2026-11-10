@@ -12,6 +12,8 @@ credits:
     note: "No firm record yet"
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "Seven-story structure overlooking the bay, multi-level exhibitry; builder SKANSKA (general contractor, not a design-vocabulary role), per CMS's own portfolio, which refers to the venue as 'Cove Welcome Center'"
 technologies: []
 summary: >

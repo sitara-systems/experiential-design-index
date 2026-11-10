@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: avi-spl
     role: av-integration
+    sources:
+      - https://avispl.com/xtg/our-work/sky-view-observatory/
 summary: >
   As part of Sky View Observatory's 2018 renovation atop the Columbia
   Center in Seattle, AVI-SPL designed and integrated a video wall

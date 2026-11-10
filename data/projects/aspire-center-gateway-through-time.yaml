@@ -12,6 +12,8 @@ credits:
     note: "Architecture, content collection, and curation; no firm record yet"
   - firm: span-studio
     role: exhibit-design
+    sources:
+      - https://span.studio/projects/aspire-center-resilience-and-reinvention-exhibition
     note: "Design direction and design"
   - firm: navillus-woodworks
     role: fabrication

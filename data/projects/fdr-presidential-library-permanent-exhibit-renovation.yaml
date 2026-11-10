@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: monadnock-media
     role: media-design
+    sources:
+      - https://monadnock.org/project/fdr
     note: "Media experiences across a 12,000 sq ft renovation, including the World in Crisis and Remembering Pearl Harbor immersive/multi-screen theaters and the Legacy theater film written and narrated by President Bill Clinton"
   - firm: gallagher-and-associates
     role: exhibit-design

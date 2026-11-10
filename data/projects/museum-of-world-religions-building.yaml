@@ -6,8 +6,12 @@ year_completed: 2001
 credits:
   - firm: ralph-appelbaum-associates
     role: architecture
+    sources:
+      - https://raai.com/project/museum-of-world-religions
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/museum-of-world-religions
     note: "content developed with Harvard's Center for the Study of World Religions"
 technologies: []
 summary: >

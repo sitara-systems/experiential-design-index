@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=109
 summary: >
   "Cars, Culture, and the City," an exhibition on New York City's
   century-long relationship with the automobile, was on view at the Museum

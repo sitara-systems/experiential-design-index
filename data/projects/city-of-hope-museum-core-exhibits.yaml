@@ -6,8 +6,12 @@ year_completed: 2018
 credits:
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/projects/the-city-of-hope-museum/
   - firm: stimulant
     role: media-design
+    sources:
+      - https://www.stimulant.com/work/city-of-hope-museum
     note: >
       Three touchscreen interactives and an LED "wishing tree" light
       mesh.

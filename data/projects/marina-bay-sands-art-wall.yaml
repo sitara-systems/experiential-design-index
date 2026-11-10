@@ -12,6 +12,8 @@ credits:
     note: "No firm record yet."
   - firm: renfro-design-group
     role: lighting-design
+    sources:
+      - https://www.renfrodesign.com/portfolio
 technologies: []
 summary: >
   An illuminated art wall at Marina Bay Sands in Singapore, designed by

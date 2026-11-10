@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/ordway-center-for-the-performing-arts/
 technologies: []
 summary: >
   The Ordway Concert Hall, a new addition to the Ordway Center for the

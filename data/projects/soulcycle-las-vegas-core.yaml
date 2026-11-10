@@ -9,10 +9,16 @@ credits:
     note: "No firm record yet"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/47
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/47
   - firm: eos-lightmedia
     role: media-design
+    sources:
+      - https://www.eoslightmedia.com/work/47
 technologies: []
 summary: >
   SoulCycle's Las Vegas studio at Wynn Plaza, designed by CallisonRTKL

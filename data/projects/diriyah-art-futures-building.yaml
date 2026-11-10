@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: creative-technology
     role: av-integration
+    sources:
+      - https://ct-group.com/me/projects/ct-diriyah-art-futures-installation/
 technologies:
   - projection mapping
 platforms:

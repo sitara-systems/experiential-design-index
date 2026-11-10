@@ -11,6 +11,8 @@ credits:
     note: "No firm record yet"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/198
     note: "Supplied, installed, commissioned, and focused the exhibit lighting package"
 technologies: []
 summary: >

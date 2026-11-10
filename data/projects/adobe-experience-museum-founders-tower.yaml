@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: ia-interior-architects
     role: exhibit-design
+    sources:
+      - https://interiorarchitects.com/projects/adobe-experiential-design/
 technologies: []
 summary: >
   The Adobe Experience Museum, a ground-floor exhibit space in Adobe's

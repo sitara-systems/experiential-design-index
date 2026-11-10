@@ -6,8 +6,14 @@ year_completed: 2019
 credits:
   - firm: ideum
     role: exhibit-design
+    sources:
+      - https://ideum.com/portfolio/smithsonian-african-art
+      - https://ideum.com/news/ideum-art-museum-exhibits
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/smithsonian-african-art
+      - https://ideum.com/news/ideum-art-museum-exhibits
 technologies:
   - multitouch table
   - dynamic map interface

@@ -6,9 +6,13 @@ year_completed: 2016
 credits:
   - firm: tait
     role: exhibit-design
+    sources:
+      - https://www.taittowers.com/work/warner-bros-studio-tour-hollywood-stage-48
     note: "Credited as \"produced by Thinkwell, now tait\"; master planning and design of the 25,000 sq ft interactive filmmaking showcase"
   - firm: tait
     role: media-design
+    sources:
+      - https://www.taittowers.com/work/warner-bros-studio-tour-hollywood-stage-48
 technologies:
   - interactive touchscreen
   - green-screen interactive

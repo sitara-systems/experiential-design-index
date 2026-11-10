@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: ia-interior-architects
     role: exhibit-design
+    sources:
+      - https://interiorarchitects.com/projects/mastercard-tech-hub/
 technologies: []
 summary: >
   The Customer Experience Center within Mastercard's Tech Hub at 150

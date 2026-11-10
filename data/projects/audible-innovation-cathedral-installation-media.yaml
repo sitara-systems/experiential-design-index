@@ -15,6 +15,8 @@ credits:
     note: "Teamed with ISG Productions and batwin + robin; specific role division not stated in public sources"
   - firm: batwin-and-robin
     role: content-production
+    sources:
+      - https://www.batwinandrobin.com/projects/audible/
     note: "Installation media telling the company's founding, history, and future"
 technologies:
   - installation media

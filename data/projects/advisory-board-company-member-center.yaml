@@ -6,8 +6,12 @@ year_completed: 2015
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/member-center/
   - firm: c-and-g-partners
     role: media-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/member-center/
     note: Interactive media programming for the data-art installations
   - firm: smithgroup
     role: architecture

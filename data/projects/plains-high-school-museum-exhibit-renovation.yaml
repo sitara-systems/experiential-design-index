@@ -6,11 +6,15 @@ year_completed: 2020
 credits:
   - firm: history-associates
     role: interpretive-planning
+    sources:
+      - https://www.historyassociates.com/celebrating-a-homegrown-hero-the-jimmy-carter-national-historic-site-opens-in-plains-georgia/
     note: "Exhibit planning and content development"
   - firm: healykohler
     role: exhibit-design
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/jimmy-carter-national-historic-site/
 technologies:
   - touchscreen interactive
   - soundscape

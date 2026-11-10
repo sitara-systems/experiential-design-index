@@ -8,6 +8,8 @@ credits:
     role: content-production
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://www.availablelight.com/work/kentucky-derby-museum
 technology_tags:
   - immersive-environment
 summary: >

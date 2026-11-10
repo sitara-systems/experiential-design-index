@@ -6,8 +6,12 @@ year_completed: 2017
 credits:
   - firm: pentagram
     role: exhibit-design
+    sources:
+      - https://www.pentagram.com/work/ferrari-under-the-skin
   - firm: pentagram
     role: graphics-wayfinding
+    sources:
+      - https://www.pentagram.com/work/ferrari-under-the-skin
     note: "wayfinding system derived from Ferrari factory-floor safety markings"
 technologies: []
 summary: >

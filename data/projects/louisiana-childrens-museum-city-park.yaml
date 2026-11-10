@@ -20,12 +20,18 @@ credits:
       parallel claims rather than resolved
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/louisiana-childrens-museum-louisiana-childrens-museumbranding/
   - firm: studio-matthews
     role: interpretive-planning
+    sources:
+      - https://studiomatthews.com/project/louisiana-childrens-museum-louisiana-childrens-museumbranding/
   - firm: solomon-group
     role: fabrication
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://kubikmaltbie.com/
     note: >
       Joined post-Schematic Design in 2019, per kubik maltbie's own
       project page; scope overlaps with Solomon Group's credit above,

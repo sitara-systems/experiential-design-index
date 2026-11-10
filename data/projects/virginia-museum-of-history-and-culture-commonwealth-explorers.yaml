@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: the-prd-group
     role: exhibit-design
+    sources:
+      - https://theprdgroup.com/project/commonwealth-explorers/
     note: Gallery design with the museum education team, per PRD's project page.
   - firm: 1220-fabrication
     role: fabrication

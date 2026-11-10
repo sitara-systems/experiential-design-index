@@ -6,8 +6,12 @@ year_completed: 2001
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/museum-of-world-religions
   - firm: donna-lawrence-productions
     role: content-production
+    sources:
+      - https://dlproductions.com/projects/museum-of-world-religions/
     note: >
       Media environment package including the "Origins" signature film and
       the Great Hall video-tower installation

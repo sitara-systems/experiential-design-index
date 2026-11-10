@@ -6,6 +6,8 @@ year_completed: 2006
 credits:
   - firm: explus
     role: fabrication
+    sources:
+      - https://www.explusinc.com/chestys-corner.html
     note: "700-square-foot children's exhibit."
 summary: >
   Chesty's Corner, a 700-square-foot children's exhibit at the National

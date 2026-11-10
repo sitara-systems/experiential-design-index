@@ -6,8 +6,12 @@ year_completed: 1992
 credits:
   - firm: cambridgeseven
     role: architecture
+    sources:
+      - https://www.cambridgeseven.com/project/tennessee-aquarium/
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/tennessee-aquarium/
 technologies: []
 summary: >
   The Tennessee Aquarium's original building, now known as River Journey,

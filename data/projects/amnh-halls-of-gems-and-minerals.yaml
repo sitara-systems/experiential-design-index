@@ -13,6 +13,8 @@ credits:
     role: fabrication
   - firm: renfro-design-group
     role: lighting-design
+    sources:
+      - https://www.renfrodesign.com/projects
     note: "Lighting design, per the firm's project list (renfrodesign.com/projects), which gives the project year."
 technologies: []
 summary: >

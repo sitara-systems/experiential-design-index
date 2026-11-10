@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/perotmuseumofnatureandscience-497zf-clkbw
   - firm: morphosis
     role: architecture
   - firm: group-delphi

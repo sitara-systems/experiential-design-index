@@ -9,8 +9,12 @@ credits:
     note: "No firm record yet"
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/audubon-nature-institute-butterfly-garden-insectarium/
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/redesigned-audubon-insectarium-and-aquarium-reopens/
     note: >
       2,500 sq ft shared lobby media package for the combined
       Aquarium/Insectarium, including the 264 sq ft motion-reactive WOW!

@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: prime-access-consulting
     role: accessibility-consulting
+    sources:
+      - https://pac.bz/projects/tactile-reproductions-and-mobile-application/
     note: >
       Developed durable tactile replica prototypes of Warhol artworks and
       the "Out Loud" iOS audio guide app with recorded visual and guided

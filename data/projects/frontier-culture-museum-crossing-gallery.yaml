@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: dlr-group
     role: architecture
+    sources:
+      - https://www.dlrgroup.com/work/frontier-culture-museum-of-virginia-crossing-gallery/
     note: "Design architect; 41,000 sq ft new construction + welcome center renovation + new maintenance building"
 technologies: []
 summary: >

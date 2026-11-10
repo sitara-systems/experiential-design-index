@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: proun-design
     role: graphics-wayfinding
+    sources:
+      - https://www.proundesign.com/science/blood-suckers!
     note: "Exhibit graphics"
 summary: >
   Blood Suckers!, a traveling interactive exhibit exploring parasitic

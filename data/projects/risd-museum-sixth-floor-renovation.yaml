@@ -12,6 +12,8 @@ credits:
     note: "No firm record yet"
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=125
 summary: >
   The RISD Museum's eight sixth-floor Radeke Building galleries, housing
   the museum's ancient Egyptian, Asian, and costume and textiles

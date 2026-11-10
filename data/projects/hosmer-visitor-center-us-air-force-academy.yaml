@@ -6,10 +6,16 @@ year_completed: 2026
 credits:
 - firm: gallagher-and-associates
   role: exhibit-design
+  sources:
+    - https://gallagherdesign.com/project/usafa/
 - firm: gallagher-and-associates
   role: interpretive-planning
+  sources:
+    - https://gallagherdesign.com/project/usafa/
 - firm: gallagher-and-associates
   role: media-design
+  sources:
+    - https://gallagherdesign.com/project/usafa/
 summary: >
   The General Bradley and Zita Hosmer Visitor Center at the U.S. Air Force Academy
   in Colorado Springs, Colorado, a roughly 34,000-square-foot visitor center built

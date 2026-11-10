@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: diller-scofidio-renfro
     role: architecture
+    sources:
+      - https://dsrny.com/project/sarofim-hall
   - firm: jackson-and-ryan
     role: architecture
     note: "Executive architect; no firm record yet"

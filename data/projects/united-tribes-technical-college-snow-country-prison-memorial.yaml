@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: mass-design-group
     role: architecture
+    sources:
+      - https://modelofarchitecture.org/projects/snow-country-prison-japanese-american-memorial
   - firm: mass-design-group
     role: interpretive-planning
+    sources:
+      - https://modelofarchitecture.org/projects/snow-country-prison-japanese-american-memorial
   - firm: tillett-lighting-design-associates
     role: lighting-design
     note: "no firm record yet"

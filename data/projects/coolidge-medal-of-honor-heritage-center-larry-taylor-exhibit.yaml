@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: 1220-fabrication
     role: fabrication
+    sources:
+      - https://1220.com/portfolio/national-medal-of-honor-heritage-center/
 summary: >
   The Captain Larry L. Taylor Exhibit, honoring the Vietnam War Medal of
   Honor recipient with a full-scale AH-1G Cobra helicopter replica, opened

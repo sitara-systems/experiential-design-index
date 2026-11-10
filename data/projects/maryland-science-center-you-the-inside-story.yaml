@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: art-guild-inc
     role: fabrication
+    sources:
+      - https://www.artguildinc.com/2021/12/03/you-the-inside-story-a-fun-new-exhibit-for-the-maryland-science-center/
 technologies:
   - digital and electro-mechanical interactives
 summary: >

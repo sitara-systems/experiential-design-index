@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/mfa-virtual-japanese-buddhist-temple-room
     note: Interactive 3D facsimile of the temple room and its seven sculptures, plus a flythrough animation of a traditional temple exterior
   - firm: black-math
     role: media-design

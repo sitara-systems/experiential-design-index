@@ -6,9 +6,13 @@ year_completed: 2024
 credits:
   - firm: gallagher-and-associates
     role: media-design
+    sources:
+      - https://gallagherdesign.com/project/st-nicholas-national-shrine/
     note: "Mobile app content development and guided-tour experience design"
   - firm: gallagher-and-associates
     role: interpretive-planning
+    sources:
+      - https://gallagherdesign.com/project/st-nicholas-national-shrine/
 technologies:
   - mobile app
 summary: >

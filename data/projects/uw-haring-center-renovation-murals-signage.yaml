@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/haring-center/
   - firm: mithun
     role: architecture
+    sources:
+      - https://mithun.com/2024/03/20/uw-haring-center-reopens-to-students/
 summary: >
   Studio Matthews designed murals and signage for the University of
   Washington's Haring Center for Inclusive Education, reopened March 2024

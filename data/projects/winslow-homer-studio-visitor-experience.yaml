@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/winslow-homer-studio-nr3bn
   - firm: mills-whitaker-architects
     role: architecture
 summary: >

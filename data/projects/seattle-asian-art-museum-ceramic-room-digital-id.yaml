@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/sam-saam-system/
 summary: >
   A companion digital labeling system for the newly reopened Ceramic
   Room at the Seattle Asian Art Museum, designed by Belle & Wissell,

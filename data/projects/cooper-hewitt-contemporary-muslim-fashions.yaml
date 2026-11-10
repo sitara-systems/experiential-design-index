@@ -6,8 +6,12 @@ year_completed: 2019
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/contemporary-muslim-fashions
   - firm: isometric-studio
     role: architecture
+    sources:
+      - https://isometricstudio.com/contemporary-muslim-fashions
 technologies: []
 summary: >
   Contemporary Muslim Fashions, a 6,275-square-foot exhibition on modest

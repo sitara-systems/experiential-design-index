@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
 - firm: bnim
   role: architecture
+  sources:
+    - https://www.bnim.com/projects/sarah-and-landon-rowland-american-art-galleries/
   note: Interior architecture of the gallery spaces
 summary: Sarah and Landon Rowland American Art Galleries at the Nelson-Atkins Museum
   of Art in Kansas City (9,700 SF galleries), completed 2009 with architecture by

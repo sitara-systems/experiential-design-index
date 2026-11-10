@@ -7,6 +7,8 @@ status: announced
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/nature-culture-museum-of-wisconsin
     note: "Exhibition planning and design for core visitor experiences"
   - firm: ennead-architects
     role: architecture

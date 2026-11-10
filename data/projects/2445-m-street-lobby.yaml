@@ -8,8 +8,12 @@ credits:
     role: media-design
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/167
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/167
 technologies: []
 summary: >
   A lobby media installation at 2445 M Street in Washington, DC,

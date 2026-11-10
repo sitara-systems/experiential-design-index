@@ -6,10 +6,16 @@ year_completed: 2018
 credits:
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/bluegrass-music-hall-of-fame-museum/
   - firm: healykohler
     role: graphics-wayfinding
+    sources:
+      - https://www.healykohler.com/project/bluegrass-music-hall-of-fame-museum/
   - firm: healykohler
     role: media-design
+    sources:
+      - https://www.healykohler.com/project/bluegrass-music-hall-of-fame-museum/
   - firm: creo-industrial-arts
     role: fabrication
 technologies:

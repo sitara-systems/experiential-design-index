@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: arup
     role: acoustics
+    sources:
+      - https://www.arup.com/en-us/projects/sydney-opera-house-concert-hall-renewal/
   - firm: schuler-shook
     role: lighting-design
 technologies: []

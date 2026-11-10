@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: ashton-design
     role: graphics-wayfinding
+    sources:
+      - https://ashton-design.com/work/oriole-park-at-camden-yards
     note: >
       Environmental graphics refresh: retired-number sculptures, stair
       murals, team-history displays, concessions branding.

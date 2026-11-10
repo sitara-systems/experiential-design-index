@@ -8,12 +8,20 @@ credits:
     role: exhibit-design
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/museum-of-the-southern-jewish-experience
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/museum-of-the-southern-jewish-experience
   - firm: solomon-group
     role: lighting-design
+    sources:
+      - https://solomongroup.com/projects/museum-of-the-southern-jewish-experience
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/projects/museum-of-the-southern-jewish-experience/
     note: >
       Designed and produced seven interactive media exhibits, including
       Community Quilt Interactive (2021 SEMC Technology Competition Gold

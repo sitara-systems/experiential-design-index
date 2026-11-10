@@ -6,6 +6,8 @@ year_completed: 1999
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/smithsonian-institution-national-museum-of-natural-history-discovery-center/
 technologies:
   - IMAX 3D theater
 summary: >

@@ -6,9 +6,13 @@ year_completed: 2023
 credits:
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://dimin.com/work/minnesota-twins-target-field
     note: "Attraction design and environmental design for the revitalized Minnie & Paul sign"
   - firm: dimensional-innovations
     role: lighting-design
+    sources:
+      - https://dimin.com/work/minnesota-twins-target-field
     note: "Specialty lighting for the rotating Baseball Medallion"
 technologies:
   - specialty lighting

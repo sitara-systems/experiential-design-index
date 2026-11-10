@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: ashton-design
     role: graphics-wayfinding
+    sources:
+      - https://ashton-design.com/work/bso
     note: "Wayfinding, ADA signage, donor recognition design and implementation"
 summary: >
   Ashton Design created an integrated wayfinding and donor-recognition

@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: the-exhibits-dept
     role: exhibit-design
+    sources:
+      - https://www.exhibitsdept.com/projects/curiosity-farms
     note: "Graphic design direction, content development, and final exhibit text"
   - firm: ffkr-architects
     role: architecture

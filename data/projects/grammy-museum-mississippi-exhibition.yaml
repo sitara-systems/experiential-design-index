@@ -6,8 +6,12 @@ year_completed: 2016
 credits:
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/grammy-mississippi/
   - firm: gallagher-and-associates
     role: content-production
+    sources:
+      - https://gallagherdesign.com/project/grammy-mississippi/
   - firm: available-light
     role: lighting-design
   - firm: dale-partners

@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/projects/beyond-king-tut/
   - firm: normal-studios
     role: content-production
     note: "No firm record yet"

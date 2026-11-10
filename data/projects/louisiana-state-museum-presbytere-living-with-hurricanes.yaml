@@ -6,8 +6,12 @@ year_completed: 2010
 credits:
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/the-presbyteres-living-with-hurricanes-katrina-and-beyond
   - firm: solomon-group
     role: lighting-design
+    sources:
+      - https://solomongroup.com/projects/the-presbyteres-living-with-hurricanes-katrina-and-beyond
   - firm: explus
     role: fabrication
   - firm: marks-and-spaces

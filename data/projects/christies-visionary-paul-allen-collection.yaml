@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/christies-visionary
     note: >
       LED wall, synchronized touchscreens, and interactive timeline kiosks
       for a 10-day public preview ahead of the November 2022 auction.

@@ -7,6 +7,8 @@ year_completed: 2016
 credits:
   - firm: renfro-design-group
     role: lighting-design
+    sources:
+      - https://www.renfrodesign.com/projects
     note: "Lighting design, per the firm's project list, which gives the project year; scope detail not stated."
 technologies: []
 summary: >

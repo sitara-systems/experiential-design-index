@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: schuler-shook
     role: lighting-design
+    sources:
+      - https://schulershook.com/projects/krannert-art-museum-east-gallery
     note: "LED lighting design and installation for the renovated gallery, developed with the university's Student Sustainability Committee for energy efficiency"
 technologies:
   - LED lighting

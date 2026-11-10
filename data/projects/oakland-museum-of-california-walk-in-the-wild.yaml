@@ -6,6 +6,8 @@ year_completed: 2011
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/oakland-museum-of-california-a-walk-in-the-wild-2/
 technologies: []
 summary: >
   A Walk in the Wild: Continuing Muir's Journey, a temporary exhibition at

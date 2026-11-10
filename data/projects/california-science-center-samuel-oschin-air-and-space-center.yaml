@@ -10,6 +10,8 @@ credits:
     note: "No firm record yet"
   - firm: evidence-design
     role: exhibit-design
+    sources:
+      - https://www.evidencedesign.com/details/samuel-oschin-air-and-space-center/
   - firm: focus-lighting
     role: lighting-design
     note: "No firm record yet — sourced only from Evidence Design's own page, not independently corroborated"

@@ -11,6 +11,8 @@ credits:
     role: exhibit-design
   - firm: batwin-and-robin
     role: media-design
+    sources:
+      - https://www.batwinandrobin.com/projects/national-museum-american-indian/
     note: "\"Creation's Journey\"; winner of the American Muse Award for Technical Excellence, per the firm's own site"
 technologies:
   - 360-degree projection

@@ -6,12 +6,16 @@ year_completed: 2018
 credits:
   - firm: diversified
     role: av-integration
+    sources:
+      - https://onediversified.com/case-study/seamless-technology-integration
     note: >
       Technology integrator for the new observatory entrance at 20 West
       34th Street and grand lobby, including LED displays, large-format
       LCD screens, and projection systems with automatic failover/backup
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://kubikmaltbie.com/project/empire-state-building-the-project-dream/
     note: >
       Fabricated the celestial entry ceiling, two-story architectural
       building model and curved model backdrop, digital wayfinding, and
@@ -19,6 +23,8 @@ credits:
       Empire State Building visitor experience.
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/201
     note: >
       Supplied and integrated lighting for the reconfigured entry level,
       working with Kubik Maltbie on "The Project Dream," including the

@@ -6,12 +6,18 @@ year_completed: 2019
 credits:
 - firm: boston-productions-inc
   role: interpretive-planning
+  sources:
+    - https://bostonproductions.com/portfolio/ahm/
   note: Provided creative direction and interpretive planning for what BPI calls
     its largest museum installation.
 - firm: boston-productions-inc
   role: media-design
+  sources:
+    - https://bostonproductions.com/portfolio/ahm/
 - firm: boston-productions-inc
   role: content-production
+  sources:
+    - https://bostonproductions.com/portfolio/ahm/
   note: Media production.
 summary: The American Heritage Museum, a 68,000-square-foot military-history museum
   of the Collings Foundation in Hudson, Massachusetts, opened in 2019 (preview October

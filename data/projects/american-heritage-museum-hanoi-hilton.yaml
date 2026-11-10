@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
 - firm: boston-productions-inc
   role: media-design
+  sources:
+    - https://bostonproductions.com/portfolio/hanoi-hilton/
   note: Produced the multimedia interpretation of the reassembled cells, projecting POW interviews and archival footage onto cell surfaces, in collaboration with the museum.
 summary: The "Hanoi Hilton" Vietnam POW exhibit, with cells rebuilt from materials
   salvaged from the Hoa Lo prison, opened at the American Heritage Museum in Hudson,

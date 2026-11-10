@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: steve-feldman-design
     role: exhibit-design
+    sources:
+      - http://www.stevefeldmandesign.com/national-mounted-warrior-museum
     note: "No firm record yet"
   - firm: building-four-fabrication
     role: fabrication

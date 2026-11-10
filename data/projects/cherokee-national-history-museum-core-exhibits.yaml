@@ -6,11 +6,15 @@ year_completed: 2019
 credits:
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/cherokee-national-history-museum/
   - firm: ralph-appelbaum-associates
     role: exhibit-design
     note: "Per Capitol Museum Services' own portfolio (design partner on 4,000 sq ft permanent galleries plus 1,000 sq ft rotating exhibit area, incl. augmented reality interactive elements)"
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
 technologies:
   - three-screen film installation
   - archival imagery

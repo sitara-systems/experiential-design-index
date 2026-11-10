@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: lord-cultural-resources
     role: interpretive-planning
+    sources:
+      - https://www.lord.ca/projects/project-experience/harry-j.-enns-wetland-discovery-centre
     note: "Interpretive Renewal Plan, content development, and design, in partnership with WeatherstonBruer Associates"
   - firm: weatherstonbruer-associates
     role: exhibit-design

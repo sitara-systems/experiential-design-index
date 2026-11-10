@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: explus
     role: fabrication
+    sources:
+      - https://www.explusinc.com/portfolio.html
 technologies: []
 summary: >
   The Grubbs Environmental Center, an education center at the H.L. Mooney

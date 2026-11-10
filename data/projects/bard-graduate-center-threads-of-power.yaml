@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: southside-design-build
     role: fabrication
+    sources:
+      - https://www.southsidedb.com/portfolio-1/threads-of-power
   - firm: full-point-graphics
     role: fabrication
     note: "graphics production (cut vinyl, stencils, large format printing)"

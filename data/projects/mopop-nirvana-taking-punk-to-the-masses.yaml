@@ -6,9 +6,15 @@ year_completed: 2011
 credits:
   - firm: belle-and-wissell
     role: graphics-wayfinding
+    sources:
+      - https://bwco.info/work/nirvana-taking-punk-to-the-masses-2/
+      - https://bwco.info/work/nirvana-taking-punk-to-the-masses/
     note: "Exhibition graphic design"
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/nirvana-taking-punk-to-the-masses-2/
+      - https://bwco.info/work/nirvana-taking-punk-to-the-masses/
     note: "Interactive exhibit experiences"
   - firm: curious-beast
     role: exhibit-design

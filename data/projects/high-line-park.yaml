@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
 - firm: diller-scofidio-renfro
   role: architecture
+  sources:
+    - https://dsrny.com/project/the-high-line
   note: Design collaboration with James Corner Field Operations and Piet Oudolf
 summary: The High Line, a 1.5-mile public park on a former elevated railroad in
   Manhattan, was designed by Diller Scofidio + Renfro in collaboration with James

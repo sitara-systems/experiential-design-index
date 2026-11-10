@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: rlmg
     role: content-production
+    sources:
+      - https://www.rlmg.com/work/hershey-childrens-hospital
     note: "70-foot panoramic forest wall with time-lapse viewing portals"
   - firm: payette
     role: architecture

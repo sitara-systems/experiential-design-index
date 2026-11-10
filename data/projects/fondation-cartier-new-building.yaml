@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: l-observatoire-international
     role: lighting-design
+    sources:
+      - https://lobsintl.com/news/fondation-cartier-opening-soon/
 technologies: []
 summary: >
   Fondation Cartier's new building opposite the Louvre in Paris opened

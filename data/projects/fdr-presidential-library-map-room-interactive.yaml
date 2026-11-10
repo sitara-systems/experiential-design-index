@@ -6,9 +6,15 @@ year_completed: 2019
 credits:
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/franklin-d-roosevelt-presidential-library-museum/
+      - https://nlprod.com/fdr-presidential-library-and-museum/
     note: "Orientation film Forged in the Fire of War; three 65-inch Map Room interactive displays; visitor center interactives"
   - firm: northern-light-productions
     role: media-design
+    sources:
+      - https://nlprod.com/item/franklin-d-roosevelt-presidential-library-museum/
+      - https://nlprod.com/fdr-presidential-library-and-museum/
 technologies:
   - interactive touchscreen
 summary: >

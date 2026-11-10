@@ -6,11 +6,15 @@ year_completed: 2020
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/the-california-museum-for-history-women-and-the-arts-gold-mountain-chinese-california-stories-gallery-renovation/
     note: >
       3,000 sq ft gallery renovation; design, code compliance, and DSA/State
       Fire Marshal approvals for the new exhibit space
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/gold-mountain/
     note: "Exhibit conception, design, and dragon design"
   - firm: cinnabar
     role: fabrication

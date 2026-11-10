@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/north-museum-of-nature-and-science-masterplan-entry-and-exhibits/
     note: "also led the museum's master plan"
 technologies:
   - full-dome digital theater/planetarium

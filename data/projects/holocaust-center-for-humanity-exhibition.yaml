@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: olson-kundig
     role: exhibit-design
+    sources:
+      - https://olsonkundig.com/projects/holocaust-center-for-humanity/
 technologies: []
 summary: >
   Olson Kundig designed the exhibition and spatial fit-out of the Holocaust

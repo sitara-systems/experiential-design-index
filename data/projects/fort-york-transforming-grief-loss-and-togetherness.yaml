@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: prime-access-consulting
     role: accessibility-consulting
+    sources:
+      - https://pac.bz/projects/transforming-grief-loss-and-togetherness-in-covid-19-exhibition/
     note: >
       Designed, produced, and launched a fully multimodal, tri-lingual,
       community co-created exhibition for the City of Toronto in an

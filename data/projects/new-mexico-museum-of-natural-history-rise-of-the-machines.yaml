@@ -6,8 +6,12 @@ year_completed: 2007
 credits:
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/rise-of-the-machines/
   - firm: belle-and-wissell
     role: content-production
+    sources:
+      - https://bwco.info/work/rise-of-the-machines/
   - firm: weatherhead-design
     role: content-production
     note: "No firm record yet"

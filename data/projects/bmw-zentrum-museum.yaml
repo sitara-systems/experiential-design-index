@@ -6,6 +6,8 @@ year_completed: 1997
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/bmw-zentrum
 technologies: []
 summary: >
   BMW Zentrum, BMW's 25,000-square-foot North American automotive museum at

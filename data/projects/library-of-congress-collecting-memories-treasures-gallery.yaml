@@ -9,6 +9,8 @@ credits:
     note: "With Roger Westerman Design; Library of Congress in-house design office. No firm record yet"
   - firm: batwin-and-robin
     role: content-production
+    sources:
+      - https://www.batwinandrobin.com/projects/collecting-memories-treasures-from-the-library-of-congress/
     note: "Linear digital media design and production"
   - firm: upswell
     role: media-design

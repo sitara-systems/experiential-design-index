@@ -6,9 +6,13 @@ year_completed: 2012
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/sunnylands-center-gardens/
     note: "Interpretive exhibits, interactive kiosks, and a glasses-free 3D video tour"
   - firm: reich-petch
     role: graphics-wayfinding
+    sources:
+      - https://designrp.com/projects/sunnylands-center-gardens/
     note: "Interior and exterior signage, branding, identity, and standards manual"
   - firm: frederick-fisher-and-partners
     role: architecture

@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/engineering-lab/
     note: "Interactive and media design and development, per Trivium's own project page."
 summary: >
   Trivium Interactive produced three interactives, including Rotorcraft Challenge, built around five engineering disciplines, completed in 2018, at Connecticut Science Center.

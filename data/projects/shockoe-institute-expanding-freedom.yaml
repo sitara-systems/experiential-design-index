@@ -6,9 +6,13 @@ year_completed: 2026
 credits:
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/work/civil-rights-memorials/enduring-freedom/
     note: Vision and flagship exhibit design
   - firm: local-projects
     role: media-design
+    sources:
+      - https://localprojects.com/work/civil-rights-memorials/enduring-freedom/
   - firm: 1220-fabrication
     role: fabrication
     note: "Named on Local Projects' site as '1220 Exhibits'"

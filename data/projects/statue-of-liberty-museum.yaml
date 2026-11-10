@@ -20,12 +20,16 @@ credits:
     role: fabrication
   - firm: diversified
     role: av-integration
+    sources:
+      - https://onediversified.com/case-study/audio-visual-and-digital-signage-technology-immerses-museum-visitors
     note: >
       AV and digital signage technology across the Immersive Theater
       (8 laser-phosphor projectors), Star Mural Donor Wall, Engagement
       Gallery, and the 40'x11' Becoming Liberty LED video wall
   - firm: sh-acoustics
     role: acoustics
+    sources:
+      - https://shacoustics.com/statue-of-liberty-museum/
     note: >
       Established the museum's acoustic environments, mitigated noise
       factors, and designed/calibrated the audio systems; implemented custom

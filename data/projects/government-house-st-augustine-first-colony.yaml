@@ -6,8 +6,12 @@ year_completed: 2013
 credits:
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/government-house/
   - firm: healykohler
     role: graphics-wayfinding
+    sources:
+      - https://www.healykohler.com/project/government-house/
 technologies:
   - touch tables
   - tablets

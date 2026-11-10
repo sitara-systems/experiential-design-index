@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: arrowstreet
     role: graphics-wayfinding
+    sources:
+      - https://www.arrowstreet.com/portfolio/pilgrim-monument-and-provincetown-museum/
     note: >
       New exterior sign system for both site entrances, designed to
       coordinate with the museum's new inclined elevator.

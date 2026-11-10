@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: brc-imagination-arts
     role: content-production
+    sources:
+      - https://www.brcweb.com/project/the-selig-experience/
     note: >
       Story and concept development, design, immersive media production,
       fabrication, technical systems, and installation for the multimedia

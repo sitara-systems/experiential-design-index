@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: diversified
     role: av-integration
+    sources:
+      - https://onediversified.com/case-study/modern-interactive-exhibits-esb
     note: >
       AV systems, digital content production, and display integration
       across a 74-projection-surface curved mosaic wall and a King Kong

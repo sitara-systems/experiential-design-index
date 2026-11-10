@@ -10,8 +10,12 @@ credits:
     note: "no firm record yet"
   - firm: split-rock-studios
     role: exhibit-design
+    sources:
+      - https://splitrockstudios.com/idsdc-breaks-ground-2024/
   - firm: split-rock-studios
     role: fabrication
+    sources:
+      - https://splitrockstudios.com/idsdc-breaks-ground-2024/
 technologies:
   - interactive educational displays
 summary: >

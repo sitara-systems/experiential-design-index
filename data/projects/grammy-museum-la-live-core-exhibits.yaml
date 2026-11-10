@@ -13,6 +13,8 @@ credits:
       interactive audio production suites
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://d-and-p.com/human-history
 technologies:
   - media wall
   - interactive audio production stations

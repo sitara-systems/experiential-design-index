@@ -9,6 +9,8 @@ credits:
     note: "Design."
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://www.chicagoscenic.com/projects/360-chicago
     note: "Fabrication, installation, project management"
   - firm: silver-oaks
     role: media-design

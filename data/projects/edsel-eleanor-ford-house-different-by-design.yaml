@@ -9,6 +9,8 @@ credits:
     note: "Museumcroft/Snodgrass Design; no firm record yet"
   - firm: proun-design
     role: graphics-wayfinding
+    sources:
+      - https://www.proundesign.com/cultural-history-1/different-by-design
 technologies:
   - interactive design games
 summary: >

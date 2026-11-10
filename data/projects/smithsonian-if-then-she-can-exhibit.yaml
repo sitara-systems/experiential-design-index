@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/ifthenshecan-theexhibt-d23hj-77p3y
   - firm: group-delphi
     role: fabrication
     note: "statue production credited generally, not fabricator-of-record for every statue"

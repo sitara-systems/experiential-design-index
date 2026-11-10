@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: glowbox
     role: media-design
+    sources:
+      - https://www.glowbox.io/work/illuminated-forest/
     note: >
       Concept design, interaction and motion design, hardware
       specification, systems design, software engineering, and content

@@ -6,13 +6,19 @@ year_completed: 2021
 credits:
   - firm: unified-field
     role: exhibit-design
+    sources:
+      - https://www.unifiedfield.com/projects/motla
   - firm: unified-field
     role: media-design
+    sources:
+      - https://www.unifiedfield.com/projects/motla
   - firm: yazdani-studio-of-cannondesign
     role: architecture
     note: "No firm record yet"
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/the-claudia-nelson-peltz-social-lab-museum-of-tolerance
   - firm: hlb-lighting-design
     role: lighting-design
     note: "No firm record yet"

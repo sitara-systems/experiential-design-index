@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/independence-visitor-center
     note: >
       42-foot interactive digital wall with touch, proximity sensors, and
       machine-learning-driven content
@@ -14,6 +16,8 @@ credits:
     note: "Brand identity. No firm record yet"
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/independence-visitor-center
     technology_tags:
       - artificial-intelligence
     note: >

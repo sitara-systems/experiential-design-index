@@ -15,9 +15,13 @@ credits:
     note: "Hydro building; no firm record yet"
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://dimin.com/work/csu-spur
     note: "Environmental design and interactive exhibits across all three buildings"
   - firm: dimensional-innovations
     role: media-design
+    sources:
+      - https://dimin.com/work/csu-spur
     note: "Immersive technology"
 technologies:
   - immersive media

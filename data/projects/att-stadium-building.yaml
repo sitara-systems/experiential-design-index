@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: hks
     role: architecture
+    sources:
+      - https://www.hksinc.com/what-we-do/projects/att-stadium/
 technologies:
   - Mitsubishi Electric center-hung videoboard
 summary: >

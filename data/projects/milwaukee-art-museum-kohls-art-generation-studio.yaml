@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/milwaukee-art-museum-kohls-art-generation/
 technologies: []
 summary: >
   Kohl's Art Generation Studio, a family learning space at the

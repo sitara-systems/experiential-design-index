@@ -6,8 +6,12 @@ year_completed: 2013
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/fresh/post/fresh-project-against-the-odds-at-museum-of-jewish-heritage/
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=132
 summary: >
   "Against the Odds: American Jews & the Rescue of Europe's Refugees,
   1933-1941" opened at the Museum of Jewish Heritage – A Living Memorial

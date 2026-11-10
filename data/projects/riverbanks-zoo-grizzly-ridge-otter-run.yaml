@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
 - firm: clr-design
   role: exhibit-design
+  sources:
+    - https://clrdesign.com/project/riverbanks-zoo-grizzly-ridge-otter-run/
   note: Exhibit design per CLR Design's project page.
 summary: Grizzly Ridge and Otter Run, the first phase of the $36 million Destination
   Riverbanks expansion at Riverbanks Zoo in Columbia, South Carolina, opened on

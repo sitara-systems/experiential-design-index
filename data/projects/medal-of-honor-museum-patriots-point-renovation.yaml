@@ -20,6 +20,8 @@ credits:
     note: "No firm record yet"
   - firm: bowen-technovation
     role: av-integration
+    sources:
+      - https://www.bowentechnovation.com/projects/medal-of-honor-museum-patriots-point/
     note: "Role inferred from Bowen's consistent AV-integration pattern on comparable projects"
 technologies:
   - video wall

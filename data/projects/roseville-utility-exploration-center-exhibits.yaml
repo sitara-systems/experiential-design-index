@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: the-exhibits-dept
     role: exhibit-design
+    sources:
+      - https://www.exhibitsdept.com/projects/roseville
     note: "Exhibit design, graphic design direction, project management, content development, and final text; 3,300 sq ft"
 technologies:
   - interactive props

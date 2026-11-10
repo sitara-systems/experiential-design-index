@@ -6,6 +6,8 @@ year_completed: 2005
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/discovery-world-at-pier-wisconsin/
   - firm: la-dallman
     role: exhibit-design
     note: "Grace La and James Dallman; permanent exhibit design; no firm record yet"

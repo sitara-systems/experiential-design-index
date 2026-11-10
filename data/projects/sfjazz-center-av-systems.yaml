@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/sf-jazz-center/
     note: >
       Full building AV incl. Miner Auditorium performance/recording
       systems, deployable projection screen, Joe Henderson Lab,

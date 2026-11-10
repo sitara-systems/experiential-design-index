@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/natural-history-building-mammoth/
 summary: >
   A 100-square-foot life-size mammoth sculpture outside the Natural History
   Building at the University of Illinois Urbana-Champaign, completed in

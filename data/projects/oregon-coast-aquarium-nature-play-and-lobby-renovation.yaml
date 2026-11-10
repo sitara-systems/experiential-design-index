@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: dangermond-keane-architecture
     role: architecture
+    sources:
+      - https://bearingarchitecture.com/portfolio/oregon-coast-aquarium/
   - firm: walker-macy
     role: landscape-architecture
     note: "Landscape design for the nature play area and site work; no firm record yet"

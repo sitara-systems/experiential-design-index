@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/faithful-friends/
     note: "Interactive and media design and development, per Trivium's own project page."
 summary: >
   Trivium Interactive produced a suite of interactives for the exhibition Faithful Friends on faith, culture and friendship, completed in 2025, at Children's Museum of Houston.

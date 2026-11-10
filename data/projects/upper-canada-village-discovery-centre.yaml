@@ -6,9 +6,13 @@ year_completed: 2011
 credits:
   - firm: reich-petch
     role: architecture
+    sources:
+      - https://designrp.com/projects/upper-canada-village-discovery-centre-tier-2-in-process/
     note: "In association with NORR Limited."
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/upper-canada-village-discovery-centre-tier-2-in-process/
     note: >
       4,500 sq. ft. exhibit on the St. Lawrence River's role in the War of
       1812 and the Battle of Crysler's Farm, including a giant touch table

@@ -6,8 +6,12 @@ year_completed: 2017
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/thats-worth-celebrating-exhibition
   - firm: isometric-studio
     role: architecture
+    sources:
+      - https://isometricstudio.com/thats-worth-celebrating-exhibition
 technologies: []
 summary: >
   "That's Worth Celebrating: The Life and Work of the Johnson Family," a

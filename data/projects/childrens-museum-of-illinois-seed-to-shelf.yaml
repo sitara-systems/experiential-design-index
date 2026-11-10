@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://www.chicagoscenic.com/projects/seed-to-shelf
     note: "Fabrication, installation, and project management"
   - firm: kraemer-design-and-production
     role: exhibit-design

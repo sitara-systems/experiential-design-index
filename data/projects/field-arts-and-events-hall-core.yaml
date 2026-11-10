@@ -6,10 +6,16 @@ year_completed: 2024
 credits:
   - firm: lmn-architects
     role: architecture
+    sources:
+      - https://lmnarchitects.com/project/field-arts-events-hall-at-the-port-angeles-waterfront-center
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/port-angeles-waterfront-center-field-art-events-hall/
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/field-arts-events-hall/
 technologies: []
 summary: >
   Field Arts & Events Hall at the Port Angeles Waterfront Center in

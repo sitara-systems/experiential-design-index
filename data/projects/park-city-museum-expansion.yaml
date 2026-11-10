@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/park-city-museum/
   - firm: pacific-studio
     role: fabrication
   - firm: auerbach-glasgow-french

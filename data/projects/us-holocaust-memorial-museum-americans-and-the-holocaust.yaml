@@ -8,6 +8,8 @@ credits:
     role: content-production
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/the-united-states-holocaust-memorial-museum
   - firm: howard-plus-revis-design
     role: exhibit-design
   - firm: hadley-exhibits

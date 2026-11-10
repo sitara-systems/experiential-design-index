@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/
 technologies: []
 summary: >
   "Virgil Ortiz: ReVOlution: Rise Against the Invasion," an exhibition

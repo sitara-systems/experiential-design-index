@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: pure-and-applied
     role: exhibit-design
+    sources:
+      - https://pureandappliedstudio.com/project/folk-city-exhibition
 technologies:
   - listening stations
 summary: >

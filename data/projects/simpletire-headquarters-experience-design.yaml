@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: crafted-action
     role: master-planning
+    sources:
+      - https://www.craftedaction.com/work/simpletire
     note: >
       Experiential Master Plan (EMP) & digital implementation, per Crafted
       Action's own portfolio page. CONFLICTING SOURCE: NELSON Worldwide's
@@ -15,6 +17,8 @@ credits:
       possible sub-consultant/white-label situation, not resolved.
   - firm: crafted-action
     role: media-design
+    sources:
+      - https://www.craftedaction.com/work/simpletire
   - firm: nelson-worldwide
     role: architecture
     note: "No firm record yet. Lead Architect & Designer per Crafted Action's page."

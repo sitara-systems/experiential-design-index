@@ -6,11 +6,15 @@ year_completed: 2013
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/louisiana-sports-hall-of-fame
   - firm: trahan-architects
     role: architecture
     note: "no firm record yet"
   - firm: renfro-design-group
     role: lighting-design
+    sources:
+      - https://www.renfrodesign.com/projects
     note: "Lighting design, per the firm's project list (renfrodesign.com/projects), which gives the project year."
 technologies:
   - interactive digital displays

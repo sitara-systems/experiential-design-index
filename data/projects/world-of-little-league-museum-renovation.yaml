@@ -6,10 +6,16 @@ year_completed: 2013
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/world-of-little-league/
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://d-and-p.com/human-history
   - firm: design-and-production-incorporated
     role: av-integration
+    sources:
+      - https://d-and-p.com/human-history
   - firm: cortina-productions
     role: media-design
 technologies:

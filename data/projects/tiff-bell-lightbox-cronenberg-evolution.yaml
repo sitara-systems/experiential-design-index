@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/tiff-david-cronenberg-evolution/
   - firm: cfc-media-lab
     role: content-production
     note: "Canadian Film Centre's Media Lab; developed \"Body/Mind/Change,\" a concurrent interactive extension of this exhibition (Nov 2013–Jan 2014); no firm record yet"

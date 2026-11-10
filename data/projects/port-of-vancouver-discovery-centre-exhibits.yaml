@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/38
     note: "Designed, supplied, installed, and programmed lighting, AV, and interactive-projection systems for the 9,700 sq ft public visitor and meeting space at Canada Place"
 technologies:
   - interactive projection

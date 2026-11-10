@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: design-io
     role: media-design
+    sources:
+      - https://www.design-io.com/projects/studioplay
     note: >
       Interactive experience design and software development for the
       family interactive gallery.

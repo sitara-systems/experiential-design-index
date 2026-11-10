@@ -6,14 +6,24 @@ year_completed: 2022
 credits:
   - firm: pgav-destinations
     role: architecture
+    sources:
+      - https://pgavdestinations.com/project/pittsburgh-steelers-hall-of-honor-museum/
   - firm: pgav-destinations
     role: exhibit-design
+    sources:
+      - https://pgavdestinations.com/project/pittsburgh-steelers-hall-of-honor-museum/
   - firm: pgav-destinations
     role: graphics-wayfinding
+    sources:
+      - https://pgavdestinations.com/project/pittsburgh-steelers-hall-of-honor-museum/
   - firm: pgav-destinations
     role: interpretive-planning
+    sources:
+      - https://pgavdestinations.com/project/pittsburgh-steelers-hall-of-honor-museum/
   - firm: mad-systems
     role: av-integration
+    sources:
+      - https://madsystems.com/portfolio-steelers-hall.html
     note: >
       AV infrastructure design, engineering, and integration (AV++ platform)
 technologies:

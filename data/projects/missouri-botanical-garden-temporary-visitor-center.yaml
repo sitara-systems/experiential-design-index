@@ -6,8 +6,12 @@ year_completed: 2020
 credits:
   - firm: ayers-saint-gross
     role: architecture
+    sources:
+      - https://ayerssaintgross.com/work/project/missouri-botanical-garden-phase-one-visitor-center/
   - firm: ayers-saint-gross
     role: graphics-wayfinding
+    sources:
+      - https://ayerssaintgross.com/work/project/missouri-botanical-garden-phase-one-visitor-center/
     note: "Interior color-blocking, stencils, and botanical-inspired graphics for the temporary structure"
 summary: >
   The Temporary Visitor Center, a 13,500 sq ft interim visitor-services

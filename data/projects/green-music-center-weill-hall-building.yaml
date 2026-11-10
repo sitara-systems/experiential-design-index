@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: william-rawn-associates
     role: architecture
+    sources:
+      - https://rawnarch.com/projects/joan-and-sanford-i.-weill-hall.html
     note: "Architect, per William Rawn Associates' project page (Completion 2012)."
   - firm: a-c-martin-partners
     role: architecture

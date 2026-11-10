@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: ia-interior-architects
     role: architecture
+    sources:
+      - https://interiorarchitects.com/projects/red-hat-boston/
 technologies: []
 summary: >
   Red Hat's global Executive Briefing Center and Open Innovation Labs at

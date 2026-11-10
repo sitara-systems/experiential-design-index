@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: peter-hyde-design
     role: exhibit-design
+    sources:
+      - https://www.peterhydedesign.com/projects/the-volunteers-americans-join-world-war-i-1914-1919/
 technologies:
   - ambulance simulator
 summary: >

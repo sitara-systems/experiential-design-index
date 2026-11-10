@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: christopher-chadbourne-and-associates
     role: exhibit-design
+    sources:
+      - https://cargocollective.com/ccadesign/Tampa-Bay-History-Center
 summary: >
   The Tampa Bay History Center, a 60,000 sq ft museum on the Tampa
   Riverwalk, opened January 17, 2009, with architecture by Verner

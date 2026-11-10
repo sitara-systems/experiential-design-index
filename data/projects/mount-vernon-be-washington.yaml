@@ -8,11 +8,17 @@ credits:
     role: exhibit-design
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/projects/washington-turn-lead/
     note: "Lead interactive producer; developed gameplay and produced media"
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/george-washingtons-mt-vernon
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/george-washingtons-mt-vernon
 technologies:
   - 6K LED wall
   - interactive touchscreen kiosks

@@ -17,12 +17,16 @@ credits:
     note: "AV integration, per Sitara's own project page (sitara.systems/ypm-multimedia) — not independently corroborated elsewhere."
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=115
     note: >
       Credited on the firm's own portfolio (ajld.net); independent press
       coverage describes relit galleries and restored dioramas but does not
       name a specific lighting designer.
   - firm: sitara-systems
     role: media-design
+    sources:
+      - https://www.sitara.systems/ypm-multimedia/
     note: "Building-wide system of 15 digital interpretive interactives; no firm record yet"
 technologies: []
 summary: >

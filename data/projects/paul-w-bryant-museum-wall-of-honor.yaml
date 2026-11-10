@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/university-of-alabama
     note: >
       Touchscreen video wall highlighting Paul "Bear" Bryant's 38-season
       coaching career.

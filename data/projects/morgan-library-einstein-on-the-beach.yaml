@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=119
 summary: >
   "Robert Wilson/Philip Glass: Einstein on the Beach," an exhibition of the
   score and designs from the 1976 opera's premiere, was on view at The

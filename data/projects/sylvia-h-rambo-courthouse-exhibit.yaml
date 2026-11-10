@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/harrisburg-courthouse
     note: "Exhibition planning, design, and media production"
   - firm: ennead-architects
     role: architecture

@@ -12,6 +12,8 @@ credits:
     note: "No firm record yet"
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/rhodes-college-paul-barret-jr-library/
 technologies: []
 summary: >
   The Paul Barret Jr. Library at Rhodes College in Memphis, Tennessee,

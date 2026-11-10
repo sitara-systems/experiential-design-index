@@ -6,10 +6,14 @@ year_completed: 2024
 credits:
 - firm: beaudry-interactive
   role: media-design
+  sources:
+    - https://www.binteractive.com/post/e-l-wiegand-educational-activity-center
   note: Interactive experiences, educational content and the "Diva" show-control
     system for the digital interactives.
 - firm: beaudry-interactive
   role: exhibit-design
+  sources:
+    - https://www.binteractive.com/post/e-l-wiegand-educational-activity-center
   note: Interior design, spatial planning and automotive-themed environmental graphics
     for the 3,000-square-foot children's center.
 technologies:

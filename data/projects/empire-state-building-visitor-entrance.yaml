@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/empire-state-building
     note: >
       New street-level observatory entrance; first phase of a two-phase
       visitor-experience redevelopment (second phase covered by the 80th

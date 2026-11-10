@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/7
     note: >
       Installed and commissioned the museum's exhibit lighting, including
       784 fiber-optic luminaires, 139 LED case lights, and 50 LED track

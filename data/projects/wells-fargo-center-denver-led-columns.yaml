@@ -9,6 +9,8 @@ credits:
     note: "Experience design lead; five 85-foot LED columns in the glass atrium"
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/wells-fargo-dever-co
     note: "Software platform choreographing the canvases from local data and social feeds"
 technologies:
   - LED display

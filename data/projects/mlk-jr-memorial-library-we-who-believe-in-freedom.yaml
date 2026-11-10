@@ -6,9 +6,13 @@ year_completed: 2023
 credits:
   - firm: tessellate
     role: exhibit-design
+    sources:
+      - https://www.tessellatestudio.com/exhibit-design-firms-washington-dc
     note: "No firm record yet"
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/approach/museums/
 summary: >
   We Who Believe in Freedom: Black Feminist DC, the National Women's
   History Museum's first free-standing physical exhibition, opened at

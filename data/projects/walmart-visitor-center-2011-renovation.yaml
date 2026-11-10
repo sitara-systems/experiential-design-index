@@ -6,8 +6,12 @@ year_completed: 2011
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/the-walmart-museum/
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://kubikmaltbie.com/project/walmart-visitor-center/
     note: "Design-build, fabrication, and installation"
 technologies:
   - AV theater

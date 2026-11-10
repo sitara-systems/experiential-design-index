@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: the-exhibits-dept
     role: exhibit-design
+    sources:
+      - https://www.exhibitsdept.com/projects/cabrillo
     note: "Exhibit design and concept visualization"
   - firm: the-acorn-group
     role: interpretive-planning

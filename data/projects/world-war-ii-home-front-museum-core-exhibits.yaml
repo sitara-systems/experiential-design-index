@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: 1220-fabrication
     role: fabrication
+    sources:
+      - https://1220.com/portfolio/national-world-war-ii-museum/
 summary: >
   The World War II Home Front Museum, a new museum in the historic Coast
   Guard Station on St. Simons Island, Georgia, opened December 2018,

@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/cape-fear-mobile-scavenger-hunt
     note: "Bilingual mobile-web scavenger hunt app replacing a paper activity"
   - firm: global-exhibit-technology
     role: av-integration

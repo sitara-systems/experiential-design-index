@@ -6,9 +6,13 @@ year_completed: 2010
 credits:
   - firm: zgf-architects
     role: architecture
+    sources:
+      - https://ehdd.com/project/ecosystems-wing/
     note: "Joint venture with EHDD Architecture, per EHDD's own independent project page"
   - firm: ehdd
     role: architecture
+    sources:
+      - https://ehdd.com/project/ecosystems-wing/
     note: "Joint venture with ZGF Architects"
 technologies:
   - immersive-environment

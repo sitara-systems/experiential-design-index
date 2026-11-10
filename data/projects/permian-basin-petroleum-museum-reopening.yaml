@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: explus
     role: fabrication
+    sources:
+      - https://www.explusinc.com/permian-basin-petroleum-museum.html
   - firm: nassal
     role: fabrication
 summary: >

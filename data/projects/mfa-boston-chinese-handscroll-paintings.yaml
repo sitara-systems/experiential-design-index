@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/mfa-boston-chinese-handscroll-paintings
     note: "High-resolution scroll-viewing interactive for six Song Dynasty handscroll paintings"
 technologies:
   - high-resolution imaging

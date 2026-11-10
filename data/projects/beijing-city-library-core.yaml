@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: snohetta
     role: architecture
+    sources:
+      - https://www.snohetta.com/projects/beijing-library
   - firm: ecadi
     role: architecture
     note: "Local executive/collaborating architect."

@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
 - firm: boston-productions-inc
   role: media-design
+  sources:
+    - https://bostonproductions.com/portfolio/roper/
   note: Created six custom gamified digital interactives with electro-mechanical
     interfaces.
 summary: Our Water Story, a set of exhibits on Greenville's fresh water and wastewater

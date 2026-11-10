@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: peter-hyde-design
     role: exhibit-design
+    sources:
+      - https://www.peterhydedesign.com/projects/beacon-childrens-hospital-nature-play-therapy-atrium/
 technologies:
   - touch and sound quizzes
   - natural percussion instruments

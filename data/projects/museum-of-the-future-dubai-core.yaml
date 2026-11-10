@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: avi-spl
     role: av-integration
+    sources:
+      - https://avispl.com/resources/case-studies/museum-of-the-future-case-study/
     note: "AVI-SPL Middle East"
 technology_tags:
   - immersive-environment

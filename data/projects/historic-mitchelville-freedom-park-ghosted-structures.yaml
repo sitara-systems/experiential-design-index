@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/cultural-history-1/historic-mitchelville-freedom-park
   - firm: wla-studio
     role: landscape-architecture
     note: "no firm record yet; preservation landscape architecture and master planning"

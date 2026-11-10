@@ -9,10 +9,14 @@ credits:
     note: "Architect of record; no firm record yet"
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/tennessee-state-museum-celebrates-grand-opening-of-new-home/
   - firm: gallagher-and-associates
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://www.d-and-p.com/tennessee-state-museum
   - firm: shen-milsom-and-wilke
     role: av-integration
     note: "no firm record yet"
@@ -21,6 +25,8 @@ credits:
     note: "no firm record yet"
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/tennessee-state-museum/
   - firm: cortina-productions
     role: media-design
     note: >

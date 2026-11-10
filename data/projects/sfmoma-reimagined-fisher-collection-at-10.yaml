@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: prime-access-consulting
     role: accessibility-consulting
+    sources:
+      - https://pac.bz/projects/re-imagined-the-fisher-collection-at-10/
     note: >
       Developed an integrated accessibility system across the ~250-work,
       four-floor reinstallation: tactile wayfinding (maps, floor

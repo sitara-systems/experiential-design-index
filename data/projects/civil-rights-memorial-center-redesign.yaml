@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: monadnock-media
     role: media-design
+    sources:
+      - https://monadnock.org/project/splc
     note: "Media and exhibit design across the 5,000 sq ft center's redesign, including a projected film over a photo-montage mural, a stained-glass interactive martyrs table, a nine-screen orientation theater, and a single-user interactive featuring a community poem by Kwame Alexander"
 technologies:
   - projection mapping

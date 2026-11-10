@@ -6,6 +6,8 @@ year_completed: 2003
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/chabot-space-science-center-mars-encounter/
 technologies:
   - telescopic viewing stations
 summary: >

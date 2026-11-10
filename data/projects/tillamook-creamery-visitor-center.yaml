@@ -6,8 +6,12 @@ year_completed: 2018
 credits:
   - firm: olson-kundig
     role: architecture
+    sources:
+      - https://olsonkundig.com/projects/tillamook-creamery/
   - firm: olson-kundig
     role: exhibit-design
+    sources:
+      - https://olsonkundig.com/projects/tillamook-creamery/
 technologies: []
 summary: >
   Tillamook Creamery, a visitor center at the Tillamook County Creamery

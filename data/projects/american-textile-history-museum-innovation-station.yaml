@@ -11,6 +11,8 @@ credits:
     role: fabrication
   - firm: proun-design
     role: graphics-wayfinding
+    sources:
+      - https://www.proundesign.com/cultural-history-1/innovation-station
 technologies: []
 summary: >
   Innovation Station, a 2011 hands-on exhibit at the American Textile

@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/body-metrics
     note: "'Heart Sync' light-sensor heartbeat display and 'Body Moves' Kinect-tracked movement challenges"
   - firm: local-projects
     role: exhibit-design

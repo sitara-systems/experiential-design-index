@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: the-prd-group
     role: exhibit-design
+    sources:
+      - https://theprdgroup.com/project/our-commonwealth/
     note: Exhibit and content design, per PRD's project page.
   - firm: 1220-fabrication
     role: fabrication

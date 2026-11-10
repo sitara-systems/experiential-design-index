@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: southside-design-build
     role: fabrication
+    sources:
+      - https://www.southsidedb.com/portfolio-1/conserving-active-matter
 technologies: []
 summary: >
   Conserving Active Matter, an exhibition examining conservation of

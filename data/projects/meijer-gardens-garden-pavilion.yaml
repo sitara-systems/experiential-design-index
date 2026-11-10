@@ -8,6 +8,8 @@ credits:
     role: architecture
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/frederik-meijer-gardens-sculpture-park/
 technologies: []
 summary: >
   A new Garden Pavilion and welcome center at Frederik Meijer Gardens &

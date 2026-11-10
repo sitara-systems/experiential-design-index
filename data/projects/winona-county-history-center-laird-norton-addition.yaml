@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/winona-county-history-center/
     note: "Design lead Joan Soranno"
 technologies: []
 summary: >

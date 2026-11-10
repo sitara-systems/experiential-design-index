@@ -6,6 +6,8 @@ year_completed: 2011
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/108
     note: >
       Provided exhibit lighting for four of the science centre's galleries
       and the Creative Kids museum, using a museum-grade LED track lighting
@@ -13,6 +15,8 @@ credits:
       a 65% reduction in annual energy use versus conventional designs.
   - firm: art-guild-inc
     role: fabrication
+    sources:
+      - https://www.artguildinc.com/project/telus-spark-science-center/
     note: Listed in Art Guild's museum portfolio; the project page does not itemize scope. Fabrication role per the firm's practice.
 technologies:
   - museum-grade LED track lighting

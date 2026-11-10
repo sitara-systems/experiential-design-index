@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: tait
     role: media-design
+    sources:
+      - https://www.taittowers.com/work/limitless-flight-jump
     note: >
       Primary development partner for the wingsuit flight simulation
       system: custom rig, wing suit, and VR helmet; Unreal Engine-driven
@@ -15,6 +17,8 @@ credits:
       content.
   - firm: tait
     role: fabrication
+    sources:
+      - https://www.taittowers.com/work/limitless-flight-jump
     note: Design, engineering, and fabrication of the custom flight rig and suspension system.
 technologies:
   - Unreal Engine real-time 3D

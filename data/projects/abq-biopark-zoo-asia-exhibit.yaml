@@ -9,12 +9,16 @@ year_completed: 2023
 credits:
   - firm: clr-design
     role: exhibit-design
+    sources:
+      - https://clrdesign.com/project/abq-biopark-asia-grand-opening-aza-award/
     note: "Habitat design for the Asia expansion, per CLR Design's project news page."
   - firm: main-street-design
     role: interpretive-planning
     note: "Interpretive planning and design"
   - firm: creo-industrial-arts
     role: fabrication
+    sources:
+      - https://www.creoindustrialarts.com/portfolio/abq-biopark-zoo/
     note: "Project management, design support, exhibit fabrication, interactive development, media integration, scenic production, and signage"
 technologies: []
 summary: >

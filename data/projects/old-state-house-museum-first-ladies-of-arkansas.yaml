@@ -6,8 +6,12 @@ year_completed: 2018
 credits:
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/first-ladies-of-arkansas-women-of-their-times/
   - firm: healykohler
     role: graphics-wayfinding
+    sources:
+      - https://www.healykohler.com/project/first-ladies-of-arkansas-women-of-their-times/
 technologies:
   - motion-activated lighting
   - touch screen kiosks

@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: c-and-g-partners
     role: media-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/digital-signage-program/
     note: "Concept, visual design, development, and deployment"
   - firm: brightsign
     role: av-integration

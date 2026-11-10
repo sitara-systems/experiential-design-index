@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
 - firm: adirondack-studios
   role: fabrication
+  sources:
+    - https://www.adkstudios.com/portfolio/
   note: STEAM fabrication, per Adirondack Studios' portfolio caption.
 summary: Mayor Clayton's WonderLab, a six-space STEAM activity center for children
   with critical illnesses at Give Kids The World Village in Kissimmee, Florida,

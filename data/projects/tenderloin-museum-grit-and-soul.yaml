@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/tenderloin-museum/
 technologies: []
 summary: >
   Grit and Soul, the inaugural exhibition of the Tenderloin Museum in San

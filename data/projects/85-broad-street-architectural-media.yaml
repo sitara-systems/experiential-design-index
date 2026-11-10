@@ -6,9 +6,13 @@ year_completed: 2018
 credits:
   - firm: esi-design
     role: media-design
+    sources:
+      - https://esidesign.com/work/85-broad-street-new-york-corporate-lobby-renovation/
     note: "Experience design lead"
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/85-broad-street
     note: "Generative software engine driving the lobby's dynamic media surfaces"
   - firm: uplight
     role: lighting-design

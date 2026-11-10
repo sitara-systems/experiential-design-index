@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: olson-kundig
     role: architecture
+    sources:
+      - https://olsonkundig.com/projects/tacoma-art-museum-benaroya-wing/
 technologies: []
 summary: >
   Olson Kundig designed the Rebecca and Jack Benaroya Wing, an addition to

@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/smithsonian-institution-entertainment-nation/
   - firm: available-light
     role: lighting-design
   - firm: ewingcole

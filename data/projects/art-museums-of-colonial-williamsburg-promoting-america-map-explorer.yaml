@@ -7,6 +7,8 @@ status: completed
 credits:
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/colonial-williamsburg-historic-maps-touch-table
     note: Pan-and-zoom digital map and print explorer with curator-added annotations, connected to Colonial Williamsburg's museum-wide CMS
 technologies:
   - touchscreen table

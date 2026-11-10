@@ -6,12 +6,18 @@ year_completed: 2024
 credits:
   - firm: ideum
     role: exhibit-design
+    sources:
+      - https://ideum.com/portfolio/curiosity-hall-davinci-science-center
     note: Lead designer for the immersive projection theater, from concept through installation
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/curiosity-hall-davinci-science-center
     note: Two of the three rotating group-interactive applications (art and engineering themes)
   - firm: ideum
     role: av-integration
+    sources:
+      - https://ideum.com/portfolio/curiosity-hall-davinci-science-center
     note: Eight-projector, 36-million-pixel projection system across a 60-foot by 60-foot wall
   - firm: mksd-architects
     role: architecture

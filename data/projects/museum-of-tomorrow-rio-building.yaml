@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/museum-of-tomorrow
 technologies: []
 summary: >
   Museum of Tomorrow (Museu do Amanhã), Rio de Janeiro, opened December

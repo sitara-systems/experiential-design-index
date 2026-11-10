@@ -6,12 +6,20 @@ year_completed: 2023
 credits:
   - firm: healykohler
     role: interpretive-planning
+    sources:
+      - https://www.healykohler.com/project/the-state-historical-museum-of-iowa/
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/the-state-historical-museum-of-iowa/
   - firm: healykohler
     role: graphics-wayfinding
+    sources:
+      - https://www.healykohler.com/project/the-state-historical-museum-of-iowa/
   - firm: healykohler
     role: media-design
+    sources:
+      - https://www.healykohler.com/project/the-state-historical-museum-of-iowa/
 technologies:
   - interactive media
 summary: >

@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/palace-theatre/
     note: "Custom decorative fixture family, 18-ft chandelier"
 technologies: []
 summary: >

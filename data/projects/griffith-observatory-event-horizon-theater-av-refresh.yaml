@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: solotech
     role: av-integration
+    sources:
+      - https://www.solotech.com/our-work/leonard-nimoy-event-horizon-theater/
     note: >
       Designed and implemented the theater's AV refresh (systems integration,
       audio systems and acoustics, AV consultation), built on a Q-SYS

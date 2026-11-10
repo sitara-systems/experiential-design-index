@@ -9,6 +9,8 @@ credits:
     note: "Prime, exhibition design and production; no firm record yet"
   - firm: sitara-systems
     role: media-design
+    sources:
+      - https://www.sitara.systems/genesis-manifesting-marilyn/
     technology_tags:
       - interactive-installation
       - artificial-intelligence

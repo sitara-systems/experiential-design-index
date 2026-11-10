@@ -6,10 +6,14 @@ year_completed: 2023
 credits:
 - firm: c-and-g-partners
   role: exhibit-design
+  sources:
+    - https://www.cgpartnersllc.com/projects/explore-asia-permanent-exhibition-and-website-for-asia-society-texas-center/
   note: Credited with developing the exhibition and companion website; created in
     collaboration with Potion.
 - firm: c-and-g-partners
   role: interpretive-planning
+  sources:
+    - https://www.cgpartnersllc.com/projects/explore-asia-permanent-exhibition-and-website-for-asia-society-texas-center/
 - firm: potion-design
   role: media-design
   note: Named by C&G Partners as the collaborator on the exhibition.

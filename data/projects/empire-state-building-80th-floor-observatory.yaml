@@ -9,12 +9,16 @@ credits:
     note: "No firm record yet"
   - firm: diversified
     role: av-integration
+    sources:
+      - https://onediversified.com/case-study/esb-interactive-exhibits
     note: >
       Interactive exhibit engineering and AV integration, including
       LED video walls, touch display arrays, and nine electromechanical
       Tower Optical Viewers
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/201
     note: >
       Supplied and integrated lighting for the "Dare to Dream" exhibition
       as part of "The Project Dream" reimagining, working with fabricator

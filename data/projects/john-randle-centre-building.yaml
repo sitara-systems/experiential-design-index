@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/john-randle-centre
     note: exhibition design and project management
 technologies: []
 summary: >

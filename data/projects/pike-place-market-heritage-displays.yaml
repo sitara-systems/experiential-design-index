@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: studio-matthews
     role: interpretive-planning
+    sources:
+      - https://studiomatthews.com/project/heritage-displays/
   - firm: imagine-visual-services
     role: fabrication
     note: "credited as Imagine Visual Services"

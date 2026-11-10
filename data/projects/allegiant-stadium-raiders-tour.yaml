@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: brc-imagination-arts
     role: content-production
+    sources:
+      - https://www.brcweb.com/project/las-vegas-raiders-allegiant-stadium-tour/
     note: >
       Story and concept development, design, immersive media production,
       production, technical systems, installation and integration, and

@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects/ugg-knightsbridge
 technologies: []
 summary: >
   UGG's Knightsbridge flagship, designed by Gensler as the brand's European

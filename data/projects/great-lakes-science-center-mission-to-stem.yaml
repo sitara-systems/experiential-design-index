@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/mission-to-stem
     note: "Mobile app guiding visitors through the NASA Glenn Visitor Center with AR challenges"
   - firm: chicago-scenic-studios
     role: fabrication

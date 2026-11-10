@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/bullock-texas-state-history-museum/
 technologies:
   - large-scale projected map
   - animated map

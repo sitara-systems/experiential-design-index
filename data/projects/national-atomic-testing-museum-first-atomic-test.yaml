@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: andrew-merriell
     role: exhibit-design
+    sources:
+      - https://merriell.com/first-atomic-test
 technologies: []
 summary: >
   "The First Atomic Test," an exhibit on the 1945 Trinity Site nuclear test,

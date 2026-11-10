@@ -12,6 +12,8 @@ credits:
     note: "no firm record yet"
   - firm: sitara-systems
     role: media-design
+    sources:
+      - https://www.sitara.systems/t-mobile/
     note: >
       "Connected Complex," a large-scale projection-mapped installation
       (3D projection mapping onto a physical architectural model) within

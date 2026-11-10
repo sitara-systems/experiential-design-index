@@ -7,8 +7,12 @@ year_expected: 2026
 credits:
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/national-medal-of-honor-leadership-education-center/
   - firm: healykohler
     role: graphics-wayfinding
+    sources:
+      - https://www.healykohler.com/project/national-medal-of-honor-leadership-education-center/
 technologies: []
 summary: >
   A $75M, 50,000 sq ft leadership and education center on the Patriots

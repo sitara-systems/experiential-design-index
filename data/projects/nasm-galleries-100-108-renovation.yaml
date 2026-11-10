@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "25,000 sq ft renovation with custom steel platforms and steel/glass display cases, per CMS's own portfolio"
 technologies: []
 summary: >

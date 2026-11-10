@@ -6,10 +6,16 @@ year_completed: 2023
 credits:
   - firm: reich-petch
     role: master-planning
+    sources:
+      - https://designrp.com/projects/toronto-holocaust-museum/
   - firm: reich-petch
     role: architecture
+    sources:
+      - https://designrp.com/projects/toronto-holocaust-museum/
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/toronto-holocaust-museum/
     note: >
       Four themed galleries and a learning lab, including 11 Testimony
       Stations with large-format touchscreens and AR-enabled survivor

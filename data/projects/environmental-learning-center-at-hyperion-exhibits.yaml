@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/environmental-learning-center-at-hyperion-7hhba-tpth9
   - firm: cdm-smith
     role: architecture
     note: "no firm record yet"

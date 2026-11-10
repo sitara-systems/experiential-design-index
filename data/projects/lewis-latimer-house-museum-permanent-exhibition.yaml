@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/lewis-latimer-house-museum
   - firm: isometric-studio
     role: architecture
+    sources:
+      - https://isometricstudio.com/lewis-latimer-house-museum
   - firm: kasa-collective
     role: media-design
     note: "interactive stations; no firm record yet"

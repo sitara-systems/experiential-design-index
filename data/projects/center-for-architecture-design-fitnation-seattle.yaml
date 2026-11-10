@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: studio-matthews
     role: exhibit-design
+    sources:
+      - https://studiomatthews.com/project/fitnation-seattle/
 summary: >
   FitNation Seattle, the launch exhibition for Seattle's Center for
   Architecture and Design, opened 2015, showcased case studies of

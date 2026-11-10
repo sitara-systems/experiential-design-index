@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: zgf-architects
     role: architecture
+    sources:
+      - https://www.zgf.com/work/4266-seattle-children-s-building-care-diagnostic-and-treatment-facility
 technologies:
   - illustrated wayfinding map
   - environmental murals

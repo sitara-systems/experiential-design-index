@@ -6,8 +6,14 @@ year_completed: 2022
 credits:
   - firm: advent
     role: exhibit-design
+    sources:
+      - https://www.adventmovespeople.com/projects/university-oregon-0/
+      - https://www.adventmovespeople.com/oregon-welcome-center-segd-award/
   - firm: advent
     role: media-design
+    sources:
+      - https://www.adventmovespeople.com/projects/university-oregon-0/
+      - https://www.adventmovespeople.com/oregon-welcome-center-segd-award/
     note: "Projection-mapped interactive book and interactive discovery lockers"
 technologies:
   - projection mapping

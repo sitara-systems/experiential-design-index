@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://d-and-p.com/human-history
   - firm: ennead-architects
     role: architecture
     note: "Design architect, as Polshek Partnership Architects"

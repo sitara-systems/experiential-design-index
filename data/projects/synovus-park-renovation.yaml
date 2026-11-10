@@ -6,8 +6,12 @@ year_completed: 2025
 credits:
   - firm: populous
     role: architecture
+    sources:
+      - https://populous.com/projects/synovus-park
   - firm: populous
     role: graphics-wayfinding
+    sources:
+      - https://populous.com/projects/synovus-park
     note: "Signage and wayfinding system led by Populous designer Nick Abele"
   - firm: identity-group
     role: fabrication

@@ -6,6 +6,9 @@ year_completed: 2023
 credits:
   - firm: stimulant
     role: media-design
+    sources:
+      - https://www.stimulant.com/work/intel-fab-xr-virtual-tour
+      - https://www.stimulant.com/news/new-project-interactive-exhibits-at-the-intel-museum
     note: >
       No firm record yet. Sliding-rail augmented-reality display with eight
       animated 3D vignettes explaining Intel's chip-fabrication process,

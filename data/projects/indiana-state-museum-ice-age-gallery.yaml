@@ -6,8 +6,12 @@ year_completed: 2017
 credits:
   - firm: taylor-studios
     role: exhibit-design
+    sources:
+      - https://taylorstudios.com/our-work/ice-age-gallery/
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/ice-age-gallery/
 summary: >
   A 2,800-square-foot Ice Age Gallery at the Indiana State Museum in
   Indianapolis, completed in 2017 by Taylor Studios, centered on a

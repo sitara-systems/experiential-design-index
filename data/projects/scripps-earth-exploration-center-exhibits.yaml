@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/scripps-earth-exploration-center
 technologies: []
 summary: >
   The Scripps Earth Exploration Center (SEEC), an 87,500-square-foot

@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet; Enrique Norten"
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/munet
     note: museography
 technologies: []
 summary: >

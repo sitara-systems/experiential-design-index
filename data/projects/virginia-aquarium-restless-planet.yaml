@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/virginia-aquarium-and-marine-science-center-restless-planet-exhibit/
 summary: >
   Restless Planet, a $25 million, 10,000 sq ft exhibit renovation at the
   Virginia Aquarium & Marine Science Center in Virginia Beach, Virginia

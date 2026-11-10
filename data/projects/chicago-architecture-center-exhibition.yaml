@@ -9,8 +9,12 @@ credits:
     note: Interior architecture for the Center's new home at One Illinois Center; no firm record yet
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/cac/
   - firm: gallagher-and-associates
     role: content-production
+    sources:
+      - https://gallagherdesign.com/project/cac/
   - firm: ravenswood-studio
     role: fabrication
   - firm: creative-technology

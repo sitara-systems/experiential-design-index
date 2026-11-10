@@ -8,8 +8,12 @@ credits:
     role: exhibit-design
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/the-mississippi-aquarium
   - firm: solomon-group
     role: graphics-wayfinding
+    sources:
+      - https://solomongroup.com/projects/the-mississippi-aquarium
   - firm: nassal
     role: fabrication
     note: "Entrance sails and habitat rockwork"

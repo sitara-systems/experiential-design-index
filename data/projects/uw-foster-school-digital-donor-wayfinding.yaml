@@ -6,6 +6,9 @@ year_completed: 2011
 credits:
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/uwdigitalwayfinding/
+      - https://bwco.info/2011/04/14/paccar-hall-wayfinding-system-a-finalist-for-the-flash-in-the-can-awards/
   - firm: lmn-architects
     role: architecture
   - firm: wpa

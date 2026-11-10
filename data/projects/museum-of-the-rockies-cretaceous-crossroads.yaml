@@ -12,6 +12,8 @@ credits:
     note: "Fabrication and installation; no firm record yet"
   - firm: lord-cultural-resources
     role: interpretive-planning
+    sources:
+      - https://www.lord.ca/projects/project-experience/museum-of-the-rockies
   - firm: weatherstonbruer-associates
     role: exhibit-design
     note: "Gallery designer; no firm record yet"

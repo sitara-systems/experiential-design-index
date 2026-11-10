@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/josiah-henson-museum-and-park-2218/
     note: "Five media programs including the orientation film and Escape"
 technologies:
   - documentary film

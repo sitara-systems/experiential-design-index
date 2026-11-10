@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/jet-propulsion-laboratory-nasa/
   - firm: cinnabar
     role: fabrication
 technologies:

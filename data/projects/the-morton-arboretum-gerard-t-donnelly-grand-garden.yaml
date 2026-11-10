@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet; per Lightswitch's portfolio page."
   - firm: lightswitch
     role: lighting-design
+    sources:
+      - https://lightswitch.net/work/view/gerard-t-donnelly-grand-garden
     note: "Nighttime lighting using directional light, textural patterning and gobo projection."
 technologies:
   - architectural lighting

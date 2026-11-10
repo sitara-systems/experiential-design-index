@@ -7,9 +7,13 @@ status: announced
 credits:
   - firm: the-exhibits-dept
     role: exhibit-design
+    sources:
+      - https://www.exhibitsdept.com/projects/historic-saranac-lake
     note: "Exhibit and media design, graphic design, content development; 3,000 sq ft"
   - firm: the-exhibits-dept
     role: media-design
+    sources:
+      - https://www.exhibitsdept.com/projects/historic-saranac-lake
   - firm: landmark-consulting
     role: architecture
     note: "no firm record yet"

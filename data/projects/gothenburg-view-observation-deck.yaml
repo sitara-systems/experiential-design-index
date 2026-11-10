@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: skidmore-owings-and-merrill
     role: architecture
+    sources:
+      - https://www.som.com/projects/karlatornet/
   - firm: entasis
     role: architecture
     note: "no firm record yet; collaborating architect"

@@ -6,8 +6,12 @@ year_completed: 2015
 credits:
   - firm: mills-whitaker-architects
     role: architecture
+    sources:
+      - https://millswhitaker.com/isaac-harris-cary-memorial-building/
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://www.availablelight.com/work/cary-memorial-hall-architecture
 summary: >
   An $8M historic renovation of Cary Memorial Hall, Lexington MA's 1928
   town hall and performance venue, completed 2015, with architecture by

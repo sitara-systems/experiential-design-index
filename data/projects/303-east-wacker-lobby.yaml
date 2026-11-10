@@ -8,8 +8,12 @@ credits:
     role: media-design
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/168
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/168
 technologies: []
 summary: >
   A lobby media installation at 303 East Wacker Drive in Chicago,

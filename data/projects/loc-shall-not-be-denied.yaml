@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: pure-and-applied
     role: exhibit-design
+    sources:
+      - https://pureandappliedstudio.com/project/shall-not-be-denied
   - firm: upswell
     role: content-production
     note: "Exhibition video"

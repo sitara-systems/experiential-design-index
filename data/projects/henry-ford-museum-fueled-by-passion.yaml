@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: brc-imagination-arts
     role: media-design
+    sources:
+      - https://www.brcweb.com/project/fueled-by-passion-the-henry-ford/
     note: >
       Strategic planning, story and concept development, design detail,
       architectural coordination, schematic design, immersive media

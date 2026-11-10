@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/115
     note: "Programmed the volumetric light shows across the chandelier's 324 individual pendants (each with six double-sided LED boards) and a custom daily schedule"
 technologies:
   - LED

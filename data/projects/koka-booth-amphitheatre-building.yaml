@@ -6,6 +6,8 @@ year_completed: 2001
 credits:
   - firm: william-rawn-associates
     role: architecture
+    sources:
+      - https://rawnarch.com/projects/koka-booth.html
     note: "Architect, per William Rawn Associates' project page (Completion 2001)."
 summary: >
   William Rawn Associates designed Koka Booth Amphitheatre at Regency Park for the Town of Cary in Cary, NC, completed in 2001.

@@ -6,9 +6,13 @@ year_completed: 2017
 credits:
   - firm: pbdw-architects
     role: architecture
+    sources:
+      - https://www.pbdw.com/the-new-york-historical-fourth-floor-galleries
     note: "no firm record yet"
   - firm: batwin-and-robin
     role: media-design
+    sources:
+      - https://www.batwinandrobin.com/projects/new-york-historical-society-luce-center/
     note: "17 interactives and 5 stand-alone videos across the North and Tiffany Galleries"
 technologies:
   - touchscreen interactives

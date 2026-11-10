@@ -6,10 +6,14 @@ year_completed: 2021
 credits:
 - firm: dlr-group
   role: architecture
+  sources:
+    - https://www.dlrgroup.com/work/equity-bank-park/
   note: Design-build architecture of the ballpark, with SJCF Architects, per DLR
     Group's project page.
 - firm: dlr-group
   role: graphics-wayfinding
+  sources:
+    - https://www.dlrgroup.com/work/equity-bank-park/
   note: Designed graphics and wayfinding throughout the stadium.
 - firm: sjcf-architects
   role: architecture

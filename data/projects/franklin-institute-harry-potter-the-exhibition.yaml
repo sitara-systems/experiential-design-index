@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: mad-systems
     role: av-integration
+    sources:
+      - https://www.madsystems.com
   - firm: imagine-exhibitions
     role: exhibit-design
     note: "No firm record yet"

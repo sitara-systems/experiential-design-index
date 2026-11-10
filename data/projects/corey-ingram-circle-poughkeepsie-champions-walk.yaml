@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: mass-design-group
     role: architecture
+    sources:
+      - https://modelofarchitecture.org/projects/champions-walk-corey-ingram-circle
     note: "Roundabout sculpture and civic gateway design"
   - firm: fourth-state-metals
     role: fabrication

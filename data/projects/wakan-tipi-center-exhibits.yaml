@@ -12,6 +12,8 @@ credits:
     note: "no firm record yet; Visitor Interpretive Experience Plan and exhibit plans"
   - firm: split-rock-studios
     role: fabrication
+    sources:
+      - https://splitrockstudios.com/wakan-tipi-grand-opening/
     note: "interior cedar boxes, native plant interactives, and outdoor teaching stones"
 technologies:
   - audio installations

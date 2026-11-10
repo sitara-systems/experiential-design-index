@@ -8,8 +8,12 @@ credits:
     role: exhibit-design
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
   - firm: capitol-museum-services
     role: av-integration
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
   - firm: cortina-productions
     role: media-design
 technologies: []

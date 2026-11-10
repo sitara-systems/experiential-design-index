@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: split-rock-studios
     role: exhibit-design
+    sources:
+      - https://splitrockstudios.com/you-are-here-grand-opening/
 technologies:
   - touch sensor interactive displays
 summary: >

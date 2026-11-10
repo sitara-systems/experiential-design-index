@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: donna-lawrence-productions
     role: media-design
+    sources:
+      - https://www.dlproductions.com/
     note: "\"Reflections on Three Worlds,\" \"Legacy\" orientation video"
 technologies: []
 summary: >

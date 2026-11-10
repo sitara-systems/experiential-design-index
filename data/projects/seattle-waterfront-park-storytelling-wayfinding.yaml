@@ -6,8 +6,12 @@ year_completed: 2025
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/waterfront-park/
   - firm: studio-matthews
     role: interpretive-planning
+    sources:
+      - https://studiomatthews.com/project/waterfront-park/
 technologies: []
 summary: >
   Studio Matthews developed the storytelling strategy, wayfinding, and

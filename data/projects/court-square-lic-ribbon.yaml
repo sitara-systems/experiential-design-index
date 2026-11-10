@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: the-urban-conga
     role: exhibit-design
+    sources:
+      - https://www.theurbanconga.com/projects/ribbon
 technologies:
   - kinetic reflective panels
 technology_tags:

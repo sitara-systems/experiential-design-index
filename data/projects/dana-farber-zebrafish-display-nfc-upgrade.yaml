@@ -12,6 +12,8 @@ credits:
     note: "Fabrication, per Sitara's own project page (sitara.systems/dfci-zebrafish) — not yet independently corroborated for this project specifically; Hypersonic already has a credit on There Was A War, no standalone firm record yet"
   - firm: sitara-systems
     role: media-design
+    sources:
+      - https://www.sitara.systems/dfci-zebrafish/
     note: "Interactive technology upgrade; original 2012 sculpture concept by Small Design Firm, not Sitara; no firm record yet"
 technologies:
   - interactive-installation

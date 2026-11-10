@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: dimensional-innovations
     role: fabrication
+    sources:
+      - https://dimin.com/
     note: Design, engineering, build, and installation of a 25x40-foot LED victory flag structure, plus branded fuel tankers
   - firm: rossetti-architects
     role: architecture

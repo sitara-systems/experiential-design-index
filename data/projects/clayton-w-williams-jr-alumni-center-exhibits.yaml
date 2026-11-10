@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/texas-am-association-of-former-students/
 technologies:
   - touchscreen interactives
   - video recording booth

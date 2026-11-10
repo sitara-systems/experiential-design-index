@@ -9,6 +9,8 @@ credits:
     note: "Amsterdam exhibition design studio; no firm record yet"
   - firm: glowbox
     role: media-design
+    sources:
+      - https://www.glowbox.io/work/on-stage/
     note: >
       Experience strategy, technical direction, Kinect-based interactive
       software, and systems design for the "On Stage" interactive.

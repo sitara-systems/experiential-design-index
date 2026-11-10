@@ -14,6 +14,8 @@ credits:
     role: lighting-design
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/national-museum-of-racing-and-hall-of-fame
     note: Technical direction, specialty projection and audio design
 technologies:
   - 360-degree projection

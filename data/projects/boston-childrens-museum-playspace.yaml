@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: proun-design
     role: graphics-wayfinding
+    sources:
+      - https://www.proundesign.com/early-childhood/playspace
     note: "Graphic design"
 summary: >
   PlaySpace, Boston Children's Museum's exhibit for children ages three and

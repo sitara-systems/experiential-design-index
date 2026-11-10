@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: southside-design-build
     role: fabrication
+    sources:
+      - https://www.southsidedb.com/portfolio-1/promise-of-liberty
 technologies: []
 summary: >
   The Promise of Liberty: Words That Shaped a Nation, an exhibition of rare

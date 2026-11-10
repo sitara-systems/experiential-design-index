@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: hga
     role: landscape-architecture
+    sources:
+      - https://hga.com/projects/walker-art-center-wurtele-upper-gardens/
 technologies: []
 summary: >
   The Wurtele Upper Garden, part of the Minneapolis Sculpture Garden

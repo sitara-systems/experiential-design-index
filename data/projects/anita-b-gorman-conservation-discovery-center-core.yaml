@@ -6,6 +6,8 @@ year_completed: 2002
 credits:
 - firm: bnim
   role: architecture
+  sources:
+    - https://www.bnim.com/projects/anita-b-gorman-conservation-discovery-center/
 summary: The 38,613 SF Anita B. Gorman Conservation Discovery Center in Kansas City,
   a Missouri Department of Conservation education center completed 2002, was designed
   by BNIM.

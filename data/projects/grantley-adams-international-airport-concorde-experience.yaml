@@ -6,6 +6,8 @@ year_completed: 2007
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com
   - firm: science-north
     role: content-production
     note: "Sound/light show production; no firm record yet"

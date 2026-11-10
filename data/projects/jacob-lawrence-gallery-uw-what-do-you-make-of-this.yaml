@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: studio-matthews
     role: exhibit-design
+    sources:
+      - https://studiomatthews.com/2024-segd-awards/
 recognition:
   - award: "SEGD Global Design Awards — Merit Award (Exhibition)"
     year: 2024

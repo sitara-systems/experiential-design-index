@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: ideum
     role: fabrication
+    sources:
+      - https://ideum.com/portfolio/acmi-custom-touch-tables
     note: "Industrial design and manufacture of six custom touch tables (dual RFID readers, 4K QLED panels, custom bases)"
   - firm: second-story
     role: media-design

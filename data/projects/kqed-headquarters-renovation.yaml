@@ -12,6 +12,8 @@ credits:
     note: "Public lobby/streetscape; no firm record yet"
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/kqed/
     note: >
       Conference-room AV, lobby LED wall, paging/signage, and AV for "The
       Commons" live-events theatre.

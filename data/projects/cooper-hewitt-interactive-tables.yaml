@@ -18,6 +18,8 @@ credits:
     note: Participatory media designer; developed the interactive software layer and content strategy
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/cooper-hewitt
     note: Designed and built the 4K UHD multitouch table hardware (four 84" and approximately six 55" tables) and touch walls, with NFC pen-pairing support
 technologies:
   - multitouch table

@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: lord-cultural-resources
     role: interpretive-planning
+    sources:
+      - https://www.lord.ca/projects/project-experience/port-of-long-beach-corporate-visitor-center
     note: "Interpretive plan and content: thematic framework on innovation, sustainability, community partnerships, and workforce stories"
   - firm: tessellate
     role: exhibit-design
@@ -29,6 +31,8 @@ credits:
       independently confirmed as the same entity.
   - firm: sitara-systems
     role: media-design
+    sources:
+      - https://www.sitara.systems/polb-experience-center/
     technology_tags:
       - interactive-installation
     note: >

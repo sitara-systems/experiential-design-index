@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: avi-spl
     role: av-integration
+    sources:
+      - https://avispl.com/xtg/our-work/edmonton-public-library/
     note: "Two-story, 40-foot Planar LED/MultiTaction touch video wall"
 summary: >
   The Wall, a two-story, 40-foot-wide interactive STEM-learning video wall

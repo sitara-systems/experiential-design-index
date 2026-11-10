@@ -6,8 +6,12 @@ year_completed: 2021
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/pier-62-waterfront-park/
   - firm: studio-matthews
     role: interpretive-planning
+    sources:
+      - https://studiomatthews.com/project/pier-62-waterfront-park/
 summary: >
   Studio Matthews designed brand, interpretive signage, and wayfinding,
   completed in 2021, for Pier 62, an early-phase element of Seattle's

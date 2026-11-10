@@ -12,6 +12,8 @@ credits:
     note: "No firm record yet"
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/sfmoma-phyllis-wattis-theatre/
     note: >
       3 integrated audio systems incl. Meyer Constellation voice-lift and
       7.1 surround cinema sound.

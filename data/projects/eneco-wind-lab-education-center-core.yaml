@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: kubik-maltbie
     role: exhibit-design
+    sources:
+      - https://kubikmaltbie.com/project/eneco-wind-lab-education-center/
     note: "Concept design and development with Eneco and unnamed specialized education partners"
 summary: >
   The Eneco Wind Lab Education Center in Amsterdam, the Netherlands,

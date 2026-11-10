@@ -6,8 +6,12 @@ year_completed: 2019
 credits:
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/bob_hope_uso/
   - firm: belle-and-wissell
     role: content-production
+    sources:
+      - https://bwco.info/work/bob_hope_uso/
 summary: >
   An interactive welcome map and hometown-visualization installation for
   the Bob Hope USO's flagship center in LAX's Theme Building, serving

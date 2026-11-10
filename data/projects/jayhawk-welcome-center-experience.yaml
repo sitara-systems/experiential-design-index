@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: dimensional-innovations
     role: media-design
+    sources:
+      - https://www.dimin.com
     note: "Immersive technology, campus experience design, and donor activations"
 technologies:
   - immersive media

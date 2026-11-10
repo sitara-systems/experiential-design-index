@@ -6,12 +6,16 @@ year_completed: 2023
 credits:
   - firm: luci-creative
     role: exhibit-design
+    sources:
+      - https://www.lucicreative.com/project/national-music-museum
   - firm: northern-light-productions
     role: content-production
   - firm: electrosonic
     role: av-integration
   - firm: ravenswood-studio
     role: fabrication
+    sources:
+      - https://ravenswoodstudio.com/project/national-music-museum/
   - firm: gravity-exhibitions
     role: fabrication
     note: "Artifact mount-making; no firm record yet"

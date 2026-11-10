@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: 1220-fabrication
     role: fabrication
+    sources:
+      - https://1220.com/portfolio/miami-childrens-museum-peanuts-traveling-exhibit/
 summary: >
   Take Care with Peanuts: The Exhibit, a licensed Peanuts-themed traveling
   children's exhibit, opened at the Miami Children's Museum in January

@@ -9,6 +9,8 @@ credits:
     note: "Experience development partner."
   - firm: blue-telescope
     role: media-design
+    sources:
+      - https://bluetelescope.com/projects/becomeASuperstar
   - firm: pulse-middle-east
     role: av-integration
     note: "AV/lighting integration, installation, and commissioning. No firm record yet."

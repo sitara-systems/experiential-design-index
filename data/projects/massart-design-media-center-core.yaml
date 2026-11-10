@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: ennead-architects
     role: architecture
+    sources:
+      - https://ennead.com/work/massart/
   - firm: ground-inc
     role: landscape-architecture
     note: "No firm record yet"

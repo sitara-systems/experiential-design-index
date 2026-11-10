@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/only-in-albuquerque
     note: "Eight-screen quilt-design station, multi-screen theaters, Route 66 postcard browser"
   - firm: color-ad
     role: fabrication

@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/indianapolis-museum-of-art/
 technologies: []
 summary: >
   The Efroymson, Wood, and Deer-Zink Pavilions at the Indianapolis

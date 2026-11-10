@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: monadnock-media
     role: media-design
+    sources:
+      - https://monadnock.org/project/levine-museum-new-south
     note: "Media experience design and production, digital interactive design and development, and technical systems design and oversight for two 2,000 sq ft media experiences on immigration and unequal treatment of Charlotte neighborhoods"
   - firm: metcalfe-and-associates
     role: exhibit-design

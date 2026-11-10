@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
 - firm: boston-productions-inc
   role: media-design
+  sources:
+    - https://bostonproductions.com/portfolio/mint-museum/
   note: Developed the interactive Visitor Response Station in the gallery with the
     museum's exhibition team.
 summary: Southern/Modern, a survey of progressive art made in the American South

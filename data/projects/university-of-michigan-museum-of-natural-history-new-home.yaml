@@ -8,14 +8,20 @@ credits:
     role: architecture
   - firm: smithgroup
     role: architecture
+    sources:
+      - https://www.smithgroup.com/news/2019/university-of-michigans-biological-sciences-building-by-smithgroup-and-ennead-architects
   - firm: lord-cultural-resources
     role: interpretive-planning
+    sources:
+      - https://www.lord.ca/news/news/the-university-of-michigan-unveils-its-new-museum-of-natural-history
     note: "Planning, design, and management lead for the Great Plains Exhibit Development joint venture"
   - firm: taylor-studios
     role: fabrication
     note: "Great Plains Exhibit Development joint venture"
   - firm: xibitz
     role: fabrication
+    sources:
+      - https://xibitz.com/university-of-michigan/
     note: "Great Plains Exhibit Development joint venture"
 technologies:
   - Digital Dome Theater / planetarium

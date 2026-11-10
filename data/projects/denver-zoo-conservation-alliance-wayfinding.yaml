@@ -6,9 +6,13 @@ year_completed: 2024
 credits:
   - firm: dimensional-innovations
     role: graphics-wayfinding
+    sources:
+      - https://dimin.com/work/denver-zoo-conservation-alliance
     note: "Signage, wayfinding, and donor recognition"
   - firm: dimensional-innovations
     role: master-planning
+    sources:
+      - https://dimin.com/work/denver-zoo-conservation-alliance
 technologies: []
 summary: >
   A signage, wayfinding, and donor recognition program for the Denver Zoo

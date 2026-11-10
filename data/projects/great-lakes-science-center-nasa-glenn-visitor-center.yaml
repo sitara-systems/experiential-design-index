@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/nasa-glenn-visitor-center
     note: "16 media installations incl. motion-sensor 16-foot interactive floor projection"
   - firm: bowen-technovation
     role: av-integration

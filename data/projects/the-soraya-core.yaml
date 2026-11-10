@@ -6,6 +6,8 @@ year_completed: 2011
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/the-soraya-valley-performing-arts-center/
 technologies: []
 summary: >
   The Valley Performing Arts Center (now The Soraya) at California

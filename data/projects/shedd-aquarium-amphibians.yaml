@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://www.chicagoscenic.com/projects/amphibians
     note: "Fabrication, installation, project management; fabricated tank bases and habitat elements"
   - firm: nevin-hedlund-architects
     role: architecture

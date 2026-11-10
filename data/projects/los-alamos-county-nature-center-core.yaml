@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: andrew-merriell
     role: exhibit-design
+    sources:
+      - https://merriell.com/los-alamos
 technologies: []
 summary: >
   The Los Alamos County Nature Center, a $4.3 million facility in Los

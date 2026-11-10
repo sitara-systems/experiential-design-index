@@ -6,8 +6,12 @@ year_completed: 2021
 credits:
   - firm: snohetta
     role: architecture
+    sources:
+      - https://www.snohetta.com/projects/ordrupgaard-museum
   - firm: snohetta
     role: landscape-architecture
+    sources:
+      - https://www.snohetta.com/projects/ordrupgaard-museum
 technologies: []
 summary: >
   A subterranean gallery extension ("Himmelhaven") and landscape

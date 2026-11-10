@@ -6,6 +6,8 @@ year_completed: 2007
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/cultural-history-1/kerouac,-on-the-road
     note: "Graphic design services and fabrication coordination"
   - firm: wb-inc
     role: fabrication

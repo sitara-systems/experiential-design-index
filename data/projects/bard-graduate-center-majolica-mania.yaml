@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: southside-design-build
     role: fabrication
+    sources:
+      - https://www.southsidedb.com/portfolio-1/majolica-mania
 technologies: []
 summary: >
   Majolica Mania: Transatlantic Pottery in England and the United States,

@@ -6,9 +6,13 @@ year_completed: 2012
 credits:
   - firm: graham-baba-architects
     role: architecture
+    sources:
+      - https://grahambaba.com/the-armory
     note: "Phase 1"
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/seattle-center-armory/
     note: "Branding, interpretation, and wayfinding"
 technologies: []
 summary: >

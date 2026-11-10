@@ -6,10 +6,16 @@ year_completed: 2012
 credits:
 - firm: gyroscope-inc
   role: exhibit-design
+  sources:
+    - https://www.gyroscopeinc.com/ftc
 - firm: gyroscope-inc
   role: master-planning
+  sources:
+    - https://www.gyroscopeinc.com/ftc
 - firm: art-guild-inc
   role: fabrication
+  sources:
+    - https://www.artguildinc.com/project/fort-collins-museum-of-discovery/
   note: Listed in Art Guild's museum portfolio; the project page does not itemize scope. Fabrication role per the firm's practice.
 summary: >
   The Fort Collins Museum of Discovery in Fort Collins, Colorado, a joint history

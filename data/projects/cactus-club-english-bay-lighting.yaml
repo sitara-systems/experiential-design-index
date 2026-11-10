@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/15
 technologies: []
 summary: >
   Lighting design for the flagship Cactus Club restaurant at English

@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: ashton-design
     role: graphics-wayfinding
+    sources:
+      - https://ashton-design.com/work/franklin-park
   - firm: studios-architecture
     role: architecture
     note: "No firm record yet"

@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects
 summary: >
   The Canada Pavilion at World Expo 2020 in Dubai, opened October 2021,
   with AV integration by Electrosonic.

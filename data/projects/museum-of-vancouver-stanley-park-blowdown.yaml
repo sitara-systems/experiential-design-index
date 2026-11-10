@@ -6,9 +6,13 @@ year_completed: 2008
 credits:
   - firm: eos-lightmedia
     role: exhibit-design
+    sources:
+      - https://www.eoslightmedia.com/work/78
     note: Designed, programmed, and installed an interactive telescope-navigation exhibit and a motion-triggered interactive audio "Blow Down" gallery.
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/78
     note: Theatrical luminaires, gobos, and color filters accenting the Blow Down gallery's audio experience.
 technologies:
   - interactive telescope navigation

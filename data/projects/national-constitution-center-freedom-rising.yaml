@@ -6,8 +6,12 @@ year_completed: 2003
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/national-constitution-center/
   - firm: donna-lawrence-productions
     role: content-production
+    sources:
+      - https://dlproductions.com/projects/national-constitution-center/
     note: >
       "Freedom Rising," a 350-seat theater-in-the-round with live talent
       and 360-degree video projection.

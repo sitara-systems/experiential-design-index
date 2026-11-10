@@ -6,8 +6,12 @@ year_completed: 2018
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/designs-deaf-eyes/
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/designs-deaf-eyes/
   - firm: dangermond-keane-architecture
     role: architecture
   - firm: cinnabar

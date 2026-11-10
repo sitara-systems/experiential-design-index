@@ -6,6 +6,8 @@ year_completed: 1999
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/challenge-of-the-deep
   - firm: xenon
     role: media-design
     note: "Floating-image media, interactive videos, and animations; no firm record yet"

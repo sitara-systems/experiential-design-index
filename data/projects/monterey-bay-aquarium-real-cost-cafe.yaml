@@ -6,6 +6,8 @@ year_completed: 2006
 credits:
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/projects/monterey-bay-aquarium/
 recognition:
   - award: "AAM MUSE Award — Bronze"
     year: 2006

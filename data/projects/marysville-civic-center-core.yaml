@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: dlr-group
     role: graphics-wayfinding
+    sources:
+      - https://www.dlrgroup.com/work/marysville-civic-center/
     note: >
       Comprehensive wayfinding and experiential graphics program across
       the 101,000 sq ft civic campus, incorporating the city's updated

@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: span-studio
     role: exhibit-design
+    sources:
+      - https://span.studio/projects/archetypes
     note: "Exhibition identity and graphics"
 technologies: []
 summary: >

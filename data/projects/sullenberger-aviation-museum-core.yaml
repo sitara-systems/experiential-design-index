@@ -6,10 +6,14 @@ year_completed: 2024
 credits:
 - firm: boston-productions-inc
   role: media-design
+  sources:
+    - https://bostonproductions.com/portfolio/sullenberger/
   note: Produced the immersive "Miracle on the Hudson" centerpiece production and
     interactive media.
 - firm: boston-productions-inc
   role: content-production
+  sources:
+    - https://bostonproductions.com/portfolio/sullenberger/
 - firm: studio-displays
   role: fabrication
   note: Named by BPI as fabricator; no firm record yet.

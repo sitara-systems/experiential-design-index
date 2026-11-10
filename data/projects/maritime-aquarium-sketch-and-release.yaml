@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/sketch-and-release
     note: "Touchscreen creature-design stations feeding a 32-foot animated media wall"
   - firm: building-four-fabrication
     role: fabrication

@@ -12,6 +12,8 @@ credits:
     note: "Drew Sentivan; media and digital interactives; no firm record yet"
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/National-Constitution-Center/
 technologies:
   - touch interactives
 summary: >

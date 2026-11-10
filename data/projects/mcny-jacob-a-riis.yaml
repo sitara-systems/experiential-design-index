@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: studio-joseph
     role: exhibit-design
+    sources:
+      - https://studiojoseph.com/work/jacob-a-riis
   - firm: thumb-projects
     role: graphics-wayfinding
     note: "No firm record yet"

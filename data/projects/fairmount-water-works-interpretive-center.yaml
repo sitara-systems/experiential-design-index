@@ -6,6 +6,8 @@ year_completed: 2003
 credits:
 - firm: steve-feldman-design
   role: exhibit-design
+  sources:
+    - http://www.stevefeldmandesign.com/fairmount-water-works
   note: Over 25 interactive exhibits, a 16-minute video theater and a multimedia
     installation in 7,500 square feet of the historic Fairmount Water Works.
 summary: The Fairmount Water Works Interpretive Center, a Philadelphia Water Department

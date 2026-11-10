@@ -19,6 +19,8 @@ credits:
     role: fabrication
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/autodesk/
     note: >
       AV designer and integrator for both the presentation/conference spaces
       and the exhibits, incl. five Zoom rooms, an all-hands space with a

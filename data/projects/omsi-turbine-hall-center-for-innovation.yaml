@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: dangermond-keane-architecture
     role: architecture
+    sources:
+      - https://bearingarchitecture.com/portfolio/omsi-turbine-hall-2/
   - firm: felt-hat
     role: media-design
     note: >

@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: the-prd-group
     role: exhibit-design
+    sources:
+      - https://theprdgroup.com/project/voices-of-duty-and-devotion/
     note: Exhibit design, per PRD's project page.
   - firm: explus
     role: fabrication

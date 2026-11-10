@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/boston-athenaeum
     note: "4K touch interface for rare art book collection"
   - firm: mystic-scenic
     role: fabrication

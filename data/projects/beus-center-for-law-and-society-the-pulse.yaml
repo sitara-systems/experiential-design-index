@@ -8,6 +8,8 @@ credits:
     role: architecture
   - firm: unified-field
     role: media-design
+    sources:
+      - https://www.unifiedfield.com/projects/asu
     note: "Location-aware communication platform, mobile app, and building-wide digital signage/wayfinding network"
   - firm: level3-av
     role: av-integration

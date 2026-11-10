@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/charles-anne-morrow-lindbergh
 technologies: []
 summary: >
   Charles & Anne Morrow Lindbergh, a yearlong exhibition on the aviator

@@ -6,12 +6,16 @@ year_completed: 2004
 credits:
   - firm: ennead-architects
     role: architecture
+    sources:
+      - https://ennead.com/work/clinton/
     note: "As Polshek Partnership, LLP; design architect"
   - firm: hargreaves-associates
     role: landscape-architecture
     note: "No firm record yet"
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/william-j-clinton-presidential-library-and-museum/
     note: "16 policy-based multimedia alcoves, Oval Office/Cabinet Room replicas"
   - firm: donna-lawrence-productions
     role: content-production
@@ -22,6 +26,8 @@ credits:
     note: "Case lighting"
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://kubikmaltbie.com/project/william-j-clinton-presidential-center/
     note: "Credited as \"Maltbie Associates,\" the firm's pre-merger name; 80+ custom showcases, engineering, exhibit fabrication, installation"
   - firm: art-guild-inc
     role: fabrication

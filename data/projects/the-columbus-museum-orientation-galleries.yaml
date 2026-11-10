@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/work/museums-attractions/reimagining-the-columbus-museum/
     note: "Arrival experience and children's gallery redesign as part of an $28.5M renovation"
 summary: >
   The Columbus Museum in Columbus, Georgia reopened May 4, 2024 after an

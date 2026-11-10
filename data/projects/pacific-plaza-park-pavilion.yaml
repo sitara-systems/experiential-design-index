@@ -6,11 +6,15 @@ year_completed: 2019
 credits:
   - firm: hks
     role: architecture
+    sources:
+      - https://www.hksinc.com/what-we-do/projects/pacific-plaza-park-pavilion/
     note: "Pavilion structure, designed by HKS's LINE studio"
   - firm: swa-group
     role: landscape-architecture
   - firm: a-zahner-company
     role: fabrication
+    sources:
+      - http://www.azahner.com/projects/pacific-plaza-park-pavilion/
     note: "323 unique perforated stainless-steel panels"
 technologies: []
 summary: >

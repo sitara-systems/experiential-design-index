@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/game-on-at-california-science-center/
     note: "10 bilingual (English/Spanish) media experiences"
   - firm: electrosonic
     role: av-integration

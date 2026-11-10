@@ -6,12 +6,18 @@ year_completed: 2019
 credits:
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://www.dimin.com
     note: Placemaking and attraction design.
   - firm: dimensional-innovations
     role: lighting-design
+    sources:
+      - https://www.dimin.com
     note: Specialty lighting.
   - firm: dimensional-innovations
     role: graphics-wayfinding
+    sources:
+      - https://www.dimin.com
     note: Signage and wayfinding.
   - firm: cuningham-group
     role: architecture

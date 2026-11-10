@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: studio-joseph
     role: architecture
+    sources:
+      - https://studiojoseph.com/work/dancewave
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
 summary: >

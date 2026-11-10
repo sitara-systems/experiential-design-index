@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/work/interactive-installations/biodesign-studio/
     note: "Hands-on synthetic-biology lab with five stations"
 recognition:
   - award: "AAM MUSE Awards — Silver, Interpretive Interactive Installations"

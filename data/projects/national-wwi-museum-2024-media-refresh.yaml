@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/national-ww1-museum
     note: "12 interactive media installations including four large touch tables"
   - firm: ralph-appelbaum-associates
     role: exhibit-design

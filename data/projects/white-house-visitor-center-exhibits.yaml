@@ -10,6 +10,8 @@ credits:
     role: exhibit-design
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://www.availablelight.com/work/white-house-visitors-center-architecture
   - firm: history-associates
     role: interpretive-planning
 summary: >

@@ -6,9 +6,13 @@ year_completed: 2015
 credits:
   - firm: esi-design
     role: media-design
+    sources:
+      - https://esidesign.com/work/177-huntington-ave/
     note: "Experience design lead for the entry-sequence transformation"
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/177-huntington
     note: "Software reinterpreting real-time weather and market data into LED motion"
 technologies:
   - LED display

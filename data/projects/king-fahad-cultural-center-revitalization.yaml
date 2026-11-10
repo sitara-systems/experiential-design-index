@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: why-architecture
     role: architecture
+    sources:
+      - https://why-site.com/work/king-fahad-cultural-center/
     note: "Design architect and interior design, per WHY's project page."
 summary: >
   WHY Architecture redesigned and revitalized the King Fahad Cultural Center, a

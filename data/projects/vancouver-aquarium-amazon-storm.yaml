@@ -6,9 +6,13 @@ year_completed: 2011
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/287
     note: Also provided the audiovisual system for the effect.
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/287
 technologies:
   - programmable effects lighting
   - ambient surround audio

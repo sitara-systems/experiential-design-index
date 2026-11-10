@@ -15,6 +15,8 @@ credits:
     note: "sound/acoustic engineering; acoustics itself is outside this index's role vocabulary, sound design credited here; no firm record yet"
   - firm: schuler-shook
     role: lighting-design
+    sources:
+      - https://schulershook.com/projects/riveredge-park-1
     note: "theatre lighting design and theatre consulting: general pavilion and pedestrian-walkway lighting, and the illuminated cedar-slat sound/screen wall"
 technologies: []
 summary: >

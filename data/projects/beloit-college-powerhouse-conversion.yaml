@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: studio-gang
     role: architecture
+    sources:
+      - https://studiogang.com/projects/beloit-college-powerhouse/
     note: "Design architect; adaptive reuse of the 1908-1947 Blackhawk Generating Station plus new field house addition; no firm record yet"
   - firm: angus-young-associates
     role: architecture

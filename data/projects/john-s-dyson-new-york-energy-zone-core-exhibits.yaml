@@ -9,8 +9,12 @@ credits:
     note: "No firm record yet"
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/john-s-dyson-new-york-energy-zone
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/approach/museums/
 summary: >
   The John S. Dyson New York Energy Zone, a 19,000-sq-ft science museum
   on electricity built by the New York Power Authority at the Utica Zoo

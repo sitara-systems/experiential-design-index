@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/edward-m-kennedy-institute
     note: "Tablet-controlled wall displays and 'Great Senate Debates' video series for a life-sized Senate Chamber replica"
   - firm: electrosonic
     role: av-integration

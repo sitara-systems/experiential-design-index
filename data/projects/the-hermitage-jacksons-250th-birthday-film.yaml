@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: cortina-productions
     role: content-production
+    sources:
+      - https://www.cortinaproductions.com/projects/the-hermitage/
 technologies: []
 summary: >
   A film produced by Cortina Productions for The Hermitage, Andrew

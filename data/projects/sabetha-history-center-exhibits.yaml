@@ -6,8 +6,12 @@ year_completed: 2026
 credits:
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://dimin.com/
   - firm: dimensional-innovations
     role: media-design
+    sources:
+      - https://dimin.com/
     note: "Immersive technology"
 technologies:
   - immersive media

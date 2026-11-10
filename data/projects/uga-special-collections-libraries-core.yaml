@@ -9,10 +9,16 @@ credits:
     note: "No firm record yet"
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/university-of-georgia-special-collections-libraries/
   - firm: healykohler
     role: graphics-wayfinding
+    sources:
+      - https://www.healykohler.com/project/university-of-georgia-special-collections-libraries/
   - firm: healykohler
     role: media-design
+    sources:
+      - https://www.healykohler.com/project/university-of-georgia-special-collections-libraries/
 technologies:
   - interactive kiosks
 summary: >

@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/403
 technologies: []
 summary: >
   The BSU Cyber Range, an experiential space at Bridgewater State

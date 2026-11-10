@@ -9,10 +9,16 @@ credits:
     note: "no firm record yet"
   - firm: arup
     role: acoustics
+    sources:
+      - https://www.arup.com/en-us/projects/hong-kong-palace-museum/
   - firm: arup
     role: lighting-design
+    sources:
+      - https://www.arup.com/en-us/projects/hong-kong-palace-museum/
   - firm: arup
     role: landscape-architecture
+    sources:
+      - https://www.arup.com/en-us/projects/hong-kong-palace-museum/
 technologies: []
 summary: >
   Hong Kong Palace Museum, in the West Kowloon Cultural District, opened

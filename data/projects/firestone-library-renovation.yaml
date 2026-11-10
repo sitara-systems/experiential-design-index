@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/princeton-university-firestone-library/
     note: "Lobby, Milberg Gallery, and stack-corridor public spaces"
 technologies: []
 summary: >

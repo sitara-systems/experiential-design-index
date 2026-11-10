@@ -12,6 +12,8 @@ credits:
     note: "Design development; wall-sized murals; no firm record yet"
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://www.chicagoscenic.com/projects/one-liberty-observation-deck
     note: "Fabrication, installation, project management"
   - firm: fleming-museum-consulting
     role: interpretive-planning

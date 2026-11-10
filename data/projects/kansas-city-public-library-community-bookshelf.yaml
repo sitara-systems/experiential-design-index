@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: dimensional-innovations
     role: fabrication
+    sources:
+      - https://www.dimin.com
     note: "Design-assist, specialty fabrication, and large-format graphics for a 26-ft book-spine facade on the library's parking garage"
 technologies:
   - large-format graphics

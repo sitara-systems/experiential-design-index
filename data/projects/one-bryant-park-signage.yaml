@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/bank-of-america-durst-organization-bank-of-america-tower-signage/
   - firm: cook-plus-fox-architects
     role: architecture
     note: "tower architect; no firm record yet"

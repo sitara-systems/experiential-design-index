@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: studio-matthews
     role: exhibit-design
+    sources:
+      - https://studiomatthews.com/project/uws-office-of-minority-affairs-and-diversity/
   - firm: imagine-visual-services
     role: fabrication
     note: "credited as Imagine Visual Services"

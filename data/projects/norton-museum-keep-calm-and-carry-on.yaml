@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: pure-and-applied
     role: exhibit-design
+    sources:
+      - https://pureandappliedstudio.com/project/keep-calm-and-carry-on-exhibition
 technologies: []
 summary: >
   "Keep Calm and Carry On: World War II and the British Home Front,

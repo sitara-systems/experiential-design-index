@@ -6,8 +6,12 @@ year_completed: 2022
 credits:
   - firm: olson-kundig
     role: architecture
+    sources:
+      - https://olsonkundig.com/projects/bob-dylan-center/
   - firm: olson-kundig
     role: exhibit-design
+    sources:
+      - https://olsonkundig.com/projects/bob-dylan-center/
   - firm: 59-productions
     role: media-design
     note: "Interactive recording-studio installation; no firm record yet"

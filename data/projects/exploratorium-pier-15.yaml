@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
 - firm: ehdd
   role: architecture
+  sources:
+    - https://ehdd.com/project/the-exploratorium-at-pier-15/
 summary: >
   The Exploratorium at Pier 15, the science museum's 206,000-square-foot relocation
   to a rehabilitated pier on the San Francisco waterfront, opened in April 2013,

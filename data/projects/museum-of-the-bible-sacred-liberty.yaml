@@ -9,6 +9,8 @@ credits:
     note: "Role inferred by pattern from a collective collaborator credit; not explicitly sourced"
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://triviuminteractive.com/
   - firm: capitol-museum-services
     role: fabrication
 technologies: []

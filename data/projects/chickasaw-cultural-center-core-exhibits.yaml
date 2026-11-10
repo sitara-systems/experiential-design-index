@@ -9,10 +9,14 @@ credits:
     note: "no firm record yet"
   - firm: hilferty-and-associates
     role: exhibit-design
+    sources:
+      - https://www.hilferty.com/project-details
   - firm: andrew-merriell
     role: exhibit-design
   - firm: batwin-and-robin
     role: media-design
+    sources:
+      - https://www.batwinandrobin.com/projects/chickasaw-cultural-center/
 technologies:
   - projection
   - immersive environment

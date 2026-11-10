@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/rom-dawn-of-life/
 technologies: []
 summary: >
   The Willner Madge Gallery, Dawn of Life, a permanent paleontology

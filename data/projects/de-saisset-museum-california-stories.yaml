@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/de-saisset-museum/
   - firm: pacific-studio
     role: exhibit-design
     note: "Exhibition design collaboration"

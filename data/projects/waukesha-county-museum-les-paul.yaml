@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: peter-hyde-design
     role: exhibit-design
+    sources:
+      - https://www.peterhydedesign.com/projects/les-paul-the-wizard-of-waukesha/
   - firm: chicago-scenic-studios
     role: fabrication
   - firm: rbh-multimedia

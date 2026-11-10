@@ -6,6 +6,8 @@ year_completed: 2003
 credits:
 - firm: 2x4
   role: graphics-wayfinding
+  sources:
+    - https://2x4.org/work/iit-mccormick-tribune-campus-center/
   note: Identity and signage system for the OMA-designed student center, using round-headed
     icons.
 summary: A signage system by 2x4 for the OMA-designed McCormick Tribune Campus Center

@@ -6,8 +6,12 @@ year_completed: 2021
 credits:
   - firm: beyer-blinder-belle
     role: architecture
+    sources:
+      - https://www.beyerblinderbelle.com/work/view/new-york-public-library-the-stavros-niarchos-foundation-library-snfl/
   - firm: beyer-blinder-belle
     role: graphics-wayfinding
+    sources:
+      - https://www.beyerblinderbelle.com/work/view/new-york-public-library-the-stavros-niarchos-foundation-library-snfl/
     note: "Self-credited \"Wayfinding\" designer"
   - firm: mecanoo
     role: architecture

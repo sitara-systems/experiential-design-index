@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: studio-joseph
     role: exhibit-design
+    sources:
+      - https://studiojoseph.com/work/nature-cooper-hewitt-design-triennial
   - firm: neil-donnelly-studio
     role: graphics-wayfinding
     note: "No firm record yet"

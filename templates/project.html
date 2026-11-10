@@ -20,13 +20,14 @@
 
 <h2>Credits</h2>
 <table class="list">
-  <thead><tr><th>Firm</th><th>Role</th><th>Note</th></tr></thead>
+  <thead><tr><th>Firm</th><th>Role</th><th>Note</th><th>Credited by</th></tr></thead>
   <tbody>
   {% for c in project.credits %}
     <tr>
       <td>{% if c.firm_exists %}<a href="{{ base }}/firms/{{ c.firm }}/">{{ c.firm_name }}</a>{% else %}{{ c.firm_name }}{% endif %}</td>
       <td>{{ c.role_label }}{% for t in c.technology_tag_labels %} <span class="credit-tag" title="This credit delivered the {{ t }} technology on this project, per the cited sources.">{{ t }}</span>{% endfor %}</td>
       <td>{{ c.note or '' }}</td>
+      <td class="credit-src">{% for s in c.source_links %}<a href="{{ s.url }}" rel="nofollow noopener">{{ s.host }}</a>{% if s.first_party %} <span class="credit-tag" title="The credited firm's own website.">own site</span>{% endif %}{% if not loop.last %}<br>{% endif %}{% endfor %}</td>
     </tr>
   {% endfor %}
   </tbody>

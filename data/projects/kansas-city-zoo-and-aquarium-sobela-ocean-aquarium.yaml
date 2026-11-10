@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
 - firm: ehdd
   role: architecture
+  sources:
+    - https://ehdd.com/project/kansas-city-zoo-aquarium/
 summary: >
   The Sobela Ocean Aquarium, a 72,000-square-foot aquarium at the Kansas City
   Zoo & Aquarium in Kansas City, Missouri, opened September 1, 2023, with architecture

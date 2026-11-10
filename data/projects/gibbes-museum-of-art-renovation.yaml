@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=134
 summary: >
   The Gibbes Museum of Art's historic 1905 Beaux-Arts building in
   Charleston, South Carolina reopened May 28, 2016 after a $14 million,

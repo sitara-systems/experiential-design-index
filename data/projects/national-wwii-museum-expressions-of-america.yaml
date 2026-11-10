@@ -6,8 +6,12 @@ year_completed: 2022
 credits:
   - firm: solomon-group
     role: technical-consulting
+    sources:
+      - https://solomongroup.com/projects/expressions-of-america-the-national-wwii-museum
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/expressions-of-america-the-national-wwii-museum
     note: "Custom-built outdoor projection and audio system"
   - firm: mousetrappe
     role: media-design

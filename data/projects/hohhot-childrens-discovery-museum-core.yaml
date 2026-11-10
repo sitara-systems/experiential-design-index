@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://kubikmaltbie.com/project/hohhot-childrens-discovery-museum/
     note: "Fabrication, shipping, and installation of first-floor exhibits"
   - firm: cambridgeseven
     role: architecture

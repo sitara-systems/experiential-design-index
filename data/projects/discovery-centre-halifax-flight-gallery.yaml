@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: aldrichpears-associates
     role: exhibit-design
+    sources:
+      - https://aldrichpears.com/project/flight-gallery-at-discovery-centre/
 summary: >
   The Flight Gallery, one of five permanent galleries in Discovery Centre's
   new Halifax waterfront science-center building (opened February 12,

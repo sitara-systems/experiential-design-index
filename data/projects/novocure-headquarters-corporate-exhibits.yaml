@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/science/novocure
   - firm: trivium-interactive
     role: media-design
   - firm: mystic-scenic

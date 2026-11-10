@@ -7,11 +7,17 @@ status: completed
 credits:
   - firm: crafted-action
     role: master-planning
+    sources:
+      - https://www.craftedaction.com/work/hmcpa
     note: "Experiential Master Plan; experience strategy, content strategy, exhibit design, and media development"
   - firm: crafted-action
     role: exhibit-design
+    sources:
+      - https://www.craftedaction.com/work/hmcpa
   - firm: crafted-action
     role: media-design
+    sources:
+      - https://www.craftedaction.com/work/hmcpa
   - firm: ewingcole
     role: architecture
   - firm: art-guild-inc

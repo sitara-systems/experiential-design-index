@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/
 technologies: []
 summary: >
   The Western Design Room, a gallery with media stations at the

@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: olson-kundig
     role: architecture
+    sources:
+      - https://olsonkundig.com
     note: "Design principal Alan Maskin"
   - firm: architekturburo-engelbrecht
     role: architecture

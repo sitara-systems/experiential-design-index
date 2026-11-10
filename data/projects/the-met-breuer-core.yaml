@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: beyer-blinder-belle
     role: architecture
+    sources:
+      - https://www.beyerblinderbelle.com/work/view/the-metropolitan-museum-of-art/the-met-breuer/
     note: "Restoration architect"
   - firm: vogt-landscape-architects
     role: landscape-architecture

@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: aldrichpears-associates
     role: exhibit-design
+    sources:
+      - https://aldrichpears.com/project/spring-mountains-visitor-gateway/
 summary: >
   The $50-million U.S. Forest Service Spring Mountains Visitor Gateway on
   Mount Charleston, Nevada, opened May 30, 2015, with interpretive

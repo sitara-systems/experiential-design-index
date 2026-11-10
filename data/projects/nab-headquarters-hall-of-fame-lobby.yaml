@@ -14,6 +14,8 @@ credits:
     role: av-integration
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/national-association-broadcasters
 technologies:
   - video wall
   - LED display

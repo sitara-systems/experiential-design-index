@@ -9,12 +9,18 @@ credits:
     note: "Building architect of record; no firm record yet"
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/u-s-marshals-museum/
     note: "Concept design for the star-shaped building form and galleries"
   - firm: tait
     role: media-design
+    sources:
+      - https://www.taittowers.com/work/us-marshals-museum
     note: "Credited as \"produced by Thinkwell, now tait\"; design, production, and delivery of the guest experience across 50,000 sq ft, including media production and interactives"
   - firm: tait
     role: av-integration
+    sources:
+      - https://www.taittowers.com/work/us-marshals-museum
     note: "Technology integration across the museum's exhibits"
 technologies: []
 summary: >

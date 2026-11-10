@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: lord-cultural-resources
     role: interpretive-planning
+    sources:
+      - https://www.lord.ca/projects/project-experience/royal-ontario-museum-connection-stations
     note: "Lead consultant: creative visioning workshops, interpretive plan, object selection, and content development"
   - firm: kubik-maltbie
     role: exhibit-design

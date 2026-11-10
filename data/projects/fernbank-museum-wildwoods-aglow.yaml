@@ -6,9 +6,13 @@ year_completed: 2022
 credits:
   - firm: tait
     role: exhibit-design
+    sources:
+      - https://www.taittowers.com/work/wildwoods-aglow
     note: "Credited as \"produced by Thinkwell, now tait\"; design of the nighttime immersive experience"
   - firm: tait
     role: media-design
+    sources:
+      - https://www.taittowers.com/work/wildwoods-aglow
     note: "Interactive lighting and projection across the 10-acre WildWoods habitat"
 technologies:
   - projection

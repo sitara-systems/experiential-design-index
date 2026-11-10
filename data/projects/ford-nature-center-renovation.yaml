@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: dlr-group
     role: architecture
+    sources:
+      - https://www.dlrgroup.com/work/mill-creek-metroparks-ford-nature-center/
     note: >
       Renovated the historic 1913 stone Ford mansion (orig. architect
       Charles F. Owsley) plus a new 1,500 sq ft lower-level gallery

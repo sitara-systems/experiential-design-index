@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: olson-kundig
     role: architecture
+    sources:
+      - https://olsonkundig.com/projects/tacoma-art-museum-haub-galleries/
 technologies: []
 summary: >
   Olson Kundig designed the Haub Galleries, a roughly 16,000-square-foot

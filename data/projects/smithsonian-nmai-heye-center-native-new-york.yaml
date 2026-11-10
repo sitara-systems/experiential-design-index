@@ -6,8 +6,12 @@ year_completed: 2021
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/native-new-york/
   - firm: c-and-g-partners
     role: media-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/native-new-york/
   - firm: ewingcole
     role: architecture
   - firm: hadley-exhibits

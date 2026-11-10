@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/north-cascades-national-park/
     note: "18-minute interpretive orientation film in 5.1 surround sound; project management, content development, graphic/visual design, original production"
 technologies:
   - 5.1 surround sound

@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/cultural-history-1/head-to-toe
   - firm: mystic-scenic
     role: fabrication
 technologies: []

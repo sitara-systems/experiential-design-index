@@ -6,8 +6,12 @@ year_completed: 2022
 credits:
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/the-lodge-museum-of-cast-iron/
   - firm: healykohler
     role: media-design
+    sources:
+      - https://www.healykohler.com/project/the-lodge-museum-of-cast-iron/
 technologies: []
 summary: >
   The Lodge Museum of Cast Iron, a branded museum in South Pittsburg,

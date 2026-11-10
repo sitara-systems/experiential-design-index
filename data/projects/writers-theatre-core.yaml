@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: studio-gang
     role: architecture
+    sources:
+      - https://studiogang.com/
   - firm: span-studio
     role: graphics-wayfinding
     note: "Designed while at Thirst"

@@ -6,15 +6,21 @@ year_completed: 2021
 credits:
   - firm: monadnock-media
     role: media-design
+    sources:
+      - https://monadnock.org/project/choctaw-cultural-center
     note: "Media experience design and production across a 24,500 sq ft footprint, including the Moundville Model animated projection, the We Are Choctaw orientation theater, Hickory Grove AR/VR stations, Treaty Theater, and Creation Stories projected-shadow sculptures"
   - firm: design-division
     role: exhibit-design
     note: "no firm record yet"
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://www.eoslightmedia.com/work/276
     note: "Fabricated the Luksi (Turtle) Children's Activity Center, a 60,000 sq ft component of the cultural center, completed 2019 per Eos Lightmedia's own project page (distinct completion date from the venue's 2021 overall opening)"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/276
     note: "Supplied and integrated specialty lighting (angled graphic panel lighting, modular LED systems, flexible track lighting) for the Luksi Children's Activity Center, contracted by Kubik Maltbie"
 technologies:
   - projection mapping

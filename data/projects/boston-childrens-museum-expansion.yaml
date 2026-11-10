@@ -6,6 +6,8 @@ year_completed: 2007
 credits:
   - firm: cambridgeseven
     role: architecture
+    sources:
+      - https://www.cambridgeseven.com/project/boston-childrens-museum/
 technologies: []
 summary: >
   Boston Children's Museum reopened April 14, 2007 after a $47 million,

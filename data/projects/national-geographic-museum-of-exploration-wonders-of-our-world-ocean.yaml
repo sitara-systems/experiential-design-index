@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: moment-factory
     role: media-design
+    sources:
+      - https://momentfactory.com/products/wonders-of-our-world-ocean-national-geographic-museum-of-exploration
     note: >
       Design and production of a 17-minute outdoor nighttime show: 360-degree
       immersive video projections, dynamic architectural lighting,

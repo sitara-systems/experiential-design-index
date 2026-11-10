@@ -6,8 +6,12 @@ year_completed: 2016
 credits:
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/synapse
   - firm: technomedia
     role: av-integration
+    sources:
+      - https://www.gotechnomedia.com/
     note: "Project lead; independently corroborated via AV&C's own site"
 technologies:
   - data visualization

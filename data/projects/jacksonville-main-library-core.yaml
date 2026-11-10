@@ -8,6 +8,8 @@ credits:
     role: architecture
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/jacksonville-public-library/
 technologies: []
 summary: >
   The Jacksonville Main Library in Jacksonville, Florida, opened 2005;

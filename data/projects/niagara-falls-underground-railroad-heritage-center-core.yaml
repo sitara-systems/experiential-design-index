@@ -6,9 +6,13 @@ year_completed: 2018
 credits:
   - firm: rlmg
     role: exhibit-design
+    sources:
+      - https://www.rlmg.com/work/niagara-falls-underground-railroad-heritage-center
     note: "Richard Lewis Media Group"
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/niagara-falls-underground-railroad-heritage-center
   - firm: studio-tectonic
     role: exhibit-design
     note: "No firm record yet"

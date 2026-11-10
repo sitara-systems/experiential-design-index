@@ -9,6 +9,8 @@ credits:
     note: "Lead architect for the four-year renovation and redevelopment."
   - firm: snohetta
     role: graphics-wayfinding
+    sources:
+      - https://www.snohetta.com/projects/musee-carnavalet
 technologies: []
 summary: >
   A four-year renovation of the historic Musée Carnavalet, Paris's museum

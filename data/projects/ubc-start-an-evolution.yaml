@@ -6,9 +6,13 @@ year_completed: 2015
 credits:
   - firm: cdm2-lightworks
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/76
     note: "Client of record for Eos Lightmedia's scope, per Eos Lightmedia's own project page; role on the project not independently corroborated (no firm record yet)."
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/76
     note: >
       Supplied and integrated the interactive lighting installation: twenty
       motion-triggered triangular acrylic light pillars at a campus pathway

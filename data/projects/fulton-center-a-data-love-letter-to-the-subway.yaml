@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
 - firm: pentagram
   role: media-design
+  sources:
+    - https://www.pentagram.com/work/a-data-love-letter-to-the-subway
   note: Partner Giorgia Lupi led the design of the data-driven animation.
 recognition:
 - award: SEGD Global Design Awards — Honor Award

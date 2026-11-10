@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: lmn-architects
     role: architecture
+    sources:
+      - https://lmnarchitects.com/project/seattle-asian-art-museum
   - firm: fisher-marantz-stone
     role: lighting-design
 technologies: []

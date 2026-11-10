@@ -6,10 +6,16 @@ year_completed: 2020
 credits:
   - firm: solid-light
     role: exhibit-design
+    sources:
+      - https://solidlight-inc.com/work/discovery-park-of-america/
   - firm: solid-light
     role: media-design
+    sources:
+      - https://solidlight-inc.com/work/discovery-park-of-america/
   - firm: solid-light
     role: fabrication
+    sources:
+      - https://solidlight-inc.com/work/discovery-park-of-america/
 technologies:
   - interactive media
 summary: >

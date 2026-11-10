@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: moment-factory
     role: media-design
+    sources:
+      - https://momentfactory.com/products/edge-nyc-hudson-yards
     note: >
       One of three studios (with Journey and SOFTLab) commissioned by Hudson
       Yards Experiences to design and install next-generation immersive

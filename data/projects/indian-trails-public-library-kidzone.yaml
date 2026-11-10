@@ -9,6 +9,8 @@ credits:
     note: "Design of the new library and Kid Zone; no firm record yet"
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://www.chicagoscenic.com/projects/indian-trails-public-library-kidzone
     note: "Engineering, fabrication, installation, project management of the 2,500 sq ft play area"
   - firm: boss-display
     role: fabrication

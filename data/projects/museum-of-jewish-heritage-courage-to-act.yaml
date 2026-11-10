@@ -6,9 +6,13 @@ year_completed: 2023
 credits:
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/work/civil-rights-memorials/how-can-children-and-their-families-explore-the-meaning-of-courage/
     note: "Museum of Jewish Heritage's first exhibition designed for children, on the Danish Rescue of 1943"
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "Full fabrication and installation with AV integration, per CMS's own portfolio"
 summary: >
   "Courage to Act: Rescue in Denmark," the Museum of Jewish Heritage's first

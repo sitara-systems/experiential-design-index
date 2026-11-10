@@ -10,6 +10,8 @@ credits:
     note: "Charles Moore and Arthur Andersson; no firm record yet"
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/washington-state-history-museum/
 technologies:
   - interactive theatrical vignettes
   - multimedia presentations

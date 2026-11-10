@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: brc-imagination-arts
     role: exhibit-design
+    sources:
+      - https://www.brcweb.com/project/rock-and-roll-hall-of-fame-museum/
     note: >
       Strategic master plan reconceiving the visitor experience at every
       guest engagement point: Rock Plaza with "Long Live Rock" signature
@@ -13,6 +15,8 @@ credits:
       gallery / New Inductee exhibit.
   - firm: brc-imagination-arts
     role: media-design
+    sources:
+      - https://www.brcweb.com/project/rock-and-roll-hall-of-fame-museum/
     note: >
       "Power of Rock" immersive concert-experience theater, created in
       collaboration with director Jonathan Demme (a 12-minute film across

@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/hospitals-universities/lehman-brothers%3A-a-history
     note: "no firm record yet"
   - firm: wb-inc
     role: fabrication

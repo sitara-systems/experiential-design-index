@@ -6,11 +6,15 @@ year_completed: 2008
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/united-states-capitol-visitor-center/
   - firm: rtkl-associates
     role: architecture
     note: "no firm record yet"
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/Capitol-Visitor-Center
     note: "one of several fabrication contractors on the exhibition hall"
 technologies:
   - orientation film

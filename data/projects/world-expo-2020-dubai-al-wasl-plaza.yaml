@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: threshold-acoustics
     role: acoustics
+    sources:
+      - https://threshold.llc/al-wasl
     note: >
       Sound control within surrounding buildings, separation of below-grade
       circulation noise from the plaza, and audio system design (line

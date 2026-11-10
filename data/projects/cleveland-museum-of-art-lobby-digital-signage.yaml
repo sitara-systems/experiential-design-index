@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/cleveland-museum-of-art
     note: >
       20-foot digital signage wall in the historic Marcel Breuer lobby, with
       animated templates and 3D artwork animations, integrated with the

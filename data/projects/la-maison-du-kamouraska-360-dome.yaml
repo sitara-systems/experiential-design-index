@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: solotech
     role: av-integration
+    sources:
+      - https://www.solotech.com/our-work/maison-du-kamouraska-360-projection-dome/
     note: >
       Systems integration and equipment: audio, video, lighting, rigging,
       communication equipment, and dome structure.

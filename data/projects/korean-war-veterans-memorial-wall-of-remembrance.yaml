@@ -9,9 +9,13 @@ credits:
     note: "No firm record yet"
   - firm: healykohler
     role: interpretive-planning
+    sources:
+      - https://www.healykohler.com/project/the-korean-war-veterans-memorial/
     note: "wayside exhibits, interpretive themes, tactile maps, audio description"
   - firm: healykohler
     role: graphics-wayfinding
+    sources:
+      - https://www.healykohler.com/project/the-korean-war-veterans-memorial/
     note: "exterior interpretive graphics and signage"
   - firm: coldspring
     role: fabrication

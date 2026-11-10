@@ -6,13 +6,21 @@ year_completed: 2017
 credits:
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/witte/
   - firm: gallagher-and-associates
     role: content-production
+    sources:
+      - https://gallagherdesign.com/project/witte/
   - firm: donna-lawrence-productions
     role: content-production
+    sources:
+      - https://bbinet.com/works/the-witte-museum/
     note: "Media producer, per BBI Engineering's own project page"
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/the-witte-museum/
     note: >
       Blended projections, touchscreen kiosks, and a large-scale
       ceiling-mounted LED display, completed under a compressed

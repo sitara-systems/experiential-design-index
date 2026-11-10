@@ -6,6 +6,8 @@ year_completed: 2001
 credits:
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/riverbanks-zoo-the-birdhouse-at-riverbanks-zoo/
     note: "on other credits; per Hadley's own portfolio"
 summary: >
   The Birdhouse at Riverbanks, a 12,000+ sq ft aviary building at Riverbanks

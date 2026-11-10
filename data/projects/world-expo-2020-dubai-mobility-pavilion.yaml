@@ -19,6 +19,8 @@ credits:
       Workshop, per Weta Workshop's own project page; no firm record yet
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects
 technologies:
   - large-format AV
 summary: >

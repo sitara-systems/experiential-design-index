@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: brc-imagination-arts
     role: media-design
+    sources:
+      - https://www.brcweb.com/project/the-legend-of-luna-at-great-wolf-lodge-perryville/
     note: "Created and developed the immersive lobby show"
   - firm: nyxdesign
     role: lighting-design

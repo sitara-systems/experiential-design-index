@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/fish-filter-food-the-human-oyster-connection/
     note: "Interactive and media design and development, per Trivium's own project page."
 summary: >
   Trivium Interactive produced two interactive exhibits for the new gallery Fish, Filter, Food: The Human-Oyster Connection, completed in 2024, at North Carolina Aquarium on Roanoke Island.

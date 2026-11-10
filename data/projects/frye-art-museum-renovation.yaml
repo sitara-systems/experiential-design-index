@@ -6,6 +6,8 @@ year_completed: 1997
 credits:
   - firm: olson-kundig
     role: architecture
+    sources:
+      - https://olsonkundig.com/projects/frye-art-museum/
 technologies: []
 summary: >
   Olson Kundig (then Olson Sundberg Architects) renovated and expanded the

@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/the-national-museum-of-toys-and-miniatures/
   - firm: helix-architecture-and-design
     role: architecture
     note: "No firm record yet"

@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: the-prd-group
     role: exhibit-design
+    sources:
+      - https://theprdgroup.com/project/seton-shrine-museum/
     note: Exhibit design, per PRD's project page.
   - firm: cortina-productions
     role: content-production

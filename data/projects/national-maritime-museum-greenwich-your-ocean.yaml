@@ -6,6 +6,8 @@ year_completed: 2005
 credits:
   - firm: studio-matthews
     role: exhibit-design
+    sources:
+      - https://studiomatthews.com/project/your-ocean/
     note: "Designed at thomas.matthews, London, per Studio Matthews' project page (principal Kristine Matthews)."
 summary: >
   Your Ocean, a permanent exhibition for school groups about human impact on

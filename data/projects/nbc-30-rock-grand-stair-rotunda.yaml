@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: diversified
     role: av-integration
+    sources:
+      - https://onediversified.com/case-study/lobby-digital-displays
     note: "Two 60-foot curved LED video walls along the Grand Stair, illuminated Peacock Lounge columns, guest-reception portrait screens, interactive Planar Mosaic shelves in The Shop at NBC Studios"
 technologies:
   - curved LED video walls

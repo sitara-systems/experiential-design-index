@@ -8,6 +8,8 @@ credits:
     role: architecture
   - firm: l-observatoire-international
     role: lighting-design
+    sources:
+      - https://lobsintl.com/project/fondation-louis-vuitton/
 technologies: []
 summary: >
   Fondation Louis Vuitton, a contemporary-art museum in the Bois de

@@ -6,8 +6,12 @@ year_completed: 2023
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/ulab/
   - firm: mithun
     role: architecture
+    sources:
+      - https://mithun.com/project/university-prep-ulab/
   - firm: northwest-sign-and-design
     role: fabrication
 summary: >

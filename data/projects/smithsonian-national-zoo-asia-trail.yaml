@@ -6,6 +6,8 @@ year_completed: 2006
 credits:
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/smithsonian-national-zoological-park/
 technologies: []
 summary: >
   Asia Trail, a habitat complex at the Smithsonian's National Zoological

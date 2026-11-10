@@ -6,8 +6,12 @@ year_completed: 2013
 credits:
   - firm: ayers-saint-gross
     role: architecture
+    sources:
+      - https://ayerssaintgross.com/work/project/mount-vernon-national-library-for-the-study-of-george-washington/
   - firm: ayers-saint-gross
     role: landscape-architecture
+    sources:
+      - https://ayerssaintgross.com/work/project/mount-vernon-national-library-for-the-study-of-george-washington/
     note: >
       Per the firm's own project page (Services: Architecture, Graphic
       Design, Landscape Architecture) — tree preservation, stormwater

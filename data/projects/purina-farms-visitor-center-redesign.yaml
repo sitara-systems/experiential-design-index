@@ -6,8 +6,12 @@ year_completed: 2016
 credits:
   - firm: taylor-studios
     role: exhibit-design
+    sources:
+      - https://taylorstudios.com/our-work/purina-farms-visitors-center/
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/purina-farms-visitors-center/
 summary: >
   A 1,500-square-foot redesign of the Purina Farms visitor center in Gray
   Summit, Missouri, completed in 2016 by Taylor Studios for Nestle Purina

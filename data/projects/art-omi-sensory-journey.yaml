@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: studio-joseph
     role: architecture
+    sources:
+      - https://studiojoseph.com/work/sensory-journey
   - firm: southside-design-build
     role: fabrication
 summary: >

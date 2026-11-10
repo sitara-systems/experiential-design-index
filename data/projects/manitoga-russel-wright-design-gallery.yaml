@@ -9,6 +9,8 @@ credits:
     note: "."
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=168
   - firm: southside-design-build
     role: fabrication
 technologies: []

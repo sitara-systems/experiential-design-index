@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: span-studio
     role: exhibit-design
+    sources:
+      - https://span.studio/projects/living-habitat
     note: "Design direction and design; developed with Openlands and the Chicago Architecture Center"
 technologies: []
 summary: >

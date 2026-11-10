@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: 1220-fabrication
     role: fabrication
+    sources:
+      - https://1220.com/portfolio/georgia-music-collection-at-athens-classic-center/
 summary: >
   The Georgia Music Collection, a music-heritage exhibit at the Classic
   Center's new Akins Ford Arena in Athens, Georgia, opened February 2025,

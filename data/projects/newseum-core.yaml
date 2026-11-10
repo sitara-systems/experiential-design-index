@@ -6,9 +6,13 @@ year_completed: 2008
 credits:
   - firm: ennead-architects
     role: architecture
+    sources:
+      - https://www.ennead.com/work/newseum
     note: "Credited as Polshek Partnership Architects (James Stewart Polshek) at the time; designed the $450 million, 250,000 sq ft building near the National Mall"
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/the-newseum/
     note: "Also designed the museum's original 1997 Arlington, VA location"
   - firm: kubik-maltbie
     role: fabrication
@@ -16,6 +20,8 @@ credits:
     role: av-integration
   - firm: sh-acoustics
     role: acoustics
+    sources:
+      - https://shacoustics.com/newseum/
     note: >
       Acoustic and audio systems design across 18 multimedia theaters, more
       than 100 interactive stations and videos, two broadcast studios, an

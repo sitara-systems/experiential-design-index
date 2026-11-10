@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/whats-your-story
     note: "Youth-focused interactive quiz, media wall, and poster-making stations"
   - firm: edx-exhibits
     role: fabrication

@@ -6,6 +6,8 @@ year_completed: 2011
 credits:
   - firm: unified-field
     role: media-design
+    sources:
+      - https://www.unifiedfield.com/projects/sony-wonder-music-mixer
     note: "Interactive programming design and development"
   - firm: james-hollingsworth-design
     role: exhibit-design

@@ -6,6 +6,8 @@ year_completed: 1994
 credits:
 - firm: frederick-fisher-and-partners
   role: architecture
+  sources:
+    - https://fisherpartners.net/project/moma-ps1-renovation/
 summary: >
   The renovation of the former school building as the P.S. 1 contemporary art
   center (now MoMA PS1) in New York, completed in 1994, was designed by Frederick

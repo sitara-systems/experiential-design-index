@@ -6,6 +6,8 @@ year_completed: 2006
 credits:
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/Old-Fort-Niagara
 summary: >
   The Old Fort Niagara Visitor Center, a 10,000-square-foot facility
   converted from an existing storage building into an orientation theater,

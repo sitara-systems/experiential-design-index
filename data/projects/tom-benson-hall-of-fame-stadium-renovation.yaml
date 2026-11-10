@@ -6,8 +6,12 @@ year_completed: 2017
 credits:
   - firm: hks
     role: architecture
+    sources:
+      - https://www.hksinc.com/what-we-do/projects/tom-benson-hall-of-fame-stadium-johnson-controls-hall-of-fame-village/
   - firm: hks
     role: master-planning
+    sources:
+      - https://www.hksinc.com/what-we-do/projects/tom-benson-hall-of-fame-stadium-johnson-controls-hall-of-fame-village/
     note: site plan for the Johnson Controls Hall of Fame Village surrounding the stadium
 summary: >
   A ground-up reconstruction of the Pro Football Hall of Fame's stadium in

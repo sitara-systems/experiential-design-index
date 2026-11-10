@@ -6,8 +6,12 @@ year_completed: 2014
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/san-francisco-49ers-museum/
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/projects/san-francisco-49ers-museum/
     note: "Interactive exhibits, film and audio experiences"
   - firm: electrosonic
     role: av-integration

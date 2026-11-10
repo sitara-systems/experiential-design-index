@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: studio-matthews
     role: exhibit-design
+    sources:
+      - https://studiomatthews.com/project/cooper-hewitt-give-me-a-sign/
   - firm: volume-industries
     role: fabrication
     note: "physical and digital fabrication; no firm record yet"

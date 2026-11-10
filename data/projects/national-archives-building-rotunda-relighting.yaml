@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://www.availablelight.com/work/rotunda-for-the-charters-of-freedom-national-archives-exhibit
 summary: >
   A lighting-system-only conservation-driven relighting of the Rotunda
   for the Charters of Freedom at the National Archives Museum in

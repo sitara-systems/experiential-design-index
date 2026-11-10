@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://chicagoscenic.com/blog/newsletter/the-skydeck-experience-temporary-space-at-willis-tower
   - firm: gensler
     role: architecture
   - firm: creative-technology

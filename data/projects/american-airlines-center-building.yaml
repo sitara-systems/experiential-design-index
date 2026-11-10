@@ -6,6 +6,8 @@ year_completed: 2001
 credits:
   - firm: hks
     role: architecture
+    sources:
+      - https://www.hksinc.com/what-we-do/projects/american-airlines-center/
 technologies:
   - 1080p high-definition center-hung video system (first in an NBA/NHL arena)
 summary: >

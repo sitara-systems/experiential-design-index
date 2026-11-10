@@ -8,6 +8,8 @@ credits:
     role: architecture
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://www.chicagoscenic.com/projects/northwestern-universitys-welsh-ryan-arena
     note: "Lead project manager for branding initiative; wall graphics, wayfinding, signage"
   - firm: moss-inc
     role: graphics-wayfinding

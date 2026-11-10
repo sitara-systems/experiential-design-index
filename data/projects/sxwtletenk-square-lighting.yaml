@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/56
     note: "Developed the lighting scheme for the renewed civic plaza, working with the project's architect and landscape architect"
 technologies:
   - DMX control

@@ -6,6 +6,8 @@ year_completed: 2008
 credits:
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/nps-blue-ridge-parkway-visitor-center/
 summary: >
   The Blue Ridge Parkway Visitor Center at Milepost 384 near Asheville, North
   Carolina, opened in 2008 as the National Park Service's orientation and

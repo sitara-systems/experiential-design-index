@@ -6,8 +6,12 @@ year_completed: 2023
 credits:
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects/accenture-chicago-headquarters
   - firm: gensler
     role: exhibit-design
+    sources:
+      - https://www.gensler.com/projects/accenture-chicago-headquarters
     note: "Digital experience design, experience strategy, interior design, software development"
 technologies: []
 summary: >

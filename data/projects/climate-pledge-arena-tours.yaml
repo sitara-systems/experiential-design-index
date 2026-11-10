@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: brc-imagination-arts
     role: content-production
+    sources:
+      - https://www.brcweb.com/project/tours-climate-pledge-arena/
     note: >
       Strategic planning, story and concept development, design detail,
       immersive media production, installation and integration, technical

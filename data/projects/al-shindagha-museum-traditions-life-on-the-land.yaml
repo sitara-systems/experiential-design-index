@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/al-shindagha-museum
     note: "design basis for 2 of the museum's pavilions"
   - firm: acciona-cultura
     role: fabrication

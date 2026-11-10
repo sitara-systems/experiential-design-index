@@ -6,8 +6,12 @@ year_completed: 2003
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/levi-strauss-co-visitor-center/
   - firm: storyline-studio
     role: graphics-wayfinding
+    sources:
+      - https://www.storylinestudio.com/portfolio/levi-strauss-co-visitor-center/
     note: >
       Storyline Studio's own portfolio separately credits "exhibit and
       graphics design" for a matching 150th-anniversary pavilion installation

@@ -6,8 +6,12 @@ year_completed: 2015
 credits:
   - firm: omsi-creative-services
     role: exhibit-design
+    sources:
+      - https://omsi.edu/wp-content/uploads/2022/10/Zoo-in-You-Exhibit-Description-Photos.pdf
   - firm: omsi-creative-services
     role: fabrication
+    sources:
+      - https://omsi.edu/wp-content/uploads/2022/10/Zoo-in-You-Exhibit-Description-Photos.pdf
 technologies:
   - bilingual interactive exhibits
 summary: >

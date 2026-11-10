@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/ethiopia-at-the-crossroads
   - firm: isometric-studio
     role: graphics-wayfinding
+    sources:
+      - https://isometricstudio.com/ethiopia-at-the-crossroads
 technologies:
   - custom typography (Ge'ez script–based)
 summary: >

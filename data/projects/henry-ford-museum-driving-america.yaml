@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/henry-ford-museum-driving-america/
   - firm: cortina-productions
     role: media-design
   - firm: design-and-production-incorporated

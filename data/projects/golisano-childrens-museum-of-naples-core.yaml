@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
 - firm: art-guild-inc
   role: fabrication
+  sources:
+    - https://www.artguildinc.com/project/golisano-childrens-museum-of-naples/
   note: Listed in Art Guild's museum portfolio; the project page does not itemize
     scope. Fabrication role per the firm's practice.
 summary: The Golisano Children's Museum of Naples, a 30,000-square-foot children's

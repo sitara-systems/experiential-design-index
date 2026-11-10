@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/stavros-niarchos-foundationdavid-rockefeller-river-campus/
 technologies:
   - campus wayfinding signage
   - hand-painted-style campus map

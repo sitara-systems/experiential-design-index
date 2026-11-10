@@ -6,8 +6,12 @@ year_completed: 2016
 credits:
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/work/corporate-experience/ibm-watson-experience-centers/
   - firm: local-projects
     role: media-design
+    sources:
+      - https://localprojects.com/work/corporate-experience/ibm-watson-experience-centers/
     technology_tags:
       - artificial-intelligence
     note: "The Immersion Room: a 300-degree, 45-display curved theater"

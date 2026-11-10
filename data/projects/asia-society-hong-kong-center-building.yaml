@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: tod-williams-billie-tsien-architects
     role: architecture
+    sources:
+      - https://twbta.com/work/international/
   - firm: agc-design
     role: architecture
     note: "Associate architect (core and shell); no firm record yet"

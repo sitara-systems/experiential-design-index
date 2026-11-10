@@ -8,12 +8,18 @@ credits:
     role: architecture
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://www.dimin.com/
     note: experiential branding
   - firm: dimensional-innovations
     role: interpretive-planning
+    sources:
+      - https://www.dimin.com/
     note: donor recognition
   - firm: dimensional-innovations
     role: media-design
+    sources:
+      - https://www.dimin.com/
     note: interactive technology
 summary: >
   Experiential branding, donor recognition, and interactive technology

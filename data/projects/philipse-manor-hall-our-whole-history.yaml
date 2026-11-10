@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/philipsemanorhall-pgkc6-ggfr9
   - firm: saratoga-associates
     role: architecture
     note: "no firm record yet"

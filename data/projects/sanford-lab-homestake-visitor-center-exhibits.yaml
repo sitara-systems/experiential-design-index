@@ -6,8 +6,14 @@ year_completed: 2015
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/sanford-lab-homestake-visitor-center/
+      - https://www.cgpartnersllc.com/projects/ross-cage-homestake-mine/
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/sanford-lab-homestake-visitor-center/
+      - https://www.cgpartnersllc.com/projects/ross-cage-homestake-mine/
     note: "Environmental graphics and branding"
   - firm: dangermond-keane-architecture
     role: architecture

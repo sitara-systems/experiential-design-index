@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: aldrichpears-associates
     role: exhibit-design
+    sources:
+      - https://aldrichpears.com/project/hoover-dam-visitor-center/
   - firm: kubik-maltbie
     role: fabrication
     note: "Prime exhibit contractor"
@@ -13,9 +15,13 @@ credits:
     role: av-integration
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/hoover-dam-visitor-center/
     note: "Media producer for the renovated visitor experience"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/125
     note: >
       Provided lighting design and production administration for a
       7,610 sq ft coordinated exhibit package, collaborating from concept

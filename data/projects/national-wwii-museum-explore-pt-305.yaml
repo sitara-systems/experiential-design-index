@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/explore-pt-305/
     note: "Interactive and media design and development, per Trivium's own project page."
 summary: >
   Trivium Interactive produced an interactive beside a real WWII PT boat in the Kushner Restoration Pavilion, completed in 2026, at The National WWII Museum.

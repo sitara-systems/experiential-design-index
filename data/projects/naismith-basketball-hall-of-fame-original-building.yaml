@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=42
 summary: >
   The Naismith Memorial Basketball Hall of Fame's riverfront building in
   Springfield, Massachusetts, designed by Gwathmey Siegel & Associates

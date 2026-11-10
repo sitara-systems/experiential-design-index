@@ -6,8 +6,12 @@ year_completed: 2023
 credits:
   - firm: zgf-architects
     role: architecture
+    sources:
+      - https://www.zgf.com/work/6130-illumina-executive-briefing-center
   - firm: zgf-architects
     role: graphics-wayfinding
+    sources:
+      - https://www.zgf.com/work/6130-illumina-executive-briefing-center
     note: "Environmental graphic design"
   - firm: hyperquake
     role: exhibit-design

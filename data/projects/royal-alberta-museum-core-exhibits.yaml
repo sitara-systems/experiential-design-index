@@ -12,13 +12,19 @@ credits:
     note: "Designed the Children's Gallery and Bug Gallery; no firm record yet"
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://kubikmaltbie.com/project/royal-alberta-museum/
     note: "Design-build for 3 of 7 featured galleries; principal fabricator for 2 more, incl. base-build fit-out, showcases, and lighting"
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/royal-alberta-museum/
   - firm: electrosonic
     role: av-integration
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/41
     note: "Provided overhead and internal case lighting"
 technologies: []
 summary: >

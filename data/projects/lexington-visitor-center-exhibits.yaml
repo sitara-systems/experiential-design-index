@@ -6,8 +6,12 @@ year_completed: 2020
 credits:
   - firm: mills-whitaker-architects
     role: architecture
+    sources:
+      - https://millswhitaker.com/
   - firm: proun-design
     role: graphics-wayfinding
+    sources:
+      - https://www.proundesign.com/cultural-history-1/lexington-visitor-center
     note: "Exhibit graphics"
   - firm: mystic-scenic
     role: fabrication

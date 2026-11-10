@@ -6,8 +6,12 @@ year_completed: 2013
 credits:
   - firm: cambridgeseven
     role: architecture
+    sources:
+      - https://www.cambridgeseven.com/project/carolina-sciquarium/
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/carolina-sciquarium/
 summary: >
   Carolina SciQuarium, a 23,000 sq ft, 250,000-gallon aquatic wing at the
   Greensboro Science Center in Greensboro, North Carolina — the first

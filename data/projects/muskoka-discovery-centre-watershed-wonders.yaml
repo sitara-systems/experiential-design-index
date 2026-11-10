@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/muskoka-discovery-centre-watershed-wonders/
   - firm: expographiq
     role: fabrication
     note: "Design-build partner; no firm record yet"

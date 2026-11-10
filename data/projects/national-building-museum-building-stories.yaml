@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: plus-and-greater-than
     role: exhibit-design
+    sources:
+      - https://www.plusandgreaterthan.com/projects/building-stories
   - firm: plus-and-greater-than
     role: interpretive-planning
+    sources:
+      - https://www.plusandgreaterthan.com/projects/building-stories
   - firm: av-c
     role: av-integration
   - firm: southside-design-build

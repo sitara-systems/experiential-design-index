@@ -6,8 +6,12 @@ year_completed: 2015
 credits:
   - firm: hok
     role: architecture
+    sources:
+      - https://www.hok.com/projects/view/porsche-cars-north-america-experience-center-and-headquarters/
   - firm: hok
     role: landscape-architecture
+    sources:
+      - https://www.hok.com/projects/view/porsche-cars-north-america-experience-center-and-headquarters/
 technologies:
   - 1.6-mile private test track
   - virtual car-customization studio

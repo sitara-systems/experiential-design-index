@@ -6,8 +6,14 @@ year_completed: 2021
 credits:
   - firm: hok
     role: architecture
+    sources:
+      - https://www.hok.com/projects/view/experience-honeywells-global-hq/
+      - https://www.hok.com/news/2023-09/hok-design-for-honeywells-headquarters-honored-in-fast-companys-innovation-by-design-awards/
   - firm: hok
     role: exhibit-design
+    sources:
+      - https://www.hok.com/projects/view/experience-honeywells-global-hq/
+      - https://www.hok.com/news/2023-09/hok-design-for-honeywells-headquarters-honored-in-fast-companys-innovation-by-design-awards/
     note: "Design of the 23rd-floor Customer Experience Center and Immersion Room"
   - firm: avi-spl
     role: av-integration

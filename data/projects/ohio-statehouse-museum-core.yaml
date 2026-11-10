@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: hilferty-and-associates
     role: interpretive-planning
+    sources:
+      - https://www.hilferty.com/project-details
   - firm: 1220-fabrication
     role: fabrication
   - firm: communications-electronic-design

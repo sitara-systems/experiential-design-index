@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/awm-darktestament-pwhgf-r5pjt
   - firm: chicago-scenic-studios
     role: fabrication
   - firm: trivium-interactive

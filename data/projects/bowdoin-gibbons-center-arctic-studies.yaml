@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/bowdoin-college-barry-mills-hall-and-center-for-arctic-studies/
 technologies: []
 summary: >
   The John and Lile Gibbons Center for Arctic Studies at Bowdoin

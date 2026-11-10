@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/hunter-museum-of-american-art/
 technologies: []
 summary: >
   The West Addition to the Hunter Museum of American Art in

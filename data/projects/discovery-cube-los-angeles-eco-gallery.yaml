@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/the-discovery-cube/
     note: >
       AV integration for a recreation of the Discovery Cube Orange County
       Eco Gallery's trash-sorting interactive

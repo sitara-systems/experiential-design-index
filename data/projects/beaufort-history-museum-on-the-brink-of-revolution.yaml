@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: monadnock-media
     role: media-design
+    sources:
+      - https://monadnock.org/project/beaufort-history-museum
     note: "Media experience design and production, technical systems design and oversight, and immersive theater design for a 225 sq ft animated immersive theater"
 technologies:
   - immersive theater

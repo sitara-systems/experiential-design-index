@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: peter-hyde-design
     role: exhibit-design
+    sources:
+      - https://www.peterhydedesign.com/all-projects/
   - firm: fleming-museum-consulting
     role: interpretive-planning
     note: "Content development; no firm record yet"

@@ -6,9 +6,13 @@ year_completed: 2023
 credits:
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/work/corporate-experience/world-of-coca-cola-scent-discovery/
     note: "Visitor-flow strategy and multi-sensory scent gallery redesign"
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/coca-cola-scent-discovery
 technologies:
   - scent technology
 summary: >

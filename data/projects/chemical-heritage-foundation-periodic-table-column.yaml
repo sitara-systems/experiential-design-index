@@ -6,9 +6,13 @@ year_completed: 2008
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/making-modernity-science-history-institute/
     note: "Exhibition designer for Making Modernity, the permanent exhibition containing this installation"
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/chemical-heritage-foundation
     note: "Design and implementation of the two-story periodic-table video column"
 technologies:
   - video wall

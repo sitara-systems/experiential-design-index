@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/nyc-landmarks-preservation-commission/
   - firm: mbb-architects
     role: architecture
     note: "office renovation architect; no firm record yet"

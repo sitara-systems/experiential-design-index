@@ -7,6 +7,8 @@ year_expected: 2026
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/national-air-and-space-museum-east-end-galleries/
     note: >
       Design development, detailing, and technical documentation across 10
       galleries; coordinated AV, graphics, mechanical interactives,

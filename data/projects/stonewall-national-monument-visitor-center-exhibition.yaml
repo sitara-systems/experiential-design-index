@@ -9,6 +9,8 @@ credits:
     note: "EDG Architecture and Engineering; facade restoration and ADA-compliant renovation of 51 Christopher Street; no firm record yet"
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/work/civil-rights-memorials/stonewall-national-monument-visitor-center/
     note: "Concept design, exhibition design, design development, and documentation"
   - firm: orsman-design
     role: lighting-design

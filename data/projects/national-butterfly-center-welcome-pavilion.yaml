@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: studio-joseph
     role: architecture
+    sources:
+      - https://studiojoseph.com/work/welcome-pavilion
 summary: >
   The Welcome Pavilion, a visitor center for the National Butterfly Center,
   opened in Mission, Texas in 2010, designed by Studio Joseph.

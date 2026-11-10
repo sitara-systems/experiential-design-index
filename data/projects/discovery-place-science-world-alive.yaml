@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/discovery-place-science-world-alive-exhibit/
 technologies:
   - touch tank
   - interactive globe

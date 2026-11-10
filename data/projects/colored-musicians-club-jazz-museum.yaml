@@ -6,8 +6,12 @@ year_completed: 2012
 credits:
   - firm: hadley-exhibits
     role: exhibit-design
+    sources:
+      - https://hadleyexhibits.com/the-colored-musicians-club/
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/the-colored-musicians-club/
 technologies:
   - listening stations
   - interactive audio mixing

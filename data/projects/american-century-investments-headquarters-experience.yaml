@@ -8,9 +8,13 @@ credits:
     role: architecture
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://dimin.com/work/american-century-investments-headquarters
     note: "Experience design and executive briefing center"
   - firm: dimensional-innovations
     role: media-design
+    sources:
+      - https://dimin.com/work/american-century-investments-headquarters
     note: "Immersive technology"
 technologies:
   - immersive media

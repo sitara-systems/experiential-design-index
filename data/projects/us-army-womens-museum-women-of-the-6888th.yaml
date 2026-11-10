@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "Custom display vitrines and oversized wallpaper graphics, per CMS's own portfolio"
 technologies: []
 summary: >

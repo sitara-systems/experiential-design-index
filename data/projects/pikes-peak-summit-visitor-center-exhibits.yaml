@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: gwwo-architects
     role: architecture
+    sources:
+      - https://www.gwwoinc.com/projects/pikes-peak-summit-visitor-center
     note: "Design architect; no firm record yet"
   - firm: rta-architects
     role: architecture
@@ -14,8 +16,12 @@ credits:
     role: exhibit-design
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/pikes-peak-summit-visitor-center/
   - firm: northern-light-productions
     role: media-design
+    sources:
+      - https://nlprod.com/item/pikes-peak-summit-visitor-center/
 technologies:
   - projection mapping
   - touchscreen interactives

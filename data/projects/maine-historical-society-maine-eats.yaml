@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: proun-design
     role: graphics-wayfinding
+    sources:
+      - https://www.proundesign.com/cultural-history-1/maine-eats!
     note: "Exhibit graphics"
   - firm: megaprint
     role: fabrication

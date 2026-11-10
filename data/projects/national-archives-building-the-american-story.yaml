@@ -6,6 +6,10 @@ year_completed: 2025
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/the-american-story-opens-at-the-national-archives/
+      - https://www.cgpartnersllc.com/projects/in-progress-national-archives-museum/
+      - https://www.cgpartnersllc.com/projects/national-archives-and-records-administration-cosmos-and-moon/
   - firm: cortina-productions
     role: media-design
     technology_tags:

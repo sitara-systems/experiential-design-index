@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: ashton-design
     role: exhibit-design
+    sources:
+      - https://ashton-design.com/work/collective-action
     note: "Logo, exhibition design, interpretive graphics"
 recognition:
   - award: "SEGD Global Design Awards — Merit Award"

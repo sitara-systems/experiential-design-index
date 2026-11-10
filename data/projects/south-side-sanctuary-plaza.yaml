@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: span-studio
     role: graphics-wayfinding
+    sources:
+      - https://span.studio/projects/south-side-sanctuary
     note: "Brand identity, logotype, and visual system"
 technologies: []
 summary: >

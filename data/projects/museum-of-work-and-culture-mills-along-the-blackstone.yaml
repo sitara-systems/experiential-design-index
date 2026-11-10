@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/mills-along-the-blackstone/
     note: "Interactive and media design and development, per Trivium's own project page."
 summary: >
   Trivium Interactive produced an updated interactive experience for the redesigned Woonsocket Works exhibit, completed in 2017, at Museum of Work & Culture.

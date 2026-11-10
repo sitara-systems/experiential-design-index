@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/bob-dylan-electric-3yxjw-hwxt8
   - firm: chicago-scenic-studios
     role: fabrication
 summary: >

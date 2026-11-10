@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet."
   - firm: color-ad
     role: fabrication
+    sources:
+      - https://color-ad.com/index.php/project/manila-american-cemetery-and-memorial-visitor-center/
     note: "Project management, fabrication, transportation, and installation. ABMC exhibit-fabrication IDIQ contractor."
 summary: >
   The visitor center at the Manila American Cemetery and Memorial in

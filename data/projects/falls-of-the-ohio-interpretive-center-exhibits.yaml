@@ -6,10 +6,16 @@ year_completed: 2016
 credits:
   - firm: solid-light
     role: exhibit-design
+    sources:
+      - https://solidlight-inc.com/work/falls-of-the-ohio/
   - firm: solid-light
     role: media-design
+    sources:
+      - https://solidlight-inc.com/work/falls-of-the-ohio/
   - firm: solid-light
     role: fabrication
+    sources:
+      - https://solidlight-inc.com/work/falls-of-the-ohio/
 technologies: []
 summary: >
   New exhibits at the Falls of the Ohio State Park Interpretive Center in

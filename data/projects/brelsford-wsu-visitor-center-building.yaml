@@ -6,8 +6,12 @@ year_completed: 2013
 credits:
   - firm: olson-kundig
     role: architecture
+    sources:
+      - https://olsonkundig.com/projects/washington-state-university-visitor-center/
   - firm: olson-kundig
     role: exhibit-design
+    sources:
+      - https://olsonkundig.com/projects/washington-state-university-visitor-center/
 technologies: []
 summary: >
   Olson Kundig designed the Brelsford WSU Visitor Center, a 4,277-square-foot

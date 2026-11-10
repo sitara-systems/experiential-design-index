@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/2-u/
     note: "Visual language and wayfinding for the public plaza and urban village, developed from the 2+U logo's plus sign; Principal Kristine Matthews, Project Lead Nicole Fischetti, Designer Matt Cole"
   - firm: pickard-chilton
     role: architecture

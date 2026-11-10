@@ -9,12 +9,16 @@ credits:
     note: "No firm record yet"
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/154
     note: >
       Audiovisual systems, control programming, and interactive software for
       the Atrium, Astro Gallery, Children's Gallery, and Presentation Area,
       in collaboration with Kei Space Design.
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/154
 technologies:
   - interactive software
 summary: >

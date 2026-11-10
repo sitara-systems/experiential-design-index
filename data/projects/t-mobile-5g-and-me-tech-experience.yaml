@@ -6,9 +6,13 @@ year_completed: 2021
 credits:
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/t-mobile-memory-wall/
     note: "The Memory Wall — responsive media sculpture with sensor-triggered visitor photo capture"
   - firm: avi-spl
     role: av-integration
+    sources:
+      - https://avispl.com/xtg/our-work/t-mobile-5g-me-innovation-center/
   - firm: sparks
     role: fabrication
     note: "No firm record yet"

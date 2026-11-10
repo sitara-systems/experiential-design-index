@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: graham-baba-architects
     role: architecture
+    sources:
+      - https://grahambaba.com/the-kenmore-hangar
   - firm: hewitt
     role: landscape-architecture
     note: "Prime consultant; no firm record yet"

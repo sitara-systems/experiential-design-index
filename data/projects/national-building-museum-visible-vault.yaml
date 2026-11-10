@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: studio-joseph
     role: exhibit-design
+    sources:
+      - https://studiojoseph.com/work/visible-vault
   - firm: southside-design-build
     role: fabrication
   - firm: delta-designs-ltd

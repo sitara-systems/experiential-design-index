@@ -6,15 +6,21 @@ year_completed: 2020
 credits:
   - firm: dlr-group
     role: graphics-wayfinding
+    sources:
+      - https://www.dlrgroup.com/work/cochlear-north-american-headquarters/
     note: >
       In-house Experiential Graphic Design studio; experiential graphics
       incorporating Cochlear's nautilus signature symbol throughout the
       space, customer/recipient experience center component.
   - firm: dlr-group
     role: acoustics
+    sources:
+      - https://www.dlrgroup.com/work/cochlear-north-american-headquarters/
     note: "Sound masking systems, sound booths for hearing-research spaces"
   - firm: dlr-group
     role: lighting-design
+    sources:
+      - https://www.dlrgroup.com/work/cochlear-north-american-headquarters/
 technologies: []
 recognition:
   - award: "BESTawards (IIDA Rocky Mountain Chapter) — Workplace 40,000+"

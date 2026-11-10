@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/the-ten-thousand-day-war-at-sea-the-us-navy-in-vietnam-1950-1975/
 technologies:
   - virtual reality
   - tactile diorama

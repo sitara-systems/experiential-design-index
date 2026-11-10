@@ -6,11 +6,17 @@ year_completed: 2015
 credits:
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://dimin.com/work/haymarket-pedestrian-bridge
     note: "Transit experience and placemaking"
   - firm: dimensional-innovations
     role: graphics-wayfinding
+    sources:
+      - https://dimin.com/work/haymarket-pedestrian-bridge
   - firm: dimensional-innovations
     role: lighting-design
+    sources:
+      - https://dimin.com/work/haymarket-pedestrian-bridge
     note: "Specialty lighting for the steel \"Lincoln\" letterforms"
 technologies:
   - specialty lighting

@@ -6,10 +6,19 @@ year_completed: 2019
 credits:
   - firm: pgav-destinations
     role: master-planning
+    sources:
+      - https://pgavdestinations.com/news/st-louis-aquarium-now-open/
+      - https://pgavdestinations.com/project/st-louis-aquarium/
   - firm: pgav-destinations
     role: architecture
+    sources:
+      - https://pgavdestinations.com/news/st-louis-aquarium-now-open/
+      - https://pgavdestinations.com/project/st-louis-aquarium/
   - firm: pgav-destinations
     role: exhibit-design
+    sources:
+      - https://pgavdestinations.com/news/st-louis-aquarium-now-open/
+      - https://pgavdestinations.com/project/st-louis-aquarium/
 technologies:
   - digital globe (interactive/media)
   - laser projection

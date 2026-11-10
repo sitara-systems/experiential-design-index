@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: foster-and-partners
     role: architecture
+    sources:
+      - https://www.fosterandpartners.com/projects/datong-art-museum
 technologies: []
 summary: >
   Datong Art Museum, a 32,000-sqm art museum in Datong, Shanxi, China,

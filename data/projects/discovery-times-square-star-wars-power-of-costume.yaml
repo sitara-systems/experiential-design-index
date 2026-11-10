@@ -6,9 +6,13 @@ year_completed: 2015
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/star-wars-and-power-costume/
     note: "Venue-specific scenography and adaptation for the Discovery Times Square presentation; the underlying traveling exhibition (costumes, curation) is a Smithsonian Institution Traveling Exhibition Service production with Lucasfilm, not a C&G design"
   - firm: c-and-g-partners
     role: lighting-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/star-wars-and-power-costume/
 technologies:
   - projection
   - interactive photo booth

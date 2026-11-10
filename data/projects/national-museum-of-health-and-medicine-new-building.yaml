@@ -11,6 +11,8 @@ credits:
     role: exhibit-design
   - firm: explus
     role: fabrication
+    sources:
+      - https://www.explusinc.com/portfolio.html
 technologies: []
 summary: >
   The National Museum of Health and Medicine's building in Silver Spring,

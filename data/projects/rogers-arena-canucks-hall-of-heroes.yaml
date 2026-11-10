@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
 - firm: moment-factory
   role: media-design
+  sources:
+    - https://momentfactory.com/products/vancouver-canucks-hall-of-heroes-exhibit
   note: Experience design and custom software for a permanent interactive installation
 summary: A permanent interactive installation at Rogers Arena in Vancouver, created
   for the Canucks' 40th NHL anniversary in 2010, highlights the careers of Stan

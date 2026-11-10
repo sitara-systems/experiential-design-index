@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/iroko-tree/
 summary: >
   A 100-square-foot, fully fabric-covered, life-sized Iroko tree sculpture
   fabricated by Taylor Studios for a performance installation at the

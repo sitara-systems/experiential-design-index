@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: monadnock-media
     role: media-design
+    sources:
+      - https://monadnock.org/project/gulfquest
     note: "Media master planning, exhibit design collaboration, media experience design and production, digital interactive design and development, and technical systems oversight across the 35,000 sq ft museum, including the Port of Victory Theater, Deep Explorer virtual-submersible interactive, GulfQuest panoramic theater, Great Gulf Challenge multiplayer game, and Take the Helm simulator"
   - firm: lyons-zaremba
     role: exhibit-design

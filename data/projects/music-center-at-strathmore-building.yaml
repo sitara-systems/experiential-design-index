@@ -6,6 +6,8 @@ year_completed: 2004
 credits:
   - firm: william-rawn-associates
     role: architecture
+    sources:
+      - https://rawnarch.com/projects/strathmore-music-center.html
     note: "Architect, per William Rawn Associates' project page (Completion 2004)."
   - firm: grimm-and-parker-architects
     role: architecture

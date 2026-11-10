@@ -6,6 +6,8 @@ year_completed: 2005
 credits:
   - firm: evidence-design
     role: exhibit-design
+    sources:
+      - https://www.evidencedesign.com/details/south-fork-natural-history-museum/
   - firm: phil-fraley-productions
     role: fabrication
     note: "No firm record yet"

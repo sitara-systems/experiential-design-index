@@ -6,9 +6,13 @@ year_completed: 2019
 credits:
   - firm: the-urban-conga
     role: exhibit-design
+    sources:
+      - https://www.theurbanconga.com/projects/entangled
     note: "With local Haitian artist Serge Toussaint (painted drum surfaces)."
   - firm: the-urban-conga
     role: fabrication
+    sources:
+      - https://www.theurbanconga.com/projects/entangled
 technologies: []
 summary: >
   Entangled, three aluminum drums modeled on traditional Rada battery drums

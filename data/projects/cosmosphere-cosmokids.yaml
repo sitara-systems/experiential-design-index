@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/cosmokids/
 technologies: []
 summary: >
   CosmoKids, an interactive space-themed STEAM play and learning area for

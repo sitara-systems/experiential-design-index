@@ -6,9 +6,13 @@ year_completed: 2025
 credits:
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/ancient-life-in-new-mexico
     note: Two interactives — Exploring Earth (rotatable 3D globe timeline) and Postcards from the Paleozoic (personalized photo postcard generator)
   - firm: ideum
     role: fabrication
+    sources:
+      - https://ideum.com/portfolio/ancient-life-in-new-mexico
     note: Custom wall-mounted touchscreen cabinets
 technologies:
   - touchscreen

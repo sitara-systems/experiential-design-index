@@ -9,12 +9,20 @@ credits:
     note: "No firm record yet"
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/national-medal-of-honor-museum/
   - firm: gallagher-and-associates
     role: content-production
+    sources:
+      - https://gallagherdesign.com/project/national-medal-of-honor-museum/
   - firm: gallagher-and-associates
     role: graphics-wayfinding
+    sources:
+      - https://gallagherdesign.com/project/national-medal-of-honor-museum/
   - firm: schuler-shook
     role: lighting-design
+    sources:
+      - https://schulershook.com/projects/national-medal-of-honor-museum-col-neel-e-kearby-theater
     note: >
       Theatre planning and design services for the 239-seat Col. Neel E.
       Kearby Theater, the museum's programming-centerpiece theater, per
@@ -23,14 +31,20 @@ credits:
       sub-project
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/573
     note: >
       Set the lighting design vision for the museum's exhibit lighting, per
       Eos Lightmedia's own project page.
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://www.eoslightmedia.com/work/573
     note: "Client for exhibit lighting scope per Eos Lightmedia's own project page"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/573
     note: >
       Design development, procurement, fabrication, and installation of all
       37,249 sq ft of exhibit lighting components (including track heads),
@@ -54,6 +68,8 @@ credits:
     note: "Photogrammetry and 3D modeling"
   - firm: storyfile
     role: media-design
+    sources:
+      - https://www.storyfile.com/news/national-medal-of-honor-museum
     technology_tags:
       - artificial-intelligence
     note: >

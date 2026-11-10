@@ -6,11 +6,17 @@ year_completed: 2021
 credits:
   - firm: dimensional-innovations
     role: content-production
+    sources:
+      - https://www.dimin.com/
     note: content creation
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://www.dimin.com/
   - firm: dimensional-innovations
     role: media-design
+    sources:
+      - https://www.dimin.com/
     note: projected shows
   - firm: schuler-shook
     role: lighting-design
