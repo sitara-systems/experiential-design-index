@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: the-prd-group
     role: exhibit-design
+    sources:
+      - https://theprdgroup.com/project/drug-enforcement-administration-museum-and-visitor-center/
     note: Exhibit design, per PRD's project page.
   - firm: hadley-exhibits
     role: fabrication

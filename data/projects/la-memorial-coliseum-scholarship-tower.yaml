@@ -6,8 +6,12 @@ year_completed: 2019
 credits:
   - firm: dlr-group
     role: architecture
+    sources:
+      - https://www.dlrgroup.com/work/university-of-southern-california-los-angeles-memorial-coliseum/
   - firm: dlr-group
     role: graphics-wayfinding
+    sources:
+      - https://www.dlrgroup.com/work/university-of-southern-california-los-angeles-memorial-coliseum/
     note: >
       In-house Experiential Graphic Design team; the 1923 Club atop the
       new Scholarship Tower features custom graphics telling USC Trojans

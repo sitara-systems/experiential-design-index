@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: tait
     role: technical-consulting
+    sources:
+      - https://www.taittowers.com/work/google-brandlab-new-york
     note: "Technical, lighting, and audio design plus custom exterior projection mapping; originally conceived by Thinkwell Group, now part of TAIT"
 technologies:
   - projection mapping

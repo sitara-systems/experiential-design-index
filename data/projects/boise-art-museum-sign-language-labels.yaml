@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: prime-access-consulting
     role: accessibility-consulting
+    sources:
+      - https://pac.bz/projects/sign-language-labels/
     note: >
       Established a community Deaf Access Working Group (DAWG) and
       developed ASL video interpretations of artwork labels (created

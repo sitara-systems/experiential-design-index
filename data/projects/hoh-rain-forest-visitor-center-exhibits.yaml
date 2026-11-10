@@ -6,10 +6,16 @@ year_completed: 2018
 credits:
   - firm: healykohler
     role: interpretive-planning
+    sources:
+      - https://www.healykohler.com/project/hoh-rain-forest-visitor-center/
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/hoh-rain-forest-visitor-center/
   - firm: healykohler
     role: graphics-wayfinding
+    sources:
+      - https://www.healykohler.com/project/hoh-rain-forest-visitor-center/
 technologies:
   - touchable displays
   - topographic maps

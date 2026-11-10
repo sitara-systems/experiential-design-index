@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: cinnabar
     role: exhibit-design
+    sources:
+      - https://www.eoslightmedia.com/work/622
     note: "Client per Eos Lightmedia's own project page"
   - firm: storyline-studio
     role: media-design
@@ -14,12 +16,16 @@ credits:
       show-control systems in close collaboration with Storyline Studio
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/622
     note: >
       Full-scope procurement and integration of all audiovisual and lighting
       equipment for a 4,000 sq ft immersive gallery ("The Grove") featuring a
       30-40 ft tree canopy, mural, and children's play structures.
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/622
 technologies:
   - immersive projection
 recognition:

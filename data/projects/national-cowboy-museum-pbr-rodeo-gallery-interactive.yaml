@@ -6,9 +6,13 @@ year_completed: 2023
 credits:
 - firm: ideum
   role: media-design
+  sources:
+    - https://ideum.com/news/the-cowboy-pbr-rodeo
   note: Touch-based interactive with 100+ videos and matchup feature.
 - firm: ideum
   role: fabrication
+  sources:
+    - https://ideum.com/news/the-cowboy-pbr-rodeo
   note: Custom-fabricated reader rail controlling the projection.
 summary: >-
   A touch-based interactive exhibit on Professional Bull Riders history debuted in

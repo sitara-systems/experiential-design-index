@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: beyer-blinder-belle
     role: architecture
+    sources:
+      - https://www.beyerblinderbelle.com/work/view/la-mama-experimental-theatre-club/
   - firm: charcoalblue
     role: acoustics
     note: "Theatre/venue design and acoustic consultancy; no clean vocab role fit"

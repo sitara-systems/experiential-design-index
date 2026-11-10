@@ -6,9 +6,13 @@ year_completed: 2024
 credits:
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://dimin.com/work/gainesville-dragon
     note: "Placemaking and public art dragon sculpture"
   - firm: dimensional-innovations
     role: lighting-design
+    sources:
+      - https://dimin.com/work/gainesville-dragon
     note: "Specialty lighting"
   - firm: confluence-design
     role: exhibit-design

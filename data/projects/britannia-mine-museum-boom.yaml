@@ -12,6 +12,8 @@ credits:
     note: "Port Coquitlam, BC-based attraction-systems contributor to the show's motion/ride elements; no firm record yet"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/11
     note: "Designed, supplied, installed, and programmed the lighting and special-effects elements"
 technologies:
   - special effects

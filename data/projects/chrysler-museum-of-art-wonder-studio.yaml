@@ -6,8 +6,12 @@ year_completed: 2018
 credits:
   - firm: plus-and-greater-than
     role: exhibit-design
+    sources:
+      - https://www.plusandgreaterthan.com/projects/building-stories-24d5z-gml9e-7h884
   - firm: upswell
     role: exhibit-design
+    sources:
+      - https://upswell.studio/project/the-wonder-studio/
   - firm: usd-design-mach-consulting
     role: technical-consulting
     note: "Bruce Wyman; interactive/media technology consulting; no firm record yet"

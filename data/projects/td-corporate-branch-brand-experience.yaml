@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/td-brand-experience/
   - firm: kubik-maltbie
     role: fabrication
     note: "Design-build collaborator on the exhibit and learning hub"

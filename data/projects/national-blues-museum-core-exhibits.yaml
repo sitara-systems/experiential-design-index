@@ -10,6 +10,8 @@ credits:
     role: media-design
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/national-blues-museum/
     note: >
       AV integration and software production for interactive exhibits incl.
       "Mix it Up" (virtual instrument recording/mixing) and "Jug Band"

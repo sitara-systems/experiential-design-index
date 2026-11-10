@@ -6,6 +6,8 @@ year_completed: 2008
 credits:
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/mcnay-art-museum-signage/
   - firm: jean-paul-viguier
     role: architecture
     note: "no firm record yet; design architect of the Jane and Arthur Stieren Center for Exhibitions"

@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/deep-time-accessibility-app
     note: "Mobile accessibility app for blind and low-vision visitors, developed with community feedback"
 technologies:
   - mobile accessibility app

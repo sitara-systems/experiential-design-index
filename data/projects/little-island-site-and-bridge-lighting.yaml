@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/little-island/
     note: "Restored Cunard-White Star Line Arch, luminous bridge, uplit concrete pots"
 technologies: []
 summary: >

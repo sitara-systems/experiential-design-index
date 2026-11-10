@@ -6,9 +6,13 @@ year_completed: 2008
 credits:
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/memory-wall/
     note: "Memory Wall interactive display, shoe-projection entry animation, and Reflection Area water/audio installation"
   - firm: belle-and-wissell
     role: exhibit-design
+    sources:
+      - https://bwco.info/work/memory-wall/
   - firm: olson-kundig
     role: architecture
     note: "Museum building renovation architect (East Kong Yick Building); no firm record yet"

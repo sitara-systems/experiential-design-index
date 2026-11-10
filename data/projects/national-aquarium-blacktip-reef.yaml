@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/national-aquarium-of-baltimore-blacktip-reef/
 recognition:
   - award: "AZA Significant Achievement Award — Exhibit Design"
     year: 2014

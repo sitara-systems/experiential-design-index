@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: ayers-saint-gross
     role: architecture
+    sources:
+      - https://ayerssaintgross.com/work/project/george-washington-university-national-churchill-library/
     note: "Also interiors and graphic design, in-house scope"
 technologies:
   - touch-screen interactive exhibit

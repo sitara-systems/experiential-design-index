@@ -6,9 +6,13 @@ year_completed: 2024
 credits:
   - firm: dimensional-innovations
     role: graphics-wayfinding
+    sources:
+      - https://dimin.com/
     note: "Environmental graphics, signage, wayfinding, and theming"
   - firm: dimensional-innovations
     role: media-design
+    sources:
+      - https://dimin.com/
     note: "Interactive technology"
   - firm: hks
     role: architecture

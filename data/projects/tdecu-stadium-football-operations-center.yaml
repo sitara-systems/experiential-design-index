@@ -6,8 +6,12 @@ year_completed: 2025
 credits:
   - firm: dlr-group
     role: architecture
+    sources:
+      - https://www.dlrgroup.com/work/university-of-houston-memorial-hermann-football-operations-center/
   - firm: dlr-group
     role: graphics-wayfinding
+    sources:
+      - https://www.dlrgroup.com/work/university-of-houston-memorial-hermann-football-operations-center/
     note: >
       In-house Experiential Graphic Design team; legacy walls, timeline
       installations, and donor recognition features including the

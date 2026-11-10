@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: the-prd-group
     role: exhibit-design
+    sources:
+      - https://theprdgroup.com/project/rhythm-of-art/
     note: Developed the gallery concept with VMFA in-house education, design and production staff, per PRD's page.
 summary: >
   The PRD Group designed Rhythm of Art, a 1,500 sq. ft. teaching gallery built around an interactive reproduction of Romare Bearden's Three Musicians, completed in 2019, at Virginia Museum of Fine Arts.

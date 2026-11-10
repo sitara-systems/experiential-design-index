@@ -6,10 +6,16 @@ year_completed: 2025
 credits:
   - firm: solid-light
     role: exhibit-design
+    sources:
+      - https://solidlight-inc.com/work/yakyu-baseball/
   - firm: solid-light
     role: media-design
+    sources:
+      - https://solidlight-inc.com/work/yakyu-baseball/
   - firm: solid-light
     role: fabrication
+    sources:
+      - https://solidlight-inc.com/work/yakyu-baseball/
 technologies:
   - interactive media
   - video game

@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "3+ year minimum installation, per CMS's own portfolio"
 technologies: []
 summary: >

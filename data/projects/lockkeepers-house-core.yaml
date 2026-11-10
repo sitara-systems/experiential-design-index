@@ -6,8 +6,12 @@ year_completed: 2018
 credits:
   - firm: trivium-interactive
     role: exhibit-design
+    sources:
+      - https://www.triviuminteractive.com/project/the-lockkeepers-house
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/the-lockkeepers-house
     note: Projection onto historic stone walls, interactive tablets, and concealed audio
   - firm: the-prd-group
     role: exhibit-design

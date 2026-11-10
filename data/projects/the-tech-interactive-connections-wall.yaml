@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: design-io
     role: media-design
+    sources:
+      - https://www.design-io.com/projects/connections-wall
     note: >
       Creator of the entry-experience interactive for the Solve for Earth
       sustainability exhibition.

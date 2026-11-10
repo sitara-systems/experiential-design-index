@@ -6,9 +6,13 @@ year_completed: 2025
 credits:
   - firm: dimensional-innovations
     role: master-planning
+    sources:
+      - https://dimin.com/
     note: "Arena design and fan-experience planning"
   - firm: dimensional-innovations
     role: lighting-design
+    sources:
+      - https://dimin.com/
   - firm: betsch-associates
     role: architecture
     note: "no firm record yet (below 3-project threshold) — architecture and construction management"

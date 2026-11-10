@@ -6,9 +6,13 @@ year_completed: 2023
 credits:
   - firm: exp
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/409
     note: "Crafted the lighting scheme per Eos Lightmedia's own project page; no firm record yet"
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/409
     note: >
       Systems integrator for EXP's lighting scheme, providing controls,
       cabling, commissioning, and programmed lighting shows for the 120,000

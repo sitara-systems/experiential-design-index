@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: proun-design
     role: graphics-wayfinding
+    sources:
+      - https://www.proundesign.com/items/frederick-douglass%2C-agitator!
     note: "Exhibit graphics; no firm record yet"
   - firm: amaze-design
     role: exhibit-design

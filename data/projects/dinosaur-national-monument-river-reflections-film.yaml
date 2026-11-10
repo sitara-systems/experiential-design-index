@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/dinosaur-national-monument/
     note: "15-minute interpretive park film plus five 5-minute webisodes; project management, content development, graphic/visual design, 2D & 3D animation, original production"
 technologies:
   - 2D and 3D animation

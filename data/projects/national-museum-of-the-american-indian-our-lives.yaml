@@ -7,6 +7,8 @@ status: completed
 credits:
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/smithsonian-national-museum-of-the-american-indian-our-lives-exhibit-washington-d-c/
     note: "Custom casework; per Hadley Exhibits' own portfolio, not independently corroborated"
 technologies:
   - rear-projection video wall

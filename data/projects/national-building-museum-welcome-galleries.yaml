@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: studio-joseph
     role: exhibit-design
+    sources:
+      - https://studiojoseph.com/work/orientation-galleries
     note: "."
   - firm: bluecadet
     role: media-design

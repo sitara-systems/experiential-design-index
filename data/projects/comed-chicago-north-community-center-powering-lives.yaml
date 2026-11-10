@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/powering-lives
     note: "15 media experiences incl. 25-foot data-visualization 'sustainability signature' wall"
   - firm: solomon-group
     role: fabrication

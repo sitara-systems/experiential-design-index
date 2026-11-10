@@ -6,6 +6,8 @@ year_completed: 2011
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/infinite-variety
 technologies:
   - large-scale suspended display
 summary: >

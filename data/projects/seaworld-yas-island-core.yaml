@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: pgav-destinations
     role: exhibit-design
+    sources:
+      - https://pgavdestinations.com/project/seaworld-yas-island-abu-dhabi/
     note: "Creative consultant and animal-habitat designer, decade-long engagement 2013-2023"
 summary: >
   SeaWorld Yas Island in Abu Dhabi, United Arab Emirates, opened May 23,

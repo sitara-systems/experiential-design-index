@@ -14,6 +14,8 @@ credits:
     note: "36 historic exhibit videos; no firm record yet"
   - firm: explus
     role: fabrication
+    sources:
+      - https://www.explusinc.com/portfolio.html
 technologies:
   - exhibit video
 summary: >

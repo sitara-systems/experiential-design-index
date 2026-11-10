@@ -6,6 +6,8 @@ year_completed: 2008
 credits:
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://www.gallagherdesign.com/projects/gettysburg-national-military-park-and-visitor-center/
   - firm: second-story
     role: media-design
     note: >
@@ -25,6 +27,8 @@ credits:
       theaters, two audio programs, and a video overview of the park.
   - firm: art-guild-inc
     role: fabrication
+    sources:
+      - https://www.artguildinc.com/project/gettysburg-museum-visitor-center/
     note: Listed in Art Guild's museum portfolio; the project page does not itemize scope. Fabrication role per the firm's practice.
 technologies:
   - interactive touch-screen maps

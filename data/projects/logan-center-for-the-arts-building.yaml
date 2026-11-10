@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: tod-williams-billie-tsien-architects
     role: architecture
+    sources:
+      - https://twbta.com/work/academic/logan-center-for-the-arts/
     note: "Architect, per the firm's project page."
 summary: >
   Tod Williams Billie Tsien Architects designed the 184,000 sq. ft. Logan

@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/inventing-the-world-of-bond
     note: "Build-a-Bond-Car interactive stunt simulator"
   - firm: luci-creative
     role: exhibit-design

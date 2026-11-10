@@ -6,9 +6,13 @@ year_completed: 2015
 credits:
   - firm: w3-design-group
     role: exhibit-design
+    sources:
+      - https://www.eoslightmedia.com/work/58
     note: "Client of record for Eos Lightmedia's scope, per Eos Lightmedia's own project page (no firm record yet)."
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/58
     note: >
       Designed and supplied lighting and AV systems for fifteen exhibits and
       two theatres, including a pedal-powered light-up interactive, a
@@ -16,6 +20,8 @@ credits:
       software for video-based interactives.
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/58
 technologies:
   - interactive AV exhibits
   - pedal-powered generator interactive

@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: moment-factory
     role: media-design
+    sources:
+      - https://momentfactory.com/products/flowing-forces
     note: >
       Multimedia gallery installation combining projection mapping,
       AI-assisted content, mobile-device interactivity, and reactive audio,

@@ -6,9 +6,13 @@ year_completed: 2023
 credits:
   - firm: gwwo-architects
     role: architecture
+    sources:
+      - https://www.gwwoinc.com/projects/manassas-museum
     note: "No firm record yet"
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/approach/museums/
 summary: >
   The Manassas Museum in Manassas, Virginia reopened July 28, 2023
   following a renovation and 4,800-sq-ft expansion, with architecture by

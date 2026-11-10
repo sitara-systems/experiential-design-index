@@ -6,6 +6,8 @@ year_completed: 2003
 credits:
   - firm: christopher-chadbourne-and-associates
     role: exhibit-design
+    sources:
+      - https://cargocollective.com/ccadesign/Dayton-Aviation-Heritage-National-Historic-Park
 summary: >
   The Wright-Dunbar Interpretive Center, built for the National Park
   Service's Centennial of Flight celebration in Dayton, Ohio, opened in

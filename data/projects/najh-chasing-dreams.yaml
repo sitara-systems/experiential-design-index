@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: explus
     role: fabrication
+    sources:
+      - https://www.explusinc.com/portfolio.html
 technologies: []
 summary: >
   "Chasing Dreams: Baseball & Becoming American," a traveling exhibition

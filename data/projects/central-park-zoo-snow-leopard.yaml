@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/central-park-zoo-snow-leopard-exhibit/
     note: "on other credits; per Hadley's own portfolio"
 summary: >
   The Allison Maher Stern Snow Leopard Exhibit at the Wildlife Conservation

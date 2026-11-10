@@ -10,6 +10,8 @@ credits:
     role: architecture
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/328
 recognition:
   - award: "IES International Award of Excellence"
     year: 2024

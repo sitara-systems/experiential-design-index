@@ -9,9 +9,13 @@ credits:
     note: "Design firm closed 2018; no firm record yet"
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/seachange
     note: "Media presentation and projection mapping on a 20-foot sail"
   - firm: mystic-scenic
     role: fabrication
+    sources:
+      - https://www.mysticcustomfabrication.com/newsandawards
 technologies:
   - projection mapping
 summary: >

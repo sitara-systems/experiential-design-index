@@ -6,6 +6,8 @@ year_completed: 1992
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/nickelodeon-green-slime-geyser
     note: "Concept and design"
   - firm: dmcd
     role: fabrication

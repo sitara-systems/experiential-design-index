@@ -6,9 +6,13 @@ year_completed: 2025
 credits:
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://dimin.com/
     note: "Experiential strategy and design; experiential agency of record"
   - firm: dimensional-innovations
     role: fabrication
+    sources:
+      - https://dimin.com/
   - firm: electrosonic
     role: av-integration
   - firm: hok

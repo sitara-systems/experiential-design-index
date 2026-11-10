@@ -6,6 +6,8 @@ year_completed: 2002
 credits:
   - firm: snohetta
     role: architecture
+    sources:
+      - https://www.snohetta.com/projects/bibliotheca-alexandrina
 technologies: []
 summary: >
   A reimagined Library of Alexandria in Alexandria, Egypt, designed by

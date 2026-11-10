@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: lightswitch
     role: lighting-design
+    sources:
+      - https://lightswitch.net/work/view/computer-history-museum
     note: "Lighting design for the entire V2.0 scope, per the firm's portfolio page, which lists the year as 2012 without a separate opening date."
 technologies:
   - architectural lighting

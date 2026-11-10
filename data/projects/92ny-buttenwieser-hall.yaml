@@ -6,6 +6,9 @@ year_completed: 2023
 credits:
   - firm: beyer-blinder-belle
     role: architecture
+    sources:
+      - https://www.beyerblinderbelle.com/work/view/92ny-buttenwieser-hall-at-the-arnhold-center/
+      - https://www.beyerblinderbelle.com/stories/92ny_reopens_buttenwieser_hall_at_the_arnhold_center
   - firm: tillotson-design-associates
     role: lighting-design
   - firm: jaffe-holden

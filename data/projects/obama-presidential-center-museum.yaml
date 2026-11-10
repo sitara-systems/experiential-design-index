@@ -12,6 +12,8 @@ credits:
     note: "Chicago-based architect of record, joint design/engineering lead. No firm record yet"
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/the-obama-presidential-center/
     note: "Led exhibition experience design across the museum's four exhibition levels (~35,000 sq ft)."
   - firm: civic-projects-architecture
     role: exhibit-design
@@ -21,12 +23,16 @@ credits:
     note: "Exhibit graphic design partner. No firm record yet"
   - firm: pentagram
     role: graphics-wayfinding
+    sources:
+      - https://www.pentagram.com/work/the-obama-presidential-center
     note: >
       "Words of Hope" typographic installation on the museum tower's
       facade: 103 words and 458 letters from President Obama's 2015 Selma
       speech, cast in concrete panels.
   - firm: prime-access-consulting
     role: accessibility-consulting
+    sources:
+      - https://pac.bz/projects/obama-presidential-center/
     note: >
       Embedded inclusive design and accessibility across campus navigation,
       the museum's built environment/cases/furniture, content and digital
@@ -37,6 +43,8 @@ credits:
       Canadian Museum for Human Rights.
   - firm: sh-acoustics
     role: acoustics
+    sources:
+      - https://shacoustics.com/obama-presidential-center-chicago-il/
     note: >
       Comprehensive exhibit acoustics, audio system design, and sound
       isolation consulting throughout the museum; led final audio tuning and

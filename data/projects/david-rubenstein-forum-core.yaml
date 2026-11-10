@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: diller-scofidio-renfro
     role: architecture
+    sources:
+      - https://dsrny.com/project/rubenstein-chicago
   - firm: brininstool-plus-lynch
     role: architecture
     note: "Associate architect; no firm record yet"

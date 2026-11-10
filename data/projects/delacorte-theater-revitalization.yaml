@@ -6,8 +6,12 @@ year_completed: 2025
 credits:
   - firm: ennead-architects
     role: architecture
+    sources:
+      - https://ennead.com/work/the-public-theater-delacorte/
   - firm: fisher-dachs-associates
     role: technical-consulting
+    sources:
+      - https://www.fisherdachs.com/portfolio/delacorte-theater/
     note: "Theater consultant; no firm record yet"
 technologies: []
 summary: >

@@ -6,11 +6,15 @@ year_completed: 2018
 credits:
   - firm: ennead-architects
     role: architecture
+    sources:
+      - https://ennead.com/work/nyulh-kimmel/
   - firm: nbbj
     role: architecture
     note: "Associate architect"
   - firm: hargreaves-associates
     role: landscape-architecture
+    sources:
+      - https://hargreaves.com/work/nyu-langone-health-kimmel-pavilion/
     note: "Rooftop terrace/gardens; no firm record yet"
 technologies: []
 summary: >

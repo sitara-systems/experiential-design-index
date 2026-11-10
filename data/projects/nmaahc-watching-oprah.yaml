@@ -6,11 +6,15 @@ year_completed: 2018
 credits:
   - firm: rlmg
     role: content-production
+    sources:
+      - https://www.rlmg.com/work/watching-oprah
     note: "Seven exhibit video montages and an exclusive Oprah Winfrey interview"
   - firm: healykohler
     role: exhibit-design
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "4,300 sq ft special exhibit with custom casework, artifact mounts, and AV integration, per CMS's own portfolio"
 technologies:
   - video montage

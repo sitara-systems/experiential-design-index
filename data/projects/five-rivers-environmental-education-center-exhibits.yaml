@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/fiveriversenvironmentaleducationcenter-xz8zk-wt4m5
   - firm: envision-architects
     role: architecture
     note: "no firm record yet"

@@ -6,8 +6,14 @@ year_completed: 2011
 credits:
   - firm: pgav-destinations
     role: architecture
+    sources:
+      - https://pgavdestinations.com/project/louisville-zoo-glacier-run/
+      - https://pgavdestinations.com/news/glacier-run-celebrates-five-years-louisville-zoo/
   - firm: pgav-destinations
     role: exhibit-design
+    sources:
+      - https://pgavdestinations.com/project/louisville-zoo-glacier-run/
+      - https://pgavdestinations.com/news/glacier-run-celebrates-five-years-louisville-zoo/
 technologies: []
 summary: >
   Glacier Run, a roughly $21 million Arctic-themed exhibit at the

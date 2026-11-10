@@ -6,12 +6,16 @@ year_completed: 2020
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/259
     note: >
       Design-build lighting and audiovisual services for new digital and
       interactive exhibit displays, working with exhibit design firm W3
       Design Group, per Eos Lightmedia's own project page.
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/259
 technologies:
   - digital interactive displays
 summary: >

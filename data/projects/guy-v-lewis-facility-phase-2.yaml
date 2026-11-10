@@ -6,9 +6,13 @@ year_completed: 2024
 credits:
   - firm: dlr-group
     role: architecture
+    sources:
+      - https://www.dlrgroup.com/work/guy-v-lewis-development-facility-renovation-phase-ii/
     note: "10,000 sq ft team-level renovation, locker room suites, recovery/wellness and nutrition spaces"
   - firm: dlr-group
     role: graphics-wayfinding
+    sources:
+      - https://www.dlrgroup.com/work/guy-v-lewis-development-facility-renovation-phase-ii/
     note: >
       In-house Experiential Graphic Design studio; bespoke Air
       Jordan-branded environment integrating Jordan Brand legacy with

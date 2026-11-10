@@ -6,10 +6,16 @@ year_completed: 2017
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/detroit-red-wings-detroit-pistons-heritage-exhibits-and-team-store/
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/little-caesars-arena/
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/20
     note: >
       Contracted by CambridgeSeven to design lighting for the Team Store,
       Heritage Hall event space, and Red Wings/Pistons heritage exhibits in

@@ -16,6 +16,8 @@ credits:
     role: fabrication
   - firm: romeantics
     role: technical-consulting
+    sources:
+      - https://romeantics.com/project/new-mexico-history-museum/
     note: "Listed as multimedia consultant on the firm's portfolio page; project year not stated there."
 technologies:
   - interactives

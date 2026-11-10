@@ -6,6 +6,9 @@ year_completed: 2023
 credits:
   - firm: andrew-merriell
     role: exhibit-design
+    sources:
+      - https://merriell.com/bomb-without-the-boom
+      - https://merriell.com/portfolio-overview
 summary: >
   "The Bomb Without the Boom," an exhibit on the U.S. Stockpile
   Stewardship Program, opened in 2023 at the National Atomic Testing

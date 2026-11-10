@@ -6,8 +6,12 @@ year_completed: 2018
 credits:
   - firm: the-urban-conga
     role: exhibit-design
+    sources:
+      - https://www.theurbanconga.com/projects/tetra
   - firm: the-urban-conga
     role: fabrication
+    sources:
+      - https://www.theurbanconga.com/projects/tetra
 technologies:
   - dichroic reflective film
 summary: >

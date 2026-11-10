@@ -6,10 +6,16 @@ year_completed: 2020
 credits:
   - firm: solid-light
     role: content-production
+    sources:
+      - https://solidlight-inc.com/work/the-american-civil-war-museum-robins-theater/
   - firm: solid-light
     role: media-design
+    sources:
+      - https://solidlight-inc.com/work/the-american-civil-war-museum-robins-theater/
   - firm: solid-light
     role: fabrication
+    sources:
+      - https://solidlight-inc.com/work/the-american-civil-war-museum-robins-theater/
   - firm: ced
     role: av-integration
     note: "no firm record yet"

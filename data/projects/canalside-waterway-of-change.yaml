@@ -6,9 +6,13 @@ year_completed: 2025
 credits:
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/work/civil-rights-memorials/erie-canal-bicentennial-waterway-of-change/
     note: "Strategy, visitor experience, physical, and media design across indoor exhibits and outdoor installations at Canalside's Longshed"
   - firm: local-projects
     role: media-design
+    sources:
+      - https://localprojects.com/work/civil-rights-memorials/erie-canal-bicentennial-waterway-of-change/
   - firm: hadley-exhibits
     role: fabrication
   - firm: beautiful-machines

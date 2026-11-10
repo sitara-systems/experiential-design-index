@@ -6,9 +6,13 @@ year_completed: 2013
 credits:
   - firm: lord-cultural-resources
     role: interpretive-planning
+    sources:
+      - https://www.lord.ca/projects/project-experience/national-czech-and-slovak-museum-and-library
     note: "Museum planning and curatorial development"
   - firm: xibitz
     role: fabrication
+    sources:
+      - https://xibitz.com/national-czech-slovak/
   - firm: crux-creative
     role: graphics-wayfinding
     note: "no firm record yet"

@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: reich-petch
     role: graphics-wayfinding
+    sources:
+      - https://designrp.com/projects/prince-albert-national-park-beach-house/
     note: "Interpretive outdoor signage, decorative graphics, and interactive elements integrated into the Beach House architecture and restrooms; client Parks Canada"
 technologies: []
 summary: >

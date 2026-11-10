@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/water-shapes-florida
     note: "Glass-bottom-boat immersive theater and ambient limestone-cave soundscape"
   - firm: brilliant-creative-fabrication
     role: fabrication

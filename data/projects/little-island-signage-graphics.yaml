@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/little-island-signage-graphics/
   - firm: heatherwick-studio
     role: architecture
     note: "master planner/architect; no firm record yet"

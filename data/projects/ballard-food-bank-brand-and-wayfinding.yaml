@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/ballard-food-bank/
   - firm: graham-baba-architects
     role: architecture
   - firm: northwest-sign-and-design

@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=112
 summary: >
   The Frick Collection's West Gallery, home to paintings by Rembrandt,
   Hals, Turner, and Vermeer, received its first substantial relighting since

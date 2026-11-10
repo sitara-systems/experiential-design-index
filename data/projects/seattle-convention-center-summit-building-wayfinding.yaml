@@ -6,8 +6,12 @@ year_completed: 2023
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/seattle-conv-ctr/
   - firm: lmn-architects
     role: architecture
+    sources:
+      - https://lmnarchitects.com/project/washington-state-convention-center-addition
   - firm: graham-baba-architects
     role: architecture
     note: "Associate architect"

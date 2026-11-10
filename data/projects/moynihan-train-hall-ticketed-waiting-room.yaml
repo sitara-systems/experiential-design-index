@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: skidmore-owings-and-merrill
     role: architecture
+    sources:
+      - https://www.som.com/projects/moynihan-train-hall/
     note: "Base building / primary architect"
   - firm: rockwell-group
     role: architecture

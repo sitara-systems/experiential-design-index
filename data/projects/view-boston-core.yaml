@@ -13,6 +13,8 @@ credits:
       on-site project management as creative and design lead
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/view-boston
     note: Blue-sky technology concepts, AV and control system design, and system integration
   - firm: float4
     role: media-design

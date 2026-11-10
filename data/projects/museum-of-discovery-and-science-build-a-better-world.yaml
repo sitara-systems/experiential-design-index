@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/build-a-better-world-museum-of-discovery-science/
 summary: >
   Build a Better World, a two-level interactive exhibit teaching children
   about regional environmental challenges and character development,

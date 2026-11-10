@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/asrt-museum-and-archives
     note: "19 media pieces incl. 'Art of the Image' six-screen video and 4K touchtables"
   - firm: andrew-merriell
     role: exhibit-design

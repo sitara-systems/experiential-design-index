@@ -11,6 +11,8 @@ credits:
     note: "Architect of record; no firm record yet"
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/chicago-public-library-chinatown-branch/
     note: "LED atrium lighting, mural highlighting"
 technologies: []
 summary: >

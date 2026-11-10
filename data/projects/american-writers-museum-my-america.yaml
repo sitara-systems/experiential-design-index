@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/my-america-immigrant-and-refugee-writers-today/
     note: "Interactive and media design and development, per Trivium's own project page."
 summary: >
   Trivium Interactive produced the exhibition experience for My America: Immigrant and Refugee Writers Today, completed in 2020, at American Writers Museum.

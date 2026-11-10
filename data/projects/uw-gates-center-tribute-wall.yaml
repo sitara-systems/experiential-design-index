@@ -6,6 +6,9 @@ year_completed: 2019
 credits:
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/tribute-wall/
+      - https://bwco.info/2019/04/03/bill-gates/
     note: >
       Design and media experience development; touch-sensor-driven
       generative visuals revealing 100+ curated PNW computing-history

@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: olson-kundig
     role: architecture
+    sources:
+      - https://olsonkundig.com/projects/the-kirkland/
 technologies: []
 summary: >
   Olson Kundig designed a new 38,500-square-foot building for the Kirkland

@@ -6,8 +6,12 @@ year_completed: 2023
 credits:
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/beyond-the-battle-museum/
   - firm: healykohler
     role: media-design
+    sources:
+      - https://www.healykohler.com/project/beyond-the-battle-museum/
     note: "360-degree effects and projection mapping onto a scenic rock formation"
   - firm: 1220-fabrication
     role: fabrication

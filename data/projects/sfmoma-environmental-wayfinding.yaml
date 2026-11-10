@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: skidmore-owings-and-merrill
     role: graphics-wayfinding
+    sources:
+      - https://www.som.com/
     note: "SOM Graphics + Brand Studio"
 technologies: []
 summary: >

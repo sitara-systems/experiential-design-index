@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/farm-wisconsin-discovery-center
     note: Interactive farming simulators and agricultural-education AV exhibits
 technologies:
   - interactive simulators

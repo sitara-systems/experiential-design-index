@@ -6,9 +6,13 @@ year_completed: 2026
 credits:
 - firm: ideum
   role: exhibit-design
+  sources:
+    - https://ideum.com/news/world-rodeo-heroes-legends-pbr
   note: Designed and built the exhibition per Ideum.
 - firm: ideum
   role: media-design
+  sources:
+    - https://ideum.com/news/world-rodeo-heroes-legends-pbr
   note: Digital jukebox, live scores/standings, AR 'Join the Team' experience.
 summary: >-
   The PBR Heroes & Legends Hall of Fame exhibition, with interactive media including

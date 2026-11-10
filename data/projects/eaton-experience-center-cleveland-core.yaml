@@ -6,8 +6,12 @@ year_completed: 2013
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/eaton-experience-center/
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/eaton-experience-center
 technologies: []
 summary: >
   Eaton opened a customer-facing Experience Center in Cleveland, Ohio in

@@ -6,9 +6,13 @@ year_completed: 2021
 credits:
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/science-history-institute
     note: "Two-story, 8-display media wall"
   - firm: electrosonic
     role: media-design
+    sources:
+      - https://www.electrosonic.com/projects/science-history-institute
     note: "Interactive table with 3D-object-recognition"
   - firm: potion-design
     role: media-design

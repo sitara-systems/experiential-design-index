@@ -8,9 +8,13 @@ credits:
     role: exhibit-design
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bbinet.com/works/annenberg-petspace/
     note: "Media producer, per BBI Engineering's own project page"
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/annenberg-petspace/
     note: >
       Touchscreen kiosks, 70-inch touchscreens in adoption rooms, an
       interactive entrance video wall, and live feeds from grooming/therapy

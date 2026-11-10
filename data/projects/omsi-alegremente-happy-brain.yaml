@@ -6,10 +6,18 @@ year_completed: 2021
 credits:
   - firm: omsi-creative-services
     role: exhibit-design
+    sources:
+      - https://omsi.edu/for-museum-professionals/alegremente-happy-brain/
+      - https://omsi.edu/wp-content/uploads/2022/11/One-sheet_AlegreMENTE-11.14.22.pdf
   - firm: omsi-creative-services
     role: fabrication
+    sources:
+      - https://omsi.edu/for-museum-professionals/alegremente-happy-brain/
+      - https://omsi.edu/wp-content/uploads/2022/11/One-sheet_AlegreMENTE-11.14.22.pdf
   - firm: glowbox
     role: media-design
+    sources:
+      - https://www.glowbox.io/work/everybody-dance-now/
     note: >
       "Everybody Dance Now" interactive within the exhibition — motion
       driven dance-along experience.

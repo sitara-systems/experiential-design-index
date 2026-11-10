@@ -10,8 +10,12 @@ credits:
     role: fabrication
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/3
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/3
 technologies: []
 summary: >
   "The Fountain," a lobby media installation for tenants and visitors

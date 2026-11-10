@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/msheireb-museums
     note: "design/creative direction across the 4 historic houses (Bin Jelmood, Company, Radwani, Mohammed Bin Jassim); moderate confidence — RAA's specific credit is found on listing/aggregator sources with thinner primary-press attribution than most other entries in this batch"
 technologies: []
 summary: >

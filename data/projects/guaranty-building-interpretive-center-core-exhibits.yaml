@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/The-Guaranty-Building-Visitor-Center
 summary: >
   The Guaranty Building Interpretive Center, a ground-floor exhibit space
   inside Louis Sullivan and Dankmar Adler's landmark Guaranty (Prudential)

@@ -6,12 +6,20 @@ year_completed: 2025
 credits:
   - firm: pgav-destinations
     role: master-planning
+    sources:
+      - https://pgavdestinations.com/project/jewels-of-the-sea-the-jellyfish-experience-sea-world-san-diego/
   - firm: pgav-destinations
     role: architecture
+    sources:
+      - https://pgavdestinations.com/project/jewels-of-the-sea-the-jellyfish-experience-sea-world-san-diego/
   - firm: pgav-destinations
     role: exhibit-design
+    sources:
+      - https://pgavdestinations.com/project/jewels-of-the-sea-the-jellyfish-experience-sea-world-san-diego/
   - firm: avi-spl
     role: av-integration
+    sources:
+      - https://avispl.com/xtg/our-work/seaworld/
     note: >
       AVI-SPL's XTG (Experience Technology Group) division engineered the AV
       system (audio, control, and the 360-degree LED video wall) for the

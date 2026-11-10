@@ -6,6 +6,9 @@ year_completed: 2017
 credits:
   - firm: ayers-saint-gross
     role: landscape-architecture
+    sources:
+      - https://ayerssaintgross.com/work/project/national-aquarium-floating-wetlands-prototype/
+      - https://ayerssaintgross.com/national-aquarium-floating-wetland-prototype-wins-asla-honor-award-for-research
     note: "Landscape architecture / environmental design lead; supplemented by engineering and science consultants Biohabitats, McLaren Engineering Group, and Kovacs, Whitney & Associates (no firm records yet; roles not covered by current vocabulary)"
 technologies:
   - floating pontoon habitat systems

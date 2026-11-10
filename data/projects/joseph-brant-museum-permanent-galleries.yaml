@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/joseph-brant-museum/
     note: "Three permanent galleries (Children and Culture) and the donor recognition wall"
 technologies: []
 summary: >

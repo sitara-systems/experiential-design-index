@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: entro
     role: graphics-wayfinding
+    sources:
+      - https://entro.com/projects/powerhouse-arts/
     note: "Also developed the brand identity/wordmark"
   - firm: herzog-de-meuron
     role: architecture

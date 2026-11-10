@@ -6,11 +6,15 @@ year_completed: 2026
 credits:
 - firm: advent
   role: exhibit-design
+  sources:
+    - https://adventmovespeople.com/?p=11630
   note: >-
     Led creative direction and designed the space per the owner's announcement and
     Advent.
 - firm: advent
   role: media-design
+  sources:
+    - https://adventmovespeople.com/?p=11630
   note: >-
     Engineered and installed the LED, holographic, and interactive-model systems (Advent
     Operating System).

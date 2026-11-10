@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/new-york-yankees-signs/
   - firm: populous
     role: architecture
     note: "stadium architect"

@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: monadnock-media
     role: media-design
+    sources:
+      - https://monadnock.org/project/human-body-theater
     note: "Exhibit design collaboration, media experience design and production, technical systems design and oversight, and immersive theater design for a 10,000 sq ft multi-dimensional projection theater on human biology, developed in collaboration with the Museum of Science's in-house team"
 technologies:
   - multi-dimensional projection

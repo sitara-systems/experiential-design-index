@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: studio-matthews
     role: exhibit-design
+    sources:
+      - https://studiomatthews.com/project/overlake/
 summary: >
   Studio Matthews designed a donor recognition wall, completed in 2023,
   for Overlake Medical Center's new medical tower lobby in Bellevue,

@@ -6,8 +6,12 @@ year_completed: 2020
 credits:
   - firm: skidmore-owings-and-merrill
     role: architecture
+    sources:
+      - https://www.som.com/projects/university-of-california-law/
   - firm: skidmore-owings-and-merrill
     role: graphics-wayfinding
+    sources:
+      - https://www.som.com/projects/university-of-california-law/
     note: "SOM Graphics and Brand Studio: visual identity and wayfinding, including a six-story lobby graphic wall"
 technologies:
   - environmental graphics

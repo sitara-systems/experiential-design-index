@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "$7 million, 14-month fabrication project, per CMS's own portfolio"
   - firm: reich-petch
     role: media-design

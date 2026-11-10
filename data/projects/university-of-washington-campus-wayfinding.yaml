@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/uw-campus-wayfinding/
 summary: >
   Studio Matthews designed a campus-wide wayfinding sign system, completed
   in 2015, including a redesigned campus map, for the University of

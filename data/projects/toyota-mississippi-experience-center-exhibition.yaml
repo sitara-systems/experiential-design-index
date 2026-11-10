@@ -9,8 +9,12 @@ credits:
     note: "No firm record yet"
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/toyota/
   - firm: gallagher-and-associates
     role: content-production
+    sources:
+      - https://gallagherdesign.com/project/toyota/
 technologies:
   - interactive kiosks
 summary: >

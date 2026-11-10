@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: moment-factory
     role: media-design
+    sources:
+      - https://momentfactory.com/products/north-forest-lights
     note: >
       Design, production, and X-Agora-software-driven media/lighting/sound
       system for five outdoor nighttime installations along the museum's

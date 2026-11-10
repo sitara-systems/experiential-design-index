@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: solid-light
     role: exhibit-design
+    sources:
+      - https://solidlight-inc.com/work/girl-scouts-birthplace/
 technologies: []
 summary: >
   A renovation of the Juliette Gordon Low Birthplace museum in Savannah,

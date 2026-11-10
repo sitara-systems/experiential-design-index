@@ -110,6 +110,22 @@ _NOTE_PAREN_INTERNAL_RE = re.compile(
 _NOTE_BARE_INTERNAL_RE = re.compile(r"\s*[;,]?\s*no firm records? yet\s*", re.IGNORECASE)
 
 
+SHARED_PORTFOLIO_HOSTS = {"cargocollective.com"}  # firm identity is the first path segment
+
+
+def _host(url):
+    """Display host for a source URL (no 'www.'); on shared portfolio hosts,
+    include the first path segment so two firms on one host stay distinct."""
+    if not url:
+        return None
+    sp = urllib.parse.urlsplit(url)
+    host = sp.netloc.lower().removeprefix("www.")
+    if host in SHARED_PORTFOLIO_HOSTS:
+        seg = sp.path.strip("/").split("/")[0].lower()
+        host = f"{host}/{seg}" if seg else host
+    return host
+
+
 def public_note(note):
     """Strip editor-facing bookkeeping from a credit note for public display."""
     if not note:
@@ -197,6 +213,14 @@ def enrich_projects(projects, firms, venues, vocab, warnings):
             # Editor-facing bookkeeping ("no firm record yet") never renders
             # publicly — pages and open-data exports both get the cleaned note.
             c["note"] = public_note(c.get("note"))
+            # Per-credit provenance: which of the project's sources names
+            # this firm in this role. Rendered so a reader (or a firm asking
+            # a correction) can see exactly where each credit comes from.
+            firm_host = _host(firm.get("website")) if firm else None
+            c["source_links"] = [
+                {"url": s, "host": _host(s), "first_party": bool(firm_host) and _host(s) == firm_host}
+                for s in (c.get("sources") or []) if isinstance(s, str)
+            ]
             if not firm:
                 warnings.append(f"project '{pid}': credited firm '{firm_id}' has no firm record (rendered unlinked)")
             else:
@@ -1272,7 +1296,7 @@ Sitemap: {sitemap}
         out = {k: v for k, v in rec.items() if k not in derived_keys and not k.startswith("_")}
         if kind == "projects":
             out["credits"] = [
-                {k: v for k, v in c.items() if k not in {"firm_exists", "firm_name", "role_label"} and not k.startswith("_")}
+                {k: v for k, v in c.items() if k not in {"firm_exists", "firm_name", "role_label", "technology_tag_labels", "source_links"} and not k.startswith("_")}
                 for c in (rec.get("credits") or []) if isinstance(c, dict)
             ]
         return out

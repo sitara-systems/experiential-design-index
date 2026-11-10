@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: pelli-clarke-and-partners
     role: architecture
+    sources:
+      - https://pcparch.com/work/type/civic-and-cultural
   - firm: cswadi
     role: architecture
     note: "China Southwest Architectural Design and Research Institute; co-architect. No firm record yet."

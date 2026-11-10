@@ -6,9 +6,13 @@ year_completed: 2022
 credits:
   - firm: dimensional-innovations
     role: fabrication
+    sources:
+      - https://www.dimin.com
     note: "Steel vault gateway design and fabrication"
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://www.dimin.com
     note: "Museum exhibit planning"
   - firm: jack-rouse-associates
     role: exhibit-design

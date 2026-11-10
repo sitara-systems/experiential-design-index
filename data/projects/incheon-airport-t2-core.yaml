@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects/incheon-international-airport
   - firm: heerim-architects
     role: architecture
     note: "Architect of record; no firm record yet."

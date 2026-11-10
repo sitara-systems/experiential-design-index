@@ -6,9 +6,13 @@ year_completed: 2019
 credits:
   - firm: tait
     role: fabrication
+    sources:
+      - https://www.taittowers.com/work/wells-fargo-center-kinetic-scoreboard
     note: "Design & engineering, fabrication, integration, and show control for the first-of-its-kind kinetic center-hung 4K LED scoreboard"
   - firm: tait
     role: av-integration
+    sources:
+      - https://www.taittowers.com/work/wells-fargo-center-kinetic-scoreboard
 technologies:
   - 4K LED video
   - kinetic automation

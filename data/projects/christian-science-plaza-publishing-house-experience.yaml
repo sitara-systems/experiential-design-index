@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: luci-creative
     role: exhibit-design
+    sources:
+      - https://www.lucicreative.com/project/publishing-house-experience
   - firm: sga
     role: architecture
     note: "No firm record yet"
@@ -16,10 +18,14 @@ credits:
     note: "A dozen linear and interactive media exhibits for the Welcome Hall and two adjacent galleries; no firm record yet"
   - firm: ravenswood-studio
     role: fabrication
+    sources:
+      - https://ravenswoodstudio.com/project/publishing-house-redesign/
   - firm: available-light
     role: lighting-design
   - firm: sh-acoustics
     role: acoustics
+    sources:
+      - https://shacoustics.com/first-church-of-christian-science-publishing-house/
     note: >
       Acoustic control and specialized audio-delivery design throughout the
       visitor center, including the 30-foot Welcome Hall atrium (acoustic

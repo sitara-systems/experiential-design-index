@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/the-eight/
   - firm: creo-industrial-arts
     role: fabrication
 technologies:

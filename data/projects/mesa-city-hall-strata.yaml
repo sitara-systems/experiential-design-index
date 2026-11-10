@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: digital-ambiance
     role: lighting-design
+    sources:
+      - https://digitalambiance.com/portfolio/strata-at-mesa-city-hall/
     note: >
       Design and fabrication of the 40-foot steel-and-LED data sculpture,
       visualizing live climate data; lead generative-content artist

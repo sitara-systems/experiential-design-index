@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/oakland-museum-of-california/
     note: >
       AV systems for the new History and Art Galleries, incl. the "Story
       Studio" recording-booth interactive and the "Draw Yourself"

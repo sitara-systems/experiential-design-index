@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: batwin-and-robin
     role: media-design
+    sources:
+      - https://www.batwinandrobin.com/projects/national-museum-marine-corps/
     note: >
       Produced more than a dozen media programs for three new galleries
       (12,000 sq ft) covering Marine Corps history from the Revolutionary

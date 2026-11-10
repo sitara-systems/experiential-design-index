@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: taylor-studios
     role: exhibit-design
+    sources:
+      - https://taylorstudios.com/our-work/the-bob-ross-experience/
 summary: >
   A 900-square-foot immersive exhibit preserving the actual studio where
   Bob Ross filmed "The Joy of Painting," opened October 31, 2020 at

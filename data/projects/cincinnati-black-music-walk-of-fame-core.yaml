@@ -9,6 +9,8 @@ credits:
     note: "Lead planning, experience design, and project management"
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/cincinnati-black-music-walk-of-fame
     note: "Interactive digital media"
   - firm: eos-lightmedia
     role: lighting-design

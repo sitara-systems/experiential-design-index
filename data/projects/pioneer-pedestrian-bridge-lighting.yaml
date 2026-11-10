@@ -6,6 +6,8 @@ year_completed: 2011
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/35
     note: >
       Designer of record for the programmable-lighting public artwork,
       through supply, fabrication, programming, and commissioning; worked

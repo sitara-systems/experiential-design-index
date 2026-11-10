@@ -6,6 +6,9 @@ year_completed: 2016
 credits:
   - firm: andrew-merriell
     role: exhibit-design
+    sources:
+      - https://merriell.com/balloon
+      - https://merriell.com/exhibit-design-selected-projects
 technologies: []
 summary: >
   "Arctic Air: The Bold Flight of S.A. Andrée," an exhibit on S.A. Andrée's

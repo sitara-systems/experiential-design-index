@@ -6,6 +6,9 @@ year_completed: 2016
 credits:
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/gallery218/
+      - https://bwco.info/2020/09/belle-wissell-helps-sfmoma-go-eyes-free/
     note: "Wall and Table interactive experiences, including Eyes-Free audio accessibility mode"
   - firm: second-story
     role: media-design

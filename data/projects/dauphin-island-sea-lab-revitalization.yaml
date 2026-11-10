@@ -9,6 +9,8 @@ credits:
     note: "Mosaic and mural wall design"
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/dauphin-island-sea-lab
 technologies:
   - mosaic murals
 summary: >

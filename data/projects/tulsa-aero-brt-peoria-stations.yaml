@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: dimensional-innovations
     role: fabrication
+    sources:
+      - https://dimin.com/work/tulsa-transit
   - firm: hntb
     role: architecture
     note: "No firm record yet"

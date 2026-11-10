@@ -6,10 +6,16 @@ year_completed: 2000
 credits:
   - firm: pgav-destinations
     role: master-planning
+    sources:
+      - https://pgavdestinations.com/project/discovery-cove/
   - firm: pgav-destinations
     role: architecture
+    sources:
+      - https://pgavdestinations.com/project/discovery-cove/
   - firm: pgav-destinations
     role: exhibit-design
+    sources:
+      - https://pgavdestinations.com/project/discovery-cove/
 technologies: []
 summary: >
   Discovery Cove, an all-inclusive marine-life park adjacent to SeaWorld in

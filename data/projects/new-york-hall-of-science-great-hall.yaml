@@ -6,6 +6,8 @@ year_completed: 2008
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/great-hall
 technologies: []
 summary: >
   The Great Hall, a reimagined environmental visitor experience within the

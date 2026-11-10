@@ -6,6 +6,8 @@ year_completed: 1999
 credits:
 - firm: steve-feldman-design
   role: exhibit-design
+  sources:
+    - http://www.stevefeldmandesign.com/benjamin-olewin-nature-center
   note: Exhibits for the 4,000-square-foot nature center, using green materials
     and interactive ecology activities.
 summary: The 4,000-square-foot Benjamin Olewine III Nature Center at Wildwood Lake

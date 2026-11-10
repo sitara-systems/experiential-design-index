@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: aldrichpears-associates
     role: exhibit-design
+    sources:
+      - https://aldrichpears.com/project/canada-science-technology-museum/
     note: >
       Designed a new visitor entry point with hands-on science/technology
       interactives, distinct in scope from the same 2017 reopening's

@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: monadnock-media
     role: media-design
+    sources:
+      - https://monadnock.org/project/conner-prairie
     note: "Media experience design and production, technical systems design and oversight, and immersive theater design for the 3,150 sq ft immersive theater organized around the White River's journey from prehistory to present"
   - firm: luci-creative
     role: exhibit-design

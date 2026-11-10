@@ -8,6 +8,8 @@ credits:
     role: architecture
   - firm: schuler-shook
     role: technical-consulting
+    sources:
+      - https://www.schulershook.com/projects/marion-oliver-mccaw-hall
     note: "Theatre planning: room planning, circulation, stage rigging and lighting specification"
 technologies: []
 summary: >

@@ -9,6 +9,8 @@ credits:
     note: "Vancouver-based exhibit design collective; partnered with Eos on the site's interactive exhibit software; no firm record yet"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/23
     note: "Landscape/site lighting, interior lighting, AV design, and interactive-exhibit software development across the 283,000 sq ft, 17-building heritage village"
 technologies:
   - interactive software

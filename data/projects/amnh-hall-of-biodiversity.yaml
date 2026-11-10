@@ -6,6 +6,8 @@ year_completed: 1998
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/hall-of-biodiversity-american-museum-of-natural-history/
   - firm: donna-lawrence-productions
     role: content-production
     note: "One of several credited AV-presentation production companies"

@@ -7,9 +7,13 @@ status: completed
 credits:
   - firm: crafted-action
     role: exhibit-design
+    sources:
+      - https://www.craftedaction.com/work/franklin
     note: "Lead experience designer"
   - firm: crafted-action
     role: media-design
+    sources:
+      - https://www.craftedaction.com/work/franklin
   - firm: motion-by-nick
     role: media-design
     note: "Experiential motion design; no firm record yet."

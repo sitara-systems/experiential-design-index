@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: diller-scofidio-renfro
     role: architecture
+    sources:
+      - https://dsrny.com/project/lincoln-center-pedestrian-bridge
   - firm: tillotson-design-associates
     role: lighting-design
 technologies: []

@@ -6,9 +6,13 @@ year_completed: 2014
 credits:
 - firm: c-and-g-partners
   role: exhibit-design
+  sources:
+    - https://www.cgpartnersllc.com/projects/national-building-museum-designing-for-disaster-exhibit/
   note: Designed exhibits, graphics, media, interactives and sound.
 - firm: c-and-g-partners
   role: media-design
+  sources:
+    - https://www.cgpartnersllc.com/projects/national-building-museum-designing-for-disaster-exhibit/
 summary: Designing for Disaster, a temporary exhibition on natural-hazard mitigation
   at the National Building Museum in Washington, DC, opened May 11, 2014 and ran
   through August 2, 2015, with exhibits, graphics, media, interactives and sound

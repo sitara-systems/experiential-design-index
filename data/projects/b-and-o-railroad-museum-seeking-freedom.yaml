@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/seeking-freedom
     note: "Three-sided immersive projection on escape from slavery via the railroad, plus interactive route-mapping database"
   - firm: the-design-minds
     role: exhibit-design

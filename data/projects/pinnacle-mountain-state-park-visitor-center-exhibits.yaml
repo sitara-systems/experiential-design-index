@@ -6,8 +6,12 @@ year_completed: 2023
 credits:
   - firm: taylor-studios
     role: exhibit-design
+    sources:
+      - https://taylorstudios.com/our-work/pinnacle-mountain-state-park/
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/pinnacle-mountain-state-park/
 summary: >
   A 2,400-square-foot suite of indoor and outdoor exhibits for the newly
   built visitor center at Pinnacle Mountain State Park in Little Rock,

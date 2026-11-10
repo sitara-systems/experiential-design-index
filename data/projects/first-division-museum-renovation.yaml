@@ -12,6 +12,8 @@ credits:
     note: "Interactive and media content development"
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/first-division-museum/
     note: "Interactive and media content development"
   - firm: creative-technology
     role: av-integration

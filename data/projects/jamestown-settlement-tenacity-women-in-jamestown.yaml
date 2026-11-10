@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: >
       Credit per CMS's own portfolio page only; no independent source
       names a delivery-stack firm for this specific exhibit.

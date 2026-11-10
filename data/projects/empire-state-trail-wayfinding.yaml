@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/wayfinding-system-empire-state-trail/
 technologies:
   - wayfinding signage
   - cartography

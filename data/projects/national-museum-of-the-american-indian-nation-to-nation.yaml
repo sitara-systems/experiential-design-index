@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://www.designrp.com/projects/smithsonians-treaties-exhibition/
     note: "Design-build process in partnership with Hadley Exhibits"
   - firm: hadley-exhibits
     role: fabrication

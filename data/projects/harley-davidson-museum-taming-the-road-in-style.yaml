@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: ashton-design
     role: exhibit-design
+    sources:
+      - https://ashton-design.com/work/h-d-taming-the-road-in-style
 summary: >
   Ashton Design's Design Lab renovation created modular exhibition
   infrastructure at the Harley-Davidson Museum in Milwaukee, Wisconsin,

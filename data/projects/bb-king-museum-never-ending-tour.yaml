@@ -6,8 +6,12 @@ year_completed: 2021
 credits:
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/b-b-king-museum-the-never-ending-tour
   - firm: solomon-group
     role: lighting-design
+    sources:
+      - https://solomongroup.com/projects/b-b-king-museum-the-never-ending-tour
 technologies:
   - video theater
 summary: >

@@ -6,8 +6,12 @@ year_completed: 2015
 credits:
   - firm: belle-and-wissell
     role: exhibit-design
+    sources:
+      - https://bwco.info/work/conservation-field-house/
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/conservation-field-house/
 summary: >
   The Conservation Field House, an interactive exhibit at Woodland Park
   Zoo's Banyan Wilds habitat in Seattle, opened May 2, 2015 alongside the

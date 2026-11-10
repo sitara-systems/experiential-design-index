@@ -11,6 +11,8 @@ credits:
     role: exhibit-design
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/usga-experience
   - firm: hadley-exhibits
     role: fabrication
   - firm: kubik-maltbie
@@ -19,6 +21,8 @@ credits:
     role: lighting-design
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/the-usga-experience-and-world-golf-hall-of-fame
   - firm: zubatkin-owner-representation
     role: technical-consulting
     note: "Owner's representation; no firm record yet"

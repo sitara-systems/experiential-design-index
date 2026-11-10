@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/blue-wonders
     note: "Six touchscreen stations composing collaborative wave-animation phrases about water"
   - firm: cambridgeseven
     role: exhibit-design

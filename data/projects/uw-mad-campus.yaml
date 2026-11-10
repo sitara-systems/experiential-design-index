@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/mad-campus/
   - firm: imagine-visual-services
     role: fabrication
 technologies: []

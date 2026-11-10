@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: mass-design-group
     role: exhibit-design
+    sources:
+      - https://modelofarchitecture.org/projects/justice-beauty-exhibition
     note: "Exhibition direction by Maggie Jacobstein Stern (MASS); design by Shuheng Fu"
 technologies:
   - environmental graphic design

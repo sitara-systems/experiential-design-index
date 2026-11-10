@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/oklahoma-city-national-memorial-museum/
   - firm: exhibit-concepts
     role: fabrication
   - firm: fordav

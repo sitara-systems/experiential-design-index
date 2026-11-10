@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: explus
     role: fabrication
+    sources:
+      - https://www.explusinc.com/leatherneck-gallery.html
     note: "200-square-foot Vietnam-War-era tableau: life-cast Marine figures depicting an Operation Starlite helicopter exit scene."
 summary: >
   Leatherneck Gallery, a 200-square-foot exhibit at the National Museum of

@@ -6,9 +6,13 @@ year_completed: 2022
 credits:
   - firm: art-guild-inc
     role: exhibit-design
+    sources:
+      - https://www.artguildinc.com/2022/08/18/our-latest-museum-project-for-the-vietnam-veterans-memorial-fund-panel-44/
     note: "Designer and builder"
   - firm: art-guild-inc
     role: fabrication
+    sources:
+      - https://www.artguildinc.com/2022/08/18/our-latest-museum-project-for-the-vietnam-veterans-memorial-fund-panel-44/
 technologies:
   - video presentations
   - archival artifact casework

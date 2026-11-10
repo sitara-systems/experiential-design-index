@@ -9,9 +9,13 @@ credits:
     note: "No firm record yet"
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/the-met-81st-st-studio
     note: "Interactive touchscreens exploring clay, metal, and wood collection materials"
   - firm: renfro-design-group
     role: lighting-design
+    sources:
+      - https://www.renfrodesign.com/projects
     note: "Lighting design, per the firm's project list (renfrodesign.com/projects), which gives the project year."
 recognition:
   - award: "SEGD Global Design Awards — Honor Award, Digital Experiences"

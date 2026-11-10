@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: design-io
     role: media-design
+    sources:
+      - https://www.design-io.com/projects/weatherworlds
     note: >
       Creator of the gesture-driven interactive installation, presented
       in the museum's Innovation Sandbox space since its 2020 reopening.

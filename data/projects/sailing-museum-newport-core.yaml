@@ -6,11 +6,15 @@ year_completed: 2022
 credits:
   - firm: rlmg
     role: exhibit-design
+    sources:
+      - https://www.rlmg.com/work/the-sailing-museum
     note: "Richard Lewis Media Group"
   - firm: hadley-exhibits
     role: fabrication
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/the-sailing-museum
     note: 16 exhibit installations across video walls, projection, and interactive systems
   - firm: healykohler
     role: exhibit-design

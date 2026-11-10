@@ -7,6 +7,8 @@ status: completed
 credits:
   - firm: mad-systems
     role: av-integration
+    sources:
+      - https://madsystems.com/portfolio-shoah-richmond.html
     note: >
       Designed the interactive testimony theater, including a Pepper's
       Ghost-style display, in the newly constructed Alan and Halina Zimm

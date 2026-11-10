@@ -9,8 +9,12 @@ credits:
     note: "No firm record yet"
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/hana-gardens/
   - firm: west-office
     role: interpretive-planning
+    sources:
+      - https://woed.com/woprojects/hana-gardens/
   - firm: creo-industrial-arts
     role: fabrication
     note: "Weatherproof, vandal-resistant exhibit fabrication and installation"

@@ -8,8 +8,12 @@ credits:
     role: architecture
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/biomuseo
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/biomuseo
   - firm: bruce-mau-design
     role: exhibit-design
     note: "Original exhibition concept design; no firm record yet."
@@ -17,6 +21,8 @@ credits:
     role: fabrication
   - firm: lightswitch
     role: lighting-design
+    sources:
+      - https://www.lightswitch.net/portfolio/architecture
 technologies:
   - projection mapping
   - immersive environment

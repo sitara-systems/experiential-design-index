@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: southside-design-build
     role: fabrication
+    sources:
+      - https://www.southsidedb.com/portfolio-1/new-portfolio-item-7
 technologies: []
 summary: >
   A Knavish Lad, an immersive installation in the Great Hall of the National

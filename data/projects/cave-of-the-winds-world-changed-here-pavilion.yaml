@@ -9,10 +9,16 @@ credits:
     note: "no firm record yet"
   - firm: pgav-destinations
     role: exhibit-design
+    sources:
+      - https://pgavdestinations.com/news/cotw/
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/Cave-of-the-Winds
   - firm: boston-productions-inc
     role: media-design
+    sources:
+      - https://bostonproductions.com/portfolio/cotw/
     note: Designed and produced two immersive theaters and ten tactile interactives, working with Hadley Exhibits and PGAV Destinations, per BPI portfolio.
 technologies:
   - immersive object theater

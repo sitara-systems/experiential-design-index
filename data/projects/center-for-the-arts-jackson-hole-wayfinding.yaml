@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/center-for-the-arts-jackson-hole/
   - firm: design-communications-ltd
     role: fabrication
 summary: >

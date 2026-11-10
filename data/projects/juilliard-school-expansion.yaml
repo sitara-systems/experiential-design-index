@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: diller-scofidio-renfro
     role: architecture
+    sources:
+      - https://dsrny.com/project/the-juilliard-school
   - firm: fxcollaborative
     role: architecture
     note: "No firm record yet"

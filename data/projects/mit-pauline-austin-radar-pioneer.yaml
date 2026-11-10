@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/hospitals-universities/dr.-pauline-austin-radar-pioneer
     note: "no firm record yet"
   - firm: advanced-imaging
     role: fabrication

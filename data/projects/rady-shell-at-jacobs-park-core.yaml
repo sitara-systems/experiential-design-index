@@ -27,9 +27,13 @@ credits:
     note: "Horton Lees Brogden; architectural lighting design, distinct from Schuler Shook's theatrical lighting/rigging scope; no firm record yet"
   - firm: schuler-shook
     role: lighting-design
+    sources:
+      - https://schulershook.com/projects/the-rady-shell-at-jacobs-park
     note: "theatre planning and consulting, theatrical lighting and rigging design, coordination of stage equipment within the tensile-fabric shell"
   - firm: solotech
     role: av-integration
+    sources:
+      - https://solotech.com/work/the-rady-shell-at-jacobs-park/
     note: "Supplied and integrated the audience and performer audio systems, plus video, cameras, switchers, LED screens and lighting, per Solotech's project page."
 technologies: []
 summary: >

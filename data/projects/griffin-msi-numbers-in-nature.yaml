@@ -6,11 +6,17 @@ year_completed: 2014
 credits:
   - firm: luci-creative
     role: exhibit-design
+    sources:
+      - https://www.lucicreative.com/project/numbers-in-nature
   - firm: lightswitch
     role: lighting-design
+    sources:
+      - https://lightswitch.net/work/view/numbers-in-nature
     note: "No firm record yet"
   - firm: ravenswood-studio
     role: fabrication
+    sources:
+      - https://ravenswoodstudio.com/project/numbers-in-nature/
 technologies:
   - LED lighting
   - mirror maze

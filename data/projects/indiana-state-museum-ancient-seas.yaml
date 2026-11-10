@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: split-rock-studios
     role: exhibit-design
+    sources:
+      - https://splitrockstudios.com/nai-2025-media-award/
   - firm: boston-productions-inc
     role: media-design
+    sources:
+      - https://bostonproductions.com/portfolio/ancient-seas/
     note: "Projection-mapped media, 3D animation, and AR interactives"
   - firm: bowen-technovation
     role: av-integration

@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet."
   - firm: olin
     role: landscape-architecture
+    sources:
+      - https://www.theolinstudio.com/full-project-list/
 technologies: []
 summary: >
   A field of 2,711 concrete stelae designed by architect Peter Eisenman,

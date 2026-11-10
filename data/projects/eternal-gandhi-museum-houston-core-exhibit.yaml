@@ -6,10 +6,16 @@ year_completed: 2023
 credits:
   - firm: solid-light
     role: exhibit-design
+    sources:
+      - https://solidlight-inc.com/work/eternal-gandhi-museum-houston/
   - firm: solid-light
     role: media-design
+    sources:
+      - https://solidlight-inc.com/work/eternal-gandhi-museum-houston/
   - firm: solid-light
     role: fabrication
+    sources:
+      - https://solidlight-inc.com/work/eternal-gandhi-museum-houston/
 technologies:
   - interactive media
 summary: >

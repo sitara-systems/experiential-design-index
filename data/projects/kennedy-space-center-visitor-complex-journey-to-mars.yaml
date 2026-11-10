@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: brc-imagination-arts
     role: content-production
+    sources:
+      - https://www.brcweb.com/project/nasa-kennedy-space-center-visitor-complex/
     note: >
       Strategic planning, concept development, design detail, production,
       immersive media production, fabrication, technical systems, and

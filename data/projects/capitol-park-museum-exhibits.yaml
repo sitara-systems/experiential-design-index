@@ -10,6 +10,8 @@ credits:
     role: fabrication
   - firm: proun-design
     role: graphics-wayfinding
+    sources:
+      - https://www.proundesign.com/cultural-history-1/louisiana-state-museum
     note: "Exhibit Graphics: Proun Design, LLC and CCA staff"
 technologies: []
 summary: >

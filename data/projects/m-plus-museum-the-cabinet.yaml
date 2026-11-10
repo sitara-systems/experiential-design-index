@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: studio-joseph
     role: exhibit-design
+    sources:
+      - https://studiojoseph.com/work/the-cabinet
     note: "Designed the rotating gallery of 40 moveable panels, per the firm's project page."
   - firm: potion-design
     role: media-design

@@ -6,11 +6,17 @@ year_completed: 2024
 credits:
   - firm: solomon-group
     role: exhibit-design
+    sources:
+      - https://solomongroup.com/projects/world-of-coca-cola-beverage-lab
     note: "Experience development"
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/world-of-coca-cola-beverage-lab
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/world-of-coca-cola-beverage-lab
 technologies:
   - interactive projection
   - motion sensing

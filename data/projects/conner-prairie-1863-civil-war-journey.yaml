@@ -6,6 +6,8 @@ year_completed: 2011
 credits:
 - firm: boston-productions-inc
   role: media-design
+  sources:
+    - https://bostonproductions.com/portfolio/conner-prairie-interactive-living-history-park/
   note: Designed and produced the multi-theater immersive journey based on Morgan's
     Raid.
 summary: The 1863 Civil War Journey, a multi-theater immersive experience on Morgan's

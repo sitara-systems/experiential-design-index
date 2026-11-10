@@ -6,8 +6,12 @@ year_completed: 2018
 credits:
   - firm: cambridgeseven
     role: architecture
+    sources:
+      - https://www.cambridgeseven.com/project/roundhouse-aquarium/
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/roundhouse-aquarium/
 summary: >
   Renovation and reopening (November 5, 2018) of the historic 1920s
   Roundhouse Aquarium on the Manhattan Beach Pier in Manhattan Beach,

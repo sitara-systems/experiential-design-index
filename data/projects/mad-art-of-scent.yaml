@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: diller-scofidio-renfro
     role: exhibit-design
+    sources:
+      - https://dsrny.com/project/art-of-scent
 technologies: []
 summary: >
   "The Art of Scent: 1889-2012," a temporary exhibition on perfume as

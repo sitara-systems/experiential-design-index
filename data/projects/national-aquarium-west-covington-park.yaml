@@ -6,9 +6,13 @@ year_completed: 2015
 credits:
   - firm: ayers-saint-gross
     role: landscape-architecture
+    sources:
+      - https://ayerssaintgross.com/work/project/national-aquarium-west-covington-park/
     note: "Landscape architecture / site design of the 12.2-acre conservation demonstration park"
   - firm: ayers-saint-gross
     role: graphics-wayfinding
+    sources:
+      - https://ayerssaintgross.com/work/project/national-aquarium-west-covington-park/
     note: "Educational/interpretive signage"
 technologies: []
 summary: >

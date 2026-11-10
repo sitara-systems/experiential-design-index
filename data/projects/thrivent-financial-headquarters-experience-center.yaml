@@ -8,9 +8,13 @@ credits:
     role: architecture
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://www.dimin.com/
     note: environmental design
   - firm: dimensional-innovations
     role: media-design
+    sources:
+      - https://www.dimin.com/
     note: immersive technology
   - firm: prophet
     role: interpretive-planning

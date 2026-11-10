@@ -6,11 +6,17 @@ year_completed: 2023
 credits:
   - firm: solomon-group
     role: technical-consulting
+    sources:
+      - https://solomongroup.com/projects/liberation-pavilion
     note: "Early-stage design, budgeting, and scheduling consultation"
   - firm: solomon-group
     role: lighting-design
+    sources:
+      - https://solomongroup.com/projects/liberation-pavilion
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/liberation-pavilion
   - firm: 1220-fabrication
     role: fabrication
 technologies:

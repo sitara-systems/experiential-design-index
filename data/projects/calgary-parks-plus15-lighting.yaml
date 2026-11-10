@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/92
 technologies: []
 summary: >
   Lighting for Calgary's +15 pedestrian walkway system, completed 2010

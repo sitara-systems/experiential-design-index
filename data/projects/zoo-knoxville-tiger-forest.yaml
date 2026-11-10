@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
 - firm: clr-design
   role: exhibit-design
+  sources:
+    - https://clrdesign.com/project/zoo-knoxville-asian-trek-tiger-forest/
   note: Exhibit design per CLR Design's project page.
 summary: Tiger Forest, a roughly $10 million Malayan tiger and white-naped crane
   habitat in the Boyd Family Asian Trek at Zoo Knoxville in Knoxville, Tennessee,

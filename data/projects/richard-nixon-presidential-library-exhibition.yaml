@@ -6,9 +6,13 @@ year_completed: 2016
 credits:
   - firm: tait
     role: exhibit-design
+    sources:
+      - https://www.taittowers.com/work/richard-nixon-presidential-library-and-museum
     note: "Credited as \"produced by Thinkwell, now tait\"; design of the 12,000 sq ft exhibition including a replica Oval Office"
   - firm: tait
     role: media-design
+    sources:
+      - https://www.taittowers.com/work/richard-nixon-presidential-library-and-museum
     note: "Interactive touchscreens and media-based storytelling elements"
   - firm: cortina-productions
     role: media-design

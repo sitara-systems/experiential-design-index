@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: studio-matthews
     role: exhibit-design
+    sources:
+      - https://studiomatthews.com/project/design-with-the-90/
   - firm: pacific-studio
     role: fabrication
 summary: >

@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: the-hettema-group
     role: exhibit-design
+    sources:
+      - https://thgcreative.com/thg-top-of-the-rock/
   - firm: mda
     role: architecture
     note: "no firm record yet"

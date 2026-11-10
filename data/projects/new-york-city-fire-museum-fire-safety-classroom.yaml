@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: peter-hyde-design
     role: exhibit-design
+    sources:
+      - https://www.peterhydedesign.com/projects/fire-safety-classroom-new-york-city-fire-museum/
   - firm: m-catton-and-co
     role: fabrication
     note: "no firm record yet"

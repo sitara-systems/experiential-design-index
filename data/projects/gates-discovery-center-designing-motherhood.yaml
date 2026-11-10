@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: studio-matthews
     role: exhibit-design
+    sources:
+      - https://studiomatthews.com/project/designing-motherhood/
   - firm: dillon-works
     role: fabrication
     note: "no firm record yet"

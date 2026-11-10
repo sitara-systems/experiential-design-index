@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: explus
     role: fabrication
+    sources:
+      - https://www.explusinc.com/portfolio.html
 technologies: []
 summary: >
   The Early History Galleries ("Defending the New Republic 1775-1865,"

@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://www.chicagoscenic.com/projects/piranesi-circus
     note: "Fabrication, installation, and project management; ETCP-certified rigging"
   - firm: atelier-bow-wow
     role: architecture

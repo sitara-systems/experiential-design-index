@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/bushs-visitor-center/
     note: "Interactive and media design and development, per Trivium's own project page."
 summary: >
   Trivium Interactive produced a touchscreen station where visitors create a custom bean can label, completed in 2026, at Bush's Visitor Center.

@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/oktas-new-york-experience-center
 technologies:
   - LED display
 summary: >

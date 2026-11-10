@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: color-ad
     role: fabrication
+    sources:
+      - https://www.color-ad.com/
     note: "No firm record yet"
 technologies: []
 summary: >

@@ -6,8 +6,12 @@ year_completed: 2025
 credits:
   - firm: taylor-studios
     role: exhibit-design
+    sources:
+      - https://taylorstudios.com/our-work/national-wwi-museum-and-memorial/
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/national-wwi-museum-and-memorial/
 technologies:
   - AV interactives
 summary: >

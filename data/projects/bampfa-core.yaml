@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: diller-scofidio-renfro
     role: architecture
+    sources:
+      - https://dsrny.com/project/berkeley-art-museum-and-pacific-film-archive
   - firm: ehdd
     role: architecture
     note: "No firm record yet"

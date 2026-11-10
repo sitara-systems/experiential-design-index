@@ -6,8 +6,12 @@ year_completed: 2018
 credits:
   - firm: diller-scofidio-renfro
     role: exhibit-design
+    sources:
+      - https://dsrny.com/project/heavenly-bodies
   - firm: tillotson-design-associates
     role: lighting-design
+    sources:
+      - https://www.tillotsondesign.com/heavenly-bodies-fashion-and-the-catholic-imagination-full-project-credits
 technologies: []
 summary: >
   "Heavenly Bodies: Fashion and the Catholic Imagination," a temporary

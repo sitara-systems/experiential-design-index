@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/second-story-and-beyond
     note: "Character-design wall projection for pre-readers, modular content refreshed twice yearly"
   - firm: bbi-engineering
     role: av-integration

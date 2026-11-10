@@ -9,8 +9,12 @@ credits:
     note: "No firm record yet"
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/nmaam/
   - firm: gallagher-and-associates
     role: content-production
+    sources:
+      - https://gallagherdesign.com/project/nmaam/
   - firm: videobred
     role: content-production
   - firm: stark-rfid
@@ -20,9 +24,13 @@ credits:
     role: fabrication
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/74
     note: "Lighting design for six galleries, per Eos Lightmedia's own project page."
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/74
     note: >
       Supplied, installed, and commissioned exhibit lighting (theatrical,
       overhead track, integrated case lighting) and a museum-wide lighting
@@ -35,6 +43,8 @@ credits:
       source.
   - firm: romeantics
     role: media-design
+    sources:
+      - https://romeantics.com/project/national-museum-of-african-american-music/
     note: "Multimedia design, per the firm's portfolio page."
 technologies:
   - RFID

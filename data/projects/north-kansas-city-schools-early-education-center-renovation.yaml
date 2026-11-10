@@ -6,8 +6,14 @@ year_completed: 2021
 credits:
   - firm: dlr-group
     role: architecture
+    sources:
+      - https://www.dlrgroup.com/work/north-kansas-city-schools-early-education-center/
+      - https://www.dlrgroup.com/work/north-kansas-city-schools-early-education-center-experiential-graphic-design/
   - firm: dlr-group
     role: graphics-wayfinding
+    sources:
+      - https://www.dlrgroup.com/work/north-kansas-city-schools-early-education-center/
+      - https://www.dlrgroup.com/work/north-kansas-city-schools-early-education-center-experiential-graphic-design/
     note: "Experiential graphic design, integrated into wayfinding-driven carpet patterns and themed 'neighborhoods'"
   - firm: digital-imaging
     role: fabrication

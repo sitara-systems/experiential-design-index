@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=161
 summary: >
   The New York Public Library's Macomb's Bridge Branch, a 3,500-square-
   foot renovation of storefronts within the landmarked Harlem River

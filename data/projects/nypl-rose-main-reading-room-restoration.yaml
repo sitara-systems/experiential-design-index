@@ -8,6 +8,8 @@ credits:
     role: architecture
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/the-new-york-public-library%E2%80%A8-rose-main-reading-room/
     note: "\"Conceal and reveal\" restoration under an existing-lamp-only constraint"
 technologies: []
 summary: >

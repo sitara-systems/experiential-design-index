@@ -6,6 +6,8 @@ year_completed: 2011
 credits:
 - firm: boston-productions-inc
   role: media-design
+  sources:
+    - https://bostonproductions.com/portfolio/turkey-hill-experience/
   note: Developed, designed and produced all interactive multimedia exhibits in
     the 20,000-plus-square-foot space.
 summary: The Turkey Hill Experience, the visitor attraction of the Turkey Hill ice

@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/natural-history-galleries-and-discovery-center
     note: >
       Exhibition planning and design for the Astronomy & Cosmology, Ohio,
       Smead Discovery Center, and Living Planet galleries plus the outdoor

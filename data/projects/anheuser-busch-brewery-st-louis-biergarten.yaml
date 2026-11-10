@@ -6,8 +6,12 @@ year_completed: 2013
 credits:
   - firm: pgav-destinations
     role: architecture
+    sources:
+      - https://pgavdestinations.com/project/anheuser-busch-beer-experience/
   - firm: pgav-destinations
     role: exhibit-design
+    sources:
+      - https://pgavdestinations.com/project/anheuser-busch-beer-experience/
 technologies: []
 summary: >
   The Biergarten, a 275-seat outdoor beer garden at the Anheuser-Busch

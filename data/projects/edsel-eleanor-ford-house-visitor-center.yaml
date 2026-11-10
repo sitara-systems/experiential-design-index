@@ -11,6 +11,8 @@ credits:
     note: "Interpretive planning & exhibition design"
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/ford-house-visitor-center
     note: "Digital interactive design: touchscreen scrapbook, touchtable design visualizer, projection-mapped estate model, vehicle media presentation"
   - firm: ravenswood-studio
     role: fabrication

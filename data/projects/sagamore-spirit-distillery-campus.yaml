@@ -6,14 +6,22 @@ year_completed: 2016
 credits:
   - firm: ayers-saint-gross
     role: architecture
+    sources:
+      - https://ayerssaintgross.com/work/project/sagamore-spirit-distillery/
   - firm: solid-light
     role: exhibit-design
+    sources:
+      - https://solidlight-inc.com/work/sagamore-spirit-distillery-experience/
     note: "Visitor-experience design, interpretive graphics, and brand identity assistance"
   - firm: solid-light
     role: media-design
+    sources:
+      - https://solidlight-inc.com/work/sagamore-spirit-distillery-experience/
     note: "Interactive media"
   - firm: solid-light
     role: fabrication
+    sources:
+      - https://solidlight-inc.com/work/sagamore-spirit-distillery-experience/
     note: "Design-through-fabrication of visitor-experience elements"
   - firm: ashton-design
     role: graphics-wayfinding

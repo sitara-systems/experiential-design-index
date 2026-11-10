@@ -6,11 +6,17 @@ year_completed: 2016
 credits:
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/cadillac-house/
     note: "Generative media software driving an 18-column display system"
   - firm: av-c
     role: av-integration
+    sources:
+      - https://www.av-controls.com/cadillac-house/
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects/cadillac-house
     note: "Designed the 12,000 sq ft brand space"
 technologies:
   - generative media

@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: ayers-saint-gross
     role: graphics-wayfinding
+    sources:
+      - https://ayerssaintgross.com/work/project/baltimore-visitor-center-environmental-graphics/
     note: "Custom moveable literature displays/exhibits and illuminated signage"
 technologies: []
 summary: >

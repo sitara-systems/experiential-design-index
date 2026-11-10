@@ -8,10 +8,14 @@ credits:
     role: exhibit-design
   - firm: boston-productions-inc
     role: media-design
+    sources:
+      - https://bostonproductions.com/portfolio/larry-bird/
   - firm: ravenswood-studio
     role: fabrication
   - firm: bowen-technovation
     role: av-integration
+    sources:
+      - https://www.bowentechnovation.com/larry-bird-museum/
 technologies:
   - LED video wall
   - interactive touchscreen

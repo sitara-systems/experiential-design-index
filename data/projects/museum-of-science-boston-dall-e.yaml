@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: moment-factory
     role: media-design
+    sources:
+      - https://momentfactory.com/products/dall-e
     technology_tags:
       - artificial-intelligence
     note: >

@@ -6,6 +6,8 @@ year_completed: 2004
 credits:
   - firm: brc-imagination-arts
     role: exhibit-design
+    sources:
+      - https://www.brcweb.com/project/ford-rouge-factory-tour/
     note: >
       Strategic planning, concept development, design, production,
       immersive media production, interactive design, installation,

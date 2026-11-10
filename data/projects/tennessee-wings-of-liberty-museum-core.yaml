@@ -6,10 +6,14 @@ year_completed: 2026
 credits:
 - firm: 1220-fabrication
   role: fabrication
+  sources:
+    - https://1220.com/portfolio/the-tennessee-wings-of-liberty-museum/
   note: Fabricated and installed six scenic tableau environments, a transformed
     MH-47 Chinook helicopter exhibit, graphics, artifact mounts and cases.
 - firm: 1220-fabrication
   role: av-integration
+  sources:
+    - https://1220.com/portfolio/the-tennessee-wings-of-liberty-museum/
   note: Provided audiovisual systems, immersive media equipment, theatrical lighting
     and integrated controls.
 summary: The Tennessee Wings of Liberty Museum, chronicling the history of the 101st

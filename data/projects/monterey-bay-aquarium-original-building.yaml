@@ -6,6 +6,8 @@ year_completed: 1984
 credits:
 - firm: ehdd
   role: architecture
+  sources:
+    - https://ehdd.com/project/monterey-bay-aquarium/
 summary: >
   The Monterey Bay Aquarium, a 130,000-square-foot aquarium built on the site
   of the Hovden Cannery on Cannery Row in Monterey, California, opened October

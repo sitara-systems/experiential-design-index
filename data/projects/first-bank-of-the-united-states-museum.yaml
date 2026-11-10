@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/work/civil-rights-memorials/first-bank-of-the-united-states/
     note: "Concept design, exhibition design, design development, and documentation for the nation's oldest federal building, closed to the public for 50+ years"
 summary: >
   The First Bank of the United States, the oldest federal building in the

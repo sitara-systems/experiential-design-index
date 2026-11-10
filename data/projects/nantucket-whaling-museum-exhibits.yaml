@@ -6,6 +6,8 @@ year_completed: 2005
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/nantucket-whaling-museum-kkjfp-6ng9b
   - firm: martin-sokoloff
     role: architecture
     note: "no firm record yet"

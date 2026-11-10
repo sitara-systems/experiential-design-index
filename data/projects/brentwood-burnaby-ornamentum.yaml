@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/93
     note: >
       Provided commissioning, programming, and custom software for the
       artwork's lighting, including a custom web controller and

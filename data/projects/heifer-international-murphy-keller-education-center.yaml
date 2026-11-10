@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/heifer-international/
   - firm: polk-stanley-rowland
     role: architecture
     note: >

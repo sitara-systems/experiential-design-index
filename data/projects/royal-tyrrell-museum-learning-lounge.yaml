@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/royal-tyrrell-museum-learning-lounge-new-text/
     note: "Gallery design, interactive exhibit concepts, and spatial planning"
 technologies: []
 summary: >

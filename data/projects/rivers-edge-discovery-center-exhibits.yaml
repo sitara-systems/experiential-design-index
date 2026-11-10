@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: taylor-studios
     role: exhibit-design
+    sources:
+      - https://taylorstudios.com/our-work/rivers-edge-discovery-center/
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/rivers-edge-discovery-center/
 summary: >
   A 4,500-square-foot interactive water-cycle exhibit for families with
   young children at the River's Edge Discovery Center in Fort Dodge, Iowa,

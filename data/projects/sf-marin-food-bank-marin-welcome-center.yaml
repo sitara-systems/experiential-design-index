@@ -6,9 +6,13 @@ year_completed: 2020
 credits:
   - firm: skidmore-owings-and-merrill
     role: architecture
+    sources:
+      - https://www.som.com/projects/marin-food-bank/
     note: "Interior architecture for the distribution center and welcome center"
   - firm: skidmore-owings-and-merrill
     role: exhibit-design
+    sources:
+      - https://www.som.com/projects/marin-food-bank/
     note: "Large-scale graphics and exhibits humanizing food insecurity for visitors"
   - firm: one-hat-one-hand
     role: fabrication

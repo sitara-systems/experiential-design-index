@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/history-colorado-center
     note: "28 interactive installations incl. 22-foot Christie MicroTile timeline display and motion-controlled floor map"
   - firm: andrew-merriell
     role: exhibit-design

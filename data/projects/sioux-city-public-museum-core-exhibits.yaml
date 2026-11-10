@@ -6,9 +6,13 @@ year_completed: 2011
 credits:
   - firm: monadnock-media
     role: media-design
+    sources:
+      - https://monadnock.org/project/sioux-city-public-museum
     note: "Media master planning and exhibit design collaboration across the 12,000 sq ft media program in the museum's new 55,000 sq ft downtown facility, including the Disaster and Recovery rear-projection building-facade installation and a steampunk-themed time-travel interactive"
   - firm: hilferty-and-associates
     role: exhibit-design
+    sources:
+      - https://www.hilferty.com/project-details
 technologies:
   - rear projection
   - immersive theater

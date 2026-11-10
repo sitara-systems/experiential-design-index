@@ -9,6 +9,8 @@ credits:
     note: "Exhibit design and media production"
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/target-open-house/
     note: >
       30-ft 12-projector screen and 12 interactive tables for a 7/8-scale
       acrylic Victorian-house IoT showcase.

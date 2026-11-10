@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: dimensional-innovations
     role: graphics-wayfinding
+    sources:
+      - https://dimin.com/
     note: "Donor recognition, environmental branding, and signage"
   - firm: ballinger
     role: architecture

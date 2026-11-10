@@ -9,19 +9,27 @@ credits:
     note: "Part of the Freelon Adjaye Bond/SmithGroup design-build team"
   - firm: smithgroup
     role: architecture
+    sources:
+      - https://www.smithgroup.com/projects/national-museum-of-african-american-history-and-culture
     note: "Part of the Freelon Adjaye Bond/SmithGroup design-build team"
   - firm: ralph-appelbaum-associates
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://d-and-p.com/human-history
   - firm: design-and-production-incorporated
     role: av-integration
+    sources:
+      - https://d-and-p.com/human-history
     note: "Credited as Design & Production on SH Acoustics' own project page"
   - firm: cortina-productions
     role: content-production
     note: "Credited on SH Acoustics' own project page; no independent corroboration found for this specific project"
   - firm: sh-acoustics
     role: acoustics
+    sources:
+      - https://shacoustics.com/national-museum-of-african-american-history-culture/
     note: >
       Exhibit-space acoustics, sound containment, noise control, and
       specialized audio design and media coordination for all galleries;

@@ -6,6 +6,8 @@ year_completed: 2005
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/louisville-science-center-the-world-around-us/
 technologies:
   - interactive pinball-mechanism water-cycle simulator
 summary: >

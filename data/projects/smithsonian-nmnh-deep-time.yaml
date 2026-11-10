@@ -9,15 +9,23 @@ credits:
     note: "Architect, structural engineer, and MEP engineer of record"
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/smithsonian-institution-hall-of-fossils/
     note: "Won the international design competition for the hall; overall art direction and creative direction."
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://www.d-and-p.com/blog/2019/6/7/new-dino-hall-deep-time-opens-at-the-smithsonians-national-museum-of-natural-history
     note: "Fabrication, installation, model making, dioramas, custom illustration"
   - firm: design-and-production-incorporated
     role: av-integration
+    sources:
+      - https://www.d-and-p.com/blog/2019/6/7/new-dino-hall-deep-time-opens-at-the-smithsonians-national-museum-of-natural-history
     note: "AV hardware procurement and installation"
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/david-h-koch-hall-of-fossils-deep-time
     note: "AV and multimedia software design; 22 media pieces including the Evolution Through Deep Time interactive"
   - firm: available-light
     role: lighting-design

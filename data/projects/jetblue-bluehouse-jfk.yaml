@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects
 technologies:
   - guest lounge design
 summary: >

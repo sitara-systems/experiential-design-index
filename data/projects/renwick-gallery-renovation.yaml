@@ -6,10 +6,16 @@ year_completed: 2015
 credits:
   - firm: dlr-group
     role: architecture
+    sources:
+      - https://www.dlrgroup.com/work/smithsonian-american-art-museums-renwick-gallery/
   - firm: dlr-group
     role: lighting-design
+    sources:
+      - https://www.dlrgroup.com/work/smithsonian-american-art-museums-renwick-gallery/
   - firm: dlr-group
     role: av-integration
+    sources:
+      - https://www.dlrgroup.com/work/smithsonian-american-art-museums-renwick-gallery/
 technologies: []
 summary: >
   The Renwick Gallery of the Smithsonian American Art Museum, a National

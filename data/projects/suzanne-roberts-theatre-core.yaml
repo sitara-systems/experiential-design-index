@@ -6,12 +6,16 @@ year_completed: 2007
 credits:
   - firm: kieran-timberlake
     role: architecture
+    sources:
+      - https://kierantimberlake.com/work/suzanne-roberts-theatre/
     note: "Design architect"
   - firm: bower-lewis-thrower
     role: architecture
     note: "Architect of record; no firm record yet"
   - firm: a-zahner-company
     role: fabrication
+    sources:
+      - https://azahner.com/projects/suzanne-roberts-theatre/
     note: "Sculptural stainless-steel marquee/signage system"
 technologies: []
 summary: >

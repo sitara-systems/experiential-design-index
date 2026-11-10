@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/colby-college-museum-of-art/
 technologies: []
 summary: >
   An expansion of the Colby College Museum of Art in Waterville, Maine,

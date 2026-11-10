@@ -9,10 +9,16 @@ credits:
     note: "No firm record yet"
   - firm: ideum
     role: exhibit-design
+    sources:
+      - https://ideum.com/
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/
   - firm: ideum
     role: av-integration
+    sources:
+      - https://ideum.com/
 technologies: []
 summary: >
   Penguin Chill, a penguin exhibit at the ABQ BioPark Zoo in

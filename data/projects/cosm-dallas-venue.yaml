@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: hks
     role: architecture
+    sources:
+      - https://www.hksinc.com/what-we-do/projects/cosm/
 technologies:
   - LED dome display
   - shared reality / mixed physical-digital display

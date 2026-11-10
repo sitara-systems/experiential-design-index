@@ -11,6 +11,8 @@ credits:
       and interactive content.
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/zoom-london-experience-center
     note: "AV design and integration"
   - firm: unispace
     role: fabrication

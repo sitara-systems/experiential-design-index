@@ -6,8 +6,12 @@ year_completed: 2013
 credits:
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects/reunion-tower-observation-deck-and-cafe
   - firm: stimulant
     role: media-design
+    sources:
+      - https://www.stimulant.com/work/reunion-tower
     note: "Interactive Halo display; no firm record yet"
   - firm: group-delphi
     role: fabrication

@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/san-francisco-49ers-the-long-game-exhibit/
 summary: >
   The Long Game, the NFL's first social-justice exhibit, opened within
   the San Francisco 49ers Museum at Levi's Stadium in Santa Clara,

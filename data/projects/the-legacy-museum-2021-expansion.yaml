@@ -6,8 +6,12 @@ year_completed: 2021
 credits:
   - firm: roto
     role: exhibit-design
+    sources:
+      - https://roto.com/news/equal-justice-initiative-legacy-museum-dedicated-to-the-unjust-treatment-of-black-bodies-from-enslavement-to-mass-incarceration
   - firm: bluebird-graphic-solutions
     role: fabrication
+    sources:
+      - https://www.bluebirdgs.com/nest/9puaqrmtt283blq1f19ve6q4oanyek-w6cws
     note: >
       Fabricated exhibit sections including "Slavery Evolved" and
       reproduction Jim Crow-era segregation signage, working under Roto.

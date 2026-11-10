@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: olson-kundig
     role: architecture
+    sources:
+      - https://olsonkundig.com/projects/century-project/
 technologies:
   - rotating glass floor
   - floor-to-ceiling glass observation deck

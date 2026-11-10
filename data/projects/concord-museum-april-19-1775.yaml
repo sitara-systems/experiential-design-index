@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/april-19th-gallery-and-website
     note: "6-minute animated map projection plus companion interactive-timeline website"
   - firm: amaze-design
     role: exhibit-design

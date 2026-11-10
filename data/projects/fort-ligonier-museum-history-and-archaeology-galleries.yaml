@@ -9,6 +9,8 @@ credits:
     note: "Design partner (Takoma Park, MD); no firm record yet"
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "240+ artifacts and artifact mounts, per CMS's own portfolio"
 technologies: []
 summary: >

@@ -6,9 +6,13 @@ year_completed: 2022
 credits:
   - firm: ideum
     role: fabrication
+    sources:
+      - https://ideum.com/portfolio/jackie-robinson-museum-ebbets-field-model
     note: 1/64th-scale (S scale) illuminated model of Ebbets Field, including 30,000+ 3D-printed fans
   - firm: ideum
     role: av-integration
+    sources:
+      - https://ideum.com/portfolio/jackie-robinson-museum-ebbets-field-model
     note: Projection mapping onto the model field, LED tile wall, and 34" reading-rail touch displays
   - firm: gensler
     role: media-design

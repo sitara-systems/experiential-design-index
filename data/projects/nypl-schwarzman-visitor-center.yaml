@@ -6,12 +6,16 @@ year_completed: 2023
 credits:
   - firm: pure-and-applied
     role: exhibit-design
+    sources:
+      - https://pureandappliedstudio.com/project/nypl-visitorcenter
     note: "Exhibition/wayfinding graphics and multi-sensory interpretive design for the Library's first Visitor Center"
   - firm: mecanoo
     role: architecture
     note: "No firm record yet"
   - firm: beyer-blinder-belle
     role: architecture
+    sources:
+      - https://www.beyerblinderbelle.com/work/view/new-york-public-library-stephen-a-schwarzman-building/
   - firm: tillotson-design-associates
     role: lighting-design
     note: "Independently sourced via award-listing pages; exact per-room scope split with the Polonsky Treasures record not fully confirmed"

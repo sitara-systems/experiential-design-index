@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: william-rawn-associates
     role: architecture
+    sources:
+      - https://rawnarch.com/projects/tanglewood-linde.html
     note: "Architect, per William Rawn Associates' project page (Completion 2019)."
 summary: >
   William Rawn Associates designed the Linde Center for Music and Learning at Tanglewood, summer home of the Boston Symphony Orchestra in Lenox, MA, completed in 2019.

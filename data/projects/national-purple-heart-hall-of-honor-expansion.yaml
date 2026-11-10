@@ -9,9 +9,13 @@ credits:
     note: "no firm record yet"
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/national-purple-heart-hall-of-honor/
     note: "Media programs across the hall's original exhibits and this expansion, including films and interactive stations"
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/national-purple-heart-hall-of-honor/
     note: "Exhibition, graphic, and media design"
 technologies:
   - interactive timeline

@@ -6,8 +6,12 @@ year_completed: 2019
 credits:
   - firm: the-urban-conga
     role: exhibit-design
+    sources:
+      - https://www.theurbanconga.com/projects/the-oasis
   - firm: the-urban-conga
     role: fabrication
+    sources:
+      - https://www.theurbanconga.com/projects/the-oasis
 technologies: []
 summary: >
   The Oasis, an indoor beach-themed lounge of roughly 1,000 recycled foam

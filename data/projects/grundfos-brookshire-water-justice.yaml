@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/grundfos/
     note: "Also credited on themxgroup.com as a collaborating creative studio on the same headquarters exhibition; exact division of labor vs. The Mx Group not independently confirmed"
   - firm: the-mx-group
     role: exhibit-design

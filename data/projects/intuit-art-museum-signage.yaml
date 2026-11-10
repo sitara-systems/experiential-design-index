@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: span-studio
     role: graphics-wayfinding
+    sources:
+      - https://span.studio/projects/intuit-art-museum-signage
     note: "Environmental signage and wayfinding for the renovated building, including entry sculpture, facade artwork, ADA-compliant interior signage, and donor recognition"
 technologies: []
 summary: >

@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/projects/national-comedy-center/
   - firm: electrosonic
     role: av-integration
   - firm: adirondack-studios

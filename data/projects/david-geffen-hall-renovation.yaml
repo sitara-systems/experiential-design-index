@@ -12,6 +12,8 @@ credits:
     note: "Concert hall; no firm record yet"
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/david-geffen-hall/
 technologies: []
 summary: >
   A renovation of David Geffen Hall at Lincoln Center in New York,

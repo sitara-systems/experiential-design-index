@@ -6,12 +6,16 @@ year_completed: 2012
 credits:
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/coach-herald-square-gallery/
     note: "Interactive media surfaces doubling as shoppers' mirrors"
   - firm: oma
     role: architecture
     note: "no firm record yet"
   - firm: slanted-studios
     role: content-production
+    sources:
+      - https://www.av-controls.com/coach-herald-square-gallery/
     note: >
       "Slanted Studios produced some of our favorite content for the piece"
       per AV&C's own project page; exact scope of contribution unspecified.

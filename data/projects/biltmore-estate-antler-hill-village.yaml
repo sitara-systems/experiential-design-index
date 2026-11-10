@@ -6,14 +6,29 @@ year_completed: 2010
 credits:
   - firm: pgav-destinations
     role: master-planning
+    sources:
+      - https://pgavdestinations.com/project/antler-hill-village-biltmore-estate/
+      - https://pgavdestinations.com/portfolio/biltmores-antler-hill-village/
   - firm: pgav-destinations
     role: architecture
+    sources:
+      - https://pgavdestinations.com/project/antler-hill-village-biltmore-estate/
+      - https://pgavdestinations.com/portfolio/biltmores-antler-hill-village/
   - firm: pgav-destinations
     role: exhibit-design
+    sources:
+      - https://pgavdestinations.com/project/antler-hill-village-biltmore-estate/
+      - https://pgavdestinations.com/portfolio/biltmores-antler-hill-village/
   - firm: pgav-destinations
     role: interpretive-planning
+    sources:
+      - https://pgavdestinations.com/project/antler-hill-village-biltmore-estate/
+      - https://pgavdestinations.com/portfolio/biltmores-antler-hill-village/
   - firm: pgav-destinations
     role: graphics-wayfinding
+    sources:
+      - https://pgavdestinations.com/project/antler-hill-village-biltmore-estate/
+      - https://pgavdestinations.com/portfolio/biltmores-antler-hill-village/
 technologies: []
 summary: >
   Antler Hill Village, an $18.6 million pedestrian village at the Biltmore

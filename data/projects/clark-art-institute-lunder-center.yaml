@@ -12,6 +12,8 @@ credits:
     note: "Architect of record"
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/the-clark-art-institute-stone-hill-center/
     note: "Flexible high-CRI lighting system for galleries and conservation labs"
 technologies: []
 summary: >

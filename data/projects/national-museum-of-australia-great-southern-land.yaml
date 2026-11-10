@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: local-projects
     role: media-design
+    sources:
+      - https://localprojects.com/work/
   - firm: arm-architects
     role: architecture
     note: "No firm record yet"

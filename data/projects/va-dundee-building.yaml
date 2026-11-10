@@ -9,8 +9,12 @@ credits:
     note: "no firm record yet"
   - firm: arup
     role: acoustics
+    sources:
+      - https://www.arup.com/en-us/projects/v-and-a-dundee/
   - firm: arup
     role: lighting-design
+    sources:
+      - https://www.arup.com/en-us/projects/v-and-a-dundee/
 technologies: []
 summary: >
   V&A Dundee, Scotland's design museum on the River Tay waterfront, opened

@@ -6,8 +6,12 @@ year_completed: 2026
 credits:
   - firm: hks
     role: architecture
+    sources:
+      - https://www.hksinc.com/what-we-do/projects/halperin-park/
   - firm: swa-group
     role: landscape-architecture
+    sources:
+      - https://www.swagroup.com/projects/halperin-park/
 technologies: []
 summary: >
   Halperin Park, a deck park over I-35E reconnecting Dallas's Oak Cliff

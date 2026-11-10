@@ -6,6 +6,8 @@ year_completed: 1998
 credits:
 - firm: ennead-architects
   role: architecture
+  sources:
+    - https://ennead.com/work/pequot/
 summary: >
   The Mashantucket Pequot Museum and Research Center, a 316,064-square-foot museum
   with 80,000 square feet of permanent exhibit space in Mashantucket, Connecticut,

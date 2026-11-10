@@ -6,15 +6,25 @@ year_completed: 2023
 credits:
   - firm: solomon-group
     role: technical-consulting
+    sources:
+      - https://solomongroup.com/projects/the-international-african-american-museum
     note: "Project consultation and value engineering during design development"
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/the-international-african-american-museum
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/the-international-african-american-museum
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/international-african-american-museum/
   - firm: ralph-appelbaum-associates
     role: interpretive-planning
+    sources:
+      - https://raai.com/project/international-african-american-museum/
     note: "Planned narrative flow of the nine interior galleries; led community forums shaping the interpretive approach"
   - firm: pei-cobb-freed-and-partners
     role: architecture

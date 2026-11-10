@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/petri-berlin
     note: "interactive exhibition design"
 technologies:
   - interactive kiosk

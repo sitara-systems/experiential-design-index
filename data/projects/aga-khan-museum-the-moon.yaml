@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/aga-khan-museum-the-moon/
 technologies: []
 summary: >
   "The Moon: A Voyage Through Time," a 9,400-square-foot temporary

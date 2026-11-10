@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: mass-design-group
     role: architecture
+    sources:
+      - https://modelofarchitecture.org/projects/embrace
     note: "Architecture, landscape design, and plaza design; conceived with artist Hank Willis Thomas, who designed the bronze sculpture (individual artist, not a firm)"
   - firm: walla-walla-foundry
     role: fabrication

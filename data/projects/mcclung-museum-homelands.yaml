@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: 1220-fabrication
     role: fabrication
+    sources:
+      - https://1220.com/portfolio/mcclung-museum/
 summary: >
   Homelands, a new permanent exhibit on Native art created in collaboration
   with the Cherokee, Coushatta, and Muscogee Nations, opened February 2025

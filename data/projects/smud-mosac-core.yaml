@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/smud-museum-of-science-and-curiosity
     note: "28 media exhibits including gesture-responsive displays and augmented reality"
   - firm: bbi-engineering
     role: av-integration

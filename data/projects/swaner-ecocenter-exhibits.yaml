@@ -6,6 +6,8 @@ year_completed: 2008
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/swaner-ecocenter/
 technologies: []
 summary: >
   The Swaner EcoCenter, an environmental education facility on Utah State

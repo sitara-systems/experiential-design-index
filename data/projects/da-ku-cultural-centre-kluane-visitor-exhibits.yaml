@@ -6,12 +6,18 @@ year_completed: 2013
 credits:
   - firm: d-jensen-and-associates
     role: exhibit-design
+    sources:
+      - https://www.eoslightmedia.com/work/61
     note: "Exhibit designer (David Jensen), per Eos Lightmedia's own project page (no firm record yet)."
   - firm: three-dimensional-services
     role: fabrication
+    sources:
+      - https://www.eoslightmedia.com/work/61
     note: "Eos Lightmedia's supply/integration client for this project, per Eos Lightmedia's own project page (no firm record yet)."
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/61
     note: >
       Provided exhibit lighting design for the gallery and theatre, plus
       supply and integration of exhibit accent lighting, special-effects

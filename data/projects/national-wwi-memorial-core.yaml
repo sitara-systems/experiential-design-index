@@ -12,6 +12,8 @@ credits:
     note: "No firm record yet"
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/national-world-war-i-memorial-and-pershing-park/
 recognition:
   - award: "IES Illumination Award of Merit"
     year: 2025

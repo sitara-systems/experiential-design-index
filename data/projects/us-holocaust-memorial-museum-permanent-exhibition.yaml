@@ -6,8 +6,12 @@ year_completed: 1993
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/united-states-holocaust-memorial-museum/
   - firm: sh-acoustics
     role: acoustics
+    sources:
+      - https://shacoustics.com/united-states-holocaust-memorial-museum/
     note: >
       Acoustical treatment and audio systems design throughout the inaugural
       permanent exhibition; SH Acoustics' own page also credits it with a

@@ -14,6 +14,8 @@ credits:
     note: "(no firm record yet)"
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/mosaic-templars-cultural-center/
     note: "360-degree immersive theater experience"
 technologies:
   - 360-degree projection theater

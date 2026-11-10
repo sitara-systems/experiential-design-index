@@ -6,8 +6,12 @@ year_completed: 2023
 credits:
   - firm: taylor-studios
     role: exhibit-design
+    sources:
+      - https://taylorstudios.com/our-work/allerton-park-visitor-center/
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/allerton-park-visitor-center/
 summary: >
   A 1,000-square-foot redesign of the Robert Allerton Park visitor center in
   Monticello, Illinois, completed in 2023 for the University of Illinois,

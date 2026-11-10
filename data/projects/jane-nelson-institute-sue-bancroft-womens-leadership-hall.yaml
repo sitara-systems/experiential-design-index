@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/suesbancroftwomensleadershiphall-2xn5c-p8kn8
   - firm: sterling-barnett-little
     role: architecture
     note: "no firm record yet"

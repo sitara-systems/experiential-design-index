@@ -9,8 +9,12 @@ credits:
     note: "Exterior architect; no firm record yet"
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/st-louis-kaplan-feldman-holocaust-museum/
   - firm: gallagher-and-associates
     role: content-production
+    sources:
+      - https://gallagherdesign.com/project/st-louis-kaplan-feldman-holocaust-museum/
   - firm: videobred
     role: content-production
     note: Media development

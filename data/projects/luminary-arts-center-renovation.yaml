@@ -9,6 +9,8 @@ credits:
     note: "lead design firm for interior architecture and accessibility-focused renovation; no firm record yet"
   - firm: schuler-shook
     role: lighting-design
+    sources:
+      - https://schulershook.com/projects/luminary-arts-center
     note: theatre planning and lighting design, including a new tension-wire lighting grid and LED fixture upgrade
   - firm: kirkegaard
     role: av-integration

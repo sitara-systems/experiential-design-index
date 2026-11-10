@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: peter-hyde-design
     role: exhibit-design
+    sources:
+      - https://www.peterhydedesign.com/projects/the-pete-dye-room/
 technologies:
   - augmented reality sand table
   - short-format documentary films

@@ -6,8 +6,12 @@ year_completed: 2019
 credits:
   - firm: plus-and-greater-than
     role: exhibit-design
+    sources:
+      - https://www.plusandgreaterthan.com/projects/building-stories-24d5z-gml9e-7h884-hhpxe-za4re-9xftx
   - firm: glowbox
     role: media-design
+    sources:
+      - https://www.glowbox.io/work/soundstack/
     note: "Hardware specification, systems design, and software development"
 technologies:
   - custom MIDI instrument

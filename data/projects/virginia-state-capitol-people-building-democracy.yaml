@@ -6,8 +6,12 @@ year_completed: 2026
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/people-building-democracy-inside-virginias-capitol/
   - firm: c-and-g-partners
     role: interpretive-planning
+    sources:
+      - https://www.cgpartnersllc.com/projects/people-building-democracy-inside-virginias-capitol/
 technologies:
   - digital watercolor portrait gallery
   - 3D-printed LED model

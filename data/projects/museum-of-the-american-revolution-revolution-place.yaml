@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: metcalfe-architecture-and-design
     role: exhibit-design
+    sources:
+      - https://metarchdesign.com/work/revolution-place-discovery-center
     note: "Created the immersive, family-oriented interpretive exhibit, per the firm page; role not further specified."
 technologies: []
 summary: >

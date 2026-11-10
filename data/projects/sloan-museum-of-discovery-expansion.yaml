@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/about/news/re-made-sloan-museum-of-discovery-celebrates-opening/
   - firm: peter-hyde-design
     role: exhibit-design
   - firm: blue-telescope
@@ -15,6 +17,9 @@ credits:
     role: av-integration
   - firm: xibitz
     role: fabrication
+    sources:
+      - https://xibitz.com/sloan-museum-of-discovery/
+      - https://xibitz.com/news-final-exhibit-features-installed-at-sloan-museum-of-discovery-article/
 technologies:
   - touch-screen kiosk
   - motion-triggered AV

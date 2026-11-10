@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: pelli-clarke-and-partners
     role: architecture
+    sources:
+      - https://pcparch.com/work/type/civic-and-cultural
 technologies: []
 summary: >
   The Lola Mora Cultural Center in Jujuy, Argentina, designed by Pelli

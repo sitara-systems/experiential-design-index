@@ -6,11 +6,17 @@ year_completed: 2025
 credits:
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://www.dimin.com/
     note: attraction and environmental design
   - firm: dimensional-innovations
     role: lighting-design
+    sources:
+      - https://www.dimin.com/
   - firm: dimensional-innovations
     role: graphics-wayfinding
+    sources:
+      - https://www.dimin.com/
     note: signage and theming
 summary: >
   Andretti Indoor Karting & Games in Fort Worth, Texas, opened in 2025 as the

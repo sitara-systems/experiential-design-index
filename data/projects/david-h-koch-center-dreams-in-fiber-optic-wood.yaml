@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: c-and-g-partners
     role: media-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/dreams-in-fiber-optic-wood/
 summary: >
   Dreams in Fiber Optic Wood, a lobby installation at the David H. Koch Center
   for Cancer Care, Memorial Sloan Kettering's outpatient facility in New York

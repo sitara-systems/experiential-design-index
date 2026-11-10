@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: studio-matthews
     role: exhibit-design
+    sources:
+      - https://studiomatthews.com/project/fred-hutch-visitor-center/
   - firm: pacific-studio
     role: fabrication
 recognition:

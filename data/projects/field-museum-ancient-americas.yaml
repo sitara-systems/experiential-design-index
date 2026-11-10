@@ -6,6 +6,8 @@ year_completed: 2007
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/ancient-americas
 technologies: []
 summary: >
   Ancient Americas, a 19,000-square-foot permanent exhibition displaying

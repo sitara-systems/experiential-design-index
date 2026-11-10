@@ -6,9 +6,13 @@ year_completed: 2015
 credits:
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://kubikmaltbie.com/project/muzeiko-the-childrens-museum-of-bulgaria/
     note: "Principal contractor"
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://www.availablelight.com/work/muzeiko-childrens-museum-of-bulgaria-exhibit-architecture
     note: "Architectural and exhibit lighting"
   - firm: lee-h-skolnick-design-and-architecture-partnership
     role: architecture

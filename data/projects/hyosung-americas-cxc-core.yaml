@@ -12,6 +12,8 @@ credits:
     note: "No firm record yet"
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/hyosung-americas-customer-experience-center-and-headquarters
 technologies: []
 summary: >
   Hyosung Americas (ATM/financial-technology manufacturer) opened a

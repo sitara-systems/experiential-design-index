@@ -9,6 +9,8 @@ credits:
     note: "Artist; no firm record yet"
   - firm: sitara-systems
     role: media-design
+    sources:
+      - https://www.sitara.systems/new-museum-new-humans/
     technology_tags:
       - artificial-intelligence
     note: >

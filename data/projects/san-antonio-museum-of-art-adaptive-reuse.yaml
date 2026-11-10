@@ -6,6 +6,8 @@ year_completed: 1981
 credits:
   - firm: cambridgeseven
     role: architecture
+    sources:
+      - https://www.cambridgeseven.com/project/san-antonio-museum-of-art-adaptive-reuse/
 technologies: []
 summary: >
   The San Antonio Museum of Art opened March 1, 1981 in an adaptive reuse

@@ -12,6 +12,8 @@ credits:
     note: "associate architect (Fayetteville, AR); no firm record yet"
   - firm: schuler-shook
     role: lighting-design
+    sources:
+      - https://schulershook.com/projects/railyard-park
     note: "no firm record yet"
   - firm: span-studio
     role: graphics-wayfinding

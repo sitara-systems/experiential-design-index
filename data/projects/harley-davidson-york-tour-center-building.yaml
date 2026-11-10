@@ -12,6 +12,8 @@ credits:
     note: "no firm record yet"
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://kubikmaltbie.com/project/harley-davidsons-york-tour-center/
     note: "Fabrication and installation"
 technologies:
   - factory-tour exhibits

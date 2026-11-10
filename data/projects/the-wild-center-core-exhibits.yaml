@@ -11,6 +11,8 @@ credits:
     note: "No firm record yet"
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/The-Wild-Center
 technologies:
   - live animal exhibits
 summary: >

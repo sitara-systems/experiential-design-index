@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: studio-matthews
     role: interpretive-planning
+    sources:
+      - https://studiomatthews.com/project/milgard-hall/
     note: "architecture by Architecture Research Office (ARO)"
 summary: >
   Studio Matthews designed a permanent entry installation, completed in

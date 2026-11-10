@@ -12,8 +12,12 @@ credits:
     note: "No firm record yet"
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/danny-thomas-alsac-pavilion
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/danny-thomas-alsac-pavilion
 technologies:
   - custom AV content mapping
 summary: >

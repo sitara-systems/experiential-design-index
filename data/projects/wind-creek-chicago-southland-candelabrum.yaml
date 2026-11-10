@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: digital-ambiance
     role: lighting-design
+    sources:
+      - https://digitalambiance.com/portfolio/the-wind-creek-candelabrum/
     note: >
       Engineering, mechanical design, CMS programming, and volumetric
       content for the permanent volumetric-LED lobby centerpiece.

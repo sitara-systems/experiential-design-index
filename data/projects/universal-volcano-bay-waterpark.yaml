@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: adirondack-studios
     role: fabrication
+    sources:
+      - https://www.adkstudios.com/portfolio/
     note: >
       Credited in ADK's own portfolio for scenic design, fabrication and
       installation on the water park; role/scope not independently

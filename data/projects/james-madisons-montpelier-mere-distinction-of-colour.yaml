@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/items/the-mere-distinction-of-colour
     note: "Project direction, content development, and graphic design."
   - firm: neal-mayer
     role: exhibit-design
@@ -14,6 +16,8 @@ credits:
     role: fabrication
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/james-madisons-montpelier/
     note: "Media production"
 technologies:
   - multi-screen film

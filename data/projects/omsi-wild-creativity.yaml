@@ -6,8 +6,14 @@ year_completed: 2023
 credits:
   - firm: omsi-creative-services
     role: exhibit-design
+    sources:
+      - https://omsi.edu/wp-content/uploads/2023/05/FINAL-Wild-Creativity-release-3.2023.docx.pdf
+      - https://omsi.edu/exhibit-products/wild-creativity/
   - firm: omsi-creative-services
     role: fabrication
+    sources:
+      - https://omsi.edu/wp-content/uploads/2023/05/FINAL-Wild-Creativity-release-3.2023.docx.pdf
+      - https://omsi.edu/exhibit-products/wild-creativity/
 technologies:
   - bilingual interactive exhibits
 summary: >

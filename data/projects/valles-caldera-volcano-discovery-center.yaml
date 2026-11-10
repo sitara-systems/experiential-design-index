@@ -6,12 +6,24 @@ year_completed: 2025
 credits:
   - firm: ideum
     role: exhibit-design
+    sources:
+      - https://ideum.com/portfolio/valles-caldera-interactive-projection-map-table
+      - https://ideum.com/news/opening-valles-caldera-exhibit
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/valles-caldera-interactive-projection-map-table
+      - https://ideum.com/news/opening-valles-caldera-exhibit
   - firm: ideum
     role: fabrication
+    sources:
+      - https://ideum.com/portfolio/valles-caldera-interactive-projection-map-table
+      - https://ideum.com/news/opening-valles-caldera-exhibit
   - firm: ideum
     role: av-integration
+    sources:
+      - https://ideum.com/portfolio/valles-caldera-interactive-projection-map-table
+      - https://ideum.com/news/opening-valles-caldera-exhibit
 technologies:
   - projection mapping
   - CNC-milled relief model

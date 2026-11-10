@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/lucille-packard-childrens-hospital/
     note: >
       Custom camera-tracking/animation software plus AV hardware for a
       motion-reactive video ribbon.

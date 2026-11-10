@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/chroma-ar
     note: >
       WebAR app (built on the 8th Wall toolkit) revealing the original
       polychromy of an ancient Greek sphinx sculpture, viewable in-gallery

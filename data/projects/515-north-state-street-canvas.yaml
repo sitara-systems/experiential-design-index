@@ -6,9 +6,13 @@ year_completed: 2017
 credits:
   - firm: esi-design
     role: media-design
+    sources:
+      - https://esidesign.com/work/515-north-state-street/
     note: "Experience design lead"
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/515-state
     note: "Custom software development and visualization toolkit"
 technologies:
   - LED display

@@ -15,9 +15,13 @@ credits:
     role: lighting-design
   - firm: solomon-group
     role: technical-consulting
+    sources:
+      - https://solomongroup.com/projects/the-national-wwii-museum-the-uss-tang-submarine-experience
     note: "Technical direction for the exhibit's AV integration"
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/the-national-wwii-museum-the-uss-tang-submarine-experience
 technologies:
   - 360-degree projection
   - show control system

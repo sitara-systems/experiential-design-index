@@ -6,6 +6,8 @@ year_completed: 2008
 credits:
   - firm: kieran-timberlake
     role: architecture
+    sources:
+      - https://kierantimberlake.com/work/cellophane-house/
 technologies: []
 summary: >
   Cellophane House, one of five full-scale prefabricated houses built

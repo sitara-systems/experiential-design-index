@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: brc-imagination-arts
     role: exhibit-design
+    sources:
+      - https://www.brcweb.com/project/stories-of-the-bible/
     note: >
       Concept development, design detail, production, immersive media
       production, fabrication, installation, and technical systems for the

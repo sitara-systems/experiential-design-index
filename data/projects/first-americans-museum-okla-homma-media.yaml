@@ -14,6 +14,8 @@ credits:
     note: "Prime exhibit fabricator"
   - firm: batwin-and-robin
     role: content-production
+    sources:
+      - https://www.batwinandrobin.com/projects/first-americans-museum/
     note: >
       Four large-scale immersive media experiences within the OKLA HOMMA
       exhibition: the 270-degree Origins Theater, Uprooted, The Exit

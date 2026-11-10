@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet; Buffalo-based architect of record"
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/buffalo-zoo-arctic-edge-exhibit/
     note: "on this credit's counterpart firms; per Hadley's own portfolio"
 technologies:
   - underwater viewing

@@ -13,6 +13,8 @@ credits:
     role: fabrication
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/museum-of-money
 technologies:
   - real-time graphics
   - interactive kiosk

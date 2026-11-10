@@ -12,6 +12,8 @@ credits:
       spaces); no firm record yet.
   - firm: dangermond-keane-architecture
     role: architecture
+    sources:
+      - https://bearingarchitecture.com/portfolio/omsi-coastal-discovery-center/
     note: "Executive architect"
 summary: >
   OMSI's Coastal Discovery Center at Camp Gray, a 20-acre outdoor

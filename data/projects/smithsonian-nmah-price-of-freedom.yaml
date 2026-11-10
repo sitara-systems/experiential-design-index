@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://d-and-p.com/military-museums
 technologies: []
 summary: >
   "The Price of Freedom: Americans at War," a permanent exhibition

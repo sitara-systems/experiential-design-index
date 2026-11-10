@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: moment-factory
     role: media-design
+    sources:
+      - https://momentfactory.com/products/att-discovery-district
     note: "Content and control systems for a 104-foot, 6K media wall and a two-story, ~5,800-linear-foot LED trellis; distinct from The Globe sculpture at the same venue"
   - firm: electrosonic
     role: av-integration

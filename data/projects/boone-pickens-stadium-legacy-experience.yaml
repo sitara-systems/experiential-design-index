@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/the-boone-pickens-legacy-experience
     note: "Lead experience designer"
   - firm: amaze-design
     role: exhibit-design

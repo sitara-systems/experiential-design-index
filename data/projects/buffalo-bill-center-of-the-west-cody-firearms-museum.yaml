@@ -11,11 +11,15 @@ credits:
     note: "Formerly CTA Architects Engineers / \"CTA Group\"; no firm record yet"
   - firm: creo-industrial-arts
     role: fabrication
+    sources:
+      - https://www.creoindustrialarts.com/portfolio/cody-firearms-museum/
     note: >
       Developed and built 25 interactives, mounted and installed over 10,000
       artifacts, and produced and installed over 450 graphics
   - firm: schuler-shook
     role: lighting-design
+    sources:
+      - https://schulershook.com/projects/cody-firearms-museum-buffalo-bill-center-of-the-west
     note: >
       Architectural and exhibit lighting design and design of a new lighting
       control system, including overhead lighting, lighting integrated into
@@ -23,9 +27,13 @@ credits:
       area at the firm; provided onsite aiming and level setting
   - firm: mode-systems
     role: av-integration
+    sources:
+      - https://www.modesystems.com/our-work/cody-firearms-2.html
     note: "Installed all new interactives as part of the renovation; no firm record yet"
   - firm: videobred
     role: content-production
+    sources:
+      - https://videobred.com/projects/the-cody-firearms-museum/
     note: >
       Produced five orientation and thematic films for the reimagined
       galleries, partnering with Gallagher & Associates

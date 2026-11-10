@@ -6,6 +6,8 @@ year_completed: 2005
 credits:
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/afterwords/
 summary: >
   Afterwords, a collaborative interactive poetry installation
   commissioned for the "Help Wanted" exhibition at the Center on

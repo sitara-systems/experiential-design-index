@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
 - firm: frederick-fisher-and-partners
   role: architecture
+  sources:
+    - https://fisherpartners.net/project/flint-institute-of-arts/
 summary: >
   The 150,000-square-foot expansion of the Flint Institute of Arts in Flint, Michigan,
   completed in 2018, was designed by Frederick Fisher and Partners and added a

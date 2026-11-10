@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://www.availablelight.com/work/museum-at-prairie-fire
 summary: >
   Museum at Prairiefire, a new natural history museum in Overland Park,
   KS, opened May 2014, with architecture by Verner Johnson Architects and

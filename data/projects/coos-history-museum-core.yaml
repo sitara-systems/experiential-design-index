@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/187
 technologies: []
 summary: >
   The Coos History Museum & Maritime Collections opened in Coos Bay,

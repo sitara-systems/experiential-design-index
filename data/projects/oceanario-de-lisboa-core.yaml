@@ -6,6 +6,8 @@ year_completed: 1998
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/projects/
     note: "Design led by Peter Chermayeff"
 summary: >
   Oceanário de Lisboa, a public aquarium in Lisbon, Portugal, opened 1998

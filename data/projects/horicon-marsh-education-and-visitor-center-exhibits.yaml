@@ -6,8 +6,12 @@ year_completed: 2014
 credits:
   - firm: taylor-studios
     role: exhibit-design
+    sources:
+      - https://taylorstudios.com/our-work/horicon-marsh-education-visitor-center/
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/horicon-marsh-education-visitor-center/
 summary: >
   A 5,573-square-foot exhibit experience (updated 2019) at the Horicon
   Marsh Education & Visitor Center in Horicon, Wisconsin, completed in 2014

@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/madball
     note: >
       Capacitive-fruit-controlled Pong-style game built for the museum's 60th
       annual MAD Ball gala.

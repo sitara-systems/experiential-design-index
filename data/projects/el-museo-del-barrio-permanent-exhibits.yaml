@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
 - firm: c-and-g-partners
   role: exhibit-design
+  sources:
+    - https://www.cgpartnersllc.com/projects/el-museo-del-barrio-permanent-exhibits/
   note: Designed the exhibit display system for the renovated galleries, with a
     dual-language graphic system.
 summary: The renovated El Museo del Barrio in New York City reopened on October

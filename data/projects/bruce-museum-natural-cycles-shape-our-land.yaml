@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: metcalfe-architecture-and-design
     role: exhibit-design
+    sources:
+      - https://metarchdesign.com/work/science-gallery-exhibit-design
     note: "Reimagined the permanent natural history gallery as part of the museum expansion, per the firm page."
   - firm: night-kitchen-interactive
     role: media-design

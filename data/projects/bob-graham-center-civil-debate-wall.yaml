@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/work/higher-ed/civil-debate-wall/
     note: "Synchronized media wall for collaborative public debate, funded by a Knight Foundation grant"
   - firm: zenith-systems
     role: av-integration

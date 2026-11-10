@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: studio-matthews
     role: interpretive-planning
+    sources:
+      - https://studiomatthews.com/project/seattle-design-festival-vacant-seattle/
   - firm: imagine-visual-services
     role: fabrication
     note: "credited as Imagine Visual Services"

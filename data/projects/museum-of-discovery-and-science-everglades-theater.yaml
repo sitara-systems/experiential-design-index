@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com
   - firm: 1220-fabrication
     role: fabrication
   - firm: 1220-fabrication

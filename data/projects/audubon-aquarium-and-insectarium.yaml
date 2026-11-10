@@ -9,8 +9,12 @@ credits:
     note: "no firm record yet"
   - firm: cambridgeseven
     role: architecture
+    sources:
+      - https://www.cambridgeseven.com/project/audubon-nature-institute-butterfly-garden-insectarium/
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/audubon-nature-institute-butterfly-garden-insectarium/
 technologies:
   - interactive video wall
   - proximity-activated surround sound

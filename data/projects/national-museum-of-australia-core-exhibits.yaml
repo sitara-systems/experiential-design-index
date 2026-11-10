@@ -6,6 +6,8 @@ year_completed: 2001
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/national-museum-of-australia-5wr28-bfdl3
     note: "Interpretive exhibition design, media/new-media integration, architectural and landscape integration"
 summary: >
   The National Museum of Australia in Canberra opened 2001 with over

@@ -6,12 +6,16 @@ year_completed: 2014
 credits:
   - firm: bnim
     role: architecture
+    sources:
+      - https://www.bnim.com/project/scott-visitor-center-summit-bechtel-scout-reserve
     note: "Architect of record; no firm record yet"
   - firm: lake-flato-architects
     role: architecture
     note: "Co-architect; no firm record yet"
   - firm: volume-inc
     role: exhibit-design
+    sources:
+      - https://volumesf.com/work/boy-scout-visitor-center/
     note: "No firm record yet"
   - firm: studio-terpeluk
     role: exhibit-design

@@ -6,6 +6,9 @@ year_completed: 2023
 credits:
 - firm: moment-factory
   role: media-design
+  sources:
+    - https://momentfactory.com/products/mission-mars
+    - https://momentfactory.com/products/innovation-earth
   note: Multimedia content for the Museum of Science Immersive Gallery
 summary: 'Mission: Mars, one of two experiences that debuted the Museum of Science,
   Boston''s Immersive Gallery, takes visitors to Mars to search for evidence of

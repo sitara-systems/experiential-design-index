@@ -18,8 +18,12 @@ credits:
     note: "As The Freelon Group; no firm record yet"
   - firm: the-design-minds
     role: exhibit-design
+    sources:
+      - https://thedesignminds.com/project-mississippi/
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/museum-of-mississippi-history/
 technologies:
   - multi-screen theater film
   - visitor reflection booth

@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
 - firm: clr-design
   role: exhibit-design
+  sources:
+    - https://clrdesign.com/project/hogle-zoo-rocky-shores/
   note: Exhibit design per CLR Design's project page.
 summary: Rocky Shores, an $18 million, 3.5-acre habitat for polar bears, grizzly
   bears, sea lions, seals and otters at Utah's Hogle Zoo in Salt Lake City, Utah,

@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/living-core
     note: "Concept design of the aquarium, including the Gulf Stream Tank"
   - firm: grimshaw-architects
     role: architecture

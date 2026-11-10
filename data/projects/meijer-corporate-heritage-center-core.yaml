@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: history-associates
     role: interpretive-planning
+    sources:
+      - https://www.historyassociates.com/case-studies/meijer-corporate-heritage-center/
     note: "Preliminary assessment, historical-asset inventory, content development, panel text, image acquisition"
 technologies: []
 summary: >

@@ -7,6 +7,8 @@ status: completed
 credits:
   - firm: batwin-and-robin
     role: media-design
+    sources:
+      - https://www.batwinandrobin.com/projects/rock-roll-hall-fame-annex-nyc/
 technologies:
   - immersive projection
   - kinetic lighting

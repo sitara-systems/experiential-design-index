@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/troy-myth-and-reality
 technologies: []
 summary: >
   "Troy: Myth and Reality," a temporary exhibition at the British

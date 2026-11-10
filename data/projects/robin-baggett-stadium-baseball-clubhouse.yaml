@@ -6,8 +6,12 @@ year_completed: 2020
 credits:
   - firm: dlr-group
     role: architecture
+    sources:
+      - https://www.dlrgroup.com/award/2022-graphis-cal-poly/
   - firm: dlr-group
     role: graphics-wayfinding
+    sources:
+      - https://www.dlrgroup.com/award/2022-graphis-cal-poly/
     note: >
       In-house Experiential Graphic Design; team-history storytelling,
       donor recognition, dynamic scoreboard referencing pivotal moments

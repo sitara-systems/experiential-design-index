@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: aldrichpears-associates
     role: exhibit-design
+    sources:
+      - https://aldrichpears.com/project/washington-state-history-museum-360-gallery/
 summary: >
   The 360 Gallery, an interactive gallery on Washington State's geography
   and natural resources, opened at the Washington State History Museum in

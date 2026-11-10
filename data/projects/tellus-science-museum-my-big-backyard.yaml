@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: proun-design
     role: graphics-wayfinding
+    sources:
+      - https://www.proundesign.com/science/my-big-backyard
     note: "Exhibit graphics"
   - firm: murphy-catton
     role: fabrication

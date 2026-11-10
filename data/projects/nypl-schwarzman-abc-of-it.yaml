@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: pure-and-applied
     role: exhibit-design
+    sources:
+      - https://pureandappliedstudio.com/project/abc-of-it-why-childrens-books-matter
 technologies:
   - motion-activated interactive figure
 summary: >

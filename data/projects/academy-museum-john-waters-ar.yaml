@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/john-waters-ar
     note: >
       Face-swap AR web app accompanying the "John Waters: Pope of Trash"
       retrospective, transforming visitors into five characters from Waters'

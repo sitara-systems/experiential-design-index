@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: snohetta
     role: architecture
+    sources:
+      - https://www.snohetta.com/projects/national-september-11-memorial-museum-pavilion
     note: "Design architect for the above-ground glass entry pavilion (distinct from the underground museum exhibition, see national-september-11-memorial-museum-exhibition)"
   - firm: adamson-associates
     role: architecture

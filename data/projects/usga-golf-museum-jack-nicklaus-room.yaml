@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: peter-hyde-design
     role: exhibit-design
+    sources:
+      - https://www.peterhydedesign.com/projects/jack-nicklaus-room/
 technologies:
   - short-format documentary films
   - interactive touch displays

@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/new-mexican-art-at-moifa
     note: Touch-and-projection interactive letting visitors pan, zoom, and hear bilingual readings of Policarpio Valencia's embroidered textiles
 technologies:
   - touchscreen

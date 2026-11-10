@@ -6,8 +6,12 @@ year_completed: 2006
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/chabot-space-science-center-moon-odyssey/
   - firm: gizmo-art-production
     role: fabrication
+    sources:
+      - https://gizmosf.com/portfolio/chabot-science-center/
     note: >
       No firm record yet; Gizmo Art Production's own portfolio lists "A Moon
       Odyssey" among eleven interactive exhibits it fabricated for Chabot in

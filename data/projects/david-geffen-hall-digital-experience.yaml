@@ -9,6 +9,8 @@ credits:
     note: "Experience design lead for the digital layer; project realized in support of ESI Design"
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/dgh
     note: "Designed and implemented 22 digital elements across the lobby, Welcome Center, Sidewalk Studio, and Music Box"
   - firm: tod-williams-billie-tsien-architects
     role: architecture

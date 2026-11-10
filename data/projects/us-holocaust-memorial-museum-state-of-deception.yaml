@@ -12,6 +12,8 @@ credits:
     note: "No firm record yet"
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/state-of-deception-power-nazi-propaganda
 technologies: []
 summary: >
   "State of Deception: The Power of Nazi Propaganda," a temporary

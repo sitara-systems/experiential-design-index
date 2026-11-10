@@ -6,6 +6,8 @@ year_completed: 2008
 credits:
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/engine-wall/
   - firm: ashton-design
     role: exhibit-design
 summary: >

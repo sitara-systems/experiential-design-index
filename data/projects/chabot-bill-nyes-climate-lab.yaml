@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/billnyesclimatelab-f8t53-saw3w
   - firm: general-graphics
     role: fabrication
     note: "no firm record yet"

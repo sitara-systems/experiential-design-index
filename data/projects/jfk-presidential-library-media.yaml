@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/jfk-presidential-library
     note: "20+ media installations incl. interactive civil-rights timeline and press-conference simulator"
   - firm: electrosonic
     role: av-integration

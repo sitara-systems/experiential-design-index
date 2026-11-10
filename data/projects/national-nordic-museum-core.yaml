@@ -8,6 +8,8 @@ credits:
     role: architecture
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/national-nordic-museum/
 technologies: []
 summary: >
   The National Nordic Museum in Seattle opened May 5, 2018; architecture

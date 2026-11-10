@@ -6,8 +6,12 @@ year_completed: 2013
 credits:
   - firm: peter-hyde-design
     role: exhibit-design
+    sources:
+      - http://www.peterhydedesign.com/projects/chicago-bears-halas-hall-experience/
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/portfolio/chicago-bears-headquarters/
     note: "Five-screen video wall and interactives: player database, historical timeline, trivia, video highlights"
   - firm: chicago-scenic-studios
     role: fabrication

@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects/symantec-experience-center
 technologies:
   - client briefing systems
 summary: >

@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: diller-scofidio-renfro
     role: exhibit-design
+    sources:
+      - https://dsrny.com/project/pierre-chareau
 technologies: []
 summary: >
   "Pierre Chareau: Modern Architecture and Design," a temporary exhibition

@@ -6,8 +6,12 @@ year_completed: 2014
 credits:
   - firm: taylor-studios
     role: exhibit-design
+    sources:
+      - https://taylorstudios.com/our-work/lincoln-heritage-museum/
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/lincoln-heritage-museum/
 summary: >
   Taylor Studios designed and constructed two floors of gallery space,
   totaling 4,000 square feet, for the Lincoln Heritage Museum on the Lincoln

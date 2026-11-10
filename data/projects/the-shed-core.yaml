@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: diller-scofidio-renfro
     role: architecture
+    sources:
+      - https://dsrny.com/project/the-shed
   - firm: rockwell-group
     role: architecture
   - firm: fisher-dachs-associates

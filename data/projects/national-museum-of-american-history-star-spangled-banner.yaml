@@ -6,6 +6,9 @@ year_completed: 2008
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/national-museum-of-american-history-star-spangled-banner-exhibit/
+      - https://www.cgpartnersllc.com/projects/national-museum-of-american-history-interactive-multimedia-exhibit/
   - firm: skidmore-owings-and-merrill
     role: architecture
   - firm: rbh

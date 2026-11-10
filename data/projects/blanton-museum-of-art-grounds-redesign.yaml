@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: snohetta
     role: architecture
+    sources:
+      - https://www.snohetta.com/projects/blanton-museum-of-art-grounds-redesign
   - firm: snohetta
     role: landscape-architecture
+    sources:
+      - https://www.snohetta.com/projects/blanton-museum-of-art-grounds-redesign
 technologies: []
 summary: >
   A roughly three-year, 200,000-square-foot transformation of the Blanton

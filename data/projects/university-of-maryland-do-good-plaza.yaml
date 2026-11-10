@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/work/higher-ed/do-good-plaza/
     note: "Interactive ring installations at the Do Good Institute's campus plaza"
 technologies:
   - interactive sculpture

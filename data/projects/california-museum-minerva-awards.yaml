@@ -7,6 +7,8 @@ status: completed
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/the-minerva-awards/
 summary: >
   The Minerva Award Exhibit, a permanent-gallery installation at The
   California Museum in Sacramento honoring recipients of the Minerva Awards

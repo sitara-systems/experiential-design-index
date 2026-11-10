@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: william-rawn-associates
     role: architecture
+    sources:
+      - https://rawnarch.com/projects/gordon-center-for-creative-performing-arts.html
     note: "Architect, per William Rawn Associates' project page (Completion 2023)."
 summary: >
   William Rawn Associates designed the Gordon Center for Creative and Performing Arts for Colby College in Waterville, ME, completed in 2023.

@@ -9,6 +9,8 @@ credits:
     note: "Exhibition design collaboration; no firm record yet"
   - firm: span-studio
     role: graphics-wayfinding
+    sources:
+      - https://span.studio/projects/reframed
     note: "Design direction, branding, and graphic language, based on a cross-laminated-timber construction grid"
   - firm: ravenswood-studio
     role: fabrication

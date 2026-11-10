@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: pure-and-applied
     role: exhibit-design
+    sources:
+      - https://pureandappliedstudio.com/project/designing-home-jews-and-midcentury-modernism
     note: "Also designed and art-directed the accompanying catalogue"
 technologies: []
 summary: >

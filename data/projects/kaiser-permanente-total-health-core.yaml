@@ -6,8 +6,12 @@ year_completed: 2011
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/kaiser-permanente-center-for-total-health/
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/kaiser-permanente-center-for-total-health
     note: "AV design, engineering, specialty audio, interactive technologies, fabrication and installation"
 technologies:
   - interactive multitouch wall

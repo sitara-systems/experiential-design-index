@@ -7,6 +7,8 @@ status: completed
 credits:
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "Exhibition in the Lynn Boillot Art Galleries, per CMS's own portfolio"
 technologies: []
 summary: >

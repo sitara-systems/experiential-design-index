@@ -6,11 +6,15 @@ year_completed: 2024
 credits:
   - firm: populous
     role: architecture
+    sources:
+      - https://populous.com/showcases/university-of-nebraska-lincoln-osborne-legacy-complex
   - firm: bvh-architecture
     role: architecture
     note: "no firm record yet"
   - firm: dimensional-innovations
     role: fabrication
+    sources:
+      - https://dimin.com/work/university-of-nebraska-osborne-legacy-complex
     note: "Physical and digital fabrication; no firm record yet"
   - firm: ecc
     role: av-integration

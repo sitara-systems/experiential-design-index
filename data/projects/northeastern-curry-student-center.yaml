@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/northeastern-curry-student-center
     note: "55-inch touchscreen student-organization directory synced daily to university databases"
 technologies:
   - touchscreen kiosk

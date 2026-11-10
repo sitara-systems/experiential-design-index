@@ -9,6 +9,8 @@ credits:
     note: "Exhibition design and architecture; no firm record yet"
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/academy-museum-of-motion-pictures
     note: Primary AV integrator across four exhibition floors, 75+ installations
   - firm: available-light
     role: lighting-design

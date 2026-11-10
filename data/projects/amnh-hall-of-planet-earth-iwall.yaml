@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: art-guild-inc
     role: fabrication
+    sources:
+      - https://www.artguildinc.com/2019/10/15/art-guild-helps-visitors-explore-100000-years-of-climate-change/
 technologies:
   - interactive sliding-track touchscreen
 summary: >

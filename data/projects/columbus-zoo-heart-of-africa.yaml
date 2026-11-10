@@ -6,10 +6,18 @@ year_completed: 2014
 credits:
   - firm: pgav-destinations
     role: architecture
+    sources:
+      - https://pgavdestinations.com/project/the-columbus-zoos-heart-of-africa/
+      - https://pgavdestinations.com/news/heart-of-africa-now-open-at-the-columbus-zoo-and-aquarium/
   - firm: pgav-destinations
     role: master-planning
+    sources:
+      - https://pgavdestinations.com/project/the-columbus-zoos-heart-of-africa/
+      - https://pgavdestinations.com/news/heart-of-africa-now-open-at-the-columbus-zoo-and-aquarium/
   - firm: nassal
     role: fabrication
+    sources:
+      - https://www.nassal.com/projects/heart-of-africa-at-columbus-zoo-aquarium
   - firm: roto
     role: interpretive-planning
     note: "Credited on the venue's own zoolex.org design/build credit page as \"Interpretive design\""

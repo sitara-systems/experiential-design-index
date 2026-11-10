@@ -6,8 +6,12 @@ year_completed: 2023
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/ikea-action-speaks
   - firm: isometric-studio
     role: architecture
+    sources:
+      - https://isometricstudio.com/ikea-action-speaks
 technologies: []
 summary: >
   Action Speaks Summit, an IKEA/Ingka Group event held during New York

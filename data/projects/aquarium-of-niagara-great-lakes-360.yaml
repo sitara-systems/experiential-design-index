@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: taylor-studios
     role: exhibit-design
+    sources:
+      - https://taylorstudios.com/our-work/great-lakes-360/
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/great-lakes-360/
 summary: >
   A 1,000-square-foot suite of interactive Great Lakes ecology exhibits at
   the Aquarium of Niagara in Niagara Falls, New York, completed in 2024 by

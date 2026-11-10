@@ -11,8 +11,12 @@ credits:
       School, a National Historic Landmark, into the museum building.
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/work/museums-attractions/planet-word-museum-of-words-and-language/
   - firm: local-projects
     role: media-design
+    sources:
+      - https://localprojects.com/work/museums-attractions/planet-word-museum-of-words-and-language/
   - firm: solomon-group
     role: fabrication
     note: "."
@@ -21,6 +25,8 @@ credits:
     note: "."
   - firm: sh-acoustics
     role: acoustics
+    sources:
+      - https://shacoustics.com/planet-word-museum/
     note: >
       Audio delivery system integration, acoustic control design, and
       calibration, maintaining minimal visible audio equipment while

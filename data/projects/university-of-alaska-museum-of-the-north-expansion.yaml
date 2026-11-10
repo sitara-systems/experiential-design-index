@@ -6,6 +6,8 @@ year_completed: 2005
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/university-of-alaska-museum-of-the-north/
 technologies: []
 summary: >
   A 78,500 sq ft expansion of the University of Alaska Museum of the North

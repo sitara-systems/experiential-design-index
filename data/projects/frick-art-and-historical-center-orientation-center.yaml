@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
 - firm: belle-and-wissell
   role: media-design
+  sources:
+    - https://bwco.info/work/the-frick/
   note: 'Interactive design and wayfinding for the Orientation Center: Multiplex
     screens, interactive map, collection touch tables and story viewers.'
 technologies:

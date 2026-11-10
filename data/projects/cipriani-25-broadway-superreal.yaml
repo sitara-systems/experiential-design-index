@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: moment-factory
     role: media-design
+    sources:
+      - https://momentfactory.com/products/superreal
     note: >
       360-degree projection mapping, interactive visuals, architectural
       lighting, and immersive sound across five virtual realms; permanently

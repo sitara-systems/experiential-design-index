@@ -7,6 +7,8 @@ status: completed
 credits:
   - firm: mad-systems
     role: av-integration
+    sources:
+      - https://madsystems.com/portfolio-pennypickle.html
     note: >
       Designed and installed the SATTA time/space-travel console, including
       dual-projector immersive ceiling/floor projection and spatial-audio

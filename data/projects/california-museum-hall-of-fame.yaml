@@ -7,6 +7,8 @@ status: completed
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/the-california-museum-hall-of-fame/
 summary: >
   The California Hall of Fame, a 40-by-7-foot lobby installation at The
   California Museum in Sacramento established in 2006 to honor inductees'

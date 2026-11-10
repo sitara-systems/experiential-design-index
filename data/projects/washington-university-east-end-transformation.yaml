@@ -12,6 +12,8 @@ credits:
     note: "Donor recognition"
   - firm: kieran-timberlake
     role: architecture
+    sources:
+      - https://kierantimberlake.com/work/east-end-transformation/
     note: "Architect for 5 of 8 East End capital components"
 technologies:
   - environmental graphics

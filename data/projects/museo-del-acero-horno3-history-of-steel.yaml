@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com
 summary: >
   History of Steel Museum, a companion gallery at Museo del Acero Horno3 in
   Monterrey, Mexico, opened 2007, with exhibit design by AldrichPears

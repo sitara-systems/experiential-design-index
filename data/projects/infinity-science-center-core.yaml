@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/infinity-science-center
     note: "Deep Ocean Explorer, Hurricane Simulator, and Inundation Station installations"
   - firm: designforce
     role: exhibit-design

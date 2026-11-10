@@ -9,6 +9,8 @@ credits:
     note: "Created the exhibit, per Lightswitch's portfolio page."
   - firm: lightswitch
     role: lighting-design
+    sources:
+      - https://lightswitch.net/work/view/berlin-wall-exhibit
     note: "Fixture selection, pixel-controllable LED tape behind the wall and lighting programmed to the exhibit video and audio cues."
 technologies:
   - LED lighting

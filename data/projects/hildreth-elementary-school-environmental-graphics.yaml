@@ -6,9 +6,13 @@ year_completed: 2021
 credits:
   - firm: arrowstreet
     role: architecture
+    sources:
+      - https://www.arrowstreet.com/portfolio/hildreth-elementary-school/
     note: "No firm record yet."
   - firm: arrowstreet
     role: graphics-wayfinding
+    sources:
+      - https://www.arrowstreet.com/portfolio/hildreth-elementary-school/
     note: >
       No firm record yet. In-house Graphic Design Studio: 82-foot heritage
       mural, classroom identification graphics, custom sunscreens, and

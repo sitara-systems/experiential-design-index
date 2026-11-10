@@ -9,6 +9,8 @@ credits:
   note: No firm record yet
 - firm: kubik-maltbie
   role: fabrication
+  sources:
+    - https://kubikmaltbie.com/project/mobius-science-center/
 summary: >
   The Mobius Science Center in Spokane, Washington, a science museum with 12,000
   square feet of exhibits and 65 interactive experiences, opened in September

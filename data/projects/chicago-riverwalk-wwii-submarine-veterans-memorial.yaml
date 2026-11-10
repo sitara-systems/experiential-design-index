@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://www.chicagoscenic.com/projects/world-war-ii-submarine-veterans-memorial
     note: "Project management, fabrication, and installation; refurbished the USS Trout watertight door and fabricated custom benches"
 technologies:
   - restored historic submarine hardware

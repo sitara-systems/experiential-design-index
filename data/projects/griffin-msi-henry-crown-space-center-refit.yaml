@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: lightswitch
     role: lighting-design
+    sources:
+      - https://lightswitch.net/work/view/gmsi-henry-crown-space-center
     note: "Replaced the ceiling structure with a new LED array and pixel-mapped lighting above the Apollo and Dragon displays, per the firm's portfolio page."
   - firm: bridgewater-studios
     role: exhibit-design

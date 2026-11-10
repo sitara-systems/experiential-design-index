@@ -6,8 +6,12 @@ year_completed: 1992
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/minnesota-history-center/
   - firm: hga
     role: landscape-architecture
+    sources:
+      - https://hga.com/projects/minnesota-history-center/
 technologies: []
 summary: >
   The Minnesota History Center in St. Paul opened 1992; architecture

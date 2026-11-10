@@ -6,12 +6,18 @@ year_completed: 2020
 credits:
   - firm: split-rock-studios
     role: exhibit-design
+    sources:
+      - https://splitrockstudios.com/in-the-news-ozark-highlands-nature-center-exhibits-now-open/
     note: "no firm record yet"
   - firm: split-rock-studios
     role: fabrication
+    sources:
+      - https://splitrockstudios.com/in-the-news-ozark-highlands-nature-center-exhibits-now-open/
     note: "no firm record yet"
   - firm: northern-light-productions
     role: media-design
+    sources:
+      - https://nlprod.com/item/ozark-highlands-nature-center/
     note: "Digital Stream Interactive and other environmental media programs"
 technologies:
   - interactive touchscreen

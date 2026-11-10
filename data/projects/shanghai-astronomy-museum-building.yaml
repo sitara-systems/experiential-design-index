@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
 - firm: ennead-architects
   role: architecture
+  sources:
+    - https://ennead.com/work/shanghai-astronomy-museum/
 summary: >
   The Shanghai Astronomy Museum, a 420,000-square-foot astronomy museum in Shanghai,
   China, completed in 2021, was designed by Ennead Architects.

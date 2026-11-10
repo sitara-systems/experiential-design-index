@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: isometric-studio
     role: landscape-architecture
+    sources:
+      - https://isometricstudio.com/urban-retreat
     note: "Competition entry garden with a Reading Nook, Reflection Space, Tea Pavilion, and Nap Hill, designed around COVID-era social distancing"
 summary: >
   Urban Retreat, a garden installation at the Seoul International Garden

@@ -6,6 +6,8 @@ year_completed: 2000
 credits:
 - firm: frederick-fisher-and-partners
   role: architecture
+  sources:
+    - https://fisherpartners.net/project/long-beach-museum-of-art/
 summary: >
   The 12,800-square-foot renovation and expansion of the Long Beach Museum of
   Art in Long Beach, California, completed in 2000, was designed by Frederick

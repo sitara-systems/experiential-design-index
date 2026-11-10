@@ -6,8 +6,12 @@ year_completed: 2003
 credits:
   - firm: hok
     role: architecture
+    sources:
+      - https://www.hok.com/projects/view/national-air-and-space-museum-steven-f-udvar-hazy-center/
   - firm: hok
     role: landscape-architecture
+    sources:
+      - https://www.hok.com/projects/view/national-air-and-space-museum-steven-f-udvar-hazy-center/
 technologies:
   - large-artifact hanging/suspension display systems
   - environmental artifact-preservation controls

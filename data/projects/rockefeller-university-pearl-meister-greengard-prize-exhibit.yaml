@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/honoring-women-scientists/
 technologies:
   - dichroic film
   - etched portraits

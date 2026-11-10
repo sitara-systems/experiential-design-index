@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/agua-caliente-cultural-museum
     note: "360-degree Creation and Migration theater and projection-mapped Coachella Valley timeline"
   - firm: bbi-engineering
     role: av-integration

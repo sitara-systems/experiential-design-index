@@ -6,12 +6,16 @@ year_completed: 2017
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/americanwritersmuseum-khf43-smzmh
   - firm: chicago-scenic-studios
     role: fabrication
   - firm: available-light
     role: lighting-design
   - firm: northern-light-productions
     role: media-design
+    sources:
+      - https://nlprod.com/item/american-writers-museum/
     note: "Word Waterfall projection-mapped program; American Themes and Featured Works interactive touch-tables"
   - firm: silver-oaks-communication
     role: media-design

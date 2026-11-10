@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: gyroscope-inc
     role: exhibit-design
+    sources:
+      - https://gyroscopeinc.com/projects
     note: "Gyroscope selected 2014; 15,000 sq ft upper-floor interactive space."
 technologies: []
 summary: >

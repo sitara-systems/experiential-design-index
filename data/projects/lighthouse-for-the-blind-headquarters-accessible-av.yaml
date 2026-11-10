@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/lighthouse-for-the-blind-and-visually-impaired/
     note: >
       Fully accessible non-touchscreen tactile/audio AV control system
       for boardroom, conference rooms, and public spaces, usable

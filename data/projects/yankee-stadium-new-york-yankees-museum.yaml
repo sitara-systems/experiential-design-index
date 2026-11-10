@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
 - firm: c-and-g-partners
   role: exhibit-design
+  sources:
+    - https://www.cgpartnersllc.com/projects/new-york-yankees-museum/
   note: Designed the 6,000-square-foot museum including the Don Larsen perfect-game
     ball wall.
 summary: The New York Yankees Museum, a 6,000-square-foot gallery at Yankee Stadium

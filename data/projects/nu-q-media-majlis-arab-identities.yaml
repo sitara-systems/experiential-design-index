@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: unified-field
     role: exhibit-design
+    sources:
+      - https://www.unifiedfield.com/projects/nu-q-media-majlis
 summary: >
   The Media Majlis Museum at Northwestern University in Qatar, Doha,
   opened 2019, with exhibit design by Unified Field.

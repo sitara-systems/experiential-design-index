@@ -6,11 +6,17 @@ year_completed: 2025
 credits:
   - firm: split-rock-studios
     role: exhibit-design
+    sources:
+      - https://splitrockstudios.com/norway-house/
   - firm: split-rock-studios
     role: fabrication
+    sources:
+      - https://splitrockstudios.com/norway-house/
     note: "hand-carved Wood Wall and wood furnishings"
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/saga-center
 technologies:
   - immersive technology
 summary: >

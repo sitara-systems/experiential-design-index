@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/old-south-meeting-house
     note: "27-minute projection-mapped animated production across the historic meeting house interior"
   - firm: electrosonic
     role: av-integration

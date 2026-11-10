@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: moment-factory
     role: media-design
+    sources:
+      - https://momentfactory.com/products/photo-ark-animals-of-earth
     note: >
       Creative and technical direction (narrative, scenography, lighting,
       music, sound design) for a six-zone immersive exhibition reimagining

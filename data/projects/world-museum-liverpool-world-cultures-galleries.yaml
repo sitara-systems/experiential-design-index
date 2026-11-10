@@ -6,6 +6,8 @@ year_completed: 2005
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com
   - firm: law-dunbar-nasmith-architects
     role: architecture
     note: "UK architect of record; no firm record yet"

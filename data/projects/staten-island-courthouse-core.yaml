@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: ennead-architects
     role: architecture
+    sources:
+      - https://ennead.com/work/staten-island-courthouse/
   - firm: ricci-greene-associates
     role: technical-consulting
     note: "Courts planning consultant; no firm record yet"

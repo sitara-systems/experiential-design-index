@@ -6,8 +6,12 @@ year_completed: 2014
 credits:
   - firm: the-prd-group
     role: exhibit-design
+    sources:
+      - https://theprdgroup.com/project/alabama-voices
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://www.availablelight.com/work/alabama-voices-at-the-museum-of-alabama-exhibits
   - firm: videobred
     role: content-production
     note: "Media production, phases 1 & 2, with Donna Lawrence Productions; per The PRD Group's own project page"

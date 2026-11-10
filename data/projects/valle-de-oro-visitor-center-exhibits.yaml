@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/
 technologies:
   - interactive kiosks
 summary: >

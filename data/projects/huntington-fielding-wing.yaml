@@ -6,8 +6,12 @@ year_completed: 2016
 credits:
 - firm: frederick-fisher-and-partners
   role: architecture
+  sources:
+    - https://fisherpartners.net/project/the-jonathan-and-karin-fielding-wing/
 - firm: frederick-fisher-and-partners
   role: exhibit-design
+  sources:
+    - https://fisherpartners.net/project/the-jonathan-and-karin-fielding-wing/
 summary: >
   The Jonathan and Karin Fielding Wing, an 8,600-square-foot gallery wing for
   American decorative arts at The Huntington in San Marino, California, was completed

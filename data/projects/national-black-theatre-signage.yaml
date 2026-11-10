@@ -7,6 +7,8 @@ status: announced
 credits:
   - firm: isometric-studio
     role: graphics-wayfinding
+    sources:
+      - https://isometricstudio.com/national-black-theatre
   - firm: marvel-architects
     role: architecture
     note: "no firm record yet"

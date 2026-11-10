@@ -6,6 +6,8 @@ year_completed: 2006
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/museum-of-the-portuguese-language
     note: "concept originated with Ralph Appelbaum personally"
 technologies: []
 summary: >

@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/thoreaus-world-microsite
     note: "Companion website to the Thoreau Gallery with high-resolution artifact imagery and soundscape"
 technologies:
   - companion website

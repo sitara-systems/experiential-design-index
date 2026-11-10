@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/academy-museum-of-motion-pictures
     note: "Four-projector cyclorama topographic map projection"
   - firm: why-architecture-workshop
     role: architecture

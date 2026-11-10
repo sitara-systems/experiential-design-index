@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: plus-and-greater-than
     role: exhibit-design
+    sources:
+      - https://www.plusandgreaterthan.com/projects/david-hockney
 technologies: []
 summary: >
   David Hockney: Works from the Collections of Jordan D. Schnitzer and His

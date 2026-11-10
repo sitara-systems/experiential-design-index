@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/55
     note: "Designed, supplied, installed, and programmed the specialty lighting and motion effects"
 technologies:
   - motion effects

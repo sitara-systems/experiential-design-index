@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: hks
     role: architecture
+    sources:
+      - https://www.hksinc.com/what-we-do/projects/us-bank-stadium/
     note: design architect (Bryan Trubey, design principal)
   - firm: studio-five-architects
     role: architecture

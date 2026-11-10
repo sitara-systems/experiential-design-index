@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/84
 technologies: []
 summary: >
   Lighting for the Old Fraser River Walking Bridge in Quesnel, British

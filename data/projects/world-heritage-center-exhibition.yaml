@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/world-heritage-center/
   - firm: gallagher-and-associates
     role: interpretive-planning
+    sources:
+      - https://gallagherdesign.com/project/world-heritage-center/
   - firm: alta-architects
     role: architecture
     note: "no firm record yet"

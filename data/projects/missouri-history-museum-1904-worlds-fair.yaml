@@ -6,10 +6,16 @@ year_completed: 2024
 credits:
   - firm: pgav-destinations
     role: exhibit-design
+    sources:
+      - https://pgavdestinations.com/project/worlds-fair-missouri-history-museum/
   - firm: pgav-destinations
     role: interpretive-planning
+    sources:
+      - https://pgavdestinations.com/project/worlds-fair-missouri-history-museum/
   - firm: pgav-destinations
     role: content-production
+    sources:
+      - https://pgavdestinations.com/project/worlds-fair-missouri-history-museum/
     note: >
       Fabrication of the 1:400 scale model of the fairgrounds (300+
       3D-printed sculptures); no firm record yet

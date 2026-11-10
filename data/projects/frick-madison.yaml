@@ -12,6 +12,8 @@ credits:
     note: "No firm record yet"
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=165
 summary: >
   Frick Madison, the temporary installation of The Frick Collection's
   permanent collection in the Marcel Breuer-designed building at 945

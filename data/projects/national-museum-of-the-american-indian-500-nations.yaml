@@ -6,6 +6,9 @@ year_completed: 2004
 credits:
   - firm: andrew-merriell
     role: exhibit-design
+    sources:
+      - https://merriell.com/portfolio-hall-of-fame
+      - https://merriell.com/portfolio-overview
 technologies: []
 summary: >
   The "500 Nations" exhibition at the National Museum of the American

@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://d-and-p.com/human-history
 technologies: []
 summary: >
   The West Virginia State Museum at the Culture Center in Charleston, West

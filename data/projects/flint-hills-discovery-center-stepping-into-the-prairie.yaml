@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/stepping-into-the-prairie/
     note: "Interactive and media design and development, per Trivium's own project page."
 summary: >
   Trivium Interactive produced an immersive projected experience in which visitors interact with a tallgrass prairie ecosystem that evolves through four seasons, completed in 2024, at Flint Hills Discovery Center.

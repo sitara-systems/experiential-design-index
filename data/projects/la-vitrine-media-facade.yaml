@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: moment-factory
     role: media-design
+    sources:
+      - https://momentfactory.com/products/media-facade-la-vitrine
     note: >
       Design and creation of a permanent interactive LED installation for
       the building's exterior and interior — a custom central column, LED

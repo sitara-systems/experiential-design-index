@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/metropolitan-museum-of-art-diker-exhibit/
     note: "Custom casework"
 technologies: []
 summary: >

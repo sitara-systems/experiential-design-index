@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: gyroscope-inc
     role: exhibit-design
+    sources:
+      - https://www.gyroscopeinc.com/fcm
   - firm: sasaki
     role: architecture
     note: "no firm record yet"

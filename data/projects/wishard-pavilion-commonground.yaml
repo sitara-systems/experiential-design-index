@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: diller-scofidio-renfro
     role: architecture
+    sources:
+      - https://dsrny.com/project/wishard-pavilion
   - firm: hok
     role: architecture
   - firm: tillett-lighting-design-associates

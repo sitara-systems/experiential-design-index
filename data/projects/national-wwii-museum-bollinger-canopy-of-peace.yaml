@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: solomon-group
     role: lighting-design
+    sources:
+      - https://solomongroup.com/projects/the-nwwii-museums-bollinger-canopy-of-peace
     note: "Architectural lighting design and programming for the canopy structure"
 technologies:
   - architectural lighting

@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: donna-lawrence-productions
     role: content-production
+    sources:
+      - https://dlproductions.com/projects/flint-hills-discover-center/
     note: "180-degree immersive theater film with 4D effects"
   - firm: hilferty-and-associates
     role: exhibit-design
@@ -13,6 +15,8 @@ credits:
     role: fabrication
   - firm: boston-productions-inc
     role: media-design
+    sources:
+      - https://bostonproductions.com/portfolio/flint-hills-discovery-center/
     note: Created multimedia exhibits in collaboration with Hilferty & Associates, per BPI portfolio.
 technologies:
   - 4D immersive theater

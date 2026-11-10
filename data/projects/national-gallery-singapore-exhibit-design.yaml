@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/national-gallery-singapore/
     note: "Gallagher & Associates Asia Pte Ltd (Singapore office)"
   - firm: studiomilou
     role: architecture

@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: studio-matthews
     role: interpretive-planning
+    sources:
+      - https://studiomatthews.com/project/ballast-island/
   - firm: northwest-sign-and-design
     role: fabrication
 summary: >

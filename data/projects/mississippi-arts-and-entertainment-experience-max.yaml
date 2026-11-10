@@ -8,10 +8,16 @@ credits:
     role: architecture
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/max/
   - firm: gallagher-and-associates
     role: content-production
+    sources:
+      - https://gallagherdesign.com/project/max/
   - firm: history-associates
     role: interpretive-planning
+    sources:
+      - https://www.historyassociates.com/history-associates-conducts-research-and-image-acquisition-for-striking-new-museum-mississippi-arts-entertainment-experience/
     note: Research and image acquisition
   - firm: available-light
     role: lighting-design

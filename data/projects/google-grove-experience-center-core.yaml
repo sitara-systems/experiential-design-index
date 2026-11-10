@@ -6,11 +6,17 @@ year_completed: 2018
 credits:
   - firm: tait
     role: exhibit-design
+    sources:
+      - https://www.taittowers.com/work/google-the-grove-experience-center
     note: "Credited as \"produced by Thinkwell, now tait\"; concept and design of the corporate briefing center across thirteen spaces"
   - firm: tait
     role: media-design
+    sources:
+      - https://www.taittowers.com/work/google-the-grove-experience-center
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/the-grove-google-experience-center
     note: "Facility integration, engineering, fabrication, installation, programming, and commissioning of AV technology across thirteen spaces"
 technologies:
   - interactive media

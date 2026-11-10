@@ -9,6 +9,8 @@ credits:
     note: "Exhibition design; no firm record yet"
   - firm: span-studio
     role: graphics-wayfinding
+    sources:
+      - https://span.studio/projects/city-in-a-snow-globe
     note: "Visual identity and graphics"
   - firm: navillus-woodworks
     role: fabrication

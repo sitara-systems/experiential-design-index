@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: graham-baba-architects
     role: architecture
+    sources:
+      - https://grahambaba.com/renton-market
   - firm: studio-matthews
     role: graphics-wayfinding
     note: "Branding and environmental graphics"

@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
 - firm: steve-feldman-design
   role: exhibit-design
+  sources:
+    - http://www.stevefeldmandesign.com/red-skelton-museum
   note: Planning and all phases of exhibition design for the 4,500-square-foot gallery,
     with general contracting of fabrication and installation.
 - firm: van-buren-and-associates

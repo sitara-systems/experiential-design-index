@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: monadnock-media
     role: media-design
+    sources:
+      - https://monadnock.org/project/museum-of-alabama
     note: "Media experience design and production and digital interactive design and development across an 11,000 sq ft renovation, including two narrative-video programs in the Military Gallery, touchable-hotspot interactive dioramas in the Voices of Alabama gallery, and the Mission Control immersive children's spaceflight experience"
   - firm: the-prd-group
     role: exhibit-design

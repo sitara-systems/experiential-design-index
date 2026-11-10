@@ -11,6 +11,8 @@ credits:
     note: "Architect of the Origen Museum building specifically, per LGA Architecture's own project page; no firm record yet"
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/las-vegas-springs-preserve/
     note: >
       Technical design for the project's exhibits and interactives, incl.
       fabrication/programming of augmented-reality viewers, sliding-monitor

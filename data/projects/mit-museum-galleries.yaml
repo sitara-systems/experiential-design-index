@@ -16,8 +16,12 @@ credits:
     role: lighting-design
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://kubikmaltbie.com/project/mit-museum/
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/mit-museum
     note: "Over 20 interactive installations across 20,000 sq ft of exhibition space"
 technologies:
   - touchscreen interactives

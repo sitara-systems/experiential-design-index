@@ -6,15 +6,21 @@ year_completed: 2012
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/brooklyn-botanic-garden-visitor-center
     note: "Exhibition design and exterior interpretive signage design"
   - firm: weiss-manfredi
     role: architecture
     note: "no firm record yet"
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/brooklyn-botanical-garden
     note: Interactive "peek-a-boo" tables and multi-sensory exhibit systems
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/Brooklyn-Botanic-Garden-Visitor-Center
     note: "on other credits; per Hadley's own portfolio"
 technology_tags:
   - interactive-installation

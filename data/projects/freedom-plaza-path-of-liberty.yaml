@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/path-of-liberty
     note: "Interactive pop-up kiosks feeding a large digital flag display; interactive designer, 10-week timeline"
   - firm: c-and-g-partners
     role: exhibit-design

@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: foster-and-partners
     role: architecture
+    sources:
+      - https://www.fosterandpartners.com/projects/imperial-war-museum/
   - firm: casson-mann
     role: exhibit-design
     note: "no firm record yet"

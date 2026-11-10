@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: dimensional-innovations
     role: fabrication
+    sources:
+      - https://www.dimin.com/
     note: design-assist, engineering, and fabrication of shelters and markers
 summary: >
   Station shelters and wayfinding markers for the Kansas City Streetcar in

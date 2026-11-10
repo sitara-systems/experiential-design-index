@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: why-architecture
     role: architecture
+    sources:
+      - https://why-site.com/work/speed-art-museum/
     note: "Planner and design architect, per WHY's project page."
 summary: >
   WHY Architecture revitalized the 1927 neoclassical building of the Speed Art

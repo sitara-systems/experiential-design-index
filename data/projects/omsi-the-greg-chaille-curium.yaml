@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: plus-and-greater-than
     role: exhibit-design
+    sources:
+      - https://www.plusandgreaterthan.com/projects/building-stories-4ssxl
   - firm: dangermond-keane-architecture
     role: architecture
   - firm: axiom-custom-products

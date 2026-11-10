@@ -6,11 +6,17 @@ year_completed: 2008
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/harley-davidson-museum/
   - firm: pentagram
     role: exhibit-design
+    sources:
+      - https://www.pentagram.com/work/the-harley-davidson-museum-1/story
     note: "James Biber/Michael Zweck-Bonner (architecture collaboration) and Abbott Miller (permanent exhibition design); no firm record yet"
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://kubikmaltbie.com/project/harley-davidson-museum/
     note: "Shop drawings, showcases, interactives, graphics, and artifact mounting/installation"
   - firm: batwin-and-robin
     role: media-design

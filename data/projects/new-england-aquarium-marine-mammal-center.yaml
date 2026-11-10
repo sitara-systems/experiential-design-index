@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://www.availablelight.com/work/marine-mammals-center
 summary: >
   The New Balance Foundation Marine Mammal Center, an open-air sea lion
   pavilion added to the New England Aquarium in Boston, opened 2009, with

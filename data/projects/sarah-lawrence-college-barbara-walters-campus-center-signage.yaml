@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/barbara-walters-campus-center/
   - firm: kss-architects
     role: architecture
     note: "building architect; no firm record yet"

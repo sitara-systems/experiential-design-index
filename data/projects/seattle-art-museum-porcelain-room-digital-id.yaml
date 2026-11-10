@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/sam-saam-system/
 summary: >
   A unified touch-based digital labeling system for over 1,000 unlabeled
   objects in the Seattle Art Museum's Porcelain Room, designed by Belle &

@@ -6,6 +6,8 @@ year_completed: 2005
 credits:
   - firm: brc-imagination-arts
     role: exhibit-design
+    sources:
+      - https://www.brcweb.com/project/abraham-lincoln-presidential-library-and-museum/
     note: >
       Designed, created, and produced the museum's core exhibits, theaters,
       children's area, and "Holavision" presentation.

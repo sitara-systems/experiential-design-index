@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: william-rawn-associates
     role: architecture
+    sources:
+      - https://rawnarch.com/projects/cambridge-library.html
     note: "Architect, per William Rawn Associates' project page (Completion 2009)."
   - firm: ann-beha-architects
     role: architecture

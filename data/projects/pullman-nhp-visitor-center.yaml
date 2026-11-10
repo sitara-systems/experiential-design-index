@@ -9,6 +9,8 @@ credits:
     note: "Restoration of the Pullman Clock Tower & Administration Building into the park visitor center; no firm record yet"
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/pullman-national-historical-park/
 technologies:
   - triptych media installation
   - full-scale projection

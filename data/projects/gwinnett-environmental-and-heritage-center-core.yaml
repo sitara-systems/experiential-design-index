@@ -11,6 +11,8 @@ credits:
     role: fabrication
   - firm: mad-systems
     role: av-integration
+    sources:
+      - https://www.madsystems.com
 recognition:
   - award: "AAM MUSE Award"
     year: 2006

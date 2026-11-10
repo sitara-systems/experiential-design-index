@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/interdisciplinary-engineering-building/
     note: "architecture by KieranTimberlake"
 summary: >
   Studio Matthews designed welcoming signage and inspirational messaging,

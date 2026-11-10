@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/579
     note: >
       Comprehensive audiovisual solution for a 270-degree immersive 4D
       cinema (QSC audio, Panasonic projection, Dayton Bass Shaker 4D

@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: art-guild-inc
     role: fabrication
+    sources:
+      - https://www.artguildinc.com/2016/10/20/exhibit-fabrication-national-museum-industrial-history/
 technologies: []
 summary: >
   The National Museum of Industrial History, a Smithsonian affiliate housed

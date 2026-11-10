@@ -6,12 +6,20 @@ year_completed: 2017
 credits:
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/the-ulysses-s-grant-presidential-library/
   - firm: healykohler
     role: graphics-wayfinding
+    sources:
+      - https://www.healykohler.com/project/the-ulysses-s-grant-presidential-library/
   - firm: healykohler
     role: media-design
+    sources:
+      - https://www.healykohler.com/project/the-ulysses-s-grant-presidential-library/
   - firm: formations-inc
     role: fabrication
+    sources:
+      - https://www.formationsinc.com/grant-msu
 technologies:
   - interactive media
   - digital interfaces

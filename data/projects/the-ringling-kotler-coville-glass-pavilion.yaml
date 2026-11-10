@@ -12,6 +12,8 @@ credits:
     note: "No firm record yet"
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=158
 summary: >
   The Kotler-Coville Glass Pavilion, a 5,500-square-foot building housing
   the John and Mable Ringling Museum of Art's glass collection and serving

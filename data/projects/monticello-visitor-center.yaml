@@ -6,8 +6,12 @@ year_completed: 2008
 credits:
   - firm: ayers-saint-gross
     role: architecture
+    sources:
+      - https://ayerssaintgross.com/work/project/monticello-visitor-center/
   - firm: ayers-saint-gross
     role: graphics-wayfinding
+    sources:
+      - https://ayerssaintgross.com/work/project/monticello-visitor-center/
     note: "Full signage and wayfinding system for the visitor center and campus (also documented by Ayers Saint Gross as a separate scope-of-work listing, 'Visitor Center and Smith Education Center Signage and Wayfinding')"
   - firm: michael-vergason-landscape-architects
     role: landscape-architecture

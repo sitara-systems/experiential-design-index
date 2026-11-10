@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/museum-of-jewish-heritage-voices-of-liberty-interactive-experience/
   - firm: potion-design
     role: media-design
 technologies:

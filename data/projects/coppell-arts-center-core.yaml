@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: schuler-shook
     role: lighting-design
+    sources:
+      - https://schulershook.com/projects/coppell-arts-center
     note: "theatre planning and design, audience seating, stage rigging and curtains, theatre lighting systems, and general house lighting for the Main Hall and Black Box theatre"
 technologies: []
 summary: >

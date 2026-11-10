@@ -6,9 +6,13 @@ year_completed: 2024
 credits:
   - firm: ia-interior-architects
     role: architecture
+    sources:
+      - https://interiorarchitects.com/projects/relish-works/
     note: "Interior architecture and experiential design"
   - firm: ia-interior-architects
     role: exhibit-design
+    sources:
+      - https://interiorarchitects.com/projects/relish-works/
   - firm: huntsman-architectural-group
     role: architecture
     note: "no firm record yet"

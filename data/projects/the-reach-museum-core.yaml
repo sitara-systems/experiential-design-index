@@ -11,8 +11,12 @@ credits:
     role: exhibit-design
   - firm: boston-productions-inc
     role: media-design
+    sources:
+      - https://bostonproductions.com/portfolio/hanford-reach/
   - firm: boston-productions-inc
     role: av-integration
+    sources:
+      - https://bostonproductions.com/portfolio/hanford-reach/
 technologies: []
 summary: >
   The REACH Museum (Hanford Reach Interpretive Center) in Richland,

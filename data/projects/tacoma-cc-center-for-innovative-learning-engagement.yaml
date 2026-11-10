@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/center-for-innovative-learning-and-engagement/
   - firm: mithun
     role: architecture
 summary: >

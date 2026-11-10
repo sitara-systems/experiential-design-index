@@ -6,6 +6,8 @@ year_completed: 2007
 credits:
   - firm: brc-imagination-arts
     role: content-production
+    sources:
+      - https://www.brcweb.com/project/nasa-ksc-shuttle-launch-experience/
     note: >
       Strategic planning, concept development, design detail, production,
       immersive media production, fabrication, technical systems, and

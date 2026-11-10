@@ -9,8 +9,12 @@ credits:
     note: "no firm record yet"
   - firm: pentagram
     role: graphics-wayfinding
+    sources:
+      - https://www.pentagram.com/work/cartier
   - firm: click-netherfield
     role: fabrication
+    sources:
+      - https://www.clicknetherfield.com/projects/victoria-albert-cartier/
     note: "bespoke display cases including the mist-flow 'Dream' showcase"
 technologies: []
 summary: >

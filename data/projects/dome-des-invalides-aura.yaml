@@ -6,8 +6,12 @@ year_completed: 2023
 credits:
   - firm: moment-factory
     role: media-design
+    sources:
+      - https://momentfactory.com/products/aura-invalides
   - firm: moment-factory
     role: lighting-design
+    sources:
+      - https://momentfactory.com/products/aura-invalides
 technologies:
   - projection mapping
   - immersive environment

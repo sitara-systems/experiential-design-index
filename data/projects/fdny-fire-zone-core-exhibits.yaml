@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: batwin-and-robin
     role: media-design
+    sources:
+      - https://www.batwinandrobin.com/projects/fdny-fire-zone/
     note: "Creative direction, project design, and media production"
   - firm: lb-architects
     role: architecture

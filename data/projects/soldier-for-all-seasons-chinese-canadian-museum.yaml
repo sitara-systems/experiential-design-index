@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: aldrichpears-associates
     role: exhibit-design
+    sources:
+      - https://aldrichpears.com/project/military-exhibit-at-chinese-canadian-museum/
 summary: >
   A Soldier for All Seasons, a military-history exhibition on Chinese
   Canadian WWII veterans on the newly expanded third floor of the Chinese

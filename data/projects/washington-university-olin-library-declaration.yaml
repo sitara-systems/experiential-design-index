@@ -6,8 +6,12 @@ year_completed: 2018
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/olin-special-collections-library/
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/olin-special-collections-library/
   - firm: ann-beha-architects
     role: architecture
     note: "no firm record yet; architect for the Olin Library transformation"

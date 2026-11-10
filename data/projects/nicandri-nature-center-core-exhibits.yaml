@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/nicandri-nature-center/
   - firm: tenji
     role: fabrication
     note: "aquatic exhibits and quarantine space; no firm record yet"

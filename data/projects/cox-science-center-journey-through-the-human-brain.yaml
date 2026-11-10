@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/news/brains-project-installed
     note: >
       "Deep Dive into the Brain" projection-and-console interactive; Brain
       Development Wall video wall
@@ -17,6 +19,8 @@ credits:
     note: "3D brain structures, anatomical visualization; no firm record yet"
   - firm: art-guild-inc
     role: fabrication
+    sources:
+      - https://www.artguildinc.com/2019/03/27/art-guild-tackling-the-most-complex-structure-in-the-universe/
 technologies:
   - large-format projection
   - custom interactive console

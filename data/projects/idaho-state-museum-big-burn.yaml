@@ -6,9 +6,13 @@ year_completed: 2018
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/idaho-state-historical-society
     note: "Richard Lewis Media Group brought Electrosonic onto the project"
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/idaho-state-museum
     note: 46 multimedia exhibits including the "Big Burn" 4D wraparound recreation
   - firm: andrew-merriell
     role: exhibit-design

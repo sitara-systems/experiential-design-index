@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: peter-hyde-design
     role: exhibit-design
+    sources:
+      - https://www.peterhydedesign.com/projects/wells-visitor-center-ice-cream-parlor/
     note: "Thematic design, exhibits, and commercial interior design"
 summary: >
   Wells Enterprises (maker of Blue Bunny ice cream) reopened its renovated

@@ -10,6 +10,8 @@ credits:
     role: fabrication
   - firm: prime-access-consulting
     role: accessibility-consulting
+    sources:
+      - https://pac.bz/projects/accessible-labels-app-for-the-senses-exhibition/
     note: >
       Developed the accessible labels mobile/web app connecting braille
       gallery labels to expanded text, zoomable images, visual descriptions,

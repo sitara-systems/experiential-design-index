@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: tessellate
     role: exhibit-design
+    sources:
+      - https://www.tessellatestudio.com/exhibit-design-ohio
     note: "Prime contractor and lead exhibit designer; interpretive planning, exhibit, interactive, visual and content design, per Tessellate's project page."
   - firm: explus
     role: fabrication

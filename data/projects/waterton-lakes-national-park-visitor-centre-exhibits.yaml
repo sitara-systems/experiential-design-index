@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/163
     note: >
       Worked with Metrographics through design-bid-build to develop modern
       exhibits and interpretive kiosks, then completed turn-key
@@ -13,6 +15,8 @@ credits:
       technologies.
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/163
 technologies:
   - immersive projection
   - interactive kiosks

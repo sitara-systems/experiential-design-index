@@ -8,9 +8,13 @@ credits:
     role: architecture
   - firm: dimensional-innovations
     role: media-design
+    sources:
+      - https://dimin.com/work/elevance-health
     note: "Immersive technology"
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://dimin.com/work/elevance-health
     note: "Environmental and headquarters experience design"
 technologies:
   - immersive media

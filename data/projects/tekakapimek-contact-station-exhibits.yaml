@@ -9,6 +9,9 @@ credits:
     note: "no firm record yet"
   - firm: split-rock-studios
     role: fabrication
+    sources:
+      - https://splitrockstudios.com/national-park-foundation-supports-tek%ce%b1k%ce%b1pim%c9%99k-contact-station-in-katahdin/
+      - https://splitrockstudios.com/nai-2025-media-award/
     note: "Juror's Choice Award for Interpretive Media, NAI 2025"
 technologies:
   - integrated architectural and exhibition design

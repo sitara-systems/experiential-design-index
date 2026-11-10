@@ -9,6 +9,8 @@ credits:
   note: No firm record yet
 - firm: fisher-marantz-stone
   role: lighting-design
+  sources:
+    - https://www.fmsp.com/projects/lincoln-center-the-claire-tow-theater/
 - firm: fisher-dachs-associates
   role: technical-consulting
   note: Theatre consultant

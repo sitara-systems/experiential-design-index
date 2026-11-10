@@ -8,10 +8,16 @@ credits:
     role: exhibit-design
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/soldiers-memorial-military-museum
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/soldiers-memorial-military-museum
   - firm: solomon-group
     role: graphics-wayfinding
+    sources:
+      - https://solomongroup.com/projects/soldiers-memorial-military-museum
 technologies:
   - interactive media
 summary: >

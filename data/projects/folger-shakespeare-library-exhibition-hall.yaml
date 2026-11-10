@@ -6,24 +6,36 @@ year_completed: 2024
 credits:
   - firm: studio-joseph
     role: exhibit-design
+    sources:
+      - https://studiojoseph.com/work/folger-shakespeare-library
   - firm: kieran-timberlake
     role: architecture
+    sources:
+      - https://kierantimberlake.com/updates/folger-shakespeare-library-on-cover-of-architectural-record/
     note: "Architect for the library's broader renovation and expansion that created the exhibition hall"
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://kubikmaltbie.com/folger-shakespeare-library/
     note: "Fabrication and AV systems design"
   - firm: kubik-maltbie
     role: av-integration
+    sources:
+      - https://kubikmaltbie.com/folger-shakespeare-library/
   - firm: storythings
     role: interpretive-planning
     note: "Interactive concepting. No firm record yet"
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/the-folger-shakespeare-library
     note: >
       Shake Up Your Shakespeare, The First Folios, The Wings, and Printing
       with Light interactive installations.
   - firm: pentagram
     role: graphics-wayfinding
+    sources:
+      - https://www.pentagram.com/work/folger-shakespeare-library
     note: >
       Visual identity and signage/environmental graphics program for the
       renovated library, including the new Adams Pavilion; scope was the

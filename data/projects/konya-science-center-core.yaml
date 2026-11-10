@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://kubikmaltbie.com/project/konya-science-center/
     note: "Exhibit fabrication, based on a design by Liberty Science Center"
   - firm: electrosonic
     role: av-integration

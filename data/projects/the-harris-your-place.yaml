@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: click-netherfield
     role: fabrication
+    sources:
+      - https://www.clicknetherfield.com/projects/the-harris-your-place/
     note: 64 museum showcases
 technologies: []
 summary: >

@@ -6,8 +6,14 @@ year_completed: 2014
 credits:
   - firm: omsi-creative-services
     role: exhibit-design
+    sources:
+      - https://omsi.edu/roots-of-wisdom/about-the-project/
+      - https://omsi.edu/roots-of-wisdom/roots-of-wisdom-exhibitions/
   - firm: omsi-creative-services
     role: fabrication
+    sources:
+      - https://omsi.edu/roots-of-wisdom/about-the-project/
+      - https://omsi.edu/roots-of-wisdom/roots-of-wisdom-exhibitions/
 technologies:
   - interactive exhibits
 summary: >

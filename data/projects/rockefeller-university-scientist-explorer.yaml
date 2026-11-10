@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: c-and-g-partners
     role: media-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/scientist-explorer-interactive-touch-screen/
     note: >
       C&G Partners' own portfolio credits the firm as designer/developer;
       The Rockefeller University's press coverage instead credits the

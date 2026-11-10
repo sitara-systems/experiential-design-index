@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: proun-design
     role: exhibit-design
+    sources:
+      - https://www.proundesign.com/science/kid-zone
   - firm: bluebird-graphic-solutions
     role: fabrication
 summary: >

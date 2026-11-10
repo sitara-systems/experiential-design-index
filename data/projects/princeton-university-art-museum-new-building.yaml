@@ -12,15 +12,21 @@ credits:
     note: "Executive architect. No firm record yet"
   - firm: studio-joseph
     role: exhibit-design
+    sources:
+      - https://studiojoseph.com/work/princeton-university-art-museum
     note: "Exhibition and casework design"
   - firm: 2x4
     role: graphics-wayfinding
     note: "Signage and wayfinding. No firm record yet"
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/digital-signage-storytelling
     note: "In-gallery films, digital signage, and lobby displays"
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://studiojoseph.com/work/princeton-university-art-museum
     note: "Per Studio Joseph's own project page"
   - firm: click-netherfield
     role: fabrication

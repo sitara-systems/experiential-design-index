@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: hok
     role: architecture
+    sources:
+      - https://www.hok.com/
 technologies:
   - touchscreen displays
 summary: >

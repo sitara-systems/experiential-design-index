@@ -11,6 +11,8 @@ credits:
     note: "No firm record yet"
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/horniman-museum-world-gallery
 summary: >
   The World Gallery, a permanent anthropology exhibition at the Horniman
   Museum and Gardens in London, UK, opened June 29, 2018, designed by Ralph

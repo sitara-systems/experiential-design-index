@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/american-conservatory-theatre/
     note: >
       Sound/comms/stage-manager control system as part of
       post-Loma-Prieta-earthquake restoration.

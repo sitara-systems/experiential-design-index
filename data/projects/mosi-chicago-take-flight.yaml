@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: studio-matthews
     role: exhibit-design
+    sources:
+      - https://studiomatthews.com/project/take-flight/
   - firm: belle-and-wissell
     role: media-design
   - firm: roto

@@ -6,9 +6,13 @@ year_completed: 2008
 credits:
   - firm: formations-inc
     role: exhibit-design
+    sources:
+      - https://www.formationsinc.com/louisville-slugger
     note: "No firm record yet"
   - firm: formations-inc
     role: fabrication
+    sources:
+      - https://www.formationsinc.com/louisville-slugger
     note: "No firm record yet"
 technologies: []
 summary: >

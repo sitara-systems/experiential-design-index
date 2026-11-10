@@ -6,10 +6,16 @@ year_completed: 2022
 credits:
   - firm: solid-light
     role: exhibit-design
+    sources:
+      - https://solidlight-inc.com/work/delta-blues-museum/
   - firm: solid-light
     role: media-design
+    sources:
+      - https://solidlight-inc.com/work/delta-blues-museum/
   - firm: solid-light
     role: fabrication
+    sources:
+      - https://solidlight-inc.com/work/delta-blues-museum/
 technologies: []
 summary: >
   A 6,900 sq ft permanent exhibition at the Delta Blues Museum in

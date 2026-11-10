@@ -12,6 +12,8 @@ credits:
     note: "Original fabrication"
   - firm: sitara-systems
     role: media-design
+    sources:
+      - https://www.sitara.systems/purina-institute/
     note: >
       Engaged 2021 to carry the interactive layer forward: redesigned the
       Gut Viewer exhibit (custom hardware since 2018, replaced with

@@ -12,6 +12,8 @@ credits:
     note: "No firm record yet"
   - firm: explus
     role: fabrication
+    sources:
+      - https://www.explusinc.com/portfolio.html
 technologies: []
 summary: >
   A 2003 expansion of the Peabody Essex Museum in Salem, Massachusetts,

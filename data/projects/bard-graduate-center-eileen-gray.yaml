@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: southside-design-build
     role: fabrication
+    sources:
+      - https://www.southsidedb.com/portfolio-1/new-portfolio-item-5
 technologies: []
 summary: >
   Eileen Gray, a retrospective of designer and architect Eileen Gray

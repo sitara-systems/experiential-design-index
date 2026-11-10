@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
 - firm: boston-productions-inc
   role: media-design
+  sources:
+    - https://bostonproductions.com/portfolio/tsla/
   note: Created five multi-touch digital interactives supporting the interpretive
     plan.
 - firm: matt-kaser-design

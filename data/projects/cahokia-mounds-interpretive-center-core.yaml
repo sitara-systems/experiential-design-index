@@ -6,6 +6,8 @@ year_completed: 1989
 credits:
   - firm: architectural-associates-inc
     role: architecture
+    sources:
+      - http://aaicinc.com/projects/cahokia-mounds-museum-interpretive-center/
   - firm: oates-and-associates
     role: landscape-architecture
     note: "No firm record yet"

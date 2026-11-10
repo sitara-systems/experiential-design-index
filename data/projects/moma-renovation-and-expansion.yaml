@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: diller-scofidio-renfro
     role: architecture
+    sources:
+      - https://dsrny.com/project/the-museum-of-modern-art
   - firm: gensler
     role: architecture
   - firm: gensler

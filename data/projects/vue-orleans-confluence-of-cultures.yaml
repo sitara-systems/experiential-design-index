@@ -9,6 +9,9 @@ credits:
     note: "Exhibit design and architecture."
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/vue-orleans-experience-opens/
+      - https://www.cortinaproductions.com/projects/vue-orleans/
     technology_tags:
       - artificial-intelligence
     note: >

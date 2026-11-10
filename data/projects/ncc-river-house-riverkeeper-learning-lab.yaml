@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/ottawa-riverkeepers-learning-lab/
   - firm: holman-exhibits
     role: exhibit-design
     note: "Partner in exhibit design and creation. No firm record yet."

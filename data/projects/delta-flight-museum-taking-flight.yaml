@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
 - firm: blue-telescope
   role: media-design
+  sources:
+    - https://www.bluetelescope.com/work
   note: Developed the museum's pre-show experience (motion graphics, archival footage,
     music and narration), per Delta.
 summary: Taking Flight, the pre-show experience at the Delta Flight Museum in Atlanta,

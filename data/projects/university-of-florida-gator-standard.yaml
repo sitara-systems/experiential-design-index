@@ -6,12 +6,16 @@ year_completed: 2019
 credits:
   - firm: dimensional-innovations
     role: graphics-wayfinding
+    sources:
+      - https://www.dimin.com
     note: >
       Environmental design, theming, and donor recognition under a long-term
       branding program ("Gator Standard") spanning roughly 25 projects
       across campus athletic facilities.
   - firm: dimensional-innovations
     role: media-design
+    sources:
+      - https://www.dimin.com
     note: Immersive technology integration.
   - firm: walker-architects
     role: architecture

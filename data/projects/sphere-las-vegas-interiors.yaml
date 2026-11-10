@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: populous
     role: architecture
+    sources:
+      - https://populous.com/showcases/sphere
     note: "Architect of record for the Sphere venue overall"
   - firm: icrave
     role: exhibit-design

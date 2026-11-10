@@ -6,10 +6,16 @@ year_completed: 2021
 credits:
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects/the-view-at-the-palm
   - firm: gensler
     role: exhibit-design
+    sources:
+      - https://www.gensler.com/projects/the-view-at-the-palm
   - firm: gensler
     role: media-design
+    sources:
+      - https://www.gensler.com/projects/the-view-at-the-palm
 technologies:
   - projection mapping
   - augmented reality

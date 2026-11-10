@@ -6,6 +6,8 @@ year_completed: 2007
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/albany-pine-bush-discovery-center-bgj6n
   - firm: envision-architects
     role: architecture
     note: "no firm record yet"

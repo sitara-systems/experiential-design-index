@@ -13,6 +13,8 @@ credits:
     note: "No firm record yet"
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://www.availablelight.com/work/shedd-aquarium
 summary: >
   The "Wonder of Water" rotunda renovation at Shedd Aquarium in Chicago,
   part of Shedd's multi-year Centennial Commitment campus renovation,

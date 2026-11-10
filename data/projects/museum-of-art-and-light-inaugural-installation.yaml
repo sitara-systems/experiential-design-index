@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: diversified
     role: av-integration
+    sources:
+      - https://onediversified.com/case-study/moal
     note: >
       AV system design and implementation, network infrastructure, and
       projection mapping integration across 108 laser projectors and

@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: peter-hyde-design
     role: exhibit-design
+    sources:
+      - https://www.peterhydedesign.com/projects/oakmont-country-club-u-s-open-exhibit/
   - firm: m-catton-and-co
     role: fabrication
     note: "no firm record yet"

@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: peter-hyde-design
     role: exhibit-design
+    sources:
+      - https://www.peterhydedesign.com/projects/centier-museum/
 summary: >
   The Centier Bank Museum, a corporate history museum in the bank's
   original Whiting, Indiana branch, opened in 2021 for the bank's 125th

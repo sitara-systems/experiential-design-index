@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://www.chicagoscenic.com/projects/heinz-history-center
     note: "Fabrication, installation, and project management of the sculptural centerpiece"
 technologies:
   - custom sculptural installation

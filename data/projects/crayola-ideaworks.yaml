@@ -10,6 +10,8 @@ credits:
     note: "Exhibition producer (no firm record yet)"
   - firm: mad-systems
     role: av-integration
+    sources:
+      - https://madsystems.com/portfolio-crayola-ideaworks.html
     note: >
       First traveling exhibit built on a wireless QuickSilver AV platform —
       30+ exhibits with only 7 signal cables total, plus RFID-personalized

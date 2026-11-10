@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: olson-kundig
     role: architecture
+    sources:
+      - https://olsonkundig.com/projects/bay-area-discovery-museum/
   - firm: surfacedesign
     role: landscape-architecture
     note: "Gumnut Grove climbing structures; no firm record yet"

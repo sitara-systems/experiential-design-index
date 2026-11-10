@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: ia-interior-architects
     role: architecture
+    sources:
+      - https://interiorarchitects.com/projects/sandy-springs-city-center/
     note: >
       Interior architecture, workplace strategy, and experiential design for
       the full City Springs civic and cultural center, including the

@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: tod-williams-billie-tsien-architects
     role: architecture
+    sources:
+      - https://twbta.com/work/cultural/lefrak-center-at-lakeside/
     note: "Architect, per the firm's project page."
 summary: >
   Tod Williams Billie Tsien Architects designed the 75,000 sq. ft. Lefrak

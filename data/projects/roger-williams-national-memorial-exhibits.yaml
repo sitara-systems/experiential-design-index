@@ -10,6 +10,8 @@ credits:
     role: fabrication
   - firm: proun-design
     role: graphics-wayfinding
+    sources:
+      - https://www.proundesign.com/cultural-history-1/roger-williams-national-memorial
     note: "Exhibit graphics"
 technologies: []
 summary: >

@@ -6,8 +6,12 @@ year_completed: 2016
 credits:
   - firm: snohetta
     role: architecture
+    sources:
+      - https://www.snohetta.com/projects/lascaux
   - firm: snohetta
     role: landscape-architecture
+    sources:
+      - https://www.snohetta.com/projects/lascaux
   - firm: sra-architectes
     role: architecture
   - firm: casson-mann

@@ -13,6 +13,8 @@ credits:
     note: "Exhibition consultant (Chicago, IL; no firm record yet)"
   - firm: mad-systems
     role: av-integration
+    sources:
+      - https://madsystems.com/portfolio-shoah-usc.html
     note: >
       Audiovisual consultant; designed and installed the "Waterfall,"
       "Fins," "Pathways to Testimony," and "Mirror Wall" interactive

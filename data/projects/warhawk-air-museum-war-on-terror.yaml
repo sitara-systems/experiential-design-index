@@ -9,6 +9,8 @@ credits:
     note: "Designer, per Ravenswood Studio's portfolio page."
   - firm: ravenswood-studio
     role: fabrication
+    sources:
+      - https://ravenswoodstudio.com/project/war-on-terror/
     note: "Fabrication, project management, scenic art, casework and installation, per the firm page."
 technologies:
   - scenic fabrication

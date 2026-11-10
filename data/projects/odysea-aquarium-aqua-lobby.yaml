@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: avi-spl
     role: av-integration
+    sources:
+      - https://avispl.com/resources/case-studies/odysea-aquarium-case-study/
     note: >
       12 Christie laser projectors, Q-SYS audio, Christie Pandoras Box
       media server; 360-degree floor-to-ceiling projection lobby.

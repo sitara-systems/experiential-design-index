@@ -6,10 +6,19 @@ year_completed: 2014
 credits:
   - firm: pgav-destinations
     role: architecture
+    sources:
+      - https://pgavdestinations.com/news/st-louis-cardinals-hall-of-fame-and-museum-now-open/
+      - https://pgavdestinations.com/news/cardinals-hall-of-fame-museum-rises-in-downtown-st-louis/
   - firm: pgav-destinations
     role: master-planning
+    sources:
+      - https://pgavdestinations.com/news/st-louis-cardinals-hall-of-fame-and-museum-now-open/
+      - https://pgavdestinations.com/news/cardinals-hall-of-fame-museum-rises-in-downtown-st-louis/
   - firm: pgav-destinations
     role: exhibit-design
+    sources:
+      - https://pgavdestinations.com/news/st-louis-cardinals-hall-of-fame-and-museum-now-open/
+      - https://pgavdestinations.com/news/cardinals-hall-of-fame-museum-rises-in-downtown-st-louis/
 technologies:
   - touch-screen interactives
   - custom LED lighting (stitch-pattern light bars)

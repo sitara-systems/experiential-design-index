@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/hawaiian-hall-bernice-pauahi-bishop-museum/
   - firm: group-delphi
     role: fabrication
   - firm: group-delphi

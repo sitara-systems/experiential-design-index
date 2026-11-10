@@ -6,23 +6,35 @@ year_completed: 2017
 credits:
   - firm: robert-a-m-stern-architects
     role: architecture
+    sources:
+      - https://www.ramsa.com/projects/project/museum-american-revolution
     note: "No firm record yet"
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/museum-of-the-american-revolution/
   - firm: history-associates
     role: interpretive-planning
     note: "Image acquisition and licensing (~500 historic images from 150+ repositories)"
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://kubikmaltbie.com/project/museum-of-the-american-revolution/
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/museum-of-the-american-revolution
   - firm: donna-lawrence-productions
     role: content-production
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/museum-of-the-american-revolution
     note: "Interactive exhibits including Posters of Protest, African American Stories, Seasons of Independence, and Arms of Independence"
   - firm: sh-acoustics
     role: acoustics
+    sources:
+      - https://shacoustics.com/museum-of-the-american-revolution/
     note: "Acoustic design services to create superior sound quality and control in both the theaters and permanent exhibit spaces."
   - firm: available-light
     role: lighting-design

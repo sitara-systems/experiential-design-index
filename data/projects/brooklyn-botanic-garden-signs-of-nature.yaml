@@ -6,6 +6,9 @@ year_completed: 2022
 credits:
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/brooklyn-botanic-garden-signs-wayfinding/
+      - https://www.cgpartnersllc.com/fresh/post/fresh-project-brooklyn-botanic-garden/
 technologies:
   - wayfinding signage
   - porcelain enamel signage

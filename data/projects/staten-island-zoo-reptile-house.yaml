@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/staten-island-zoo-reptile-house/
     note: "on other credits; per Hadley's own portfolio"
 technologies:
   - artifact/specimen mounts

@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: studio-joseph
     role: exhibit-design
+    sources:
+      - https://studiojoseph.com/work/nhm-commons
     note: "Interior visitor experience design for the new wing, including the Judith Perlstein Welcome Center and Commons Theater"
   - firm: frederick-fisher-and-partners
     role: architecture

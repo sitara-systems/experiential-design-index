@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: snohetta
     role: architecture
+    sources:
+      - https://www.snohetta.com/projects/joslyn-art-museum-expansion
   - firm: snohetta
     role: landscape-architecture
+    sources:
+      - https://www.snohetta.com/projects/joslyn-art-museum-expansion
   - firm: alley-poyner-macchietto-architecture
     role: architecture
     note: "Omaha-based collaborating architect; no firm record yet"

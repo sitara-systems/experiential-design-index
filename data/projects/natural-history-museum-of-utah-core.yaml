@@ -6,14 +6,20 @@ year_completed: 2011
 credits:
   - firm: ennead-architects
     role: architecture
+    sources:
+      - https://ennead.com/work/utah/
     note: "Design architect"
   - firm: gsbs-architects
     role: architecture
     note: "Architect of record; no firm record yet"
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/natural-history-museum-of-utah/
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://kubikmaltbie.com
     note: "Credited as \"Maltbie\""
   - firm: bbi-engineering
     role: av-integration

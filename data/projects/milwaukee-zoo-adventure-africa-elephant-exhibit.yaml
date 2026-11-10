@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/milwaukee-county-zoo-african-elephant-exhibit/
   - firm: pja-architects
     role: architecture
     note: "Co-designer"

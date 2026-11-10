@@ -6,11 +6,17 @@ year_completed: 2020
 credits:
   - firm: hks
     role: architecture
+    sources:
+      - https://www.hksinc.com/what-we-do/projects/sofi-stadium/
   - firm: dimensional-innovations
     role: media-design
+    sources:
+      - https://www.dimin.com/
     note: fan experience design and sponsorship activations
   - firm: dimensional-innovations
     role: graphics-wayfinding
+    sources:
+      - https://www.dimin.com/
     note: signage
 technologies:
   - Samsung Infinity Screen (dual-sided 4K HDR videoboard)

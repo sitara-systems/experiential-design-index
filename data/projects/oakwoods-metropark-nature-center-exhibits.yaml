@@ -6,9 +6,13 @@ year_completed: 2020
 credits:
   - firm: taylor-studios
     role: exhibit-design
+    sources:
+      - https://taylorstudios.com/our-work/oakwoods-metroparks-nature-center/
     note: "Design-build"
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/oakwoods-metroparks-nature-center/
 summary: >
   A 1,430-square-foot suite of interactive exhibits at the Oakwoods
   Metropark Nature Center in New Boston, Michigan, completed in 2020 by

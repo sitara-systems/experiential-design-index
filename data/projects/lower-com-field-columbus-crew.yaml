@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: dimensional-innovations
     role: graphics-wayfinding
+    sources:
+      - https://www.dimin.com
     note: "Stadium design, signage/wayfinding, and sponsorship activations"
   - firm: blur-workshop
     role: graphics-wayfinding

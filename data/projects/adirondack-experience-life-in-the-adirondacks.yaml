@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/life-in-the-adirondacks
     note: "19,000 sq ft exhibit incl. log-drive simulation and guideboat-rowing interactive"
   - firm: design-and-production-incorporated
     role: fabrication

@@ -6,11 +6,20 @@ year_completed: 2025
 credits:
   - firm: ideum
     role: exhibit-design
+    sources:
+      - https://ideum.com/portfolio/pathway-to-peace-uss-missouris-world-war-ii-experience
+      - https://ideum.com/news/ideum-reflects-on-2024
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/pathway-to-peace-uss-missouris-world-war-ii-experience
+      - https://ideum.com/news/ideum-reflects-on-2024
     note: Custom software including an eight-veteran oral-history interview station
   - firm: ideum
     role: fabrication
+    sources:
+      - https://ideum.com/portfolio/pathway-to-peace-uss-missouris-world-war-ii-experience
+      - https://ideum.com/news/ideum-reflects-on-2024
     note: CNC-routed and metal-worked custom cabinets designed to be hand-carried through the ship's hatches without drilling into historic steel
 technologies:
   - touchscreen kiosk

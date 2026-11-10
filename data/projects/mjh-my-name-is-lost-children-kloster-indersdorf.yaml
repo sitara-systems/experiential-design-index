@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: pure-and-applied
     role: exhibit-design
+    sources:
+      - https://pureandappliedstudio.com/project/my-name-is-lost-children-kloster-indersdorf
 technologies: []
 summary: >
   "My Name Is... The Lost Children of Kloster Indersdorf" was on view

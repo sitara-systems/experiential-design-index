@@ -6,8 +6,12 @@ year_completed: 2023
 credits:
   - firm: pelli-clarke-and-partners
     role: architecture
+    sources:
+      - https://www.pcparch.com/
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/
 technologies: []
 summary: >
   Dassai Blue Sake Brewery, a brewery and visitor experience in Hyde

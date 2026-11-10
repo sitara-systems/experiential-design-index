@@ -6,8 +6,12 @@ year_completed: 2021
 credits:
   - firm: taylor-studios
     role: exhibit-design
+    sources:
+      - https://taylorstudios.com/our-work/fort-bend-museum/
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/fort-bend-museum/
 summary: >
   A complete 2,750-square-foot renovation of the Fort Bend Museum in
   Richmond, Texas, completed in 2021 by Taylor Studios, spanning over two

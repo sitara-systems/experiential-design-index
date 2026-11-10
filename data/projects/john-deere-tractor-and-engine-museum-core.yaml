@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: luci-creative
     role: exhibit-design
+    sources:
+      - https://www.lucicreative.com/projects/john-deere
     note: "Created the exhibit experience including foundations, interactives and narrative, per the firm page; collaborators named there are Ravenswood Studio and Boston Productions."
 technologies:
   - interactive exhibits

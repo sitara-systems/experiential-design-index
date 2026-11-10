@@ -6,12 +6,18 @@ year_completed: 2005
 credits:
   - firm: tvsdesign
     role: architecture
+    sources:
+      - https://www.tvsdesign.com/projects/project-detail/georgia-aquarium/
     note: "No firm record yet"
   - firm: pgav-destinations
     role: exhibit-design
+    sources:
+      - https://pgavdestinations.com/project/georgia-aquarium/
     note: "Conceptualized, designed, and supervised construction of all aquaria, animal exhibits, and interpretives"
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/georgia-aquarium/
 technologies:
   - large-format viewing windows
 summary: >

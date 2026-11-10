@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: studio-matthews
     role: exhibit-design
+    sources:
+      - https://studiomatthews.com/project/bezos-center-for-innovation/
   - firm: pacific-studio
     role: fabrication
   - firm: olson-kundig
@@ -13,6 +15,8 @@ credits:
     note: "3D/spatial design"
   - firm: stimulant
     role: media-design
+    sources:
+      - https://www.stimulant.com/work/mohai-bezos-center-for-innovation
     note: "Anchor interactive touch wall (a series of short interactive puzzles on innovator traits), per Stimulant's project page."
 recognition:
   - award: "AAM MUSE Awards — Honorable Mention, Interpretive Interactive Installations"

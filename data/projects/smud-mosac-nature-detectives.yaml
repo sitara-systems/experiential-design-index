@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/nature-detectives/
 technologies:
   - live-animal habitats
 summary: >

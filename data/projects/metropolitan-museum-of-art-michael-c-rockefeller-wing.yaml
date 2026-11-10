@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: beyer-blinder-belle
     role: architecture
+    sources:
+      - https://www.beyerblinderbelle.com/work/view/the-metropolitan-museum-of-art/michael-c-rockefeller-wing/
     note: "Executive architect"
   - firm: why-architecture
     role: architecture

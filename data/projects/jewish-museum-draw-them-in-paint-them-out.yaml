@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/draw-them-in-paint-them-out
   - firm: isometric-studio
     role: architecture
+    sources:
+      - https://isometricstudio.com/draw-them-in-paint-them-out
   - firm: morcos-key
     role: graphics-wayfinding
     note: "graphic design; no firm record yet"

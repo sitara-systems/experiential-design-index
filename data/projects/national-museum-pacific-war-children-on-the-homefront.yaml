@@ -13,6 +13,8 @@ credits:
     role: fabrication
   - firm: bowen-technovation
     role: av-integration
+    sources:
+      - https://www.bowentechnovation.com/projects/nmpw/
 technologies:
   - projection
 summary: >

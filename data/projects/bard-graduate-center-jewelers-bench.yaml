@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: southside-design-build
     role: fabrication
+    sources:
+      - https://www.southsidedb.com/portfolio-1/a-view-from-jewelers-bench
 technologies: []
 summary: >
   A View from the Jeweler's Bench: Ancient Treasures, Contemporary

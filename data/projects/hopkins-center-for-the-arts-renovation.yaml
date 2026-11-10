@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: snohetta
     role: architecture
+    sources:
+      - https://www.snohetta.com/projects/dartmouth-hopkins-center-for-the-arts
   - firm: page-southerland-page
     role: architecture
     note: "Architect of record (operating as Stantec by project completion); no firm record yet"

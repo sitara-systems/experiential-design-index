@@ -6,8 +6,12 @@ year_completed: 2017
 credits:
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/att-adworks-lab/
   - firm: av-c
     role: av-integration
+    sources:
+      - https://www.av-controls.com/att-adworks-lab/
   - firm: esi-design
     role: media-design
     note: >

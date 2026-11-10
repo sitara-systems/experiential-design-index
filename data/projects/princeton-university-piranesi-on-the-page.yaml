@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/piranesi-on-the-page
 technologies: []
 summary: >
   Piranesi on the Page, an exhibition of original volumes designed by

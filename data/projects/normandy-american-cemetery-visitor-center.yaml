@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: history-associates
     role: content-production
+    sources:
+      - https://www.historyassociates.com/case-studies/normandy-american-military-cemetery-exhibits/
     note: "Exhibit development; American Battle Monuments Commission's flagship/first permanent public exhibit project"
 summary: >
   The Normandy American Cemetery Visitor Center in Colleville-sur-Mer,

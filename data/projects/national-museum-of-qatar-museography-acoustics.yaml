@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: threshold-acoustics
     role: acoustics
+    sources:
+      - https://threshold.llc/national-museum-qatar
     note: "Integrating acoustics into wall/ceiling display systems"
   - firm: jean-nouvel
     role: architecture

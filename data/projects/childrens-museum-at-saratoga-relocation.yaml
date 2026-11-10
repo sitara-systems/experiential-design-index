@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: peter-hyde-design
     role: exhibit-design
+    sources:
+      - https://www.peterhydedesign.com/projects/childrens-museum-at-saratoga/
 summary: >
   The Children's Museum at Saratoga relocated into the historic Lincoln
   Bathhouse in Saratoga Spa State Park, Saratoga Springs, New York,

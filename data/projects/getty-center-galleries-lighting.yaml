@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/the-getty-center/
     note: "Painting galleries lit without electric light"
 technologies: []
 summary: >

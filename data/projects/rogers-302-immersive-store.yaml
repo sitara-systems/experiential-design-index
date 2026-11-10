@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/42
     note: >
       Supplied and integrated technology for the store's interactive
       zones, event/exhibit spaces, and the Rogers 5G Music Hall, working
@@ -13,6 +15,8 @@ credits:
       support.
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/42
 technologies:
   - 5G interactive zones
   - in-store event technology

@@ -6,8 +6,12 @@ year_completed: 2016
 credits:
   - firm: taylor-studios
     role: exhibit-design
+    sources:
+      - https://taylorstudios.com/our-work/natural-regions-gallery/
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/natural-regions-gallery/
 summary: >
   A 2,800-square-foot full gallery renovation at the Indiana State Museum in
   Indianapolis, completed in 2016 by Taylor Studios, contrasting 1800s and

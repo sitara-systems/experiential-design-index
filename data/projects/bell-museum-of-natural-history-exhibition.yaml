@@ -6,10 +6,16 @@ year_completed: 2018
 credits:
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/bell/
   - firm: gallagher-and-associates
     role: content-production
+    sources:
+      - https://gallagherdesign.com/project/bell/
   - firm: gallagher-and-associates
     role: graphics-wayfinding
+    sources:
+      - https://gallagherdesign.com/project/bell/
   - firm: design-and-production-incorporated
     role: fabrication
   - firm: archetype

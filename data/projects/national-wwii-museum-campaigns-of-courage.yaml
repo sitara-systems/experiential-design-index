@@ -11,15 +11,23 @@ credits:
     role: exhibit-design
   - firm: unified-field
     role: media-design
+    sources:
+      - https://www.unifiedfield.com/projects/national-wwii-museum
     note: "Interactive programs and linear media across both galleries, including personalized dog-tag stations, 360-degree cockpit viewers, and a flight simulator"
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/the-national-wwii-museum-road-to-berlin-european-theater-galleries
+      - https://solomongroup.com/projects/the-national-wwii-museum-road-to-tokyo-pacific-theater-galleries
     note: "Scenic fabrication and installation across both Road to Berlin and Road to Tokyo galleries"
   - firm: explus
     role: fabrication
     note: "Shared fabrication scope with Solomon Group per Explus's own project page"
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/the-national-wwii-museum-road-to-berlin-european-theater-galleries
+      - https://solomongroup.com/projects/the-national-wwii-museum-road-to-tokyo-pacific-theater-galleries
   - firm: available-light
     role: lighting-design
 technologies:

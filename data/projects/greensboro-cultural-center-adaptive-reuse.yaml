@@ -6,6 +6,8 @@ year_completed: 1990
 credits:
   - firm: cambridgeseven
     role: architecture
+    sources:
+      - https://www.cambridgeseven.com/project/greensboro-cultural-center/
 summary: >
   Adaptive reuse of the former Greensboro Daily News building into the
   Greensboro Cultural Center, a 114,000 sq ft arts complex (including a

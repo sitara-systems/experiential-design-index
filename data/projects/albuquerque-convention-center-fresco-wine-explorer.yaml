@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/albuquerque-convention-center-fresco-wine-explorer
     note: Kiosk documenting artist Frederico Vigil's in-progress wine-history fresco, with accessibility-focused UI design
 technologies:
   - touchscreen kiosk

@@ -6,10 +6,16 @@ year_completed: 2023
 credits:
   - firm: populous
     role: architecture
+    sources:
+      - https://populous.com/showcases/mark-and-paula-hurd-welcome-center
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/hurd-welcome-center
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/baylor-university-hurd-welcome-center
     note: LED and specialty projection systems for four 96-foot interactive columns
   - firm: xibitz
     role: fabrication

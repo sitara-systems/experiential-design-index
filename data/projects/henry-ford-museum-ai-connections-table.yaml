@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/thf-connections-table
     note: >
       Interactive table pairing curator-identified connections with
       AI-discovered links across the museum's digital collection.

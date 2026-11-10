@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: tait
     role: media-design
+    sources:
+      - https://www.taittowers.com/work/longwood-gardens
     note: "TAIT Show Control System powered by TAIT Navigator, synchronizing lighting, audio, and non-traditional entertainment technology including pumps and water-treatment systems for the fountain performances"
   - firm: beyer-blinder-belle
     role: architecture

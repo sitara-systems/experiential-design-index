@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/expanding-the-legacy-birmingham-civil-rights-institute
   - firm: southern-custom-exhibits
     role: fabrication
     note: "no firm record yet"

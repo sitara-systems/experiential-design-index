@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/
 technologies:
   - interactive kiosk
 summary: >

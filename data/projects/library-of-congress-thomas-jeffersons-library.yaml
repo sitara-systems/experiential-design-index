@@ -6,6 +6,8 @@ year_completed: 2008
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/library-of-congress-thomas-jeffersons-library/
     note: "Designed as Chermayeff & Geismar, Inc., the firm's predecessor name at the time"
   - firm: second-story
     role: media-design

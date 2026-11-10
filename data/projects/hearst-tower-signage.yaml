@@ -6,6 +6,8 @@ year_completed: 2006
 credits:
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/hearst-corporation-hearst-tower-signage/
   - firm: foster-and-partners
     role: architecture
     note: "tower design architect; no firm record yet"

@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/nasa-data-lens
     note: >
       Touchscreen data-visualization interactive letting visitors explore
       Earth science data through life, air, and water "lenses."

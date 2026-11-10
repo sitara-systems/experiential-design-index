@@ -6,11 +6,15 @@ year_completed: 2011
 credits:
   - firm: 1220-fabrication
     role: fabrication
+    sources:
+      - https://www.eoslightmedia.com/work/304
     note: "Engaged Eos Lightmedia for the exhibit's lighting scope, per Eos Lightmedia's own project page; also credited as exhibit designer on this project."
   - firm: 1220-fabrication
     role: exhibit-design
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/304
     note: >
       Commissioning, equipment supply, installation, systems integration,
       fixture focus, and lighting/control programming for the immersive

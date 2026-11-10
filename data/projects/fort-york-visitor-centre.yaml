@@ -6,8 +6,12 @@ year_completed: 2014
 credits:
   - firm: reich-petch
     role: master-planning
+    sources:
+      - https://designrp.com/projects/fort-york-visitor-centre/
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com/projects/fort-york-visitor-centre/
     note: "Exhibition development, orientation film, and inaugural exhibition on the War of 1812"
   - firm: patkau-architects
     role: architecture

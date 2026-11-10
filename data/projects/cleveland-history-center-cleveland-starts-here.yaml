@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/cleveland-history-center/
     note: "Three interactive touchscreen programs, a signature film, archival slideshows, and two documentary films"
 technologies:
   - interactive touchscreen

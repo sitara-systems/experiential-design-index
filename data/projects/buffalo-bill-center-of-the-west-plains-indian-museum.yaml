@@ -6,8 +6,12 @@ year_completed: 1999
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/buffalo-bill-center-of-the-west-plains-indian-museum/
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/museum-of-the-plains-indian/
     note: >
       A 90-ft-wide by 40-ft-high cyclorama-backed diorama AV system: a
       12-track sound system, dual 5000-lumen projectors, and a 90-fixture

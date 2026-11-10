@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: fisher-marantz-stone
     role: lighting-design
+    sources:
+      - https://www.fmsp.com/projects/doris-duke-theatre-at-jacobs-pillow/
 technologies: []
 summary: >
   The Doris Duke Theatre at Jacob's Pillow in Becket, Massachusetts,

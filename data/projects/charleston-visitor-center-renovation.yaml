@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/charleston-visitor-center/
 technologies:
   - video wall
   - touchscreen interactive

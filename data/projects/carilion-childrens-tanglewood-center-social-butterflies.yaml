@@ -6,11 +6,17 @@ year_completed: 2022
 credits:
   - firm: dimensional-innovations
     role: exhibit-design
+    sources:
+      - https://www.dimin.com/
   - firm: dimensional-innovations
     role: interpretive-planning
+    sources:
+      - https://www.dimin.com/
     note: content development
   - firm: dimensional-innovations
     role: media-design
+    sources:
+      - https://www.dimin.com/
     note: interactive technology
   - firm: stage-sound
     role: av-integration

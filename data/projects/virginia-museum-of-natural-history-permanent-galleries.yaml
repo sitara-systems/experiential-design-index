@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://d-and-p.com/naturalhistory
 technologies: []
 summary: >
   The Virginia Museum of Natural History's new facility in Martinsville,

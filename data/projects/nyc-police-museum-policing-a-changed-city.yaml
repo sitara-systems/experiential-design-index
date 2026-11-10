@@ -6,6 +6,8 @@ year_completed: 2007
 credits:
   - firm: evidence-design
     role: exhibit-design
+    sources:
+      - https://www.evidencedesign.com/details/policing-a-changed-city/
   - firm: unified-field
     role: media-design
     note: "Interactive displays / RTCC interface"

@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: ennead-architects
     role: architecture
+    sources:
+      - https://ennead.com/work/newtown/
     note: "Lead architect and master planner for the plant renovation"
   - firm: l-observatoire-international
     role: lighting-design

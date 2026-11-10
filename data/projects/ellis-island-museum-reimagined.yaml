@@ -7,8 +7,12 @@ status: announced
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/ellis-island-national-museum-of-immigration/
   - firm: sh-acoustics
     role: acoustics
+    sources:
+      - https://shacoustics.com/ellis-island-national-museum-of-immigration/
     note: >
       Integrated acoustic and audio consulting across the museum's
       revitalized exhibit environments and supporting base-building

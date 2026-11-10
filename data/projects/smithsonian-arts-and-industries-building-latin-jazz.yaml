@@ -9,6 +9,8 @@ credits:
     note: "no firm record yet"
   - firm: proun-design
     role: graphics-wayfinding
+    sources:
+      - https://www.proundesign.com/cultural-history-1/latin-jazz,-la-combinacion-perfecta
 technologies:
   - portable tube and fabric kiosk system
 summary: >

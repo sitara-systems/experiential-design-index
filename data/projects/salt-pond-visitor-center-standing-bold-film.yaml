@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/cape-cod-national-seashore/
     note: "15-minute park orientation film; content development, scriptwriting, software development, graphic/visual design, 3D animation, original filming, aerial drone filming"
 technologies:
   - aerial drone cinematography

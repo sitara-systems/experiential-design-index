@@ -9,6 +9,8 @@ credits:
     note: "Lead architect; no firm record yet."
   - firm: arrowstreet
     role: graphics-wayfinding
+    sources:
+      - https://www.arrowstreet.com/portfolio/boston-public-library-east-boston-branch-environmental-graphics/
     note: >
       Exterior environmental graphics, interpretive panels for the
       stormwater garden, and 21 engraved pavers along the Reading Porch

@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: proun-design
     role: graphics-wayfinding
+    sources:
+      - https://www.proundesign.com/cultural-history-1/north-carolina-museum-of-history
     note: "Exhibit graphics"
   - firm: 1220-fabrication
     role: fabrication

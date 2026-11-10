@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/davisbayouvisitorcenter-kp2s6-b6l5p
   - firm: color-ad
     role: fabrication
     note: "no firm record yet"

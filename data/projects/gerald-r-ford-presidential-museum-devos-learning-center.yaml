@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: xibitz
     role: fabrication
+    sources:
+      - https://xibitz.com/gerald-r-ford-presidential-museum/
 technologies:
   - multimedia simulation
 summary: >

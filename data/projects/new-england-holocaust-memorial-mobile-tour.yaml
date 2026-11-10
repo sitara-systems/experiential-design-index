@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/new-england-holocaust-memorial
     note: "QR-code-triggered mobile tour across 11 memorial signs with survivor interviews"
   - firm: caldwell-sign
     role: fabrication

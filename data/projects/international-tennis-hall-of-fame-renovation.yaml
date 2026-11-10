@@ -6,10 +6,16 @@ year_completed: 2025
 credits:
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/international-tennis-hall-of-fame-museum/
   - firm: healykohler
     role: graphics-wayfinding
+    sources:
+      - https://www.healykohler.com/project/international-tennis-hall-of-fame-museum/
   - firm: healykohler
     role: media-design
+    sources:
+      - https://www.healykohler.com/project/international-tennis-hall-of-fame-museum/
   - firm: cortina-productions
     role: media-design
     note: >
@@ -25,6 +31,8 @@ credits:
     role: fabrication
   - firm: advent
     role: exhibit-design
+    sources:
+      - https://adventmovespeople.com/clients/international-tennis-hall-of-fame/
     note: >
       Advent's own client page lists its scope as the 'Global Gallery'
       (experience design, historical recognition, visual storytelling,

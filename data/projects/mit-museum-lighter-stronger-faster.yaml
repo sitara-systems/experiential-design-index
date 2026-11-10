@@ -6,6 +6,9 @@ year_completed: 2019
 credits:
   - firm: southside-design-build
     role: fabrication
+    sources:
+      - https://www.southsidedb.com/portfolio-1/lighter-stronger-faster
+      - https://www.southsidedb.com/award
 technologies: []
 summary: >
   Lighter, Stronger, Faster, a temporary exhibition at the MIT Museum in

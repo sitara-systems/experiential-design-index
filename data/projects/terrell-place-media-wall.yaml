@@ -9,6 +9,8 @@ credits:
     note: "Experience design lead; 1,700 sq ft of motion-activated LED display"
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/terrell-place
     note: "Software platform driving the three content modes (Seasons, Color Play, Cityscape)"
   - firm: gensler
     role: architecture

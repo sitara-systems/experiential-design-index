@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: pentagram
     role: exhibit-design
+    sources:
+      - https://www.pentagram.com/work/giorgia-lupi-data-humanism-at-gallerie-d-italia
     note: "solo installation by Pentagram partner Giorgia Lupi, curated by Francesco Poroli"
 technologies: []
 summary: >

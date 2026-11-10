@@ -6,9 +6,13 @@ year_completed: 2024
 credits:
   - firm: ideum
     role: fabrication
+    sources:
+      - https://ideum.com/portfolio/dueling-dinosaurs-exhibition
     note: CNC-fabricated the physical fossil-block reproduction from the museum's 3D scan data
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/dueling-dinosaurs-exhibition
     note: Built the Fossil Block Theater projection mapping, the Appearance Interactive, and the CT Scanning holographic interactive
   - firm: urvogel-studios
     role: content-production

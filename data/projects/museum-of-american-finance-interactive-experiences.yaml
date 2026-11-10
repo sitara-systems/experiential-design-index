@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/museum-of-american-finance/
     note: "Interactive and media design and development, per Trivium's own project page."
 summary: >
   Trivium Interactive produced a series of interactive experiences on the history of finance, completed in 2026, at Museum of American Finance.

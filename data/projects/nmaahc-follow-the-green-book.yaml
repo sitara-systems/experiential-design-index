@@ -6,6 +6,9 @@ year_completed: 2016
 credits:
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/communication-arts-interactive-competition/
+      - https://www.cortinaproductions.com/about/
     note: "Interactive media producer and developer"
   - firm: ralph-appelbaum-associates
     role: exhibit-design

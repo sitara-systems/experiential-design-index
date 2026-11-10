@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: moment-factory
     role: media-design
+    sources:
+      - https://momentfactory.com/products/geoverse-national-geographic-museum-of-exploration
     note: >
       Creative and technical design of the Geoverse gallery: a 270-degree
       wraparound-projection room with interactive floor and spatialized

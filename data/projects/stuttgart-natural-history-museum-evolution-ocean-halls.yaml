@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/state-museum-of-natural-history-stuttgart
 technologies: []
 summary: >
   The Evolution and Ocean Halls at the State Museum of Natural History

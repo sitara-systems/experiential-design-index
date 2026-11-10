@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com
   - firm: dar-al-omran
     role: architecture
     note: "Architect and client-side authority; no firm record yet"

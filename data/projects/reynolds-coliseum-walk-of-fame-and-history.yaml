@@ -6,10 +6,16 @@ year_completed: 2016
 credits:
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/reynolds-coliseum/
   - firm: healykohler
     role: graphics-wayfinding
+    sources:
+      - https://www.healykohler.com/project/reynolds-coliseum/
   - firm: healykohler
     role: media-design
+    sources:
+      - https://www.healykohler.com/project/reynolds-coliseum/
 technologies:
   - interactive media displays
   - multi-screen interactive

@@ -12,8 +12,12 @@ credits:
     note: Architect of record; provided consulting services and construction administration, per the firm's own project page.
   - firm: aldrichpears-associates
     role: exhibit-design
+    sources:
+      - https://aldrichpears.com/project/wwii-valor-in-the-pacific/
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/100
     note: Provided exhibit lighting design for the new visitor center complex.
 technologies: []
 summary: >

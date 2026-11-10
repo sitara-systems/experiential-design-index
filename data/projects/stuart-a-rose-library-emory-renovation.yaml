@@ -9,8 +9,12 @@ credits:
     note: "No firm record yet; now practices as DLR Group | Collins Cooper Carusi Architects"
   - firm: healykohler
     role: exhibit-design
+    sources:
+      - https://www.healykohler.com/project/marbl-manuscript-archives-and-rare-book-library/
   - firm: healykohler
     role: media-design
+    sources:
+      - https://www.healykohler.com/project/marbl-manuscript-archives-and-rare-book-library/
 technologies: []
 summary: >
   The Stuart A. Rose Manuscript, Archives, and Rare Book Library (then

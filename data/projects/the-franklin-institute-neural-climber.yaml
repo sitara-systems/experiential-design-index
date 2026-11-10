@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://www.availablelight.com/work/neural-climber-at-the-franklin-institute
 summary: >
   Neural Climber, an interactive climbing structure within the "Your
   Brain" exhibition in The Franklin Institute's Karabots Pavilion,

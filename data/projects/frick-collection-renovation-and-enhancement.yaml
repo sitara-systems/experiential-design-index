@@ -9,6 +9,8 @@ credits:
     note: "Design architect; no firm record yet"
   - firm: beyer-blinder-belle
     role: architecture
+    sources:
+      - https://www.beyerblinderbelle.com/work/view/the-frick-collection-renovation-enhancement/
     note: "Executive architect"
   - firm: l-observatoire-international
     role: lighting-design

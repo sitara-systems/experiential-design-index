@@ -12,9 +12,13 @@ credits:
     note: "No firm record yet"
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/heroes-and-legends-at-the-kennedy-space-center
     note: "Audiovisual installation, integration, and show control"
   - firm: lightswitch
     role: lighting-design
+    sources:
+      - https://lightswitch.net/work/view/heroes-and-legends
     note: "Lighting design for the exterior ramp, signage, facade and interior exhibit spaces per the firm's portfolio page, which lists the project as 2017 and as 'Heroes and Legends + Forever Remembered'."
 technologies:
   - 4D multisensory theater

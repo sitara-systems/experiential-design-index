@@ -6,6 +6,8 @@ year_completed: 2011
 credits:
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/cant-look-away/
   - firm: curious-beast
     role: exhibit-design
     note: "No firm record yet"

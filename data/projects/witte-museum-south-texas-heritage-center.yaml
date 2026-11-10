@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://www.availablelight.com/work/south-texas-heritage-center-witte-museum
 summary: >
   The Robert J. & Helen C. Kleberg South Texas Heritage Center, a new
   wing added to the Witte Museum campus in San Antonio, opened May 26,

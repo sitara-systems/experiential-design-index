@@ -6,6 +6,8 @@ year_completed: 2011
 credits:
   - firm: pure-and-applied
     role: exhibit-design
+    sources:
+      - https://pureandappliedstudio.com/project/cecil-beaton-the-new-york-years-exhibition
 technologies: []
 summary: >
   "Cecil Beaton: The New York Years" was on view late October 2011 through

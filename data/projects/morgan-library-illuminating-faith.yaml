@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=131
 summary: >
   "Illuminating Faith: The Eucharist in Medieval Life and Art" was on view
   at The Morgan Library & Museum in New York from May 17 through September

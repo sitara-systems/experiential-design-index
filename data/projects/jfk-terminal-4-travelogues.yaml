@@ -6,8 +6,12 @@ year_completed: 2001
 credits:
   - firm: diller-scofidio-renfro
     role: media-design
+    sources:
+      - https://dsrny.com/project/travelogues
   - firm: diller-scofidio-renfro
     role: content-production
+    sources:
+      - https://dsrny.com/project/travelogues
 technologies:
   - lenticular screen
   - motion-triggered animation

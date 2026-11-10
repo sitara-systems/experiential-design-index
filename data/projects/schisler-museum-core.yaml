@@ -11,6 +11,8 @@ credits:
     note: "No firm record yet"
   - firm: explus
     role: fabrication
+    sources:
+      - https://www.explusinc.com/portfolio.html
 technologies: []
 summary: >
   The Schisler Museum of Wildlife & Natural History, in East Stroudsburg

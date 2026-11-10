@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/thomas-jefferson-foundation-monticello-contemplative-site-and-burial-ground-for-enslaved-people/
   - firm: nelson-byrd-woltz
     role: landscape-architecture
     note: "Landscape architecture; no firm record yet"

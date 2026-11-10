@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: 1220-fabrication
     role: fabrication
+    sources:
+      - https://1220.com/portfolio/the-museum-of-christian-and-gospel-music/
   - firm: mhp-architects
     role: architecture
     note: "No firm record yet"

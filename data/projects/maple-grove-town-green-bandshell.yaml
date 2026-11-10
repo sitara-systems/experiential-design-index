@@ -6,11 +6,15 @@ year_completed: 2010
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/city-of-maple-grove/
     note: "design lead Eric Amel"
   - firm: damon-farber
     role: landscape-architecture
   - firm: schuler-shook
     role: lighting-design
+    sources:
+      - https://schulershook.com/projects/maple-grove-town-green-bandshell
     note: "theatre planning, lighting design, and rigging systems design"
 technologies: []
 summary: >

@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: storyfile
     role: media-design
+    sources:
+      - https://www.storyfile.com/news/storyfile-technology-powers-new-big-sonia-exhibit-at-the-museum-of-kansas-city
     technology_tags:
       - artificial-intelligence
   - firm: inflatable-film

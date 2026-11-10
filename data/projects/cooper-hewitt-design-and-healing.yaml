@@ -6,9 +6,13 @@ year_completed: 2021
 credits:
   - firm: mass-design-group
     role: exhibit-design
+    sources:
+      - https://modelofarchitecture.org/projects/design-and-healing-exhibition
     note: "Exhibition design"
   - firm: span-studio
     role: graphics-wayfinding
+    sources:
+      - https://span.studio/projects/design-and-healing
     note: "Graphic design (with Alyssa Arnesen and Bud Rodecker); no firm record yet"
 technologies:
   - environmental graphic design

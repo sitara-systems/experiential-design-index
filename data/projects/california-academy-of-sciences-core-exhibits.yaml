@@ -12,9 +12,13 @@ credits:
     note: "No firm record yet"
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/steinhart-aquarium
     note: "Steinhart Aquarium exhibits specifically, per Thinc Design's own portfolio"
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/california-academy-of-sciences/
     note: >
       Comprehensive building AV incl. traditional media pieces, large
       blended projection systems, a 100-node digital signage system, and

@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: anita-jorgensen-lighting-design
     role: lighting-design
+    sources:
+      - https://www.ajld.net/project.php?id=164
 summary: >
   A $15.4 million renovation of the Lehman Center for the Performing Arts
   at Lehman College, adding a new glazed entrance pavilion, was completed

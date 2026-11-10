@@ -13,6 +13,8 @@ credits:
     role: fabrication
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/university-of-nebraska-state-museum/
 technologies:
   - digital projection dome
   - multi-user touchscreen table

@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: unified-field
     role: media-design
+    sources:
+      - https://www.unifiedfield.com/projects/neurosociety
     note: "Designed all interactive programs, systems, and device interfaces for the immersive theatrical experience; created by David Byrne and Mala Gaonkar (individuals, not firms)"
 technologies:
   - custom interactive devices

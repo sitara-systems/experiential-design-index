@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: brc-imagination-arts
     role: content-production
+    sources:
+      - https://www.brcweb.com/projects/
     note: "Produced and filmed a three-part multiscreen show for the USA Pavilion"
 summary: >
   The USA Pavilion at World Expo 2017 in Astana, Kazakhstan, featured a

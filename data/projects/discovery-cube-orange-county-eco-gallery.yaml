@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/the-discovery-cube/
     note: >
       AV integration for a 4-player trash-sorting game with leaderboard, 500
       RFID objects, touchscreen interactives, and barcode-reader shopping

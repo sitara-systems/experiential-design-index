@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/chromatic
     note: "Conceived and developed in collaboration with the San Francisco Symphony"
 technologies:
   - facade lighting

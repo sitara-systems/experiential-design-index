@@ -6,6 +6,8 @@ year_completed: 1999
 credits:
   - firm: pelli-clarke-and-partners
     role: architecture
+    sources:
+      - https://pcparch.com/work/type/civic-and-cultural
 technologies: []
 summary: >
   The combined NHK Osaka Broadcasting Center and Osaka Museum of History

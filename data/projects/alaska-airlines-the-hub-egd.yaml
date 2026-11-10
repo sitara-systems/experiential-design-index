@@ -6,8 +6,12 @@ year_completed: 2020
 credits:
   - firm: nbbj
     role: architecture
+    sources:
+      - https://www.nbbj.com/work/alaska-airlines-copper-river-egd
   - firm: nbbj
     role: graphics-wayfinding
+    sources:
+      - https://www.nbbj.com/work/alaska-airlines-copper-river-egd
     note: "Environmental graphics and wayfinding system for the 128,000 sq ft crew facility"
 technologies:
   - environmental graphics

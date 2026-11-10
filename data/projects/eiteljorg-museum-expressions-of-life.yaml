@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/eiteljorg-museum
     note: "Audioscape of Native languages and 'Map of Native America' land-claims projection"
   - firm: kubik-maltbie
     role: fabrication

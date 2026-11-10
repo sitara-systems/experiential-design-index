@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/tribute-to-engineering-archway
     note: "13-foot outdoor archway with LCD screens and LED array on notable engineers"
   - firm: selbert-perkins-design
     role: graphics-wayfinding

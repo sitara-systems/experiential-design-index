@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/pinehurst-heritage-hallway
     note: "Archival media displays across three corridor alcoves"
   - firm: electrosonic
     role: av-integration

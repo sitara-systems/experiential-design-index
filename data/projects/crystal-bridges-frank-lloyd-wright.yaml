@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/
 technologies: []
 summary: >
   An interactive installation on Frank Lloyd Wright at Crystal Bridges

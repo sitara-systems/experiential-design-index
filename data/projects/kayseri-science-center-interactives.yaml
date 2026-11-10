@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: ideum
     role: fabrication
+    sources:
+      - https://ideum.com/portfolio/exploratorium
     note: "Graphic/UX design, software development, content creation, engineering, industrial design, animation, and hardware for three permanent interactives"
   - firm: exploratorium
     role: exhibit-design

@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: olson-kundig
     role: architecture
+    sources:
+      - https://olsonkundig.com/projects/foss-waterway-seaport/
 technologies: []
 summary: >
   Olson Kundig rehabilitated the last remaining 350-foot section of

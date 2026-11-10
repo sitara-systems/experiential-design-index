@@ -7,11 +7,17 @@ status: completed
 credits:
   - firm: ideum
     role: exhibit-design
+    sources:
+      - https://ideum.com/portfolio/prometheus-in-the-desert
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/prometheus-in-the-desert
     note: Interactive digital timeline of the Manhattan Project on a 65" touch table
   - firm: ideum
     role: fabrication
+    sources:
+      - https://ideum.com/portfolio/prometheus-in-the-desert
     note: 27 interpretive panels and a full-scale replica of Los Alamos' East Main Gate
 technologies:
   - multitouch table

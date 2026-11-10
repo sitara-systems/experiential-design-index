@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: snohetta
     role: architecture
+    sources:
+      - https://www.snohetta.com/projects/king-abdulaziz-centre-for-world-culture-ithra
 technologies: []
 summary: >
   A Saudi Aramco-built cultural complex in Dhahran, Saudi Arabia housing a

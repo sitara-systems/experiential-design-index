@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: plus-and-greater-than
     role: exhibit-design
+    sources:
+      - https://www.plusandgreaterthan.com/projects/deschutes-public-library
     note: "Early learning environments specialist for the branch's children's discovery space"
   - firm: miller-hull
     role: architecture

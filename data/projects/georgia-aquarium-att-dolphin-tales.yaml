@@ -9,6 +9,8 @@ credits:
     note: "WOW!Works, entertainment design and production; no firm record yet"
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/at-t-dolphin-tales-at-georgia-aquarium
     note: Show AV design, supply, and installation; also designed AV for the dolphin gallery lobby
 technologies:
   - edge-blended projection

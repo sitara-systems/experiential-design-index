@@ -11,6 +11,8 @@ credits:
       photo booth) and team-history timeline.
   - firm: avi-spl
     role: av-integration
+    sources:
+      - https://avispl.com/xtg/our-work/chicago-bulls-madhouse-team-store/
 summary: >
   The Madhouse Team Store, a 10,000-square-foot Chicago Bulls/Blackhawks
   retail store at Chicago's United Center, opened June 20, 2017, featuring

@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: zgf-architects
     role: architecture
+    sources:
+      - https://www.zgf.com/project/usdos-bureau-of-overseas-buildings-operations-u-s-embassy-compound-paramaribo-suriname/
 technologies: []
 summary: >
   New U.S. Embassy compound in Paramaribo, Suriname — chancery, access

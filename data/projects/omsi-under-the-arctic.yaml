@@ -6,8 +6,12 @@ year_completed: 2017
 credits:
   - firm: omsi-creative-services
     role: exhibit-design
+    sources:
+      - https://omsi.edu/exhibit-products/under-the-arctic/
   - firm: omsi-creative-services
     role: fabrication
+    sources:
+      - https://omsi.edu/exhibit-products/under-the-arctic/
 technologies:
   - recreated permafrost tunnel environment
 summary: >

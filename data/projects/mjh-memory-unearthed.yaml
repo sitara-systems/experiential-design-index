@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: pure-and-applied
     role: exhibit-design
+    sources:
+      - https://pureandappliedstudio.com/project/memory-unearthed
 technologies: []
 summary: >
   "Memory Unearthed: The Lodz Ghetto Photographs of Henryk Ross" was on

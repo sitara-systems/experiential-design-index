@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/14
 recognition:
   - award: "IES Award — Interior Lighting Design"
     year: 2014

@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: william-rawn-associates
     role: architecture
+    sources:
+      - https://rawnarch.com/projects/duke-rubenstein.html
     note: "Architect, per William Rawn Associates' project page (Completion 2017)."
 summary: >
   William Rawn Associates designed the Rubenstein Arts Center for Duke University in Durham, NC, completed in 2017.

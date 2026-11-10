@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: adirondack-studios
     role: fabrication
+    sources:
+      - https://www.adkstudios.com/portfolio/
     note: >
       Credited in ADK's own portfolio; the museum's press release names
       MDSX as exhibit designer but does not name a fabricator — role

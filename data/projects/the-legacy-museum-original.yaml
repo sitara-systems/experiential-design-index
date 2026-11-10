@@ -6,10 +6,16 @@ year_completed: 2018
 credits:
   - firm: local-projects
     role: master-planning
+    sources:
+      - https://localprojects.com/work/civil-rights-memorials/the-legacy-museum/
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/work/civil-rights-memorials/the-legacy-museum/
   - firm: local-projects
     role: media-design
+    sources:
+      - https://localprojects.com/work/civil-rights-memorials/the-legacy-museum/
 summary: >
   The Legacy Museum, built by the Equal Justice Initiative on the site of a
   former slave warehouse in Montgomery, Alabama, opened April 26, 2018,

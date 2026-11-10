@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: lightswitch
     role: lighting-design
+    sources:
+      - https://lightswitch.net/work/view/spreckels-temple-of-music
     note: "Band shell lighting design with a custom control system for park staff; brought in by Illuminate, per the firm page."
 technologies:
   - architectural lighting

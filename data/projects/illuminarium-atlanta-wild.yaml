@@ -9,6 +9,8 @@ credits:
     note: "LAB at Rockwell Group; experience design"
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/illuminarium-atlanta
     note: Design engineering, projection studies, and coordination of all AV/technology systems
 technologies:
   - 4K projection

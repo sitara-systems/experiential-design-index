@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: proun-design
     role: graphics-wayfinding
+    sources:
+      - https://www.proundesign.com/cultural-history-1/salem-maritime-national-historic-site
     note: "Exhibit graphics"
   - firm: mystic-scenic
     role: fabrication

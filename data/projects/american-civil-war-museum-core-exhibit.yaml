@@ -9,10 +9,16 @@ credits:
     note: "no firm record yet"
   - firm: solid-light
     role: exhibit-design
+    sources:
+      - https://solidlight-inc.com/work/american-civil-war-museum/
   - firm: solid-light
     role: media-design
+    sources:
+      - https://solidlight-inc.com/work/american-civil-war-museum/
   - firm: solid-light
     role: fabrication
+    sources:
+      - https://solidlight-inc.com/work/american-civil-war-museum/
 technologies:
   - interactive media
 summary: >

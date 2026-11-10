@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: moment-factory
     role: content-production
+    sources:
+      - https://momentfactory.com/products/changi-experience-studio
 technologies:
   - interactive installation
   - immersive environment

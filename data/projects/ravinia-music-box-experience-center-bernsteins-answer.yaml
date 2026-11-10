@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: brc-imagination-arts
     role: content-production
+    sources:
+      - https://www.brcweb.com/project/ravinia-music-box-experience-center/
     note: >
       Strategic planning, concept development, schematic design,
       production, and installation and integration for the new experience

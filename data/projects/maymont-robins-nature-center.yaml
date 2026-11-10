@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/robins-nature-center
     note: "James Riverscape digital underwater scene and Digital Pools interactive"
   - firm: building-four-fabrication
     role: fabrication

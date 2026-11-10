@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: unified-field
     role: media-design
+    sources:
+      - https://www.unifiedfield.com/projects/yale-school-of-management
 technologies:
   - digital signage network
   - real-time data visualization

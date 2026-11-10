@@ -6,11 +6,17 @@ year_completed: 2024
 credits:
 - firm: belle-and-wissell
   role: interpretive-planning
+  sources:
+    - https://bwco.info/work/mcmillan/
+    - https://bwco.info/?p=5544
   note: >-
     Content development (historians, architects, city officials) and the overarching
     interpretive concept.
 - firm: belle-and-wissell
   role: graphics-wayfinding
+  sources:
+    - https://bwco.info/work/mcmillan/
+    - https://bwco.info/?p=5544
   note: Interpretive signage across the grounds and on historic structures.
 - firm: honorcraft
   role: fabrication

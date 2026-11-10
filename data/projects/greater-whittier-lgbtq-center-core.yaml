@@ -6,8 +6,14 @@ year_completed: 2024
 credits:
   - firm: dlr-group
     role: architecture
+    sources:
+      - https://www.dlrgroup.com/work/greater-whittier-lgbtq-center/
+      - https://www.dlrgroup.com/idea/community-centered-design-whittier-lgbtq/
   - firm: dlr-group
     role: graphics-wayfinding
+    sources:
+      - https://www.dlrgroup.com/work/greater-whittier-lgbtq-center/
+      - https://www.dlrgroup.com/idea/community-centered-design-whittier-lgbtq/
     note: >
       Exterior/interior Pride-color mural (tribute to Bayard Rustin,
       James Baldwin, Frida Kahlo, Marsha P. Johnson, Harvey Milk),
@@ -15,8 +21,14 @@ credits:
       figures.
   - firm: dlr-group
     role: lighting-design
+    sources:
+      - https://www.dlrgroup.com/work/greater-whittier-lgbtq-center/
+      - https://www.dlrgroup.com/idea/community-centered-design-whittier-lgbtq/
   - firm: dlr-group
     role: acoustics
+    sources:
+      - https://www.dlrgroup.com/work/greater-whittier-lgbtq-center/
+      - https://www.dlrgroup.com/idea/community-centered-design-whittier-lgbtq/
 recognition:
   - award: "MUSE Creative Awards — Gold, Experiential & Immersive: Diversity & Inclusion"
     year: 2025

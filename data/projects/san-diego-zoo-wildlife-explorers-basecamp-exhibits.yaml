@@ -6,15 +6,23 @@ year_completed: 2022
 credits:
   - firm: ideum
     role: exhibit-design
+    sources:
+      - https://ideum.com/portfolio/san-diego-zoo-exhibition-design
     note: Over 20 exhibits across the herpetology and invertebrate buildings
   - firm: ideum
     role: fabrication
+    sources:
+      - https://ideum.com/portfolio/san-diego-zoo-exhibition-design
     note: Custom microscope stations, volunteer/docent stations, and digital-signage enclosures
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/san-diego-zoo-exhibition-design
     note: Migration full-dome projection experience, Living River LED sculpture animation, and multiple interactive games
   - firm: ideum
     role: av-integration
+    sources:
+      - https://ideum.com/portfolio/san-diego-zoo-exhibition-design
   - firm: hgw-architecture
     role: architecture
     note: Architect for the herpetology and invertebrate exhibit buildings; collaborated with Ideum on microscope-station design and materials. No firm record yet.

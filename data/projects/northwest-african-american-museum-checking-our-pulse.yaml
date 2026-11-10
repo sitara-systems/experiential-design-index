@@ -6,10 +6,16 @@ year_completed: 2010
 credits:
   - firm: belle-and-wissell
     role: exhibit-design
+    sources:
+      - https://bwco.info/work/checking-our-pulse-exhibit/
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/checking-our-pulse-exhibit/
   - firm: belle-and-wissell
     role: content-production
+    sources:
+      - https://bwco.info/work/checking-our-pulse-exhibit/
   - firm: turner-exhibits
     role: fabrication
     note: "Satellite kiosks; no firm record yet"

@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: studio-matthews
     role: media-design
+    sources:
+      - https://studiomatthews.com/project/business-is/
 summary: >
   "Business Is...", an interactive LED installation completed in 2012,
   wrapped around a four-story column in PACCAR Hall at the University of

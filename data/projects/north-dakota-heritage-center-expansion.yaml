@@ -6,11 +6,15 @@ year_completed: 2014
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/north-dakota-heritage-center/
   - firm: lightowler-johnson-associates
     role: architecture
     note: "Fargo, ND-based co-architect; no firm record yet"
   - firm: lord-cultural-resources
     role: interpretive-planning
+    sources:
+      - https://www.lord.ca/Media/2014.10.31-north-dakota-heritage-center-opens-press-release.htm
     note: "Concept development and project management for the Great Plains Exhibit Development joint venture"
   - firm: taylor-studios
     role: fabrication

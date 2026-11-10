@@ -6,11 +6,17 @@ year_completed: 2012
 credits:
   - firm: andrew-merriell
     role: exhibit-design
+    sources:
+      - https://merriell.com/daily-planet
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://www.eoslightmedia.com/work/43
     note: "Client of record for Eos Lightmedia's exhibit-lighting scope, per Eos Lightmedia's own project page."
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/43
     note: >
       Supplied, installed, and focused exhibit lighting across the 80,000 sq
       ft Nature Research Center, including LED video arrays, colour washes,

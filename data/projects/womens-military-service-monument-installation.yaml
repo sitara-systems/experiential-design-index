@@ -6,8 +6,12 @@ year_completed: 2015
 credits:
   - firm: ayers-saint-gross
     role: landscape-architecture
+    sources:
+      - https://ayerssaintgross.com/work/project/women-in-the-military-service-monument/
   - firm: ayers-saint-gross
     role: graphics-wayfinding
+    sources:
+      - https://ayerssaintgross.com/work/project/women-in-the-military-service-monument/
     note: "Engraved granite plaques with interpretive/commemorative veteran quotes"
 summary: >
   Maryland's first monument dedicated to women veterans, a granite

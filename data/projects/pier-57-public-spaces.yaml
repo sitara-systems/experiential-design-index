@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: diller-scofidio-renfro
     role: architecture
+    sources:
+      - https://dsrny.com/project/google-pier-57
   - firm: hlw-international
     role: architecture
     note: "Associate architect; no firm record yet"

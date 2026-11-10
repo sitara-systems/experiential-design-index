@@ -6,8 +6,12 @@ year_completed: 2022
 credits:
   - firm: taylor-studios
     role: exhibit-design
+    sources:
+      - https://taylorstudios.com/our-work/pokagon-state-park/
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/pokagon-state-park/
 summary: >
   A 1,100-square-foot suite of non-electronic interpretive exhibits at
   Pokagon State Park in Angola, Indiana, completed in 2022 by Taylor

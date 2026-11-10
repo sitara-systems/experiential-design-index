@@ -11,6 +11,8 @@ credits:
     role: exhibit-design
   - firm: available-light
     role: lighting-design
+    sources:
+      - https://www.availablelight.com/work/national-world-war-ii-museum-us-freedom-pavilion
   - firm: cortina-productions
     role: media-design
   - firm: the-taylor-group

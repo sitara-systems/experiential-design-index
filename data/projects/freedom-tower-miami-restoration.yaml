@@ -6,9 +6,13 @@ year_completed: 2025
 credits:
   - firm: local-projects
     role: exhibit-design
+    sources:
+      - https://localprojects.com/work/civil-rights-memorials/miamis-freedom-tower/
     note: Master planning and visitor-journey design across 30,000 sq ft, including an oral-history-driven media experience
   - firm: local-projects
     role: media-design
+    sources:
+      - https://localprojects.com/work/civil-rights-memorials/miamis-freedom-tower/
 technologies:
   - projection
   - panoramic video

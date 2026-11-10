@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: ralph-appelbaum-associates
     role: exhibit-design
+    sources:
+      - https://raai.com/project/in-this-place-national-underground-railroad-freedom-center/
   - firm: moody-nolan
     role: architecture
     note: "no firm record yet"
@@ -13,6 +15,8 @@ credits:
     role: lighting-design
   - firm: batwin-and-robin
     role: content-production
+    sources:
+      - https://www.batwinandrobin.com/projects/national-underground-railroad-freedom-center/
     note: "Linear media production, per Ralph Appelbaum Associates' own project page"
   - firm: upswell
     role: media-design

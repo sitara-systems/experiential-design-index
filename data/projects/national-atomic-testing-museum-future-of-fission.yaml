@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
 - firm: beaudry-interactive
   role: media-design
+  sources:
+    - https://www.binteractive.com/post/the-future-of-fission
   note: Designed and built a gamified interactive on three fission reactor types
     in the Nuclear Reactions gallery, expanding the Atomic Odyssey exhibit.
 technologies:

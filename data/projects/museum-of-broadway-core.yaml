@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/the-museum-of-broadway
     note: Audio, interactives, digital signage, and specialty projection across 20+ exhibition spaces
 technologies:
   - augmented mirror

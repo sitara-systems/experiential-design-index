@@ -6,8 +6,12 @@ year_completed: 2016
 credits:
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/asian-elephant-exhibit-audubon-zoo
   - firm: solomon-group
     role: av-integration
+    sources:
+      - https://solomongroup.com/projects/asian-elephant-exhibit-audubon-zoo
 technologies:
   - interactive kiosks
 summary: >

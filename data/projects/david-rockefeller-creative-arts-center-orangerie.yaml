@@ -8,6 +8,8 @@ credits:
   role: architecture
 - firm: fisher-marantz-stone
   role: lighting-design
+  sources:
+    - https://www.fmsp.com/projects/david-rockefeller-arts-center/
 - firm: fisher-dachs-associates
   role: technical-consulting
   note: Theatre consultant

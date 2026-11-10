@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: studio-matthews
     role: exhibit-design
+    sources:
+      - https://studiomatthews.com/project/king-fm/
   - firm: northwest-sign-and-design
     role: fabrication
 summary: >

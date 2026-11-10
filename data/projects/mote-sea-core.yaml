@@ -6,12 +6,16 @@ year_completed: 2025
 credits:
   - firm: cambridgeseven
     role: architecture
+    sources:
+      - https://www.cambridgeseven.com/project/mote-science-education-aquarium/
     note: >
       Per CambridgeSeven's own project page; scope overlaps with
       tvsdesign's independently-sourced architecture credit below, kept
       as parallel claims rather than resolved
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/mote-science-education-aquarium/
   - firm: tvsdesign
     role: architecture
     note: "No firm record yet; independently corroborated via blooloop, archpaper, and tvsdesign's own project page"

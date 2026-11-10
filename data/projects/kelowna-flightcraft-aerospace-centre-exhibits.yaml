@@ -8,11 +8,15 @@ credits:
     role: exhibit-design
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/348
     note: >
       Designed and implemented lighting and audiovisual systems across the
       20,000 sq ft aviation-history exhibition space.
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/348
 technologies: []
 summary: >
   The Kelowna Flightcraft Aerospace Centre for Excellence, a 20,000 sq ft

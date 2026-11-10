@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://d-and-p.com/human-history
 technologies: []
 summary: >
   The National Law Enforcement Museum, a largely underground museum near

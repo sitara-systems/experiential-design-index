@@ -8,9 +8,13 @@ credits:
     role: exhibit-design
   - firm: cortina-productions
     role: content-production
+    sources:
+      - https://bbinet.com/works/dallas-holocaust-human-rights-museum/
     note: "Media production, per BBI Engineering's own project page"
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/dallas-holocaust-human-rights-museum/
     note: >
       Designed and installed the synchronized projection and lighting cue
       system for the Orientation Theater's ascending-stairs journey sequence
@@ -19,6 +23,8 @@ credits:
     note: "No firm record yet"
   - firm: schuler-shook
     role: lighting-design
+    sources:
+      - https://schulershook.com/projects/dallas-holocaust-and-human-rights-museum
     note: >
       Interior and exterior lighting design for the museum building as a
       whole (offices, archive library, main lobby, museum shop, theatre,

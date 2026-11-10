@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: nbbj
     role: architecture
+    sources:
+      - https://www.nbbj.com/work/ucsf-pediatric-stad-center
   - firm: belle-and-wissell
     role: media-design
     note: "Digital fabrication/experiential media"

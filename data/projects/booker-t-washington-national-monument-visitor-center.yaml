@@ -6,6 +6,8 @@ year_completed: 2013
 credits:
   - firm: proun-design
     role: graphics-wayfinding
+    sources:
+      - https://www.proundesign.com/items/booker-t.-washington-visitor-center
     note: "Exhibit graphics; no firm record yet"
   - firm: wondercabinet-interpretive-design
     role: exhibit-design

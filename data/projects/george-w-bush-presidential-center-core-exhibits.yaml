@@ -6,10 +6,16 @@ year_completed: 2013
 credits:
   - firm: the-prd-group
     role: exhibit-design
+    sources:
+      - https://theprdgroup.com/project/george-w-bush-presidential-center/
   - firm: design-and-production-incorporated
     role: fabrication
+    sources:
+      - https://d-and-p.com/presidential-museums
   - firm: design-and-production-incorporated
     role: av-integration
+    sources:
+      - https://d-and-p.com/presidential-museums
   - firm: cortina-productions
     role: media-design
   - firm: robert-a-m-stern-architects

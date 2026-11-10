@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/connecticut-science-center
   - firm: pelli-clarke-and-partners
     role: architecture
     note: "Credited as Cesar Pelli & Associates at time of completion, the firm's name prior to its 2005 and 2019 renamings"

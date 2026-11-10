@@ -20,6 +20,8 @@ credits:
     note: "Interactive elements and media production; no firm record yet"
   - firm: solomon-group
     role: technical-consulting
+    sources:
+      - https://solomongroup.com/projects/world-of-coca-cola-coke-stories
     note: "Overall production management"
 technologies:
   - projection mapping

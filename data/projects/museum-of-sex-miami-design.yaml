@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: snohetta
     role: architecture
+    sources:
+      - https://www.snohetta.com/projects/museum-of-sex-miami
   - firm: snohetta
     role: exhibit-design
+    sources:
+      - https://www.snohetta.com/projects/museum-of-sex-miami
     note: "Design concepts for temporary exhibition space and galleries"
 technologies: []
 summary: >

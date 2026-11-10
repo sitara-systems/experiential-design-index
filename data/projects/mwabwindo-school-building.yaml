@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet."
   - firm: renfro-design-group
     role: lighting-design
+    sources:
+      - https://www.renfrodesign.com/portfolio
 technologies: []
 summary: >
   A school building in Mwabwindo Village, Zambia, designed by Selldorf

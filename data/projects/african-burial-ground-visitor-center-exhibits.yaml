@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: amaze-design
     role: exhibit-design
+    sources:
+      - https://www.amazedesign.com/work/africanburialgroundnewyork-99bn2-6734w
   - firm: roberta-washington-associates
     role: architecture
     note: "no firm record yet"

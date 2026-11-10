@@ -6,8 +6,12 @@ year_completed: 2023
 credits:
   - firm: gensler
     role: architecture
+    sources:
+      - https://gensler.com/projects/jidu-roboverse-sanlitun-experience-center
   - firm: gensler
     role: exhibit-design
+    sources:
+      - https://gensler.com/projects/jidu-roboverse-sanlitun-experience-center
 technologies:
   - interactive installation
 summary: >

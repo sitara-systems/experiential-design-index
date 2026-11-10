@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/international-orangutan-center
     note: "Interior and exterior exhibition elements"
   - firm: browning-day-mullins-dierdorf
     role: architecture

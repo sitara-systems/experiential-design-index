@@ -12,9 +12,13 @@ credits:
     note: "Brent Johnson, lead exhibit designer"
   - firm: monadnock-media
     role: media-design
+    sources:
+      - https://monadnock.org/project/national-mississippi-river-museum/
     note: "Media master planning, immersive theater and interactive design"
   - firm: hadley-exhibits
     role: fabrication
+    sources:
+      - https://hadleyexhibits.com/national-mississippi-river-museum-aquarium/
     note: "Primary exhibit fabricator"
   - firm: dixon-studios
     role: fabrication

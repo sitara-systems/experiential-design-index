@@ -6,6 +6,8 @@ year_completed: 1976
 credits:
   - firm: hok
     role: architecture
+    sources:
+      - https://www.hok.com/news/2022-03/gyo-obata-founding-partner-at-hok-dies-at-99/
     note: "Principal architect Gyo Obata"
 technologies: []
 summary: >

@@ -6,8 +6,12 @@ year_completed: 2017
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/knock-knock-childrens-museum/
   - firm: northern-light-productions
     role: content-production
+    sources:
+      - https://nlprod.com/item/knock-knock-childrens-museum/
     note: "Experience design and media production"
 technologies:
   - 3D and 2D animation

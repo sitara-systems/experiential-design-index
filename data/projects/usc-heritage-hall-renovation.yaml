@@ -6,8 +6,12 @@ year_completed: 2014
 credits:
   - firm: dlr-group
     role: architecture
+    sources:
+      - https://www.dlrgroup.com/work/heritage-hall-renovation/
   - firm: advent
     role: graphics-wayfinding
+    sources:
+      - https://www.adventmovespeople.com/projects/university-southern-california-1/
     note: >
       Brand clarity, donor engagement strategy, visual storytelling, and
       graphic design for the Hall of Champions' Spirit of Troy exhibit;

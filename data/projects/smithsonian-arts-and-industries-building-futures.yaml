@@ -6,8 +6,12 @@ year_completed: 2021
 credits:
   - firm: rockwell-group
     role: exhibit-design
+    sources:
+      - https://www.rockwellgroup.com/projects/futures
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/approach/museums/
 summary: >
   FUTURES, a nine-month, ~32,000-sq-ft exhibition marking the
   Smithsonian's 175th anniversary and the Arts and Industries Building's

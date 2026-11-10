@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: ennead-architects
     role: architecture
+    sources:
+      - https://ennead.com/work/robinson/
     note: "Design architect"
   - firm: polk-stanley-wilcox-architects
     role: architecture

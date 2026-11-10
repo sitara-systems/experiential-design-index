@@ -6,8 +6,12 @@ year_completed: 2022
 credits:
   - firm: the-urban-conga
     role: exhibit-design
+    sources:
+      - https://www.theurbanconga.com/projects/parc
   - firm: the-urban-conga
     role: fabrication
+    sources:
+      - https://www.theurbanconga.com/projects/parc
 technologies:
   - dichroic film panels
   - LED backlighting

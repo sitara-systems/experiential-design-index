@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: peter-hyde-design
     role: exhibit-design
+    sources:
+      - https://www.peterhydedesign.com/projects/forged-in-freedom-the-bond-of-the-seward-tubman-families/
 summary: >
   "Forged in Freedom: The Bond of the Seward-Tubman Families," an exhibit
   on the relationship between the Seward and Tubman families at the Seward

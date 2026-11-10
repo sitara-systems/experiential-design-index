@@ -6,6 +6,8 @@ year_completed: 2008
 credits:
   - firm: gallagher-and-associates
     role: exhibit-design
+    sources:
+      - https://gallagherdesign.com/project/carolina-basketball-museum/
 technologies: []
 summary: >
   The Carolina Basketball Museum, honoring the University of North

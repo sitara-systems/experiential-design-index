@@ -6,9 +6,13 @@ year_completed: 2019
 credits:
   - firm: esi-design
     role: media-design
+    sources:
+      - https://esidesign.com/work/151-north-franklin-light-installation/
     note: "Experience design lead"
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/sensing-change
     note: "Software environment for weather-driven generative visuals"
   - firm: uplight
     role: lighting-design

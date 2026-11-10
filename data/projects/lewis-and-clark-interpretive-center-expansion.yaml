@@ -6,10 +6,16 @@ year_completed: 2012
 credits:
   - firm: taylor-studios
     role: interpretive-planning
+    sources:
+      - https://taylorstudios.com/our-work/lewis-clark-interpretive-center/
   - firm: taylor-studios
     role: exhibit-design
+    sources:
+      - https://taylorstudios.com/our-work/lewis-clark-interpretive-center/
   - firm: taylor-studios
     role: fabrication
+    sources:
+      - https://taylorstudios.com/our-work/lewis-clark-interpretive-center/
 summary: >
   A 2,700-square-foot, three-gallery phased expansion of the Lewis & Clark
   Interpretive Center in Washburn, North Dakota, completed in 2012, led by

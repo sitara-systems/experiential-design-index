@@ -6,13 +6,19 @@ year_completed: 2022
 credits:
   - firm: skidmore-owings-and-merrill
     role: architecture
+    sources:
+      - https://www.som.com/news/som-completes-transformation-of-chicagos-skydeck-continuing-decades-long-design-stewardship-of-willis-tower/
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/willis-tower
     note: "No firm record yet"
   - firm: chicago-scenic-studios
     role: fabrication
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/the-skydeck-experience-at-willis-tower
     note: LED, projection, and distributed audio systems including the "Fly through Architecture" display
   - firm: palazzo-lighting-design
     role: lighting-design

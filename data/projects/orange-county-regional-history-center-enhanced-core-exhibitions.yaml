@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: monadnock-media
     role: media-design
+    sources:
+      - https://monadnock.org/project/orange-county-history-center
     note: "Media master planning, exhibit design collaboration, and technical systems design and oversight for the Sinkholes digital-mechanical interactive, the Timucua: A Rediscovered Language single-user interactive, and the First Contact narrative video"
 technologies:
   - projection mapping

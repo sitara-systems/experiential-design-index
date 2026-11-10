@@ -7,9 +7,13 @@ status: completed
 credits:
   - firm: crafted-action
     role: master-planning
+    sources:
+      - https://www.craftedaction.com/work/bgca
     note: "Experiential Master Plan"
   - firm: crafted-action
     role: exhibit-design
+    sources:
+      - https://www.craftedaction.com/work/bgca
   - firm: nelson-worldwide
     role: architecture
     note: "No firm record yet."

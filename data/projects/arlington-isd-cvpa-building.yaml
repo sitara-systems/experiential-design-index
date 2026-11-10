@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: hks
     role: architecture
+    sources:
+      - https://www.hksinc.com/what-we-do/projects/arlington-isd-center-for-visual-and-performing-arts/
 summary: >
   The Dr. Marcelo Cavazos Center for Visual and Performing Arts, a
   1,200-seat concert hall and 450-seat theater in Arlington, Texas built for

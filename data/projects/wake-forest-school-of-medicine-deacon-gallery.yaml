@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: peter-hyde-design
     role: interpretive-planning
+    sources:
+      - https://www.peterhydedesign.com/projects/deacon-gallery-wake-forest-university-school-of-medicine-2/
 summary: >
   The Deacon Gallery, a 1,500 sq ft interactive alumni gallery inside the
   Bowman Gray Center for Medical Education at Wake Forest University

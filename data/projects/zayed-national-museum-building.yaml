@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: foster-and-partners
     role: architecture
+    sources:
+      - https://www.fosterandpartners.com/projects/zayed-national-museum
   - firm: event-communications
     role: exhibit-design
     note: "no firm record yet; working with the British Museum as content partner"

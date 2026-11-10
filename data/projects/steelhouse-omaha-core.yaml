@@ -12,6 +12,8 @@ credits:
     note: "Architect of record; no firm record yet"
   - firm: fisher-dachs-associates
     role: technical-consulting
+    sources:
+      - https://www.fisherdachs.com/portfolio/steelhouse-omaha/
     note: "Theater/performance planning consultant; no firm record yet"
   - firm: threshold-acoustics
     role: acoustics

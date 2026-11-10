@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: eos-lightmedia
     role: fabrication
+    sources:
+      - https://www.eoslightmedia.com/work/94
     note: >
       Collaborated with artist Ron Terada to develop the concept, then
       provided design detailing, prototype mock-ups, fabrication, and
@@ -13,6 +15,8 @@ credits:
       Olympic & Paralympic Art Program.
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/94
 technologies:
   - LED signage (1,280 nodes)
 summary: >

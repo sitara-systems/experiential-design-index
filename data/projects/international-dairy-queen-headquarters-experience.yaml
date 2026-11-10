@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/dairy-queen-wins-global-experiential-graphic-design-award/
   - firm: greiner-construction
     role: fabrication
     note: "no firm record yet"

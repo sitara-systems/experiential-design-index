@@ -6,8 +6,12 @@ year_completed: 2005
 credits:
   - firm: formations-inc
     role: exhibit-design
+    sources:
+      - https://www.formationsinc.com/muhammed-ali
   - firm: formations-inc
     role: fabrication
+    sources:
+      - https://www.formationsinc.com/muhammed-ali
   - firm: lee-h-skolnick-architecture-and-design-partnership
     role: architecture
     note: "No firm record yet"

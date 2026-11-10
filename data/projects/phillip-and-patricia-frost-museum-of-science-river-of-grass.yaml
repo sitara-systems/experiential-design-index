@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: design-io
     role: media-design
+    sources:
+      - https://www.design-io.com/projects/riverofgrass
     note: >
       Interactive installation concept, visitor interaction, and visual
       style for the immersive Everglades environment.

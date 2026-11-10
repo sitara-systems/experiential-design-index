@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects
 technologies:
   - large-format AV
 summary: >

@@ -6,10 +6,14 @@ year_completed: 2024
 credits:
   - firm: c-and-g-partners
     role: exhibit-design
+    sources:
+      - https://www.cgpartnersllc.com/projects/the-new-jersey-hall-of-fame-entertainment-and-learning-center/
   - firm: gensler
     role: architecture
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/new-jersey-hall-of-fame
   - firm: kubik-maltbie
     role: fabrication
   - firm: available-light

@@ -6,8 +6,12 @@ year_completed: 2022
 credits:
   - firm: peter-hyde-design
     role: exhibit-design
+    sources:
+      - https://www.peterhydedesign.com/projects/rotary-international-one-rotary-center/
   - firm: peter-hyde-design
     role: interpretive-planning
+    sources:
+      - https://www.peterhydedesign.com/projects/rotary-international-one-rotary-center/
 summary: >
   Rotary International's world headquarters at One Rotary Center in
   Evanston, Illinois, added new interpretive and exhibit spaces across

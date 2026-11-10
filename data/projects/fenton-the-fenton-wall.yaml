@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: digital-ambiance
     role: lighting-design
+    sources:
+      - https://digitalambiance.com/portfolio/the-fenton-wall/
     note: >
       Design, engineering, and TouchDesigner software development for the
       permanent motion-responsive LED installation; lead artist Ansen

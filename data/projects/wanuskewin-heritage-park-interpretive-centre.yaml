@@ -6,6 +6,8 @@ year_completed: 2021
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/67
     note: >
       Contracted with exhibit design firm AldrichPears Associates to create
       the lighting, audiovisual, and control-systems design, then awarded
@@ -14,6 +16,8 @@ credits:
       interpretive-centre lighting.
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/67
 technologies:
   - concentric projection rings
   - immersive environmental audio

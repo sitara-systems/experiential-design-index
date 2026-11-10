@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: c-and-g-partners
     role: graphics-wayfinding
+    sources:
+      - https://www.cgpartnersllc.com/projects/expansion-signage-donor-recognition-program/
   - firm: ennead-architects
     role: architecture
     note: "Designed the 40,000 sq ft expansion wing"

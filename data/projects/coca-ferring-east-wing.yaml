@@ -12,9 +12,13 @@ credits:
     note: "design architect; no firm record yet"
   - firm: schuler-shook
     role: lighting-design
+    sources:
+      - https://schulershook.com/projects/center-of-creative-arts
     note: "theatre planning and lighting design for the 450-seat Berges Theatre and studio spaces"
   - firm: kirkegaard
     role: av-integration
+    sources:
+      - https://www.kirkegaard.com/center-of-creative-arts/
     note: "acoustics and audiovisual systems design (room acoustics, sound isolation, mechanical noise control); no firm record yet"
 technologies: []
 summary: >

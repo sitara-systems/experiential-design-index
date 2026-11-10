@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: moment-factory
     role: media-design
+    sources:
+      - https://momentfactory.com/products/milken-center
     note: >
       Creative direction and content production for the inaugural experience
       in the Kenneth C. Griffin Holodeck, a 360-degree walk-in theater:

@@ -6,6 +6,8 @@ year_completed: 2023
 credits:
   - firm: studio-gang
     role: architecture
+    sources:
+      - https://studiogang.com/projects/gilder-center/
     note: "Design architect; Jeanne Gang design principal"
   - firm: davis-brody-bond
     role: architecture

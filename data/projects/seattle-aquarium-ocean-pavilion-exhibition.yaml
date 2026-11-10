@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/seattle-aquarium
     note: >
       Exhibition planning and design for the Ocean Pavilion's marine
       habitats, including the Reef habitat and Coral Triangle exhibits

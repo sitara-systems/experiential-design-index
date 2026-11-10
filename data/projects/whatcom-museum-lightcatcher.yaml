@@ -6,6 +6,8 @@ year_completed: 2009
 credits:
   - firm: olson-kundig
     role: architecture
+    sources:
+      - https://olsonkundig.com/projects/lightcatcher-at-the-whatcom-museum/
 technologies: []
 summary: >
   Olson Kundig designed the Lightcatcher, a 42,000-square-foot addition to

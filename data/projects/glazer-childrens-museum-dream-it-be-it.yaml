@@ -6,6 +6,8 @@ year_completed: 2016
 credits:
   - firm: the-urban-conga
     role: exhibit-design
+    sources:
+      - https://www.theurbanconga.com/projects/dream-it-be-it
     note: "Interactive mural design/build; illustration by Sebastian Coolidge."
 technologies:
   - touch sensor sound-triggered mural

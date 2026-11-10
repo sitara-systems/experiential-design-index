@@ -6,6 +6,8 @@ year_completed: 2007
 credits:
   - firm: ashton-design
     role: graphics-wayfinding
+    sources:
+      - https://ashton-design.com/work/jhu-mason-hall-visitors-center
     note: "Branded environments, architectural signage, murals & supergraphics, donor recognition"
 summary: >
   Ashton Design designed the branded environment, architectural signage,

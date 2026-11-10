@@ -14,6 +14,8 @@ credits:
     role: exhibit-design
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://www.kubikmaltbie.com/
 technologies: []
 summary: >
   The Philip J. Currie Dinosaur Museum, Wembley, AB (building complete

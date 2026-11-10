@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: eos-lightmedia
     role: fabrication
+    sources:
+      - https://www.eoslightmedia.com/work/294
     note: >
       Collaborated with artists Nancy Chew and Jacqueline Metz on the
       concept, then provided design detailing, prototype mock-ups,
@@ -13,6 +15,8 @@ credits:
       installation.
   - firm: eos-lightmedia
     role: media-design
+    sources:
+      - https://www.eoslightmedia.com/work/294
 technologies:
   - touch-triggered interactive light and sound
 summary: >

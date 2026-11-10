@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: solomon-group
     role: fabrication
+    sources:
+      - https://solomongroup.com/projects/louisiana-nature-center
 technologies:
   - scenic fabrication
 summary: >

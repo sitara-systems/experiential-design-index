@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: cambridgeseven
     role: architecture
+    sources:
+      - https://www.cambridgeseven.com/project/wbur-cityspace/
   - firm: acentech
     role: acoustics
     note: "No firm record yet — acoustical design/engineering"

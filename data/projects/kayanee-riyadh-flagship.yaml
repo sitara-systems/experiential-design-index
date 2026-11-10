@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects/kayanee
   - firm: gensler
     role: graphics-wayfinding
+    sources:
+      - https://www.gensler.com/projects/kayanee
 technologies:
   - interactive installation
 summary: >

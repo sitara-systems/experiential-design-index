@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: thinc-design
     role: exhibit-design
+    sources:
+      - https://www.thincdesign.com/project/dance-to-belong
     note: "Exhibition planning and design, curatorial services, media design and production"
 technologies:
   - suspended projected media

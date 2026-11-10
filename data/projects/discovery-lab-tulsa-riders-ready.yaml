@@ -6,6 +6,8 @@ year_completed: 2025
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/riders-ready-the-science-of-bmx/
     note: "Interactive and media design and development, per Trivium's own project page."
 summary: >
   Trivium Interactive produced three interactive experiences, including Build A Bike, for the exhibit Riders Ready: The Science of BMX, completed in 2025, at Discovery Lab.

@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: adirondack-studios
     role: fabrication
+    sources:
+      - https://www.adkstudios.com/portfolio/
     note: >
       Credited in ADK's own portfolio; role inferred as fabrication, no
       independent role confirmation found.

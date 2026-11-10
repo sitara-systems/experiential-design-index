@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/sullivan-museum-and-history-center/
     note: "Interactive and media design and development, per Trivium's own project page."
 summary: >
   Trivium Interactive produced a multi-phased set of interactive experiences, including a redesigned display for the General Sullivan: Reflections on Service exhibit, completed in 2022, at Sullivan Museum and History Center.

@@ -6,8 +6,12 @@ year_completed: 2025
 credits:
   - firm: cambridgeseven
     role: architecture
+    sources:
+      - https://www.cambridgeseven.com/project/port-wonder-childrens-museum-and-nature-center/
   - firm: 1220-fabrication
     role: fabrication
+    sources:
+      - https://1220.com/portfolio/port-wonder/
 summary: >
   Port Wonder, a new lakefront complex in Lake Charles, LA housing the
   Children's Museum of Southwest Louisiana and the Louisiana Department of

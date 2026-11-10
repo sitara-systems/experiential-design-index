@@ -6,9 +6,13 @@ year_completed: 2023
 credits:
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/portfolio/chelan-county-energy
     note: Custom illustrated interactive touch wall covering energy and water conservation, with a Directus-based CMS
   - firm: ideum
     role: av-integration
+    sources:
+      - https://ideum.com/portfolio/chelan-county-energy
     note: Computer and AV system integrated with touch-sensor screens supplied by TSI Touch
 technologies:
   - large-format touch wall

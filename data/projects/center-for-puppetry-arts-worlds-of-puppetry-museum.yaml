@@ -9,9 +9,13 @@ credits:
     note: "Building architect of the 15,000 sq ft new wing; no firm record yet"
   - firm: tait
     role: exhibit-design
+    sources:
+      - https://www.taittowers.com/work/worlds-of-puppetry-museum
     note: "Credited as \"produced by Thinkwell, now tait\"; exhibit design of the Jim Henson Collection and Global Collection galleries"
   - firm: kubik-maltbie
     role: fabrication
+    sources:
+      - https://kubikmaltbie.com/project/center-for-puppetry-arts/
     note: "Detailing, fabrication, and installation of exhibit casework, interactives, AV hardware integration, and graphics for the 7,500 sq ft exhibit galleries"
 technologies:
   - interactive puppeteering stations

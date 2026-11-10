@@ -9,6 +9,8 @@ credits:
     note: "Artistic design and interior architecture, as LAB at Rockwell Group"
   - firm: tait
     role: fabrication
+    sources:
+      - https://www.taittowers.com/work/bristol-myers-squibb-kinetic-chandelier
     note: "Design, engineering, fabrication, and automation, incl. a new Kinesys 'Sculptor Winch' developed for the project"
 technologies:
   - kinetic sculpture

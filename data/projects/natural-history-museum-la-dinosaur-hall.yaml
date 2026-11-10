@@ -6,6 +6,8 @@ year_completed: 2011
 credits:
   - firm: evidence-design
     role: exhibit-design
+    sources:
+      - https://www.evidencedesign.com/details/dinosaur-hall/
   - firm: unified-field
     role: media-design
     note: Interactive media programs
@@ -14,6 +16,8 @@ credits:
     note: "Lexington Design & Fabrication"
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/dinosaur-hall-at-the-natural-history-museum
 technologies:
   - multi-touch interactive
   - interpretive video walls

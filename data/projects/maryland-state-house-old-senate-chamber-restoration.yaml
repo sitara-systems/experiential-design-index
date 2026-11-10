@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "Interpretive exhibit within a historic building, 40+ reproduction portraits and touch-screen AV, per CMS's own portfolio"
 technologies:
   - touch-screen AV

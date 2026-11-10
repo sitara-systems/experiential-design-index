@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/why-a-meadow/
   - firm: northwest-sign-and-design
     role: fabrication
   - firm: ggn

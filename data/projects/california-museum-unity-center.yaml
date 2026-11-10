@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: rlmg
     role: media-design
+    sources:
+      - https://www.rlmg.com/work/unity-center
     note: "Interactive experiences on California diversity and civil rights, incl. 'Proud To Be Me' shadow projection"
   - firm: bbi-engineering
     role: av-integration

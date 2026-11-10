@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
   - firm: andrew-merriell
     role: exhibit-design
+    sources:
+      - https://merriell.com/a-to-z
 summary: >
   "Denver A to Z," a permanent gallery devoted to Denver's people, places,
   and pop culture, opened November 17, 2012 at the History Colorado

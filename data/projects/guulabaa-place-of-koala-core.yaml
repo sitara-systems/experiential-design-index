@@ -6,8 +6,12 @@ year_completed: 2024
 credits:
   - firm: gensler
     role: architecture
+    sources:
+      - https://www.gensler.com/projects/guulabaa-place-of-koala
   - firm: gensler
     role: interpretive-planning
+    sources:
+      - https://www.gensler.com/projects/guulabaa-place-of-koala
 technologies: []
 summary: >
   The public visitor-experience hub — elevated timber decks, an

@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: plus-and-greater-than
     role: exhibit-design
+    sources:
+      - https://www.plusandgreaterthan.com/projects/building-stories-24d5z-gml9e-7h884-hhpxe-za4re
     note: "Retail environment design"
   - firm: skylab-architecture
     role: architecture

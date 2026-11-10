@@ -6,6 +6,8 @@ year_completed: 2014
 credits:
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "Multi-gallery exhibition on two stories, incl. an 11-foot-high 24x24 ft display case with fiber-optic lighting; competitive bid recommended by Haley Sharpe, per CMS's own portfolio"
 technologies:
   - fiber optic lighting

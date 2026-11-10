@@ -8,6 +8,8 @@ credits:
     role: architecture
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/hq-lobby-at-att-discovery-district
     note: "Complete audio, video, control systems and ICT systems"
   - firm: core-creative-labs
     role: content-production

@@ -6,6 +6,8 @@ year_completed: 2006
 credits:
   - firm: west-office
     role: exhibit-design
+    sources:
+      - https://woed.com/woprojects/oakland-museum-of-california-aftershock/
 technologies:
   - motion-simulation platform
 summary: >

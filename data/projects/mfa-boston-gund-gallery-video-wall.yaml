@@ -7,6 +7,8 @@ status: completed
 credits:
   - firm: rlmg
     role: content-production
+    sources:
+      - https://www.rlmg.com/work/gund-gallery-video-wall
     note: "16-screen video wall; 14 exhibition videos produced 2013-2019"
 technologies:
   - multi-screen video wall

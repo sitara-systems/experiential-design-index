@@ -6,6 +6,8 @@ year_completed: 2012
 credits:
 - firm: moment-factory
   role: media-design
+  sources:
+    - https://momentfactory.com/products/atlantic-city
   note: Permanent infrastructure and content for four projection-mapped light shows
 summary: Moment Factory created permanent infrastructure for four architectural-mapping
   light shows on Atlantic City's Boardwalk Hall for the Atlantic City Alliance;

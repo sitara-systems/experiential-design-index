@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
 - firm: steve-feldman-design
   role: exhibit-design
+  sources:
+    - http://www.stevefeldmandesign.com/washington-headquarters-museum-discover-history-center
   note: Master plan and all phases of exhibition design for the Discover History
     Center gallery; supervision of fabrication and installation.
 - firm: van-buren-and-associates

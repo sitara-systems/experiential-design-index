@@ -6,9 +6,13 @@ year_completed: 2021
 credits:
   - firm: dimensional-innovations
     role: master-planning
+    sources:
+      - https://www.dimin.com
     note: Master facility planning across multiple athletics buildings.
   - firm: dimensional-innovations
     role: graphics-wayfinding
+    sources:
+      - https://www.dimin.com
     note: Environmental design and branding for athlete facilities.
 technologies: []
 summary: >

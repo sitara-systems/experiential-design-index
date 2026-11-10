@@ -6,8 +6,12 @@ year_completed: 2017
 credits:
   - firm: belle-and-wissell
     role: exhibit-design
+    sources:
+      - https://bwco.info/work/whywar/
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/whywar/
   - firm: pacific-studio
     role: fabrication
 summary: >

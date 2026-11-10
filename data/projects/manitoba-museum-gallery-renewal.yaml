@@ -6,8 +6,14 @@ year_completed: 2019
 credits:
   - firm: aldrichpears-associates
     role: exhibit-design
+    sources:
+      - https://aldrichpears.com/project/prairie-gallery/
+      - https://aldrichpears.com/project/nonsuch-gallery/
+      - https://aldrichpears.com/project/winnipeg-gallery/
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/53
     note: "Worked on every aspect of the lighting scope from schematic design through installation and theatrical programming"
 technologies: []
 summary: >

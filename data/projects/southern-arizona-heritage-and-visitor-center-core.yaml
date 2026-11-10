@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
 - firm: design-and-production-incorporated
   role: fabrication
+  sources:
+    - https://www.d-and-p.com/blog/2020/12/18/dandp-overcomes-covid-challenges-to-open-four-new-exhibits-in-2020
   note: Completed the exhibits for the 9,000-square-foot center, per D&P's year-end
     project report.
 technologies:

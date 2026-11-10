@@ -6,6 +6,8 @@ year_completed: 2011
 credits:
   - firm: beyer-blinder-belle
     role: architecture
+    sources:
+      - https://www.beyerblinderbelle.com/work/view/bldg-92-brooklyn-navy-yard/
   - firm: workshop-apd
     role: architecture
     note: "Collaborating architect; no firm record yet"

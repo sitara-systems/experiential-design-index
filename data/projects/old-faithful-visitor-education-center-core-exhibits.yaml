@@ -6,6 +6,8 @@ year_completed: 2010
 credits:
   - firm: bbi-engineering
     role: av-integration
+    sources:
+      - https://bbinet.com/works/yellowstone-national-park-visitor-centers/
     note: >
       AV systems for the visitor education center incl. an earthquake
       monitor, interactive map kiosks, and a surround-sound theater

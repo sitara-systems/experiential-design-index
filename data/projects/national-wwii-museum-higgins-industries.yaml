@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: ideum
     role: media-design
+    sources:
+      - https://ideum.com/
 technologies: []
 summary: >
   "Bayou to Battlefield: Higgins Industries During WWII," an exhibition

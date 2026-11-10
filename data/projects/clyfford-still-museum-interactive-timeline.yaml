@@ -6,6 +6,8 @@ year_completed: 2011
 credits:
   - firm: belle-and-wissell
     role: media-design
+    sources:
+      - https://bwco.info/work/still-interactive-timeline/
   - firm: allied-works-architecture
     role: architecture
     note: "Brad Cloepfil; no firm record yet"

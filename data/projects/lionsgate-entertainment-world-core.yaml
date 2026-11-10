@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: tait
     role: fabrication
+    sources:
+      - https://www.taittowers.com/work/lionsgate-entertainment-world
 technology_tags:
   - immersive-environment
 summary: >

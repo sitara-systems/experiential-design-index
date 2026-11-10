@@ -9,6 +9,8 @@ credits:
     note: "No firm record yet"
   - firm: art-guild-inc
     role: fabrication
+    sources:
+      - https://www.artguildinc.com/2018/06/04/art-guild-iwall-showcases-new-exhibit-at-sea-air-and-space-museum/
 technologies:
   - interactive sliding-track touchscreen
 summary: >

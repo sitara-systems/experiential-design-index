@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/pathways-to-equality/
     note: "Interactive and media design and development, per Trivium's own project page."
 summary: >
   Trivium Interactive produced an interactive exploring how descendants of the early families at the Robbins House forged their own paths toward independence, completed in 2017, at The Robbins House.

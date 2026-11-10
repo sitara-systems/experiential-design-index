@@ -7,6 +7,9 @@ year_expected: 2028
 credits:
   - firm: dlr-group
     role: architecture
+    sources:
+      - https://www.dlrgroup.com/work/museum-of-science-history/
+      - https://www.dlrgroup.com/firm-news/mosh-renderings-revealed/
     note: "Design partnership with kasper architects + associates; specific scope division between the two firms not stated in public sources"
   - firm: kasper-architects-and-associates
     role: architecture

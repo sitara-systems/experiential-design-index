@@ -12,6 +12,8 @@ credits:
     note: "Interactive media design for Encounters."
   - firm: electrosonic
     role: av-integration
+    sources:
+      - https://www.electrosonic.com/projects/national-world-war-i-museum-and-memorial-encounters
     note: "AV design, engineering, and systems integration across theaters, galleries, and Encounters"
   - firm: technical-artistry
     role: lighting-design

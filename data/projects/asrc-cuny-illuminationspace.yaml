@@ -6,6 +6,8 @@ year_completed: 2018
 credits:
   - firm: chicago-scenic-studios
     role: fabrication
+    sources:
+      - https://www.chicagoscenic.com/projects/advanced-science-research-center-city-university-nyc
     note: "Fabrication of custom exhibit elements, AV/lighting/graphics installation, acoustical panels"
   - firm: liberty-science-center
     role: exhibit-design

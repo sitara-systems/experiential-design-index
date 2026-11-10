@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: renfro-design-group
     role: lighting-design
+    sources:
+      - https://www.renfrodesign.com/
     note: "No firm record yet"
 technologies: []
 summary: >

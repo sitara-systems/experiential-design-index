@@ -6,6 +6,8 @@ year_completed: 2004
 credits:
   - firm: hga
     role: architecture
+    sources:
+      - https://hga.com/projects/rochester-art-center/
 technologies: []
 summary: >
   The 36,000 sq ft Rochester Art Center building in Rochester, Minnesota,

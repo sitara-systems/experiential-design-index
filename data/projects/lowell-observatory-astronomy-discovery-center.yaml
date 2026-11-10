@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: kei-space-design
     role: exhibit-design
+    sources:
+      - https://keispace.com/projects/lowell/
     note: "Lead exhibition designer; no firm record yet"
   - firm: trivium-interactive
     role: media-design

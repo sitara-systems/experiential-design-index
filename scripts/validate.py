@@ -247,6 +247,17 @@ def validate_projects(projects, firms, venues, vocab, findings):
                 findings.append(Finding("error", rel, "credits", "credit missing 'role'"))
             elif crole not in vocab["roles"]:
                 findings.append(Finding("error", rel, "credits", f"'{crole}' is not in vocabularies.yaml roles"))
+            csrcs = c.get("sources")
+            if csrcs is not None:
+                if not isinstance(csrcs, list):
+                    findings.append(Finding("error", rel, "credits", f"credit sources ({cfirm}) must be a list of urls"))
+                else:
+                    proj_srcs = set(rec.get("sources") or [])
+                    for s in csrcs:
+                        if not isinstance(s, str) or not s.startswith(("http://", "https://")):
+                            findings.append(Finding("error", rel, "credits", f"credit source '{s}' ({cfirm}) is not a url"))
+                        elif s not in proj_srcs:
+                            findings.append(Finding("error", rel, "credits", f"credit source '{s}' ({cfirm}) must also appear in the project's sources"))
             for ct in c.get("technology_tags") or []:
                 if ct not in vocab["technology_tags"]:
                     findings.append(Finding("error", rel, "credits", f"credit technology_tag '{ct}' is not in vocabularies.yaml technology_tags"))

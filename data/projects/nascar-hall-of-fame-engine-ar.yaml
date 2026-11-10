@@ -6,6 +6,8 @@ year_completed: 2020
 credits:
   - firm: cortina-productions
     role: media-design
+    sources:
+      - https://www.cortinaproductions.com/ar-2020-muse-award/
     note: >
       Tablet-based (iPad Air) augmented reality experience overlaying a
       real Ford FR9 EFI V8 engine on display in the "Inside NASCAR" exhibit;

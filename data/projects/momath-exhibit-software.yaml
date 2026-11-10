@@ -6,6 +6,8 @@ year_completed: 2026
 credits:
   - firm: sitara-systems
     role: media-design
+    sources:
+      - https://www.sitara.systems/momath-exhibit-software/
     note: >
       Exhibit software for four interactive installations in a new
       gallery — Formula Fun, Face Value, Global Golf, and Open Book —

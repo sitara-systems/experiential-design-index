@@ -6,10 +6,14 @@ year_completed: 2023
 credits:
 - firm: gyroscope-inc
   role: exhibit-design
+  sources:
+    - https://www.gyroscopeinc.com/ffec
   note: Exhibit designer per BPI and Gyroscope project pages; museum planning and
     exhibit design.
 - firm: boston-productions-inc
   role: media-design
+  sources:
+    - https://bostonproductions.com/portfolio/ffec/
   note: Created the media experiences on Wisconsin agriculture.
 summary: The Food + Farm Exploration Center in Plover, Wisconsin, an agriculture
   education center, opened to the public on December 2, 2023, with exhibit design

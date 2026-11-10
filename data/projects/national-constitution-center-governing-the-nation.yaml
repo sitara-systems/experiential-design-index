@@ -6,9 +6,13 @@ year_completed: 2026
 credits:
   - firm: luci-creative
     role: exhibit-design
+    sources:
+      - https://www.lucicreative.com/projects/national-constitution-center
     note: "Per the firm page, Luci designed both new galleries; collaborators named there include Becker & Frondorf, Hadley Exhibits, Trivium Interactives and Two Left Hands (roles not specified)."
   - firm: trivium-interactive
     role: media-design
+    sources:
+      - https://www.triviuminteractive.com/project/governing-the-nation/
     note: "Interactive and media design and development, per Trivium's own project page."
 technologies: []
 summary: >

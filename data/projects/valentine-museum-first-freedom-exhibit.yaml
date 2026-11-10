@@ -8,6 +8,8 @@ credits:
     role: exhibit-design
   - firm: capitol-museum-services
     role: fabrication
+    sources:
+      - https://capitolmuseumservices.com/portfolio/museums/
     note: "2,200 sq ft exhibition centered on a Four Pillars of Freedom display, per CMS's own portfolio"
 technologies: []
 summary: >

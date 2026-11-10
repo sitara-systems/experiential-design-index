@@ -6,12 +6,18 @@ year_completed: 2008
 credits:
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/70
     note: Automated lighting fixtures programmed to illuminate the building exterior in dynamic colors and patterns.
   - firm: eos-lightmedia
     role: media-design
+    sources:
+      - https://www.eoslightmedia.com/work/70
     note: Custom software allowing passersby to digitally "paint" on the hotel facade via a touchscreen kiosk.
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/70
     note: Touchscreen interface, projection, and video-scaling systems for the interactive facade.
 technologies:
   - interactive touchscreen

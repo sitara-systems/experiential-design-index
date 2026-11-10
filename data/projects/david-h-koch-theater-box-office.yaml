@@ -6,10 +6,14 @@ year_completed: 2009
 credits:
   - firm: diller-scofidio-renfro
     role: architecture
+    sources:
+      - https://dsrny.com/project/david-h-koch-theater-box-office
   - firm: tillotson-design-associates
     role: lighting-design
   - firm: two-twelve
     role: graphics-wayfinding
+    sources:
+      - https://www.twotwelve.com/project/david-h-koch-theater-at-lincoln-center
     note: "No firm record yet"
 technologies: []
 summary: >

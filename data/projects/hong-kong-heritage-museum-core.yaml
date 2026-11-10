@@ -6,6 +6,8 @@ year_completed: 2000
 credits:
   - firm: reich-petch
     role: exhibit-design
+    sources:
+      - https://designrp.com
 summary: >
   Hong Kong Heritage Museum in Hong Kong opened 2000, with exhibition
   design by Reich+Petch.

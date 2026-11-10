@@ -6,6 +6,8 @@ year_completed: 2022
 credits:
   - firm: bluecadet
     role: media-design
+    sources:
+      - https://www.bluecadet.com/work/flow
     note: >
       Room-scale interactive projection installation at the entry to the
       Center for Netherlandish Art galleries; camera-sensing reveals layered

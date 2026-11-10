@@ -6,6 +6,8 @@ year_completed: 2019
 credits:
   - firm: brc-imagination-arts
     role: content-production
+    sources:
+      - https://www.brcweb.com/project/the-circle-room-at-the-grand-ole-opry/
     note: >
       Conceived, designed, and produced the Circle Room and Lobby
       experiences and the 11-minute immersive film hosted by Garth Brooks

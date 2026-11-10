@@ -12,6 +12,8 @@ credits:
     note: "No firm record yet; Seattle-based exhibit design"
   - firm: hadley-exhibits
     role: interpretive-planning
+    sources:
+      - https://hadleyexhibits.com/buffalo-zoo-rainforest-falls/
     note: Designed the interpretive components with the zoo's art director and curator of education
 technologies:
   - ETFE inflated membrane roof

@@ -7,6 +7,8 @@ year_expected: 2027
 credits:
   - firm: studio-joseph
     role: architecture
+    sources:
+      - https://studiojoseph.com/work/canarsie-branch
   - firm: sm-w
     role: av-integration
     note: "Shen Milsom & Wilke; AV/IT consulting. No firm record yet"

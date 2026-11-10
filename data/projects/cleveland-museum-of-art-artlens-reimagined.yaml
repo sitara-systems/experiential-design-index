@@ -28,12 +28,16 @@ credits:
     note: "AV integration, per CMA's exhibition page."
   - firm: sitara-systems
     role: technical-consulting
+    sources:
+      - https://www.sitara.systems/cleveland-artlens/
     note: >
       Systems architecture: an AI-interpretation governance/approval
       framework, cross-platform data model, and 5-10 year lifecycle plan,
       per Sitara's own account of a scoping phase that preceded the build.
   - firm: sitara-systems
     role: media-design
+    sources:
+      - https://www.sitara.systems/cleveland-artlens/
     technology_tags:
       - artificial-intelligence
     note: >

@@ -7,6 +7,8 @@ status: completed
 credits:
   - firm: mad-systems
     role: av-integration
+    sources:
+      - https://madsystems.com/portfolio-taiji-terasaki.html
     note: "AV infrastructure for the mist-projection installation"
 technologies:
   - mist projection

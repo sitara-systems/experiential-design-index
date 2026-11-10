@@ -6,6 +6,8 @@ year_completed: 2015
 credits:
   - firm: studio-matthews
     role: graphics-wayfinding
+    sources:
+      - https://studiomatthews.com/project/tacoma-art-museum/
     note: "architecture by Olson Kundig"
 recognition:
   - award: "SEGD Global Design Awards — Merit Award, Wayfinding"

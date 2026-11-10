@@ -6,6 +6,8 @@ year_completed: 2006
 credits:
 - firm: diller-scofidio-renfro
   role: architecture
+  sources:
+    - https://dsrny.com/project/institute-of-contemporary-art
 summary: Diller Scofidio + Renfro's Institute of Contemporary Art/Boston, listed
   on the firm's project index as 2006, was the first museum built in Boston in a
   century.

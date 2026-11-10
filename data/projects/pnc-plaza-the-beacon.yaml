@@ -9,6 +9,8 @@ credits:
     note: "Design of the 30-foot data sculpture"
   - firm: av-c
     role: technical-consulting
+    sources:
+      - https://www.av-controls.com/pnc-tower
     note: "Technical and design consulting"
 technologies:
   - data visualization

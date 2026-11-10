@@ -6,8 +6,12 @@ year_completed: 2023
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/new-york-now-home
   - firm: isometric-studio
     role: architecture
+    sources:
+      - https://isometricstudio.com/new-york-now-home
 technologies:
   - supergraphic screens (JFK Terminal 4 outpost)
 summary: >

@@ -6,6 +6,8 @@ year_completed: 2017
 credits:
 - firm: bnim
   role: architecture
+  sources:
+    - https://www.bnim.com/projects/the-bloch-galleries/
   note: Interior architecture of the gallery spaces
 summary: The Bloch Galleries at the Nelson-Atkins Museum of Art in Kansas City (8,350
   SF galleries), completed 2017 with architecture by BNIM.

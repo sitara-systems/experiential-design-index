@@ -6,14 +6,29 @@ year_completed: 2022
 credits:
   - firm: pgav-destinations
     role: exhibit-design
+    sources:
+      - https://pgavdestinations.com/project/the-commons-national-air-and-space-museum/
+      - https://pgavdestinations.com/news/smithsonian2018/
   - firm: pgav-destinations
     role: interpretive-planning
+    sources:
+      - https://pgavdestinations.com/project/the-commons-national-air-and-space-museum/
+      - https://pgavdestinations.com/news/smithsonian2018/
   - firm: pgav-destinations
     role: graphics-wayfinding
+    sources:
+      - https://pgavdestinations.com/project/the-commons-national-air-and-space-museum/
+      - https://pgavdestinations.com/news/smithsonian2018/
   - firm: pgav-destinations
     role: media-design
+    sources:
+      - https://pgavdestinations.com/project/the-commons-national-air-and-space-museum/
+      - https://pgavdestinations.com/news/smithsonian2018/
   - firm: refik-anadol-studio
     role: media-design
+    sources:
+      - https://pgavdestinations.com/project/the-commons-national-air-and-space-museum/
+      - https://pgavdestinations.com/news/smithsonian2018/
     technology_tags:
       - artificial-intelligence
     note: >

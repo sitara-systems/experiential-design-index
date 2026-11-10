@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: dimensional-innovations
     role: graphics-wayfinding
+    sources:
+      - https://dimin.com/
     note: "Signage, wayfinding, sponsorship activation, and brand graphics"
   - firm: generator-studio
     role: graphics-wayfinding

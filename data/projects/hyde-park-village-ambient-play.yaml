@@ -7,6 +7,8 @@ status: completed
 credits:
   - firm: the-urban-conga
     role: exhibit-design
+    sources:
+      - https://www.theurbanconga.com/projects/ambient-play
 technologies:
   - conductive-paint touch sensors
 technology_tags:

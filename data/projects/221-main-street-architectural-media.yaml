@@ -6,9 +6,13 @@ year_completed: 2020
 credits:
   - firm: esi-design
     role: media-design
+    sources:
+      - https://esidesign.com/work/221-main-street-san-francisco/
     note: "Experience design lead; 126-foot digital display from facade to lobby"
   - firm: av-c
     role: media-design
+    sources:
+      - https://www.av-controls.com/221-main-architectural-media
     note: "Custom software for media playback and generative content"
 technologies:
   - LED display

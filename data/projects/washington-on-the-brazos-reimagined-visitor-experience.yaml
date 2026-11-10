@@ -9,8 +9,12 @@ credits:
   note: No firm record yet
 - firm: gallagher-and-associates
   role: exhibit-design
+  sources:
+    - https://gallagherdesign.com/project/brazos/
 - firm: gallagher-and-associates
   role: interpretive-planning
+  sources:
+    - https://gallagherdesign.com/project/brazos/
 - firm: design-and-production-incorporated
   role: fabrication
 summary: >

@@ -8,11 +8,17 @@ credits:
     role: architecture
   - firm: hilferty-and-associates
     role: exhibit-design
+    sources:
+      - https://www.hilferty.com/national-historic-trails-interpretive-center
   - firm: boston-productions-inc
     role: media-design
+    sources:
+      - https://bostonproductions.com/portfolio/historic-trails/
     note: "\"Footsteps to the West\" five-screen theater, motion-simulator experiences"
   - firm: boston-productions-inc
     role: av-integration
+    sources:
+      - https://bostonproductions.com/portfolio/historic-trails/
 technologies:
   - motion simulator
   - multi-screen theater

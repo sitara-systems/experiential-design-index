@@ -9,8 +9,12 @@ credits:
     note: "London-based."
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://www.eoslightmedia.com/work/98
   - firm: eos-lightmedia
     role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/98
 technologies: []
 summary: >
   A public art sculpture at Surrey City Hall in Surrey, British

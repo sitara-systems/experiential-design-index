@@ -6,8 +6,12 @@ year_completed: 2021
 credits:
   - firm: isometric-studio
     role: exhibit-design
+    sources:
+      - https://isometricstudio.com/rose-art-museum
   - firm: isometric-studio
     role: architecture
+    sources:
+      - https://isometricstudio.com/rose-art-museum
 technologies:
   - dichroic vinyl facade installation
 summary: >

@@ -6,6 +6,8 @@ year_completed: 2024
 credits:
   - firm: cambridgeseven
     role: exhibit-design
+    sources:
+      - https://www.cambridgeseven.com/project/boston-bruins-heritage-hall-at-td-garden/
   - firm: cortina-productions
     role: media-design
     note: "Produced fifteen digital exhibits for Heritage Hall"
