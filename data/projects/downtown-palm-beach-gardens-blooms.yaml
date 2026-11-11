@@ -1,6 +1,6 @@
-id: downtown-west-palm-beach-blooms
+id: downtown-palm-beach-gardens-blooms
 name: Blooms
-venue: downtown-west-palm-beach-public-art
+venue: downtown-palm-beach-gardens-public-art
 project_type: installation
 year_completed: 2021
 credits:
@@ -22,9 +22,9 @@ technology_tags:
 summary: >
   Blooms, six large-scale stainless-steel dandelion sculptures over 15 feet
   tall with integrated, motion-responsive lighting, was installed in
-  downtown West Palm Beach, Florida in 2021, with lighting design,
-  programming, and controls by Eos Lightmedia; the sculptures themselves
-  were fabricated by DSIV Studios.
+  downtown Palm Beach Gardens, Florida in 2021, with lighting design,
+  programming, and controls by Eos Lightmedia; the sculptures are by DSIV
+  Studios.
 description: >
   Each sculpture is fabricated from marine-grade stainless steel and
   integrates industrial-rated lighting emanating from the center of the
@@ -32,3 +32,13 @@ description: >
   2022 LIT Design Award (Light Art Project).
 sources:
   - https://www.eoslightmedia.com/work/120
+  - https://wptv.com/lifestyle/taste-and-see/dandelion-blooms-installed-at-downtown-palm-beach-gardens
+  - https://stainless-steel-world.net/?p=279056
+_comments: >
+  Location corrected from West Palm Beach to Palm Beach Gardens (Art in Public
+  Places): the city's Signature City magazine, WPTV and Stainless Steel World
+  place the installation there, while Eos's page says West Palm Beach.
+  Stainless Steel World names Vector Custom Fabricating (Chicago) as
+  fabricator, which conflicts with the earlier DSIV fabrication claim, so the
+  summary no longer asserts a fabricator. Eos's lighting-design credit rests
+  on Eos's own page only.

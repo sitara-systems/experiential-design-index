@@ -13,7 +13,14 @@ credits:
     role: media-design
     note: "Role inferred by pattern; individual role split not specified by the source"
   - firm: eos-lightmedia
-    role: lighting-design
+    role: av-integration
+    sources:
+      - https://www.eoslightmedia.com/work/154
+    note: >
+      Exhibit lighting focus and control programming, audiovisual systems
+      and interactive software for the Atrium, Astro Gallery, Children's
+      Gallery and Presentation Area, in collaboration with Kei Space Design,
+      per Eos Lightmedia's own project page.
   - firm: bbi-engineering
     role: av-integration
     note: "Credited as BBI Net"
@@ -24,9 +31,17 @@ technologies: []
 summary: >
   The Astronomy Discovery Center at Lowell Observatory, Flagstaff, AZ,
   opened November 16, 2024; exhibition design led by Kei Space Design
-  with Trivium Interactive, lighting by Eos Lightmedia, AV by BBI
-  Engineering, fabrication by Chicago Scenic Studios, architecture by
+  with Trivium Interactive, lighting and AV integration by Eos
+  Lightmedia, AV by BBI Engineering, fabrication by Chicago Scenic Studios, architecture by
   JWA Architects.
 description: ""
 sources:
   - https://keispace.com/projects/lowell/
+  - https://www.eoslightmedia.com/work/154
+_comments: >
+  Merged with the former lowell-observatory-dark-sky-planetarium record: both
+  described the same 2024 Flagstaff project (the Dark Sky Planetarium is part
+  of the Astronomy Discovery Center per Attractions Management, and Eos's
+  single project page covers both). Eos's design credit was removed because
+  its own page describes lighting focus, programming and integration only and
+  no outside source credits it with the lighting design.
