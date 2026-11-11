@@ -20,6 +20,8 @@ credits:
     note: "no firm record yet"
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://cortinaproductions.com/projects/san-francisco-49ers-museum/
 technologies:
   - interactive touchscreens
   - VR simulation
@@ -33,3 +35,4 @@ description: ""
 sources:
   - https://www.cambridgeseven.com/project/san-francisco-49ers-museum/
   - https://www.cortinaproductions.com/projects/san-francisco-49ers-museum/
+  - https://cortinaproductions.com/projects/san-francisco-49ers-museum/

@@ -20,7 +20,11 @@ credits:
   - firm: electrosonic
     role: av-integration
   - firm: eos-lightmedia
-    role: lighting-design
+    role: av-integration
+    sources:
+      - https://segd.org/projects/top-of-the-rock/
+      - https://thgcreative.com/thg-top-of-the-rock/
+    note: "Lighting integration, per SEGD and THG Creative."
   - firm: disguise
     role: av-integration
     note: >
@@ -40,7 +44,15 @@ credits:
     role: fabrication
   - firm: visual-terrain
     role: lighting-design
-    note: "Second lighting-design firm alongside Eos Lightmedia; no firm record yet"
+    sources:
+      - https://segd.org/projects/top-of-the-rock/
+      - https://thgcreative.com/thg-top-of-the-rock/
+    note: "Lighting designer for the mezzanine and elevators, per SEGD and THG Creative."
+  - firm: david-finn-design
+    role: lighting-design
+    sources:
+      - https://segd.org/projects/top-of-the-rock/
+    note: "Lighting designer for the skylift and elevators, per SEGD."
 technologies:
   - projection mapping
   - media server show control

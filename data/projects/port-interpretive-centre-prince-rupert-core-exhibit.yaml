@@ -5,11 +5,6 @@ project_type: new-exhibition
 year_completed: 2011
 credits:
   - firm: eos-lightmedia
-    role: lighting-design
-    sources:
-      - https://www.eoslightmedia.com/work/39
-    note: Also provided the AV system and the interactive control programming for a 12-foot-diameter touch table.
-  - firm: eos-lightmedia
     role: av-integration
     sources:
       - https://www.eoslightmedia.com/work/39

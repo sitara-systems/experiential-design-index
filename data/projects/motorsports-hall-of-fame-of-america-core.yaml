@@ -12,6 +12,8 @@ credits:
     role: av-integration
   - firm: eos-lightmedia
     role: lighting-design
+    sources:
+      - https://blooloop.com/museum/news/motorsports-hall-fame-jra/
     note: "Credited as Abernathy Lighting Design, an Eos Lightmedia studio"
 technologies: []
 summary: >
@@ -23,3 +25,4 @@ summary: >
 description: ""
 sources:
   - https://blooloop.com/
+  - https://blooloop.com/museum/news/motorsports-hall-fame-jra/
